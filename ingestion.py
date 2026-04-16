@@ -5,17 +5,39 @@
 # ──────────────────────────────────────────────────────────────────────────────
 
 import time
-
+import requests
 import pandas as pd
 from nba_api.stats.endpoints import (
     LeagueGameLog,
     LeagueLeaders,
     LeagueDashPlayerStats,
 )
-
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s | %(levelname)s | %(message)s'
+)
 import config
 import helpers
 
+def _call_endpoint(endpoint_cls, **kwargs):
+    last_err = None
+    for attempt in range(1, config.REQUEST_RETRIES + 1):
+        try:
+            endpoint = endpoint_cls(
+                headers=config.NBA_HEADERS,
+                timeout=config.REQUEST_TIMEOUT,
+                **kwargs,
+            )
+            return endpoint.get_data_frames()[0]
+        except requests.exceptions.RequestException as e:
+            last_err = e
+            wait = min(5 * attempt, 20)
+            logging.warning(f"  ⚠️ Request failed (attempt {attempt}/{config.REQUEST_RETRIES}): {e}")
+            if attempt < config.REQUEST_RETRIES:
+                logging.info(f"  ↻ Retrying in {wait}s...")
+                time.sleep(wait)
+    raise last_err
 
 def fetch_game_logs_and_leaders(seasons=None, pause=None):
     """
@@ -33,28 +55,30 @@ def fetch_game_logs_and_leaders(seasons=None, pause=None):
     all_leaders   = []
 
     for season in seasons:
-        print(f'\n📥 Fetching season {season}...')
+        logging.info(f'\nFetching season {season}...')
 
         # Game logs
-        gl = LeagueGameLog(
+        gl = _call_endpoint(
+            LeagueGameLog,
             season=season,
             league_id=config.WNBA_LEAGUE_ID,
             player_or_team_abbreviation='P',
-        ).get_data_frames()[0]
+        )
         gl['SEASON'] = season
         all_game_logs.append(gl)
-        print(f'  ✅ Game logs   — {len(gl):,} rows')
+        logging.info(f'  Game logs   — {len(gl):,} rows')
 
         time.sleep(pause)
 
         # League leaders
-        ll = LeagueLeaders(
+        ll = _call_endpoint(
+            LeagueLeaders,
             season=season,
             league_id=config.WNBA_LEAGUE_ID,
-        ).get_data_frames()[0]
+        )
         ll['SEASON'] = season
         all_leaders.append(ll)
-        print(f'  ✅ Leaders     — {len(ll):,} rows')
+        logging.info(f'  Leaders     — {len(ll):,} rows')
 
         time.sleep(pause)
 
@@ -67,7 +91,7 @@ def fetch_game_logs_and_leaders(seasons=None, pause=None):
     helpers.save_csv(df_game_logs, config.RAW_DIR, 'game_logs_2018_2024.csv',    'Game logs (all seasons)')
     helpers.save_csv(df_leaders,   config.RAW_DIR, 'league_leaders_2018_2024.csv', 'Leaders (all seasons)')
 
-    print(f'\n📊 Total game log rows: {len(df_game_logs):,}')
+    logging.info(f'\nTotal game log rows: {len(df_game_logs):,}')
     return df_game_logs, df_leaders
 
 
@@ -85,16 +109,17 @@ def fetch_player_season_stats(seasons=None, pause=None):
 
     all_stats = []
 
-    print('\n📥 Fetching player season stats (all seasons)...')
+    logging.info('\nFetching player season stats (all seasons)...')
     for season in seasons:
-        print(f'\n  📅 Season {season}...')
-        stats = LeagueDashPlayerStats(
+        logging.info(f'\n📅 Season {season}...')
+        stats = _call_endpoint(
+            LeagueDashPlayerStats,
             season=season,
             league_id_nullable=config.WNBA_LEAGUE_ID,
-        ).get_data_frames()[0]
+        )
         stats['SEASON'] = season
         all_stats.append(stats)
-        print(f'  ✅ {len(stats):,} player-season rows')
+        logging.info(f'  {len(stats):,} player-season rows')
         time.sleep(pause)
 
     df_stats = pd.concat(all_stats, ignore_index=True)
@@ -111,11 +136,11 @@ def fetch_player_season_stats(seasons=None, pause=None):
     df_rosters = df_stats[roster_cols].drop_duplicates().reset_index(drop=True)
 
     for abbr, grp in df_rosters.groupby('TEAM_ABBREVIATION'):
-        print(f'  ✅ {abbr:<5} {len(grp):,} player-season records')
+        logging.info(f'  {abbr:<5} {len(grp):,} player-season records')
 
     helpers.save_csv(df_rosters, config.RAW_DIR, 'rosters_2018_2024.csv', 'All rosters combined')
 
-    print(f'\n✅ Stage 1 complete — Unique player-season records: {len(df_rosters):,}')
+    logging.info(f'\n Stage 1 complete — Unique player-season records: {len(df_rosters):,}')
     return df_stats, df_rosters
 
 

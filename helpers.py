@@ -8,7 +8,11 @@ import io
 import os
 
 import pandas as pd
-
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s | %(levelname)s | %(message)s'
+)
 import config
 
 
@@ -18,7 +22,7 @@ def ensure_local_dirs():
     """Create all local output directories if they don't exist."""
     for d in config.LOCAL_DIRS:
         os.makedirs(d, exist_ok=True)
-    print('📁 Local directory structure ready.')
+    logging.info('Local directory structure ready.')
 
 
 # ── S3 client (lazy-loaded) ───────────────────────────────────────────────────
@@ -88,7 +92,7 @@ def save_csv(df: pd.DataFrame, folder: str, filename: str, label: str = '') -> s
         location = local_path
 
     tag = label or filename
-    print(f'  ✅ {tag:<45} {len(df):>6,} rows  →  {location}')
+    logging.info(f'  {tag:<45} {len(df):>6,} rows  →  {location}')
     return location
 
 
@@ -118,7 +122,7 @@ def save_parquet(df: pd.DataFrame, folder: str, filename: str, label: str = '') 
         location = local_path
 
     tag = label or filename
-    print(f'  ✅ {tag:<45} {len(df):>6,} rows  →  {location}')
+    logging.info(f'  {tag:<45} {len(df):>6,} rows  →  {location}')
     return location
 
 
@@ -147,7 +151,7 @@ def save_chart(fig, folder: str, filename: str) -> str:
     else:
         location = local_path
 
-    print(f'  📊 {filename}  →  {location}')
+    logging.info(f'  {filename}  →  {location}')
     return location
 
 
@@ -168,8 +172,8 @@ def season_slice(df: pd.DataFrame, season: str, column: str = 'SEASON') -> pd.Da
 
 
 def require_rows(df: pd.DataFrame, label: str):
-    """Print a warning if a DataFrame is unexpectedly empty."""
+    """record a warning if a DataFrame is unexpectedly empty."""
     if df.empty:
-        print(f'⚠️  {label} is empty — check upstream fetch.')
+        logging.warning(f'⚠️  {label} is empty — check upstream fetch.')
     else:
-        print(f'✅ {label}: {len(df):,} rows')
+        logging.info(f'✅ {label}: {len(df):,} rows')

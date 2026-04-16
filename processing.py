@@ -4,7 +4,11 @@
 # ──────────────────────────────────────────────────────────────────────────────
 
 import pandas as pd
-
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s | %(levelname)s | %(message)s'
+)
 import config
 import helpers
 
@@ -13,12 +17,12 @@ import helpers
 
 def store_parquet(df_game_logs, df_leaders, df_player_season_stats, df_rosters):
     """Write raw DataFrames to Parquet for efficient downstream reads."""
-    print('\n💾 Stage 2 — Writing Parquet files...')
+    logging.info('\nStage 2 — Writing Parquet files...')
     helpers.save_parquet(df_game_logs,          config.PROCESSED_DIR, 'game_logs_2018_2024.parquet',          'Game logs (raw)')
     helpers.save_parquet(df_leaders,            config.PROCESSED_DIR, 'league_leaders_2018_2024.parquet',     'League leaders (raw)')
     helpers.save_parquet(df_player_season_stats,config.PROCESSED_DIR, 'player_season_stats_2018_2024.parquet','Player season stats (raw)')
     helpers.save_parquet(df_rosters,            config.PROCESSED_DIR, 'rosters_2018_2024.parquet',            'Rosters (raw)')
-    print('✅ Stage 2 complete.\n')
+    logging.info('Stage 2 complete.\n')
 
 
 # ── Stage 3: clean & aggregate ────────────────────────────────────────────────
@@ -148,13 +152,13 @@ def run(df_game_logs, df_leaders, df_player_season_stats, df_rosters):
     """
     store_parquet(df_game_logs, df_leaders, df_player_season_stats, df_rosters)
 
-    print('🔧 Stage 3 — Cleaning & aggregating...')
+    logging.info('Stage 3 — Cleaning & aggregating...')
     df_clean        = clean_game_logs(df_game_logs)
     df_player_stats = build_player_stats(df_clean)
     df_team_stats   = build_team_stats(df_clean)
     df_monthly      = build_monthly_scoring(df_clean)
     df_top_perf     = build_top_performances(df_clean)
-    print('✅ Stage 3 complete.\n')
+    logging.info('Stage 3 complete.\n')
 
     return {
         'clean_logs':    df_clean,

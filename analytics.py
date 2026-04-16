@@ -5,11 +5,14 @@
 # ──────────────────────────────────────────────────────────────────────────────
 
 import warnings
-
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mtick
 import seaborn as sns
-
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s | %(levelname)s | %(message)s'
+)
 import config
 import helpers
 
@@ -43,7 +46,7 @@ def chart_team_win_vs_scoring(df_team_stats, season=None):
     season = season or config.TARGET_SEASON
     df = _season_team(df_team_stats, season)
     if df.empty:
-        print(f'⚠️  No team stats for {season}')
+        logging.warning(f'⚠️  No team stats for {season}')
         return
 
     fig, ax = plt.subplots(figsize=(10, 6))
@@ -87,7 +90,7 @@ def chart_monthly_scoring_heatmap(df_monthly, season=None):
     season = season or config.TARGET_SEASON
     df = helpers.season_slice(df_monthly, season)
     if df.empty:
-        print(f'⚠️  No monthly scoring data for {season}')
+        logging.warning(f'⚠️  No monthly scoring data for {season}')
         return
 
     pivot = df.pivot_table(index='SEASON', columns='MONTH', values='AVG_PTS')
@@ -126,7 +129,7 @@ def chart_top_game_performances(df_top_perf):
 def chart_player_scoring_trend(player_name, df_player_stats):
     pdf = df_player_stats[df_player_stats['PLAYER_NAME'] == player_name].sort_values('SEASON')
     if pdf.empty:
-        print(f'⚠️  No data for {player_name}')
+        logging.warning(f'⚠️  No data for {player_name}')
         return
 
     fig, ax = plt.subplots(figsize=(10, 4))
@@ -154,7 +157,7 @@ def chart_ppg_trend_key_players(df_player_stats, players=None):
 
     found = [p for p in players if p in df_player_stats['PLAYER_NAME'].values]
     if not found:
-        print('⚠️  Key players not found — using top 3 scorers overall.')
+        logging.warning('⚠️  Key players not found — using top 3 scorers overall.')
         found = (
             df_player_stats.groupby('PLAYER_NAME')['PPG']
             .mean().nlargest(3).index.tolist()
@@ -184,7 +187,7 @@ def run(processed):
     ----------
     processed : dict  — output from processing.run()
     """
-    print('📊 Stage 4 — Generating charts...')
+    logging.info('Stage 4 — Generating charts...')
 
     df_player = processed['player_stats']
     df_team   = processed['team_stats']
@@ -201,4 +204,4 @@ def run(processed):
     for player in config.KEY_PLAYERS:
         chart_player_scoring_trend(player, df_player)
 
-    print(f'✅ Stage 4 complete — charts saved to {config.OUTPUT_DIR}\n')
+    logging.info(f'Stage 4 complete — charts saved to {config.OUTPUT_DIR}\n')
