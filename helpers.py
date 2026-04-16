@@ -6,7 +6,6 @@
 
 import io
 import os
-
 import pandas as pd
 import logging
 logging.basicConfig(
@@ -24,6 +23,14 @@ def ensure_local_dirs():
         os.makedirs(d, exist_ok=True)
     logging.info('Local directory structure ready.')
 
+def load_or_fetch(path, fetch_fn):
+    if os.path.exists(path):
+        print(f"Loading cached data: {path}")
+        return pd.read_csv(path)
+    else:
+        df = fetch_fn()
+        df.to_csv(path, index=False)
+        return df
 
 # ── S3 client (lazy-loaded) ───────────────────────────────────────────────────
 
