@@ -11,7 +11,21 @@ TARGET_SEASON = '2024'        # used for single-season charts & previews
 
 # ── API settings ───────────────────────────────────────────────────────────────
 WNBA_LEAGUE_ID = '10'
-REQUEST_PAUSE  = 1.5          # seconds between nba_api calls (be polite)
+REQUEST_PAUSE  = 4.0   # seconds between nba_api calls (be polite)
+REQUEST_TIMEOUT = 90
+REQUEST_RETRIES = 4
+
+NBA_HEADERS = {
+    'Host': 'stats.nba.com',
+    'Connection': 'keep-alive',
+    'Accept': 'application/json, text/plain, */*',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36',
+    'Referer': 'https://stats.nba.com/',
+    'Origin': 'https://www.nba.com',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'x-nba-stats-origin': 'stats',
+    'x-nba-stats-token': 'true',
+}
 
 # ── Local directory layout ─────────────────────────────────────────────────────
 BASE_DIR      = os.getenv('WNBA_BASE_DIR', 'wnba_pipeline_data')
