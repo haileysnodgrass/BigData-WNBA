@@ -178,6 +178,46 @@ def chart_ppg_trend_key_players(df_player_stats, players=None):
     helpers.save_chart(fig, config.OUTPUT_DIR, 'ppg_trend_by_season_2018_2024.png')
     plt.close(fig)
 
+def chart_win_predictors(df_win_predictors):
+    df = df_win_predictors[df_win_predictors['METRIC'] != 'WIN_PCT'].copy()
+
+    fig, ax = plt.subplots(figsize=(10, 5))
+    bars = ax.barh(df['METRIC'], df['CORR_WITH_WIN_PCT'])
+    ax.bar_label(bars, fmt='%.2f', padding=4, fontsize=9)
+    ax.set_xlabel('Correlation with WIN_PCT')
+    ax.set_title('What Predicts Winning Most?', fontsize=14, fontweight='bold')
+    plt.tight_layout()
+
+    helpers.save_chart(fig, config.OUTPUT_DIR, 'win_predictors.png')
+    plt.close(fig)
+
+def chart_clutch_scoring(df_clutch):
+    top = df_clutch.head(10)
+
+    fig, ax = plt.subplots(figsize=(11, 6))
+    bars = ax.barh(top['PLAYER_NAME'], top['Clutch_Diff'])
+    ax.bar_label(bars, fmt='%.2f', padding=4, fontsize=9)
+    ax.set_xlabel('PTS in Wins - PTS in Losses')
+    ax.set_title('Top Clutch Scoring Proxy Players', fontsize=14, fontweight='bold')
+    ax.invert_yaxis()
+    plt.tight_layout()
+
+    helpers.save_chart(fig, config.OUTPUT_DIR, 'clutch_scoring_proxy.png')
+    plt.close(fig)
+
+def chart_player_consistency(df_consistency):
+    top = df_consistency.head(10)
+
+    fig, ax = plt.subplots(figsize=(11, 6))
+    bars = ax.barh(top['PLAYER_NAME'], top['consistency'])
+    ax.bar_label(bars, fmt='%.2f', padding=4, fontsize=9)
+    ax.set_xlabel('Consistency Score')
+    ax.set_title('Most Consistent Scorers', fontsize=14, fontweight='bold')
+    ax.invert_yaxis()
+    plt.tight_layout()
+
+    helpers.save_chart(fig, config.OUTPUT_DIR, 'player_consistency.png')
+    plt.close(fig)
 
 def run(processed):
     """
@@ -193,6 +233,9 @@ def run(processed):
     df_team   = processed['team_stats']
     df_monthly= processed['monthly']
     df_top    = processed['top_perf']
+    df_win   = processed['win_predictors']
+    df_clutch = processed['clutch_scoring']
+    df_cons   = processed['player_consistency']
 
     chart_top_scorers(df_player)
     chart_team_win_vs_scoring(df_team)
@@ -200,6 +243,9 @@ def run(processed):
     chart_monthly_scoring_heatmap(df_monthly)
     chart_top_game_performances(df_top)
     chart_ppg_trend_key_players(df_player)
+    chart_win_predictors(df_win)
+    chart_clutch_scoring(df_clutch)
+    chart_player_consistency(df_cons)
 
     for player in config.KEY_PLAYERS:
         chart_player_scoring_trend(player, df_player)

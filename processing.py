@@ -145,6 +145,93 @@ def build_top_performances(df_clean: pd.DataFrame, top_n: int = 50) -> pd.DataFr
     helpers.save_parquet(agg, config.AGG_DIR, 'top_performances.parquet', f'Top {top_n} game performances')
     return agg
 
+def analyze_what_predicts_winning(df_team_stats: pd.DataFrame) -> pd.DataFrame:
+    """
+    Compute correlation of team metrics with WIN_PCT.
+    """
+    features = ['PPG', 'RPG', 'APG', 'TPG', 'FG_PCT', 'OFF_EFF', 'WIN_PCT']
+    df = df_team_stats[features].copy()
+
+    corr = df.corr(numeric_only=True)
+    win_corr = (
+        corr[['WIN_PCT']]
+        .sort_values('WIN_PCT', ascending=False)
+        .reset_index()
+        .rename(columns={'index': 'METRIC', 'WIN_PCT': 'CORR_WITH_WIN_PCT'})
+    )
+
+    helpers.save_parquet(
+        win_corr,
+        config.AGG_DIR,
+        'win_predictors.parquet',
+        'Win predictors'
+    )
+    return win_corr
+
+
+def analyze_clutch_scoring(df_clean: pd.DataFrame, min_games: int = 10) -> pd.DataFrame:
+    """
+    Proxy for clutch scoring: compare a player's average points in wins vs losses.
+    """
+    player_games = (
+        df_clean.groupby('PLAYER_NAME')['GAME_ID']
+        .nunique()
+        .reset_index(name='GP')
+    )
+
+    grouped = (
+        df_clean.groupby(['PLAYER_NAME', 'WIN'])['PTS']
+        .mean()
+        .unstack()
+        .rename(columns={0: 'PTS_in_Loss', 1: 'PTS_in_Win'})
+        .reset_index()
+    )
+
+    result = grouped.merge(player_games, on='PLAYER_NAME', how='left')
+    result = result[result['GP'] >= min_games].copy()
+
+    result['PTS_in_Loss'] = result['PTS_in_Loss'].fillna(0)
+    result['PTS_in_Win'] = result['PTS_in_Win'].fillna(0)
+    result['Clutch_Diff'] = result['PTS_in_Win'] - result['PTS_in_Loss']
+
+    result = result.sort_values('Clutch_Diff', ascending=False).reset_index(drop=True)
+
+    helpers.save_parquet(
+        result,
+        config.AGG_DIR,
+        'clutch_scoring_proxy.parquet',
+        'Clutch scoring proxy'
+    )
+    return result
+
+
+def analyze_player_consistency(df_clean: pd.DataFrame, min_games: int = 10) -> pd.DataFrame:
+    """
+    Measure player scoring consistency using mean points divided by standard deviation.
+    Higher values = more consistent scoring relative to output.
+    """
+    stats = (
+        df_clean.groupby('PLAYER_NAME')
+        .agg(
+            GP=('GAME_ID', 'nunique'),
+            AVG_PTS=('PTS', 'mean'),
+            STD_PTS=('PTS', 'std'),
+        )
+        .reset_index()
+    )
+
+    stats = stats[stats['GP'] >= min_games].copy()
+    stats['STD_PTS'] = stats['STD_PTS'].fillna(0)
+    stats['consistency'] = stats['AVG_PTS'] / (stats['STD_PTS'] + 1e-5)
+    stats = stats.sort_values('consistency', ascending=False).reset_index(drop=True)
+
+    helpers.save_parquet(
+        stats,
+        config.AGG_DIR,
+        'player_consistency.parquet',
+        'Player consistency'
+    )
+    return stats
 
 def run(df_game_logs, df_leaders, df_player_season_stats, df_rosters):
     """
@@ -158,6 +245,9 @@ def run(df_game_logs, df_leaders, df_player_season_stats, df_rosters):
     df_team_stats   = build_team_stats(df_clean)
     df_monthly      = build_monthly_scoring(df_clean)
     df_top_perf     = build_top_performances(df_clean)
+    win_predictors     = analyze_what_predicts_winning(df_team_stats)
+    clutch_scoring     = analyze_clutch_scoring(df_clean)
+    player_consistency = analyze_player_consistency(df_clean)
     logging.info('Stage 3 complete.\n')
 
     return {
@@ -166,4 +256,7 @@ def run(df_game_logs, df_leaders, df_player_season_stats, df_rosters):
         'team_stats':    df_team_stats,
         'monthly':       df_monthly,
         'top_perf':      df_top_perf,
+        'win_predictors':      win_predictors,
+        'clutch_scoring':      clutch_scoring,
+        'player_consistency':  player_consistency,
     }
