@@ -12,6 +12,139 @@ Pulls game logs, player stats, and rosters from `stats.wnba.com`, cleans and agg
 | 3 — Processing | `processing.py` | Cleans, engineers features, builds aggregated datasets |
 | 4 — Analytics | `analytics.py` | Generates and saves 10+ charts |
 
+## Data Flow Walkthrough
+## 1. Data Ingestion (Input Layer)
+
+**Source:** `stats.wnba.com` via `nba_api`
+
+The pipeline pulls:
+
+- Player-level game logs (every game)
+- League leaders
+- Player season statistics
+- Team rosters
+
+**Key features:**
+- Automatic retries + timeout handling
+- Request throttling to avoid API blocking
+- Caching layer (reuses previously saved data)
+
+**Output:**
+```
+data/raw/
+├── game_logs_2018_2024.csv
+├── league_leaders_2018_2024.csv
+├── player_season_stats_raw_2018_2024.csv
+└── rosters_2018_2024.csv
+```
+
+## 2. Storage Layer (Raw → Parquet)
+
+Raw CSV data is converted into **Parquet format** for efficient storage and analytics.
+
+**Why Parquet:**
+- Columnar storage (faster queries)
+- Better compression (smaller size)
+- Standard format in big data systems
+
+**Output:**
+```
+data/processed/
+├── game_logs_2018_2024.parquet
+├── league_leaders_2018_2024.parquet
+├── player_season_stats_2018_2024.parquet
+└── rosters_2018_2024.parquet
+```
+
+## 3. Data Processing & Feature Engineering
+
+Raw data is cleaned and transformed into structured datasets.
+
+### Cleaning
+- Parse dates
+- Convert minutes to numeric
+- Create derived fields:
+  - `MONTH`
+  - `WIN` (binary outcome)
+
+### Aggregations
+
+#### Player-level (per season)
+- PPG, RPG, APG, etc.
+- Win percentage
+
+#### Team-level
+- Scoring, shooting %, turnovers
+- Offensive efficiency (`OFF_EFF`)
+
+#### Time-based
+- Monthly scoring trends
+
+#### Performance
+- Top single-game performances
+
+**Output:**
+```
+data/aggregated/
+├── player_stats_by_season.parquet
+├── team_stats_by_season.parquet
+├── monthly_scoring.parquet
+└── top_performances.parquet
+```
+
+## 4. Advanced Analytics
+
+The pipeline computes deeper analytical insights:
+
+### What predicts winning
+- Correlation between team metrics and win percentage
+- Identifies key drivers of team success
+
+### Clutch scoring proxy
+- Compares player scoring in wins vs losses
+- Measures performance differences based on outcomes
+
+### Player consistency
+- Evaluates scoring stability using mean vs variability
+
+**Output:**
+```
+data/aggregated/
+├── win_predictors.parquet
+├── clutch_scoring_proxy.parquet
+└── player_consistency.parquet
+```
+
+## 5. Analytics & Visualization (Output Layer)
+
+The pipeline generates charts for both descriptive and analytical insights.
+
+### Core charts
+- Top scorers
+- Team win % vs scoring
+- Offensive efficiency
+- Monthly scoring heatmap
+- Player scoring trends
+
+### Analytical charts
+- What predicts winning
+- Clutch scoring leaders
+- Most consistent scorers
+
+**Output:**
+```
+analytics/output/
+├── top_scorers_2024.png
+├── team_win_vs_scoring_2024.png
+├── team_efficiency_2024.png
+├── monthly_scoring_heatmap_2024.png
+├── top_game_performances_2018_2024.png
+├── ppg_trend_by_season_2018_2024.png
+├── win_predictors.png
+├── clutch_scoring_proxy.png
+└── player_consistency.png
+```
+
 ## Quickstart
 
 ```bash
