@@ -1,0 +1,408 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1029700112,0,12,0,1,4:00 AM,20:00,,Start of 1st Half (4:00 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,1,10,0,1,4:00 AM,20:00,Jump Ball Guyton vs. McGee: Tip to Perrot,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0
+1029700112,2,2,5,1,4:01 AM,19:54,MISS Thompson  Layup,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,3,4,0,1,4:01 AM,19:52,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,4,2,1,1,4:01 AM,19:32,,,MISS Gordon 9' Jump Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,5,4,0,1,4:01 AM,19:28,,,Byears REBOUND (Off:1 Def:0),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,6,2,1,1,4:01 AM,19:27,,,MISS Byears 8' Jump Shot,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,7,4,0,1,4:01 AM,19:27,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,8,6,3,1,4:02 AM,19:27,Arcain L.B.FOUL (P1.T1),,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,9,2,1,1,4:02 AM,19:20,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,10,4,0,1,4:02 AM,19:18,Perrot REBOUND (Off:0 Def:1),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,11,5,3,1,4:02 AM,19:18,Perrot Out Of Bounds Turnover (P1.T1),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,12,1,1,1,4:02 AM,19:08,,,McGee 6' Jump Shot (2 PTS) (Tremitiere 1 AST),2 - 0,-2,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,13,1,6,1,4:02 AM,18:56,Cooper  Driving Layup (2 PTS),,,2 - 2,TIE,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,14,1,1,1,4:03 AM,18:45,,,Byears 8' Jump Shot (2 PTS),4 - 2,-2,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,15,2,5,1,4:03 AM,18:29,MISS Thompson  Layup,,Byears BLOCK (1 BLK),,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0
+1029700112,16,4,0,1,4:03 AM,18:27,,,Byears REBOUND (Off:1 Def:1),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,17,5,2,1,4:03 AM,18:20,Guyton STEAL (1 STL),,Bolton Lost Ball Turnover (P1.T1),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,18,1,5,1,4:03 AM,18:12,Perrot  Layup (2 PTS) (Cooper 1 AST),,,4 - 4,TIE,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,19,1,1,1,4:04 AM,17:49,,,McGee 6' Jump Shot (4 PTS),6 - 4,-2,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,20,2,1,1,4:04 AM,17:35,MISS Arcain  3PT Jump Shot,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,21,4,0,1,4:04 AM,17:33,,,Bolton REBOUND (Off:0 Def:1),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,22,2,1,1,4:04 AM,17:13,,,MISS Byears 9' Jump Shot,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,24,4,0,1,4:04 AM,17:09,,,Gordon REBOUND (Off:1 Def:0),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,23,2,4,1,4:04 AM,17:09,,,MISS Gordon  Tip Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,25,4,0,1,4:04 AM,17:09,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,26,6,3,1,4:04 AM,17:09,Arcain L.B.FOUL (P2.T2),,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,27,2,1,1,4:05 AM,17:08,,,MISS Bolton 14' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,28,4,0,1,4:05 AM,17:06,,,McGee REBOUND (Off:1 Def:0),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,29,1,1,1,4:05 AM,17:05,,,McGee 14' Jump Shot (6 PTS),8 - 4,-4,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,30,2,1,1,4:05 AM,16:51,MISS Arcain 13' Jump Shot,,Gordon BLOCK (1 BLK),,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0
+1029700112,31,4,0,1,4:05 AM,16:48,,,McGee REBOUND (Off:1 Def:1),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,32,5,1,1,4:05 AM,16:47,Arcain STEAL (1 STL),,Gordon Bad Pass Turnover (P1.T2),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,34,2,1,1,4:05 AM,16:34,MISS Perrot  3PT Jump Shot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,35,4,0,1,4:05 AM,16:28,Arcain REBOUND (Off:1 Def:0),,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,36,2,1,1,4:05 AM,16:28,MISS Arcain 8' Jump Shot,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,37,4,0,1,4:05 AM,16:28,Thompson REBOUND (Off:1 Def:0),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,38,6,2,1,4:06 AM,16:28,,,McGee S.FOUL (P1.T1),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,39,8,0,1,4:06 AM,16:28,SUB: Swoopes FOR Arcain,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,40,8,0,1,4:06 AM,16:28,SUB: Moore FOR Guyton,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,43,8,0,1,4:06 AM,16:28,,,SUB: Abraham FOR McGee,,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,41,3,11,1,4:06 AM,16:28,Thompson Free Throw 1 of 2 (1 PTS),,,8 - 5,-3,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,42,3,12,1,4:06 AM,16:28,Thompson Free Throw 2 of 2 (2 PTS),,,8 - 6,-2,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,44,1,1,1,4:07 AM,16:07,,,Tremitiere 17' Jump Shot (2 PTS),10 - 6,-4,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,45,1,1,1,4:07 AM,15:59,Thompson 15' Jump Shot (4 PTS) (Cooper 2 AST),,,10 - 8,-2,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,46,6,2,1,4:07 AM,15:46,Thompson S.FOUL (P1.T3),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,47,9,4,1,4:10 AM,15:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,48,8,0,1,4:10 AM,15:46,SUB: Harris FOR Cooper,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,49,3,11,1,4:10 AM,15:46,,,MISS Bolton Free Throw 1 of 2,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,50,4,0,1,4:10 AM,15:46,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,51,3,12,1,4:10 AM,15:46,,,MISS Bolton Free Throw 2 of 2,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,53,4,0,1,4:10 AM,15:43,,,Byears REBOUND (Off:2 Def:1),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,52,1,5,1,4:10 AM,15:43,,,Byears  Layup (4 PTS),12 - 8,-4,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,54,6,1,1,4:10 AM,15:37,,,Byears P.FOUL (P1.T2),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,55,7,6,1,4:11 AM,15:25,,,Tremitiere Violation:Double Lane,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,56,5,1,1,4:11 AM,15:17,Thompson Bad Pass Turnover (P1.T2),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,57,5,2,1,4:12 AM,15:07,Perrot STEAL (1 STL),,Byears Lost Ball Turnover (P1.T3),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,58,6,2,1,4:12 AM,15:00,,,Abraham S.FOUL (P1.T3),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,59,8,0,1,4:12 AM,15:00,SUB: Woosley FOR Perrot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,60,3,11,1,4:12 AM,15:00,Swoopes Free Throw 1 of 2 (1 PTS),,,12 - 9,-3,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,61,3,12,1,4:12 AM,15:00,Swoopes Free Throw 2 of 2 (2 PTS),,,12 - 10,-2,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,62,2,1,1,4:12 AM,14:48,,,MISS Tremitiere  3PT Jump Shot,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,63,4,0,1,4:12 AM,14:46,Thompson REBOUND (Off:1 Def:1),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,64,2,1,1,4:13 AM,14:36,MISS Swoopes 13' Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,65,4,0,1,4:13 AM,14:35,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,66,2,1,1,4:13 AM,14:18,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,67,4,0,1,4:13 AM,14:15,Woosley REBOUND (Off:0 Def:1),,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,68,8,0,1,4:13 AM,14:05,SUB: Jackson FOR Thompson,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,69,2,1,1,4:14 AM,13:59,MISS Moore 8' Jump Shot,,,,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,71,4,0,1,4:14 AM,13:57,Harris REBOUND (Off:1 Def:0),,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,70,2,4,1,4:14 AM,13:57,MISS Harris  Tip Shot,,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,72,4,0,1,4:14 AM,13:55,,,Abraham REBOUND (Off:0 Def:1),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,73,1,1,1,4:14 AM,13:47,,,Gordon 12' Jump Shot (2 PTS) (Abraham 1 AST),14 - 10,-4,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,74,6,1,1,4:14 AM,13:30,,,Byears P.FOUL (P2.T4),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,75,2,1,1,4:15 AM,13:23,MISS Woosley 9' Jump Shot,,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,76,4,0,1,4:15 AM,13:20,,,Bolton REBOUND (Off:0 Def:2),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,77,2,1,1,4:15 AM,13:11,,,MISS Byears 11' Jump Shot,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,79,4,0,1,4:15 AM,13:08,,,Abraham REBOUND (Off:1 Def:1),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,78,2,1,1,4:15 AM,13:08,,,MISS Abraham 7' Jump Shot,,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,80,4,0,1,4:15 AM,13:03,,,Tremitiere REBOUND (Off:1 Def:0),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,81,2,1,1,4:15 AM,12:58,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,82,4,0,1,4:15 AM,12:56,Woosley REBOUND (Off:0 Def:2),,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,83,5,1,1,4:15 AM,12:39,Harris Bad Pass Turnover (P1.T3),,Gordon STEAL (1 STL),,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,84,1,1,1,4:16 AM,12:26,,,Abraham 8' Jump Shot (2 PTS),16 - 10,-6,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,85,6,2,1,4:16 AM,12:26,Woosley S.FOUL (P1.T4),,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,86,8,0,1,4:16 AM,12:26,,,SUB: McGee FOR Byears,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,87,8,0,1,4:16 AM,12:26,,,SUB: Yasen FOR Bolton,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,88,3,10,1,4:16 AM,12:26,,,Abraham Free Throw 1 of 1 (3 PTS),17 - 10,-7,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,89,1,1,1,4:17 AM,11:59,Swoopes 16' Jump Shot (4 PTS) (Moore 1 AST),,,17 - 12,-5,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,90,2,1,1,4:17 AM,11:34,Jackson BLOCK (1 BLK),,MISS Abraham 15' Jump Shot,,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0
+1029700112,91,4,0,1,4:17 AM,11:31,Harris REBOUND (Off:1 Def:1),,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,92,5,1,1,4:17 AM,11:28,Harris Bad Pass Turnover (P2.T4),,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,93,9,4,1,4:17 AM,11:28,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,94,5,2,1,4:20 AM,11:23,,,Tremitiere Lost Ball Turnover (P1.T4),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,95,5,2,1,4:20 AM,10:55,Swoopes Lost Ball Turnover (P1.T5),,McGee STEAL (1 STL),,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,96,5,1,1,4:21 AM,10:50,Harris STEAL (1 STL),,Tremitiere Bad Pass Turnover (P2.T5),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,97,2,5,1,4:21 AM,10:44,MISS Jackson  Layup,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,99,4,0,1,4:21 AM,10:43,Swoopes REBOUND (Off:1 Def:0),,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,98,1,5,1,4:21 AM,10:43,Swoopes  Layup (6 PTS),,,17 - 14,-3,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,100,5,2,1,4:21 AM,10:14,Woosley STEAL (1 STL),,Abraham Lost Ball Turnover (P1.T6),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,101,5,2,1,4:22 AM,9:59,Moore Lost Ball Turnover (P1.T6),,Abraham STEAL (1 STL),,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,102,5,1,1,4:22 AM,9:53,Harris STEAL (2 STL),,Tremitiere Bad Pass Turnover (P3.T7),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,103,2,1,1,4:22 AM,9:44,MISS Swoopes  3PT Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,104,4,0,1,4:22 AM,9:41,Swoopes REBOUND (Off:2 Def:0),,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,105,1,5,1,4:22 AM,9:40,Harris  Layup (2 PTS) (Swoopes 1 AST),,,17 - 16,-1,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,106,9,2,1,4:22 AM,9:37,,,Monarchs Timeout: Short (Reg.0 Short 1),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,107,8,0,1,4:23 AM,9:13,,,SUB: Bolton FOR Gordon,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,108,1,1,1,4:24 AM,9:12,,,Abraham 4' Jump Shot (5 PTS) (Yasen 1 AST),19 - 16,-3,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,109,5,2,1,4:24 AM,8:56,Moore Lost Ball Turnover (P2.T7),,Tremitiere STEAL (1 STL),,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,110,6,4,1,4:24 AM,8:48,,,McGee OFF.Foul (P2),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,111,5,5,1,4:24 AM,8:48,,,McGee Foul Turnover (P1.T8),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,112,2,1,1,4:24 AM,8:27,MISS Moore 13' Jump Shot,,,,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,113,4,0,1,4:25 AM,8:25,Jackson REBOUND (Off:1 Def:0),,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,114,5,2,1,4:25 AM,8:21,Woosley Lost Ball Turnover (P1.T8),,Bolton STEAL (1 STL),,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,115,8,0,1,4:25 AM,8:17,SUB: Guyton FOR Swoopes,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,116,8,0,1,4:25 AM,8:17,SUB: Thompson FOR Moore,,,,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,117,8,0,1,4:25 AM,8:17,SUB: Arcain FOR Harris,,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,118,8,0,1,4:25 AM,8:17,SUB: Perrot FOR Woosley,,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,119,8,0,1,4:25 AM,8:17,SUB: Cooper FOR Jackson,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,120,8,0,1,4:25 AM,8:17,,,SUB: Savasta FOR Tremitiere,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,5,100161,Laure Savasta,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,121,8,0,1,4:25 AM,8:17,,,SUB: Gordon FOR Abraham,,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,134,5,2,1,4:25 AM,8:17,Perrot STEAL (2 STL),,Gordon Lost Ball Turnover (P2.T9),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,135,6,1,1,4:25 AM,8:02,,,McGee P.FOUL (P3.PN),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,124,8,0,1,4:26 AM,8:02,,,SUB: Tremitiere FOR Yasen,,,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,125,2,1,1,4:26 AM,7:46,MISS Arcain 11' Jump Shot,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,126,4,0,1,4:26 AM,7:43,,,McGee REBOUND (Off:1 Def:2),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,127,1,5,1,4:26 AM,7:39,,,Bolton  Layup (2 PTS) (Tremitiere 2 AST),21 - 16,-5,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,130,2,1,1,4:26 AM,7:19,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,131,4,0,1,4:26 AM,7:17,Perrot REBOUND (Off:1 Def:1),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,132,5,2,1,4:27 AM,7:07,Guyton Lost Ball Turnover (P1.T9),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,133,9,4,1,4:27 AM,7:07,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,136,8,0,1,4:29 AM,7:07,,,SUB: Graves FOR McGee,,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,137,5,1,1,4:29 AM,6:52,Perrot STEAL (3 STL),,Graves Bad Pass Turnover (P1.T10),,,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,138,2,1,1,4:29 AM,6:45,MISS Perrot 10' Jump Shot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,139,4,0,1,4:29 AM,6:44,,,Bolton REBOUND (Off:0 Def:3),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,140,6,1,1,4:30 AM,6:44,Cooper P.FOUL (P1.PN),,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,141,2,1,1,4:30 AM,6:33,,,MISS Tremitiere  3PT Jump Shot,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,142,4,0,1,4:30 AM,6:31,Perrot REBOUND (Off:1 Def:2),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,143,6,2,1,4:30 AM,6:27,,,Tremitiere S.FOUL (P1.PN),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,144,3,11,1,4:30 AM,6:27,Cooper Free Throw 1 of 2 (3 PTS),,,21 - 17,-4,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,145,3,12,1,4:30 AM,6:27,MISS Cooper Free Throw 2 of 2,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,146,4,0,1,4:30 AM,6:27,,,Gordon REBOUND (Off:1 Def:1),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,147,5,1,1,4:31 AM,6:24,,,Gordon Bad Pass Turnover (P3.T11),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,148,2,5,1,4:31 AM,6:10,MISS Guyton  Layup,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,149,4,0,1,4:31 AM,6:07,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,150,2,5,1,4:31 AM,5:50,,,MISS Tremitiere  Layup,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,151,4,0,1,4:31 AM,5:49,Guyton REBOUND (Off:0 Def:1),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,152,6,1,1,4:31 AM,5:49,,,Tremitiere P.FOUL (P2.PN),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,153,2,1,1,4:32 AM,5:24,MISS Arcain 11' Jump Shot,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,154,4,0,1,4:32 AM,5:22,,,Graves REBOUND (Off:0 Def:1),,,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,155,2,1,1,4:32 AM,5:12,,,MISS Bolton 17' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,156,4,0,1,4:32 AM,5:10,,,Bolton REBOUND (Off:1 Def:3),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,157,1,1,1,4:32 AM,5:08,,,Bolton 7' Jump Shot (4 PTS),23 - 17,-6,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,158,9,2,1,4:33 AM,5:05,COMETS Timeout: Short (Full 0 Short 1),,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,159,1,1,1,4:34 AM,4:51,Guyton 6' Jump Shot (2 PTS) (Cooper 3 AST),,,23 - 19,-4,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,160,5,1,1,4:34 AM,4:46,Cooper STEAL (1 STL),,Gordon Bad Pass Turnover (P4.T12),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,161,2,5,1,4:34 AM,4:42,MISS Perrot  Layup,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,162,4,0,1,4:34 AM,4:39,,,Bolton REBOUND (Off:1 Def:4),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,163,2,1,1,4:34 AM,4:30,,,MISS Bolton 8' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,164,4,0,1,4:34 AM,4:28,,,Bolton REBOUND (Off:2 Def:4),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,165,1,1,1,4:34 AM,4:27,,,Bolton 5' Jump Shot (6 PTS),25 - 19,-6,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,166,1,6,1,4:34 AM,4:15,Cooper  Driving Layup (5 PTS),,,25 - 21,-4,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,167,2,1,1,4:35 AM,3:53,,,MISS Savasta 17' Jump Shot,,,5,100161,Laure Savasta,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,168,4,0,1,4:35 AM,3:51,Arcain REBOUND (Off:1 Def:1),,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,169,1,6,1,4:35 AM,3:33,Arcain  Driving Layup (2 PTS),,,25 - 23,-2,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,170,9,1,1,4:35 AM,3:27,,,Monarchs Timeout: Regular (Reg.1 Short 1),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,171,8,0,1,4:37 AM,3:27,SUB: Woosley FOR Arcain,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,172,8,0,1,4:37 AM,3:27,SUB: Swoopes FOR Guyton,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,173,8,0,1,4:37 AM,3:27,SUB: Jackson FOR Perrot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,174,5,8,1,4:38 AM,3:13,,,Graves 3 Second Violation Turnover (P2.T13),,,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,175,1,5,1,4:38 AM,2:58,Swoopes  Layup (8 PTS) (Cooper 4 AST),,,25 - 25,TIE,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,176,6,1,1,4:39 AM,2:38,Jackson P.FOUL (P1.PN),,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,177,8,0,1,4:39 AM,2:38,,,SUB: Byears FOR Savasta,,,5,100161,Laure Savasta,1611661318.0,Sacramento,Monarchs,SAC,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,178,2,1,1,4:39 AM,2:33,,,MISS Gordon 6' Jump Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,179,4,0,1,4:39 AM,2:31,Thompson REBOUND (Off:1 Def:2),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,180,2,1,1,4:39 AM,2:18,MISS Cooper 7' Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,181,4,0,1,4:39 AM,2:16,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,182,8,0,1,4:39 AM,2:16,SUB: Moore FOR Thompson,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,183,2,1,1,4:40 AM,2:11,MISS Woosley  3PT Jump Shot,,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,184,4,0,1,4:40 AM,2:08,,,Gordon REBOUND (Off:1 Def:2),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,185,6,1,1,4:40 AM,2:02,Jackson P.FOUL (P2.PN),,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,186,8,0,1,4:40 AM,2:02,SUB: Harris FOR Cooper,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,187,2,1,1,4:40 AM,1:52,,,MISS Tremitiere  3PT Jump Shot,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,188,4,0,1,4:40 AM,1:49,,,Gordon REBOUND (Off:2 Def:2),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,189,2,5,1,4:41 AM,1:40,,,MISS Graves  Layup,,,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,190,4,0,1,4:41 AM,1:39,Jackson REBOUND (Off:1 Def:1),,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,191,6,1,1,4:41 AM,1:39,,,Graves P.FOUL (P1.PN),,,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,192,3,11,1,4:41 AM,1:39,MISS Jackson Free Throw 1 of 2,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,193,4,0,1,4:41 AM,1:39,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,195,8,0,1,4:41 AM,1:39,,,SUB: Abraham FOR Graves,,,5,100021,Denique Graves,1611661318.0,Sacramento,Monarchs,SAC,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,196,3,12,1,4:41 AM,1:39,MISS Jackson Free Throw 2 of 2,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,197,4,0,1,4:42 AM,1:39,,,Gordon REBOUND (Off:2 Def:3),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,198,2,1,1,4:42 AM,1:18,,,MISS Bolton 14' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,200,4,0,1,4:42 AM,1:15,,,Gordon REBOUND (Off:3 Def:3),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,199,2,1,1,4:42 AM,1:15,,,MISS Gordon 7' Jump Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,201,4,0,1,4:42 AM,1:12,Moore REBOUND (Off:0 Def:1),,,,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,202,6,1,1,4:42 AM,1:05,,,Gordon P.FOUL (P1.PN),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,203,3,11,1,4:42 AM,1:05,Swoopes Free Throw 1 of 2 (9 PTS),,,25 - 26,1,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,204,3,12,1,4:43 AM,1:05,Swoopes Free Throw 2 of 2 (10 PTS),,,25 - 27,2,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,205,6,1,1,4:43 AM,0:55,Woosley P.FOUL (P2.PN),,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,206,3,11,1,4:44 AM,0:55,,,Tremitiere Free Throw 1 of 2 (3 PTS),26 - 27,1,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,207,3,12,1,4:44 AM,0:55,,,MISS Tremitiere Free Throw 2 of 2,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,208,4,0,1,4:44 AM,0:55,,,Abraham REBOUND (Off:2 Def:1),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,209,1,1,1,4:44 AM,0:41,,,Tremitiere  3PT Jump Shot (6 PTS),29 - 27,-2,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,210,2,1,1,4:44 AM,0:23,MISS Swoopes 15' Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,211,4,0,1,4:44 AM,0:20,,,Byears REBOUND (Off:2 Def:2),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,212,5,4,1,4:44 AM,0:15,,,Bolton Traveling Turnover (P2.T14),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,213,9,1,1,4:45 AM,0:13,COMETS Timeout: Regular (Full 1 Short 1),,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,214,8,0,1,4:47 AM,0:13,SUB: Guyton FOR Jackson,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,215,6,1,1,4:47 AM,0:00,,,Bolton P.FOUL (P1.PN),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,216,3,11,1,4:48 AM,0:00,Swoopes Free Throw 1 of 2 (11 PTS),,,29 - 28,-1,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,217,3,12,1,4:48 AM,0:00,Swoopes Free Throw 2 of 2 (12 PTS),,,29 - 29,TIE,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,218,13,0,1,4:49 AM,0:00,,End of 1st Half (4:49 AM EST),,29 - 29,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,219,12,0,2,5:04 AM,20:00,,Start of 2nd Half (5:04 AM EST),,29 - 29,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,220,10,0,2,5:05 AM,20:00,Jump Ball Guyton vs. McGee: Tip to,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,3,1611661318,,,,,,0
+1029700112,221,6,1,2,5:05 AM,19:47,Guyton P.FOUL (P1.T1),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,222,2,1,2,5:05 AM,19:44,,,MISS Bolton 13' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,224,4,0,2,5:06 AM,19:41,,,Gordon REBOUND (Off:4 Def:3),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,223,1,5,2,5:06 AM,19:41,,,Gordon  Layup (4 PTS),31 - 29,-2,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,225,1,2,2,5:06 AM,19:26,Arcain 6' Running Jump Shot (4 PTS),,,31 - 31,TIE,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,226,2,1,2,5:06 AM,19:08,,,MISS Byears 8' Jump Shot,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,227,4,0,2,5:06 AM,19:05,Arcain REBOUND (Off:1 Def:2),,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,228,5,2,2,5:06 AM,18:57,Thompson Lost Ball Turnover (P2.T10),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,229,2,1,2,5:07 AM,18:40,,,MISS Tremitiere 14' Jump Shot,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,230,4,0,2,5:07 AM,18:37,Perrot REBOUND (Off:1 Def:3),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,231,6,4,2,5:07 AM,18:31,Thompson OFF.Foul (P2),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,232,5,5,2,5:07 AM,18:31,Thompson Foul Turnover (P3.T11),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,233,2,1,2,5:07 AM,18:17,,,MISS Bolton 5' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,234,4,0,2,5:07 AM,18:13,Guyton REBOUND (Off:0 Def:2),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,235,6,1,2,5:07 AM,18:11,,,Bolton P.FOUL (P2.T1),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,236,5,2,2,5:08 AM,17:51,Arcain Lost Ball Turnover (P1.T12),,Bolton STEAL (2 STL),,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,237,1,5,2,5:08 AM,17:46,,,Byears  Layup (6 PTS),33 - 31,-2,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,238,1,1,2,5:08 AM,17:28,Cooper 5' Jump Shot (7 PTS),,,33 - 33,TIE,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,239,2,1,2,5:09 AM,17:06,,,MISS Bolton 15' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,240,4,0,2,5:09 AM,17:03,Perrot REBOUND (Off:1 Def:4),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,241,2,1,2,5:09 AM,16:57,MISS Perrot 12' Jump Shot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,242,4,0,2,5:09 AM,16:55,Perrot REBOUND (Off:2 Def:4),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,243,6,1,2,5:09 AM,16:55,,,Bolton P.FOUL (P3.T2),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,244,8,0,2,5:09 AM,16:55,,,SUB: Yasen FOR Bolton,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,245,1,1,2,5:09 AM,16:53,Cooper 6' Jump Shot (9 PTS) (Arcain 1 AST),,,33 - 35,2,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,246,1,1,2,5:10 AM,16:31,,,Tremitiere  3PT Jump Shot (9 PTS) (Byears 1 AST),36 - 35,-1,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,247,6,2,2,5:10 AM,16:03,,,Yasen S.FOUL (P1.T3),,,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,248,3,11,2,5:11 AM,16:03,Cooper Free Throw 1 of 2 (10 PTS),,,36 - 36,TIE,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,249,8,0,2,5:11 AM,16:03,SUB: Woosley FOR Perrot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,250,8,0,2,5:11 AM,16:03,SUB: Swoopes FOR Arcain,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,251,3,12,2,5:11 AM,16:03,Cooper Free Throw 2 of 2 (11 PTS),,,36 - 37,1,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,252,5,2,2,5:11 AM,15:49,Thompson STEAL (1 STL),,Gordon Lost Ball Turnover (P5.T15),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,253,9,4,2,5:11 AM,15:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,254,2,1,2,5:14 AM,15:30,MISS Thompson  3PT Jump Shot,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,255,4,0,2,5:14 AM,15:27,Thompson REBOUND (Off:2 Def:2),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,256,2,1,2,5:14 AM,15:19,MISS Swoopes  3PT Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,257,4,0,2,5:14 AM,15:17,,,Tremitiere REBOUND (Off:1 Def:1),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,258,1,5,2,5:15 AM,15:12,,,McGee  Layup (8 PTS) (Gordon 1 AST),38 - 37,-1,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,259,2,5,2,5:15 AM,14:56,MISS Thompson  Layup,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,261,4,0,2,5:15 AM,14:52,Thompson REBOUND (Off:3 Def:2),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,260,1,5,2,5:15 AM,14:52,Thompson  Layup (6 PTS),,,38 - 39,1,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,262,6,4,2,5:15 AM,14:38,,,Byears OFF.Foul (P3),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,263,5,5,2,5:15 AM,14:38,,,Byears Foul Turnover (P2.T16),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,264,5,1,2,5:16 AM,14:12,Cooper Bad Pass Turnover (P1.T13),,McGee STEAL (2 STL),,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,265,5,2,2,5:16 AM,14:08,Cooper STEAL (2 STL),,Yasen Lost Ball Turnover (P1.T17),,,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,266,1,6,2,5:16 AM,13:54,Cooper  Driving Layup (13 PTS),,,38 - 41,3,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,267,1,1,2,5:16 AM,13:38,,,Gordon 10' Jump Shot (6 PTS),40 - 41,1,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,268,6,1,2,5:16 AM,13:30,,,Byears P.FOUL (P4.T4),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,269,8,0,2,5:17 AM,13:30,SUB: Jackson FOR Thompson,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,270,2,1,2,5:17 AM,13:25,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,271,4,0,2,5:17 AM,13:22,,,McGee REBOUND (Off:1 Def:3),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,272,6,2,2,5:17 AM,13:12,Cooper S.FOUL (P2.T2),,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,273,8,0,2,5:17 AM,13:12,SUB: Harris FOR Cooper,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,274,8,0,2,5:17 AM,13:12,,,SUB: Abraham FOR Byears,,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,275,3,11,2,5:17 AM,13:12,,,Gordon Free Throw 1 of 2 (7 PTS),41 - 41,TIE,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,276,3,12,2,5:18 AM,13:12,,,Gordon Free Throw 2 of 2 (8 PTS),42 - 41,-1,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,277,1,1,2,5:18 AM,13:02,Woosley  3PT Jump Shot (3 PTS) (Swoopes 2 AST),,,42 - 44,2,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,278,6,2,2,5:19 AM,12:40,Harris S.FOUL (P1.T3),,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,279,9,2,2,5:19 AM,12:40,COMETS Timeout: Short (Full 1 Short 2),,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,280,3,11,2,5:20 AM,12:40,,,MISS Gordon Free Throw 1 of 2,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,281,4,0,2,5:20 AM,12:40,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,282,8,0,2,5:20 AM,12:40,SUB: Moore FOR Guyton,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,283,3,12,2,5:20 AM,12:40,,,Gordon Free Throw 2 of 2 (9 PTS),43 - 44,1,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,284,1,1,2,5:21 AM,12:18,Moore 15' Jump Shot (2 PTS) (Woosley 1 AST),,,43 - 46,3,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,285,2,1,2,5:21 AM,11:50,,,MISS Tremitiere  3PT Jump Shot,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,286,4,0,2,5:21 AM,11:49,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,287,9,4,2,5:21 AM,11:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,288,5,1,2,5:24 AM,11:23,Harris Bad Pass Turnover (P3.T14),,Yasen STEAL (1 STL),,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,289,2,1,2,5:24 AM,11:17,,,MISS Tremitiere 5' Jump Shot,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,293,4,0,2,5:25 AM,11:04,,,McGee REBOUND (Off:2 Def:3),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,292,1,5,2,5:25 AM,11:04,,,McGee  Layup (10 PTS),45 - 46,1,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,294,2,1,2,5:25 AM,10:58,MISS Moore 7' Jump Shot,,,,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,295,4,0,2,5:25 AM,10:55,,,Gordon REBOUND (Off:4 Def:4),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,296,1,1,2,5:25 AM,10:49,,,Gordon  3PT Jump Shot (12 PTS) (Tremitiere 3 AST),48 - 46,-2,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,297,6,1,2,5:25 AM,10:31,,,Gordon P.FOUL (P2.PN),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,298,8,0,2,5:25 AM,10:31,SUB: Guyton FOR Swoopes,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,299,8,0,2,5:25 AM,10:31,SUB: Thompson FOR Moore,,,,,4,100085,Yolanda Moore,1611661316.0,Houston,Comets,HOU,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,300,8,0,2,5:25 AM,10:31,SUB: Arcain FOR Harris,,,,,4,100084,Fran Harris,1611661316.0,Houston,Comets,HOU,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,301,8,0,2,5:25 AM,10:31,SUB: Perrot FOR Woosley,,,,,4,100086,Tiffany Woosley,1611661316.0,Houston,Comets,HOU,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,302,8,0,2,5:25 AM,10:31,SUB: Cooper FOR Jackson,,,,,4,100077,Tammy Jackson,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,303,8,0,2,5:25 AM,10:31,,,SUB: Bolton FOR Gordon,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,304,2,1,2,5:26 AM,10:17,MISS Perrot  3PT Jump Shot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,305,4,0,2,5:26 AM,10:13,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,306,10,0,2,5:26 AM,10:13,Jump Ball Guyton vs. Bolton: Tip to Cooper,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0
+1029700112,307,2,1,2,5:27 AM,9:54,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,308,4,0,2,5:27 AM,9:52,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,309,1,1,2,5:27 AM,9:42,Arcain 14' Jump Shot (6 PTS),,,48 - 48,TIE,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,310,2,5,2,5:27 AM,9:28,,,MISS Tremitiere  Layup,,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,311,4,0,2,5:27 AM,9:26,,,McGee REBOUND (Off:3 Def:3),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,312,6,1,2,5:27 AM,9:26,Thompson P.FOUL (P3.T4),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,313,2,1,2,5:28 AM,9:22,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,314,4,0,2,5:28 AM,9:19,,,Abraham REBOUND (Off:3 Def:1),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,315,2,1,2,5:28 AM,9:15,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,316,4,0,2,5:28 AM,9:12,Thompson REBOUND (Off:3 Def:3),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,317,1,1,2,5:28 AM,8:57,Thompson 8' Jump Shot (8 PTS) (Cooper 5 AST),,,48 - 50,2,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,318,2,1,2,5:29 AM,8:44,,,MISS Yasen 13' Jump Shot,,,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,320,4,0,2,5:29 AM,8:40,,,Abraham REBOUND (Off:4 Def:1),,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,319,2,5,2,5:29 AM,8:40,,,MISS Abraham  Layup,,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,321,4,0,2,5:29 AM,8:36,Thompson REBOUND (Off:3 Def:4),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,322,5,4,2,5:29 AM,8:33,Guyton Traveling Turnover (P2.T15),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,323,2,5,2,5:29 AM,8:10,,,MISS McGee  Layup,,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,324,4,0,2,5:29 AM,8:09,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,325,6,3,2,5:29 AM,8:09,,,McGee L.B.FOUL (P4.PN),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,326,2,1,2,5:30 AM,7:55,MISS Thompson 19' Jump Shot,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,327,4,0,2,5:30 AM,7:53,Guyton REBOUND (Off:1 Def:2),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,328,6,2,2,5:30 AM,7:53,,,McGee S.FOUL (P5.PN),,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,329,9,4,2,5:30 AM,7:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,330,8,0,2,5:32 AM,7:53,,,SUB: Gordon FOR Abraham,,,5,100023,Tajama Abraham,1611661318.0,Sacramento,Monarchs,SAC,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,331,8,0,2,5:32 AM,7:53,,,SUB: Byears FOR Yasen,,,5,100024,Corissa Yasen,1611661318.0,Sacramento,Monarchs,SAC,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,332,3,11,2,5:33 AM,7:53,MISS Guyton Free Throw 1 of 2,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,333,4,0,2,5:33 AM,7:53,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,334,3,12,2,5:33 AM,7:53,Guyton Free Throw 2 of 2 (3 PTS),,,48 - 51,3,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,335,1,1,2,5:34 AM,7:34,,,McGee 10' Jump Shot (12 PTS) (Bolton 1 AST),50 - 51,1,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,336,2,1,2,5:34 AM,7:17,MISS Arcain 11' Jump Shot,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,337,4,0,2,5:34 AM,7:13,,,Tremitiere REBOUND (Off:1 Def:2),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,338,1,1,2,5:34 AM,7:04,,,Bolton 14' Jump Shot (8 PTS),52 - 51,-1,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,339,6,1,2,5:34 AM,6:48,,,Bolton P.FOUL (P4.PN),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,340,3,11,2,5:35 AM,6:48,Cooper Free Throw 1 of 2 (14 PTS),,,52 - 52,TIE,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,341,3,12,2,5:35 AM,6:48,MISS Cooper Free Throw 2 of 2,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,342,4,0,2,5:35 AM,6:48,Guyton REBOUND (Off:2 Def:2),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,343,6,1,2,5:35 AM,6:38,,,Byears P.FOUL (P5.PN),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,344,3,11,2,5:35 AM,6:38,Cooper Free Throw 1 of 2 (15 PTS),,,52 - 53,1,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,345,3,12,2,5:36 AM,6:38,Cooper Free Throw 2 of 2 (16 PTS),,,52 - 54,2,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,346,1,5,2,5:36 AM,6:19,,,Byears  Layup (8 PTS) (Tremitiere 4 AST),54 - 54,TIE,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,347,2,1,2,5:36 AM,6:06,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,350,4,0,2,5:37 AM,6:04,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,351,10,0,2,5:37 AM,6:04,Jump Ball Guyton vs. McGee: Tip to,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,3,1611661318,,,,,,0
+1029700112,353,1,1,2,5:37 AM,5:46,,,Gordon 6' Jump Shot (14 PTS),56 - 54,-2,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,354,2,1,2,5:38 AM,5:27,MISS Guyton 6' Jump Shot,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,355,4,0,2,5:38 AM,5:26,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,356,8,0,2,5:38 AM,5:26,SUB: Swoopes FOR Arcain,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,357,2,5,2,5:38 AM,5:25,MISS Guyton  Layup,,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,358,4,0,2,5:38 AM,5:21,Thompson REBOUND (Off:4 Def:4),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,359,1,5,2,5:38 AM,5:20,Thompson  Layup (10 PTS),,,56 - 56,TIE,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,360,6,1,2,5:38 AM,5:02,Perrot P.FOUL (P1.PN),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,361,5,1,2,5:39 AM,4:55,,,Byears Bad Pass Turnover (P3.T18),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,362,2,1,2,5:39 AM,4:40,MISS Swoopes 14' Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,363,4,0,2,5:39 AM,4:38,,,Bolton REBOUND (Off:2 Def:5),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,364,6,1,2,5:39 AM,4:31,Thompson P.FOUL (P4.PN),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,365,1,5,2,5:40 AM,4:21,,,McGee  Layup (14 PTS) (Byears 2 AST),58 - 56,-2,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,366,2,5,2,5:40 AM,3:57,MISS Cooper  Layup,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,367,4,0,2,5:40 AM,3:56,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,368,6,3,2,5:40 AM,3:56,Guyton L.B.FOUL (P2.PN),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,369,9,4,2,5:40 AM,3:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,371,2,1,2,5:43 AM,3:38,,,MISS Gordon 13' Jump Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,372,4,0,2,5:43 AM,3:36,Cooper REBOUND (Off:0 Def:1),,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,373,6,2,2,5:43 AM,3:32,,,Tremitiere S.FOUL (P3.PN),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1029700112,374,3,11,2,5:44 AM,3:32,MISS Perrot Free Throw 1 of 2,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,375,4,0,2,5:44 AM,3:32,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,376,3,12,2,5:44 AM,3:32,MISS Perrot Free Throw 2 of 2,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,377,4,0,2,5:44 AM,3:31,,,Byears REBOUND (Off:2 Def:3),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,378,2,1,2,5:44 AM,3:17,Thompson BLOCK (1 BLK),,MISS Gordon 5' Jump Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0
+1029700112,379,4,0,2,5:44 AM,3:16,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,380,2,1,2,5:45 AM,2:57,MISS Perrot  3PT Jump Shot,,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,381,4,0,2,5:45 AM,2:55,Thompson REBOUND (Off:5 Def:4),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,382,5,2,2,5:45 AM,2:47,Perrot Lost Ball Turnover (P2.T16),,Byears STEAL (1 STL),,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,383,6,1,2,5:45 AM,2:31,Cooper P.FOUL (P3.PN),,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,384,3,11,2,5:45 AM,2:31,,,MISS McGee Free Throw 1 of 2,,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,385,4,0,2,5:45 AM,2:31,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,386,3,12,2,5:46 AM,2:31,,,McGee Free Throw 2 of 2 (15 PTS),59 - 56,-3,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,387,2,1,2,5:46 AM,2:19,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,388,4,0,2,5:46 AM,2:16,,,Tremitiere REBOUND (Off:1 Def:3),,,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,389,2,1,2,5:46 AM,2:11,,,MISS Gordon 7' Jump Shot,,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,390,4,0,2,5:46 AM,2:09,Perrot REBOUND (Off:2 Def:5),,,,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,391,2,6,2,5:46 AM,1:53,MISS Cooper  Driving Layup,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,392,4,0,2,5:47 AM,1:50,,,Byears REBOUND (Off:2 Def:4),,,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,393,1,5,2,5:47 AM,1:47,,,Gordon  Layup (16 PTS) (Byears 3 AST),61 - 56,-5,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,5,100027,Latasha Byears,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,394,2,1,2,5:47 AM,1:22,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,395,4,0,2,5:47 AM,1:20,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,396,6,3,2,5:47 AM,1:20,Guyton L.B.FOUL (P3.PN),,,,,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,397,8,0,2,5:47 AM,1:20,SUB: Arcain FOR Swoopes,,,,,4,100072,Sheryl Swoopes,1611661316.0,Houston,Comets,HOU,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0
+1029700112,398,3,11,2,5:47 AM,1:20,,,MISS McGee Free Throw 1 of 2,,,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,399,4,0,2,5:47 AM,1:20,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,400,3,12,2,5:48 AM,1:20,,,McGee Free Throw 2 of 2 (16 PTS),62 - 56,-6,5,100020,Pam McGee,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,401,2,1,2,5:48 AM,1:10,MISS Arcain  3PT Jump Shot,,,,,4,100075,Janeth Arcain,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,402,4,0,2,5:48 AM,1:06,,,Gordon REBOUND (Off:4 Def:5),,,5,100017,Bridgette Gordon,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,403,6,2,2,5:48 AM,0:51,Thompson S.FOUL (P5.PN),,,,,4,100076,Tina Thompson,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,404,3,11,2,5:49 AM,0:51,,,Bolton Free Throw 1 of 2 (9 PTS),63 - 56,-7,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,405,3,12,2,5:49 AM,0:51,,,Bolton Free Throw 2 of 2 (10 PTS),64 - 56,-8,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,406,2,1,2,5:49 AM,0:44,MISS Cooper 6' Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,407,4,0,2,5:49 AM,0:41,COMETS Rebound,,,,,2,1611661316,,,,,,0,0,,,,,,0,0,,,,,,0
+1029700112,408,1,5,2,5:50 AM,0:37,Guyton  Layup (5 PTS),,,64 - 58,-6,4,100074,Wanda Guyton,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,409,6,1,2,5:50 AM,0:36,Cooper P.FOUL (P4.PN),,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,410,3,11,2,5:50 AM,0:36,,,Tremitiere Free Throw 1 of 2 (10 PTS),65 - 58,-7,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,411,3,12,2,5:50 AM,0:36,,,Tremitiere Free Throw 2 of 2 (11 PTS),66 - 58,-8,5,100022,Chantel Tremitiere,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,412,2,1,2,5:51 AM,0:29,MISS Cooper  3PT Jump Shot,,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,0,0,,,,,,0
+1029700112,413,4,0,2,5:51 AM,0:25,,,Bolton REBOUND (Off:2 Def:6),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,414,6,1,2,5:51 AM,0:23,Cooper P.FOUL (P5.PN),,,,,4,100073,Cynthia Cooper,1611661316.0,Houston,Comets,HOU,0,0,,,,,,1,0,,,,,,0
+1029700112,415,3,11,2,5:51 AM,0:23,,,Bolton Free Throw 1 of 2 (11 PTS),67 - 58,-9,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,416,3,12,2,5:51 AM,0:23,,,Bolton Free Throw 2 of 2 (12 PTS),68 - 58,-10,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1029700112,417,5,1,2,5:51 AM,0:20,Perrot Bad Pass Turnover (P3.T17),,Bolton STEAL (3 STL),,,4,100083,Kim Perrot,1611661316.0,Houston,Comets,HOU,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1029700112,418,13,0,2,5:52 AM,0:00,,End of 2nd Half (5:52 AM EST),,68 - 58,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

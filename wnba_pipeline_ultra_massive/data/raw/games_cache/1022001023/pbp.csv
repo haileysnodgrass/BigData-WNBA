@@ -1,0 +1,356 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022001023,2,12,0,1,3:37 PM,10:00,,Start of 1st Period (3:37 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,4,10,0,1,3:37 PM,10:00,Jump Ball McCowan vs. E. Williams: Tip to Billings,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1
+1022001023,7,2,1,1,3:37 PM,9:39,,,MISS Billings 17' Jump Shot,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,8,4,0,1,3:37 PM,9:39,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,10,5,1,1,3:37 PM,9:21,K. Mitchell Bad Pass Turnover (P1.T1),,Billings STEAL (1 STL),,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,12,1,5,1,3:37 PM,9:12,,,Billings 2' Layup (2 PTS) (Laney 1 AST),2 - 0,-2,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,14,2,1,1,3:38 PM,8:59,MISS T. Mitchell 25' 3PT Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,15,4,0,1,3:38 PM,8:57,,,Laney REBOUND (Off:0 Def:1),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,16,1,6,1,3:38 PM,8:50,,,Laney 3' Driving Layup (2 PTS),4 - 0,-4,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,17,2,79,1,3:38 PM,8:33,MISS K. Mitchell 26' 3PT Pullup Jump Shot,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,18,4,0,1,3:38 PM,8:30,T. Mitchell REBOUND (Off:1 Def:0),,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,19,2,1,1,3:38 PM,8:27,MISS Dupree 21' Jump Shot,,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,20,4,0,1,3:38 PM,8:23,,,Billings REBOUND (Off:0 Def:1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,21,2,6,1,3:38 PM,8:14,,,MISS Carter 4' Driving Layup,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,22,4,0,1,3:38 PM,8:11,Dupree REBOUND (Off:0 Def:1),,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,23,5,1,1,3:39 PM,8:07,Allemand Bad Pass Turnover (P1.T2),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,25,2,79,1,3:39 PM,7:53,,,MISS Carter 16' Pullup Jump Shot,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,26,4,0,1,3:39 PM,7:51,Allemand REBOUND (Off:0 Def:1),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,27,5,4,1,3:40 PM,7:41,Allemand Traveling Turnover (P2.T3),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,28,6,2,1,3:40 PM,7:30,K. Mitchell S.FOUL (P1.T1),,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,30,3,13,1,3:41 PM,7:30,,,Laney Free Throw 1 of 3 (3 PTS),5 - 0,-5,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,31,3,14,1,3:41 PM,7:30,,,Laney Free Throw 2 of 3 (4 PTS),6 - 0,-6,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,32,3,15,1,3:41 PM,7:30,,,Laney Free Throw 3 of 3 (5 PTS),7 - 0,-7,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,33,5,2,1,3:41 PM,7:12,T. Mitchell Lost Ball Turnover (P1.T4),,Laney STEAL (1 STL),,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,35,1,5,1,3:41 PM,7:10,,,Carter 3' Layup (2 PTS) (Laney 2 AST),9 - 0,-9,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,36,6,2,1,3:41 PM,7:10,Allemand S.FOUL (P1.T2),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,38,3,10,1,3:42 PM,7:10,,,Carter Free Throw 1 of 1 (3 PTS),10 - 0,-10,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,39,1,1,1,3:42 PM,6:54,Allemand 24' 3PT Jump Shot (3 PTS) (Dupree 1 AST),,,10 - 3,-7,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,42,2,5,1,3:42 PM,6:39,Dupree BLOCK (1 BLK),,MISS Carter 5' Layup,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,1
+1022001023,44,4,0,1,3:42 PM,6:39,T. Mitchell REBOUND (Off:1 Def:1),,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,45,1,5,1,3:42 PM,6:39,K. Mitchell 5' Layup (2 PTS) (T. Mitchell 1 AST),,,10 - 5,-5,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,47,6,2,1,3:42 PM,6:39,,,Billings S.FOUL (P1.T1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,49,3,10,1,3:43 PM,6:39,K. Mitchell Free Throw 1 of 1 (3 PTS),,,10 - 6,-4,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,50,5,2,1,3:43 PM,6:30,,,Carter Lost Ball Turnover (P1.T1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,52,1,1,1,3:43 PM,6:15,Allemand 24' 3PT Jump Shot (6 PTS) (K. Mitchell 1 AST),,,10 - 9,-1,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,54,5,2,1,3:44 PM,5:52,Allemand STEAL (1 STL),,Stricklen Lost Ball Turnover (P1.T2),,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,56,2,1,1,3:44 PM,5:46,MISS McCowan 17' Jump Shot,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,57,4,0,1,3:44 PM,5:44,,,Laney REBOUND (Off:0 Def:2),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,59,2,5,1,3:44 PM,5:27,,,MISS Laney 5' Layup,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,60,4,0,1,3:44 PM,5:25,McCowan REBOUND (Off:0 Def:1),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,61,1,5,1,3:44 PM,5:19,Dupree 4' Layup (2 PTS),,,10 - 11,1,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,62,5,2,1,3:44 PM,5:08,T. Mitchell STEAL (1 STL),,Carter Lost Ball Turnover (P2.T3),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,64,6,1,1,3:45 PM,5:00,,,Laney P.FOUL (P1.T2),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,66,8,0,1,3:45 PM,5:00,,,SUB: C. Williams FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,69,1,1,1,3:45 PM,4:51,Dupree 20' Jump Shot (4 PTS) (Allemand 1 AST),,,10 - 13,3,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,71,1,1,1,3:45 PM,4:37,,,Stricklen 25' 3PT Jump Shot (3 PTS) (E. Williams 1 AST),13 - 13,TIE,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,73,1,5,1,3:46 PM,4:15,McCowan 8' Layup (2 PTS) (K. Mitchell 2 AST),,,13 - 15,2,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,75,2,5,1,3:46 PM,4:08,T. Mitchell BLOCK (1 BLK),,MISS Billings 4' Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1
+1022001023,76,4,0,1,3:46 PM,4:01,K. Mitchell REBOUND (Off:0 Def:1),,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,77,1,1,1,3:46 PM,4:00,K. Mitchell 26' 3PT Jump Shot (6 PTS),,,13 - 18,5,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,78,1,1,1,3:46 PM,3:45,,,C. Williams 17' Jump Shot (2 PTS),15 - 18,3,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,79,1,1,1,3:46 PM,3:32,T. Mitchell 25' 3PT Jump Shot (3 PTS) (Dupree 2 AST),,,15 - 21,6,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,81,6,1,1,3:47 PM,3:16,T. Mitchell P.FOUL (P1.T3),,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,83,9,4,1,3:47 PM,3:16,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,85,8,0,1,3:48 PM,3:16,SUB: Burke FOR Allemand,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,86,8,0,1,3:48 PM,3:16,SUB: Vivians FOR T. Mitchell,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,87,8,0,1,3:48 PM,3:16,,,SUB: Johnson FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,91,1,1,1,3:50 PM,3:08,,,C. Williams 17' Jump Shot (4 PTS) (Laney 3 AST),17 - 21,4,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,93,1,5,1,3:51 PM,2:46,McCowan 7' Layup (4 PTS) (Dupree 3 AST),,,17 - 23,6,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,95,6,1,1,3:51 PM,2:26,Dupree P.FOUL (P1.T4),,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,97,1,71,1,3:52 PM,2:12,,,E. Williams 3' Finger Roll Layup (2 PTS) (C. Williams 1 AST),19 - 23,4,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,99,2,1,1,3:52 PM,1:57,MISS Dupree 11' Jump Shot,,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,100,4,0,1,3:52 PM,1:54,Burke REBOUND (Off:1 Def:0),,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,101,2,97,1,3:52 PM,1:53,MISS Burke 3' Tip Layup Shot,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,102,4,0,1,3:52 PM,1:49,Burke REBOUND (Off:2 Def:0),,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,103,1,72,1,3:52 PM,1:49,Burke 1' Putback Layup (2 PTS),,,19 - 25,6,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,104,5,2,1,3:52 PM,1:40,,,Laney Lost Ball Turnover (P1.T4),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,106,8,0,1,3:53 PM,1:40,SUB: Mavunga FOR McCowan,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,108,8,0,1,3:53 PM,1:40,SUB: Allemand FOR K. Mitchell,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,110,5,2,1,3:53 PM,1:33,Allemand Lost Ball Turnover (P3.T5),,Laney STEAL (2 STL),,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,112,1,6,1,3:53 PM,1:30,,,Laney 4' Driving Layup (7 PTS),21 - 25,4,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,113,2,5,1,3:54 PM,1:05,MISS Vivians 4' Layup,,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,114,4,0,1,3:54 PM,1:02,,,E. Williams REBOUND (Off:0 Def:1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,115,5,2,1,3:54 PM,0:56,Allemand STEAL (2 STL),,C. Williams Lost Ball Turnover (P1.T5),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,117,5,2,1,3:54 PM,0:51,Burke Lost Ball Turnover (P1.T6),,Laney STEAL (3 STL),,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,119,1,5,1,3:54 PM,0:46,,,C. Williams 3' Layup (6 PTS) (Laney 4 AST),23 - 25,2,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,121,1,1,1,3:54 PM,0:32,Burke 24' 3PT Jump Shot (5 PTS) (Allemand 2 AST),,,23 - 28,5,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,123,2,5,1,3:55 PM,0:11,Burke BLOCK (1 BLK),,MISS E. Williams 3' Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,1
+1022001023,125,4,0,1,3:55 PM,0:10,Mavunga REBOUND (Off:0 Def:1),,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,126,1,5,1,3:55 PM,0:04,Allemand 2' Layup (8 PTS),,,23 - 30,7,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,127,2,1,1,3:55 PM,0:00,,,MISS Laney 38' 3PT Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,128,4,0,1,3:55 PM,0:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,129,13,0,1,3:55 PM,0:00,,End of 1st Period (3:55 PM EST),,23 - 30,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001023,131,18,3,1,3:55 PM,0:00,,Instant Replay1st Period (3:55 PM EST),,23 - 30,7,0,121,Patrick Ewing,,,,,0,0,,,,,,1,0,,,,,,0
+1022001023,136,12,0,2,3:59 PM,10:00,,Start of 2nd Period (3:59 PM EST),,23 - 30,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,137,6,1,2,3:59 PM,9:50,,,Dietrick P.FOUL (P1.T1),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,139,5,4,2,3:59 PM,9:43,Mavunga Traveling Turnover (P1.T7),,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,140,2,1,2,4:00 PM,9:32,,,MISS C. Williams 21' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,141,4,0,2,4:00 PM,9:30,Vivians REBOUND (Off:0 Def:1),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,142,2,1,2,4:00 PM,9:11,MISS Burke 24' 3PT Jump Shot,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,143,4,0,2,4:00 PM,9:07,,,Laney REBOUND (Off:0 Def:3),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,144,2,1,2,4:00 PM,8:59,,,MISS C. Williams 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,145,4,0,2,4:00 PM,8:57,,,Billings REBOUND (Off:1 Def:1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,146,2,2,2,4:00 PM,8:44,,,MISS C. Williams 13' Running Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,147,4,0,2,4:01 PM,8:29,Allemand REBOUND (Off:0 Def:2),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,148,1,41,2,4:01 PM,8:28,Mavunga 11' Running Layup (2 PTS) (Allemand 3 AST),,,23 - 32,9,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,149,2,1,2,4:01 PM,8:11,,,MISS Laney 11' Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,150,4,0,2,4:01 PM,8:08,,,Billings REBOUND (Off:2 Def:1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,151,2,72,2,4:01 PM,8:06,,,MISS Billings 7' Putback Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,152,4,0,2,4:01 PM,8:06,Vivians REBOUND (Off:0 Def:2),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,153,2,1,2,4:01 PM,7:58,MISS Allemand 20' Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,154,4,0,2,4:01 PM,7:58,,,Billings REBOUND (Off:2 Def:2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,155,2,5,2,4:01 PM,7:45,,,MISS Billings 4' Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,156,4,0,2,4:01 PM,7:42,Mavunga REBOUND (Off:0 Def:2),,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,157,1,5,2,4:01 PM,7:40,Vivians 2' Layup (2 PTS),,,23 - 34,11,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,158,6,2,2,4:02 PM,7:40,,,Dietrick S.FOUL (P2.T2),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,161,8,0,2,4:02 PM,7:40,SUB: Doyle FOR Allemand,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,162,8,0,2,4:02 PM,7:40,,,SUB: Carter FOR C. Williams,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,165,3,10,2,4:02 PM,7:40,Vivians Free Throw 1 of 1 (3 PTS),,,23 - 35,12,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,166,5,45,2,4:02 PM,7:30,,,Carter Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001023,168,8,0,2,4:02 PM,7:30,SUB: T. Mitchell FOR Vivians,,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,178,8,0,2,4:02 PM,7:30,,,SUB: E. Williams FOR Johnson,,,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,170,2,5,2,4:03 PM,7:13,MISS Mavunga 5' Layup,,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,171,4,0,2,4:03 PM,7:07,,,E. Williams REBOUND (Off:0 Def:2),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,172,1,5,2,4:03 PM,7:00,,,Billings 3' Layup (4 PTS) (Dietrick 1 AST),25 - 35,10,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,174,1,1,2,4:03 PM,6:38,Dupree 15' Jump Shot (6 PTS) (Doyle 1 AST),,,25 - 37,12,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,176,6,2,2,4:03 PM,6:38,,,Carter S.FOUL (P1.T3),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,180,8,0,2,4:04 PM,6:38,SUB: McCowan FOR Mavunga,,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,181,8,0,2,4:04 PM,6:38,,,SUB: Johnson FOR E. Williams,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,184,3,10,2,4:04 PM,6:38,Dupree Free Throw 1 of 1 (7 PTS),,,25 - 38,13,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,185,2,1,2,4:04 PM,6:22,,,MISS Billings 16' Jump Shot,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,186,4,0,2,4:04 PM,6:21,,,Laney REBOUND (Off:1 Def:3),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,187,2,3,2,4:04 PM,6:17,,,MISS Laney 6' Hook Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,188,4,0,2,4:04 PM,6:17,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,190,2,41,2,4:05 PM,5:55,MISS Burke 4' Running Layup,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,191,4,0,2,4:05 PM,5:53,,,Dietrick REBOUND (Off:0 Def:1),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,192,6,26,2,4:05 PM,5:35,,,Laney Offensive Charge Foul (P2),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,194,5,37,2,4:05 PM,5:35,,,Laney Offensive Foul Turnover (P2.T7),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001023,195,9,1,2,4:06 PM,5:35,FEVER Timeout: Regular (Full 1 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,197,8,0,2,4:07 PM,5:35,,,SUB: Agnew FOR Johnson,,,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,5,1630153,Jaylyn Agnew,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,198,8,0,2,4:07 PM,5:35,,,SUB: E. Williams FOR Laney,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,201,1,63,2,4:09 PM,5:25,T. Mitchell 13' Fadeaway Jumper (5 PTS),,,25 - 40,15,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,202,6,2,2,4:09 PM,5:25,,,Agnew S.FOUL (P1.T4),,,5,1630153,Jaylyn Agnew,1611661330.0,Atlanta,Dream,ATL,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,204,3,10,2,4:10 PM,5:25,T. Mitchell Free Throw 1 of 1 (6 PTS),,,25 - 41,16,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,205,1,5,2,4:10 PM,5:14,,,E. Williams 5' Layup (4 PTS) (Carter 1 AST),27 - 41,14,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,207,5,1,2,4:10 PM,5:05,Doyle Bad Pass Turnover (P1.T8),,Dietrick STEAL (1 STL),,,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,209,1,1,2,4:10 PM,5:00,,,Agnew 25' 3PT Jump Shot (3 PTS) (Dietrick 2 AST),30 - 41,11,5,1630153,Jaylyn Agnew,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,211,1,71,2,4:10 PM,4:42,McCowan 5' Finger Roll Layup (6 PTS) (Burke 1 AST),,,30 - 43,13,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,213,1,79,2,4:11 PM,4:25,,,Carter 13' Pullup Jump Shot (5 PTS) (E. Williams 2 AST),32 - 43,11,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,214,2,1,2,4:11 PM,4:09,MISS T. Mitchell 3PT Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,215,4,0,2,4:11 PM,4:02,,,Billings REBOUND (Off:2 Def:3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,216,2,1,2,4:11 PM,4:00,,,MISS Billings 10' Jump Shot,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,217,4,0,2,4:11 PM,3:57,McCowan REBOUND (Off:0 Def:2),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,218,1,5,2,4:11 PM,3:51,Dupree 5' Layup (9 PTS) (T. Mitchell 2 AST),,,32 - 45,13,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,220,6,26,2,4:11 PM,3:40,,,Carter Offensive Charge Foul (P2),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,222,5,37,2,4:11 PM,3:40,,,Carter Offensive Foul Turnover (P4.T8),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001023,223,8,0,2,4:12 PM,3:40,SUB: Allemand FOR Doyle,,,,,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,224,8,0,2,4:12 PM,3:40,SUB: K. Mitchell FOR Burke,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,228,6,26,2,4:12 PM,3:22,Dupree Offensive Charge Foul (P2),,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,230,5,37,2,4:12 PM,3:22,Dupree Offensive Foul Turnover (P1.T9),,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,231,1,1,2,4:13 PM,3:04,,,Agnew 3PT Jump Shot (6 PTS) (Dietrick 3 AST),35 - 45,10,5,1630153,Jaylyn Agnew,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,233,2,1,2,4:13 PM,2:42,MISS T. Mitchell 14' Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,234,4,0,2,4:13 PM,2:40,,,Carter REBOUND (Off:0 Def:1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,235,1,58,2,4:13 PM,2:29,,,E. Williams 4' Turnaround Hook Shot (6 PTS),37 - 45,8,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,236,9,1,2,4:13 PM,2:26,FEVER Timeout: Regular (Full 2 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,238,2,5,2,4:17 PM,2:05,MISS Dupree 6' Layup,,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,239,4,0,2,4:17 PM,2:04,McCowan REBOUND (Off:1 Def:2),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,240,2,5,2,4:17 PM,2:04,MISS McCowan 5' Layup,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,241,4,0,2,4:17 PM,2:04,Dupree REBOUND (Off:1 Def:1),,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,242,6,2,2,4:17 PM,2:04,,,Billings S.FOUL (P2.PN),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,244,3,11,2,4:17 PM,2:04,Dupree Free Throw 1 of 2 (10 PTS),,,37 - 46,9,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,245,3,12,2,4:18 PM,2:04,Dupree Free Throw 2 of 2 (11 PTS),,,37 - 47,10,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,247,8,0,2,4:18 PM,1:49,SUB: Burke FOR Dupree,,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,281,18,1,2,4:19 PM,1:38,,Instant Replay2nd Period (4:19 PM EST),,37 - 47,10,0,249,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001023,282,5,11,2,4:19 PM,1:38,,,Dream Turnover: Shot Clock (T#9),,,3,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001023,250,2,5,2,4:19 PM,1:29,MISS K. Mitchell 6' Layup,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,251,4,0,2,4:19 PM,1:29,,,Agnew REBOUND (Off:0 Def:1),,,5,1630153,Jaylyn Agnew,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,252,1,1,2,4:19 PM,1:22,,,Carter 13' Jump Shot (7 PTS),39 - 47,8,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,254,2,1,2,4:19 PM,0:55,MISS McCowan 26' 3PT Jump Shot,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,255,4,0,2,4:20 PM,0:51,,,Billings REBOUND (Off:2 Def:4),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,256,5,1,2,4:20 PM,0:51,Burke STEAL (1 STL),,Billings Bad Pass Turnover (P1.T10),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,258,6,3,2,4:20 PM,0:51,,,Carter L.B.FOUL (P3.PN),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,260,3,11,2,4:20 PM,0:51,MISS Burke Free Throw 1 of 2,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,261,4,1,2,4:20 PM,0:51,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,264,3,12,2,4:20 PM,0:51,MISS Burke Free Throw 2 of 2,,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,262,8,0,2,4:20 PM,0:51,,,SUB: C. Williams FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,265,4,0,2,4:20 PM,0:49,,,Billings REBOUND (Off:2 Def:5),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,267,2,1,2,4:21 PM,0:23,,,MISS Billings 17' Jump Shot,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,268,4,0,2,4:21 PM,0:21,K. Mitchell REBOUND (Off:0 Def:2),,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,269,2,1,2,4:21 PM,0:19,MISS T. Mitchell 19' Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,270,4,0,2,4:21 PM,0:16,T. Mitchell REBOUND (Off:2 Def:1),,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,271,2,5,2,4:21 PM,0:14,MISS T. Mitchell 5' Layup,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,272,4,0,2,4:21 PM,0:11,,,E. Williams REBOUND (Off:0 Def:3),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,273,2,1,2,4:22 PM,0:00,,,MISS C. Williams 18' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,274,4,0,2,4:22 PM,0:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,276,2,1,2,4:22 PM,0:00,McCowan BLOCK (1 BLK),,MISS C. Williams 19' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,1
+1022001023,278,4,0,2,4:22 PM,0:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,279,13,0,2,4:22 PM,0:00,,End of 2nd Period (4:22 PM EST),,39 - 47,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001023,291,12,0,3,4:37 PM,10:00,,Start of 3rd Period (4:37 PM EST),,39 - 47,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,292,1,5,3,4:38 PM,9:47,McCowan 6' Layup (8 PTS) (Dupree 4 AST),,,39 - 49,10,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,294,2,5,3,4:38 PM,9:27,,,MISS E. Williams 4' Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,295,4,0,3,4:38 PM,9:24,,,Carter REBOUND (Off:1 Def:1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,296,2,1,3,4:38 PM,9:13,,,MISS Stricklen 27' 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,297,4,0,3,4:38 PM,9:13,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,299,5,45,3,4:39 PM,9:00,Allemand Out of Bounds - Bad Pass Turnover Turnover (P4.T10),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,302,2,47,3,4:39 PM,8:34,,,MISS Billings 14' Turnaround Jump Shot,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,303,4,0,3,4:39 PM,8:32,Allemand REBOUND (Off:0 Def:3),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,304,5,39,3,4:40 PM,8:27,T. Mitchell Step Out of Bounds Turnover (P2.T11),,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,305,1,79,3,4:40 PM,8:10,,,Carter 21' Pullup Jump Shot (9 PTS),41 - 49,8,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,306,6,1,3,4:40 PM,7:51,,,Carter P.FOUL (P4.T1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,308,2,1,3,4:41 PM,7:41,MISS T. Mitchell 20' Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,309,4,0,3,4:41 PM,7:39,Allemand REBOUND (Off:1 Def:3),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,310,1,79,3,4:41 PM,7:36,McCowan 13' Pullup Jump Shot (10 PTS) (Allemand 4 AST),,,41 - 51,10,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,312,6,1,3,4:41 PM,7:24,K. Mitchell P.FOUL (P2.T1),,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,314,5,2,3,4:42 PM,7:12,T. Mitchell STEAL (2 STL),,Laney Lost Ball Turnover (P3.T11),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,316,1,5,3,4:42 PM,7:07,Allemand 2' Layup (10 PTS) (T. Mitchell 3 AST),,,41 - 53,12,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,318,6,26,3,4:42 PM,6:54,,,Carter Offensive Charge Foul (P5),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,320,5,37,3,4:42 PM,6:54,,,Carter Offensive Foul Turnover (P5.T12),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001023,321,8,0,3,4:42 PM,6:54,,,SUB: C. Williams FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,323,2,1,3,4:43 PM,6:42,MISS T. Mitchell 24' 3PT Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,324,4,0,3,4:43 PM,6:40,,,C. Williams REBOUND (Off:0 Def:1),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,325,1,2,3,4:43 PM,6:29,,,C. Williams 10' Running Jump Shot (8 PTS) (Laney 5 AST),43 - 53,10,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,327,2,1,3,4:43 PM,6:14,MISS T. Mitchell 26' 3PT Jump Shot,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,328,4,0,3,4:43 PM,6:12,,,E. Williams REBOUND (Off:0 Def:4),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,331,6,1,3,4:43 PM,6:03,K. Mitchell P.FOUL (P3.T2),,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,334,8,0,3,4:44 PM,6:03,SUB: Mavunga FOR McCowan,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,335,8,0,3,4:44 PM,6:03,SUB: Vivians FOR T. Mitchell,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,338,1,5,3,4:44 PM,5:54,,,E. Williams 4' Layup (8 PTS) (Laney 6 AST),45 - 53,8,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,340,5,4,3,4:45 PM,5:31,Mavunga Traveling Turnover (P2.T12),,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1022001023,341,2,1,3,4:45 PM,5:20,,,MISS Laney 18' Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,342,4,0,3,4:45 PM,5:19,Vivians REBOUND (Off:0 Def:3),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,343,2,1,3,4:45 PM,5:01,MISS Vivians 26' 3PT Jump Shot,,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,344,4,0,3,4:45 PM,4:59,Allemand REBOUND (Off:2 Def:3),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,345,2,1,3,4:45 PM,4:54,MISS Allemand 19' Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,346,4,0,3,4:45 PM,4:52,Vivians REBOUND (Off:1 Def:3),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,347,5,1,3,4:45 PM,4:51,Vivians Bad Pass Turnover (P1.T13),,Laney STEAL (4 STL),,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,349,1,1,3,4:46 PM,4:47,,,Stricklen 26' 3PT Jump Shot (6 PTS) (C. Williams 2 AST),48 - 53,5,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,351,9,1,3,4:46 PM,4:36,FEVER Timeout: Regular (Full 3 Short 0),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,352,1,78,3,4:49 PM,4:22,Dupree 8' Floating Jump Shot (13 PTS) (Vivians 1 AST),,,48 - 55,7,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,354,6,26,3,4:50 PM,4:02,,,Billings Offensive Charge Foul (P3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,356,5,37,3,4:50 PM,4:02,,,Billings Offensive Foul Turnover (P2.T13),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001023,357,1,1,3,4:50 PM,3:36,K. Mitchell 21' Jump Shot (8 PTS) (Dupree 5 AST),,,48 - 57,9,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,359,1,1,3,4:50 PM,3:27,,,C. Williams 15' Jump Shot (10 PTS),50 - 57,7,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,360,1,73,3,4:51 PM,3:13,Dupree 4' Driving Reverse Layup (15 PTS),,,50 - 59,9,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,361,6,1,3,4:51 PM,2:59,Vivians P.FOUL (P1.T3),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,363,8,0,3,4:51 PM,2:59,SUB: Burke FOR Dupree,,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,364,8,0,3,4:51 PM,2:59,,,SUB: Dietrick FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,367,2,2,3,4:52 PM,2:40,,,MISS C. Williams 21' Running Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,368,4,0,3,4:52 PM,2:38,Vivians REBOUND (Off:1 Def:4),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,369,1,5,3,4:52 PM,2:33,Mavunga 5' Layup (4 PTS) (Allemand 5 AST),,,50 - 61,11,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,371,6,2,3,4:52 PM,2:33,,,Stricklen S.FOUL (P1.T2),,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,373,3,10,3,4:52 PM,2:33,Mavunga Free Throw 1 of 1 (5 PTS),,,50 - 62,12,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,374,1,103,3,4:53 PM,2:22,,,C. Williams 9' Running Pull-Up Jump Shot (12 PTS) (Dietrick 4 AST),52 - 62,10,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,376,6,2,3,4:53 PM,2:10,,,Stricklen S.FOUL (P2.T3),,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,378,3,11,3,4:53 PM,2:10,Burke Free Throw 1 of 2 (6 PTS),,,52 - 63,11,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,379,3,12,3,4:54 PM,2:10,Burke Free Throw 2 of 2 (7 PTS),,,52 - 64,12,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,380,2,1,3,4:54 PM,1:53,,,MISS Stricklen 24' 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,381,4,0,3,4:54 PM,1:51,,,Laney REBOUND (Off:2 Def:3),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,382,1,6,3,4:54 PM,1:49,,,Laney 3' Driving Layup (9 PTS),54 - 64,10,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,383,5,45,3,4:54 PM,1:41,Allemand Out of Bounds - Bad Pass Turnover Turnover (P5.T14),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,385,1,5,3,4:55 PM,1:27,,,Laney 6' Layup (11 PTS),56 - 64,8,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,386,6,2,3,4:55 PM,1:27,Vivians S.FOUL (P2.T4),,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,388,8,0,3,4:55 PM,1:27,SUB: McCowan FOR Vivians,,,,,4,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,389,8,0,3,4:55 PM,1:27,,,SUB: Brewer FOR E. Williams,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1630095,Brittany Brewer,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,392,8,0,3,4:55 PM,1:27,SUB: T. Mitchell FOR Mavunga,,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,394,3,10,3,4:55 PM,1:27,,,Laney Free Throw 1 of 1 (12 PTS),57 - 64,7,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,395,1,1,3,4:56 PM,1:02,K. Mitchell 25' 3PT Jump Shot (11 PTS) (Allemand 6 AST),,,57 - 67,10,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,397,6,1,3,4:56 PM,0:49,K. Mitchell P.FOUL (P4.PN),,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,399,3,11,3,4:57 PM,0:49,,,Laney Free Throw 1 of 2 (13 PTS),58 - 67,9,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,402,3,12,3,4:57 PM,0:49,,,MISS Laney Free Throw 2 of 2,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,400,8,0,3,4:57 PM,0:49,SUB: Doyle FOR K. Mitchell,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,403,4,0,3,4:57 PM,0:46,McCowan REBOUND (Off:1 Def:3),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,404,2,80,3,4:57 PM,0:27,MISS Allemand 25' 3PT Step Back Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,405,4,0,3,4:57 PM,0:25,,,C. Williams REBOUND (Off:0 Def:2),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,406,5,11,3,4:58 PM,0:02,,,Dream Turnover: Shot Clock (T#14),,,3,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001023,407,2,2,3,4:58 PM,0:00,MISS Allemand 39' 3PT Running Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,408,4,0,3,4:58 PM,0:00,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,409,13,0,3,4:59 PM,0:00,,End of 3rd Period (4:59 PM EST),,58 - 67,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001023,412,12,0,4,5:02 PM,10:00,,Start of 4th Period (5:02 PM EST),,58 - 67,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,413,1,103,4,5:02 PM,9:47,,,C. Williams 20' Running Pull-Up Jump Shot (14 PTS),60 - 67,7,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,414,2,1,4,5:03 PM,9:21,MISS Allemand 20' Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,415,4,0,4,5:03 PM,9:19,,,C. Williams REBOUND (Off:0 Def:3),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,417,2,79,4,5:03 PM,9:01,,,MISS Stricklen 25' 3PT Pullup Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,418,4,0,4,5:03 PM,9:01,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,420,6,26,4,5:04 PM,8:47,McCowan Offensive Charge Foul (P1),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,422,5,37,4,5:04 PM,8:47,McCowan Offensive Foul Turnover (P1.T15),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022001023,423,1,5,4,5:04 PM,8:25,,,E. Williams 3' Layup (10 PTS) (C. Williams 3 AST),62 - 67,5,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,424,2,1,4,5:05 PM,8:05,MISS Doyle 3PT Jump Shot,,,,,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,425,4,0,4,5:05 PM,8:05,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,428,8,0,4,5:05 PM,8:05,SUB: Dupree FOR T. Mitchell,,,,,4,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,435,8,0,4,5:05 PM,8:05,SUB: K. Mitchell FOR Doyle,,,,,4,1630104,Kathleen Doyle,1611661325.0,Indiana,Fever,IND,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,431,1,71,4,5:05 PM,7:50,Dupree 3' Finger Roll Layup (17 PTS) (Allemand 7 AST),,,62 - 69,7,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,432,2,1,4,5:06 PM,7:43,,,MISS C. Williams 26' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,433,4,0,4,5:06 PM,7:43,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,436,2,6,4,5:06 PM,7:27,MISS K. Mitchell 5' Driving Layup,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,437,4,0,4,5:06 PM,7:25,,,E. Williams REBOUND (Off:0 Def:5),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,438,2,58,4,5:06 PM,7:16,,,MISS Stricklen 7' Turnaround Hook Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,439,4,0,4,5:06 PM,7:13,Dupree REBOUND (Off:1 Def:2),,,,,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,440,2,1,4,5:07 PM,6:53,MISS Allemand 27' 3PT Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,441,4,0,4,5:07 PM,6:53,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,442,5,11,4,5:07 PM,6:53,FEVER Turnover: Shot Clock (T#16),,,,,2,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001023,444,2,1,4,5:08 PM,6:34,,,MISS Stricklen 26' 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,445,4,0,4,5:08 PM,6:32,McCowan REBOUND (Off:1 Def:4),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,446,1,1,4,5:08 PM,6:27,Burke 14' Jump Shot (9 PTS) (K. Mitchell 3 AST),,,62 - 71,9,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,448,2,5,4,5:08 PM,6:08,,,MISS Laney 7' Layup,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,449,4,0,4,5:08 PM,6:07,McCowan REBOUND (Off:1 Def:5),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,450,6,1,4,5:09 PM,5:52,,,Stricklen P.FOUL (P3.T1),,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,452,9,4,4,5:09 PM,5:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,455,8,0,4,5:09 PM,5:52,,,SUB: Carter FOR Dietrick,,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,456,8,0,4,5:09 PM,5:52,,,SUB: Billings FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,459,6,1,4,5:13 PM,5:45,,,C. Williams P.FOUL (P1.T2),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,461,6,2,4,5:13 PM,5:35,,,C. Williams S.FOUL (P2.T3),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,463,3,11,4,5:13 PM,5:35,K. Mitchell Free Throw 1 of 2 (12 PTS),,,62 - 72,10,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,464,3,12,4,5:13 PM,5:35,MISS K. Mitchell Free Throw 2 of 2,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,465,4,0,4,5:14 PM,5:31,,,Billings REBOUND (Off:2 Def:6),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,466,2,1,4,5:14 PM,5:19,,,MISS C. Williams 18' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,467,4,0,4,5:14 PM,5:17,Allemand REBOUND (Off:2 Def:4),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,468,1,5,4,5:14 PM,5:14,K. Mitchell 4' Layup (14 PTS) (Allemand 8 AST),,,62 - 74,12,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,470,1,1,4,5:14 PM,5:04,,,Carter 21' Jump Shot (11 PTS),64 - 74,10,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,471,2,5,4,5:14 PM,4:48,MISS McCowan 5' Layup,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,472,4,0,4,5:14 PM,4:47,,,E. Williams REBOUND (Off:0 Def:6),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,473,1,1,4,5:15 PM,4:42,,,C. Williams 15' Jump Shot (16 PTS),66 - 74,8,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,474,1,5,4,5:15 PM,4:24,K. Mitchell 4' Layup (16 PTS) (Allemand 9 AST),,,66 - 76,10,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,476,1,5,4,5:15 PM,4:05,,,E. Williams 3' Layup (12 PTS) (C. Williams 4 AST),68 - 76,8,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,478,6,2,4,5:16 PM,3:46,,,E. Williams S.FOUL (P1.T4),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,480,3,11,4,5:16 PM,3:46,McCowan Free Throw 1 of 2 (11 PTS),,,68 - 77,9,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,481,3,12,4,5:16 PM,3:46,McCowan Free Throw 2 of 2 (12 PTS),,,68 - 78,10,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,482,1,75,4,5:16 PM,3:36,,,E. Williams 4' Driving Finger Roll Layup (14 PTS) (Carter 2 AST),70 - 78,8,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001023,484,6,2,4,5:16 PM,3:36,McCowan S.FOUL (P2.T1),,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,486,8,0,4,5:17 PM,3:36,SUB: Mavunga FOR McCowan,,,,,4,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022001023,488,3,10,4,5:17 PM,3:36,,,E. Williams Free Throw 1 of 1 (15 PTS),71 - 78,7,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001023,489,2,103,4,5:18 PM,3:17,MISS Allemand 10' Running Pull-Up Jump Shot,,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,490,4,0,4,5:18 PM,3:17,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,492,6,1,4,5:18 PM,3:10,,,E. Williams P.FOUL (P2.PN),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,494,3,11,4,5:18 PM,3:10,Mavunga Free Throw 1 of 2 (6 PTS),,,71 - 79,8,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,495,3,12,4,5:19 PM,3:10,Mavunga Free Throw 2 of 2 (7 PTS),,,71 - 80,9,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,496,2,5,4,5:19 PM,2:54,Mavunga BLOCK (1 BLK),,MISS E. Williams 5' Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,1
+1022001023,498,4,0,4,5:19 PM,2:54,Mavunga REBOUND (Off:0 Def:3),,,,,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,499,6,1,4,5:19 PM,2:54,,,E. Williams P.FOUL (P3.PN),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,501,9,1,4,5:20 PM,2:54,,,Dream Timeout: Regular (Reg.1 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,502,3,11,4,5:23 PM,2:54,Mavunga Free Throw 1 of 2 (8 PTS),,,71 - 81,10,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,503,3,12,4,5:23 PM,2:54,Mavunga Free Throw 2 of 2 (9 PTS),,,71 - 82,11,4,1628906,Stephanie Mavunga,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,504,1,103,4,5:23 PM,2:40,,,C. Williams 21' Running Pull-Up Jump Shot (18 PTS),73 - 82,9,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,505,6,2,4,5:24 PM,2:19,,,E. Williams S.FOUL (P4.PN),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022001023,507,3,11,4,5:24 PM,2:19,MISS K. Mitchell Free Throw 1 of 2,,,,,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,508,4,1,4,5:24 PM,2:19,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,509,8,0,4,5:24 PM,2:19,,,SUB: Dietrick FOR Laney,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,511,3,12,4,5:24 PM,2:19,K. Mitchell Free Throw 2 of 2 (17 PTS),,,73 - 83,10,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022001023,512,2,6,4,5:25 PM,2:00,,,MISS C. Williams 4' Driving Layup,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,513,4,0,4,5:25 PM,1:58,Allemand REBOUND (Off:2 Def:5),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,514,1,99,4,5:25 PM,1:49,Dupree 5' Cutting Finger Roll Layup Shot (19 PTS) (Burke 2 AST),,,73 - 85,12,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,516,2,79,4,5:25 PM,1:38,,,MISS Carter 6' Pullup Jump Shot,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,517,4,0,4,5:25 PM,1:38,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001023,521,8,0,4,5:25 PM,1:38,,,SUB: Agnew FOR E. Williams,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1630153,Jaylyn Agnew,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,522,8,0,4,5:25 PM,1:38,,,SUB: Brewer FOR C. Williams,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,1630095,Brittany Brewer,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001023,519,18,0,4,5:26 PM,1:38,,Instant Replay4th Period (5:26 PM EST),,73 - 85,12,0,516,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001023,520,1,1,4,5:29 PM,1:22,K. Mitchell 25' 3PT Jump Shot (20 PTS),,,73 - 88,15,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,525,6,1,4,5:29 PM,1:14,Allemand P.FOUL (P2.T2),,,,,4,1627700,Julie Allemand,1611661325.0,Indiana,Fever,IND,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001023,527,1,75,4,5:29 PM,1:04,,,Carter 4' Driving Finger Roll Layup (13 PTS),75 - 88,13,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,528,1,1,4,5:30 PM,0:45,K. Mitchell 27' 3PT Jump Shot (23 PTS) (Burke 3 AST),,,75 - 91,16,4,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,530,1,75,4,5:30 PM,0:33,,,Carter 2' Driving Finger Roll Layup (15 PTS),77 - 91,14,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,531,1,1,4,5:30 PM,0:15,Dupree 10' Jump Shot (21 PTS) (Burke 4 AST),,,77 - 93,16,4,200676,Candice Dupree,1611661325.0,Indiana,Fever,IND,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022001023,533,2,79,4,5:31 PM,0:00,,,MISS Dietrick 20' Pullup Jump Shot,,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001023,534,4,0,4,5:31 PM,0:00,Burke REBOUND (Off:2 Def:1),,,,,4,1629568,Kennedy Burke,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022001023,535,13,0,4,5:31 PM,0:00,,End of 4th Period (5:31 PM EST),,77 - 93,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

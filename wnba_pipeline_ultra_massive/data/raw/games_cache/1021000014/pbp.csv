@@ -1,0 +1,424 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021000014,0,12,0,1,8:09 PM,10:00,,Start of 1st Period (8:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,1,10,0,1,8:09 PM,10:00,Jump Ball Fowles vs. Sutton-Brown: Tip to Canty,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0
+1021000014,2,2,1,1,8:10 PM,9:30,MISS Fowles 10' Jump Shot,,Catchings BLOCK (1 BLK),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1021000014,3,4,0,1,8:10 PM,9:28,,,Hoffman REBOUND (Off:0 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,4,1,1,1,8:10 PM,9:21,,,Hoffman  3PT Jump Shot (3 PTS),3 - 0,-3,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,5,1,1,1,8:11 PM,8:54,Canty 18' Jump Shot (2 PTS) (Perkins 1 AST),,,3 - 2,-1,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,6,1,1,1,8:11 PM,8:46,,,Douglas 16' Jump Shot (2 PTS) (January 1 AST),5 - 2,-3,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,7,2,1,1,8:11 PM,8:23,MISS Perkins 16' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,8,4,0,1,8:11 PM,8:21,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,9,5,1,1,8:12 PM,8:11,Irvin STEAL (1 STL),,January Bad Pass Turnover (P1.T1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,10,6,3,1,8:12 PM,8:11,,,Hoffman L.B.FOUL (P1.T1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,11,6,1,1,8:12 PM,7:50,,,January P.FOUL (P1.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,12,5,1,1,8:13 PM,7:42,Perkins Bad Pass Turnover (P1.T1),,Douglas STEAL (1 STL),,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,13,2,1,1,8:13 PM,7:35,,,MISS Hoffman 16' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,14,4,0,1,8:13 PM,7:33,Kraayeveld REBOUND (Off:0 Def:1),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,15,5,2,1,8:13 PM,7:24,Fowles Lost Ball Turnover (P1.T2),,Douglas STEAL (2 STL),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,16,1,5,1,8:13 PM,7:21,,,January  Layup (2 PTS) (Douglas 1 AST),7 - 2,-5,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,17,6,2,1,8:13 PM,7:21,Irvin S.FOUL (P1.T1),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,18,8,0,1,8:14 PM,7:21,SUB: Christon FOR Irvin,,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,23,5,17,1,8:14 PM,7:21,,,Sutton-Brown Lane Violation Turnover (P1.T2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,21,1,5,1,8:14 PM,7:15,Kraayeveld  Layup (2 PTS),,,7 - 4,-3,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,24,6,1,1,8:15 PM,6:54,Christon P.FOUL (P1.T2),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,25,1,1,1,8:15 PM,6:45,,,Catchings 19' Jump Shot (2 PTS) (January 2 AST),9 - 4,-5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,26,1,1,1,8:15 PM,6:28,Christon  3PT Jump Shot (3 PTS) (Canty 1 AST),,,9 - 7,-2,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,27,2,5,1,8:15 PM,6:14,Fowles BLOCK (1 BLK),,MISS Sutton-Brown  Layup,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000014,28,4,0,1,8:16 PM,6:12,Fowles REBOUND (Off:0 Def:1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,29,2,1,1,8:16 PM,6:06,MISS Kraayeveld 20' Jump Shot,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,30,4,0,1,8:16 PM,6:03,Fowles REBOUND (Off:1 Def:1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,31,2,5,1,8:16 PM,6:02,MISS Fowles  Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,32,4,0,1,8:16 PM,6:01,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,33,6,1,1,8:16 PM,5:46,Perkins P.FOUL (P1.T3),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,34,2,1,1,8:17 PM,5:38,,,MISS Hoffman 17' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,35,4,0,1,8:17 PM,5:36,Fowles REBOUND (Off:1 Def:2),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,36,1,42,1,8:17 PM,5:32,Canty  Driving Layup (4 PTS),,,9 - 9,TIE,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,37,6,2,1,8:17 PM,5:32,,,January S.FOUL (P2.T3),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,38,3,10,1,8:17 PM,5:32,Canty Free Throw 1 of 1 (5 PTS),,,9 - 10,1,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,40,5,40,1,8:17 PM,5:19,,,Douglas Out of Bounds Lost Ball Turnover (P1.T3),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,41,6,2,1,8:18 PM,5:05,,,Hoffman S.FOUL (P2.T4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,42,8,0,1,8:18 PM,5:05,,,SUB: Bevilaqua FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,43,3,11,1,8:18 PM,5:05,Kraayeveld Free Throw 1 of 2 (3 PTS),,,9 - 11,2,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,45,8,0,1,8:18 PM,5:05,,,SUB: Moore FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,46,3,12,1,8:18 PM,5:05,Kraayeveld Free Throw 2 of 2 (4 PTS),,,9 - 12,3,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,48,5,1,1,8:19 PM,4:59,Kraayeveld STEAL (1 STL),,Douglas Bad Pass Turnover (P2.T4),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,49,2,5,1,8:19 PM,4:46,MISS Christon  Layup,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,50,4,0,1,8:19 PM,4:45,,,Moore REBOUND (Off:0 Def:1),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,51,2,1,1,8:19 PM,4:37,,,MISS Catchings 18' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,52,4,0,1,8:19 PM,4:34,,,Sutton-Brown REBOUND (Off:1 Def:0),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,53,2,5,1,8:19 PM,4:32,,,MISS Catchings  Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,54,4,0,1,8:19 PM,4:31,Christon REBOUND (Off:0 Def:1),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,55,6,1,1,8:19 PM,4:29,,,Bevilaqua P.FOUL (P1.PN),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,56,9,1,1,8:19 PM,4:29,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,58,3,11,1,8:22 PM,4:29,Canty Free Throw 1 of 2 (6 PTS),,,9 - 13,4,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,60,3,12,1,8:22 PM,4:29,Canty Free Throw 2 of 2 (7 PTS),,,9 - 14,5,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,62,2,1,1,8:23 PM,4:03,,,MISS Sutton-Brown 17' Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,64,4,0,1,8:23 PM,4:02,,,Moore REBOUND (Off:1 Def:1),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,63,1,72,1,8:23 PM,4:02,,,Moore  Putback Layup (2 PTS),11 - 14,3,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,65,2,1,1,8:23 PM,3:49,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,66,4,0,1,8:23 PM,3:49,Kraayeveld REBOUND (Off:1 Def:1),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,67,6,1,1,8:23 PM,3:49,,,Moore P.FOUL (P1.PN),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,68,3,11,1,8:24 PM,3:49,Kraayeveld Free Throw 1 of 2 (5 PTS),,,11 - 15,4,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,70,8,0,1,8:24 PM,3:49,SUB: Prince FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,71,3,12,1,8:24 PM,3:49,Kraayeveld Free Throw 2 of 2 (6 PTS),,,11 - 16,5,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,73,2,1,1,8:24 PM,3:25,,,MISS Sutton-Brown 16' Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,74,4,0,1,8:24 PM,3:24,Kraayeveld REBOUND (Off:1 Def:2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,75,2,1,1,8:25 PM,3:09,MISS Perkins 20' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,77,4,0,1,8:25 PM,3:08,Kraayeveld REBOUND (Off:2 Def:2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,76,1,72,1,8:25 PM,3:08,Kraayeveld  Putback Layup (8 PTS),,,11 - 18,7,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,78,5,2,1,8:25 PM,2:52,Prince STEAL (1 STL),,Catchings Lost Ball Turnover (P1.T5),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,79,1,42,1,8:25 PM,2:47,Christon  Driving Layup (5 PTS) (Prince 1 AST),,,11 - 20,9,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,80,9,1,1,8:25 PM,2:45,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,81,8,0,1,8:27 PM,2:45,,,SUB: Murphy FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,82,8,0,1,8:28 PM,2:45,SUB: Bass FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,83,2,5,1,8:28 PM,2:31,,,MISS Bevilaqua  Layup,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,84,4,0,1,8:28 PM,2:31,,,Sutton-Brown REBOUND (Off:2 Def:0),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,85,1,5,1,8:28 PM,2:31,,,Sutton-Brown  Layup (2 PTS),13 - 20,7,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,86,6,2,1,8:28 PM,2:31,Perkins S.FOUL (P2.T4),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,87,3,10,1,8:28 PM,2:31,,,Sutton-Brown Free Throw 1 of 1 (3 PTS),14 - 20,6,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,89,1,1,1,8:29 PM,2:17,Kraayeveld 18' Jump Shot (10 PTS) (Christon 1 AST),,,14 - 22,8,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,90,5,1,1,8:29 PM,1:56,Prince STEAL (2 STL),,Moore Bad Pass Turnover (P1.T6),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,91,6,1,1,8:29 PM,1:53,,,Bevilaqua P.FOUL (P2.PN),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,92,8,0,1,8:29 PM,1:53,SUB: Thorn FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,93,8,0,1,8:29 PM,1:53,,,SUB: Hoffman FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,94,3,11,1,8:29 PM,1:53,Prince Free Throw 1 of 2 (1 PTS),,,14 - 23,9,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,96,8,0,1,8:30 PM,1:53,,,SUB: January FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,97,3,12,1,8:30 PM,1:53,Prince Free Throw 2 of 2 (2 PTS),,,14 - 24,10,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,99,1,1,1,8:30 PM,1:37,,,Murphy  3PT Jump Shot (3 PTS) (January 3 AST),17 - 24,7,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,100,1,1,1,8:31 PM,1:14,Prince 16' Jump Shot (4 PTS),,,17 - 26,9,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,101,2,1,1,8:31 PM,0:55,,,MISS Moore 16' Jump Shot,,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,102,4,0,1,8:31 PM,0:55,,,Murphy REBOUND (Off:1 Def:0),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,103,6,2,1,8:31 PM,0:55,Thorn S.FOUL (P1.PN),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,104,3,11,1,8:32 PM,0:55,,,Murphy Free Throw 1 of 2 (4 PTS),18 - 26,8,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,106,8,0,1,8:32 PM,0:55,SUB: Young FOR Christon,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,107,3,12,1,8:32 PM,0:55,,,Murphy Free Throw 2 of 2 (5 PTS),19 - 26,7,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,109,1,1,1,8:32 PM,0:30,Thorn 17' Jump Shot (2 PTS) (Prince 2 AST),,,19 - 28,9,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,110,1,77,1,8:33 PM,0:13,,,Murphy 12' Driving Jump Shot (7 PTS),21 - 28,7,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,111,5,1,1,8:33 PM,0:00,Thorn Bad Pass Turnover (P1.T3),,Murphy STEAL (1 STL),,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,112,13,0,1,8:33 PM,0:00,,End of 1st Period (8:33 PM EST),,21 - 28,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,114,12,0,2,8:36 PM,10:00,,Start of 2nd Period (8:36 PM EST),,21 - 28,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,115,6,1,2,8:37 PM,9:52,Young P.FOUL (P1.T1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,116,5,1,2,8:37 PM,9:41,Bass STEAL (1 STL),,Hoffman Bad Pass Turnover (P1.T7),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,117,1,1,2,8:37 PM,9:33,Young 14' Jump Shot (2 PTS) (Prince 3 AST),,,21 - 30,9,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,118,5,39,2,8:38 PM,9:11,,,Davenport Step Out of Bounds Turnover (P1.T8),,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,119,1,1,2,8:38 PM,8:57,Prince  3PT Jump Shot (7 PTS),,,21 - 33,12,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,120,1,1,2,8:38 PM,8:37,,,Murphy  3PT Jump Shot (10 PTS) (Douglas 2 AST),24 - 33,9,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,121,5,1,2,8:39 PM,8:27,Bass Bad Pass Turnover (P1.T4),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,122,8,0,2,8:39 PM,8:27,,,SUB: Catchings FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,123,2,1,2,8:39 PM,8:15,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,124,4,0,2,8:39 PM,8:13,Fowles REBOUND (Off:1 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,125,1,5,2,8:39 PM,7:57,Fowles  Layup (2 PTS) (Thorn 1 AST),,,24 - 35,11,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,126,1,1,2,8:40 PM,7:34,,,Murphy 17' Jump Shot (12 PTS),26 - 35,9,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,127,5,4,2,8:40 PM,7:25,Prince Traveling Turnover (P1.T5),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000014,128,8,0,2,8:40 PM,7:25,,,SUB: Sutton-Brown FOR Davenport,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,129,8,0,2,8:40 PM,7:25,SUB: Canty FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,130,1,5,2,8:41 PM,7:09,,,Sutton-Brown  Layup (5 PTS) (January 4 AST),28 - 35,7,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,131,1,1,2,8:41 PM,6:58,Prince 16' Jump Shot (9 PTS),,,28 - 37,9,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,132,6,2,2,8:41 PM,6:45,Canty S.FOUL (P1.T2),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,133,8,0,2,8:41 PM,6:45,SUB: Perkins FOR Prince,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,134,3,11,2,8:41 PM,6:45,,,MISS Sutton-Brown Free Throw 1 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,135,4,1,2,8:41 PM,6:45,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,136,8,0,2,8:42 PM,6:45,SUB: Kraayeveld FOR Bass,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,137,3,12,2,8:42 PM,6:45,,,Sutton-Brown Free Throw 2 of 2 (6 PTS),29 - 37,8,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,139,5,1,2,8:42 PM,6:27,Thorn Bad Pass Turnover (P2.T6),,Sutton-Brown STEAL (1 STL),,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,140,6,1,2,8:42 PM,6:20,Canty P.FOUL (P2.T3),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,141,2,1,2,8:43 PM,6:03,,,MISS January 19' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,143,4,0,2,8:43 PM,6:02,,,Murphy REBOUND (Off:2 Def:0),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,142,2,72,2,8:43 PM,6:02,,,MISS Murphy  Putback Layup,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,144,4,0,2,8:43 PM,6:01,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,145,6,1,2,8:44 PM,6:01,,,Murphy P.FOUL (P1.T1),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,146,2,1,2,8:44 PM,5:43,MISS Thorn  3PT Jump Shot,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,147,4,0,2,8:44 PM,5:43,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,148,6,3,2,8:44 PM,5:43,,,Sutton-Brown L.B.FOUL (P1.T2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,149,9,1,2,8:44 PM,5:43,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,151,2,1,2,8:47 PM,5:28,MISS Kraayeveld  3PT Jump Shot,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,152,4,0,2,8:47 PM,5:27,,,Sutton-Brown REBOUND (Off:2 Def:1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,153,1,1,2,8:48 PM,5:16,,,January 19' Jump Shot (4 PTS),31 - 37,6,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,154,2,1,2,8:48 PM,4:50,MISS Canty 15' Jump Shot,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,155,4,0,2,8:48 PM,4:49,,,Sutton-Brown REBOUND (Off:2 Def:2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,156,1,46,2,8:48 PM,4:43,,,Catchings 11' Running Jump Shot (4 PTS),33 - 37,4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,157,6,2,2,8:48 PM,4:43,Kraayeveld S.FOUL (P1.T4),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,158,8,0,2,8:48 PM,4:43,SUB: Christon FOR Thorn,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,159,3,10,2,8:49 PM,4:43,,,Catchings Free Throw 1 of 1 (5 PTS),34 - 37,3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,161,1,5,2,8:49 PM,4:35,Fowles  Layup (4 PTS) (Christon 2 AST),,,34 - 39,5,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,162,6,2,2,8:49 PM,4:35,,,January S.FOUL (P3.T3),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,163,8,0,2,8:49 PM,4:35,,,SUB: Bevilaqua FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,164,3,10,2,8:49 PM,4:35,Fowles Free Throw 1 of 1 (5 PTS),,,34 - 40,6,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,166,1,1,2,8:50 PM,4:16,,,Catchings 20' Jump Shot (7 PTS) (Douglas 3 AST),36 - 40,4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,167,1,5,2,8:50 PM,3:59,Fowles  Layup (7 PTS) (Perkins 2 AST),,,36 - 42,6,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,168,1,1,2,8:50 PM,3:40,,,Catchings 17' Jump Shot (9 PTS),38 - 42,4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,169,5,1,2,8:51 PM,3:29,Canty Bad Pass Turnover (P1.T7),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,170,5,1,2,8:51 PM,3:28,Canty STEAL (1 STL),,Douglas Bad Pass Turnover (P3.T9),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,171,1,1,2,8:51 PM,3:22,Christon 15' Jump Shot (7 PTS) (Canty 2 AST),,,38 - 44,6,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,172,1,1,2,8:51 PM,3:05,,,Murphy  3PT Jump Shot (15 PTS) (Catchings 1 AST),41 - 44,3,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,173,9,1,2,8:52 PM,2:46,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,177,2,1,2,8:55 PM,2:40,MISS Christon 19' Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,178,4,0,2,8:55 PM,2:39,Kraayeveld REBOUND (Off:3 Def:2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,179,2,1,2,8:55 PM,2:28,MISS Perkins  3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,180,4,0,2,8:56 PM,2:26,,,Bevilaqua REBOUND (Off:0 Def:1),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,181,6,1,2,8:56 PM,2:26,Christon P.FOUL (P2.PN),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,182,3,11,2,8:56 PM,2:26,,,MISS Murphy Free Throw 1 of 2,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,183,4,1,2,8:56 PM,2:26,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,184,3,12,2,8:56 PM,2:26,,,Murphy Free Throw 2 of 2 (16 PTS),42 - 44,2,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,186,6,4,2,8:57 PM,2:11,Kraayeveld OFF.Foul (P2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,187,5,5,2,8:57 PM,2:11,Kraayeveld Foul Turnover (P1.T8),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000014,188,8,0,2,8:57 PM,2:11,SUB: Prince FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,189,2,1,2,8:57 PM,1:50,,,MISS Bevilaqua 25' 3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,190,4,0,2,8:57 PM,1:49,Fowles REBOUND (Off:1 Def:4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,191,2,5,2,8:58 PM,1:34,MISS Prince  Layup,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,192,4,0,2,8:58 PM,1:33,Fowles REBOUND (Off:2 Def:4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,193,6,2,2,8:58 PM,1:33,,,Catchings S.FOUL (P1.T4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,194,3,11,2,8:58 PM,1:33,MISS Fowles Free Throw 1 of 2,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,195,4,1,2,8:58 PM,1:33,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,196,3,12,2,8:58 PM,1:33,Fowles Free Throw 2 of 2 (8 PTS),,,42 - 45,3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,198,6,2,2,8:59 PM,1:24,Kraayeveld S.FOUL (P3.PN),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,199,3,11,2,8:59 PM,1:24,,,MISS Catchings Free Throw 1 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,200,4,1,2,8:59 PM,1:24,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,201,8,0,2,8:59 PM,1:24,SUB: Irvin FOR Kraayeveld,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,202,3,12,2,8:59 PM,1:24,,,Catchings Free Throw 2 of 2 (10 PTS),43 - 45,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,204,5,2,2,8:59 PM,1:16,Prince Lost Ball Turnover (P2.T9),,Catchings STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,205,5,1,2,9:00 PM,1:16,,,Catchings Bad Pass Turnover (P2.T10),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,206,5,1,2,9:00 PM,1:16,Christon Bad Pass Turnover (P1.T10),,Bevilaqua STEAL (1 STL),,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,207,6,2,2,9:00 PM,1:16,Perkins S.FOUL (P3.PN),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,208,3,11,2,9:01 PM,1:16,,,Murphy Free Throw 1 of 2 (17 PTS),44 - 45,1,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,210,3,12,2,9:01 PM,1:16,,,Murphy Free Throw 2 of 2 (18 PTS),45 - 45,TIE,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,212,6,2,2,9:01 PM,1:11,,,Sutton-Brown S.FOUL (P2.PN),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,213,3,11,2,9:01 PM,1:11,Christon Free Throw 1 of 2 (8 PTS),,,45 - 46,1,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,215,8,0,2,9:01 PM,1:11,SUB: Thorn FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,216,3,12,2,9:02 PM,1:11,Christon Free Throw 2 of 2 (9 PTS),,,45 - 47,2,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,219,1,1,2,9:02 PM,0:58,,,Douglas  3PT Jump Shot (5 PTS) (Catchings 2 AST),48 - 47,-1,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,220,1,1,2,9:02 PM,0:46,Prince 13' Jump Shot (11 PTS),,,48 - 49,1,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,221,6,1,2,9:03 PM,0:23,Fowles P.FOUL (P1.PN),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,222,3,11,2,9:03 PM,0:23,,,MISS Bevilaqua Free Throw 1 of 2,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,223,4,1,2,9:03 PM,0:23,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,224,3,12,2,9:03 PM,0:23,,,MISS Bevilaqua Free Throw 2 of 2,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,226,4,0,2,9:03 PM,0:21,,,Catchings REBOUND (Off:1 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,227,1,1,2,9:04 PM,0:04,,,Sutton-Brown 14' Jump Shot (8 PTS) (Catchings 3 AST),50 - 49,-1,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,228,6,2,2,9:04 PM,0:01,,,Bevilaqua S.FOUL (P3.PN),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,229,3,13,2,9:04 PM,0:01,Prince Free Throw 1 of 3 (12 PTS),,,50 - 50,TIE,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,231,3,14,2,9:04 PM,0:01,Prince Free Throw 2 of 3 (13 PTS),,,50 - 51,1,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,233,3,15,2,9:05 PM,0:01,Prince Free Throw 3 of 3 (14 PTS),,,50 - 52,2,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,235,13,0,2,9:05 PM,0:00,,End of 2nd Period (9:05 PM EST),,50 - 52,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,237,12,0,3,9:21 PM,10:00,,Start of 3rd Period (9:21 PM EST),,50 - 52,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,238,5,1,3,9:22 PM,9:45,Kraayeveld STEAL (2 STL),,January Bad Pass Turnover (P2.T11),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,239,2,1,3,9:22 PM,9:20,MISS Christon 19' Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,240,4,0,3,9:22 PM,9:19,,,Catchings REBOUND (Off:1 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,241,2,1,3,9:22 PM,9:12,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,242,4,0,3,9:22 PM,9:11,Perkins REBOUND (Off:0 Def:1),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,243,6,1,3,9:22 PM,9:05,,,Catchings P.FOUL (P2.T1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,244,2,1,3,9:23 PM,8:55,MISS Kraayeveld  3PT Jump Shot,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,245,4,0,3,9:23 PM,8:54,,,Murphy REBOUND (Off:2 Def:1),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,246,1,1,3,9:23 PM,8:39,,,Douglas  3PT Jump Shot (8 PTS) (Murphy 1 AST),53 - 52,-1,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,247,1,42,3,9:24 PM,8:11,Fowles  Driving Layup (10 PTS) (Canty 3 AST),,,53 - 54,1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,248,2,5,3,9:24 PM,7:58,,,MISS January  Layup,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,250,4,0,3,9:24 PM,7:55,,,January REBOUND (Off:1 Def:0),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,249,6,1,3,9:24 PM,7:55,Fowles P.FOUL (P2.T1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,251,2,1,3,9:24 PM,7:43,,,MISS Sutton-Brown 13' Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,252,4,0,3,9:24 PM,7:43,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,254,1,1,3,9:25 PM,7:39,,,Catchings  3PT Jump Shot (13 PTS) (Sutton-Brown 1 AST),56 - 54,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,255,2,1,3,9:25 PM,7:24,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,256,4,0,3,9:25 PM,7:23,,,Murphy REBOUND (Off:2 Def:2),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,257,6,2,3,9:25 PM,7:11,Christon S.FOUL (P3.T2),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,258,3,11,3,9:26 PM,7:11,,,Sutton-Brown Free Throw 1 of 2 (9 PTS),57 - 54,-3,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,260,3,12,3,9:26 PM,7:11,,,Sutton-Brown Free Throw 2 of 2 (10 PTS),58 - 54,-4,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,262,2,1,3,9:26 PM,6:53,MISS Perkins 16' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,264,4,0,3,9:26 PM,6:52,Fowles REBOUND (Off:3 Def:4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,263,1,72,3,9:26 PM,6:52,Fowles  Putback Layup (12 PTS),,,58 - 56,-2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,265,2,1,3,9:26 PM,6:39,,,MISS Murphy  3PT Jump Shot,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,266,4,0,3,9:26 PM,6:38,Canty REBOUND (Off:0 Def:1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,267,1,1,3,9:27 PM,6:29,Kraayeveld  3PT Jump Shot (13 PTS) (Canty 4 AST),,,58 - 59,1,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,268,2,1,3,9:27 PM,6:00,,,MISS Murphy  3PT Jump Shot,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,269,4,0,3,9:27 PM,5:59,Christon REBOUND (Off:0 Def:2),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,270,1,1,3,9:27 PM,5:53,Kraayeveld  3PT Jump Shot (16 PTS) (Christon 3 AST),,,58 - 62,4,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,271,9,1,3,9:27 PM,5:51,,,Fever Timeout: Regular (Reg.3 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,273,6,4,3,9:31 PM,5:40,,,January OFF.Foul (P4),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,274,5,5,3,9:31 PM,5:40,,,January Foul Turnover (P3.T12),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1021000014,275,5,1,3,9:31 PM,5:21,Canty Bad Pass Turnover (P2.T11),,January STEAL (1 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,276,2,1,3,9:32 PM,5:10,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,277,4,0,3,9:32 PM,5:08,,,Sutton-Brown REBOUND (Off:3 Def:2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,278,1,1,3,9:32 PM,4:58,,,Catchings 20' Jump Shot (15 PTS) (Douglas 4 AST),60 - 62,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,279,2,5,3,9:32 PM,4:40,MISS Perkins  Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,280,4,0,3,9:32 PM,4:38,,,Sutton-Brown REBOUND (Off:3 Def:3),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,281,2,1,3,9:32 PM,4:17,,,MISS Sutton-Brown 13' Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,282,4,0,3,9:33 PM,4:16,Fowles REBOUND (Off:3 Def:5),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,283,6,4,3,9:33 PM,4:13,Canty OFF.Foul (P3),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,284,5,5,3,9:33 PM,4:13,Canty Foul Turnover (P3.T12),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000014,285,8,0,3,9:33 PM,4:13,,,SUB: Bevilaqua FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,286,8,0,3,9:33 PM,4:13,SUB: Thorn FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,287,2,1,3,9:34 PM,3:48,,,MISS Sutton-Brown 17' Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,288,4,0,3,9:34 PM,3:48,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,289,6,3,3,9:34 PM,3:48,,,Douglas L.B.FOUL (P1.T2),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,290,8,0,3,9:34 PM,3:48,SUB: Prince FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,291,8,0,3,9:34 PM,3:42,,,SUB: Quigley FOR Murphy,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,5,201516,Allie Quigley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,292,1,1,3,9:35 PM,3:32,Thorn 17' Jump Shot (4 PTS) (Christon 4 AST),,,60 - 64,4,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,293,1,42,3,9:35 PM,3:20,,,Catchings  Driving Layup (17 PTS),62 - 64,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,294,6,2,3,9:35 PM,3:20,Kraayeveld S.FOUL (P4.T3),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,295,8,0,3,9:35 PM,3:20,SUB: Young FOR Christon,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,296,3,10,3,9:35 PM,3:20,,,Catchings Free Throw 1 of 1 (18 PTS),63 - 64,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,298,6,2,3,9:36 PM,3:08,,,Sutton-Brown S.FOUL (P3.T3),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,299,8,0,3,9:36 PM,3:08,SUB: Irvin FOR Kraayeveld,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,300,8,0,3,9:36 PM,3:08,,,SUB: Hoffman FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,301,3,11,3,9:36 PM,3:08,Fowles Free Throw 1 of 2 (13 PTS),,,63 - 65,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,303,3,12,3,9:36 PM,3:08,Fowles Free Throw 2 of 2 (14 PTS),,,63 - 66,3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,305,2,1,3,9:37 PM,2:49,,,MISS Douglas 11' Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,306,4,0,3,9:37 PM,2:48,Thorn REBOUND (Off:0 Def:1),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,307,2,1,3,9:37 PM,2:39,MISS Thorn 17' Jump Shot,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,308,4,0,3,9:37 PM,2:38,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,309,6,1,3,9:38 PM,2:19,Young P.FOUL (P2.T4),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,310,8,0,3,9:38 PM,2:19,,,SUB: Moore FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,311,8,0,3,9:38 PM,2:19,,,SUB: Murphy FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,312,2,1,3,9:38 PM,2:11,,,MISS Quigley 18' Jump Shot,,,5,201516,Allie Quigley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,313,4,0,3,9:38 PM,2:09,,,Murphy REBOUND (Off:3 Def:2),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,314,2,5,3,9:38 PM,1:57,Fowles BLOCK (2 BLK),,MISS Murphy  Layup,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000014,315,4,0,3,9:38 PM,1:57,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,316,8,0,3,9:39 PM,1:57,SUB: Bass FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,317,2,5,3,9:39 PM,1:50,Irvin BLOCK (1 BLK),,MISS Moore  Layup,,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0
+1021000014,318,4,0,3,9:39 PM,1:47,Irvin REBOUND (Off:0 Def:1),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,319,5,2,3,9:39 PM,1:35,Prince Lost Ball Turnover (P3.T13),,Moore STEAL (1 STL),,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,320,6,4,3,9:39 PM,1:30,,,Bevilaqua OFF.Foul (P4),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,321,5,5,3,9:39 PM,1:30,,,Bevilaqua Foul Turnover (P1.T13),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1021000014,322,5,1,3,9:40 PM,1:15,Young Bad Pass Turnover (P1.T14),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,323,1,5,3,9:40 PM,0:53,,,Moore  Layup (4 PTS) (Murphy 2 AST),65 - 66,1,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,324,2,1,3,9:41 PM,0:36,MISS Irvin 7' Jump Shot,,Hoffman BLOCK (1 BLK),,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0
+1021000014,325,4,0,3,9:41 PM,0:33,Irvin REBOUND (Off:1 Def:1),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,326,5,1,3,9:41 PM,0:31,Irvin Bad Pass Turnover (P1.T15),,Hoffman STEAL (1 STL),,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,327,5,1,3,9:41 PM,0:26,Young STEAL (1 STL),,Hoffman Bad Pass Turnover (P2.T14),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,328,1,5,3,9:41 PM,0:23,Young  Layup (4 PTS),,,65 - 68,3,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,329,2,1,3,9:41 PM,0:02,,,MISS Quigley 20' Jump Shot,,,5,201516,Allie Quigley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,330,4,0,3,9:41 PM,0:01,Prince REBOUND (Off:0 Def:1),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,331,13,0,3,9:42 PM,0:00,,End of 3rd Period (9:42 PM EST),,65 - 68,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,335,12,0,4,9:45 PM,10:00,,Start of 4th Period (9:45 PM EST),,65 - 68,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,336,5,1,4,9:46 PM,9:39,Prince Bad Pass Turnover (P4.T16),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,337,1,1,4,9:47 PM,9:15,,,Bevilaqua 17' Jump Shot (2 PTS) (Murphy 3 AST),67 - 68,1,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,338,2,1,4,9:47 PM,8:50,MISS Prince 19' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,339,4,0,4,9:47 PM,8:48,Young REBOUND (Off:1 Def:0),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,340,2,1,4,9:48 PM,8:33,MISS Young  3PT Jump Shot,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,341,4,0,4,9:48 PM,8:30,,,Quigley REBOUND (Off:0 Def:1),,,5,201516,Allie Quigley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,342,1,5,4,9:48 PM,8:24,,,Moore  Layup (6 PTS) (Murphy 4 AST),69 - 68,-1,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,343,2,1,4,9:48 PM,8:08,MISS Prince 16' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,344,4,0,4,9:48 PM,8:05,Irvin REBOUND (Off:2 Def:1),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,345,2,5,4,9:48 PM,8:02,MISS Irvin  Layup,,Moore BLOCK (1 BLK),,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0
+1021000014,347,4,0,4,9:48 PM,8:00,Irvin REBOUND (Off:3 Def:1),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,346,1,5,4,9:48 PM,8:00,Irvin  Layup (2 PTS),,,69 - 70,1,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,348,6,4,4,9:48 PM,7:56,,,Murphy OFF.Foul (P2),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,386,5,37,4,9:48 PM,7:56,,,Murphy Offensive Foul Turnover (P1.T15),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1021000014,350,8,0,4,9:49 PM,7:56,SUB: Perkins FOR Irvin,,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,351,8,0,4,9:49 PM,7:56,SUB: Kraayeveld FOR Bass,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,352,8,0,4,9:49 PM,7:56,SUB: Fowles FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,354,2,5,4,9:49 PM,7:12,MISS Perkins  Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,355,4,0,4,9:49 PM,7:11,,,Murphy REBOUND (Off:3 Def:3),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,356,1,1,4,9:50 PM,7:03,,,Hoffman  3PT Jump Shot (6 PTS) (Murphy 5 AST),72 - 70,-2,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,357,2,1,4,9:50 PM,6:54,MISS Thorn  3PT Jump Shot,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,358,4,0,4,9:50 PM,6:51,,,Murphy REBOUND (Off:3 Def:4),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,359,1,42,4,9:50 PM,6:44,,,Hoffman  Driving Layup (8 PTS),74 - 70,-4,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,360,9,1,4,9:50 PM,6:44,SKY Timeout: Regular (Full 2 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,362,1,41,4,9:54 PM,6:23,Prince  Running Layup (16 PTS) (Thorn 2 AST),,,74 - 72,-2,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,363,2,1,4,9:54 PM,6:04,,,MISS Hoffman 14' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,364,4,0,4,9:54 PM,6:00,Fowles REBOUND (Off:3 Def:6),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,365,6,1,4,9:54 PM,5:52,,,Moore P.FOUL (P2.T1),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,366,8,0,4,9:54 PM,5:52,,,SUB: Catchings FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,367,8,0,4,9:54 PM,5:52,,,SUB: Sutton-Brown FOR Moore,,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,368,8,0,4,9:54 PM,5:52,,,SUB: Douglas FOR Quigley,,,5,201516,Allie Quigley,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,369,2,1,4,9:55 PM,5:39,MISS Prince  3PT Jump Shot,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,370,4,0,4,9:55 PM,5:38,,,Murphy REBOUND (Off:3 Def:5),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,371,5,2,4,9:55 PM,5:17,Thorn STEAL (1 STL),,Douglas Lost Ball Turnover (P4.T16),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,372,2,1,4,9:55 PM,4:57,MISS Perkins 10' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,373,4,0,4,9:55 PM,4:54,,,Catchings REBOUND (Off:1 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,374,6,1,4,9:56 PM,4:54,Thorn P.FOUL (P2.T1),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,375,8,0,4,9:56 PM,4:54,,,SUB: January FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,377,2,1,4,9:56 PM,4:34,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,378,4,0,4,9:56 PM,4:31,,,Catchings REBOUND (Off:2 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,379,1,5,4,9:56 PM,4:29,,,Murphy  Layup (20 PTS) (Catchings 4 AST),76 - 72,-4,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,380,2,5,4,9:57 PM,4:05,MISS Perkins  Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,381,4,0,4,9:57 PM,4:04,,,Murphy REBOUND (Off:3 Def:6),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,382,2,1,4,9:57 PM,3:39,,,MISS Murphy  3PT Jump Shot,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,383,4,0,4,9:57 PM,3:38,Thorn REBOUND (Off:0 Def:2),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,384,9,1,4,9:58 PM,3:29,SKY Timeout: Regular (Full 3 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,387,8,0,4,10:00 PM,3:29,SUB: Christon FOR Prince,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,388,8,0,4,10:00 PM,3:29,SUB: Canty FOR Thorn,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,390,5,1,4,10:00 PM,3:19,Kraayeveld Bad Pass Turnover (P2.T17),,Sutton-Brown STEAL (2 STL),,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,391,2,1,4,10:01 PM,2:58,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,392,4,0,4,10:01 PM,2:56,Kraayeveld REBOUND (Off:3 Def:3),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,393,2,1,4,10:01 PM,2:40,MISS Perkins 15' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,394,4,0,4,10:01 PM,2:38,,,January REBOUND (Off:1 Def:1),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,395,1,5,4,10:01 PM,2:26,,,Catchings  Layup (20 PTS) (Douglas 5 AST),78 - 72,-6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,396,6,2,4,10:02 PM,2:00,,,Catchings S.FOUL (P3.T2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,397,8,0,4,10:02 PM,2:00,SUB: Thorn FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,398,3,11,4,10:02 PM,2:00,Fowles Free Throw 1 of 2 (15 PTS),,,78 - 73,-5,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,400,3,12,4,10:02 PM,2:00,Fowles Free Throw 2 of 2 (16 PTS),,,78 - 74,-4,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,402,2,1,4,10:03 PM,1:44,,,MISS Murphy  3PT Jump Shot,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,403,4,0,4,10:03 PM,1:43,Kraayeveld REBOUND (Off:3 Def:4),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,404,2,1,4,10:03 PM,1:29,MISS Canty 15' Jump Shot,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,405,4,0,4,10:03 PM,1:28,Fowles REBOUND (Off:4 Def:6),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,406,2,5,4,10:03 PM,1:22,MISS Christon  Layup,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,407,4,0,4,10:03 PM,1:21,,,Sutton-Brown REBOUND (Off:3 Def:4),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,408,6,1,4,10:03 PM,1:14,Christon P.FOUL (P4.T2),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,409,6,4,4,10:04 PM,1:05,,,January OFF.Foul (P5),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,410,5,5,4,10:04 PM,1:05,,,January Foul Turnover (P4.T17),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1021000014,411,1,1,4,10:04 PM,0:49,Christon 15' Jump Shot (11 PTS) (Canty 5 AST),,,78 - 76,-2,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,412,9,1,4,10:04 PM,0:49,,,Fever Timeout: Regular (Reg.4 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,413,7,5,4,10:07 PM,0:42,Canty Violation:Kicked Ball,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,415,2,5,4,10:07 PM,0:30,,,MISS Sutton-Brown  Layup,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,416,4,0,4,10:07 PM,0:30,Kraayeveld REBOUND (Off:3 Def:5),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,417,9,2,4,10:08 PM,0:30,SKY Timeout: Short (Full 3 Short 1),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,418,2,5,4,10:09 PM,0:24,MISS Canty  Layup,,Sutton-Brown BLOCK (1 BLK),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0
+1021000014,419,4,0,4,10:09 PM,0:24,,,January REBOUND (Off:1 Def:2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,420,6,1,4,10:09 PM,0:24,Kraayeveld P.FOUL (P5.PN),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,421,9,2,4,10:09 PM,0:24,,,Fever Timeout: Short (Reg.4 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,422,6,1,4,10:11 PM,0:19,Christon P.FOUL (P5.PN),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,423,3,11,4,10:11 PM,0:19,,,MISS Catchings Free Throw 1 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,424,4,1,4,10:11 PM,0:19,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,425,3,12,4,10:11 PM,0:19,,,MISS Catchings Free Throw 2 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,427,4,0,4,10:11 PM,0:18,Christon REBOUND (Off:0 Def:3),,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,428,9,2,4,10:11 PM,0:18,SKY Timeout: Short (Full 3 Short 2),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,429,1,56,4,10:13 PM,0:14,Fowles 8' Running Hook Shot (18 PTS),,,78 - 78,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,430,9,2,4,10:13 PM,0:14,,,Fever Timeout: Short (Reg.4 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,431,2,1,4,10:14 PM,0:00,,,MISS January 16' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,433,4,0,4,10:14 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,432,13,0,4,10:14 PM,0:00,,End of 4th Period (10:14 PM EST),,78 - 78,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,435,12,0,5,10:17 PM,5:00,,Start of 1st OT (10:17 PM EST),,78 - 78,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,436,10,0,5,10:17 PM,5:00,Jump Ball Fowles vs. Sutton-Brown: Tip to Canty,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0
+1021000014,437,1,1,5,10:18 PM,4:33,Fowles 7' Jump Shot (20 PTS) (Kraayeveld 1 AST),,,78 - 80,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,438,2,5,5,10:18 PM,4:08,Fowles BLOCK (3 BLK),,MISS Catchings  Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000014,439,4,0,5,10:18 PM,4:06,Fowles REBOUND (Off:4 Def:7),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,440,2,1,5,10:18 PM,3:43,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,441,4,0,5,10:19 PM,3:42,,,Murphy REBOUND (Off:3 Def:7),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,442,1,5,5,10:19 PM,3:31,,,Catchings  Layup (22 PTS) (Douglas 6 AST),80 - 80,TIE,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,443,5,2,5,10:19 PM,3:22,Kraayeveld Lost Ball Turnover (P3.T18),,Catchings STEAL (2 STL),,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,444,1,5,5,10:19 PM,3:18,,,Catchings  Layup (24 PTS),82 - 80,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,445,2,1,5,10:19 PM,2:59,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,447,4,0,5,10:20 PM,2:59,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,446,8,0,5,10:20 PM,2:59,SUB: Prince FOR Thorn,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,448,10,0,5,10:20 PM,2:59,Jump Ball Fowles vs. Sutton-Brown: Tip to Prince,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0
+1021000014,449,2,1,5,10:20 PM,2:40,MISS Christon 19' Jump Shot,,,,,4,100937,Shameka Christon,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,450,4,0,5,10:20 PM,2:39,,,Sutton-Brown REBOUND (Off:3 Def:5),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,451,6,1,5,10:20 PM,2:39,Fowles P.FOUL (P3.T1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,452,1,5,5,10:21 PM,2:25,,,Sutton-Brown  Layup (12 PTS) (Murphy 6 AST),84 - 80,-4,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,453,7,5,5,10:21 PM,2:02,,,Catchings Violation:Kicked Ball,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,454,6,2,5,10:22 PM,1:49,,,Murphy S.FOUL (P3.T1),,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000014,455,3,11,5,10:22 PM,1:49,Prince Free Throw 1 of 2 (17 PTS),,,84 - 81,-3,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,457,3,12,5,10:22 PM,1:49,Prince Free Throw 2 of 2 (18 PTS),,,84 - 82,-2,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,459,1,1,5,10:23 PM,1:27,,,Catchings 17' Jump Shot (26 PTS) (January 5 AST),86 - 82,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,460,1,84,5,10:23 PM,1:05,Prince 9' Running Bank Shot (20 PTS),,,86 - 84,-2,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,461,2,1,5,10:24 PM,0:33,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,462,4,0,5,10:24 PM,0:32,Fowles REBOUND (Off:4 Def:8),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,463,2,5,5,10:24 PM,0:19,MISS Fowles  Layup,,Catchings BLOCK (2 BLK),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1021000014,464,4,0,5,10:24 PM,0:19,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,465,9,1,5,10:24 PM,0:19,,,Fever Timeout: Regular (Reg.5 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,466,6,1,5,10:27 PM,0:19,Prince P.FOUL (P1.T2),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,468,9,2,5,10:27 PM,0:19,,,Fever Timeout: Short (Reg.5 Short 3),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,469,6,1,5,10:28 PM,0:17,Canty P.FOUL (P4.PN),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,470,3,11,5,10:28 PM,0:17,,,Catchings Free Throw 1 of 2 (27 PTS),87 - 84,-3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,472,3,12,5,10:29 PM,0:17,,,Catchings Free Throw 2 of 2 (28 PTS),88 - 84,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,474,9,1,5,10:29 PM,0:17,SKY Timeout: Regular (Full 4 Short 2),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,475,1,5,5,10:31 PM,0:13,Fowles  Layup (22 PTS) (Prince 4 AST),,,88 - 86,-2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000014,476,6,1,5,10:31 PM,0:12,Canty P.FOUL (P5.PN),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,477,3,11,5,10:31 PM,0:12,,,January Free Throw 1 of 2 (5 PTS),89 - 86,-3,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,479,3,12,5,10:31 PM,0:12,,,January Free Throw 2 of 2 (6 PTS),90 - 86,-4,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,481,9,2,5,10:32 PM,0:12,SKY Timeout: Short (Full 4 Short 3),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000014,482,5,40,5,10:35 PM,0:10,Kraayeveld Out of Bounds Lost Ball Turnover (P4.T19),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000014,483,6,1,5,10:35 PM,0:07,Prince P.FOUL (P2.PN),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1021000014,484,3,11,5,10:36 PM,0:07,,,January Free Throw 1 of 2 (7 PTS),91 - 86,-5,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,486,3,12,5,10:36 PM,0:07,,,January Free Throw 2 of 2 (8 PTS),92 - 86,-6,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1021000014,488,5,1,5,10:36 PM,0:04,Kraayeveld Bad Pass Turnover (P5.T20),,January STEAL (2 STL),,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1021000014,489,13,0,5,10:36 PM,0:00,,End of 1st OT (10:36 PM EST),,92 - 86,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

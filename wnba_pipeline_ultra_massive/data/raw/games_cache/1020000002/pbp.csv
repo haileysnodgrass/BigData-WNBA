@@ -1,0 +1,402 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000002,0,12,0,1,11:12 PM,20:00,,Start of 1st Half (11:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,1,10,0,1,11:13 PM,20:00,Jump Ball Holdsclaw vs. Hicks: Tip to Bullett,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0
+1020000002,2,1,1,1,11:13 PM,19:44,Holdsclaw 14' Jump Shot (2 PTS),,,0 - 2,2,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,3,2,1,1,11:13 PM,19:25,,,MISS McWilliams-Franklin 9' Jump Shot,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,4,4,0,1,11:14 PM,19:23,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,5,2,1,1,11:14 PM,19:16,,,MISS Sales 24' 3PT Jump Shot,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,6,4,0,1,11:14 PM,19:14,Nagy REBOUND (Off:0 Def:1),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,7,6,1,1,11:14 PM,19:07,,,Powell P.FOUL (P1.T1),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,8,5,2,1,11:14 PM,18:58,McCray Lost Ball Turnover (P1.T1),,McWilliams-Franklin STEAL (1 STL),,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,9,5,2,1,11:14 PM,18:53,Page STEAL (1 STL),,Powell Lost Ball Turnover (P1.T1),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,10,2,1,1,11:15 PM,18:45,MISS McCray 3PT Jump Shot,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,11,4,0,1,11:15 PM,18:43,Bullett REBOUND (Off:1 Def:0),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,12,1,1,1,11:15 PM,18:33,Holdsclaw 16' Jump Shot (4 PTS),,,0 - 4,4,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,13,2,1,1,11:15 PM,18:12,,,MISS Powell 3PT Jump Shot,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,14,4,0,1,11:15 PM,18:11,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,15,6,2,1,11:16 PM,17:55,,,Sales S.FOUL (P1.T2),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,16,3,11,1,11:16 PM,17:55,Holdsclaw Free Throw 1 of 2 (5 PTS),,,0 - 5,5,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,17,3,12,1,11:16 PM,17:55,Holdsclaw Free Throw 2 of 2 (6 PTS),,,0 - 6,6,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,18,2,1,1,11:17 PM,17:45,Page BLOCK (1 BLK),,MISS McWilliams-Franklin 8' Jump Shot,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0
+1020000002,19,4,0,1,11:17 PM,17:45,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,20,6,1,1,11:17 PM,17:45,Bullett P.FOUL (P1.T1),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,21,2,1,1,11:17 PM,17:41,,,MISS Hicks 13' Jump Shot,,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,22,4,0,1,11:17 PM,17:39,Holdsclaw REBOUND (Off:0 Def:1),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,23,1,6,1,11:17 PM,17:35,McCray 2' Driving Layup (2 PTS) (Holdsclaw 1 AST),,,0 - 8,8,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,24,1,1,1,11:18 PM,17:24,,,McWilliams-Franklin 6' Jump Shot (2 PTS) (S. Johnson 1 AST),2 - 8,6,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,25,2,1,1,11:18 PM,17:05,MISS Bullett 13' Jump Shot,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,26,4,0,1,11:18 PM,17:03,,,Sales REBOUND (Off:0 Def:1),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,27,1,1,1,11:18 PM,16:55,,,S. Johnson 3PT Jump Shot (3 PTS) (Powell 1 AST),5 - 8,3,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,28,1,1,1,11:18 PM,16:38,Page 3' Jump Shot (2 PTS) (Nagy 1 AST),,,5 - 10,5,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,29,5,4,1,11:19 PM,16:22,,,Hicks Traveling Turnover (P1.T2),,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,30,8,0,1,11:19 PM,16:22,,,SUB: A. Johnson FOR Hicks,,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,31,8,0,1,11:19 PM,16:22,,,SUB: dos Santos FOR Sales,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,32,2,1,1,11:19 PM,16:00,MISS Holdsclaw 14' Jump Shot,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,33,4,0,1,11:19 PM,15:59,Holdsclaw REBOUND (Off:1 Def:1),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,34,1,5,1,11:19 PM,15:59,Holdsclaw 1' Layup (8 PTS),,,5 - 12,7,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,35,6,2,1,11:19 PM,15:59,,,McWilliams-Franklin S.FOUL (P1.T3),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,36,9,1,1,11:19 PM,15:59,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,38,3,10,1,11:22 PM,15:59,Holdsclaw Free Throw 1 of 1 (9 PTS),,,5 - 13,8,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,39,2,1,1,11:22 PM,15:47,,,MISS McWilliams-Franklin 12' Jump Shot,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,40,4,0,1,11:22 PM,15:44,Page REBOUND (Off:0 Def:1),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,41,1,6,1,11:22 PM,15:35,McCray 1' Driving Layup (4 PTS),,,5 - 15,10,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,42,1,6,1,11:23 PM,15:14,,,dos Santos Driving Layup (2 PTS),7 - 15,8,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,43,5,1,1,11:23 PM,15:07,Holdsclaw Bad Pass Turnover (P1.T2),,McWilliams-Franklin STEAL (2 STL),,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,44,1,1,1,11:23 PM,15:03,,,A. Johnson 17' Jump Shot (2 PTS) (McWilliams-Franklin 1 AST),9 - 15,6,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,45,1,5,1,11:23 PM,14:49,Page 1' Layup (4 PTS) (Bullett 1 AST),,,9 - 17,8,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,46,1,1,1,11:23 PM,14:34,,,A. Johnson 14' Jump Shot (4 PTS) (Powell 2 AST),11 - 17,6,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,47,2,1,1,11:24 PM,14:16,MISS McCray 15' Jump Shot,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,48,4,0,1,11:24 PM,14:15,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,49,6,3,1,11:24 PM,14:15,Bullett L.B.FOUL (P2.T2),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,50,8,0,1,11:24 PM,14:15,,,SUB: McGhee FOR McWilliams-Franklin,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,51,8,0,1,11:24 PM,14:08,SUB: Mills FOR Page,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,52,10,0,1,11:25 PM,14:08,Jump Ball Bullett vs. McGhee: Tip to Powell,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0
+1020000002,53,2,1,1,11:25 PM,14:03,,,MISS A. Johnson 16' Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,54,4,0,1,11:25 PM,14:00,Holdsclaw REBOUND (Off:1 Def:2),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,55,1,1,1,11:26 PM,13:49,McCray 3PT Jump Shot (7 PTS) (Nagy 2 AST),,,11 - 20,9,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,56,2,1,1,11:27 PM,13:29,Bullett BLOCK (1 BLK),,MISS A. Johnson 6' Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0
+1020000002,57,4,0,1,11:27 PM,13:27,McCray REBOUND (Off:0 Def:1),,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,58,1,5,1,11:27 PM,13:24,Holdsclaw 2' Layup (11 PTS) (McCray 1 AST),,,11 - 22,11,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,59,6,1,1,11:27 PM,13:11,McCray P.FOUL (P1.T3),,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,60,8,0,1,11:27 PM,13:11,SUB: Page FOR Bullett,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,61,8,0,1,11:27 PM,13:11,,,SUB: Sales FOR Powell,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,62,2,1,1,11:27 PM,13:03,,,MISS dos Santos 4' Jump Shot,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,63,4,0,1,11:27 PM,13:02,Mills REBOUND (Off:0 Def:1),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,64,2,1,1,11:28 PM,12:58,MISS McCray 3' Jump Shot,,S. Johnson BLOCK (1 BLK),,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0
+1020000002,65,4,0,1,11:28 PM,12:58,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,66,2,1,1,11:28 PM,12:55,MISS McCray 16' Jump Shot,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,67,4,0,1,11:28 PM,12:53,,,A. Johnson REBOUND (Off:0 Def:1),,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,68,5,2,1,11:28 PM,12:50,,,S. Johnson Lost Ball Turnover (P1.T3),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,69,5,8,1,11:28 PM,12:39,Mills 3 Second Violation Turnover (P1.T3),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,70,5,1,1,11:29 PM,12:27,Holdsclaw STEAL (1 STL),,S. Johnson Bad Pass Turnover (P2.T4),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,71,1,5,1,11:29 PM,12:22,McCray 1' Layup (9 PTS) (Holdsclaw 2 AST),,,11 - 24,13,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,72,1,1,1,11:29 PM,11:58,,,S. Johnson 15' Jump Shot (5 PTS),13 - 24,11,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,73,5,1,1,11:29 PM,11:50,Nagy Bad Pass Turnover (P1.T4),,dos Santos STEAL (1 STL),,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,74,6,2,1,11:30 PM,11:35,Mills S.FOUL (P1.T4),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,75,9,1,1,11:30 PM,11:35,,,Miracle Timeout: Regular (Reg.1 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,77,3,11,1,11:32 PM,11:35,,,Sales Free Throw 1 of 2 (1 PTS),14 - 24,10,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,78,3,12,1,11:32 PM,11:35,,,Sales Free Throw 2 of 2 (2 PTS),15 - 24,9,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,79,5,1,1,11:33 PM,11:23,Page Bad Pass Turnover (P1.T5),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,80,5,1,1,11:33 PM,11:15,Holdsclaw STEAL (2 STL),,Sales Bad Pass Turnover (P1.T5),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,81,2,5,1,11:33 PM,11:12,MISS Holdsclaw 1' Layup,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,82,4,0,1,11:33 PM,11:12,,,Sales REBOUND (Off:0 Def:2),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,83,6,1,1,11:33 PM,11:12,Page P.FOUL (P1.PN),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,84,8,0,1,11:33 PM,11:12,,,SUB: Roland FOR Sales,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,85,1,1,1,11:34 PM,10:55,,,A. Johnson 13' Jump Shot (6 PTS) (McGhee 1 AST),17 - 24,7,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,86,2,1,1,11:34 PM,10:44,MISS McCray 3PT Jump Shot,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,87,4,0,1,11:34 PM,10:42,,,McGhee REBOUND (Off:0 Def:1),,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,88,1,5,1,11:34 PM,10:39,,,dos Santos 3' Layup (4 PTS) (S. Johnson 2 AST),19 - 24,5,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,89,6,2,1,11:34 PM,10:39,Nagy S.FOUL (P1.PN),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,91,8,0,1,11:35 PM,10:39,,,SUB: McWilliams-Franklin FOR McGhee,,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,92,3,10,1,11:35 PM,10:39,,,dos Santos Free Throw 1 of 1 (5 PTS),20 - 24,4,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,93,1,1,1,11:35 PM,10:22,Mills 5' Jump Shot (2 PTS) (McCray 2 AST),,,20 - 26,6,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,94,2,1,1,11:36 PM,9:52,,,MISS S. Johnson 13' Jump Shot,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,95,4,0,1,11:36 PM,9:50,Nagy REBOUND (Off:0 Def:2),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,96,5,1,1,11:36 PM,9:47,Nagy Bad Pass Turnover (P2.T6),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,97,2,5,1,11:36 PM,9:27,,,MISS dos Santos 2' Layup,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,98,4,0,1,11:36 PM,9:25,Nagy REBOUND (Off:0 Def:3),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,99,2,5,1,11:37 PM,9:18,MISS Mills 1' Layup,,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,100,4,0,1,11:37 PM,9:16,,,Roland REBOUND (Off:0 Def:1),,,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,101,5,2,1,11:37 PM,8:52,,,dos Santos Lost Ball Turnover (P1.T6),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,102,8,0,1,11:37 PM,8:52,SUB: Bullett FOR Mills,,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,103,8,0,1,11:37 PM,8:52,,,SUB: Powell FOR S. Johnson,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,104,8,0,1,11:37 PM,8:52,,,SUB: Sales FOR dos Santos,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,110,8,0,1,11:37 PM,8:52,,,SUB: Hicks FOR Roland,,,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,105,1,3,1,11:38 PM,8:37,Holdsclaw 7' Hook Shot (13 PTS) (Nagy 3 AST),,,20 - 28,8,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,106,2,1,1,11:38 PM,8:22,,,MISS Sales 12' Jump Shot,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,107,4,0,1,11:38 PM,8:22,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,108,6,3,1,11:38 PM,8:22,Holdsclaw L.B.FOUL (P1.PN),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,109,1,1,1,11:38 PM,8:18,,,Sales 4' Jump Shot (4 PTS) (Powell 3 AST),22 - 28,6,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,111,5,1,1,11:39 PM,8:04,Holdsclaw Bad Pass Turnover (P2.T7),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,112,6,4,1,11:39 PM,7:56,,,Powell OFF.Foul (P2),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020000002,113,5,5,1,11:39 PM,7:56,,,Powell Foul Turnover (P2.T7),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,114,9,1,1,11:40 PM,7:56,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,116,8,0,1,11:40 PM,7:56,,,SUB: Roland FOR Hicks,,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,117,8,0,1,11:40 PM,7:56,SUB: Anderson FOR Nagy,,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,119,1,1,1,11:42 PM,7:42,McCray 3PT Jump Shot (12 PTS) (Page 1 AST),,,22 - 31,9,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,120,1,2,1,11:42 PM,7:25,,,Sales 6' Running Jump Shot (6 PTS),24 - 31,7,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,121,2,1,1,11:42 PM,7:11,MISS Holdsclaw 16' Jump Shot,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,122,4,0,1,11:42 PM,7:10,,,McWilliams-Franklin REBOUND (Off:0 Def:1),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,123,8,0,1,11:43 PM,7:05,SUB: Cunningham FOR Holdsclaw,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,124,2,1,1,11:43 PM,6:53,Page BLOCK (2 BLK),,MISS Sales 4' Jump Shot,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0
+1020000002,125,4,0,1,11:43 PM,6:51,,,Sales REBOUND (Off:1 Def:2),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,126,1,5,1,11:43 PM,6:50,,,Sales 2' Layup (8 PTS),26 - 31,5,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,127,6,1,1,11:43 PM,6:36,,,Roland P.FOUL (P1.T4),,,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,128,5,1,1,11:44 PM,6:26,Bullett Bad Pass Turnover (P1.T8),,Sales STEAL (1 STL),,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,129,1,1,1,11:44 PM,6:11,,,A. Johnson 17' Jump Shot (8 PTS) (Powell 4 AST),28 - 31,3,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,130,1,1,1,11:44 PM,5:47,Cunningham 3PT Jump Shot (3 PTS) (Anderson 1 AST),,,28 - 34,6,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,131,8,0,1,11:45 PM,5:41,SUB: Nagy FOR Anderson,,,,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,132,8,0,1,11:45 PM,5:41,SUB: Holdsclaw FOR McCray,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,133,8,0,1,11:45 PM,5:41,,,SUB: S. Johnson FOR Powell,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,134,2,1,1,11:45 PM,5:28,,,MISS Sales 7' Jump Shot,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,135,4,0,1,11:45 PM,5:27,,,McWilliams-Franklin REBOUND (Off:1 Def:1),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,136,1,5,1,11:45 PM,5:26,,,McWilliams-Franklin 2' Layup (4 PTS),30 - 34,4,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,137,5,2,1,11:45 PM,5:07,Nagy Lost Ball Turnover (P3.T9),,McWilliams-Franklin STEAL (3 STL),,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,138,2,1,1,11:46 PM,5:02,,,MISS Sales 5' Jump Shot,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,139,4,0,1,11:46 PM,5:00,Holdsclaw REBOUND (Off:1 Def:3),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,140,5,1,1,11:46 PM,4:45,Holdsclaw Bad Pass Turnover (P3.T10),,McWilliams-Franklin STEAL (4 STL),,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,141,8,0,1,11:46 PM,4:39,,,SUB: Powell FOR Sales,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,142,5,8,1,11:46 PM,4:27,,,McWilliams-Franklin 3 Second Violation Turnover (P1.T8),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,143,1,1,1,11:47 PM,4:11,Cunningham 3PT Jump Shot (6 PTS) (Nagy 4 AST),,,30 - 37,7,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,144,1,1,1,11:47 PM,3:51,,,S. Johnson 7' Jump Shot (7 PTS),32 - 37,5,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,145,5,1,1,11:47 PM,3:38,Page Bad Pass Turnover (P2.T11),,McWilliams-Franklin STEAL (5 STL),,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,146,9,1,1,11:48 PM,3:18,,,Miracle Timeout: Regular (Reg.2 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,147,8,0,1,11:48 PM,3:18,SUB: McCray FOR Cunningham,,,,,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,148,8,0,1,11:50 PM,3:18,,,SUB: dos Santos FOR McWilliams-Franklin,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,149,10,0,1,11:51 PM,3:18,,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,3,1611661323,,,,,,0
+1020000002,150,1,1,1,11:51 PM,3:07,,,Roland 12' Jump Shot (2 PTS) (S. Johnson 3 AST),34 - 37,3,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,151,2,1,1,11:52 PM,2:51,MISS McCray 3PT Jump Shot,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,152,4,0,1,11:52 PM,2:49,,,Roland REBOUND (Off:0 Def:2),,,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,153,1,1,1,11:52 PM,2:36,,,Powell 12' Jump Shot (2 PTS),36 - 37,1,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,154,6,2,1,11:52 PM,2:27,,,Roland S.FOUL (P2.PN),,,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,155,3,11,1,11:52 PM,2:27,MISS Holdsclaw Free Throw 1 of 2,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,156,4,1,1,11:52 PM,2:27,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,157,3,12,1,11:52 PM,2:27,Holdsclaw Free Throw 2 of 2 (14 PTS),,,36 - 38,2,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,158,1,1,1,11:53 PM,2:18,,,A. Johnson 16' Jump Shot (10 PTS) (S. Johnson 4 AST),38 - 38,TIE,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,159,1,1,1,11:53 PM,2:05,Holdsclaw 16' Jump Shot (16 PTS) (Bullett 2 AST),,,38 - 40,2,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,160,8,0,1,11:53 PM,1:58,,,SUB: McGhee FOR Roland,,,5,100519,Jannon Roland,1611661323.0,Orlando,Miracle,ORL,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,161,6,2,1,11:54 PM,1:48,Nagy S.FOUL (P2.PN),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,162,8,0,1,11:54 PM,1:48,SUB: Anderson FOR Nagy,,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,163,8,0,1,11:54 PM,1:48,SUB: Mills FOR Page,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,164,3,11,1,11:54 PM,1:48,,,MISS Powell Free Throw 1 of 2,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,165,4,1,1,11:54 PM,1:48,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,166,3,12,1,11:54 PM,1:48,,,Powell Free Throw 2 of 2 (3 PTS),39 - 40,1,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,167,2,5,1,11:55 PM,1:34,MISS McCray 2' Layup,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,168,4,0,1,11:55 PM,1:32,Bullett REBOUND (Off:2 Def:0),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,169,2,5,1,11:55 PM,1:31,MISS Bullett 2' Layup,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,170,4,0,1,11:55 PM,1:28,,,dos Santos REBOUND (Off:0 Def:1),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,171,2,1,1,11:55 PM,1:23,,,MISS McGhee 10' Jump Shot,,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,172,4,0,1,11:55 PM,1:21,Holdsclaw REBOUND (Off:1 Def:4),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,173,2,1,1,11:55 PM,1:05,MISS Mills 7' Jump Shot,,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,174,4,0,1,11:55 PM,1:02,,,Powell REBOUND (Off:0 Def:1),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,175,2,1,1,11:55 PM,0:57,,,MISS Powell 18' Jump Shot,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,176,4,0,1,11:55 PM,0:55,Holdsclaw REBOUND (Off:1 Def:5),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,177,6,1,1,11:56 PM,0:55,,,Powell P.FOUL (P3.PN),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,178,2,1,1,11:56 PM,0:42,MISS Anderson 17' Jump Shot,,,,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,179,4,0,1,11:56 PM,0:40,Bullett REBOUND (Off:3 Def:0),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,180,2,1,1,11:56 PM,0:38,MISS Bullett 6' Jump Shot,,dos Santos BLOCK (1 BLK),,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0
+1020000002,181,4,0,1,11:56 PM,0:36,,,Powell REBOUND (Off:0 Def:2),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,182,6,4,1,11:56 PM,0:36,,,McGhee OFF.Foul (P1),,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020000002,183,5,5,1,11:56 PM,0:36,,,McGhee Foul Turnover (P1.T9),,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,184,5,2,1,11:57 PM,0:31,Anderson Lost Ball Turnover (P1.T12),,S. Johnson STEAL (1 STL),,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,185,2,1,1,11:57 PM,0:26,,,MISS Powell 9' Jump Shot,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,186,4,0,1,11:57 PM,0:24,,,A. Johnson REBOUND (Off:1 Def:1),,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,187,2,1,1,11:57 PM,0:23,,,MISS A. Johnson 10' Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,188,4,0,1,11:57 PM,0:22,,,S. Johnson REBOUND (Off:1 Def:0),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,189,9,2,1,11:57 PM,0:18,,,Miracle Timeout: Short (Reg.2 Short 1),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,191,1,2,1,11:58 PM,0:10,,,Powell 5' Running Jump Shot (5 PTS),41 - 40,-1,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,192,2,1,1,11:58 PM,0:02,MISS Bullett 16' Jump Shot,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,193,4,0,1,11:58 PM,0:00,,,Powell REBOUND (Off:0 Def:3),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,194,13,0,1,11:58 PM,0:00,,End of 1st Half (11:58 PM EST),,41 - 40,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,196,12,0,2,12:15 AM,20:00,,Start of 2nd Half (12:15 AM EST),,41 - 40,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,197,10,0,2,12:15 AM,20:00,Jump Ball Holdsclaw vs. McWilliams-Franklin: Tip to Nagy,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0
+1020000002,198,2,1,2,12:15 AM,19:53,MISS McCray 3PT Jump Shot,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,199,4,0,2,12:15 AM,19:53,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,200,6,3,2,12:15 AM,19:53,,,Hicks L.B.FOUL (P1.T1),,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,201,2,1,2,12:16 AM,19:36,MISS Page 8' Jump Shot,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,202,4,0,2,12:16 AM,19:34,Holdsclaw REBOUND (Off:2 Def:5),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,203,10,0,2,12:16 AM,19:34,Jump Ball Holdsclaw vs. Sales: Tip to Page,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0
+1020000002,204,5,2,2,12:17 AM,19:27,Holdsclaw Lost Ball Turnover (P4.T13),,Sales STEAL (2 STL),,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,205,2,1,2,12:17 AM,19:19,,,MISS Powell 7' Jump Shot,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,206,4,0,2,12:17 AM,19:17,,,McWilliams-Franklin REBOUND (Off:2 Def:1),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,207,2,5,2,12:17 AM,19:16,,,MISS McWilliams-Franklin 2' Layup,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,208,4,0,2,12:17 AM,19:14,Holdsclaw REBOUND (Off:2 Def:6),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,209,1,1,2,12:17 AM,19:02,McCray 3PT Jump Shot (15 PTS) (Nagy 5 AST),,,41 - 43,2,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,210,6,2,2,12:17 AM,18:50,Page S.FOUL (P2.T1),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,211,3,11,2,12:18 AM,18:50,,,S. Johnson Free Throw 1 of 2 (8 PTS),42 - 43,1,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,212,3,12,2,12:18 AM,18:50,,,S. Johnson Free Throw 2 of 2 (9 PTS),43 - 43,TIE,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,213,5,2,2,12:18 AM,18:40,Nagy Lost Ball Turnover (P4.T14),,S. Johnson STEAL (2 STL),,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,214,1,1,2,12:18 AM,18:31,,,S. Johnson 6' Jump Shot (11 PTS) (Powell 5 AST),45 - 43,-2,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,215,1,1,2,12:19 AM,18:21,Holdsclaw 7' Jump Shot (18 PTS) (Nagy 6 AST),,,45 - 45,TIE,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,216,6,4,2,12:19 AM,18:15,,,Sales OFF.Foul (P2),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020000002,217,5,5,2,12:19 AM,18:15,,,Sales Foul Turnover (P2.T10),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,218,6,1,2,12:19 AM,18:02,,,Hicks P.FOUL (P2.T2),,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,219,1,5,2,12:20 AM,17:55,Page 2' Layup (6 PTS) (Holdsclaw 3 AST),,,45 - 47,2,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,220,5,1,2,12:20 AM,17:38,Bullett STEAL (1 STL),,Sales Bad Pass Turnover (P3.T11),,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,221,5,1,2,12:20 AM,17:33,Nagy Bad Pass Turnover (P5.T15),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,222,2,1,2,12:20 AM,17:06,,,MISS S. Johnson 17' Jump Shot,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,223,4,0,2,12:21 AM,17:04,Nagy REBOUND (Off:0 Def:4),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,224,6,1,2,12:21 AM,16:58,,,Hicks P.FOUL (P3.T3),,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,225,8,0,2,12:21 AM,16:58,,,SUB: McGhee FOR Hicks,,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,226,6,1,2,12:21 AM,16:54,,,McGhee P.FOUL (P2.T4),,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,227,1,5,2,12:22 AM,16:50,Page 2' Layup (8 PTS) (Nagy 7 AST),,,45 - 49,4,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,228,5,1,2,12:22 AM,16:48,,,McWilliams-Franklin Bad Pass Turnover (P2.T12),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,229,2,1,2,12:22 AM,16:39,MISS Holdsclaw 10' Jump Shot,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,230,4,0,2,12:22 AM,16:39,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,231,6,11,2,12:22 AM,16:39,Holdsclaw T.FOUL (P1.T1),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,232,3,16,2,12:23 AM,16:39,,,S. Johnson Free Throw Technical (12 PTS),46 - 49,3,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,233,2,1,2,12:23 AM,16:24,,,MISS Powell 3PT Jump Shot,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,234,4,0,2,12:23 AM,16:23,,,McWilliams-Franklin REBOUND (Off:3 Def:1),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,235,2,1,2,12:23 AM,16:20,,,MISS McWilliams-Franklin 4' Jump Shot,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,236,4,0,2,12:23 AM,16:17,,,S. Johnson REBOUND (Off:2 Def:0),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,237,2,1,2,12:24 AM,16:06,,,MISS Sales 3PT Jump Shot,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,238,4,0,2,12:24 AM,16:05,Holdsclaw REBOUND (Off:2 Def:7),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,239,2,1,2,12:24 AM,15:51,MISS Bullett 4' Jump Shot,,Sales BLOCK (1 BLK),,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0
+1020000002,240,4,0,2,12:24 AM,15:49,,,McWilliams-Franklin REBOUND (Off:3 Def:2),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,241,2,5,2,12:24 AM,15:34,,,MISS McWilliams-Franklin 3' Layup,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,242,4,0,2,12:24 AM,15:34,,,McWilliams-Franklin REBOUND (Off:4 Def:2),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,243,6,2,2,12:24 AM,15:34,Bullett S.FOUL (P3.T2),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,244,9,1,2,12:24 AM,15:34,MYSTICS Timeout: Regular (Full 3 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,245,8,0,2,12:24 AM,15:34,SUB: Mills FOR Bullett,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,247,8,0,2,12:25 AM,15:34,,,SUB: A. Johnson FOR Sales,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,248,3,11,2,12:27 AM,15:34,,,MISS McWilliams-Franklin Free Throw 1 of 2,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,250,4,1,2,12:27 AM,15:34,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,251,3,12,2,12:28 AM,15:34,,,MISS McWilliams-Franklin Free Throw 2 of 2,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,252,4,0,2,12:28 AM,15:20,Mills REBOUND (Off:0 Def:2),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,253,1,1,2,12:28 AM,15:14,McCray 3PT Jump Shot (18 PTS) (Mills 1 AST),,,46 - 52,6,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,254,2,1,2,12:28 AM,15:00,,,MISS S. Johnson 3PT Jump Shot,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,255,4,0,2,12:28 AM,14:58,Holdsclaw REBOUND (Off:2 Def:8),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,256,6,1,2,12:28 AM,14:41,,,McWilliams-Franklin P.FOUL (P2.PN),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,257,5,1,2,12:29 AM,14:36,McCray Bad Pass Turnover (P2.T16),,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,258,6,1,2,12:29 AM,14:31,McCray P.FOUL (P2.T3),,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,259,2,1,2,12:29 AM,14:15,,,MISS A. Johnson 3PT Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,260,4,0,2,12:29 AM,14:12,Page REBOUND (Off:0 Def:2),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,261,2,5,2,12:30 AM,14:05,MISS Holdsclaw 1' Layup,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,262,4,0,2,12:30 AM,14:04,Mills REBOUND (Off:1 Def:2),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,263,1,5,2,12:30 AM,14:01,Mills 1' Layup (4 PTS),,,46 - 54,8,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,264,1,1,2,12:30 AM,13:55,,,S. Johnson 15' Jump Shot (14 PTS),48 - 54,6,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,265,2,1,2,12:30 AM,13:36,MISS Mills 10' Jump Shot,,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,266,4,0,2,12:30 AM,13:34,Page REBOUND (Off:1 Def:2),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,267,1,5,2,12:30 AM,13:32,Page 1' Layup (10 PTS),,,48 - 56,8,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,268,5,2,2,12:30 AM,13:21,McCray STEAL (1 STL),,A. Johnson Lost Ball Turnover (P1.T13),,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,269,2,1,2,12:30 AM,13:14,MISS Nagy 12' Jump Shot,,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,270,4,0,2,12:30 AM,13:14,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,271,8,0,2,12:31 AM,13:14,,,SUB: dos Santos FOR McWilliams-Franklin,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,272,8,0,2,12:31 AM,13:14,,,SUB: Hicks FOR McGhee,,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,273,2,1,2,12:31 AM,13:04,,,MISS S. Johnson 11' Jump Shot,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,274,4,0,2,12:31 AM,13:02,,,Powell REBOUND (Off:1 Def:3),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,275,2,1,2,12:31 AM,13:01,,,MISS Powell 6' Jump Shot,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,276,4,0,2,12:31 AM,12:59,,,Powell REBOUND (Off:2 Def:3),,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,277,6,2,2,12:31 AM,12:59,Nagy S.FOUL (P3.T4),,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,278,3,11,2,12:31 AM,12:59,,,Powell Free Throw 1 of 2 (6 PTS),49 - 56,7,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,279,8,0,2,12:32 AM,12:59,SUB: Anderson FOR Nagy,,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,280,3,12,2,12:32 AM,12:59,,,Powell Free Throw 2 of 2 (7 PTS),50 - 56,6,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,281,1,5,2,12:32 AM,12:44,Mills 1' Layup (6 PTS) (McCray 3 AST),,,50 - 58,8,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,282,6,1,2,12:32 AM,12:34,Anderson P.FOUL (P1.PN),,,,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,283,1,1,2,12:33 AM,12:22,,,A. Johnson 13' Jump Shot (12 PTS),52 - 58,6,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,284,2,1,2,12:33 AM,12:02,MISS Holdsclaw 18' Jump Shot,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,285,4,0,2,12:33 AM,11:57,,,S. Johnson REBOUND (Off:2 Def:1),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,286,2,1,2,12:33 AM,11:55,,,MISS S. Johnson 3PT Jump Shot,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,287,4,0,2,12:33 AM,11:53,Holdsclaw REBOUND (Off:2 Def:9),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,288,6,4,2,12:33 AM,11:46,Mills OFF.Foul (P2),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,1,0,,,,,,0
+1020000002,289,5,5,2,12:33 AM,11:46,Mills Foul Turnover (P2.T17),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,290,9,1,2,12:34 AM,11:46,,,Miracle Timeout: Regular (Reg.3 Short 1),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,292,8,0,2,12:34 AM,11:46,SUB: Bullett FOR Mills,,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,294,2,5,2,12:36 AM,11:33,Holdsclaw BLOCK (1 BLK),,MISS Powell 2' Layup,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0
+1020000002,295,4,0,2,12:36 AM,11:33,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,296,2,1,2,12:37 AM,11:28,,,MISS A. Johnson 15' Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,297,4,0,2,12:37 AM,11:26,Page REBOUND (Off:1 Def:3),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,298,5,2,2,12:37 AM,11:14,McCray Lost Ball Turnover (P3.T18),,S. Johnson STEAL (3 STL),,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,299,1,6,2,12:37 AM,11:10,,,S. Johnson Driving Layup (16 PTS),54 - 58,4,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,300,1,1,2,12:37 AM,10:54,McCray 3PT Jump Shot (21 PTS) (Holdsclaw 4 AST),,,54 - 61,7,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,301,6,1,2,12:38 AM,10:34,Bullett P.FOUL (P4.PN),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,302,5,1,2,12:38 AM,10:14,Page STEAL (2 STL),,S. Johnson Bad Pass Turnover (P3.T14),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,303,1,1,2,12:39 AM,10:01,Holdsclaw 3PT Jump Shot (21 PTS) (McCray 4 AST),,,54 - 64,10,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,304,2,1,2,12:39 AM,9:52,,,MISS S. Johnson 5' Jump Shot,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,305,4,0,2,12:39 AM,9:50,Bullett REBOUND (Off:3 Def:1),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,306,5,2,2,12:39 AM,9:36,Page Lost Ball Turnover (P3.T19),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,307,2,5,2,12:39 AM,9:17,,,MISS Powell 3' Layup,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,308,4,0,2,12:39 AM,9:15,Bullett REBOUND (Off:3 Def:2),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,309,6,2,2,12:40 AM,9:10,,,S. Johnson S.FOUL (P1.PN),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,310,9,2,2,12:40 AM,9:10,,,Miracle Timeout: Short (Reg.3 Short 2),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,312,8,0,2,12:41 AM,9:10,SUB: Cunningham FOR McCray,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,313,3,11,2,12:41 AM,9:10,MISS Page Free Throw 1 of 2,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,314,4,1,2,12:41 AM,9:10,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,315,3,12,2,12:41 AM,9:10,MISS Page Free Throw 2 of 2,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,316,4,0,2,12:41 AM,9:09,,,dos Santos REBOUND (Off:0 Def:2),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,317,5,8,2,12:42 AM,8:57,,,dos Santos 3 Second Violation Turnover (P2.T15),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,318,2,1,2,12:42 AM,8:40,MISS Cunningham 3PT Jump Shot,,,,,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,319,4,0,2,12:42 AM,8:38,Page REBOUND (Off:2 Def:3),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,320,1,5,2,12:42 AM,8:37,Page 1' Layup (12 PTS),,,54 - 66,12,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,321,2,5,2,12:42 AM,8:21,,,MISS Powell 3' Layup,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,322,4,0,2,12:42 AM,8:18,,,dos Santos REBOUND (Off:1 Def:2),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,323,1,5,2,12:42 AM,8:17,,,dos Santos 2' Layup (7 PTS),56 - 66,10,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,324,1,1,2,12:43 AM,7:53,Bullett 15' Jump Shot (2 PTS) (Anderson 2 AST),,,56 - 68,12,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,325,2,1,2,12:43 AM,7:23,,,MISS dos Santos 15' Jump Shot,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,326,4,0,2,12:43 AM,7:22,Holdsclaw REBOUND (Off:2 Def:10),,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,327,5,10,2,12:44 AM,7:12,MYSTICS Turnover: 8 Second Violation (T#20),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,328,9,1,2,12:44 AM,7:12,MYSTICS Timeout: Regular (Full 4 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,330,8,0,2,12:44 AM,7:12,SUB: McCray FOR Holdsclaw,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,331,8,0,2,12:44 AM,7:12,,,SUB: Sales FOR Powell,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,332,8,0,2,12:44 AM,7:12,,,SUB: McWilliams-Franklin FOR Hicks,,,5,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,334,1,1,2,12:46 AM,6:53,,,A. Johnson 14' Jump Shot (14 PTS) (McWilliams-Franklin 2 AST),58 - 68,10,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,335,1,5,2,12:47 AM,6:35,Bullett 2' Layup (4 PTS) (McCray 5 AST),,,58 - 70,12,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,336,1,1,2,12:47 AM,6:21,,,dos Santos 15' Jump Shot (9 PTS) (Sales 1 AST),60 - 70,10,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,337,1,1,2,12:47 AM,5:58,Page 12' Jump Shot (14 PTS),,,60 - 72,12,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,338,6,1,2,12:48 AM,5:53,Anderson P.FOUL (P2.PN),,,,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,339,8,0,2,12:48 AM,5:53,SUB: Nagy FOR Anderson,,,,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,340,2,1,2,12:48 AM,5:32,,,MISS A. Johnson 16' Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,341,4,0,2,12:48 AM,5:31,Page REBOUND (Off:2 Def:4),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,342,6,3,2,12:48 AM,5:31,,,McWilliams-Franklin L.B.FOUL (P3.PN),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,343,1,6,2,12:49 AM,5:11,McCray 3' Driving Layup (23 PTS),,,60 - 74,14,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,344,2,5,2,12:49 AM,5:00,,,MISS dos Santos 3' Layup,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,345,4,0,2,12:49 AM,4:59,Bullett REBOUND (Off:3 Def:3),,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,346,2,1,2,12:49 AM,4:51,MISS Cunningham 3PT Jump Shot,,,,,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,347,4,0,2,12:49 AM,4:49,,,S. Johnson REBOUND (Off:2 Def:2),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,348,2,1,2,12:49 AM,4:42,,,MISS A. Johnson 3PT Jump Shot,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,349,4,0,2,12:49 AM,4:41,,,McWilliams-Franklin REBOUND (Off:5 Def:2),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,350,1,5,2,12:49 AM,4:40,,,McWilliams-Franklin 1' Layup (6 PTS),62 - 74,12,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,351,6,1,2,12:50 AM,4:22,,,dos Santos P.FOUL (P1.PN),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,352,8,0,2,12:50 AM,4:22,SUB: Mills FOR Bullett,,,,,4,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,353,8,0,2,12:50 AM,4:22,SUB: Holdsclaw FOR McCray,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,354,8,0,2,12:50 AM,4:22,,,SUB: McGhee FOR dos Santos,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,355,3,11,2,12:50 AM,4:22,Page Free Throw 1 of 2 (15 PTS),,,62 - 75,13,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,356,8,0,2,12:51 AM,4:22,,,SUB: Gayden FOR Sales,,,5,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100515,Cornelia Gayden,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,357,3,12,2,12:51 AM,4:22,MISS Page Free Throw 2 of 2,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,358,4,0,2,12:51 AM,4:20,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,359,1,5,2,12:51 AM,4:19,Holdsclaw 3' Layup (23 PTS) (Nagy 8 AST),,,62 - 77,15,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,360,6,2,2,12:51 AM,4:02,Mills S.FOUL (P3.PN),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,361,3,11,2,12:52 AM,4:02,,,MISS McGhee Free Throw 1 of 2,,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,362,4,1,2,12:52 AM,4:02,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,363,8,0,2,12:52 AM,4:02,SUB: McCray FOR Cunningham,,,,,4,100554,Beth Cunningham,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,364,3,12,2,12:52 AM,4:02,,,McGhee Free Throw 2 of 2 (1 PTS),63 - 77,14,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,365,1,5,2,12:53 AM,3:48,Holdsclaw 1' Layup (25 PTS) (Nagy 9 AST),,,63 - 79,16,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,366,2,1,2,12:53 AM,3:37,,,MISS Gayden 3PT Jump Shot,,,5,100515,Cornelia Gayden,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,367,4,0,2,12:53 AM,3:36,Page REBOUND (Off:2 Def:5),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,368,2,1,2,12:53 AM,3:21,MISS Page 4' Jump Shot,,McGhee BLOCK (1 BLK),,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0
+1020000002,369,4,0,2,12:53 AM,3:19,,,McWilliams-Franklin REBOUND (Off:5 Def:3),,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,370,1,6,2,12:53 AM,3:13,,,Gayden Driving Layup (2 PTS) (S. Johnson 5 AST),65 - 79,14,5,100515,Cornelia Gayden,1611661323.0,Orlando,Miracle,ORL,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,371,1,1,2,12:53 AM,2:59,McCray 3PT Jump Shot (26 PTS) (Nagy 10 AST),,,65 - 82,17,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,372,5,1,2,12:54 AM,2:41,McCray STEAL (2 STL),,S. Johnson Bad Pass Turnover (P4.T16),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,373,1,5,2,12:54 AM,2:34,Holdsclaw 1' Layup (27 PTS) (McCray 6 AST),,,65 - 84,19,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,374,5,1,2,12:54 AM,2:18,Holdsclaw STEAL (3 STL),,S. Johnson Bad Pass Turnover (P5.T17),,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,375,1,1,2,12:54 AM,2:13,Holdsclaw 10' Jump Shot (29 PTS),,,65 - 86,21,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,376,9,2,2,12:54 AM,2:10,,,Miracle Timeout: Short (Reg.3 Short 3),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,379,2,1,2,12:56 AM,1:59,Page BLOCK (3 BLK),,MISS McWilliams-Franklin 17' Jump Shot,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0
+1020000002,380,4,0,2,12:56 AM,1:56,Mills REBOUND (Off:1 Def:3),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,381,9,1,2,12:56 AM,1:50,MYSTICS Timeout: Regular (Full 5 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,383,8,0,2,12:58 AM,1:50,,,SUB: Powell FOR Gayden,,,5,100515,Cornelia Gayden,1611661323.0,Orlando,Miracle,ORL,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,385,10,0,2,12:59 AM,1:50,Jump Ball Page vs. McWilliams-Franklin: Tip to Holdsclaw,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0
+1020000002,386,2,1,2,12:59 AM,1:39,MISS Nagy 3PT Jump Shot,,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,387,4,0,2,12:59 AM,1:36,Page REBOUND (Off:3 Def:5),,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,388,8,0,2,1:00 AM,1:16,SUB: Anderson FOR Holdsclaw,,,,,4,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,389,8,0,2,1:00 AM,1:16,SUB: Campbell FOR McCray,,,,,4,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100360,Michelle Campbell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,390,8,0,2,1:00 AM,1:16,SUB: Aldridge FOR Nagy,,,,,4,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,391,8,0,2,1:00 AM,1:16,SUB: Massaline FOR Mills,,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,4,100557,Tonya Massaline,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,392,8,0,2,1:00 AM,1:16,,,SUB: Hamzova FOR S. Johnson,,,5,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100517,Romana Hamzova,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,393,10,0,2,1:01 AM,1:16,,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,2,1611661322,,,,,,0
+1020000002,394,8,0,2,1:01 AM,1:13,SUB: Mills FOR Page,,,,,4,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,395,8,0,2,1:01 AM,1:13,,,SUB: dos Santos FOR McWilliams-Franklin,,,5,100412,Taj McWilliams-Franklin,1611661323.0,Orlando,Miracle,ORL,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,396,1,1,2,1:01 AM,1:11,Aldridge 15' Jump Shot (2 PTS) (Anderson 3 AST),,,65 - 88,23,4,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,397,5,2,2,1:01 AM,0:53,,,dos Santos Lost Ball Turnover (P3.T18),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,398,6,2,2,1:02 AM,0:40,,,dos Santos S.FOUL (P2.PN),,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020000002,399,3,11,2,1:02 AM,0:40,Mills Free Throw 1 of 2 (7 PTS),,,65 - 89,24,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,400,3,12,2,1:02 AM,0:40,Mills Free Throw 2 of 2 (8 PTS),,,65 - 90,25,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,401,6,1,2,1:03 AM,0:31,Aldridge P.FOUL (P1.PN),,,,,4,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,402,8,0,2,1:03 AM,0:31,,,SUB: Gayden FOR Powell,,,5,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,5,100515,Cornelia Gayden,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020000002,403,3,11,2,1:03 AM,0:31,,,MISS A. Johnson Free Throw 1 of 2,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,404,4,1,2,1:03 AM,0:31,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,405,3,12,2,1:03 AM,0:31,,,MISS A. Johnson Free Throw 2 of 2,,,5,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,406,4,0,2,1:03 AM,0:28,,,McGhee REBOUND (Off:1 Def:1),,,5,100411,Carla McGhee,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,407,6,1,2,1:03 AM,0:25,Anderson P.FOUL (P3.PN),,,,,4,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,408,3,11,2,1:04 AM,0:25,,,Hamzova Free Throw 1 of 2 (1 PTS),66 - 90,24,5,100517,Romana Hamzova,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,409,3,12,2,1:04 AM,0:25,,,MISS Hamzova Free Throw 2 of 2,,,5,100517,Romana Hamzova,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,410,4,0,2,1:04 AM,0:23,Mills REBOUND (Off:1 Def:4),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,411,5,2,2,1:04 AM,0:20,Mills Lost Ball Turnover (P3.T21),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,412,6,2,2,1:04 AM,0:15,Campbell S.FOUL (P1.PN),,,,,4,100360,Michelle Campbell,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020000002,413,3,11,2,1:04 AM,0:15,,,MISS dos Santos Free Throw 1 of 2,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,414,4,1,2,1:04 AM,0:15,,,Miracle Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000002,415,3,12,2,1:05 AM,0:15,,,MISS dos Santos Free Throw 2 of 2,,,5,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020000002,416,4,0,2,1:05 AM,0:12,Mills REBOUND (Off:1 Def:5),,,,,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000002,417,1,1,2,1:05 AM,0:01,Campbell 7' Jump Shot (2 PTS) (Mills 2 AST),,,66 - 92,26,4,100360,Michelle Campbell,1611661322.0,Washington,Mystics,WAS,4,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000002,418,13,0,2,1:05 AM,0:00,,End of 2nd Half (1:05 AM EST),,66 - 92,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

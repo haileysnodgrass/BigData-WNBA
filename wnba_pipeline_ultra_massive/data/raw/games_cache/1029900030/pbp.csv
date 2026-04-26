@@ -1,0 +1,403 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1029900030,0,12,0,1,11:36 AM,20:00,,Start of 1st Half (11:36 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,1,10,0,1,11:37 AM,20:00,Jump Ball Whiting vs. Bullett: Tip to Hlede,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0
+1029900030,2,2,1,1,11:37 AM,19:37,MISS Brown 4' Jump Shot,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,3,4,0,1,11:37 AM,19:34,Whiting REBOUND (Off:1 Def:0),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,4,2,5,1,11:37 AM,19:33,MISS Whiting Layup,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,5,4,0,1,11:37 AM,19:31,,,Mapp REBOUND (Off:0 Def:1),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,6,6,4,1,11:38 AM,19:26,,,Bullett OFF.Foul (P1),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,7,5,5,1,11:38 AM,19:26,,,Bullett Foul Turnover (P1.T1),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,8,5,1,1,11:38 AM,19:11,Brondello Bad Pass Turnover (P1.T1),,Bullett STEAL (1 STL),,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,9,1,6,1,11:38 AM,18:53,,,White Driving Layup (2 PTS),2 - 0,-2,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,10,2,1,1,11:39 AM,18:35,MISS Boyd 3PT Jump Shot,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,11,4,0,1,11:39 AM,18:33,,,Bullett REBOUND (Off:0 Def:1),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,12,1,5,1,11:39 AM,18:22,,,Mapp Layup (2 PTS) (Bullett 1 AST),4 - 0,-4,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,13,2,5,1,11:39 AM,18:15,MISS Boyd Layup,,Bullett BLOCK (1 BLK),,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,14,4,0,1,11:39 AM,18:14,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,15,2,1,1,11:39 AM,18:12,MISS Hlede 13' Jump Shot,,,,,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,16,4,0,1,11:39 AM,18:10,,,Bullett REBOUND (Off:0 Def:2),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,17,2,5,1,11:39 AM,18:05,,,MISS Stinson Layup,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,18,4,0,1,11:39 AM,18:02,Whiting REBOUND (Off:1 Def:1),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,19,1,6,1,11:40 AM,17:54,Hlede Driving Layup (2 PTS) (Whiting 1 AST),,,4 - 2,-2,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,20,2,3,1,11:40 AM,17:42,,,MISS Bullett 8' Hook Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,21,4,0,1,11:40 AM,17:39,Whiting REBOUND (Off:1 Def:2),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,22,2,1,1,11:40 AM,17:28,MISS Whiting 14' Jump Shot,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,23,4,0,1,11:40 AM,17:26,,,Mapp REBOUND (Off:0 Def:2),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,24,1,1,1,11:41 AM,17:03,,,Staley 16' Jump Shot (2 PTS) (Bullett 2 AST),6 - 2,-4,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,25,2,1,1,11:41 AM,16:52,MISS Brown 3PT Jump Shot,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,26,4,0,1,11:41 AM,16:51,,,Staley REBOUND (Off:0 Def:1),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,27,1,2,1,11:41 AM,16:46,,,Staley 13' Running Jump Shot (4 PTS),8 - 2,-6,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,28,9,2,1,11:41 AM,16:41,SHOCK Timeout: Short (Full 0 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,29,8,0,1,11:41 AM,16:41,SUB: Azzi FOR Hlede,,,,,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,30,5,4,1,11:42 AM,16:30,Brondello Traveling Turnover (P2.T2),,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,31,1,1,1,11:42 AM,16:08,,,Bullett 9' Jump Shot (2 PTS),10 - 2,-8,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,32,6,2,1,11:43 AM,15:40,,,Mapp S.FOUL (P1.T1),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,33,9,3,1,11:43 AM,15:40,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,35,8,0,1,11:45 AM,15:40,SUB: Canty FOR Boyd,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,36,8,0,1,11:45 AM,15:40,SUB: Sporn FOR Brown,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,38,3,11,1,11:45 AM,15:40,MISS Whiting Free Throw 1 of 2,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,39,4,2,1,11:45 AM,15:40,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,40,3,12,1,11:45 AM,15:40,Whiting Free Throw 2 of 2 (1 PTS),,,10 - 3,-7,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,41,8,0,1,11:46 AM,15:36,SUB: Ndiaye-Diatta FOR Whiting,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,42,5,1,1,11:46 AM,15:18,Sporn STEAL (1 STL),,White Bad Pass Turnover (P1.T2),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,43,1,3,1,11:46 AM,15:07,Ndiaye-Diatta 13' Hook Shot (2 PTS),,,10 - 5,-5,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,44,2,1,1,11:47 AM,14:39,,,MISS Staley 14' Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,45,4,0,1,11:47 AM,14:37,Ndiaye-Diatta REBOUND (Off:0 Def:1),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,46,2,1,1,11:47 AM,14:29,MISS Sporn 10' Jump Shot,,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,47,4,0,1,11:47 AM,14:27,Ndiaye-Diatta REBOUND (Off:1 Def:1),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,48,2,5,1,11:47 AM,14:26,MISS Ndiaye-Diatta Layup,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,49,4,0,1,11:47 AM,14:24,Sporn REBOUND (Off:1 Def:0),,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,50,2,1,1,11:48 AM,14:09,MISS Azzi 12' Jump Shot,,Stinson BLOCK (1 BLK),,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,51,4,0,1,11:48 AM,14:09,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,52,8,0,1,11:48 AM,14:09,,,SUB: Manning FOR Mapp,,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,53,6,2,1,11:48 AM,14:00,,,White S.FOUL (P1.T2),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,54,3,11,1,11:48 AM,14:00,Canty Free Throw 1 of 2 (1 PTS),,,10 - 6,-4,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,55,8,0,1,11:48 AM,14:00,SUB: Neves FOR Brondello,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,56,3,12,1,11:49 AM,14:00,Canty Free Throw 2 of 2 (2 PTS),,,10 - 7,-3,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,57,2,5,1,11:49 AM,13:44,,,MISS Manning Layup,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,58,4,0,1,11:49 AM,13:42,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,59,6,3,1,11:49 AM,13:42,Sporn L.B.FOUL (P1.T1),,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,60,8,0,1,11:49 AM,13:42,,,SUB: Cha. Smith FOR White,,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,61,1,5,1,11:50 AM,13:38,,,Manning Layup (2 PTS),12 - 7,-5,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,62,2,1,1,11:50 AM,13:22,MISS Neves 11' Jump Shot,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,63,10,0,1,11:50 AM,13:20,Jump Ball Neves vs. Bullett: Tip to Staley,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,64,4,0,1,11:50 AM,13:20,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,65,1,5,1,11:51 AM,13:14,,,Cha. Smith Layup (2 PTS) (Staley 1 AST),14 - 7,-7,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,66,2,5,1,11:51 AM,12:57,MISS Neves Layup,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,67,4,0,1,11:51 AM,12:54,,,Manning REBOUND (Off:0 Def:1),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,68,2,1,1,11:51 AM,12:36,Ndiaye-Diatta BLOCK (1 BLK),,MISS Bullett 15' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0
+1029900030,69,4,0,1,11:51 AM,12:33,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,70,8,0,1,11:51 AM,12:33,,,SUB: Johnson FOR Staley,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,71,1,3,1,11:52 AM,12:17,Ndiaye-Diatta 13' Hook Shot (4 PTS) (Canty 1 AST),,,14 - 9,-5,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,72,6,2,1,11:52 AM,12:10,Neves S.FOUL (P1.T2),,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,73,8,0,1,11:52 AM,12:10,,,SUB: Braziel FOR Bullett,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,74,3,11,1,11:52 AM,12:10,,,MISS Johnson Free Throw 1 of 2,,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,75,4,2,1,11:52 AM,12:10,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,76,3,12,1,11:52 AM,12:10,,,Johnson Free Throw 2 of 2 (1 PTS),15 - 9,-6,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,77,1,1,1,11:53 AM,11:59,Ndiaye-Diatta 13' Jump Shot (6 PTS),,,15 - 11,-4,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,78,6,1,1,11:53 AM,11:42,Canty P.FOUL (P1.T3),,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,79,9,3,1,11:53 AM,11:42,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,81,8,0,1,11:55 AM,11:42,,,SUB: White FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,82,2,1,1,11:56 AM,11:30,,,MISS Johnson 3PT Jump Shot,,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,83,4,0,1,11:56 AM,11:28,Azzi REBOUND (Off:0 Def:1),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,84,2,1,1,11:56 AM,11:15,MISS Neves 24' 3PT Jump Shot,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,85,4,0,1,11:56 AM,11:14,,,Braziel REBOUND (Off:0 Def:1),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,86,1,5,1,11:56 AM,11:03,,,Braziel Layup (2 PTS) (Manning 1 AST),17 - 11,-6,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,87,2,1,1,11:56 AM,10:43,MISS Canty 13' Jump Shot,,Johnson BLOCK (1 BLK),,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,88,4,0,1,11:57 AM,10:40,Sporn REBOUND (Off:2 Def:0),,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,89,2,1,1,11:57 AM,10:38,MISS Neves 3PT Jump Shot,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,90,4,0,1,11:57 AM,10:36,,,Cha. Smith REBOUND (Off:0 Def:1),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,91,2,1,1,11:57 AM,10:26,,,MISS Braziel 15' Jump Shot,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,92,4,0,1,11:57 AM,10:24,Ndiaye-Diatta REBOUND (Off:1 Def:2),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,93,6,1,1,11:57 AM,10:19,,,Johnson P.FOUL (P1.T3),,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,94,8,0,1,11:57 AM,10:19,SUB: Brown FOR Ndiaye-Diatta,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,95,8,0,1,11:57 AM,10:19,SUB: Whiting FOR Sporn,,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,96,8,0,1,11:57 AM,10:19,SUB: Tornikidou FOR Canty,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,97,8,0,1,11:57 AM,10:19,SUB: Hlede FOR Neves,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,110,8,0,1,11:57 AM,10:19,,,SUB: Bauer-Bilodeau FOR Manning,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,98,6,2,1,11:58 AM,10:14,,,Johnson S.FOUL (P2.T4),,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,99,3,11,1,11:58 AM,10:14,Azzi Free Throw 1 of 2 (1 PTS),,,17 - 12,-5,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,100,3,12,1,11:58 AM,10:14,Azzi Free Throw 2 of 2 (2 PTS),,,17 - 13,-4,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,102,5,1,1,11:58 AM,10:07,Brown STEAL (1 STL),,White Bad Pass Turnover (P2.T3),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,101,1,1,1,11:58 AM,10:03,Azzi 3PT Jump Shot (5 PTS) (Hlede 1 AST),,,17 - 16,-1,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,103,1,1,1,11:59 AM,9:51,,,White 3PT Jump Shot (5 PTS) (Cha. Smith 1 AST),20 - 16,-4,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,104,6,2,1,12:00 PM,9:37,,,Braziel S.FOUL (P1.PN),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,105,3,11,1,12:00 PM,9:37,MISS Hlede Free Throw 1 of 2,,,,,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,106,4,2,1,12:00 PM,9:37,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,107,8,0,1,12:00 PM,9:37,,,SUB: Staley FOR Johnson,,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,108,3,12,1,12:00 PM,9:37,Hlede Free Throw 2 of 2 (3 PTS),,,20 - 17,-3,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,109,6,1,1,12:01 PM,9:22,Tornikidou P.FOUL (P1.T4),,,,,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,111,2,1,1,12:01 PM,9:15,,,MISS Bauer-Bilodeau 15' Jump Shot,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,112,4,0,1,12:01 PM,9:11,Hlede REBOUND (Off:0 Def:1),,,,,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,113,2,5,1,12:01 PM,9:02,MISS Whiting Layup,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,114,4,0,1,12:01 PM,9:00,Whiting REBOUND (Off:2 Def:2),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,115,2,4,1,12:01 PM,8:59,MISS Whiting Tip Shot,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,116,4,0,1,12:01 PM,8:57,,,Cha. Smith REBOUND (Off:0 Def:2),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,117,1,5,1,12:02 PM,8:36,,,Braziel Layup (4 PTS) (Staley 2 AST),22 - 17,-5,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,118,1,5,1,12:02 PM,8:10,Whiting Layup (3 PTS) (Azzi 1 AST),,,22 - 19,-3,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,119,2,1,1,12:02 PM,7:54,,,MISS Braziel 12' Jump Shot,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,120,4,0,1,12:02 PM,7:51,Whiting REBOUND (Off:2 Def:3),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,129,6,2,1,12:02 PM,7:44,,,Cha. Smith S.FOUL (P1.PN),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,122,9,3,1,12:03 PM,7:44,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,124,8,0,1,12:05 PM,7:44,,,SUB: Stinson FOR Cha. Smith,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,125,8,0,1,12:05 PM,7:44,,,SUB: Bullett FOR Braziel,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,126,8,0,1,12:05 PM,7:44,,,SUB: Mapp FOR Bauer-Bilodeau,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,127,8,0,1,12:05 PM,7:44,SUB: Brondello FOR Azzi,,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,128,3,11,1,12:05 PM,7:44,MISS Brown Free Throw 1 of 2,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,130,4,2,1,12:05 PM,7:44,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,131,3,12,1,12:05 PM,7:44,Brown Free Throw 2 of 2 (1 PTS),,,22 - 20,-2,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,152,5,2,1,12:05 PM,7:39,,,Stinson Lost Ball Turnover (P1.T4),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,132,2,1,1,12:06 PM,7:33,MISS Whiting 13' Jump Shot,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,133,4,0,1,12:06 PM,7:30,,,Stinson REBOUND (Off:0 Def:1),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,134,2,5,1,12:06 PM,7:26,,,MISS Stinson Layup,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,135,4,0,1,12:06 PM,7:24,,,Stinson REBOUND (Off:1 Def:1),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,136,2,5,1,12:06 PM,7:24,,,MISS Stinson Layup,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,137,4,0,1,12:06 PM,7:22,,,Mapp REBOUND (Off:1 Def:2),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,138,1,1,1,12:06 PM,7:20,,,Staley 3PT Jump Shot (7 PTS) (White 1 AST),25 - 20,-5,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,139,6,1,1,12:07 PM,7:09,,,White P.FOUL (P2.PN),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,140,8,0,1,12:07 PM,7:09,SUB: Boyd FOR Tornikidou,,,,,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,141,2,1,1,12:07 PM,7:02,MISS Hlede 3PT Jump Shot,,,,,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,142,4,0,1,12:07 PM,7:00,,,Staley REBOUND (Off:0 Def:2),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,143,1,1,1,12:07 PM,6:55,,,Bullett 15' Jump Shot (4 PTS) (Staley 3 AST),27 - 20,-7,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,144,1,1,1,12:07 PM,6:38,Brondello 16' Jump Shot (2 PTS),,,27 - 22,-5,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,145,2,1,1,12:08 PM,6:10,,,MISS Stinson 3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,146,4,0,1,12:08 PM,6:08,Boyd REBOUND (Off:0 Def:1),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,147,5,1,1,12:08 PM,6:05,Brown Bad Pass Turnover (P1.T3),,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,148,8,0,1,12:08 PM,6:05,SUB: Ndiaye-Diatta FOR Brown,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,150,6,2,1,12:09 PM,5:41,Whiting S.FOUL (P1.PN),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,151,3,11,1,12:09 PM,5:41,,,Bullett Free Throw 1 of 2 (5 PTS),28 - 22,-6,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,153,3,12,1,12:09 PM,5:41,,,Bullett Free Throw 2 of 2 (6 PTS),29 - 22,-7,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,154,6,2,1,12:09 PM,5:27,,,Stinson S.FOUL (P1.PN),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,155,3,11,1,12:10 PM,5:27,Whiting Free Throw 1 of 2 (4 PTS),,,29 - 23,-6,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,156,8,0,1,12:10 PM,5:27,SUB: Azzi FOR Hlede,,,,,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,157,3,12,1,12:10 PM,5:27,MISS Whiting Free Throw 2 of 2,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,158,4,0,1,12:10 PM,5:26,,,Mapp REBOUND (Off:1 Def:3),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,159,5,2,1,12:10 PM,5:15,Brondello STEAL (1 STL),,Staley Lost Ball Turnover (P1.T5),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,160,2,1,1,12:10 PM,5:08,MISS Brondello 3PT Jump Shot,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,161,4,0,1,12:11 PM,5:08,Boyd REBOUND (Off:1 Def:1),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,162,6,1,1,12:11 PM,5:08,,,White P.FOUL (P3.PN),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,163,3,11,1,12:11 PM,5:08,MISS Boyd Free Throw 1 of 2,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,164,4,2,1,12:11 PM,5:08,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,165,8,0,1,12:11 PM,5:08,,,SUB: Cha. Smith FOR White,,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,166,3,12,1,12:11 PM,5:08,MISS Boyd Free Throw 2 of 2,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,167,4,0,1,12:11 PM,5:08,,,Mapp REBOUND (Off:1 Def:4),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,168,1,2,1,12:12 PM,4:51,,,Staley Running Jump Shot (9 PTS),31 - 23,-8,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,169,2,5,1,12:12 PM,4:40,MISS Whiting Layup,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,170,4,0,1,12:12 PM,4:39,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,171,2,1,1,12:12 PM,4:19,,,MISS Mapp 14' Jump Shot,,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,172,4,0,1,12:12 PM,4:17,Brondello REBOUND (Off:0 Def:1),,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,173,1,6,1,12:12 PM,4:12,Brondello Driving Layup (4 PTS),,,31 - 25,-6,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,174,2,5,1,12:13 PM,3:52,Ndiaye-Diatta BLOCK (2 BLK),,MISS Stinson Layup,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0
+1029900030,175,4,0,1,12:13 PM,3:52,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,176,9,3,1,12:13 PM,3:52,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,178,8,0,1,12:15 PM,3:52,SUB: Canty FOR Boyd,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,179,8,0,1,12:15 PM,3:52,SUB: Sporn FOR Whiting,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,181,1,1,1,12:16 PM,3:41,,,Staley 15' Jump Shot (11 PTS) (Stinson 1 AST),33 - 25,-8,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,182,2,1,1,12:16 PM,3:24,MISS Brondello 16' Jump Shot,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,183,4,0,1,12:16 PM,3:21,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,184,2,5,1,12:16 PM,3:19,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,185,4,0,1,12:16 PM,3:17,,,Bullett REBOUND (Off:0 Def:3),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,186,1,6,1,12:16 PM,3:01,,,Staley Driving Layup (13 PTS),35 - 25,-10,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,187,1,5,1,12:17 PM,2:42,Sporn Layup (2 PTS) (Azzi 2 AST),,,35 - 27,-8,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,188,5,2,1,12:17 PM,2:22,,,Cha. Smith Lost Ball Turnover (P1.T6),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,189,8,0,1,12:17 PM,2:22,SUB: Hlede FOR Brondello,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,190,2,5,1,12:18 PM,2:10,MISS Sporn Layup,,Cha. Smith BLOCK (1 BLK),,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,191,4,0,1,12:18 PM,2:07,,,Stinson REBOUND (Off:1 Def:2),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,192,2,1,1,12:18 PM,1:43,,,MISS Staley 3PT Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,193,4,0,1,12:18 PM,1:41,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,194,8,0,1,12:18 PM,1:40,SUB: Brown FOR Sporn,,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,195,6,4,1,12:19 PM,1:19,Brown OFF.Foul (P1),,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,196,5,5,1,12:19 PM,1:19,Brown Foul Turnover (P2.T4),,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,197,1,5,1,12:20 PM,0:57,,,Mapp Layup (4 PTS) (Staley 4 AST),37 - 27,-10,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,198,2,1,1,12:20 PM,0:48,MISS Brown 3PT Jump Shot,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,199,4,0,1,12:20 PM,0:46,,,Cha. Smith REBOUND (Off:0 Def:3),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,200,2,5,1,12:20 PM,0:39,,,MISS Cha. Smith Layup,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,201,4,0,1,12:20 PM,0:37,Ndiaye-Diatta REBOUND (Off:1 Def:3),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,202,1,5,1,12:20 PM,0:27,Canty Layup (4 PTS) (Hlede 2 AST),,,37 - 29,-8,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,203,6,2,1,12:20 PM,0:27,,,Bullett S.FOUL (P2.PN),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,204,3,10,1,12:20 PM,0:27,MISS Canty Free Throw 1 of 1,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,205,4,0,1,12:21 PM,0:27,,,Mapp REBOUND (Off:1 Def:5),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,206,5,2,1,12:21 PM,0:04,Hlede STEAL (1 STL),,Stinson Lost Ball Turnover (P2.T7),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,207,1,5,1,12:21 PM,0:00,Canty Layup (6 PTS) (Hlede 3 AST),,,37 - 31,-6,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,4,100250,Korie Hlede,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,208,2,1,1,12:22 PM,0:00,,,MISS Staley 81' 3PT Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,209,4,0,1,12:22 PM,0:00,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,210,13,0,1,12:22 PM,0:00,,End of 1st Half (12:22 PM EST),,37 - 31,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,212,12,0,2,12:38 PM,20:00,,Start of 2nd Half (12:38 PM EST),,37 - 31,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,213,10,0,2,12:38 PM,20:00,Jump Ball Ndiaye-Diatta vs. Bullett: Tip to Azzi,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0
+1029900030,214,1,1,2,12:39 PM,19:38,Azzi 3PT Jump Shot (8 PTS) (Brondello 1 AST),,,37 - 34,-3,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,215,5,2,2,12:39 PM,19:16,Ndiaye-Diatta STEAL (1 STL),,White Lost Ball Turnover (P3.T8),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,216,7,6,2,12:39 PM,19:05,,,Stinson Violation:Double Lane,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,217,2,1,2,12:40 PM,18:58,MISS Azzi 16' Jump Shot,,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,218,4,0,2,12:40 PM,18:57,Boyd REBOUND (Off:2 Def:1),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,219,6,2,2,12:40 PM,18:57,,,Mapp S.FOUL (P2.T1),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,220,3,11,2,12:40 PM,18:57,Boyd Free Throw 1 of 2 (1 PTS),,,37 - 35,-2,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,221,3,12,2,12:40 PM,18:57,Boyd Free Throw 2 of 2 (2 PTS),,,37 - 36,-1,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,222,2,1,2,12:40 PM,18:39,,,MISS Staley 13' Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,223,4,0,2,12:41 PM,18:37,Ndiaye-Diatta REBOUND (Off:1 Def:4),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,224,2,1,2,12:41 PM,18:31,MISS Brondello 16' Jump Shot,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,225,4,0,2,12:41 PM,18:29,Boyd REBOUND (Off:3 Def:1),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,226,2,4,2,12:41 PM,18:28,MISS Boyd Tip Shot,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,227,4,0,2,12:41 PM,18:25,Boyd REBOUND (Off:4 Def:1),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,228,5,2,2,12:41 PM,18:19,Ndiaye-Diatta Lost Ball Turnover (P1.T5),,Mapp STEAL (1 STL),,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,229,5,1,2,12:41 PM,18:13,Whiting STEAL (1 STL),,Staley Bad Pass Turnover (P2.T9),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,230,2,5,2,12:41 PM,18:08,MISS Whiting Layup,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,231,4,0,2,12:41 PM,18:07,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,232,6,1,2,12:42 PM,17:48,Boyd P.FOUL (P1.T1),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,233,2,1,2,12:42 PM,17:42,,,MISS Staley 14' Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,234,4,0,2,12:42 PM,17:40,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,235,6,2,2,12:43 PM,17:22,Boyd S.FOUL (P2.T2),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,236,3,11,2,12:43 PM,17:22,,,Stinson Free Throw 1 of 2 (1 PTS),38 - 36,-2,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,237,3,12,2,12:43 PM,17:22,,,Stinson Free Throw 2 of 2 (2 PTS),39 - 36,-3,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,238,6,4,2,12:44 PM,17:07,Azzi OFF.Foul (P1),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,239,5,5,2,12:44 PM,17:07,Azzi Foul Turnover (P1.T6),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,240,2,1,2,12:44 PM,16:50,,,MISS Bullett 14' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,241,4,0,2,12:44 PM,16:47,,,Mapp REBOUND (Off:2 Def:5),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,242,1,5,2,12:45 PM,16:47,,,Mapp Layup (6 PTS),41 - 36,-5,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,243,6,2,2,12:45 PM,16:47,Boyd S.FOUL (P3.T3),,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,244,3,10,2,12:45 PM,16:47,,,Mapp Free Throw 1 of 1 (7 PTS),42 - 36,-6,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,245,1,5,2,12:45 PM,16:29,Whiting Layup (6 PTS) (Brondello 2 AST),,,42 - 38,-4,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,246,6,2,2,12:45 PM,16:29,,,Mapp S.FOUL (P3.T2),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,247,8,0,2,12:46 PM,16:29,SUB: Canty FOR Boyd,,,,,4,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,248,3,10,2,12:46 PM,16:29,MISS Whiting Free Throw 1 of 1,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,249,4,0,2,12:46 PM,16:28,Ndiaye-Diatta REBOUND (Off:2 Def:4),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,250,2,1,2,12:46 PM,16:23,MISS Canty 15' Jump Shot,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,251,4,0,2,12:46 PM,16:22,Ndiaye-Diatta REBOUND (Off:3 Def:4),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,252,2,3,2,12:46 PM,16:19,MISS Ndiaye-Diatta 6' Hook Shot,,Bullett BLOCK (2 BLK),,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,253,4,0,2,12:46 PM,16:19,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,254,6,1,2,12:46 PM,16:13,,,Staley P.FOUL (P1.T3),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,255,2,1,2,12:47 PM,16:05,MISS Whiting 9' Jump Shot,,Bullett BLOCK (3 BLK),,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,256,4,0,2,12:47 PM,16:05,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,257,2,1,2,12:47 PM,15:48,MISS Ndiaye-Diatta 16' Jump Shot,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,258,4,0,2,12:47 PM,15:46,,,Stinson REBOUND (Off:1 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,259,2,1,2,12:48 PM,15:26,,,MISS Staley 3PT Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,260,4,0,2,12:48 PM,15:24,Ndiaye-Diatta REBOUND (Off:3 Def:5),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,261,1,1,2,12:48 PM,15:07,Brondello 13' Jump Shot (6 PTS),,,42 - 40,-2,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,262,6,1,2,12:48 PM,14:53,Brondello P.FOUL (P1.T4),,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,263,9,3,2,12:48 PM,14:53,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,265,5,2,2,12:51 PM,14:42,Azzi STEAL (1 STL),,White Lost Ball Turnover (P4.T10),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,266,1,6,2,12:51 PM,14:35,Canty Driving Layup (8 PTS),,,42 - 42,TIE,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,267,1,2,2,12:51 PM,14:24,,,Stinson 14' Running Jump Shot (4 PTS),44 - 42,-2,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,268,6,1,2,12:52 PM,14:10,,,Bullett P.FOUL (P3.T4),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,269,8,0,2,12:52 PM,14:10,,,SUB: Cha. Smith FOR White,,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,270,2,2,2,12:52 PM,14:01,MISS Brondello 14' Running Jump Shot,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,271,4,0,2,12:52 PM,13:59,,,Mapp REBOUND (Off:2 Def:6),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,272,5,1,2,12:53 PM,13:37,Whiting STEAL (2 STL),,Mapp Bad Pass Turnover (P1.T11),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,273,2,5,2,12:53 PM,13:31,MISS Azzi Layup,,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,274,4,0,2,12:53 PM,13:28,,,Mapp REBOUND (Off:2 Def:7),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,275,1,1,2,12:53 PM,13:00,,,Bullett 15' Jump Shot (8 PTS) (Staley 5 AST),46 - 42,-4,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,276,1,1,2,12:53 PM,12:43,Brondello 15' Jump Shot (8 PTS),,,46 - 44,-2,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,277,2,1,2,12:54 PM,12:25,,,MISS Mapp 14' Jump Shot,,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,278,4,0,2,12:54 PM,12:23,,,Bullett REBOUND (Off:1 Def:3),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,279,1,1,2,12:54 PM,12:16,,,Cha. Smith 3PT Jump Shot (5 PTS) (Staley 6 AST),49 - 44,-5,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,280,1,6,2,12:54 PM,12:06,Brondello Driving Layup (10 PTS),,,49 - 46,-3,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,281,6,2,2,12:54 PM,12:06,,,Staley S.FOUL (P2.PN),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,282,8,0,2,12:54 PM,12:06,SUB: Sporn FOR Ndiaye-Diatta,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,283,8,0,2,12:54 PM,12:06,,,SUB: Manning FOR Mapp,,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,284,8,0,2,12:54 PM,12:06,,,SUB: Braziel FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,285,8,0,2,12:54 PM,12:06,,,SUB: Johnson FOR Staley,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,286,3,10,2,12:55 PM,12:06,Brondello Free Throw 1 of 1 (11 PTS),,,49 - 47,-2,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,287,6,1,2,12:55 PM,11:52,Sporn P.FOUL (P2.PN),,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,288,8,0,2,12:55 PM,11:52,SUB: Neves FOR Brondello,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,289,9,3,2,12:55 PM,11:52,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,291,8,0,2,12:57 PM,11:52,,,SUB: Stinson FOR Bullett,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,292,8,0,2,12:58 PM,11:52,SUB: Brown FOR Whiting,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,293,2,1,2,12:58 PM,11:39,,,MISS Manning 11' Jump Shot,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,294,10,0,2,12:58 PM,11:35,Jump Ball Brown vs. Braziel: Tip to Johnson,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,295,4,0,2,12:58 PM,11:35,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,296,1,5,2,12:59 PM,11:20,,,Manning Layup (4 PTS) (Braziel 1 AST),51 - 47,-4,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,297,6,1,2,12:59 PM,11:01,,,Braziel P.FOUL (P2.PN),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,298,5,1,2,12:59 PM,10:58,Brown Bad Pass Turnover (P3.T7),,Braziel STEAL (1 STL),,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,299,5,1,2,12:59 PM,10:53,Canty STEAL (1 STL),,Braziel Bad Pass Turnover (P1.T12),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,300,2,5,2,1:00 PM,10:50,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,301,4,0,2,1:00 PM,10:48,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,430,6,3,2,1:00 PM,10:48,,,Stinson L.B.FOUL (P2.PN),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,302,1,2,2,1:00 PM,10:43,Azzi 10' Running Jump Shot (10 PTS),,,51 - 49,-2,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,303,5,2,2,1:00 PM,10:22,,,Cha. Smith Lost Ball Turnover (P2.T13),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,304,1,1,2,1:01 PM,10:08,Azzi 15' Jump Shot (12 PTS),,,51 - 51,TIE,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,305,6,1,2,1:01 PM,9:53,Canty P.FOUL (P2.PN),,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,306,8,0,2,1:01 PM,9:53,,,SUB: Staley FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,307,5,1,2,1:01 PM,9:40,,,Johnson Bad Pass Turnover (P1.T14),,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,308,8,0,2,1:02 PM,9:40,SUB: Tornikidou FOR Canty,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,309,8,0,2,1:02 PM,9:40,,,SUB: White FOR Johnson,,,5,100369,Niesa Johnson,1611661314.0,Charlotte,Sting,CHA,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,310,6,4,2,1:02 PM,9:25,Azzi OFF.Foul (P2),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,311,5,5,2,1:02 PM,9:25,Azzi Foul Turnover (P2.T8),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,312,5,4,2,1:03 PM,9:15,,,Manning Traveling Turnover (P1.T15),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,313,5,4,2,1:03 PM,9:04,Sporn Traveling Turnover (P1.T9),,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,314,6,1,2,1:03 PM,8:51,Tornikidou P.FOUL (P2.PN),,,,,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,315,2,1,2,1:04 PM,8:43,,,MISS White 11' Jump Shot,,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,316,4,0,2,1:04 PM,8:42,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,317,8,0,2,1:04 PM,8:42,SUB: Ndiaye-Diatta FOR Sporn,,,,,4,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,318,1,1,2,1:04 PM,8:22,Azzi 3PT Jump Shot (15 PTS) (Tornikidou 1 AST),,,51 - 54,3,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,320,6,3,2,1:05 PM,8:03,Brown L.B.FOUL (P2.PN),,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,321,8,0,2,1:05 PM,8:03,,,SUB: Mapp FOR Manning,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,322,3,11,2,1:05 PM,8:03,,,MISS Braziel Free Throw 1 of 2,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,323,4,2,2,1:05 PM,8:03,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,324,3,12,2,1:06 PM,8:03,,,Braziel Free Throw 2 of 2 (5 PTS),52 - 54,2,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,325,1,1,2,1:06 PM,7:43,Tornikidou 6' Jump Shot (2 PTS) (Ndiaye-Diatta 1 AST),,,52 - 56,4,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,326,5,2,2,1:06 PM,7:23,Neves STEAL (1 STL),,Staley Lost Ball Turnover (P3.T16),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,327,6,2,2,1:07 PM,7:17,,,Cha. Smith S.FOUL (P2.PN),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,328,9,3,2,1:07 PM,7:17,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,330,8,0,2,1:09 PM,7:17,,,SUB: Bullett FOR Braziel,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,341,8,0,2,1:09 PM,7:17,SUB: Whiting FOR Brown,,,,,4,100248,Cindy Brown,1611661321.0,Detroit,Shock,DET,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,332,3,11,2,1:09 PM,7:17,Ndiaye-Diatta Free Throw 1 of 2 (7 PTS),,,52 - 57,5,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,333,3,12,2,1:09 PM,7:17,Ndiaye-Diatta Free Throw 2 of 2 (8 PTS),,,52 - 58,6,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,335,5,1,2,1:10 PM,6:53,Whiting STEAL (3 STL),,Cha. Smith Bad Pass Turnover (P3.T17),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,366,8,0,2,1:10 PM,6:53,,,SUB: Stinson FOR Cha. Smith,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,336,6,4,2,1:10 PM,6:48,Azzi OFF.Foul (P3),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,337,5,5,2,1:10 PM,6:48,Azzi Foul Turnover (P3.T10),,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,338,1,1,2,1:11 PM,6:38,,,Bullett 12' Jump Shot (10 PTS) (Stinson 2 AST),54 - 58,4,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,339,2,1,2,1:11 PM,6:26,MISS Ndiaye-Diatta 9' Jump Shot,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,340,4,0,2,1:11 PM,6:24,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,342,8,0,2,1:11 PM,6:24,SUB: Brondello FOR Neves,,,,,4,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,343,2,1,2,1:12 PM,6:00,,,MISS Bullett 13' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,344,4,0,2,1:12 PM,5:58,Ndiaye-Diatta REBOUND (Off:3 Def:6),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,345,1,1,2,1:12 PM,5:51,Brondello 18' Jump Shot (13 PTS) (Azzi 3 AST),,,54 - 60,6,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,346,2,1,2,1:12 PM,5:40,,,MISS Stinson 13' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,347,4,0,2,1:12 PM,5:35,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,348,6,3,2,1:12 PM,5:34,,,White L.B.FOUL (P4.PN),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,349,3,11,2,1:13 PM,5:34,Whiting Free Throw 1 of 2 (7 PTS),,,54 - 61,7,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,351,8,0,2,1:13 PM,5:34,SUB: Canty FOR Tornikidou,,,,,4,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1029900030,352,3,12,2,1:13 PM,5:34,MISS Whiting Free Throw 2 of 2,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,353,4,0,2,1:13 PM,5:31,,,Mapp REBOUND (Off:2 Def:8),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,354,6,2,2,1:14 PM,5:12,Ndiaye-Diatta S.FOUL (P1.PN),,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,355,3,11,2,1:14 PM,5:12,,,Mapp Free Throw 1 of 2 (8 PTS),55 - 61,6,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,356,3,12,2,1:14 PM,5:12,,,Mapp Free Throw 2 of 2 (9 PTS),56 - 61,5,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,357,1,6,2,1:14 PM,4:57,Canty Driving Layup (10 PTS),,,56 - 63,7,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,358,2,1,2,1:15 PM,4:37,,,MISS Stinson 13' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,359,4,0,2,1:15 PM,4:35,Brondello REBOUND (Off:0 Def:2),,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,360,2,1,2,1:15 PM,4:16,MISS Ndiaye-Diatta 13' Jump Shot,,,,,4,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,361,4,0,2,1:15 PM,4:13,,,Bullett REBOUND (Off:1 Def:4),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,362,2,1,2,1:15 PM,4:05,,,MISS Staley 3PT Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,363,4,0,2,1:15 PM,4:02,Whiting REBOUND (Off:2 Def:4),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,364,5,1,2,1:16 PM,3:46,Canty Bad Pass Turnover (P1.T11),,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,365,9,3,2,1:16 PM,3:46,,Timeout: Official TV,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,369,8,0,2,1:18 PM,3:46,,,SUB: Cha. Smith FOR White,,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,370,6,4,2,1:19 PM,3:26,,,Mapp OFF.Foul (P4),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,371,5,5,2,1:19 PM,3:26,,,Mapp Foul Turnover (P2.T18),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,372,1,2,2,1:19 PM,3:04,Brondello 14' Running Jump Shot (15 PTS),,,56 - 65,9,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,373,1,2,2,1:20 PM,2:44,,,Cha. Smith 10' Running Jump Shot (7 PTS),58 - 65,7,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,374,6,2,2,1:20 PM,2:17,,,Staley S.FOUL (P3.PN),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,375,3,13,2,1:20 PM,2:17,Brondello Free Throw 1 of 3 (16 PTS),,,58 - 66,8,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,376,3,14,2,1:21 PM,2:17,Brondello Free Throw 2 of 3 (17 PTS),,,58 - 67,9,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,377,3,15,2,1:21 PM,2:17,Brondello Free Throw 3 of 3 (18 PTS),,,58 - 68,10,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,378,6,1,2,1:21 PM,2:07,Canty P.FOUL (P3.PN),,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1029900030,379,3,11,2,1:21 PM,2:07,,,MISS Cha. Smith Free Throw 1 of 2,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,380,4,2,2,1:21 PM,2:07,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,381,3,12,2,1:22 PM,2:07,,,Cha. Smith Free Throw 2 of 2 (8 PTS),59 - 68,9,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,382,6,1,2,1:22 PM,1:50,,,Mapp P.FOUL (P5.PN),,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,384,9,2,2,1:23 PM,1:50,,,Sting Timeout: Short (Reg.0 Short 1),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,386,3,11,2,1:24 PM,1:50,Canty Free Throw 1 of 2 (11 PTS),,,59 - 69,10,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,387,3,12,2,1:24 PM,1:50,Canty Free Throw 2 of 2 (12 PTS),,,59 - 70,11,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,388,2,1,2,1:24 PM,1:38,,,MISS Cha. Smith 3PT Jump Shot,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,389,4,0,2,1:24 PM,1:37,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,390,2,1,2,1:25 PM,1:28,,,MISS Mapp 16' Jump Shot,,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,391,10,0,2,1:25 PM,1:24,Jump Ball Whiting vs. Cha. Smith: Tip to Staley,,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0
+1029900030,392,4,0,2,1:25 PM,1:24,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,393,2,1,2,1:25 PM,1:14,,,MISS Cha. Smith 3PT Jump Shot,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,394,4,0,2,1:25 PM,1:13,Whiting REBOUND (Off:2 Def:5),,,,,4,100389,Val Whiting,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,396,6,1,2,1:26 PM,0:53,,,Stinson P.FOUL (P3.PN),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,397,3,11,2,1:26 PM,0:53,Azzi Free Throw 1 of 2 (16 PTS),,,59 - 71,12,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,399,8,0,2,1:26 PM,0:53,,,SUB: White FOR Mapp,,,5,100060,Rhonda Mapp,1611661314.0,Charlotte,Sting,CHA,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,400,3,12,2,1:26 PM,0:53,Azzi Free Throw 2 of 2 (17 PTS),,,59 - 72,13,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,401,1,1,2,1:27 PM,0:41,,,Stinson 13' Jump Shot (6 PTS),61 - 72,11,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,402,6,1,2,1:27 PM,0:36,,,White P.FOUL (P5.PN),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,404,9,2,2,1:27 PM,0:36,,,Sting Timeout: Short (Reg.0 Short 2),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,406,3,11,2,1:28 PM,0:36,Azzi Free Throw 1 of 2 (18 PTS),,,61 - 73,12,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,407,3,12,2,1:28 PM,0:36,MISS Azzi Free Throw 2 of 2,,,,,4,100382,Jennifer Azzi,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,408,4,0,2,1:28 PM,0:36,,,Cha. Smith REBOUND (Off:0 Def:4),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,409,1,1,2,1:28 PM,0:27,,,Cha. Smith 3PT Jump Shot (11 PTS) (Staley 7 AST),64 - 73,9,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,410,6,1,2,1:29 PM,0:25,,,White P.FOUL (P6.PN),,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,411,3,11,2,1:29 PM,0:25,MISS Canty Free Throw 1 of 2,,,,,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,412,8,0,2,1:29 PM,0:25,,,SUB: Chr. Smith FOR White,,,5,100370,Stephanie White,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,414,4,0,2,1:30 PM,0:25,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,413,3,12,2,1:30 PM,0:25,Canty Free Throw 2 of 2 (13 PTS),,,64 - 74,10,4,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,416,1,1,2,1:30 PM,0:17,,,Bullett 3PT Jump Shot (13 PTS) (Stinson 3 AST),67 - 74,7,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029900030,417,6,1,2,1:30 PM,0:12,,,Stinson P.FOUL (P4.PN),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029900030,418,3,11,2,1:30 PM,0:12,MISS Brondello Free Throw 1 of 2,,,,,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,419,4,2,2,1:30 PM,0:12,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,421,9,1,2,1:31 PM,0:12,,,Sting Timeout: Regular (Reg.1 Short 2),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029900030,424,3,12,2,1:33 PM,0:12,Brondello Free Throw 2 of 2 (19 PTS),,,67 - 75,8,4,100247,Sandy Brondello,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1029900030,425,2,1,2,1:33 PM,0:03,,,MISS Cha. Smith 3PT Jump Shot,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,426,4,0,2,1:33 PM,0:02,,,Stinson REBOUND (Off:2 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,427,1,5,2,1:33 PM,0:01,,,Stinson Layup (8 PTS),69 - 75,6,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029900030,428,13,0,2,1:34 PM,0:00,,End of 2nd Half (1:34 PM EST),,69 - 75,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

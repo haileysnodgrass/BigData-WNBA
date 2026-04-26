@@ -1,0 +1,354 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022100105,2,12,0,1,9:09 PM,10:00,,Start of 1st Period (9:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,4,10,0,1,9:09 PM,10:00,Jump Ball Zahui B vs. Stewart: Tip to Bird,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1
+1022100105,7,2,3,1,9:10 PM,9:44,,,MISS Russell 5' Hook Shot,,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,8,4,0,1,9:10 PM,9:41,Sykes REBOUND (Off:0 Def:1),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,9,2,1,1,9:10 PM,9:23,MISS Coffey 24' 3PT Jump Shot,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,10,4,0,1,9:10 PM,9:19,,,Russell REBOUND (Off:0 Def:1),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,11,2,6,1,9:10 PM,9:11,,,MISS Samuelson 2' Driving Layup,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,12,4,0,1,9:10 PM,9:07,Zahui B REBOUND (Off:0 Def:1),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,13,2,101,1,9:10 PM,8:58,MISS Sykes 7' Driving Floating Jump Shot,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,14,4,0,1,9:10 PM,8:54,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,15,2,57,1,9:11 PM,8:42,,,MISS Stewart 3' Driving Hook Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,16,4,0,1,9:11 PM,8:40,Coffey REBOUND (Off:0 Def:1),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,17,2,6,1,9:11 PM,8:24,MISS Wheeler 2' Driving Layup,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,19,4,0,1,9:11 PM,8:20,,,Samuelson REBOUND (Off:0 Def:1),,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,20,1,1,1,9:11 PM,8:04,,,Bird 3PT Jump Shot (3 PTS) (Stewart 1 AST),3 - 0,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,22,6,2,1,9:12 PM,7:41,,,Prince S.FOUL (P1.T1),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,24,3,11,1,9:12 PM,7:41,Wheeler Free Throw 1 of 2 (1 PTS),,,3 - 1,-2,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,25,3,12,1,9:12 PM,7:41,Wheeler Free Throw 2 of 2 (2 PTS),,,3 - 2,-1,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,26,6,2,1,9:13 PM,7:21,Coffey S.FOUL (P1.T1),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,28,3,11,1,9:13 PM,7:21,,,Stewart Free Throw 1 of 2 (1 PTS),4 - 2,-2,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,29,3,12,1,9:13 PM,7:21,,,Stewart Free Throw 2 of 2 (2 PTS),5 - 2,-3,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,31,2,5,1,9:14 PM,6:54,MISS Zahui B 2' Layup,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,32,4,0,1,9:14 PM,6:52,,,Russell REBOUND (Off:0 Def:2),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,33,2,5,1,9:14 PM,6:33,Zahui B BLOCK (1 BLK),,MISS Prince 2' Layup,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,1
+1022100105,34,4,0,1,9:15 PM,6:30,Zahui B REBOUND (Off:0 Def:2),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,35,2,41,1,9:15 PM,6:29,MISS Coffey 2' Running Layup,,Stewart BLOCK (1 BLK),,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1022100105,37,4,0,1,9:15 PM,6:29,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,40,2,47,1,9:15 PM,6:12,MISS Samuelson 6' Turnaround Jump Shot,,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,41,4,0,1,9:15 PM,6:10,,,Samuelson REBOUND (Off:0 Def:2),,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,42,6,1,1,9:15 PM,6:06,Samuelson P.FOUL (P1.T2),,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,44,2,79,1,9:16 PM,6:01,,,MISS Samuelson 12' Pullup Jump Shot,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,45,4,0,1,9:16 PM,5:57,Samuelson REBOUND (Off:0 Def:1),,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,46,1,79,1,9:16 PM,5:40,Zahui B 18' Pullup Jump Shot (2 PTS),,,5 - 4,-1,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,47,1,47,1,9:16 PM,5:25,,,Stewart 11' Turnaround Jump Shot (4 PTS) (Prince 1 AST),7 - 4,-3,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,48,2,78,1,9:17 PM,5:07,MISS Sykes 7' Floating Jump Shot,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,49,4,0,1,9:17 PM,5:04,,,Stewart REBOUND (Off:0 Def:1),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,51,6,1,1,9:17 PM,4:58,Coffey P.FOUL (P2.T3),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,53,9,4,1,9:17 PM,4:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,54,8,0,1,9:19 PM,4:58,SUB: Holmes FOR Coffey,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,55,8,0,1,9:19 PM,4:58,,,SUB: Canada FOR Russell,,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,56,8,0,1,9:19 PM,4:58,,,SUB: Magbegor FOR Prince,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,60,2,6,1,9:20 PM,4:46,Zahui B BLOCK (2 BLK),,MISS Magbegor 2' Driving Layup,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,1
+1022100105,62,4,0,1,9:20 PM,4:40,Sykes REBOUND (Off:0 Def:2),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,63,1,41,1,9:20 PM,4:38,Sykes 2' Running Layup (2 PTS),,,7 - 6,-1,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,64,5,1,1,9:20 PM,4:29,Wheeler STEAL (1 STL),,Canada Bad Pass Turnover (P1.T1),,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,66,2,2,1,9:20 PM,4:24,MISS Samuelson 3PT Running Jump Shot,,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,67,4,0,1,9:20 PM,4:20,Zahui B REBOUND (Off:1 Def:2),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,68,2,6,1,9:21 PM,4:09,MISS Wheeler 3' Driving Layup,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,69,4,0,1,9:21 PM,4:08,,,Stewart REBOUND (Off:0 Def:2),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,70,5,40,1,9:21 PM,4:04,,,Stewart Out of Bounds Lost Ball Turnover (P1.T2),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022100105,71,1,1,1,9:21 PM,3:48,Zahui B 20' Jump Shot (4 PTS) (Sykes 1 AST),,,7 - 8,1,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,74,8,0,1,9:22 PM,3:35,SUB: Cooper FOR Wheeler,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,75,8,0,1,9:22 PM,3:35,,,SUB: Talbot FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,76,8,0,1,9:22 PM,3:35,,,SUB: Prince FOR Samuelson,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,80,1,5,1,9:22 PM,3:29,,,Magbegor 2' Layup (2 PTS) (Talbot 1 AST),9 - 8,-1,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,82,1,5,1,9:22 PM,3:20,Sykes 6' Layup (4 PTS),,,9 - 10,1,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,83,6,2,1,9:22 PM,3:20,,,Talbot S.FOUL (P1.T2),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,85,3,10,1,9:23 PM,3:20,Sykes Free Throw 1 of 1 (5 PTS),,,9 - 11,2,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,86,1,98,1,9:23 PM,3:04,,,Magbegor 3' Cutting Layup Shot (4 PTS) (Talbot 2 AST),11 - 11,TIE,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,88,2,1,1,9:23 PM,2:54,MISS Holmes 24' 3PT Jump Shot,,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,89,4,0,1,9:23 PM,2:50,,,Talbot REBOUND (Off:0 Def:1),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,90,1,101,1,9:24 PM,2:37,,,Prince 5' Driving Floating Jump Shot (2 PTS),13 - 11,-2,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,91,1,6,1,9:24 PM,2:16,Sykes 2' Driving Layup (7 PTS) (Cooper 1 AST),,,13 - 13,TIE,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,93,1,1,1,9:24 PM,2:07,,,Stewart 24' 3PT Jump Shot (7 PTS) (Canada 1 AST),16 - 13,-3,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,95,2,6,1,9:24 PM,1:53,MISS Samuelson 2' Driving Layup,,Magbegor BLOCK (1 BLK),,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1
+1022100105,97,4,0,1,9:24 PM,1:51,,,Magbegor REBOUND (Off:0 Def:1),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,98,6,1,1,9:25 PM,1:40,Zahui B P.FOUL (P1.T4),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,100,8,0,1,9:25 PM,1:40,SUB: Cox FOR Zahui B,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,102,2,79,1,9:25 PM,1:31,,,MISS Canada 8' Pullup Jump Shot,,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,103,4,0,1,9:25 PM,1:28,Cooper REBOUND (Off:0 Def:1),,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,104,2,6,1,9:25 PM,1:21,MISS Cooper 3' Driving Layup,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,105,4,0,1,9:25 PM,1:19,,,Magbegor REBOUND (Off:0 Def:2),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,106,1,6,1,9:25 PM,1:10,,,Prince 5' Driving Layup (4 PTS),18 - 13,-5,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,107,2,79,1,9:26 PM,0:57,MISS Sykes 17' Pullup Jump Shot,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,108,4,0,1,9:26 PM,0:54,,,Magbegor REBOUND (Off:0 Def:3),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,109,1,47,1,9:26 PM,0:45,,,Magbegor 6' Turnaround Jump Shot (6 PTS) (Prince 2 AST),20 - 13,-7,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,111,9,1,1,9:26 PM,0:45,SPARKS Timeout: Regular (Full 1 Short 0),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,112,8,0,1,9:27 PM,0:45,SUB: Wheeler FOR Sykes,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,113,8,0,1,9:27 PM,0:45,,,SUB: Samuelson FOR Stewart,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,116,2,5,1,9:28 PM,0:31,MISS Cox 6' Layup,,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,117,4,0,1,9:28 PM,0:29,Holmes REBOUND (Off:1 Def:0),,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,118,6,2,1,9:28 PM,0:24,,,Talbot S.FOUL (P2.T3),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,120,3,11,1,9:28 PM,0:24,Wheeler Free Throw 1 of 2 (3 PTS),,,20 - 14,-6,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,121,3,12,1,9:29 PM,0:24,Wheeler Free Throw 2 of 2 (4 PTS),,,20 - 15,-5,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,122,2,1,1,9:29 PM,0:12,Holmes BLOCK (1 BLK),,MISS Samuelson 24' 3PT Jump Shot,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,1
+1022100105,123,4,0,1,9:29 PM,0:07,Wheeler REBOUND (Off:0 Def:1),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,124,2,1,1,9:29 PM,0:04,MISS Wheeler 17' Jump Shot,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,125,4,0,1,9:29 PM,0:00,,,Samuelson REBOUND (Off:0 Def:3),,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,126,2,1,1,9:29 PM,0:00,,,MISS Prince 48' 3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,127,4,0,1,9:29 PM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,128,13,0,1,9:29 PM,0:00,,End of 1st Period (9:29 PM EST),,20 - 15,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100105,132,12,0,2,9:32 PM,10:00,,Start of 2nd Period (9:32 PM EST),,20 - 15,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,133,2,98,2,9:33 PM,9:38,MISS Holmes 2' Cutting Layup Shot,,Prince BLOCK (1 BLK),,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,1
+1022100105,135,4,0,2,9:33 PM,9:33,Sykes REBOUND (Off:1 Def:2),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,136,2,1,2,9:33 PM,9:33,MISS Sykes 5' Jump Shot,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,137,4,0,2,9:33 PM,9:31,,,Talbot REBOUND (Off:0 Def:2),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,138,1,2,2,9:33 PM,9:27,,,Prince 24' 3PT Running Jump Shot (7 PTS) (Canada 2 AST),23 - 15,-8,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,140,1,6,2,9:33 PM,9:06,Holmes 3' Driving Layup (2 PTS) (Wheeler 1 AST),,,23 - 17,-6,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,142,2,79,2,9:33 PM,8:42,,,MISS Canada 16' Pullup Jump Shot,,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,143,4,0,2,9:33 PM,8:39,Cox REBOUND (Off:0 Def:1),,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,144,5,2,2,9:34 PM,8:25,Wheeler Lost Ball Turnover (P1.T1),,Prince STEAL (1 STL),,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,146,5,1,2,9:34 PM,8:15,Wheeler STEAL (2 STL),,Talbot Bad Pass Turnover (P1.T3),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,148,2,41,2,9:34 PM,8:11,MISS Cooper 2' Running Layup,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,149,4,0,2,9:34 PM,8:02,Wheeler REBOUND (Off:1 Def:1),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,150,2,72,2,9:34 PM,8:02,MISS Wheeler 1' Putback Layup,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,151,4,0,2,9:34 PM,8:02,,,Magbegor REBOUND (Off:0 Def:4),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,152,1,98,2,9:34 PM,7:58,,,Magbegor 2' Cutting Layup Shot (8 PTS) (Canada 3 AST),25 - 17,-8,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,154,10,0,2,9:35 PM,7:43,Jump Ball Cooper vs. Prince: Tip to Samuelson,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,1
+1022100105,157,5,2,2,9:35 PM,7:43,Cooper Lost Ball Turnover (P1.T2),,Prince STEAL (2 STL),,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,159,1,6,2,9:35 PM,7:41,,,Samuelson 2' Driving Layup (2 PTS),27 - 17,-10,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,160,6,2,2,9:35 PM,7:33,,,Talbot S.FOUL (P3.T1),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,162,3,11,2,9:36 PM,7:33,Sykes Free Throw 1 of 2 (8 PTS),,,27 - 18,-9,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,163,8,0,2,9:36 PM,7:33,,,SUB: Burke FOR Talbot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,165,3,12,2,9:36 PM,7:33,Sykes Free Throw 2 of 2 (9 PTS),,,27 - 19,-8,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,166,6,4,2,9:36 PM,7:22,,,Prince OFF.Foul (P2),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,168,5,37,2,9:36 PM,7:22,,,Prince Offensive Foul Turnover (P1.T4),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022100105,169,8,0,2,9:36 PM,7:22,,,SUB: Bird FOR Prince,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,170,8,0,2,9:36 PM,7:22,,,SUB: Stewart FOR Samuelson,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,173,5,45,2,9:37 PM,7:11,Holmes Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1022100105,174,6,26,2,9:37 PM,6:58,,,Burke Offensive Charge Foul (P1),,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,176,5,37,2,9:37 PM,6:58,,,Burke Offensive Foul Turnover (P1.T5),,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022100105,177,8,0,2,9:37 PM,6:58,SUB: Coffey FOR Cox,,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,178,8,0,2,9:37 PM,6:58,SUB: Zahui B FOR Holmes,,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,181,2,1,2,9:38 PM,6:48,MISS Wheeler 24' 3PT Jump Shot,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,182,4,0,2,9:38 PM,6:47,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,183,6,3,2,9:38 PM,6:47,,,Magbegor L.B.FOUL (P1.T2),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,185,1,1,2,9:38 PM,6:36,Coffey 3PT Jump Shot (3 PTS) (Sykes 2 AST),,,27 - 22,-5,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,187,5,45,2,9:39 PM,6:26,,,Magbegor Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022100105,188,8,0,2,9:39 PM,6:26,,,SUB: Russell FOR Magbegor,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,190,2,102,2,9:39 PM,6:09,MISS Coffey 5' Driving Floating Bank Jump Shot,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,191,4,0,2,9:39 PM,6:05,,,Russell REBOUND (Off:0 Def:3),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,192,2,79,2,9:39 PM,5:59,,,MISS Burke 25' 3PT Pullup Jump Shot,,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,193,4,0,2,9:39 PM,5:55,Coffey REBOUND (Off:0 Def:2),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,194,5,4,2,9:39 PM,5:47,Cooper Traveling Turnover (P2.T4),,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1022100105,195,9,4,2,9:40 PM,5:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,196,6,1,2,9:42 PM,5:35,Zahui B P.FOUL (P2.T1),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,198,1,1,2,9:43 PM,5:20,,,Bird 26' 3PT Jump Shot (6 PTS) (Canada 4 AST),30 - 22,-8,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,200,1,1,2,9:43 PM,4:55,Cooper 3PT Jump Shot (3 PTS) (Zahui B 1 AST),,,30 - 25,-5,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,202,2,79,2,9:44 PM,4:40,,,MISS Canada 15' Pullup Jump Shot,,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,203,4,0,2,9:44 PM,4:37,,,Burke REBOUND (Off:1 Def:0),,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,204,1,1,2,9:44 PM,4:35,,,Stewart 24' 3PT Jump Shot (10 PTS) (Burke 1 AST),33 - 25,-8,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,206,5,2,2,9:44 PM,4:22,Cooper Lost Ball Turnover (P3.T5),,Canada STEAL (1 STL),,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,208,2,1,2,9:44 PM,3:59,,,MISS Bird 15' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,209,4,0,2,9:44 PM,3:56,,,Bird REBOUND (Off:1 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,210,1,5,2,9:44 PM,3:51,,,Bird 3' Layup (8 PTS),35 - 25,-10,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,211,2,79,2,9:45 PM,3:30,MISS Coffey 13' Pullup Jump Shot,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,212,4,0,2,9:45 PM,3:26,,,Russell REBOUND (Off:0 Def:4),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,213,1,6,2,9:45 PM,3:15,,,Canada 3' Driving Layup (2 PTS) (Burke 2 AST),37 - 25,-12,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,214,1,1,2,9:45 PM,3:01,Wheeler 24' 3PT Jump Shot (7 PTS) (Zahui B 2 AST),,,37 - 28,-9,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,216,9,1,2,9:45 PM,3:00,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,218,8,0,2,9:47 PM,3:00,SUB: Samuelson FOR Cooper,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,219,8,0,2,9:47 PM,3:00,,,SUB: Prince FOR Burke,,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,220,8,0,2,9:47 PM,3:00,,,SUB: Samuelson FOR Canada,,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,224,1,79,2,9:49 PM,2:44,,,Prince 15' Pullup Jump Shot (9 PTS),39 - 28,-11,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,227,6,1,2,9:50 PM,2:24,,,Russell P.FOUL (P1.T3),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,229,2,1,2,9:51 PM,2:11,MISS Sykes 10' Jump Shot,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,230,4,0,2,9:51 PM,2:10,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,231,5,11,2,9:51 PM,2:10,SPARKS Turnover: Shot Clock (T#6),,,,,2,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100105,232,2,1,2,9:51 PM,1:56,,,MISS Samuelson 14' Jump Shot,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,233,4,0,2,9:51 PM,1:53,Sykes REBOUND (Off:1 Def:3),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,234,5,40,2,9:51 PM,1:46,Sykes Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1022100105,235,6,1,2,9:52 PM,1:37,Zahui B P.FOUL (P3.T2),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,237,8,0,2,9:52 PM,1:37,SUB: Cox FOR Zahui B,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,239,2,1,2,9:52 PM,1:20,,,MISS Stewart 24' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,240,4,0,2,9:52 PM,1:16,Cox REBOUND (Off:0 Def:2),,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,241,1,6,2,9:53 PM,0:59,Coffey 3' Driving Layup (5 PTS) (Samuelson 1 AST),,,39 - 30,-9,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,242,2,1,2,9:53 PM,0:47,,,MISS Stewart 24' 3PT Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,243,4,0,2,9:53 PM,0:43,Samuelson REBOUND (Off:0 Def:2),,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,244,2,1,2,9:53 PM,0:34,MISS Coffey 24' 3PT Jump Shot,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,245,4,0,2,9:53 PM,0:31,,,Prince REBOUND (Off:0 Def:1),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,246,2,5,2,9:53 PM,0:25,,,MISS Stewart 2' Layup,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,247,4,0,2,9:53 PM,0:19,Sykes REBOUND (Off:1 Def:4),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,248,9,2,2,9:54 PM,0:16,SPARKS Timeout: Short (Full 1 Short 1),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,249,8,0,2,9:54 PM,0:16,,,SUB: Burke FOR Samuelson,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,251,2,1,2,9:55 PM,0:01,MISS Coffey 20' Jump Shot,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,252,4,0,2,9:55 PM,0:01,,,Russell REBOUND (Off:0 Def:5),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,253,13,0,2,9:55 PM,0:00,,End of 2nd Period (9:55 PM EST),,39 - 30,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100105,259,12,0,3,10:11 PM,10:00,,Start of 3rd Period (10:11 PM EST),,39 - 30,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,261,1,6,3,10:11 PM,9:40,Zahui B 1' Driving Layup (6 PTS) (Wheeler 2 AST),,,39 - 32,-7,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,263,2,6,3,10:12 PM,9:18,,,MISS Samuelson 3' Driving Layup,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,264,4,0,3,10:12 PM,9:15,,,Russell REBOUND (Off:1 Def:5),,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,265,1,72,3,10:12 PM,9:14,,,Russell 1' Putback Layup (2 PTS),41 - 32,-9,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,266,1,1,3,10:12 PM,8:55,Coffey 3PT Jump Shot (8 PTS) (Sykes 3 AST),,,41 - 35,-6,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,268,2,1,3,10:12 PM,8:39,,,MISS Prince 24' 3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,269,4,0,3,10:12 PM,8:36,Sykes REBOUND (Off:1 Def:5),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,270,2,41,3,10:12 PM,8:33,MISS Wheeler 2' Running Layup,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,271,4,0,3,10:13 PM,8:29,Samuelson REBOUND (Off:1 Def:2),,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,272,1,73,3,10:13 PM,8:24,Wheeler 2' Driving Reverse Layup (9 PTS),,,41 - 37,-4,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,273,1,1,3,10:13 PM,8:03,,,Stewart 20' Jump Shot (12 PTS),43 - 37,-6,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,274,1,1,3,10:13 PM,7:39,Samuelson 24' 3PT Jump Shot (3 PTS) (Wheeler 3 AST),,,43 - 40,-3,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,276,1,58,3,10:14 PM,7:22,,,Stewart 5' Turnaround Hook Shot (14 PTS) (Bird 1 AST),45 - 40,-5,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,278,1,105,3,10:14 PM,7:01,Zahui B 4' Turnaround Fadeaway Bank Jump Shot (8 PTS) (Wheeler 4 AST),,,45 - 42,-3,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,280,2,79,3,10:14 PM,6:36,,,MISS Prince 17' Pullup Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,281,4,0,3,10:14 PM,6:36,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,283,5,1,3,10:15 PM,6:28,Sykes STEAL (1 STL),,Prince Bad Pass Turnover (P2.T7),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,285,1,76,3,10:15 PM,6:26,Sykes 2' Running Finger Roll Layup (11 PTS),,,45 - 44,-1,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,286,9,1,3,10:15 PM,6:20,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,287,1,1,3,10:18 PM,6:10,,,Bird 26' 3PT Jump Shot (11 PTS) (Stewart 2 AST),48 - 44,-4,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,289,1,6,3,10:18 PM,5:49,Wheeler 3' Driving Layup (11 PTS) (Zahui B 3 AST),,,48 - 46,-2,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,291,5,1,3,10:19 PM,5:36,Zahui B STEAL (1 STL),,Samuelson Bad Pass Turnover (P1.T8),,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,293,2,41,3,10:19 PM,5:31,MISS Coffey 2' Running Layup,,Stewart BLOCK (2 BLK),,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1022100105,295,4,0,3,10:19 PM,5:31,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,297,8,0,3,10:19 PM,5:31,,,SUB: Talbot FOR Samuelson,,,5,1629478,Katie Lou Samuelson,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,299,5,45,3,10:19 PM,5:19,Wheeler Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1022100105,300,6,1,3,10:20 PM,5:09,Samuelson P.FOUL (P2.T1),,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,302,2,1,3,10:20 PM,4:56,,,MISS Bird 24' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,303,4,0,3,10:20 PM,4:53,Zahui B REBOUND (Off:1 Def:3),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,304,6,1,3,10:20 PM,4:47,,,Prince P.FOUL (P3.T1),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,306,8,0,3,10:20 PM,4:47,SUB: Cox FOR Zahui B,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,307,8,0,3,10:20 PM,4:47,,,SUB: Canada FOR Russell,,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,308,8,0,3,10:20 PM,4:47,,,SUB: Magbegor FOR Prince,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,312,2,80,3,10:21 PM,4:36,MISS Wheeler 11' Step Back Jump Shot,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,313,4,0,3,10:21 PM,4:32,,,Magbegor REBOUND (Off:0 Def:5),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,314,2,2,3,10:21 PM,4:26,,,MISS Stewart 24' 3PT Running Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,315,4,0,3,10:21 PM,4:21,,,Magbegor REBOUND (Off:1 Def:5),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,316,5,2,3,10:21 PM,4:20,Sykes STEAL (2 STL),,Magbegor Lost Ball Turnover (P2.T9),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,318,1,5,3,10:22 PM,3:59,Cox 2' Layup (2 PTS) (Sykes 4 AST),,,48 - 48,TIE,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,320,2,6,3,10:22 PM,3:43,Coffey BLOCK (1 BLK),,MISS Magbegor 2' Driving Layup,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,1
+1022100105,322,4,0,3,10:22 PM,3:43,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,324,6,2,3,10:22 PM,3:28,,,Talbot S.FOUL (P4.T2),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,326,3,11,3,10:23 PM,3:28,Sykes Free Throw 1 of 2 (12 PTS),,,48 - 49,1,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,327,3,12,3,10:23 PM,3:28,Sykes Free Throw 2 of 2 (13 PTS),,,48 - 50,2,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,329,8,0,3,10:24 PM,3:08,,,SUB: Burke FOR Talbot,,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,331,6,26,3,10:24 PM,3:05,,,Magbegor Offensive Charge Foul (P2),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,333,5,37,3,10:24 PM,3:05,,,Magbegor Offensive Foul Turnover (P3.T10),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022100105,334,1,1,3,10:24 PM,2:53,Coffey 24' 3PT Jump Shot (11 PTS) (Sykes 5 AST),,,48 - 53,5,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,336,2,1,3,10:25 PM,2:33,,,MISS Burke 14' Jump Shot,,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,337,4,0,3,10:25 PM,2:30,Sykes REBOUND (Off:1 Def:6),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,338,1,1,3,10:25 PM,2:13,Samuelson 25' 3PT Jump Shot (6 PTS) (Cox 1 AST),,,48 - 56,8,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,340,6,2,3,10:25 PM,2:02,Wheeler S.FOUL (P1.T2),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,342,3,11,3,10:26 PM,2:02,,,Canada Free Throw 1 of 2 (3 PTS),49 - 56,7,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,343,8,0,3,10:26 PM,2:02,SUB: Cooper FOR Coffey,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,344,8,0,3,10:26 PM,2:02,SUB: Holmes FOR Wheeler,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,347,3,12,3,10:26 PM,2:02,,,Canada Free Throw 2 of 2 (4 PTS),50 - 56,6,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,348,5,45,3,10:26 PM,1:51,Cox Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1022100105,349,8,0,3,10:27 PM,1:51,,,SUB: Prince FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,351,1,79,3,10:27 PM,1:24,,,Canada 14' Pullup Jump Shot (6 PTS),52 - 56,4,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,352,6,2,3,10:27 PM,1:11,,,Magbegor S.FOUL (P3.T3),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,354,3,11,3,10:28 PM,1:11,Sykes Free Throw 1 of 2 (14 PTS),,,52 - 57,5,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,355,3,12,3,10:28 PM,1:11,Sykes Free Throw 2 of 2 (15 PTS),,,52 - 58,6,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,357,1,6,3,10:29 PM,0:56,,,Magbegor 3' Driving Layup (10 PTS),54 - 58,4,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,358,2,79,3,10:29 PM,0:41,MISS Sykes 11' Pullup Jump Shot,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,359,4,0,3,10:29 PM,0:39,,,Stewart REBOUND (Off:0 Def:3),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,360,2,103,3,10:29 PM,0:34,,,MISS Burke 3PT Running Pull-Up Jump Shot,,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,361,4,0,3,10:29 PM,0:31,Sykes REBOUND (Off:1 Def:7),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,362,2,75,3,10:29 PM,0:11,MISS Sykes 3' Driving Finger Roll Layup,,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,363,4,0,3,10:30 PM,0:09,,,Burke REBOUND (Off:1 Def:1),,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,364,1,100,3,10:30 PM,0:05,,,Magbegor 2' Running Alley Oop Layup Shot (12 PTS) (Burke 3 AST),56 - 58,2,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,366,2,6,3,10:30 PM,0:00,MISS Cooper 2' Driving Layup,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,367,4,0,3,10:30 PM,0:00,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,368,13,0,3,10:32 PM,0:00,,End of 3rd Period (10:32 PM EST),,56 - 58,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100105,371,12,0,4,10:33 PM,10:00,,Start of 4th Period (10:33 PM EST),,56 - 58,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,372,1,44,4,10:33 PM,9:46,,,Burke 1' Reverse Layup (2 PTS) (Stewart 3 AST),58 - 58,TIE,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,374,2,47,4,10:33 PM,9:20,MISS Samuelson 25' 3PT Turnaround Jump Shot,,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,375,4,0,4,10:33 PM,9:17,,,Magbegor REBOUND (Off:1 Def:6),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,376,6,1,4,10:34 PM,9:04,Holmes P.FOUL (P1.T1),,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,378,1,1,4,10:34 PM,8:57,,,Prince 25' 3PT Jump Shot (12 PTS) (Stewart 4 AST),61 - 58,-3,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,380,2,1,4,10:34 PM,8:41,MISS Samuelson 3PT Jump Shot,,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,381,4,0,4,10:34 PM,8:40,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,382,6,3,4,10:34 PM,8:40,Cox L.B.FOUL (P1.T2),,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,384,8,0,4,10:35 PM,8:40,SUB: Zahui B FOR Cox,,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,386,2,6,4,10:35 PM,8:28,,,MISS Burke 3' Driving Layup,,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,387,4,0,4,10:35 PM,8:26,Wheeler REBOUND (Off:1 Def:2),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,388,6,2,4,10:35 PM,8:20,,,Burke S.FOUL (P2.T1),,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,390,3,11,4,10:36 PM,8:20,Wheeler Free Throw 1 of 2 (12 PTS),,,61 - 59,-2,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,391,3,12,4,10:36 PM,8:20,Wheeler Free Throw 2 of 2 (13 PTS),,,61 - 60,-1,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,392,2,47,4,10:36 PM,8:01,,,MISS Stewart 12' Turnaround Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,393,4,0,4,10:36 PM,7:59,,,Magbegor REBOUND (Off:2 Def:6),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,394,6,2,4,10:36 PM,7:59,Zahui B S.FOUL (P4.T3),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,396,3,11,4,10:37 PM,7:59,,,Magbegor Free Throw 1 of 2 (13 PTS),62 - 60,-2,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,397,8,0,4,10:37 PM,7:59,,,SUB: Talbot FOR Burke,,,5,1629568,Kennedy Burke,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,399,3,12,4,10:37 PM,7:59,,,Magbegor Free Throw 2 of 2 (14 PTS),63 - 60,-3,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,400,5,2,4,10:37 PM,7:40,Zahui B Lost Ball Turnover (P1.T10),,Canada STEAL (2 STL),,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,402,6,1,4,10:37 PM,7:36,Wheeler P.FOUL (P2.T4),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,404,8,0,4,10:37 PM,7:36,SUB: Coffey FOR Samuelson,,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,406,8,0,4,10:38 PM,7:36,SUB: Sykes FOR Holmes,,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,408,2,1,4,10:38 PM,7:29,Zahui B BLOCK (3 BLK),,MISS Magbegor 5' Jump Shot,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,1
+1022100105,410,4,0,4,10:38 PM,7:27,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,412,5,2,4,10:38 PM,7:14,Zahui B Lost Ball Turnover (P2.T11),,Prince STEAL (3 STL),,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,414,1,98,4,10:38 PM,7:09,,,Stewart 3' Cutting Layup Shot (16 PTS) (Canada 5 AST),65 - 60,-5,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,416,6,2,4,10:39 PM,7:09,Coffey S.FOUL (P3.PN),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,418,8,0,4,10:39 PM,7:09,,,SUB: Bird FOR Canada,,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022100105,420,3,10,4,10:39 PM,7:09,,,MISS Stewart Free Throw 1 of 1,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,421,4,0,4,10:39 PM,7:06,Sykes REBOUND (Off:1 Def:8),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,422,1,79,4,10:39 PM,6:44,Wheeler 17' Pullup Jump Shot (15 PTS) (Coffey 1 AST),,,65 - 62,-3,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,424,2,79,4,10:40 PM,6:27,,,MISS Prince 10' Pullup Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,425,4,0,4,10:40 PM,6:26,,,Magbegor REBOUND (Off:3 Def:6),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,426,6,2,4,10:40 PM,6:26,Zahui B S.FOUL (P5.PN),,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,428,3,11,4,10:40 PM,6:26,,,Magbegor Free Throw 1 of 2 (15 PTS),66 - 62,-4,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,429,8,0,4,10:40 PM,6:26,SUB: Cox FOR Zahui B,,,,,4,204320,Amanda Zahui B,1611661320.0,Los Angeles,Sparks,LAS,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,431,3,12,4,10:41 PM,6:26,,,Magbegor Free Throw 2 of 2 (16 PTS),67 - 62,-5,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,432,6,2,4,10:41 PM,6:17,,,Magbegor S.FOUL (P4.T2),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,434,3,11,4,10:41 PM,6:17,Cox Free Throw 1 of 2 (3 PTS),,,67 - 63,-4,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,435,3,12,4,10:41 PM,6:17,Cox Free Throw 2 of 2 (4 PTS),,,67 - 64,-3,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,436,1,98,4,10:42 PM,6:02,,,Stewart 2' Cutting Layup Shot (18 PTS) (Talbot 3 AST),69 - 64,-5,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,438,2,1,4,10:42 PM,5:45,MISS Cooper 26' 3PT Jump Shot,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,439,4,0,4,10:42 PM,5:43,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,440,6,3,4,10:42 PM,5:43,Sykes L.B.FOUL (P1.PN),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,442,9,4,4,10:42 PM,5:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,443,8,0,4,10:44 PM,5:43,SUB: Samuelson FOR Cooper,,,,,4,1630099,Te'a Cooper,1611661320.0,Los Angeles,Sparks,LAS,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,445,3,11,4,10:45 PM,5:43,,,Magbegor Free Throw 1 of 2 (17 PTS),70 - 64,-6,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,446,3,12,4,10:45 PM,5:43,,,Magbegor Free Throw 2 of 2 (18 PTS),71 - 64,-7,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,447,2,73,4,10:46 PM,5:23,MISS Wheeler 2' Driving Reverse Layup,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,448,4,0,4,10:46 PM,5:20,,,Talbot REBOUND (Off:0 Def:3),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,449,1,6,4,10:46 PM,5:05,,,Magbegor 2' Driving Layup (20 PTS),73 - 64,-9,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,450,2,1,4,10:46 PM,4:51,MISS Samuelson 3PT Jump Shot,,,,,4,1628317,Karlie Samuelson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,451,4,0,4,10:46 PM,4:47,,,Talbot REBOUND (Off:0 Def:4),,,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,452,6,1,4,10:47 PM,4:33,Coffey P.FOUL (P4.PN),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,454,3,11,4,10:47 PM,4:33,,,Prince Free Throw 1 of 2 (13 PTS),74 - 64,-10,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,455,8,0,4,10:47 PM,4:33,SUB: Holmes FOR Cox,,,,,4,1630100,Lauren Cox,1611661320.0,Los Angeles,Sparks,LAS,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1022100105,457,3,12,4,10:47 PM,4:33,,,Prince Free Throw 2 of 2 (14 PTS),75 - 64,-11,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,458,2,1,4,10:47 PM,4:19,MISS Wheeler 24' 3PT Jump Shot,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,459,4,0,4,10:48 PM,4:15,,,Stewart REBOUND (Off:0 Def:4),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,461,1,1,4,10:48 PM,3:55,,,Stewart 24' 3PT Jump Shot (21 PTS) (Talbot 4 AST),78 - 64,-14,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,203855,Stephanie Talbot,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,463,9,1,4,10:48 PM,3:55,SPARKS Timeout: Regular (Full 2 Short 1),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,464,2,79,4,10:51 PM,3:41,MISS Wheeler 17' Pullup Jump Shot,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,465,4,0,4,10:51 PM,3:39,,,Prince REBOUND (Off:0 Def:2),,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,466,6,4,4,10:52 PM,3:30,,,Stewart OFF.Foul (P1),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,468,5,37,4,10:52 PM,3:30,,,Stewart Offensive Foul Turnover (P2.T11),,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022100105,469,6,2,4,10:52 PM,3:21,,,Magbegor S.FOUL (P5.T3),,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1022100105,471,3,11,4,10:52 PM,3:21,Holmes Free Throw 1 of 2 (3 PTS),,,78 - 65,-13,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,472,3,12,4,10:53 PM,3:21,Holmes Free Throw 2 of 2 (4 PTS),,,78 - 66,-12,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,473,2,1,4,10:53 PM,3:01,,,MISS Magbegor 6' Jump Shot,,,5,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,474,4,0,4,10:53 PM,2:57,Holmes REBOUND (Off:1 Def:1),,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,475,1,6,4,10:53 PM,2:51,Wheeler 1' Driving Layup (17 PTS),,,78 - 68,-10,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,477,2,47,4,10:54 PM,2:27,,,MISS Stewart 3PT Turnaround Jump Shot,,,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,478,4,0,4,10:54 PM,2:26,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,479,5,11,4,10:54 PM,2:26,,,Storm Turnover: Shot Clock (T#12),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100105,480,5,1,4,10:54 PM,2:13,Coffey Bad Pass Turnover (P1.T12),,Stewart STEAL (1 STL),,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,5,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,482,6,1,4,10:55 PM,1:59,Coffey P.FOUL (P5.PN),,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,484,3,11,4,10:55 PM,1:59,,,Bird Free Throw 1 of 2 (12 PTS),79 - 68,-11,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,485,3,12,4,10:55 PM,1:59,,,Bird Free Throw 2 of 2 (13 PTS),80 - 68,-12,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,486,1,98,4,10:56 PM,1:49,Sykes 2' Cutting Layup Shot (17 PTS) (Coffey 2 AST),,,80 - 70,-10,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,488,2,1,4,10:56 PM,1:34,,,MISS Bird 25' 3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,489,4,0,4,10:56 PM,1:30,Sykes REBOUND (Off:1 Def:9),,,,,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,490,2,6,4,10:56 PM,1:22,MISS Wheeler 2' Driving Layup,,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,491,4,0,4,10:56 PM,1:20,Holmes REBOUND (Off:2 Def:1),,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,492,2,1,4,10:56 PM,1:18,MISS Coffey 24' 3PT Jump Shot,,,,,4,1628269,Nia Coffey,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,493,4,0,4,10:56 PM,1:14,Holmes REBOUND (Off:3 Def:1),,,,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,494,5,1,4,10:56 PM,1:11,Holmes Bad Pass Turnover (P2.T13),,Bird STEAL (1 STL),,,4,1627678,Bria Holmes,1611661320.0,Los Angeles,Sparks,LAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022100105,496,2,79,4,10:56 PM,0:54,,,MISS Bird 19' Pullup Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,497,4,0,4,10:56 PM,0:51,,,Bird REBOUND (Off:2 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,498,2,79,4,10:57 PM,0:38,,,MISS Prince 28' 3PT Pullup Jump Shot,,,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,499,4,0,4,10:57 PM,0:35,Wheeler REBOUND (Off:1 Def:3),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,500,1,79,4,10:57 PM,0:26,Wheeler 12' Pullup Jump Shot (19 PTS),,,80 - 72,-8,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1022100105,501,6,28,4,10:57 PM,0:18,Wheeler Personal Take Foul (P3.PN),,,,,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022100105,503,3,11,4,10:57 PM,0:18,,,Prince Free Throw 1 of 2 (15 PTS),81 - 72,-9,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,504,3,12,4,10:58 PM,0:18,,,Prince Free Throw 2 of 2 (16 PTS),82 - 72,-10,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,505,9,1,4,10:58 PM,0:18,SPARKS Timeout: Regular (Full 3 Short 1),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,506,1,80,4,11:00 PM,0:08,Sykes 14' Step Back Jump Shot (19 PTS) (Wheeler 5 AST),,,82 - 74,-8,4,1628279,Brittney Sykes,1611661320.0,Los Angeles,Sparks,LAS,4,204365,Erica Wheeler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1022100105,508,9,2,4,11:00 PM,0:07,,,Storm Timeout: Short (Reg.2 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100105,509,1,1,4,11:01 PM,0:01,,,Prince 20' Jump Shot (18 PTS),84 - 74,-10,5,202259,Epiphanny Prince,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022100105,510,13,0,4,11:01 PM,0:00,,End of 4th Period (11:01 PM EST),,84 - 74,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

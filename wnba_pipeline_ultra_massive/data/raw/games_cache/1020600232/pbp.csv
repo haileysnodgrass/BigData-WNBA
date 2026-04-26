@@ -1,0 +1,371 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020600232,0,12,0,1,6:20 PM,10:00,,Start of 1st Period (6:20 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,1,10,0,1,6:21 PM,10:00,Jump Ball Sutton-Brown vs. Dupree: Tip to Smith,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0
+1020600232,2,1,5,1,6:22 PM,9:53,Smith  Layup (2 PTS),,,0 - 2,2,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,3,2,5,1,6:22 PM,9:31,,,MISS Lovelace  Layup,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,4,4,0,1,6:22 PM,9:29,,,Lovelace REBOUND (Off:1 Def:0),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,5,6,2,1,6:22 PM,9:29,Currie S.FOUL (P1.T1),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,6,3,11,1,6:22 PM,9:29,,,MISS Lovelace Free Throw 1 of 2,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,7,4,1,1,6:22 PM,9:29,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,8,3,12,1,6:22 PM,9:29,,,Lovelace Free Throw 2 of 2 (1 PTS),1 - 2,1,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,9,2,1,1,6:23 PM,9:06,MISS Darling 17' Jump Shot,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,10,4,0,1,6:23 PM,9:04,,,Dupree REBOUND (Off:0 Def:1),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,11,1,56,1,6:23 PM,8:50,,,Dupree 5' Running Hook Shot (2 PTS),3 - 2,-1,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,12,1,5,1,6:23 PM,8:38,Sutton-Brown  Layup (2 PTS) (Smith 1 AST),,,3 - 4,1,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,13,2,1,1,6:24 PM,8:21,,,MISS Lassiter 17' Jump Shot,,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,14,4,0,1,6:24 PM,8:20,Sutton-Brown REBOUND (Off:0 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,15,6,1,1,6:24 PM,8:09,,,Lassiter P.FOUL (P1.T1),,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,16,2,1,1,6:24 PM,8:04,MISS Sam 17' Jump Shot,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,17,4,0,1,6:24 PM,8:03,,,Lovelace REBOUND (Off:1 Def:1),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,18,6,2,1,6:25 PM,7:47,Currie S.FOUL (P2.T2),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,19,3,11,1,6:25 PM,7:47,,,Dales Free Throw 1 of 2 (1 PTS),4 - 4,TIE,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,20,3,12,1,6:25 PM,7:47,,,Dales Free Throw 2 of 2 (2 PTS),5 - 4,-1,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,21,2,1,1,6:25 PM,7:30,MISS Smith  3PT Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,22,4,0,1,6:26 PM,7:26,Sutton-Brown REBOUND (Off:1 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,23,2,46,1,6:26 PM,7:26,MISS Smith 12' Running Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,24,4,0,1,6:26 PM,7:26,Sutton-Brown REBOUND (Off:2 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,25,6,1,1,6:26 PM,7:26,,,Newton P.FOUL (P1.T2),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,26,1,1,1,6:26 PM,7:16,Sam  3PT Jump Shot (3 PTS) (Darling 1 AST),,,5 - 7,2,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,28,2,1,1,6:26 PM,6:53,,,MISS Newton  3PT Jump Shot,,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,29,4,0,1,6:26 PM,6:50,Currie REBOUND (Off:0 Def:1),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,30,2,1,1,6:27 PM,6:43,MISS Smith 10' Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,31,4,0,1,6:27 PM,6:40,Sutton-Brown REBOUND (Off:3 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,32,2,1,1,6:27 PM,6:37,MISS Sutton-Brown 4' Jump Shot,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,33,4,0,1,6:27 PM,6:36,,,Lovelace REBOUND (Off:1 Def:2),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,34,10,0,1,6:27 PM,6:36,Jump Ball Smith vs. Lovelace: Tip to Lassiter,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0
+1020600232,35,2,1,1,6:27 PM,6:24,,,MISS Dupree 8' Jump Shot,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,36,4,0,1,6:27 PM,6:22,Sam REBOUND (Off:0 Def:1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,37,2,66,1,6:28 PM,6:03,MISS Sutton-Brown 8' Jump Bank Shot,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,38,4,0,1,6:28 PM,6:00,,,Newton REBOUND (Off:0 Def:1),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,39,1,46,1,6:28 PM,5:53,,,Newton 6' Running Jump Shot (2 PTS),7 - 7,TIE,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,40,1,1,1,6:28 PM,5:37,Smith  3PT Jump Shot (5 PTS) (Currie 1 AST),,,7 - 10,3,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,41,2,1,1,6:28 PM,5:19,,,MISS Lovelace 9' Jump Shot,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,42,4,0,1,6:29 PM,5:16,,,Dales REBOUND (Off:1 Def:0),,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,43,2,1,1,6:29 PM,5:11,,,MISS Lovelace 17' Jump Shot,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,44,4,0,1,6:29 PM,5:08,Currie REBOUND (Off:0 Def:2),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,45,6,4,1,6:29 PM,5:04,Sam OFF.Foul (P1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,46,5,5,1,6:29 PM,5:04,Sam Foul Turnover (P1.T1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600232,47,8,0,1,6:29 PM,5:04,,,SUB: Ngoyisa FOR Lovelace,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,48,2,1,1,6:29 PM,4:47,,,MISS Ngoyisa 17' Jump Shot,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,49,4,0,1,6:29 PM,4:47,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,50,6,3,1,6:30 PM,4:47,,,Dupree L.B.FOUL (P1.T3),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,52,9,4,1,6:30 PM,4:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,55,2,1,1,6:33 PM,4:35,MISS Smith 19' Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,56,4,0,1,6:33 PM,4:33,,,Dupree REBOUND (Off:0 Def:2),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,57,1,66,1,6:33 PM,4:25,,,Ngoyisa 7' Jump Bank Shot (2 PTS) (Dales 1 AST),9 - 10,1,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,58,1,1,1,6:33 PM,4:08,Sam 11' Jump Shot (5 PTS) (Currie 2 AST),,,9 - 12,3,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,59,1,5,1,6:33 PM,3:50,,,Ngoyisa  Layup (4 PTS),11 - 12,1,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,60,2,1,1,6:34 PM,3:36,MISS Darling  3PT Jump Shot,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,61,4,0,1,6:34 PM,3:34,,,Ngoyisa REBOUND (Off:0 Def:1),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,62,1,1,1,6:34 PM,3:19,,,Dales  3PT Jump Shot (5 PTS) (Lassiter 1 AST),14 - 12,-2,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,63,1,1,1,6:34 PM,3:00,Sam  3PT Jump Shot (8 PTS) (Darling 2 AST),,,14 - 15,1,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,64,5,40,1,6:35 PM,2:40,,,Lassiter Out of Bounds Lost Ball Turnover (P1.T1),,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,65,8,0,1,6:35 PM,2:40,SUB: Mazzante FOR Currie,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,66,8,0,1,6:35 PM,2:40,SUB: McCarville FOR Smith,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,67,1,1,1,6:35 PM,2:17,Mazzante 13' Jump Shot (2 PTS),,,14 - 17,3,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,68,2,5,1,6:35 PM,1:58,,,MISS Ngoyisa  Layup,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,69,4,0,1,6:35 PM,1:56,McCarville REBOUND (Off:0 Def:1),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,70,2,1,1,6:36 PM,1:42,MISS McCarville 13' Jump Shot,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,71,4,0,1,6:36 PM,1:40,Sam REBOUND (Off:1 Def:1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,72,2,1,1,6:36 PM,1:34,MISS Darling  3PT Jump Shot,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,73,4,0,1,6:36 PM,1:32,,,Dupree REBOUND (Off:0 Def:3),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,74,5,2,1,6:36 PM,1:27,Mazzante STEAL (1 STL),,Dupree Lost Ball Turnover (P1.T2),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,75,8,0,1,6:36 PM,1:27,SUB: Fluker FOR Sutton-Brown,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,76,8,0,1,6:36 PM,1:27,,,SUB: Cronin FOR Dales,,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,77,8,0,1,6:37 PM,1:27,SUB: Bond FOR Darling,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,78,2,1,1,6:37 PM,1:19,MISS Sam 11' Jump Shot,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,79,4,0,1,6:37 PM,1:18,,,Dupree REBOUND (Off:0 Def:4),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,80,5,1,1,6:37 PM,1:18,,,Newton Bad Pass Turnover (P1.T3),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,81,8,0,1,6:37 PM,1:18,SUB: Feaster FOR McCarville,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,82,2,1,1,6:37 PM,0:58,MISS Mazzante  3PT Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,83,4,0,1,6:37 PM,0:56,,,Dupree REBOUND (Off:0 Def:5),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,84,1,42,1,6:38 PM,0:44,,,Dupree  Driving Layup (4 PTS),16 - 17,1,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,85,2,1,1,6:38 PM,0:26,MISS Feaster 24' 3PT Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,86,4,0,1,6:38 PM,0:23,,,Cronin REBOUND (Off:0 Def:1),,,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,87,6,1,1,6:38 PM,0:05,Mazzante P.FOUL (P1.T3),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,88,8,0,1,6:39 PM,0:05,,,SUB: Moeggenberg FOR Dupree,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,89,2,5,1,6:39 PM,0:01,,,MISS Moeggenberg  Layup,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,90,4,0,1,6:39 PM,0:00,Fluker REBOUND (Off:0 Def:1),,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,91,13,0,1,6:39 PM,0:00,,End of 1st Period (6:39 PM EST),,16 - 17,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,93,12,0,2,6:42 PM,10:00,,Start of 2nd Period (6:42 PM EST),,16 - 17,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,94,1,1,2,6:42 PM,9:45,,,Ngoyisa 12' Jump Shot (6 PTS),18 - 17,-1,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,95,1,42,2,6:42 PM,9:28,Bond  Driving Layup (2 PTS),,,18 - 19,1,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,96,1,66,2,6:42 PM,9:14,,,Ngoyisa 8' Jump Bank Shot (8 PTS) (Brown 1 AST),20 - 19,-1,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,97,5,2,2,6:43 PM,8:55,Feaster Lost Ball Turnover (P1.T2),,Lassiter STEAL (1 STL),,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,98,1,1,2,6:43 PM,8:49,,,Cronin  3PT Jump Shot (3 PTS) (Brown 2 AST),23 - 19,-4,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,99,1,1,2,6:43 PM,8:35,Mazzante  3PT Jump Shot (5 PTS) (Bond 1 AST),,,23 - 22,-1,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,100,1,1,2,6:43 PM,8:16,,,Ngoyisa 17' Jump Shot (10 PTS),25 - 22,-3,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,101,2,1,2,6:43 PM,8:04,MISS Fluker 10' Jump Shot,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,102,4,0,2,6:43 PM,8:02,,,Brown REBOUND (Off:0 Def:1),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,103,6,2,2,6:44 PM,7:51,Feaster S.FOUL (P1.T1),,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,104,8,0,2,6:44 PM,7:51,SUB: Sutton-Brown FOR Fluker,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,105,3,11,2,6:44 PM,7:51,,,Moeggenberg Free Throw 1 of 2 (1 PTS),26 - 22,-4,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,106,3,12,2,6:44 PM,7:51,,,MISS Moeggenberg Free Throw 2 of 2,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,107,4,0,2,6:44 PM,7:50,McCarville REBOUND (Off:0 Def:2),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,108,2,1,2,6:44 PM,7:44,MISS Feaster  3PT Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,109,4,0,2,6:44 PM,7:43,Sutton-Brown REBOUND (Off:4 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,110,6,2,2,6:45 PM,7:43,,,Ngoyisa S.FOUL (P1.T1),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,111,3,11,2,6:45 PM,7:43,Sutton-Brown Free Throw 1 of 2 (3 PTS),,,26 - 23,-3,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,112,3,12,2,6:45 PM,7:43,MISS Sutton-Brown Free Throw 2 of 2,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,113,4,0,2,6:45 PM,7:40,,,Brown REBOUND (Off:0 Def:2),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,114,5,1,2,6:45 PM,7:28,Bond STEAL (1 STL),,Brown Bad Pass Turnover (P1.T4),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,115,1,1,2,6:46 PM,7:10,Feaster  3PT Jump Shot (3 PTS) (McCarville 1 AST),,,26 - 26,TIE,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,116,2,1,2,6:46 PM,6:39,,,MISS Brown  3PT Jump Shot,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,117,4,0,2,6:46 PM,6:39,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,118,5,11,2,6:46 PM,6:39,,,Sky Turnover: Shot Clock (T#5),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600232,119,1,1,2,6:47 PM,6:16,Mazzante  3PT Jump Shot (8 PTS) (Feaster 1 AST),,,26 - 29,3,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,120,9,1,2,6:47 PM,6:11,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,122,8,0,2,6:49 PM,6:11,,,SUB: Dales FOR Lassiter,,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,123,8,0,2,6:49 PM,6:11,,,SUB: Dupree FOR Ngoyisa,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,124,8,0,2,6:49 PM,6:11,,,SUB: Lovelace FOR Moeggenberg,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,125,5,1,2,6:50 PM,5:55,,,Brown Bad Pass Turnover (P2.T6),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,126,5,1,2,6:50 PM,5:43,Bond Bad Pass Turnover (P1.T3),,Dupree STEAL (1 STL),,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,127,1,5,2,6:51 PM,5:38,,,Dupree  Layup (6 PTS),28 - 29,1,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,128,1,47,2,6:51 PM,5:26,Sutton-Brown 5' Turnaround Jump Shot (5 PTS),,,28 - 31,3,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,129,2,1,2,6:51 PM,5:04,,,MISS Brown  3PT Jump Shot,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,130,4,0,2,6:51 PM,5:02,McCarville REBOUND (Off:0 Def:3),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,131,6,1,2,6:51 PM,4:57,,,Dales P.FOUL (P1.T2),,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,132,8,0,2,6:51 PM,4:57,,,SUB: Newton FOR Brown,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,133,5,1,2,6:52 PM,4:49,Bond Bad Pass Turnover (P2.T4),,Lovelace STEAL (1 STL),,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,134,2,1,2,6:52 PM,4:37,,,MISS Lovelace  3PT Jump Shot,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,135,4,0,2,6:52 PM,4:35,Mazzante REBOUND (Off:0 Def:1),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,136,2,5,2,6:52 PM,4:30,MISS Mazzante  Layup,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,137,4,0,2,6:52 PM,4:28,Bond REBOUND (Off:1 Def:0),,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,138,2,5,2,6:52 PM,4:13,MISS Sutton-Brown  Layup,,Lovelace BLOCK (1 BLK),,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0
+1020600232,140,4,0,2,6:52 PM,4:11,Sutton-Brown REBOUND (Off:5 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,139,1,5,2,6:52 PM,4:11,Sutton-Brown  Layup (7 PTS),,,28 - 33,5,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,141,8,0,2,6:53 PM,3:59,SUB: Currie FOR Feaster,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,142,8,0,2,6:53 PM,3:59,SUB: Smith FOR McCarville,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,143,8,0,2,6:53 PM,3:59,SUB: Sam FOR Mazzante,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,144,8,0,2,6:53 PM,3:59,SUB: Darling FOR Bond,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,145,2,1,2,6:53 PM,3:50,,,MISS Dupree 13' Jump Shot,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,146,4,0,2,6:53 PM,3:47,Sam REBOUND (Off:1 Def:2),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,147,6,2,2,6:53 PM,3:37,,,Dupree S.FOUL (P2.T3),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,148,3,11,2,6:54 PM,3:37,Sutton-Brown Free Throw 1 of 2 (8 PTS),,,28 - 34,6,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,149,3,12,2,6:54 PM,3:37,Sutton-Brown Free Throw 2 of 2 (9 PTS),,,28 - 35,7,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,150,6,4,2,6:54 PM,3:27,,,Dupree OFF.Foul (P3),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,151,5,5,2,6:54 PM,3:27,,,Dupree Foul Turnover (P2.T7),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1020600232,152,1,1,2,6:55 PM,3:13,Smith 16' Jump Shot (7 PTS) (Darling 3 AST),,,28 - 37,9,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,153,9,1,2,6:55 PM,3:05,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,155,2,1,2,6:58 PM,2:45,,,MISS Dales 17' Jump Shot,,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,156,4,0,2,6:58 PM,2:43,Smith REBOUND (Off:0 Def:1),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,157,2,1,2,6:58 PM,2:23,MISS Currie  3PT Jump Shot,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,158,4,0,2,6:58 PM,2:21,,,Dupree REBOUND (Off:0 Def:6),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,159,5,2,2,6:58 PM,2:05,Sam STEAL (1 STL),,Lovelace Lost Ball Turnover (P1.T8),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,160,1,42,2,6:59 PM,1:53,Sam  Driving Layup (10 PTS),,,28 - 39,11,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,161,6,2,2,6:59 PM,1:53,,,Lovelace S.FOUL (P1.T4),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,162,3,10,2,6:59 PM,1:53,MISS Sam Free Throw 1 of 1,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,163,4,0,2,6:59 PM,1:51,,,Dupree REBOUND (Off:0 Def:7),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,164,5,2,2,6:59 PM,1:41,Darling STEAL (1 STL),,Newton Lost Ball Turnover (P2.T9),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,165,1,5,2,6:59 PM,1:36,Darling  Layup (2 PTS),,,28 - 41,13,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,166,5,1,2,7:00 PM,1:11,Darling STEAL (2 STL),,Cronin Bad Pass Turnover (P1.T10),,,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,167,6,2,2,7:00 PM,1:07,,,Newton S.FOUL (P2.PN),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,168,3,11,2,7:00 PM,1:07,Currie Free Throw 1 of 2 (1 PTS),,,28 - 42,14,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,169,8,0,2,7:00 PM,1:07,,,SUB: Moeggenberg FOR Dupree,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,170,3,12,2,7:00 PM,1:07,Currie Free Throw 2 of 2 (2 PTS),,,28 - 43,15,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,171,2,1,2,7:01 PM,0:52,,,MISS Dales  3PT Jump Shot,,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,173,4,0,2,7:01 PM,0:50,,,Lovelace REBOUND (Off:2 Def:2),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,172,1,5,2,7:01 PM,0:50,,,Lovelace  Layup (3 PTS),30 - 43,13,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,174,6,1,2,7:01 PM,0:49,,,Newton P.FOUL (P3.PN),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,175,3,11,2,7:01 PM,0:49,Darling Free Throw 1 of 2 (3 PTS),,,30 - 44,14,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,176,8,0,2,7:01 PM,0:49,,,SUB: Brown FOR Newton,,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,177,3,12,2,7:02 PM,0:49,Darling Free Throw 2 of 2 (4 PTS),,,30 - 45,15,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,178,5,2,2,7:02 PM,0:32,Sutton-Brown STEAL (1 STL),,Cronin Lost Ball Turnover (P2.T11),,,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,179,6,2,2,7:02 PM,0:27,,,Cronin S.FOUL (P1.PN),,,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,180,3,11,2,7:03 PM,0:27,Currie Free Throw 1 of 2 (3 PTS),,,30 - 46,16,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,181,3,12,2,7:03 PM,0:27,Currie Free Throw 2 of 2 (4 PTS),,,30 - 47,17,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,182,6,1,2,7:03 PM,0:11,Sutton-Brown P.FOUL (P1.T2),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,183,8,0,2,7:04 PM,0:11,,,SUB: Lassiter FOR Cronin,,,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,184,6,2,2,7:04 PM,0:04,Smith S.FOUL (P1.PN),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,185,3,11,2,7:05 PM,0:04,,,MISS Brown Free Throw 1 of 2,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,186,4,1,2,7:05 PM,0:04,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,187,3,12,2,7:05 PM,0:04,,,Brown Free Throw 2 of 2 (1 PTS),31 - 47,16,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,188,5,1,2,7:05 PM,0:00,Currie Bad Pass Turnover (P1.T5),,Lovelace STEAL (2 STL),,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,189,13,0,2,7:05 PM,0:00,,End of 2nd Period (7:05 PM EST),,31 - 47,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,191,12,0,3,7:20 PM,10:00,,Start of 3rd Period (7:20 PM EST),,31 - 47,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,192,1,46,3,7:21 PM,9:35,,,Dupree 6' Running Jump Shot (8 PTS),33 - 47,14,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,193,1,5,3,7:21 PM,9:25,Sam  Layup (12 PTS),,,33 - 49,16,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,194,6,2,3,7:21 PM,9:25,,,Lassiter S.FOUL (P2.T1),,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,195,3,10,3,7:21 PM,9:25,Sam Free Throw 1 of 1 (13 PTS),,,33 - 50,17,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,196,2,5,3,7:22 PM,9:03,,,MISS Dales  Layup,,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,197,4,0,3,7:22 PM,9:02,Smith REBOUND (Off:0 Def:2),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,198,6,2,3,7:22 PM,8:54,,,Lassiter S.FOUL (P3.T2),,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,199,3,11,3,7:22 PM,8:54,Currie Free Throw 1 of 2 (5 PTS),,,33 - 51,18,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,200,3,12,3,7:23 PM,8:54,Currie Free Throw 2 of 2 (6 PTS),,,33 - 52,19,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,201,2,5,3,7:23 PM,8:41,,,MISS Newton  Layup,,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,202,4,0,3,7:23 PM,8:38,,,Newton REBOUND (Off:1 Def:1),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,203,6,2,3,7:23 PM,8:38,Currie S.FOUL (P3.T1),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,204,3,11,3,7:23 PM,8:38,,,Dupree Free Throw 1 of 2 (9 PTS),34 - 52,18,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,205,3,12,3,7:24 PM,8:38,,,MISS Dupree Free Throw 2 of 2,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,206,4,0,3,7:24 PM,8:36,Smith REBOUND (Off:0 Def:3),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,207,1,5,3,7:24 PM,8:21,Currie  Layup (8 PTS) (Smith 2 AST),,,34 - 54,20,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,208,2,1,3,7:24 PM,7:59,,,MISS Lassiter 13' Jump Shot,,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,209,4,0,3,7:24 PM,7:57,Sutton-Brown REBOUND (Off:5 Def:2),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,210,2,1,3,7:24 PM,7:52,MISS Smith 6' Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,211,4,0,3,7:24 PM,7:48,,,Lovelace REBOUND (Off:2 Def:3),,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,212,9,2,3,7:25 PM,7:45,,,Sky Timeout: Short (Reg.2 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,213,2,1,3,7:26 PM,7:28,,,MISS Lassiter  3PT Jump Shot,,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,214,4,0,3,7:26 PM,7:26,Sam REBOUND (Off:1 Def:3),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,215,5,1,3,7:26 PM,7:23,Sam Bad Pass Turnover (P2.T6),,Dales STEAL (1 STL),,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,216,5,1,3,7:26 PM,7:18,,,Dales Bad Pass Turnover (P1.T12),,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,217,1,1,3,7:27 PM,7:00,Sutton-Brown 15' Jump Shot (11 PTS) (Sam 1 AST),,,34 - 56,22,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,218,5,1,3,7:27 PM,6:40,,,Dales Bad Pass Turnover (P2.T13),,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,219,1,1,3,7:27 PM,6:33,Sam  3PT Jump Shot (16 PTS) (Currie 3 AST),,,34 - 59,25,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,220,2,1,3,7:28 PM,6:15,,,MISS Lovelace  3PT Jump Shot,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,221,4,0,3,7:28 PM,6:12,Smith REBOUND (Off:0 Def:4),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,222,1,5,3,7:28 PM,6:05,Sutton-Brown  Layup (13 PTS) (Currie 4 AST),,,34 - 61,27,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,223,9,1,3,7:28 PM,5:57,,,Sky Timeout: Regular (Reg.3 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,225,8,0,3,7:31 PM,5:57,,,SUB: Ngoyisa FOR Lovelace,,,5,100470,Stacey Lovelace,1611661329.0,Chicago,Sky,CHI,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,226,8,0,3,7:31 PM,5:57,,,SUB: Brown FOR Dales,,,5,100722,Stacey Dales,1611661329.0,Chicago,Sky,CHI,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,227,2,1,3,7:31 PM,5:49,,,MISS Dupree 8' Jump Shot,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,228,4,0,3,7:31 PM,5:47,Currie REBOUND (Off:0 Def:3),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,229,7,5,3,7:31 PM,5:37,,,Ngoyisa Violation:Kicked Ball,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1020600232,230,5,1,3,7:31 PM,5:26,Sutton-Brown Bad Pass Turnover (P1.T7),,Lassiter STEAL (2 STL),,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,231,2,5,3,7:32 PM,5:06,,,MISS Ngoyisa  Layup,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,232,4,0,3,7:32 PM,5:04,Currie REBOUND (Off:0 Def:4),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,233,5,2,3,7:32 PM,4:59,Currie Lost Ball Turnover (P2.T8),,Dupree STEAL (2 STL),,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,234,1,66,3,7:32 PM,4:42,,,Dupree 16' Jump Bank Shot (11 PTS),36 - 61,25,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,235,1,42,3,7:32 PM,4:33,Sam  Driving Layup (18 PTS),,,36 - 63,27,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,236,6,2,3,7:33 PM,4:16,Sutton-Brown S.FOUL (P2.T2),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,237,3,11,3,7:33 PM,4:16,,,MISS Newton Free Throw 1 of 2,,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,238,4,1,3,7:33 PM,4:16,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,239,3,12,3,7:33 PM,4:16,,,MISS Newton Free Throw 2 of 2,,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,240,4,0,3,7:33 PM,4:13,Smith REBOUND (Off:0 Def:5),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,241,1,1,3,7:33 PM,4:06,Smith  3PT Jump Shot (10 PTS) (Currie 5 AST),,,36 - 66,30,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,242,2,5,3,7:34 PM,3:49,Sutton-Brown BLOCK (1 BLK),,MISS Ngoyisa  Layup,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600232,243,4,0,3,7:34 PM,3:47,,,Ngoyisa REBOUND (Off:1 Def:1),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,244,2,1,3,7:34 PM,3:40,,,MISS Brown  3PT Jump Shot,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,245,4,0,3,7:34 PM,3:38,Smith REBOUND (Off:0 Def:6),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,246,2,1,3,7:34 PM,3:28,MISS Darling  3PT Jump Shot,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,247,4,0,3,7:34 PM,3:26,Sam REBOUND (Off:2 Def:3),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,248,2,1,3,7:34 PM,3:21,MISS Currie  3PT Jump Shot,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,249,4,0,3,7:34 PM,3:18,,,Ngoyisa REBOUND (Off:1 Def:2),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,250,6,2,3,7:35 PM,3:11,Smith S.FOUL (P2.T3),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,251,8,0,3,7:35 PM,3:11,SUB: Mazzante FOR Sam,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,252,8,0,3,7:35 PM,3:11,SUB: Walker FOR Smith,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,253,8,0,3,7:35 PM,3:11,SUB: Feaster FOR Sutton-Brown,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,254,8,0,3,7:35 PM,3:11,SUB: McCarville FOR Currie,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,255,3,11,3,7:35 PM,3:11,,,Dupree Free Throw 1 of 2 (12 PTS),37 - 66,29,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,256,8,0,3,7:35 PM,3:11,SUB: Bond FOR Darling,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,257,8,0,3,7:35 PM,3:11,,,SUB: Moeggenberg FOR Lassiter,,,5,100642,Amanda Lassiter,1611661329.0,Chicago,Sky,CHI,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,258,3,12,3,7:35 PM,3:11,,,Dupree Free Throw 2 of 2 (13 PTS),38 - 66,28,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,259,2,1,3,7:36 PM,2:49,MISS Mazzante  3PT Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,260,4,0,3,7:36 PM,2:47,,,Dupree REBOUND (Off:0 Def:8),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,261,2,1,3,7:36 PM,2:40,,,MISS Brown  3PT Jump Shot,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,262,4,0,3,7:36 PM,2:38,Feaster REBOUND (Off:0 Def:1),,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,263,2,1,3,7:36 PM,2:29,MISS Feaster  3PT Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,264,4,0,3,7:36 PM,2:27,,,Dupree REBOUND (Off:0 Def:9),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,265,1,5,3,7:36 PM,2:21,,,Dupree  Layup (15 PTS) (Brown 3 AST),40 - 66,26,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,266,2,1,3,7:37 PM,1:56,MISS McCarville 13' Jump Shot,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,267,4,0,3,7:37 PM,1:54,,,Dupree REBOUND (Off:0 Def:10),,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,268,6,1,3,7:37 PM,1:53,Walker P.FOUL (P1.T4),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,269,9,1,3,7:37 PM,1:53,STING Timeout: Regular (Full 1 Short 0),,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,273,1,5,3,7:38 PM,1:37,,,Ngoyisa  Layup (12 PTS),42 - 66,24,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,274,6,2,3,7:38 PM,1:37,McCarville S.FOUL (P1.PN),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,275,3,10,3,7:38 PM,1:37,,,MISS Ngoyisa Free Throw 1 of 1,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,276,4,0,3,7:39 PM,1:35,Walker REBOUND (Off:0 Def:1),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,277,1,5,3,7:39 PM,1:16,Walker  Layup (2 PTS) (McCarville 2 AST),,,42 - 68,26,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,279,2,1,3,7:39 PM,1:02,,,MISS Ngoyisa 16' Jump Shot,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,280,4,0,3,7:39 PM,0:59,McCarville REBOUND (Off:0 Def:4),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,281,2,1,3,7:39 PM,0:49,MISS Feaster 15' Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,283,4,0,3,7:39 PM,0:47,McCarville REBOUND (Off:1 Def:4),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,282,2,4,3,7:39 PM,0:47,MISS McCarville  Tip Shot,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,284,4,0,3,7:39 PM,0:45,,,Brown REBOUND (Off:0 Def:3),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,285,5,2,3,7:39 PM,0:43,Mazzante STEAL (2 STL),,Brown Lost Ball Turnover (P3.T14),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,286,2,1,3,7:40 PM,0:38,MISS Mazzante  3PT Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,287,4,0,3,7:40 PM,0:35,,,Ngoyisa REBOUND (Off:1 Def:3),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,288,1,5,3,7:40 PM,0:28,,,Ngoyisa  Layup (14 PTS) (Brown 4 AST),44 - 68,24,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,289,2,1,3,7:40 PM,0:17,MISS Walker 14' Jump Shot,,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,291,4,0,3,7:40 PM,0:16,McCarville REBOUND (Off:2 Def:4),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,290,1,58,3,7:40 PM,0:16,McCarville 5' Turnaround Hook Shot (2 PTS),,,44 - 70,26,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,292,2,1,3,7:41 PM,0:00,,,MISS Newton 6' Jump Shot,,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,293,4,0,3,7:41 PM,0:00,McCarville REBOUND (Off:2 Def:5),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,294,13,0,3,7:41 PM,0:00,,End of 3rd Period (7:41 PM EST),,44 - 70,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,296,12,0,4,7:44 PM,10:00,,Start of 4th Period (7:44 PM EST),,44 - 70,26,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,297,5,1,4,7:44 PM,9:45,McCarville Bad Pass Turnover (P1.T9),,Brown STEAL (1 STL),,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,298,5,8,4,7:44 PM,9:31,,,Ngoyisa 3 Second Violation Turnover (P1.T15),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1020600232,299,2,1,4,7:45 PM,9:11,MISS Bond  3PT Jump Shot,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,300,4,0,4,7:45 PM,9:08,,,Ngoyisa REBOUND (Off:1 Def:4),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,301,6,2,4,7:45 PM,8:56,McCarville S.FOUL (P2.T1),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,302,3,11,4,7:45 PM,8:56,,,MISS Dupree Free Throw 1 of 2,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,303,4,1,4,7:45 PM,8:56,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,304,3,12,4,7:46 PM,8:56,,,Dupree Free Throw 2 of 2 (16 PTS),45 - 70,25,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,305,5,8,4,7:46 PM,8:41,Walker 3 Second Violation Turnover (P1.T10),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600232,306,5,1,4,7:46 PM,8:23,,,Brown Bad Pass Turnover (P4.T16),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,307,6,2,4,7:47 PM,8:11,,,Ngoyisa S.FOUL (P2.T1),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,308,3,11,4,7:47 PM,8:11,McCarville Free Throw 1 of 2 (3 PTS),,,45 - 71,26,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,309,3,12,4,7:47 PM,8:11,McCarville Free Throw 2 of 2 (4 PTS),,,45 - 72,27,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,310,2,5,4,7:48 PM,7:55,,,MISS Moeggenberg  Layup,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,311,4,0,4,7:48 PM,7:53,McCarville REBOUND (Off:2 Def:6),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,312,2,1,4,7:48 PM,7:47,MISS Feaster  3PT Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,313,4,0,4,7:48 PM,7:45,,,Newton REBOUND (Off:1 Def:2),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,314,2,1,4,7:48 PM,7:39,,,MISS Ngoyisa 5' Jump Shot,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,316,4,0,4,7:48 PM,7:37,,,Ngoyisa REBOUND (Off:2 Def:4),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,315,2,5,4,7:48 PM,7:37,,,MISS Ngoyisa  Layup,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,317,4,0,4,7:48 PM,7:33,McCarville REBOUND (Off:2 Def:7),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,318,2,5,4,7:48 PM,7:25,MISS Mazzante  Layup,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,319,4,0,4,7:49 PM,7:25,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,320,6,3,4,7:49 PM,7:25,Walker L.B.FOUL (P2.T2),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,321,5,1,4,7:49 PM,7:11,Walker STEAL (1 STL),,Brown Bad Pass Turnover (P5.T17),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,322,1,1,4,7:49 PM,6:54,Mazzante  3PT Jump Shot (11 PTS) (Bond 2 AST),,,45 - 75,30,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,323,5,40,4,7:49 PM,6:45,,,Brown Out of Bounds Lost Ball Turnover (P6.T18),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,324,2,1,4,7:50 PM,6:33,MISS Mazzante  3PT Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,325,4,0,4,7:50 PM,6:31,,,Ngoyisa REBOUND (Off:2 Def:5),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,326,9,1,4,7:50 PM,6:28,,,Sky Timeout: Regular (Reg.4 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,328,8,0,4,7:52 PM,6:28,,,SUB: Cronin FOR Dupree,,,5,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,329,5,11,4,7:53 PM,6:08,,,Sky Turnover: Shot Clock (T#19),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600232,330,6,4,4,7:54 PM,5:47,McCarville OFF.Foul (P3),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,331,5,5,4,7:54 PM,5:47,McCarville Foul Turnover (P2.T11),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600232,332,5,1,4,7:54 PM,5:28,Mazzante STEAL (3 STL),,Brown Bad Pass Turnover (P7.T20),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,333,2,1,4,7:54 PM,5:17,MISS McCarville 14' Jump Shot,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,334,4,0,4,7:54 PM,5:15,,,Moeggenberg REBOUND (Off:0 Def:1),,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,335,2,1,4,7:55 PM,5:00,,,MISS Moeggenberg 9' Jump Shot,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,337,4,0,4,7:55 PM,4:58,,,Ngoyisa REBOUND (Off:3 Def:5),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,336,1,5,4,7:55 PM,4:58,,,Ngoyisa  Layup (16 PTS),47 - 75,28,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,338,1,42,4,7:55 PM,4:41,McCarville  Driving Layup (6 PTS),,,47 - 77,30,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,339,6,1,4,7:55 PM,4:27,Bond P.FOUL (P1.T3),,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,340,8,0,4,7:55 PM,4:27,SUB: Fluker FOR McCarville,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,341,6,2,4,7:56 PM,4:19,Walker S.FOUL (P3.T4),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,342,3,11,4,7:56 PM,4:19,,,Ngoyisa Free Throw 1 of 2 (17 PTS),48 - 77,29,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,343,3,12,4,7:56 PM,4:19,,,MISS Ngoyisa Free Throw 2 of 2,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,344,4,0,4,7:56 PM,4:17,Mazzante REBOUND (Off:0 Def:2),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,345,1,1,4,7:56 PM,4:09,Mazzante  3PT Jump Shot (14 PTS) (Bond 3 AST),,,48 - 80,32,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,346,6,1,4,7:57 PM,3:47,Fluker P.FOUL (P1.PN),,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,347,3,11,4,7:57 PM,3:47,,,Ngoyisa Free Throw 1 of 2 (18 PTS),49 - 80,31,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,348,3,12,4,7:57 PM,3:47,,,Ngoyisa Free Throw 2 of 2 (19 PTS),50 - 80,30,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,349,6,1,4,7:58 PM,3:38,,,Newton P.FOUL (P4.T2),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,350,5,2,4,7:58 PM,3:21,Fluker Lost Ball Turnover (P1.T12),,Newton STEAL (1 STL),,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020600232,351,2,1,4,7:59 PM,3:09,,,MISS Brown  3PT Jump Shot,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,352,4,0,4,7:59 PM,3:07,Mazzante REBOUND (Off:0 Def:3),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,353,6,2,4,7:59 PM,3:04,,,Newton S.FOUL (P5.T3),,,5,101040,Chelsea Newton,1611661329.0,Chicago,Sky,CHI,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600232,354,3,11,4,7:59 PM,3:04,Fluker Free Throw 1 of 2 (1 PTS),,,50 - 81,31,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,355,3,12,4,7:59 PM,3:04,Fluker Free Throw 2 of 2 (2 PTS),,,50 - 82,32,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,356,9,4,4,8:00 PM,2:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,358,1,1,4,8:03 PM,2:42,,,Cronin 16' Jump Shot (5 PTS),52 - 82,30,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,359,2,1,4,8:03 PM,2:19,MISS Walker 13' Jump Shot,,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,360,4,0,4,8:03 PM,2:17,,,Ngoyisa REBOUND (Off:3 Def:6),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,361,6,1,4,8:03 PM,2:17,Bond P.FOUL (P2.PN),,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,362,3,11,4,8:03 PM,2:17,,,Ngoyisa Free Throw 1 of 2 (20 PTS),53 - 82,29,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,365,7,3,4,8:04 PM,2:17,Fluker Violation:Lane,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600232,366,3,12,4,8:04 PM,2:17,,,Ngoyisa Free Throw 2 of 2 (21 PTS),54 - 82,28,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,369,2,1,4,8:04 PM,1:56,MISS Bond  3PT Jump Shot,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,370,4,0,4,8:04 PM,1:53,,,Cronin REBOUND (Off:0 Def:2),,,5,100665,Katie Cronin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,371,5,1,4,8:05 PM,1:40,Mazzante STEAL (4 STL),,Brown Bad Pass Turnover (P8.T21),,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,372,1,5,4,8:05 PM,1:35,Walker  Layup (4 PTS) (Mazzante 1 AST),,,54 - 84,30,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600232,373,2,1,4,8:05 PM,1:18,,,MISS Ngoyisa 7' Jump Shot,,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,375,4,0,4,8:05 PM,1:16,,,Ngoyisa REBOUND (Off:4 Def:6),,,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,374,1,5,4,8:05 PM,1:16,,,Ngoyisa  Layup (23 PTS),56 - 84,28,5,100807,Bernadette Ngoyisa,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,376,2,1,4,8:06 PM,0:48,MISS Bond 18' Jump Shot,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,377,4,0,4,8:06 PM,0:48,Fluker REBOUND (Off:1 Def:1),,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,378,5,11,4,8:06 PM,0:48,STING Turnover: Shot Clock (T#13),,,,,2,1611661314,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600232,379,2,5,4,8:06 PM,0:40,,,MISS Brown  Layup,,,5,100848,Coretta Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,380,4,0,4,8:06 PM,0:39,Mazzante REBOUND (Off:0 Def:4),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,381,2,1,4,8:06 PM,0:25,MISS Feaster  3PT Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600232,382,4,0,4,8:06 PM,0:23,,,Moeggenberg REBOUND (Off:0 Def:2),,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,383,2,5,4,8:06 PM,0:10,Fluker BLOCK (1 BLK),,MISS Moeggenberg  Layup,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0
+1020600232,384,4,0,4,8:06 PM,0:10,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,385,6,2,4,8:07 PM,0:05,Walker S.FOUL (P4.PN),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020600232,386,3,11,4,8:07 PM,0:05,,,MISS Moeggenberg Free Throw 1 of 2,,,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,387,4,1,4,8:07 PM,0:05,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600232,388,3,12,4,8:07 PM,0:05,,,Moeggenberg Free Throw 2 of 2 (2 PTS),57 - 84,27,5,200688,Liz Moeggenberg,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020600232,389,13,0,4,8:07 PM,0:00,,End of 4th Period (8:07 PM EST),,57 - 84,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

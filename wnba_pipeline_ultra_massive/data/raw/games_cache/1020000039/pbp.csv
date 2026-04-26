@@ -1,0 +1,408 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000039,0,12,0,1,11:08 AM,20:00,,Start of 1st Half (11:08 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,1,10,0,1,11:09 AM,20:00,Jump Ball Askamp vs. Folkl: Tip to Black,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0
+1020000039,2,6,4,1,11:09 AM,19:46,Owens OFF.Foul (P1),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,3,5,5,1,11:09 AM,19:46,Owens Foul Turnover (P1.T1),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,4,10,0,1,11:10 AM,19:24,Jump Ball Owens vs. Dickerson: Tip to Askamp,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0
+1020000039,5,5,2,1,11:10 AM,19:24,Owens STEAL (1 STL),,Dickerson Lost Ball Turnover (P1.T1),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,6,1,5,1,11:11 AM,19:05,Owens Layup (2 PTS) (Askamp 1 AST),,,0 - 2,2,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,7,5,2,1,11:11 AM,18:46,,,Lennox Lost Ball Turnover (P1.T2),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,9,1,1,1,11:11 AM,18:32,Colleton 17' Jump Shot (2 PTS),,,0 - 4,4,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,10,6,1,1,11:12 AM,18:22,Black P.FOUL (P1.T1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,11,9,2,1,11:12 AM,18:22,,,Lynx Timeout: Short (Reg.0 Short 1),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,12,2,1,1,11:13 AM,18:14,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,13,4,0,1,11:13 AM,18:12,,,Lennox REBOUND (Off:1 Def:0),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,14,2,1,1,11:13 AM,18:01,,,MISS Brumfield 13' Jump Shot,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,15,4,0,1,11:13 AM,17:58,Webb REBOUND (Off:0 Def:1),,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,16,2,1,1,11:13 AM,17:48,MISS Askamp 17' Jump Shot,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,17,4,0,1,11:13 AM,17:46,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,19,2,1,1,11:14 AM,17:23,,,MISS Lennox 18' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,20,4,0,1,11:14 AM,17:21,,,Lennox REBOUND (Off:2 Def:0),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,21,2,1,1,11:14 AM,17:19,,,MISS Lennox 13' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,22,4,0,1,11:14 AM,17:18,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,23,6,3,1,11:14 AM,17:18,,,Lennox L.B.FOUL (P1.T1),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,24,8,0,1,11:14 AM,17:18,,,SUB: Lloyd-Curry FOR Folkl,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,26,1,1,1,11:15 AM,17:05,Black 3PT Jump Shot (3 PTS) (Owens 1 AST),,,0 - 7,7,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,27,8,0,1,11:15 AM,16:55,,,SUB: Daley FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,28,2,1,1,11:15 AM,16:44,,,MISS Daley 3PT Jump Shot,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,29,4,0,1,11:16 AM,16:43,Webb REBOUND (Off:0 Def:2),,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,30,2,1,1,11:16 AM,16:19,MISS Askamp 4' Jump Shot,,Lloyd-Curry BLOCK (1 BLK),,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0
+1020000039,31,4,0,1,11:16 AM,16:16,,,Lennox REBOUND (Off:2 Def:1),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,32,1,1,1,11:16 AM,16:07,,,Dickerson 12' Jump Shot (2 PTS) (Lennox 1 AST),2 - 7,5,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,33,1,2,1,11:16 AM,15:42,Colleton 12' Running Jump Shot (4 PTS),,,2 - 9,7,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,34,1,6,1,11:17 AM,15:27,,,Lennox Driving Layup (2 PTS) (Dickerson 1 AST),4 - 9,5,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,35,6,4,1,11:17 AM,15:12,Askamp OFF.Foul (P1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,36,5,5,1,11:17 AM,15:12,Askamp Foul Turnover (P1.T2),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,37,9,4,1,11:17 AM,15:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,39,8,0,1,11:19 AM,15:12,SUB: Kostic FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100186,Tanja Kostic,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,40,2,5,1,11:20 AM,14:54,,,MISS Lloyd-Curry Layup,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,41,4,0,1,11:20 AM,14:50,,,Daley REBOUND (Off:1 Def:0),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,42,1,1,1,11:20 AM,14:24,,,Lloyd-Curry 17' Jump Shot (2 PTS) (Daley 1 AST),6 - 9,3,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,43,2,1,1,11:21 AM,14:03,MISS Black 3PT Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,44,4,0,1,11:21 AM,14:00,,,Dickerson REBOUND (Off:0 Def:1),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,45,2,1,1,11:21 AM,13:48,,,MISS Smith 13' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,46,4,0,1,11:21 AM,13:45,,,Dickerson REBOUND (Off:1 Def:1),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,47,1,6,1,11:21 AM,13:31,,,Daley Driving Layup (2 PTS),8 - 9,1,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,48,1,1,1,11:21 AM,13:07,Colleton 14' Jump Shot (6 PTS),,,8 - 11,3,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,49,5,2,1,11:22 AM,12:56,Colleton STEAL (1 STL),,Smith Lost Ball Turnover (P1.T3),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,50,2,1,1,11:22 AM,12:45,MISS Kostic 11' Jump Shot,,,,,4,100186,Tanja Kostic,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,51,4,0,1,11:22 AM,12:43,,,Dickerson REBOUND (Off:1 Def:2),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,52,6,1,1,11:22 AM,12:26,Black P.FOUL (P2.T2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,53,8,0,1,11:22 AM,12:26,SUB: Askamp FOR Kostic,,,,,4,100186,Tanja Kostic,1611661326.0,Miami,Sol,MIA,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,54,8,0,1,11:22 AM,12:26,,,SUB: Brumfield FOR Smith,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,55,8,0,1,11:22 AM,12:26,SUB: Flores FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,56,1,1,1,11:23 AM,12:19,,,Lennox 16' Jump Shot (4 PTS),10 - 11,1,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,58,2,1,1,11:23 AM,12:03,MISS Owens 10' Jump Shot,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,59,4,0,1,11:23 AM,12:00,,,Lennox REBOUND (Off:2 Def:2),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,60,2,1,1,11:23 AM,11:53,,,MISS Daley 5' Jump Shot,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,61,4,0,1,11:23 AM,11:51,Colleton REBOUND (Off:0 Def:1),,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,62,2,1,1,11:24 AM,11:31,MISS Webb 3PT Jump Shot,,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,63,4,0,1,11:24 AM,11:31,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,64,6,3,1,11:24 AM,11:31,Askamp L.B.FOUL (P2.T3),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,65,9,4,1,11:24 AM,11:31,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,67,8,0,1,11:26 AM,11:31,SUB: Sam FOR Webb,,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,68,5,1,1,11:26 AM,11:18,Flores STEAL (1 STL),,Daley Bad Pass Turnover (P1.T4),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,69,5,2,1,11:26 AM,11:14,Sam Lost Ball Turnover (P1.T3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,70,2,5,1,11:27 AM,10:54,,,MISS Brumfield Layup,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,71,4,0,1,11:27 AM,10:52,Askamp REBOUND (Off:0 Def:1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,72,2,1,1,11:27 AM,10:46,MISS Sam 18' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,73,4,0,1,11:27 AM,10:45,Sam REBOUND (Off:1 Def:0),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,74,2,1,1,11:27 AM,10:35,MISS Sam 3' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,75,4,0,1,11:27 AM,10:32,Askamp REBOUND (Off:1 Def:1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,76,5,2,1,11:27 AM,10:30,Askamp Lost Ball Turnover (P2.T4),,Brumfield STEAL (1 STL),,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,77,1,6,1,11:27 AM,10:25,,,Lloyd-Curry Driving Layup (4 PTS),12 - 11,-1,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,78,2,1,1,11:28 AM,10:06,MISS Sam 7' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,79,4,0,1,11:28 AM,10:03,,,Daley REBOUND (Off:1 Def:1),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,80,1,6,1,11:28 AM,9:56,,,Daley Driving Layup (4 PTS),14 - 11,-3,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,81,9,2,1,11:28 AM,9:51,SOL Timeout: Short (Full 0 Short 1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,82,8,0,1,11:29 AM,9:51,SUB: Kostic FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100186,Tanja Kostic,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,83,8,0,1,11:29 AM,9:51,,,SUB: Paye FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,84,7,1,1,11:29 AM,9:50,SOL Violation: Delay of game Violation,,,,,2,1611661326,,,,,,0,0,,,,,,1,0,,,,,,0
+1020000039,85,2,1,1,11:30 AM,9:26,MISS Flores 3PT Jump Shot,,,,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,86,4,0,1,11:30 AM,9:24,,,Lloyd-Curry REBOUND (Off:0 Def:1),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,87,6,4,1,11:30 AM,9:14,,,Daley OFF.Foul (P1),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,88,5,5,1,11:30 AM,9:14,,,Daley Foul Turnover (P2.T5),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,89,8,0,1,11:30 AM,9:14,SUB: Jones FOR Colleton,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,90,8,0,1,11:30 AM,9:14,,,SUB: Smith FOR Dickerson,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,91,2,1,1,11:30 AM,8:57,MISS Jones 16' Jump Shot,,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,92,4,0,1,11:30 AM,8:54,Owens REBOUND (Off:1 Def:0),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,93,6,4,1,11:31 AM,8:43,Sam OFF.Foul (P1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,94,5,5,1,11:31 AM,8:43,Sam Foul Turnover (P2.T5),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,95,1,1,1,11:31 AM,8:28,,,Smith 3PT Jump Shot (3 PTS),17 - 11,-6,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,96,5,1,1,11:31 AM,8:20,Flores Bad Pass Turnover (P1.T6),,Paye STEAL (1 STL),,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,97,2,1,1,11:31 AM,8:16,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,98,4,0,1,11:31 AM,8:14,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,99,6,2,1,11:32 AM,8:12,Owens S.FOUL (P2.T4),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,100,3,11,1,11:32 AM,8:12,,,Smith Free Throw 1 of 2 (4 PTS),18 - 11,-7,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,101,8,0,1,11:32 AM,8:12,SUB: Ford FOR Kostic,,,,,4,100186,Tanja Kostic,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,102,3,12,1,11:32 AM,8:12,,,Smith Free Throw 2 of 2 (5 PTS),19 - 11,-8,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,103,6,1,1,11:33 AM,7:56,,,Brumfield P.FOUL (P1.T2),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,104,9,4,1,11:33 AM,7:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,106,6,1,1,11:35 AM,7:48,,,Paye P.FOUL (P1.T3),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,107,8,0,1,11:36 AM,7:48,,,SUB: Stires FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,108,6,4,1,11:36 AM,7:43,Ford OFF.Foul (P1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,109,5,5,1,11:36 AM,7:43,Ford Foul Turnover (P1.T7),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,110,6,1,1,11:36 AM,7:27,Ford P.FOUL (P2.PN),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,111,5,2,1,11:37 AM,7:12,Ford STEAL (1 STL),,Daley Lost Ball Turnover (P3.T6),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,112,6,1,1,11:37 AM,6:54,,,Stires P.FOUL (P1.T4),,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,113,8,0,1,11:38 AM,6:54,,,SUB: Lennox FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,114,1,1,1,11:38 AM,6:29,Jones 3PT Jump Shot (3 PTS) (Ford 1 AST),,,19 - 14,-5,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,115,2,1,1,11:39 AM,6:01,,,MISS Lennox 9' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,116,4,0,1,11:39 AM,5:59,Owens REBOUND (Off:1 Def:1),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,117,5,1,1,11:39 AM,5:55,Owens Bad Pass Turnover (P2.T8),,Lennox STEAL (1 STL),,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,118,5,1,1,11:39 AM,5:44,Sam STEAL (1 STL),,Lennox Bad Pass Turnover (P2.T7),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,119,5,1,1,11:39 AM,5:32,Sam Bad Pass Turnover (P3.T9),,Lennox STEAL (2 STL),,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,120,2,1,1,11:39 AM,5:08,,,MISS Stires 17' Jump Shot,,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,121,4,0,1,11:39 AM,5:06,Sam REBOUND (Off:1 Def:1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,122,2,1,1,11:40 AM,4:59,MISS Ford 17' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,123,4,0,1,11:40 AM,4:55,,,Stires REBOUND (Off:0 Def:1),,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,124,1,1,1,11:40 AM,4:46,,,Paye 3PT Jump Shot (3 PTS) (Smith 1 AST),22 - 14,-8,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,125,6,1,1,11:40 AM,4:29,,,Paye P.FOUL (P2.PN),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,126,8,0,1,11:40 AM,4:29,,,SUB: Lloyd-Curry FOR Stires,,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,127,8,0,1,11:40 AM,4:29,,,SUB: Brumfield FOR Daley,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,128,8,0,1,11:40 AM,4:29,SUB: Colleton FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,129,8,0,1,11:41 AM,4:29,SUB: Cassidy FOR Owens,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,4,100451,Jamie Cassidy,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,130,8,0,1,11:41 AM,4:29,,,SUB: Dickerson FOR Paye,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,131,2,1,1,11:41 AM,4:19,MISS Flores 3PT Jump Shot,,,,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,132,4,0,1,11:41 AM,4:17,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,134,5,1,1,11:42 AM,3:58,,,Lloyd-Curry Bad Pass Turnover (P1.T8),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,135,8,0,1,11:42 AM,3:58,SUB: Webb FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,136,9,4,1,11:42 AM,3:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,137,6,1,1,11:44 AM,3:44,,,Brumfield P.FOUL (P2.PN),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,138,5,4,1,11:45 AM,3:34,Flores Traveling Turnover (P2.T10),,,,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,139,1,1,1,11:45 AM,3:15,,,Lennox 14' Jump Shot (6 PTS),24 - 14,-10,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,140,6,2,1,11:45 AM,3:15,Jones S.FOUL (P1.PN),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,141,3,10,1,11:46 AM,3:15,,,Lennox Free Throw 1 of 1 (7 PTS),25 - 14,-11,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,142,6,1,1,11:46 AM,3:03,,,Lloyd-Curry P.FOUL (P1.PN),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,143,8,0,1,11:46 AM,3:03,,,SUB: Martin FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,144,1,1,1,11:47 AM,2:57,Colleton 13' Jump Shot (8 PTS),,,25 - 16,-9,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,145,2,1,1,11:47 AM,2:35,,,MISS Brumfield 12' Jump Shot,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,146,4,0,1,11:47 AM,2:33,Jones REBOUND (Off:0 Def:1),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,147,2,5,1,11:47 AM,2:24,MISS Cassidy Layup,,,,,4,100451,Jamie Cassidy,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,148,4,0,1,11:47 AM,2:22,,,Lennox REBOUND (Off:2 Def:3),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,149,2,1,1,11:47 AM,2:17,,,MISS Lennox 15' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,150,4,0,1,11:47 AM,2:15,Flores REBOUND (Off:0 Def:1),,,,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,151,6,1,1,11:48 AM,2:01,,,Dickerson P.FOUL (P1.PN),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,153,3,11,1,11:48 AM,2:01,MISS Webb Free Throw 1 of 2,,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,154,4,1,1,11:48 AM,2:01,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,155,8,0,1,11:48 AM,2:01,,,SUB: Daley FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,156,8,0,1,11:48 AM,2:01,,,SUB: Lloyd-Curry FOR Martin,,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,157,3,12,1,11:48 AM,2:01,Webb Free Throw 2 of 2 (1 PTS),,,25 - 17,-8,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,159,1,1,1,11:48 AM,1:50,,,Lennox 13' Jump Shot (9 PTS),27 - 17,-10,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,161,2,1,1,11:49 AM,1:35,MISS Colleton 16' Jump Shot,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,162,4,0,1,11:49 AM,1:33,,,Lennox REBOUND (Off:2 Def:4),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,163,2,3,1,11:49 AM,1:19,,,MISS Daley 8' Hook Shot,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,164,4,0,1,11:49 AM,1:17,Colleton REBOUND (Off:0 Def:2),,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,165,2,1,1,11:49 AM,1:10,MISS Flores 17' Jump Shot,,,,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,166,4,0,1,11:49 AM,1:08,,,Dickerson REBOUND (Off:1 Def:3),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,167,1,1,1,11:49 AM,0:50,,,Smith 3PT Jump Shot (8 PTS),30 - 17,-13,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,168,9,1,1,11:50 AM,0:50,SOL Timeout: Regular (Full 1 Short 1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,170,8,0,1,11:52 AM,0:50,SUB: Sam FOR Colleton,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,171,2,1,1,11:52 AM,0:36,MISS Sam 17' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,172,4,0,1,11:52 AM,0:34,,,Dickerson REBOUND (Off:1 Def:4),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,173,2,1,1,11:53 AM,0:05,,,MISS Lloyd-Curry 17' Jump Shot,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,174,4,0,1,11:53 AM,0:04,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,175,13,0,1,11:53 AM,0:00,,End of 1st Half (11:53 AM EST),,30 - 17,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,177,12,0,2,12:09 PM,20:00,,Start of 2nd Half (12:09 PM EST),,30 - 17,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,178,10,0,2,12:09 PM,20:00,Jump Ball Askamp vs. Dickerson: Tip to Owens,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0
+1020000039,179,6,1,2,12:09 PM,19:37,,,Lloyd-Curry P.FOUL (P2.T1),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,180,5,1,2,12:10 PM,19:27,Colleton Bad Pass Turnover (P1.T11),,Lloyd-Curry STEAL (1 STL),,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,181,1,1,2,12:10 PM,19:19,,,Smith 13' Jump Shot (10 PTS),32 - 17,-15,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,182,5,1,2,12:10 PM,19:08,Askamp Bad Pass Turnover (P3.T12),,Lloyd-Curry STEAL (2 STL),,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,183,5,4,2,12:10 PM,19:07,,,Lloyd-Curry Traveling Turnover (P2.T9),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,184,2,1,2,12:11 PM,18:54,MISS Owens 9' Jump Shot,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,185,4,0,2,12:11 PM,18:52,,,Smith REBOUND (Off:0 Def:1),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,186,2,1,2,12:11 PM,18:47,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,187,4,0,2,12:11 PM,18:45,Askamp REBOUND (Off:1 Def:2),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,188,1,1,2,12:11 PM,18:38,Webb 8' Jump Shot (3 PTS),,,32 - 19,-13,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,189,2,1,2,12:11 PM,18:13,,,MISS Lennox 3PT Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,190,4,0,2,12:11 PM,18:11,Askamp REBOUND (Off:1 Def:3),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,191,2,1,2,12:11 PM,18:07,MISS Colleton 10' Jump Shot,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,192,4,0,2,12:11 PM,18:05,,,Smith REBOUND (Off:0 Def:2),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,193,9,2,2,12:11 PM,18:00,,,Lynx Timeout: Short (Reg.0 Short 2),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,194,8,0,2,12:12 PM,18:00,,,SUB: Martin FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,195,1,1,2,12:13 PM,17:40,,,Martin 13' Jump Shot (2 PTS),34 - 19,-15,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,196,5,8,2,12:13 PM,17:15,Owens 3 Second Violation Turnover (P3.T13),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,197,6,1,2,12:14 PM,17:00,Webb P.FOUL (P1.T1),,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,198,2,5,2,12:14 PM,16:58,,,MISS Lennox Layup,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,199,4,0,2,12:14 PM,16:57,Askamp REBOUND (Off:1 Def:4),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,200,8,0,2,12:14 PM,16:57,SUB: Sam FOR Colleton,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,201,6,2,2,12:15 PM,16:41,,,Brumfield S.FOUL (P3.T2),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,203,3,11,2,12:15 PM,16:41,MISS Sam Free Throw 1 of 2,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,204,4,1,2,12:15 PM,16:41,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,205,8,0,2,12:15 PM,16:41,,,SUB: Daley FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,206,3,12,2,12:15 PM,16:41,Sam Free Throw 2 of 2 (1 PTS),,,34 - 20,-14,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,207,6,1,2,12:15 PM,16:38,Black P.FOUL (P3.T2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,208,2,1,2,12:16 PM,16:34,,,MISS Lennox 5' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,209,4,0,2,12:16 PM,16:30,Sam REBOUND (Off:1 Def:2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,210,2,1,2,12:16 PM,16:16,MISS Webb 14' Jump Shot,,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,211,4,0,2,12:16 PM,16:15,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,212,6,3,2,12:16 PM,16:15,Askamp L.B.FOUL (P3.T3),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,213,8,0,2,12:16 PM,16:15,,,SUB: Paye FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,214,6,1,2,12:17 PM,15:56,Webb P.FOUL (P2.T4),,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,215,9,4,2,12:17 PM,15:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,217,3,11,2,12:20 PM,15:56,,,Smith Free Throw 1 of 2 (11 PTS),35 - 20,-15,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,218,8,0,2,12:20 PM,15:56,SUB: Colleton FOR Owens,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,219,3,12,2,12:20 PM,15:56,,,Smith Free Throw 2 of 2 (12 PTS),36 - 20,-16,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,220,2,5,2,12:20 PM,15:42,MISS Askamp Layup,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,221,4,0,2,12:20 PM,15:40,Black REBOUND (Off:1 Def:0),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,222,1,1,2,12:20 PM,15:34,Sam 3PT Jump Shot (4 PTS) (Black 1 AST),,,36 - 23,-13,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,223,2,1,2,12:21 PM,15:17,,,MISS Paye 3PT Jump Shot,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,224,4,0,2,12:21 PM,15:16,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,225,5,4,2,12:21 PM,14:55,Black Traveling Turnover (P1.T14),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,226,8,0,2,12:21 PM,14:55,,,SUB: Lloyd-Curry FOR Martin,,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,228,2,1,2,12:22 PM,14:38,,,MISS Smith 17' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,229,4,0,2,12:22 PM,14:36,Askamp REBOUND (Off:1 Def:5),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,230,2,1,2,12:22 PM,14:19,MISS Sam 3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,231,4,0,2,12:22 PM,14:17,,,Lloyd-Curry REBOUND (Off:0 Def:2),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,232,6,1,2,12:22 PM,14:12,Webb P.FOUL (P3.PN),,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,233,8,0,2,12:23 PM,14:12,,,SUB: Lennox FOR Paye,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,234,8,0,2,12:23 PM,14:12,SUB: Ford FOR Webb,,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,236,1,1,2,12:23 PM,14:03,,,Daley 3PT Jump Shot (7 PTS) (Smith 2 AST),39 - 23,-16,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,237,9,2,2,12:23 PM,13:57,SOL Timeout: Short (Full 1 Short 2),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,238,6,1,2,12:24 PM,13:52,,,Lennox P.FOUL (P2.T3),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,239,2,1,2,12:24 PM,13:44,MISS Black 14' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,240,4,0,2,12:25 PM,13:42,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,241,6,1,2,12:25 PM,13:33,,,Lennox P.FOUL (P3.T4),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,242,8,0,2,12:25 PM,13:33,,,SUB: Brumfield FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,243,6,1,2,12:26 PM,13:16,,,Smith P.FOUL (P1.PN),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,244,3,11,2,12:26 PM,13:16,MISS Sam Free Throw 1 of 2,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,245,4,1,2,12:26 PM,13:16,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,246,3,12,2,12:26 PM,13:16,MISS Sam Free Throw 2 of 2,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,247,4,0,2,12:26 PM,13:15,Askamp REBOUND (Off:2 Def:5),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,248,2,1,2,12:26 PM,13:06,MISS Colleton 17' Jump Shot,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,249,4,0,2,12:26 PM,13:05,,,Brumfield REBOUND (Off:0 Def:1),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,250,1,1,2,12:27 PM,12:45,,,Smith 3PT Jump Shot (15 PTS) (Dickerson 2 AST),42 - 23,-19,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,251,1,1,2,12:27 PM,12:21,Colleton 6' Jump Shot (10 PTS) (Black 2 AST),,,42 - 25,-17,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,252,9,4,2,12:28 PM,11:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,254,8,0,2,12:30 PM,11:56,SUB: Jones FOR Colleton,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,255,8,0,2,12:30 PM,11:56,SUB: Owens FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,256,1,5,2,12:30 PM,11:52,,,Dickerson Layup (4 PTS) (Smith 3 AST),44 - 25,-19,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,257,6,2,2,12:31 PM,11:25,,,Dickerson S.FOUL (P2.PN),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,258,3,11,2,12:31 PM,11:25,Jones Free Throw 1 of 2 (4 PTS),,,44 - 26,-18,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,259,3,12,2,12:31 PM,11:25,Jones Free Throw 2 of 2 (5 PTS),,,44 - 27,-17,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,260,2,1,2,12:32 PM,11:09,,,MISS Dickerson 14' Jump Shot,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,261,10,0,2,12:32 PM,11:06,Jump Ball Owens vs. Dickerson: Tip to Daley,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0
+1020000039,262,4,0,2,12:32 PM,11:06,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,263,2,1,2,12:32 PM,10:54,,,MISS Smith 6' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,264,4,0,2,12:32 PM,10:53,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,265,6,3,2,12:32 PM,10:53,,,Brumfield L.B.FOUL (P4.PN),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,266,6,1,2,12:33 PM,10:43,,,Daley P.FOUL (P2.PN),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,267,3,11,2,12:33 PM,10:43,MISS Ford Free Throw 1 of 2,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,268,4,1,2,12:33 PM,10:43,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,269,8,0,2,12:33 PM,10:43,,,SUB: Lennox FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,270,3,12,2,12:33 PM,10:43,Ford Free Throw 2 of 2 (1 PTS),,,44 - 28,-16,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,271,5,1,2,12:34 PM,10:41,Jones STEAL (1 STL),,Lloyd-Curry Bad Pass Turnover (P3.T10),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,272,6,4,2,12:34 PM,10:40,Jones OFF.Foul (P2),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,273,5,5,2,12:34 PM,10:40,Jones Foul Turnover (P1.T15),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,274,2,5,2,12:34 PM,10:29,,,MISS Daley Layup,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,275,4,0,2,12:34 PM,10:27,Ford REBOUND (Off:0 Def:1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,277,2,1,2,12:34 PM,10:20,MISS Black 18' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,278,4,0,2,12:34 PM,10:19,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,279,6,3,2,12:35 PM,10:19,Ford L.B.FOUL (P3.PN),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,280,2,1,2,12:35 PM,10:00,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,281,4,0,2,12:35 PM,9:58,Ford REBOUND (Off:0 Def:2),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,282,1,2,2,12:36 PM,9:37,Ford 5' Running Jump Shot (3 PTS),,,44 - 30,-14,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,284,5,1,2,12:36 PM,9:27,Black STEAL (1 STL),,Smith Bad Pass Turnover (P2.T11),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,285,6,1,2,12:36 PM,9:25,,,Dickerson P.FOUL (P3.PN),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,286,3,11,2,12:37 PM,9:25,Ford Free Throw 1 of 2 (4 PTS),,,44 - 31,-13,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,287,8,0,2,12:37 PM,9:25,,,SUB: Paye FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,288,3,12,2,12:37 PM,9:25,Ford Free Throw 2 of 2 (5 PTS),,,44 - 32,-12,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,289,6,1,2,12:38 PM,9:12,Ford P.FOUL (P4.PN),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,291,2,1,2,12:38 PM,9:05,,,MISS Smith 14' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,292,4,0,2,12:38 PM,9:04,Sam REBOUND (Off:1 Def:3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,293,1,1,2,12:38 PM,8:58,Ford 14' Jump Shot (7 PTS) (Sam 1 AST),,,44 - 34,-10,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,294,6,1,2,12:39 PM,8:36,Jones P.FOUL (P3.PN),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,295,3,11,2,12:39 PM,8:36,,,MISS Smith Free Throw 1 of 2,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,296,4,1,2,12:39 PM,8:36,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,297,3,12,2,12:39 PM,8:36,,,Smith Free Throw 2 of 2 (16 PTS),45 - 34,-11,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,298,2,1,2,12:39 PM,8:20,MISS Sam 16' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,299,4,0,2,12:40 PM,8:16,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,300,6,1,2,12:40 PM,8:16,,,Paye P.FOUL (P3.PN),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,301,3,11,2,12:40 PM,8:16,Owens Free Throw 1 of 2 (3 PTS),,,45 - 35,-10,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,302,3,12,2,12:40 PM,8:16,MISS Owens Free Throw 2 of 2,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,303,4,0,2,12:40 PM,8:15,,,Dickerson REBOUND (Off:1 Def:5),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,304,2,1,2,12:41 PM,8:04,,,MISS Paye 3PT Jump Shot,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,305,4,0,2,12:41 PM,8:03,Jones REBOUND (Off:0 Def:2),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,306,6,1,2,12:41 PM,8:03,,,Daley P.FOUL (P3.PN),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,307,3,11,2,12:41 PM,8:03,MISS Jones Free Throw 1 of 2,,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,308,4,1,2,12:41 PM,8:03,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,309,3,12,2,12:41 PM,8:03,Jones Free Throw 2 of 2 (6 PTS),,,45 - 36,-9,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,311,6,2,2,12:42 PM,7:35,Owens S.FOUL (P3.PN),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,312,9,4,2,12:42 PM,7:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,313,3,11,2,12:44 PM,7:35,,,MISS Lloyd-Curry Free Throw 1 of 2,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,314,4,1,2,12:44 PM,7:35,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,315,3,12,2,12:45 PM,7:35,,,Lloyd-Curry Free Throw 2 of 2 (5 PTS),46 - 36,-10,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,316,2,1,2,12:45 PM,7:19,MISS Jones 3PT Jump Shot,,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,317,4,0,2,12:45 PM,7:17,Black REBOUND (Off:2 Def:0),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,318,6,4,2,12:45 PM,7:12,Owens OFF.Foul (P4),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,319,5,5,2,12:45 PM,7:12,Owens Foul Turnover (P4.T16),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,320,6,2,2,12:46 PM,6:48,Ford S.FOUL (P5.PN),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,321,3,11,2,12:46 PM,6:48,,,Smith Free Throw 1 of 2 (17 PTS),47 - 36,-11,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,322,3,12,2,12:46 PM,6:48,,,MISS Smith Free Throw 2 of 2,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,323,4,0,2,12:47 PM,6:47,Owens REBOUND (Off:1 Def:2),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,324,6,4,2,12:47 PM,6:40,Black OFF.Foul (P4),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,325,5,5,2,12:47 PM,6:40,Black Foul Turnover (P2.T17),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,326,9,2,2,12:47 PM,6:40,SOL Timeout: Short (Full 1 Short 3),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,328,6,1,2,12:48 PM,6:22,Jones P.FOUL (P4.PN),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,329,3,11,2,12:49 PM,6:22,,,Daley Free Throw 1 of 2 (8 PTS),48 - 36,-12,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,330,3,12,2,12:49 PM,6:22,,,MISS Daley Free Throw 2 of 2,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,331,4,0,2,12:49 PM,6:21,Owens REBOUND (Off:1 Def:3),,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,332,2,1,2,12:49 PM,6:09,MISS Ford 17' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,333,4,0,2,12:49 PM,6:08,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,334,6,1,2,12:49 PM,6:08,,,Paye P.FOUL (P4.PN),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,335,3,11,2,12:49 PM,6:08,Ford Free Throw 1 of 2 (8 PTS),,,48 - 37,-11,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,336,8,0,2,12:50 PM,6:08,,,SUB: Lennox FOR Paye,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,337,3,12,2,12:50 PM,6:08,MISS Ford Free Throw 2 of 2,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,338,4,0,2,12:50 PM,6:05,Jones REBOUND (Off:1 Def:2),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,339,6,4,2,12:50 PM,5:59,Sam OFF.Foul (P2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,340,5,5,2,12:50 PM,5:59,Sam Foul Turnover (P4.T18),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,341,1,5,2,12:51 PM,5:44,,,Lloyd-Curry Layup (7 PTS),50 - 37,-13,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,342,1,6,2,12:51 PM,5:25,Black Driving Layup (5 PTS),,,50 - 39,-11,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,343,6,1,2,12:51 PM,5:08,Ford P.FOUL (P6.PN),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,344,8,0,2,12:52 PM,5:08,SUB: Colleton FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,345,8,0,2,12:52 PM,5:08,,,SUB: Martin FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,346,8,0,2,12:52 PM,5:08,,,SUB: Brumfield FOR Daley,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,347,3,11,2,12:52 PM,5:08,,,Smith Free Throw 1 of 2 (18 PTS),51 - 39,-12,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,348,3,12,2,12:52 PM,5:08,,,Smith Free Throw 2 of 2 (19 PTS),52 - 39,-13,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,349,5,1,2,12:53 PM,4:58,Owens Bad Pass Turnover (P5.T19),,Lennox STEAL (3 STL),,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,350,2,5,2,12:53 PM,4:52,,,MISS Lennox Layup,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,351,4,0,2,12:53 PM,4:51,,,Martin REBOUND (Off:1 Def:0),,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,352,6,1,2,12:53 PM,4:42,Colleton P.FOUL (P1.PN),,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,353,8,0,2,12:53 PM,4:42,SUB: Askamp FOR Owens,,,,,4,100560,Shantia Owens,1611661326.0,Miami,Sol,MIA,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,354,3,11,2,12:53 PM,4:42,,,Smith Free Throw 1 of 2 (20 PTS),53 - 39,-14,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,355,3,12,2,12:53 PM,4:42,,,Smith Free Throw 2 of 2 (21 PTS),54 - 39,-15,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,357,2,1,2,12:54 PM,4:23,MISS Colleton 10' Jump Shot,,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,358,4,0,2,12:54 PM,4:20,,,Lennox REBOUND (Off:2 Def:5),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,359,6,1,2,12:54 PM,4:14,Sam P.FOUL (P3.PN),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,361,3,11,2,12:54 PM,4:14,,,Dickerson Free Throw 1 of 2 (5 PTS),55 - 39,-16,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,362,8,0,2,12:55 PM,4:14,SUB: Webb FOR Jones,,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,363,8,0,2,12:55 PM,4:14,,,SUB: Stires FOR Smith,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,364,3,12,2,12:55 PM,4:14,,,Dickerson Free Throw 2 of 2 (6 PTS),56 - 39,-17,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,365,2,1,2,12:55 PM,4:05,MISS Black 3PT Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,366,4,0,2,12:55 PM,4:03,,,Martin REBOUND (Off:1 Def:1),,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,367,2,5,2,12:55 PM,3:55,,,MISS Lennox Layup,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,368,4,0,2,12:55 PM,3:53,Askamp REBOUND (Off:2 Def:6),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,369,1,5,2,12:55 PM,3:49,Sam Layup (6 PTS) (Black 3 AST),,,56 - 41,-15,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,370,5,2,2,12:55 PM,3:35,Sam STEAL (2 STL),,Dickerson Lost Ball Turnover (P2.T12),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,372,1,5,2,12:57 PM,3:32,Sam Layup (8 PTS),,,56 - 43,-13,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,373,9,2,2,12:57 PM,3:32,,,Lynx Timeout: Short (Reg.0 Short 3),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,375,8,0,2,12:57 PM,3:32,,,SUB: Smith FOR Stires,,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,374,6,1,2,12:57 PM,3:31,Colleton P.FOUL (P2.PN),,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,377,3,11,2,12:59 PM,3:31,,,MISS Brumfield Free Throw 1 of 2,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,378,4,1,2,12:59 PM,3:31,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,379,3,12,2,1:00 PM,3:31,,,MISS Brumfield Free Throw 2 of 2,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,380,4,0,2,1:00 PM,3:29,Sam REBOUND (Off:1 Def:4),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,381,1,1,2,1:00 PM,3:19,Sam 3PT Jump Shot (11 PTS),,,56 - 46,-10,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,382,1,1,2,1:01 PM,2:51,,,Smith 3PT Jump Shot (24 PTS) (Dickerson 3 AST),59 - 46,-13,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,384,2,1,2,1:01 PM,2:40,MISS Sam 3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,385,4,0,2,1:01 PM,2:38,,,Dickerson REBOUND (Off:1 Def:6),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,386,2,1,2,1:01 PM,2:21,,,MISS Martin 3PT Jump Shot,,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,387,4,0,2,1:01 PM,2:19,Webb REBOUND (Off:0 Def:3),,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,388,6,2,2,1:01 PM,2:17,,,Smith S.FOUL (P2.PN),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,389,8,0,2,1:01 PM,2:17,SUB: Flores FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,390,8,0,2,1:01 PM,2:17,,,SUB: Daley FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,391,8,0,2,1:01 PM,2:17,,,SUB: Lloyd-Curry FOR Martin,,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,392,3,11,2,1:02 PM,2:17,Sam Free Throw 1 of 2 (12 PTS),,,59 - 47,-12,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,393,3,12,2,1:02 PM,2:17,Sam Free Throw 2 of 2 (13 PTS),,,59 - 48,-11,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,394,2,1,2,1:02 PM,1:49,,,MISS Dickerson 8' Jump Shot,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,395,4,0,2,1:03 PM,1:48,,,Dickerson REBOUND (Off:2 Def:6),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,396,2,5,2,1:03 PM,1:47,,,MISS Dickerson Layup,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,397,4,0,2,1:03 PM,1:46,Askamp REBOUND (Off:2 Def:7),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,398,6,1,2,1:03 PM,1:45,,,Dickerson P.FOUL (P4.PN),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,399,9,1,2,1:03 PM,1:45,SOL Timeout: Regular (Full 2 Short 3),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,401,8,0,2,1:05 PM,1:45,,,SUB: Paye FOR Dickerson,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,402,3,11,2,1:05 PM,1:45,MISS Askamp Free Throw 1 of 2,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,403,4,1,2,1:05 PM,1:45,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,404,3,12,2,1:05 PM,1:45,Askamp Free Throw 2 of 2 (1 PTS),,,59 - 49,-10,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,405,5,10,2,1:06 PM,1:35,,,Lynx Turnover: 8 Second Violation (T#13),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,406,8,0,2,1:06 PM,1:35,SUB: Black FOR Flores,,,,,4,100559,Milena Flores,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,407,2,1,2,1:06 PM,1:23,MISS Black 3PT Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,408,4,0,2,1:06 PM,1:21,Askamp REBOUND (Off:3 Def:7),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,409,2,5,2,1:07 PM,1:19,MISS Askamp Layup,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,410,4,0,2,1:07 PM,1:18,,,Lennox REBOUND (Off:2 Def:6),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,411,6,1,2,1:07 PM,1:17,Sam P.FOUL (P4.PN),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,413,3,11,2,1:07 PM,1:17,,,MISS Lennox Free Throw 1 of 2,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,414,4,1,2,1:07 PM,1:17,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,416,8,0,2,1:07 PM,1:17,SUB: Jones FOR Webb,,,,,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,417,3,12,2,1:07 PM,1:17,,,Lennox Free Throw 2 of 2 (10 PTS),60 - 49,-11,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,418,1,2,2,1:08 PM,1:04,Jones 9' Running Jump Shot (8 PTS),,,60 - 51,-9,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,419,5,1,2,1:08 PM,0:55,Jones STEAL (2 STL),,Lennox Bad Pass Turnover (P3.T14),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,420,6,4,2,1:08 PM,0:48,Askamp OFF.Foul (P4),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,421,5,5,2,1:08 PM,0:48,Askamp Foul Turnover (P4.T20),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,423,8,0,2,1:08 PM,0:48,SUB: Webb FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100035,Umeki Webb,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020000039,424,6,1,2,1:09 PM,0:42,Sam P.FOUL (P5.PN),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,426,3,11,2,1:09 PM,0:42,,,Smith Free Throw 1 of 2 (25 PTS),61 - 51,-10,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,427,8,0,2,1:09 PM,0:42,,,SUB: Dickerson FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000039,428,3,12,2,1:09 PM,0:42,,,Smith Free Throw 2 of 2 (26 PTS),62 - 51,-11,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,429,1,1,2,1:09 PM,0:32,Sam 18' Jump Shot (15 PTS),,,62 - 53,-9,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,430,6,1,2,1:10 PM,0:19,Black P.FOUL (P5.PN),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,431,3,11,2,1:10 PM,0:19,,,Smith Free Throw 1 of 2 (27 PTS),63 - 53,-10,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,432,3,12,2,1:10 PM,0:19,,,Smith Free Throw 2 of 2 (28 PTS),64 - 53,-11,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,433,1,5,2,1:11 PM,0:11,Jones Layup (10 PTS),,,64 - 55,-9,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,434,6,1,2,1:11 PM,0:10,Jones P.FOUL (P5.PN),,,,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020000039,435,3,11,2,1:11 PM,0:10,,,Lennox Free Throw 1 of 2 (11 PTS),65 - 55,-10,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,436,3,12,2,1:12 PM,0:10,,,Lennox Free Throw 2 of 2 (12 PTS),66 - 55,-11,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000039,437,2,1,2,1:12 PM,0:01,MISS Jones 7' Jump Shot,,Paye BLOCK (1 BLK),,,4,100558,Jameka Jones,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0
+1020000039,438,4,0,2,1:12 PM,0:00,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000039,439,13,0,2,1:12 PM,0:00,,End of 2nd Half (1:12 PM EST),,66 - 55,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

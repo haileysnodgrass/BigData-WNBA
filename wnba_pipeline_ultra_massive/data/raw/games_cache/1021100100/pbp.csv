@@ -1,0 +1,390 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021100100,0,12,0,1,8:10 PM,10:00,,Start of 1st Period (8:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,1,10,0,1,8:10 PM,10:00,Jump Ball Cambage vs. Fowles: Tip to Young,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0
+1021100100,2,2,5,1,8:10 PM,9:38,,,MISS Fowles 3' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,3,4,0,1,8:11 PM,9:34,Lacy REBOUND (Off:0 Def:1),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,4,5,1,1,8:11 PM,9:23,Cambage Bad Pass Turnover (P1.T1),,Snow STEAL (1 STL),,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,5,2,1,1,8:11 PM,9:12,,,MISS Fowles 11' Jump Shot,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,6,4,0,1,8:11 PM,9:10,Swoopes REBOUND (Off:0 Def:1),,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,7,1,1,1,8:11 PM,8:52,Holt 11' Jump Shot (2 PTS) (Cambage 1 AST),,,0 - 2,2,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,8,2,1,1,8:11 PM,8:37,,,MISS Prince 12' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,9,4,0,1,8:12 PM,8:34,Cambage REBOUND (Off:0 Def:1),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,10,2,1,1,8:12 PM,8:21,MISS Lacy 4' Jump Shot,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,11,4,0,1,8:12 PM,8:16,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,12,1,5,1,8:12 PM,8:10,,,Vandersloot 3' Layup (2 PTS),2 - 2,TIE,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,13,2,1,1,8:12 PM,7:55,MISS Holt 13' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,14,4,0,1,8:12 PM,7:53,,,Snow REBOUND (Off:0 Def:1),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,15,2,1,1,8:12 PM,7:47,,,MISS Young 11' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,16,4,0,1,8:12 PM,7:45,Latta REBOUND (Off:0 Def:1),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,17,1,5,1,8:12 PM,7:40,Holt 3' Layup (4 PTS) (Cambage 2 AST),,,2 - 4,2,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,18,1,1,1,8:13 PM,7:26,,,Vandersloot  3PT Jump Shot (5 PTS),5 - 4,-1,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,19,1,1,1,8:13 PM,7:02,Cambage 11' Jump Shot (2 PTS) (Swoopes 1 AST),,,5 - 6,1,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,20,6,2,1,8:13 PM,6:54,Cambage S.FOUL (P1.T1),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,21,8,0,1,8:14 PM,6:54,SUB: Jackson FOR Cambage,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,22,3,11,1,8:14 PM,6:54,,,Fowles Free Throw 1 of 2 (1 PTS),6 - 6,TIE,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,24,8,0,1,8:14 PM,6:54,SUB: Olajuwon FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,25,3,12,1,8:14 PM,6:54,,,Fowles Free Throw 2 of 2 (2 PTS),7 - 6,-1,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,27,5,40,1,8:15 PM,6:45,Latta Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,28,2,1,1,8:15 PM,6:31,,,MISS Young 8' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,29,4,0,1,8:15 PM,6:29,,,Fowles REBOUND (Off:1 Def:0),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,30,2,1,1,8:15 PM,6:26,Latta BLOCK (1 BLK),,MISS Fowles 4' Jump Shot,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0
+1021100100,31,4,0,1,8:15 PM,6:23,Latta REBOUND (Off:0 Def:2),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,32,5,4,1,8:15 PM,6:23,Latta Traveling Turnover (P2.T3),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,33,2,1,1,8:16 PM,6:06,,,MISS Snow 6' Jump Shot,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,34,4,0,1,8:16 PM,6:04,Jackson REBOUND (Off:0 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,35,1,1,1,8:16 PM,5:51,Olajuwon 15' Jump Shot (2 PTS) (Holt 1 AST),,,7 - 8,1,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,36,2,1,1,8:16 PM,5:35,,,MISS Prince 19' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,37,4,0,1,8:16 PM,5:33,,,Young REBOUND (Off:1 Def:0),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,38,6,2,1,8:16 PM,5:32,Jackson S.FOUL (P1.T2),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,39,8,0,1,8:16 PM,5:32,SUB: Pedersen FOR Holt,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,40,8,0,1,8:17 PM,5:32,SUB: Riley FOR Latta,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,41,3,11,1,8:17 PM,5:32,,,Young Free Throw 1 of 2 (1 PTS),8 - 8,TIE,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,43,3,12,1,8:17 PM,5:32,,,Young Free Throw 2 of 2 (2 PTS),9 - 8,-1,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,45,5,1,1,8:17 PM,5:07,Riley Bad Pass Turnover (P1.T4),,Fowles STEAL (1 STL),,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,46,1,1,1,8:17 PM,5:01,,,Young 8' Jump Shot (4 PTS) (Vandersloot 1 AST),11 - 8,-3,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,47,1,1,1,8:18 PM,4:43,Swoopes 16' Jump Shot (2 PTS),,,11 - 10,-1,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,48,1,1,1,8:18 PM,4:22,,,Prince 14' Jump Shot (2 PTS),13 - 10,-3,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,49,2,1,1,8:19 PM,3:55,MISS Pedersen  3PT Jump Shot,,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,50,4,0,1,8:19 PM,3:55,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,51,5,11,1,8:19 PM,3:55,SHOCK Turnover: Shot Clock (T#5),,,,,2,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021100100,52,9,4,1,8:20 PM,3:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,54,8,0,1,8:21 PM,3:55,SUB: Lennox FOR Swoopes,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,55,8,0,1,8:21 PM,3:55,,,SUB: Murphy FOR Prince,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,56,1,1,1,8:21 PM,3:43,,,Fowles 9' Jump Shot (4 PTS) (Snow 1 AST),15 - 10,-5,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,57,2,1,1,8:22 PM,3:17,MISS Olajuwon 5' Jump Shot,,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,59,4,0,1,8:22 PM,3:13,Pedersen REBOUND (Off:1 Def:0),,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,58,1,5,1,8:22 PM,3:13,Pedersen 3' Layup (2 PTS),,,15 - 12,-3,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,60,2,1,1,8:22 PM,2:55,,,MISS Vandersloot 14' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,61,4,0,1,8:22 PM,2:53,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,62,8,0,1,8:23 PM,2:53,SUB: Lacy FOR Jackson,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,63,2,1,1,8:23 PM,2:36,MISS Olajuwon 7' Jump Shot,,Fowles BLOCK (1 BLK),,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021100100,64,4,0,1,8:23 PM,2:33,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,65,2,1,1,8:23 PM,2:30,,,MISS Vandersloot 16' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,66,4,0,1,8:23 PM,2:27,Lennox REBOUND (Off:0 Def:1),,,,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,67,5,1,1,8:23 PM,2:24,Lennox Bad Pass Turnover (P1.T6),,Young STEAL (1 STL),,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,68,5,1,1,8:24 PM,2:20,,,Young Bad Pass Turnover (P1.T1),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,69,8,0,1,8:24 PM,2:20,,,SUB: Canty FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,70,8,0,1,8:24 PM,2:20,,,SUB: Prince FOR Snow,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,71,8,0,1,8:24 PM,2:20,,,SUB: Wisdom-Hylton FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,201918,Lindsay Wisdom-Hylton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,72,6,2,1,8:24 PM,2:10,,,Canty S.FOUL (P1.T1),,,5,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,73,3,11,1,8:25 PM,2:10,Lennox Free Throw 1 of 2 (1 PTS),,,15 - 13,-2,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,75,3,12,1,8:25 PM,2:10,MISS Lennox Free Throw 2 of 2,,,,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,77,4,0,1,8:25 PM,2:09,,,Fowles REBOUND (Off:1 Def:1),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,78,10,0,1,8:25 PM,2:08,Jump Ball Olajuwon vs. Fowles: Tip to Prince,,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0
+1021100100,79,6,1,1,8:26 PM,1:50,Riley P.FOUL (P1.T3),,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,80,8,0,1,8:26 PM,1:50,SUB: Cambage FOR Olajuwon,,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,83,6,2,1,8:27 PM,1:36,Pedersen S.FOUL (P1.PN),,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,84,3,11,1,8:27 PM,1:36,,,MISS Fowles Free Throw 1 of 2,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,85,4,1,1,8:27 PM,1:36,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,86,8,0,1,8:27 PM,1:36,SUB: Jackson FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,87,3,12,1,8:27 PM,1:36,,,Fowles Free Throw 2 of 2 (5 PTS),16 - 13,-3,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,89,2,1,1,8:27 PM,1:13,MISS Lennox 20' Jump Shot,,,,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,90,4,0,1,8:27 PM,1:10,,,Fowles REBOUND (Off:1 Def:2),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,91,5,40,1,8:28 PM,1:09,,,Fowles Out of Bounds Lost Ball Turnover (P1.T2),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,92,8,0,1,8:28 PM,1:09,,,SUB: Swords FOR Fowles,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,93,2,1,1,8:28 PM,0:57,MISS Riley 4' Jump Shot,,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,94,4,0,1,8:28 PM,0:55,Cambage REBOUND (Off:1 Def:1),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,95,2,1,1,8:28 PM,0:53,MISS Cambage 5' Jump Shot,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,96,4,0,1,8:28 PM,0:51,Jackson REBOUND (Off:1 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,97,1,5,1,8:28 PM,0:48,Cambage 3' Layup (4 PTS) (Riley 1 AST),,,16 - 15,-1,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,98,6,1,1,8:28 PM,0:43,Riley P.FOUL (P2.PN),,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,5,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,99,3,11,1,8:29 PM,0:43,,,MISS Canty Free Throw 1 of 2,,,5,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,100,4,1,1,8:29 PM,0:43,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,101,3,12,1,8:29 PM,0:43,,,Canty Free Throw 2 of 2 (1 PTS),17 - 15,-2,5,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,103,2,1,1,8:29 PM,0:31,MISS Lennox  3PT Jump Shot,,,,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,104,4,0,1,8:29 PM,0:30,Cambage REBOUND (Off:2 Def:1),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,105,6,1,1,8:29 PM,0:30,,,Murphy P.FOUL (P1.T2),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,106,8,0,1,8:29 PM,0:30,,,SUB: Snow FOR Canty,,,5,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,107,8,0,1,8:30 PM,0:30,,,SUB: Thorn FOR Wisdom-Hylton,,,5,201918,Lindsay Wisdom-Hylton,1611661329.0,Chicago,Sky,CHI,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,108,2,5,1,8:30 PM,0:18,MISS Jackson 3' Layup,,Snow BLOCK (1 BLK),,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0
+1021100100,109,4,0,1,8:30 PM,0:16,,,Snow REBOUND (Off:0 Def:2),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,110,5,39,1,8:30 PM,0:16,,,Snow Step Out of Bounds Turnover (P1.T3),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,111,2,1,1,8:30 PM,0:00,MISS Riley  3PT Jump Shot,,Thorn BLOCK (1 BLK),,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0
+1021100100,112,4,0,1,8:31 PM,0:00,,,Murphy REBOUND (Off:0 Def:1),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,113,6,1,1,8:31 PM,0:00,Riley P.FOUL (P3.PN),,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,114,3,11,1,8:31 PM,0:00,,,Murphy Free Throw 1 of 2 (1 PTS),18 - 15,-3,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,116,8,0,1,8:31 PM,0:00,SUB: Latta FOR Riley,,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,117,3,12,1,8:31 PM,0:00,,,MISS Murphy Free Throw 2 of 2,,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,119,4,0,1,8:31 PM,0:00,Cambage REBOUND (Off:2 Def:2),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,120,13,0,1,8:31 PM,0:00,,End of 1st Period (8:31 PM EST),,18 - 15,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,123,12,0,2,8:35 PM,10:00,,Start of 2nd Period (8:35 PM EST),,18 - 15,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,124,6,2,2,8:35 PM,9:40,,,Fowles S.FOUL (P1.T1),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,125,3,11,2,8:36 PM,9:40,MISS Cambage Free Throw 1 of 2,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,126,4,1,2,8:36 PM,9:40,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,127,3,12,2,8:36 PM,9:40,MISS Cambage Free Throw 2 of 2,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,129,4,0,2,8:36 PM,9:39,,,Fowles REBOUND (Off:1 Def:3),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,130,1,1,2,8:36 PM,9:21,,,Thorn 20' Jump Shot (2 PTS) (Snow 2 AST),20 - 15,-5,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,131,6,26,2,8:37 PM,9:01,Jackson Offensive Charge Foul (P2.T1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,132,5,5,2,8:37 PM,9:01,Jackson Foul Turnover (P1.T7),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,133,8,0,2,8:37 PM,9:01,SUB: Olajuwon FOR Cambage,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,134,8,0,2,8:37 PM,9:01,SUB: Holt FOR Pedersen,,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,135,2,1,2,8:37 PM,8:43,,,MISS Prince 18' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,136,4,0,2,8:37 PM,8:41,Swoopes REBOUND (Off:0 Def:2),,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,137,1,1,2,8:38 PM,8:30,Latta 16' Jump Shot (2 PTS),,,20 - 17,-3,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,138,8,0,2,8:38 PM,8:15,,,SUB: Vandersloot FOR Thorn,,,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,139,1,1,2,8:38 PM,8:07,,,Prince 18' Jump Shot (4 PTS),22 - 17,-5,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,140,1,5,2,8:39 PM,7:49,Jackson 2' Layup (2 PTS) (Holt 2 AST),,,22 - 19,-3,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,141,6,4,2,8:39 PM,7:33,,,Fowles OFF.Foul (P2),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,142,5,5,2,8:39 PM,7:33,,,Fowles Foul Turnover (P2.T4),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,143,1,1,2,8:39 PM,7:19,Olajuwon 15' Jump Shot (4 PTS) (Holt 3 AST),,,22 - 21,-1,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,144,1,1,2,8:40 PM,7:00,,,Vandersloot 9' Jump Shot (7 PTS) (Prince 1 AST),24 - 21,-3,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,145,6,1,2,8:40 PM,6:45,,,Vandersloot P.FOUL (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,146,8,0,2,8:40 PM,6:45,SUB: Pedersen FOR Swoopes,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,147,8,0,2,8:40 PM,6:44,,,SUB: Swords FOR Kraayeveld,,,5,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,148,8,0,2,8:40 PM,6:42,,,SUB: Young FOR Fowles,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,149,2,1,2,8:40 PM,6:36,MISS Holt 11' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,150,4,0,2,8:41 PM,6:35,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,151,1,1,2,8:41 PM,6:28,Latta 16' Jump Shot (4 PTS) (Holt 4 AST),,,24 - 23,-1,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,152,1,1,2,8:41 PM,6:13,,,Snow 16' Jump Shot (2 PTS),26 - 23,-3,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,153,1,1,2,8:41 PM,5:57,Latta  3PT Jump Shot (7 PTS) (Olajuwon 1 AST),,,26 - 26,TIE,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,154,6,2,2,8:41 PM,5:57,,,Vandersloot S.FOUL (P2.T3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,155,8,0,2,8:42 PM,5:57,,,SUB: Murphy FOR Prince,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,156,9,1,2,8:42 PM,5:57,SHOCK Timeout: Regular (Full 1 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,158,3,10,2,8:45 PM,5:57,Latta Free Throw 1 of 1 (8 PTS),,,26 - 27,1,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,160,2,1,2,8:45 PM,5:43,,,MISS Snow 12' Jump Shot,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,161,4,0,2,8:45 PM,5:41,,,Murphy REBOUND (Off:1 Def:1),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,162,5,8,2,8:46 PM,5:35,,,Snow 3 Second Violation Turnover (P2.T5),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,163,2,1,2,8:46 PM,5:19,MISS Latta 19' Jump Shot,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,164,4,0,2,8:46 PM,5:16,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,165,1,1,2,8:46 PM,5:06,,,Snow 18' Jump Shot (4 PTS) (Vandersloot 2 AST),28 - 27,-1,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,166,5,1,2,8:47 PM,4:45,Latta Bad Pass Turnover (P3.T8),,Young STEAL (2 STL),,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,167,1,5,2,8:47 PM,4:41,,,Young 2' Layup (6 PTS) (Swords 1 AST),30 - 27,-3,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,168,2,1,2,8:47 PM,4:15,MISS Holt 19' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,169,4,0,2,8:47 PM,4:15,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,170,5,11,2,8:47 PM,4:15,SHOCK Turnover: Shot Clock (T#9),,,,,2,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021100100,171,8,0,2,8:47 PM,4:15,SUB: Lacy FOR Jackson,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,172,8,0,2,8:47 PM,4:15,,,SUB: Prince FOR Murphy,,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,174,2,1,2,8:48 PM,4:07,,,MISS Prince 4' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,175,4,0,2,8:48 PM,4:04,,,Prince REBOUND (Off:1 Def:0),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,176,2,1,2,8:48 PM,4:03,,,MISS Prince 4' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,177,4,0,2,8:48 PM,4:01,Lacy REBOUND (Off:0 Def:2),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,178,2,1,2,8:48 PM,3:53,MISS Lacy  3PT Jump Shot,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,179,4,0,2,8:48 PM,3:51,,,Snow REBOUND (Off:0 Def:3),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,180,2,1,2,8:48 PM,3:44,,,MISS Swords 5' Jump Shot,,,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,181,4,0,2,8:48 PM,3:41,Olajuwon REBOUND (Off:0 Def:1),,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,182,1,1,2,8:48 PM,3:35,Holt 15' Jump Shot (6 PTS) (Latta 1 AST),,,30 - 29,-1,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,183,1,5,2,8:48 PM,3:27,,,Swords 2' Layup (2 PTS) (Vandersloot 3 AST),32 - 29,-3,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,184,2,1,2,8:49 PM,3:00,MISS Latta 19' Jump Shot,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,185,4,0,2,8:49 PM,2:57,,,Snow REBOUND (Off:0 Def:4),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,186,2,1,2,8:49 PM,2:51,,,MISS Young 4' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,187,4,0,2,8:49 PM,2:50,,,Swords REBOUND (Off:1 Def:0),,,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,188,6,2,2,8:49 PM,2:50,Olajuwon S.FOUL (P1.T2),,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,189,9,1,2,8:49 PM,2:50,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,191,8,0,2,8:52 PM,2:50,SUB: Swoopes FOR Olajuwon,,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,192,8,0,2,8:52 PM,2:50,SUB: Cambage FOR Pedersen,,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,193,3,11,2,8:52 PM,2:50,,,Swords Free Throw 1 of 2 (3 PTS),33 - 29,-4,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,195,3,12,2,8:52 PM,2:50,,,Swords Free Throw 2 of 2 (4 PTS),34 - 29,-5,5,202670,Carolyn Swords,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,197,2,1,2,8:53 PM,2:32,MISS Swoopes 8' Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,198,4,0,2,8:53 PM,2:31,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,199,5,1,2,8:53 PM,2:14,Lacy STEAL (1 STL),,Snow Bad Pass Turnover (P3.T6),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,200,5,4,2,8:54 PM,1:59,Lacy Traveling Turnover (P1.T10),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,201,2,1,2,8:54 PM,1:47,,,MISS Prince  3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,202,4,0,2,8:54 PM,1:43,Cambage REBOUND (Off:2 Def:3),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,203,1,5,2,8:54 PM,1:39,Latta 3' Layup (10 PTS),,,34 - 31,-3,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,204,5,1,2,8:54 PM,1:25,,,Snow Bad Pass Turnover (P4.T7),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,205,5,1,2,8:55 PM,1:15,Swoopes Bad Pass Turnover (P1.T11),,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,206,8,0,2,8:55 PM,1:15,,,SUB: Thorn FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,207,1,1,2,8:55 PM,0:54,,,Thorn  3PT Jump Shot (5 PTS) (Snow 3 AST),37 - 31,-6,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,208,9,1,2,8:56 PM,0:52,SHOCK Timeout: Regular (Full 2 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,210,8,0,2,8:57 PM,0:52,SUB: Jackson FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,211,2,1,2,8:58 PM,0:41,MISS Cambage 5' Jump Shot,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,212,4,0,2,8:58 PM,0:38,Jackson REBOUND (Off:2 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,213,2,1,2,8:58 PM,0:33,MISS Holt 4' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,214,4,0,2,8:58 PM,0:32,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,215,10,0,2,8:58 PM,0:32,Jump Ball Cambage vs. Snow: Tip to Latta,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0
+1021100100,216,6,2,2,8:59 PM,0:14,,,Prince S.FOUL (P1.T4),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,217,3,11,2,8:59 PM,0:14,Cambage Free Throw 1 of 2 (5 PTS),,,37 - 32,-5,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,219,3,12,2,8:59 PM,0:14,MISS Cambage Free Throw 2 of 2,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,221,4,0,2,8:59 PM,0:13,,,Snow REBOUND (Off:0 Def:5),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,222,1,1,2,9:00 PM,0:02,,,Prince 10' Jump Shot (6 PTS),39 - 32,-7,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,223,2,1,2,9:00 PM,0:00,MISS Latta 60' 3PT Jump Shot,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,224,4,0,2,9:00 PM,0:00,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,225,13,0,2,9:00 PM,0:00,,End of 2nd Period (9:00 PM EST),,39 - 32,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,227,12,0,3,9:16 PM,10:00,,Start of 3rd Period (9:16 PM EST),,39 - 32,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,228,2,1,3,9:17 PM,9:36,MISS Holt  3PT Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,229,4,0,3,9:17 PM,9:33,Jackson REBOUND (Off:3 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,230,2,5,3,9:17 PM,9:32,MISS Jackson 3' Layup,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,231,4,0,3,9:17 PM,9:29,Jackson REBOUND (Off:4 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,232,2,5,3,9:17 PM,9:27,MISS Jackson 3' Layup,,Fowles BLOCK (2 BLK),,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021100100,234,4,0,3,9:17 PM,9:23,Jackson REBOUND (Off:5 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,233,1,5,3,9:17 PM,9:23,Jackson 3' Layup (4 PTS),,,39 - 34,-5,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,235,2,1,3,9:17 PM,9:16,,,MISS Prince 6' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,236,4,0,3,9:17 PM,9:13,Cambage REBOUND (Off:2 Def:4),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,237,1,5,3,9:17 PM,9:09,Holt 3' Layup (8 PTS) (Latta 2 AST),,,39 - 36,-3,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,238,1,5,3,9:18 PM,8:45,,,Prince 3' Layup (8 PTS),41 - 36,-5,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,239,6,2,3,9:18 PM,8:45,Cambage S.FOUL (P2.T1),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,240,3,10,3,9:18 PM,8:45,,,Prince Free Throw 1 of 1 (9 PTS),42 - 36,-6,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,242,2,1,3,9:19 PM,8:23,MISS Cambage 15' Jump Shot,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,243,4,0,3,9:19 PM,8:21,Jackson REBOUND (Off:6 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,244,2,1,3,9:19 PM,8:06,MISS Swoopes  3PT Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,245,4,0,3,9:19 PM,8:04,Jackson REBOUND (Off:7 Def:1),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,246,2,1,3,9:19 PM,8:01,MISS Holt 4' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,247,4,0,3,9:19 PM,7:59,,,Snow REBOUND (Off:0 Def:6),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,248,1,5,3,9:20 PM,7:46,,,Fowles 3' Layup (7 PTS) (Vandersloot 4 AST),44 - 36,-8,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,249,1,1,3,9:20 PM,7:24,Cambage 16' Jump Shot (7 PTS) (Latta 3 AST),,,44 - 38,-6,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,250,2,1,3,9:20 PM,6:58,,,MISS Young  3PT Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,251,4,0,3,9:20 PM,6:53,Holt REBOUND (Off:0 Def:1),,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,252,2,1,3,9:20 PM,6:49,MISS Jackson 4' Jump Shot,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,253,4,0,3,9:21 PM,6:46,,,Fowles REBOUND (Off:1 Def:4),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,254,2,1,3,9:21 PM,6:38,,,MISS Prince 14' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,255,4,0,3,9:21 PM,6:36,Jackson REBOUND (Off:7 Def:2),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,256,5,1,3,9:21 PM,6:29,Latta Bad Pass Turnover (P4.T12),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,257,8,0,3,9:21 PM,6:29,SUB: Olajuwon FOR Cambage,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,258,8,0,3,9:21 PM,6:29,SUB: Pedersen FOR Swoopes,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,259,2,1,3,9:22 PM,6:07,,,MISS Prince  3PT Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,260,4,0,3,9:22 PM,6:07,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,261,6,3,3,9:22 PM,6:07,,,Young L.B.FOUL (P1.T1),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,262,8,0,3,9:22 PM,5:54,,,SUB: Murphy FOR Prince,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,263,5,1,3,9:22 PM,5:53,Latta Bad Pass Turnover (P5.T13),,Young STEAL (3 STL),,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,264,2,5,3,9:22 PM,5:50,,,MISS Fowles 3' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,265,4,0,3,9:23 PM,5:47,,,Murphy REBOUND (Off:2 Def:1),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,266,2,1,3,9:23 PM,5:39,,,MISS Murphy 19' Jump Shot,,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,267,4,0,3,9:23 PM,5:36,Pedersen REBOUND (Off:1 Def:1),,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,268,1,1,3,9:23 PM,5:21,Latta  3PT Jump Shot (13 PTS) (Holt 5 AST),,,44 - 41,-3,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,269,2,1,3,9:23 PM,5:07,,,MISS Young 10' Jump Shot,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,270,4,0,3,9:23 PM,5:04,Jackson REBOUND (Off:7 Def:3),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,271,1,1,3,9:24 PM,4:43,Latta  3PT Jump Shot (16 PTS) (Jackson 1 AST),,,44 - 44,TIE,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,272,9,1,3,9:24 PM,4:42,,,Sky Timeout: Regular (Reg.2 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,274,8,0,3,9:26 PM,4:42,,,SUB: Thorn FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,275,8,0,3,9:26 PM,4:42,,,SUB: Prince FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,276,8,0,3,9:27 PM,4:42,SUB: Riley FOR Holt,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,277,5,4,3,9:27 PM,4:30,,,Fowles Traveling Turnover (P3.T8),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,278,1,5,3,9:27 PM,4:20,Jackson 2' Layup (6 PTS) (Riley 2 AST),,,44 - 46,2,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,279,2,5,3,9:28 PM,3:57,,,MISS Fowles 2' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,280,4,0,3,9:28 PM,3:54,,,Fowles REBOUND (Off:2 Def:4),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,281,5,1,3,9:28 PM,3:54,,,Fowles Bad Pass Turnover (P4.T9),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,282,2,5,3,9:28 PM,3:32,MISS Olajuwon 3' Layup,,Snow BLOCK (2 BLK),,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0
+1021100100,283,4,0,3,9:28 PM,3:32,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,284,5,1,3,9:29 PM,3:18,Riley STEAL (1 STL),,Thorn Bad Pass Turnover (P1.T10),,,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,285,6,2,3,9:29 PM,3:16,,,Prince S.FOUL (P2.T2),,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,286,3,11,3,9:29 PM,3:16,MISS Jackson Free Throw 1 of 2,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,287,4,1,3,9:29 PM,3:16,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,288,3,12,3,9:29 PM,3:16,Jackson Free Throw 2 of 2 (7 PTS),,,44 - 47,3,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,290,1,1,3,9:30 PM,3:02,,,Prince 14' Jump Shot (11 PTS),46 - 47,1,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,291,2,1,3,9:30 PM,2:49,MISS Latta  3PT Jump Shot,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,292,4,0,3,9:30 PM,2:47,,,Fowles REBOUND (Off:2 Def:5),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,293,2,1,3,9:30 PM,2:38,,,MISS Snow 15' Jump Shot,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,294,4,0,3,9:30 PM,2:34,Jackson REBOUND (Off:7 Def:4),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,295,2,1,3,9:30 PM,2:20,MISS Riley 17' Jump Shot,,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,296,4,0,3,9:30 PM,2:17,,,Fowles REBOUND (Off:2 Def:6),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,297,5,1,3,9:30 PM,2:13,Latta STEAL (1 STL),,Thorn Bad Pass Turnover (P2.T11),,,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,298,5,1,3,9:31 PM,2:06,Riley Bad Pass Turnover (P2.T14),,Snow STEAL (2 STL),,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,299,2,1,3,9:31 PM,1:56,,,MISS Thorn  3PT Jump Shot,,,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,300,4,0,3,9:31 PM,1:53,Latta REBOUND (Off:0 Def:3),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,301,2,1,3,9:31 PM,1:29,MISS Riley  3PT Jump Shot,,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,302,4,0,3,9:31 PM,1:28,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,303,8,0,3,9:31 PM,1:28,SUB: Lennox FOR Latta,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,304,8,0,3,9:32 PM,1:28,,,SUB: Vandersloot FOR Snow,,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,305,8,0,3,9:32 PM,1:28,,,SUB: Wisdom-Hylton FOR Thorn,,,5,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,201918,Lindsay Wisdom-Hylton,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,306,6,1,3,9:32 PM,1:16,Lennox P.FOUL (P1.T2),,,,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,307,8,0,3,9:32 PM,1:16,SUB: Cambage FOR Olajuwon,,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,308,2,1,3,9:32 PM,1:09,,,MISS Prince 10' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,309,4,0,3,9:32 PM,1:07,Cambage REBOUND (Off:2 Def:5),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,310,2,1,3,9:33 PM,0:45,MISS Cambage 9' Jump Shot,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,311,4,0,3,9:33 PM,0:45,Jackson REBOUND (Off:8 Def:4),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,312,6,1,3,9:33 PM,0:45,,,Wisdom-Hylton P.FOUL (P1.T3),,,5,201918,Lindsay Wisdom-Hylton,1611661329.0,Chicago,Sky,CHI,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,313,3,11,3,9:33 PM,0:45,Jackson Free Throw 1 of 2 (8 PTS),,,46 - 48,2,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,315,3,12,3,9:33 PM,0:45,MISS Jackson Free Throw 2 of 2,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,317,4,0,3,9:33 PM,0:44,,,Vandersloot REBOUND (Off:0 Def:4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,318,2,1,3,9:34 PM,0:36,,,MISS Fowles 11' Jump Shot,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,319,4,0,3,9:34 PM,0:34,Jackson REBOUND (Off:8 Def:5),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,320,2,1,3,9:34 PM,0:11,MISS Cambage 18' Jump Shot,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,321,4,0,3,9:34 PM,0:11,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,322,5,1,3,9:35 PM,0:05,Lennox Bad Pass Turnover (P2.T15),,Prince STEAL (1 STL),,,4,100484,Betty Lennox,1611661321.0,Tulsa,Shock,TUL,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,323,2,5,3,9:35 PM,0:00,,,MISS Murphy 3' Layup,,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,324,4,0,3,9:35 PM,0:00,Pedersen REBOUND (Off:1 Def:2),,,,,4,202653,Kayla Pedersen,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,325,13,0,3,9:35 PM,0:00,,End of 3rd Period (9:35 PM EST),,46 - 48,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,327,12,0,4,9:38 PM,10:00,,Start of 4th Period (9:38 PM EST),,46 - 48,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,328,1,1,4,9:39 PM,9:46,,,Fowles 5' Jump Shot (9 PTS) (Snow 4 AST),48 - 48,TIE,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,329,2,1,4,9:39 PM,9:25,MISS Cambage 5' Jump Shot,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,330,4,0,4,9:39 PM,9:23,,,Snow REBOUND (Off:0 Def:7),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,331,6,1,4,9:39 PM,9:13,Cambage P.FOUL (P3.T1),,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,332,8,0,4,9:40 PM,9:13,SUB: Olajuwon FOR Cambage,,,,,4,202633,Liz Cambage,1611661321.0,Tulsa,Shock,TUL,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,333,1,5,4,9:40 PM,9:04,,,Vandersloot 3' Layup (9 PTS),50 - 48,-2,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,334,5,1,4,9:40 PM,8:49,Latta Bad Pass Turnover (P6.T16),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,1,0,,,,,,0
+1021100100,335,1,5,4,9:41 PM,8:30,,,Murphy 3' Layup (3 PTS),52 - 48,-4,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,336,2,1,4,9:41 PM,8:17,MISS Swoopes 10' Jump Shot,,Young BLOCK (1 BLK),,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0
+1021100100,337,4,0,4,9:41 PM,8:14,,,Fowles REBOUND (Off:2 Def:7),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,338,6,1,4,9:41 PM,8:06,Holt P.FOUL (P1.T2),,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,339,8,0,4,9:41 PM,8:06,SUB: Christmas-Kelly FOR Holt,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,4,202640,Karima Christmas-Kelly,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,340,8,0,4,9:41 PM,8:06,SUB: Riley FOR Latta,,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,341,2,1,4,9:42 PM,7:58,,,MISS Vandersloot 19' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,342,4,0,4,9:42 PM,7:57,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,343,6,3,4,9:42 PM,7:57,,,Fowles L.B.FOUL (P3.T1),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,344,5,1,4,9:42 PM,7:33,Riley Bad Pass Turnover (P3.T17),,Fowles STEAL (2 STL),,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,345,2,5,4,9:42 PM,7:29,,,MISS Fowles 2' Layup,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,346,4,0,4,9:42 PM,7:26,,,Young REBOUND (Off:2 Def:0),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,347,6,2,4,9:43 PM,7:16,Olajuwon S.FOUL (P2.T3),,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,348,3,11,4,9:43 PM,7:16,,,MISS Fowles Free Throw 1 of 2,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,349,4,1,4,9:43 PM,7:16,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,350,3,12,4,9:43 PM,7:16,,,Fowles Free Throw 2 of 2 (10 PTS),53 - 48,-5,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,352,2,1,4,9:44 PM,6:54,MISS Swoopes  3PT Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,353,4,0,4,9:44 PM,6:52,,,Snow REBOUND (Off:0 Def:8),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,354,2,5,4,9:44 PM,6:46,,,MISS Young 3' Layup,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,355,4,0,4,9:44 PM,6:46,Swoopes REBOUND (Off:0 Def:3),,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,356,6,1,4,9:44 PM,6:46,,,Murphy P.FOUL (P2.T2),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,357,9,1,4,9:44 PM,6:46,SHOCK Timeout: Regular (Full 3 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,359,8,0,4,9:47 PM,6:46,SUB: Lacy FOR Olajuwon,,,,,4,202278,Abi Olajuwon,1611661321.0,Tulsa,Shock,TUL,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,360,2,1,4,9:47 PM,6:27,MISS Jackson 5' Jump Shot,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,361,4,0,4,9:47 PM,6:24,,,Snow REBOUND (Off:0 Def:9),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,362,6,2,4,9:47 PM,6:10,Jackson S.FOUL (P3.T4),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,363,3,11,4,9:48 PM,6:10,,,MISS Young Free Throw 1 of 2,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,364,4,1,4,9:48 PM,6:10,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,365,3,12,4,9:48 PM,6:10,,,Young Free Throw 2 of 2 (7 PTS),54 - 48,-6,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,367,2,1,4,9:48 PM,5:51,MISS Riley  3PT Jump Shot,,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,368,4,0,4,9:48 PM,5:49,Christmas-Kelly REBOUND (Off:1 Def:0),,,,,4,202640,Karima Christmas-Kelly,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,369,1,1,4,9:49 PM,5:28,Swoopes 15' Jump Shot (4 PTS),,,54 - 50,-4,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,391,5,1,4,9:49 PM,5:07,,,Young Bad Pass Turnover (P2.T12),,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,370,6,1,4,9:49 PM,5:07,,,Fowles P.FOUL (P4.T3),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,372,8,0,4,9:49 PM,5:07,SUB: Latta FOR Riley,,,,,4,202315,Andrea Riley,1611661321.0,Tulsa,Shock,TUL,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,373,8,0,4,9:49 PM,5:07,SUB: Holt FOR Christmas-Kelly,,,,,4,202640,Karima Christmas-Kelly,1611661321.0,Tulsa,Shock,TUL,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0
+1021100100,374,8,0,4,9:49 PM,5:07,,,SUB: Prince FOR Young,,,5,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,375,2,1,4,9:50 PM,4:44,MISS Lacy 15' Jump Shot,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,376,4,0,4,9:50 PM,4:44,Holt REBOUND (Off:1 Def:1),,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,377,6,1,4,9:50 PM,4:44,,,Snow P.FOUL (P1.T4),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,378,2,1,4,9:50 PM,4:34,MISS Swoopes 17' Jump Shot,,,,,4,100072,Sheryl Swoopes,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,379,4,0,4,9:50 PM,4:31,,,Murphy REBOUND (Off:2 Def:2),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,380,5,40,4,9:51 PM,4:30,,,Murphy Out of Bounds Lost Ball Turnover (P1.T13),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021100100,381,2,1,4,9:51 PM,4:26,MISS Holt 14' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,382,4,0,4,9:51 PM,4:24,,,Vandersloot REBOUND (Off:0 Def:5),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,383,1,5,4,9:51 PM,4:10,,,Vandersloot 3' Layup (11 PTS),56 - 50,-6,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,384,2,5,4,9:52 PM,3:43,MISS Jackson 3' Layup,,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,385,4,0,4,9:52 PM,3:41,,,Murphy REBOUND (Off:2 Def:3),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,386,1,5,4,9:52 PM,3:35,,,Murphy 3' Layup (5 PTS) (Vandersloot 5 AST),58 - 50,-8,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,387,6,2,4,9:52 PM,3:35,Lacy S.FOUL (P1.PN),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,388,3,10,4,9:52 PM,3:35,,,Murphy Free Throw 1 of 1 (6 PTS),59 - 50,-9,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,390,9,2,4,9:52 PM,3:34,SHOCK Timeout: Short (Full 3 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,393,6,3,4,9:54 PM,3:19,,,Murphy L.B.FOUL (P3.PN),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,1,0,,,,,,0
+1021100100,394,3,11,4,9:55 PM,3:19,MISS Lacy Free Throw 1 of 2,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,395,4,1,4,9:55 PM,3:19,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,396,3,12,4,9:55 PM,3:19,Lacy Free Throw 2 of 2 (1 PTS),,,59 - 51,-8,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,399,2,1,4,9:55 PM,3:03,,,MISS Vandersloot 6' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,400,4,0,4,9:55 PM,3:01,Jackson REBOUND (Off:8 Def:6),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,401,5,1,4,9:56 PM,2:45,Holt Bad Pass Turnover (P1.T18),,Fowles STEAL (3 STL),,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,402,2,1,4,9:56 PM,2:27,,,MISS Prince 14' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,403,4,0,4,9:56 PM,2:25,Lacy REBOUND (Off:0 Def:3),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,404,9,1,4,9:56 PM,2:23,SHOCK Timeout: Regular (Full 4 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,406,1,46,4,9:59 PM,2:01,Latta 5' Running Jump Shot (18 PTS),,,59 - 53,-6,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,407,1,5,4,9:59 PM,1:40,,,Fowles 2' Layup (12 PTS) (Murphy 1 AST),61 - 53,-8,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021100100,408,6,2,4,9:59 PM,1:40,Lacy S.FOUL (P2.PN),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,409,3,10,4,10:00 PM,1:40,,,MISS Fowles Free Throw 1 of 1,,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,411,4,0,4,10:00 PM,1:40,,,Snow REBOUND (Off:1 Def:9),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,412,2,1,4,10:00 PM,1:15,,,MISS Murphy  3PT Jump Shot,,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,413,4,0,4,10:00 PM,1:15,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,414,5,11,4,10:00 PM,1:15,,,Sky Turnover: Shot Clock (T#14),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1021100100,415,2,1,4,10:01 PM,1:07,MISS Holt 19' Jump Shot,,,,,4,201483,Amber Holt,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,416,4,0,4,10:01 PM,1:05,,,Fowles REBOUND (Off:2 Def:8),,,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,417,2,1,4,10:01 PM,0:46,,,MISS Prince 20' Jump Shot,,,5,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,418,4,0,4,10:01 PM,0:44,,,Murphy REBOUND (Off:3 Def:3),,,5,201062,Shay Murphy,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,419,6,1,4,10:01 PM,0:38,Latta P.FOUL (P1.PN),,,,,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,420,3,11,4,10:02 PM,0:38,,,Vandersloot Free Throw 1 of 2 (12 PTS),62 - 53,-9,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,422,3,12,4,10:02 PM,0:38,,,MISS Vandersloot Free Throw 2 of 2,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,424,4,0,4,10:02 PM,0:36,Lacy REBOUND (Off:0 Def:4),,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,425,1,1,4,10:02 PM,0:31,Latta 8' Jump Shot (20 PTS),,,62 - 55,-7,4,201056,Ivory Latta,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,426,9,1,4,10:02 PM,0:31,,,Sky Timeout: Regular (Reg.3 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100100,428,6,1,4,10:04 PM,0:30,Jackson P.FOUL (P4.PN),,,,,4,201050,Tiffany Jackson,1611661321.0,Tulsa,Shock,TUL,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021100100,429,3,11,4,10:04 PM,0:30,,,Fowles Free Throw 1 of 2 (13 PTS),63 - 55,-8,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,431,3,12,4,10:04 PM,0:30,,,Fowles Free Throw 2 of 2 (14 PTS),64 - 55,-9,5,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,433,2,1,4,10:05 PM,0:20,MISS Lacy  3PT Jump Shot,,,,,4,101080,Jennifer Lacy,1611661321.0,Tulsa,Shock,TUL,0,0,,,,,,0,0,,,,,,0
+1021100100,434,4,0,4,10:05 PM,0:17,,,Snow REBOUND (Off:1 Def:10),,,5,100729,Michelle Snow,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021100100,436,13,0,4,10:05 PM,0:00,,End of 4th Period (10:05 PM EST),,64 - 55,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

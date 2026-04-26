@@ -1,0 +1,462 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021800018,2,12,0,1,6:08 PM,10:00,,Start of 1st Period (6:08 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,4,10,0,1,6:08 PM,10:00,Jump Ball Williams vs. Cambage: Tip to Breland,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,7,6,2,1,6:08 PM,9:41,,,Cambage S.FOUL (P1.T1),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,9,3,11,1,6:09 PM,9:41,MISS Williams Free Throw 1 of 2,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,10,4,1,1,6:09 PM,9:41,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,11,3,12,1,6:09 PM,9:41,MISS Williams Free Throw 2 of 2,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,12,4,0,1,6:09 PM,9:38,,,Thornton REBOUND (Off:0 Def:1),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,13,5,2,1,6:09 PM,9:22,Hayes STEAL (1 STL),,Thornton Lost Ball Turnover (P1.T1),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,171,2,41,1,6:09 PM,9:20,MISS Hayes 4' Running Layup,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,172,4,0,1,6:09 PM,9:19,Breland REBOUND (Off:1 Def:0),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,15,2,5,1,6:09 PM,9:17,MISS Breland 1' Layup,,Cambage BLOCK (1 BLK),,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1
+1021800018,17,4,0,1,6:10 PM,9:17,,,Diggins-Smith REBOUND (Off:0 Def:1),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,18,1,5,1,6:10 PM,9:11,,,Gray 5' Layup (2 PTS) (Diggins-Smith 1 AST),2 - 0,-2,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,20,6,2,1,6:10 PM,8:46,,,Cambage S.FOUL (P2.T2),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,22,3,11,1,6:10 PM,8:46,Williams Free Throw 1 of 2 (1 PTS),,,2 - 1,-1,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,23,3,12,1,6:11 PM,8:46,Williams Free Throw 2 of 2 (2 PTS),,,2 - 2,TIE,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,24,5,1,1,6:11 PM,8:32,Williams STEAL (1 STL),,Thornton Bad Pass Turnover (P2.T2),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,28,1,5,1,6:11 PM,8:18,Hayes 1' Layup (2 PTS) (Breland 1 AST),,,2 - 4,2,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,26,8,0,1,6:11 PM,8:15,,,SUB: Lewis FOR Cambage,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,30,2,78,1,6:11 PM,8:08,,,MISS Diggins-Smith 13' Floating Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,31,4,0,1,6:12 PM,8:06,,,Thornton REBOUND (Off:1 Def:1),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,32,2,1,1,6:12 PM,8:02,,,MISS Diggins-Smith 24' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,33,4,0,1,6:12 PM,8:01,Hayes REBOUND (Off:0 Def:1),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,34,1,5,1,6:12 PM,7:51,Williams 1' Layup (4 PTS) (McCoughtry 1 AST),,,2 - 6,4,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,36,9,1,1,6:12 PM,7:50,,,Wings Timeout: Regular (Reg.1 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,37,6,1,1,6:15 PM,7:39,McCoughtry P.FOUL (P1.T1),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,39,5,11,1,6:16 PM,7:25,,,Wings Turnover: Shot Clock (T#3),,,3.0,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,40,2,1,1,6:16 PM,7:10,MISS Montgomery 24' 3PT Jump Shot,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,41,4,0,1,6:16 PM,7:06,Breland REBOUND (Off:2 Def:0),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,42,2,1,1,6:16 PM,7:04,MISS McCoughtry 25' 3PT Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,43,4,0,1,6:16 PM,7:00,,,Gray REBOUND (Off:0 Def:1),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,44,2,5,1,6:16 PM,6:56,,,MISS Gray 2' Layup,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,45,4,0,1,6:17 PM,6:55,,,Lewis REBOUND (Off:1 Def:0),,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,46,1,72,1,6:17 PM,6:54,,,Lewis 2' Putback Layup (2 PTS),4 - 6,2,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,47,6,2,1,6:17 PM,6:54,Breland S.FOUL (P1.T2),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,5,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,49,3,10,1,6:17 PM,6:54,,,Lewis Free Throw 1 of 1 (3 PTS),5 - 6,1,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,50,1,44,1,6:17 PM,6:30,Williams 1' Reverse Layup (6 PTS) (Montgomery 1 AST),,,5 - 8,3,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,52,1,1,1,6:17 PM,6:20,,,Diggins-Smith 3PT Jump Shot (3 PTS),8 - 8,TIE,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,54,6,1,1,6:18 PM,6:12,,,Lewis P.FOUL (P1.T3),,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,56,2,1,1,6:18 PM,6:06,MISS Hayes 3PT Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,57,4,0,1,6:18 PM,6:01,,,Lewis REBOUND (Off:1 Def:1),,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,58,6,4,1,6:18 PM,5:54,,,Lewis OFF.Foul (P2),,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,60,5,37,1,6:18 PM,5:54,,,Lewis Offensive Foul Turnover (P1.T4),,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,61,8,0,1,6:18 PM,5:54,,,SUB: Stevens FOR Lewis,,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,63,8,0,1,6:19 PM,5:54,,,SUB: Davis FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,65,2,5,1,6:19 PM,5:45,MISS Montgomery 5' Layup,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,66,4,0,1,6:19 PM,5:44,Williams REBOUND (Off:1 Def:0),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,67,1,72,1,6:19 PM,5:43,Williams 3' Putback Layup (8 PTS),,,8 - 10,2,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,68,5,4,1,6:19 PM,5:26,,,Davis Traveling Turnover (P1.T5),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,69,5,2,1,6:20 PM,5:08,McCoughtry Lost Ball Turnover (P1.T1),,Davis STEAL (1 STL),,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,71,1,5,1,6:20 PM,5:03,,,Diggins-Smith 1' Layup (5 PTS) (Davis 1 AST),10 - 10,TIE,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,73,2,1,1,6:20 PM,4:52,MISS Hayes 25' 3PT Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,74,4,0,1,6:20 PM,4:49,,,Diggins-Smith REBOUND (Off:0 Def:2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,75,2,1,1,6:20 PM,4:40,,,MISS Christmas-Kelly 11' Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,76,4,0,1,6:20 PM,4:36,Breland REBOUND (Off:2 Def:1),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,77,5,39,1,6:20 PM,4:30,Hayes Step Out of Bounds Turnover (P1.T2),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021800018,78,7,1,1,6:21 PM,4:30,,Delay Of Game,,,,,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,79,1,1,1,6:21 PM,4:16,,,Thornton 19' Jump Shot (2 PTS) (Christmas-Kelly 1 AST),12 - 10,-2,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,81,2,5,1,6:21 PM,4:03,MISS Hayes 2' Layup,,Christmas-Kelly BLOCK (1 BLK),,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1
+1021800018,83,4,0,1,6:21 PM,3:59,,,Christmas-Kelly REBOUND (Off:0 Def:1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,84,2,1,1,6:21 PM,3:55,,,MISS Diggins-Smith 24' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,85,4,0,1,6:21 PM,3:49,Williams REBOUND (Off:1 Def:1),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,86,1,1,1,6:21 PM,3:47,McCoughtry 15' Jump Shot (2 PTS),,,12 - 12,TIE,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,87,1,1,1,6:22 PM,3:27,,,Christmas-Kelly 19' Jump Shot (2 PTS),14 - 12,-2,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,88,5,6,1,6:22 PM,3:08,McCoughtry Double Dribble Turnover (P2.T3),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021800018,89,8,0,1,6:22 PM,3:08,SUB: Clarendon FOR Williams,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,90,8,0,1,6:22 PM,3:08,SUB: Sykes FOR Montgomery,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,91,8,0,1,6:22 PM,3:08,SUB: Dantas FOR McCoughtry,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,92,8,0,1,6:22 PM,3:08,,,SUB: Chong FOR Diggins-Smith,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,97,6,1,1,6:23 PM,2:51,Dantas P.FOUL (P1.T3),,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,99,2,1,1,6:23 PM,2:40,,,MISS Davis 3PT Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,100,4,0,1,6:23 PM,2:39,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,101,2,1,1,6:24 PM,2:17,MISS Dantas 8' Jump Shot,,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,102,4,0,1,6:24 PM,2:13,,,Thornton REBOUND (Off:1 Def:2),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,103,2,5,1,6:24 PM,2:09,,,MISS Christmas-Kelly 2' Layup,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,104,4,0,1,6:24 PM,2:07,Breland REBOUND (Off:2 Def:2),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,105,5,40,1,6:24 PM,1:58,Breland Out of Bounds Lost Ball Turnover (P1.T4),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021800018,106,6,29,1,6:25 PM,1:46,Clarendon Shooting Block Foul (P1.T4),,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,108,3,11,1,6:25 PM,1:46,,,Christmas-Kelly Free Throw 1 of 2 (3 PTS),15 - 12,-3,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,109,3,12,1,6:25 PM,1:46,,,Christmas-Kelly Free Throw 2 of 2 (4 PTS),16 - 12,-4,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,110,2,1,1,6:26 PM,1:33,MISS Clarendon 24' 3PT Jump Shot,,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,111,4,0,1,6:26 PM,1:32,Dantas REBOUND (Off:1 Def:0),,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,112,2,1,1,6:26 PM,1:25,MISS Dantas 3PT Jump Shot,,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,113,4,0,1,6:26 PM,1:23,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,114,8,0,1,6:26 PM,1:18,,,SUB: Gray FOR Christmas-Kelly,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,116,5,4,1,6:26 PM,1:05,,,Gray Traveling Turnover (P1.T6),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,117,2,3,1,6:27 PM,0:56,MISS Dantas 2' Hook Shot,,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,118,4,0,1,6:27 PM,0:50,,,Stevens REBOUND (Off:0 Def:1),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,119,1,1,1,6:27 PM,0:45,,,Stevens 24' 3PT Jump Shot (3 PTS) (Chong 1 AST),19 - 12,-7,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,121,1,1,1,6:27 PM,0:28,Hayes 3PT Jump Shot (5 PTS) (Clarendon 1 AST),,,19 - 15,-4,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,123,2,1,1,6:28 PM,0:17,,,MISS Stevens 24' 3PT Jump Shot,,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,124,4,0,1,6:28 PM,0:16,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,125,6,3,1,6:28 PM,0:16,,,Thornton L.B.FOUL (P1.T4),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,127,2,1,1,6:28 PM,0:00,MISS Hayes 24' 3PT Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,128,4,0,1,6:28 PM,0:00,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,129,13,0,1,6:28 PM,0:00,,End of 1st Period (6:28 PM EST),,19 - 15,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1021800018,136,12,0,2,6:32 PM,10:00,,Start of 2nd Period (6:32 PM EST),,19 - 15,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,137,1,6,2,6:32 PM,9:43,,,Cambage 1' Driving Layup (2 PTS),21 - 15,-6,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,138,2,1,2,6:32 PM,9:32,MISS Sykes 25' 3PT Jump Shot,,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,139,4,0,2,6:32 PM,9:29,Williams REBOUND (Off:2 Def:1),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,140,2,47,2,6:32 PM,9:27,MISS Williams 7' Turnaround Jump Shot,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,141,4,0,2,6:32 PM,9:25,,,Stevens REBOUND (Off:0 Def:2),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,142,2,1,2,6:32 PM,9:14,,,MISS Gray 3PT Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,143,4,0,2,6:32 PM,9:11,Clarendon REBOUND (Off:0 Def:1),,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,144,6,1,2,6:32 PM,9:09,,,Davis P.FOUL (P1.T1),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,146,8,0,2,6:33 PM,9:09,SUB: Billings FOR Dantas,,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,147,8,0,2,6:33 PM,9:09,SUB: McCoughtry FOR Hayes,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,150,2,1,2,6:33 PM,8:58,MISS Williams 20' Jump Shot,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,151,4,0,2,6:33 PM,8:53,,,Davis REBOUND (Off:0 Def:1),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,152,1,41,2,6:33 PM,8:49,,,Cambage 3' Running Layup (4 PTS) (Davis 2 AST),23 - 15,-8,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,154,2,1,2,6:33 PM,8:30,MISS Billings 14' Jump Shot,,,,,4.0,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,155,4,0,2,6:33 PM,8:26,,,Cambage REBOUND (Off:0 Def:1),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,156,1,103,2,6:34 PM,8:17,,,Davis 20' Running Pull-Up Jump Shot (2 PTS) (Diggins-Smith 2 AST),25 - 15,-10,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,158,9,1,2,6:34 PM,8:15,DREAM Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,159,18,0,2,6:34 PM,8:15,,Instant Replay2nd Period (6:34 PM EST),,25 - 15,-10,0.0,156,Antoine Carr,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,160,8,0,2,6:36 PM,8:14,SUB: Montgomery FOR Clarendon,,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,161,8,0,2,6:36 PM,8:14,,,SUB: Thornton FOR Stevens,,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,164,2,47,2,6:37 PM,8:01,MISS McCoughtry 12' Turnaround Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,165,4,0,2,6:37 PM,7:55,Williams REBOUND (Off:3 Def:1),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,166,1,97,2,6:37 PM,7:55,Williams 1' Tip Layup Shot (10 PTS),,,25 - 17,-8,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,167,2,79,2,6:37 PM,7:44,,,MISS Diggins-Smith 3PT Pullup Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,168,4,0,2,6:37 PM,7:43,,,Cambage REBOUND (Off:1 Def:1),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,169,6,2,2,6:37 PM,7:42,Williams S.FOUL (P1.T1),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,173,3,11,2,6:38 PM,7:42,,,MISS Cambage Free Throw 1 of 2,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,174,4,1,2,6:38 PM,7:42,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,175,3,12,2,6:38 PM,7:42,,,Cambage Free Throw 2 of 2 (5 PTS),26 - 17,-9,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,176,5,40,2,6:38 PM,7:32,Sykes Out of Bounds Lost Ball Turnover (P1.T5),,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021800018,177,5,1,2,6:38 PM,7:19,McCoughtry STEAL (1 STL),,Diggins-Smith Bad Pass Turnover (P1.T7),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,179,2,1,2,6:38 PM,7:11,MISS Montgomery 25' 3PT Jump Shot,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,180,4,0,2,6:39 PM,7:07,,,Gray REBOUND (Off:0 Def:2),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,181,1,98,2,6:39 PM,6:49,,,Gray 1' Cutting Layup Shot (4 PTS) (Cambage 1 AST),28 - 17,-11,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,183,2,79,2,6:39 PM,6:37,MISS Sykes 19' Pullup Jump Shot,,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,184,4,0,2,6:39 PM,6:34,,,Davis REBOUND (Off:0 Def:2),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,185,6,2,2,6:39 PM,6:30,Billings S.FOUL (P1.T2),,,,,4.0,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,187,3,11,2,6:40 PM,6:30,,,Thornton Free Throw 1 of 2 (3 PTS),29 - 17,-12,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,188,8,0,2,6:40 PM,6:30,SUB: Hayes FOR Sykes,,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,191,7,3,2,6:40 PM,6:30,Williams Violation:Lane,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,192,3,12,2,6:40 PM,6:30,,,Thornton Free Throw 2 of 2 (4 PTS),30 - 17,-13,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,193,1,58,2,6:40 PM,6:17,Williams 9' Turnaround Hook Shot (12 PTS) (Hayes 1 AST),,,30 - 19,-11,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,195,2,80,2,6:41 PM,6:02,,,MISS Davis 17' Step Back Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,196,4,0,2,6:41 PM,5:57,Billings REBOUND (Off:0 Def:1),,,,,4.0,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,197,1,1,2,6:41 PM,5:50,Montgomery 3PT Jump Shot (3 PTS) (Hayes 2 AST),,,30 - 22,-8,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,199,5,2,2,6:41 PM,5:30,Williams STEAL (2 STL),,Cambage Lost Ball Turnover (P1.T8),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,201,1,79,2,6:41 PM,5:24,Montgomery 24' 3PT Pullup Jump Shot (6 PTS),,,30 - 25,-5,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,202,9,1,2,6:41 PM,5:20,,,Wings Timeout: Regular (Reg.2 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,203,8,0,2,6:44 PM,5:20,,,SUB: Christmas-Kelly FOR Davis,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,205,2,6,2,6:45 PM,5:00,Williams BLOCK (1 BLK),,MISS Christmas-Kelly 11' Driving Layup,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,207,4,0,2,6:45 PM,4:57,Hayes REBOUND (Off:0 Def:2),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,208,6,1,2,6:45 PM,4:51,,,Thornton P.FOUL (P2.T2),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,210,2,1,2,6:45 PM,4:46,MISS McCoughtry 25' 3PT Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,211,4,0,2,6:45 PM,4:42,Williams REBOUND (Off:4 Def:1),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,212,2,79,2,6:45 PM,4:39,MISS McCoughtry 19' Pullup Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,213,4,0,2,6:46 PM,4:36,,,Cambage REBOUND (Off:1 Def:2),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,214,6,2,2,6:46 PM,4:24,Williams S.FOUL (P2.T3),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,216,3,11,2,6:46 PM,4:24,,,Cambage Free Throw 1 of 2 (6 PTS),31 - 25,-6,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,217,8,0,2,6:46 PM,4:24,SUB: McGee-Stafford FOR Williams,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,219,3,12,2,6:46 PM,4:24,,,Cambage Free Throw 2 of 2 (7 PTS),32 - 25,-7,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,220,2,6,2,6:47 PM,4:05,MISS Montgomery 4' Driving Layup,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,221,4,0,2,6:47 PM,4:02,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,222,2,1,2,6:47 PM,3:59,MISS Hayes 24' 3PT Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,223,4,0,2,6:47 PM,3:54,,,Christmas-Kelly REBOUND (Off:0 Def:2),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,224,6,2,2,6:47 PM,3:45,Hayes S.FOUL (P1.T4),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,226,3,11,2,6:48 PM,3:45,,,Christmas-Kelly Free Throw 1 of 2 (5 PTS),33 - 25,-8,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,227,3,12,2,6:48 PM,3:45,,,Christmas-Kelly Free Throw 2 of 2 (6 PTS),34 - 25,-9,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,228,2,79,2,6:48 PM,3:30,MISS Montgomery 24' 3PT Pullup Jump Shot,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,229,4,0,2,6:48 PM,3:27,,,Gray REBOUND (Off:0 Def:3),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,230,2,6,2,6:49 PM,3:23,Hayes BLOCK (1 BLK),,MISS Thornton 1' Driving Layup,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,232,4,0,2,6:49 PM,3:23,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,233,9,2,2,6:49 PM,3:23,,,Wings Timeout: Short (Reg.2 Short 1),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,234,1,1,2,6:50 PM,3:17,,,Thornton 15' Jump Shot (6 PTS) (Diggins-Smith 3 AST),36 - 25,-11,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,236,2,6,2,6:51 PM,2:49,MISS Hayes 3' Driving Layup,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,237,4,0,2,6:51 PM,2:46,McCoughtry REBOUND (Off:1 Def:0),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,238,2,79,2,6:51 PM,2:45,MISS McCoughtry 2' Pullup Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,239,4,0,2,6:51 PM,2:45,,,Gray REBOUND (Off:0 Def:4),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,240,6,2,2,6:51 PM,2:29,McGee-Stafford S.FOUL (P1.PN),,,,,4.0,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,242,3,11,2,6:51 PM,2:29,,,Diggins-Smith Free Throw 1 of 2 (6 PTS),37 - 25,-12,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,243,8,0,2,6:52 PM,2:29,,,SUB: Stevens FOR Cambage,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,245,3,12,2,6:52 PM,2:29,,,Diggins-Smith Free Throw 2 of 2 (7 PTS),38 - 25,-13,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,246,2,1,2,6:52 PM,2:14,MISS Montgomery 24' 3PT Jump Shot,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,247,4,0,2,6:52 PM,2:06,,,Stevens REBOUND (Off:0 Def:3),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,248,2,1,2,6:52 PM,1:58,,,MISS Diggins-Smith 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,249,4,0,2,6:52 PM,1:55,,,Christmas-Kelly REBOUND (Off:1 Def:2),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,250,2,1,2,6:52 PM,1:52,,,MISS Stevens 1' Jump Shot,,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,251,4,0,2,6:53 PM,1:50,McCoughtry REBOUND (Off:1 Def:1),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,254,6,1,2,6:53 PM,1:44,,,Gray P.FOUL (P1.T3),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,256,8,0,2,6:53 PM,1:44,SUB: Breland FOR McGee-Stafford,,,,,4.0,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,257,8,0,2,6:53 PM,1:44,,,SUB: Davis FOR Thornton,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,260,2,57,2,6:53 PM,1:37,MISS Breland 10' Driving Hook Shot,,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,261,4,0,2,6:53 PM,1:34,,,Christmas-Kelly REBOUND (Off:1 Def:3),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,262,2,1,2,6:54 PM,1:26,,,MISS Christmas-Kelly 3PT Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,263,4,0,2,6:54 PM,1:23,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,264,6,3,2,6:54 PM,1:23,,,Gray L.B.FOUL (P2.PN),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,266,3,11,2,6:54 PM,1:23,Hayes Free Throw 1 of 2 (6 PTS),,,38 - 26,-12,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,267,3,12,2,6:54 PM,1:23,Hayes Free Throw 2 of 2 (7 PTS),,,38 - 27,-11,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,268,2,1,2,6:55 PM,1:05,Breland BLOCK (1 BLK),,MISS Davis 7' Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,270,4,0,2,6:55 PM,1:02,McCoughtry REBOUND (Off:1 Def:2),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,272,18,0,2,6:56 PM,1:02,,Instant Replay2nd Period (6:56 PM EST),,38 - 27,-11,0.0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,273,6,16,2,6:58 PM,1:02,,"Double Technical - Breland, Davis",,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,276,6,2,2,6:58 PM,1:02,,,Gray S.FOUL (P3.PN),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021800018,278,3,11,2,6:59 PM,1:02,Hayes Free Throw 1 of 2 (8 PTS),,,38 - 28,-10,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,279,8,0,2,6:59 PM,1:02,,,SUB: Chong FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,281,3,12,2,6:59 PM,1:02,Hayes Free Throw 2 of 2 (9 PTS),,,38 - 29,-9,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,282,6,1,2,6:59 PM,0:53,Montgomery P.FOUL (P1.PN),,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,284,3,11,2,6:59 PM,0:53,,,MISS Diggins-Smith Free Throw 1 of 2,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,285,4,1,2,6:59 PM,0:53,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,286,3,12,2,7:00 PM,0:53,,,Diggins-Smith Free Throw 2 of 2 (8 PTS),39 - 29,-10,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,287,9,1,2,7:00 PM,0:53,DREAM Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,288,6,2,2,7:02 PM,0:44,,,Davis S.FOUL (P2.PN),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,291,18,0,2,7:03 PM,0:44,,Instant Replay2nd Period (7:03 PM EST),,39 - 29,-10,0.0,288,Armen Gilliam,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,292,8,0,2,7:04 PM,0:44,,,SUB: Lewis FOR Davis,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,5,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,294,3,11,2,7:04 PM,0:44,McCoughtry Free Throw 1 of 2 (3 PTS),,,39 - 30,-9,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,295,3,12,2,7:04 PM,0:44,McCoughtry Free Throw 2 of 2 (4 PTS),,,39 - 31,-8,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,296,2,1,2,7:04 PM,0:33,,,MISS Stevens 3PT Jump Shot,,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,297,4,0,2,7:04 PM,0:28,,,Diggins-Smith REBOUND (Off:1 Def:2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,298,2,5,2,7:05 PM,0:19,Breland BLOCK (2 BLK),,MISS Lewis 2' Layup,,,5.0,1628292,Breanna Lewis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,300,4,0,2,7:05 PM,0:14,,,Stevens REBOUND (Off:1 Def:3),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,307,5,2,2,7:05 PM,0:13,Montgomery STEAL (1 STL),,Stevens Lost Ball Turnover (P1.T9),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,301,2,47,2,7:05 PM,0:04,MISS Breland 10' Turnaround Jump Shot,,Diggins-Smith BLOCK (1 BLK),,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1
+1021800018,303,4,0,2,7:05 PM,0:04,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,304,2,5,2,7:05 PM,0:01,MISS Hayes 1' Layup,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,305,4,0,2,7:05 PM,0:01,Montgomery REBOUND (Off:1 Def:0),,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,306,13,0,2,7:05 PM,0:00,,End of 2nd Period (7:05 PM EST),,39 - 31,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1021800018,318,12,0,3,7:20 PM,10:00,,Start of 3rd Period (7:20 PM EST),,39 - 31,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,320,5,1,3,7:21 PM,9:38,McCoughtry STEAL (2 STL),,Diggins-Smith Bad Pass Turnover (P2.T10),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,323,2,5,3,7:21 PM,9:32,MISS Breland 9' Layup,,Cambage BLOCK (2 BLK),,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0
+1021800018,325,4,0,3,7:21 PM,9:30,Breland REBOUND (Off:3 Def:2),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,327,1,101,3,7:22 PM,9:17,McCoughtry 8' Driving Floating Jump Shot (6 PTS),,,39 - 33,-6,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,328,1,1,3,7:22 PM,9:00,,,Thornton 24' 3PT Jump Shot (9 PTS) (Christmas-Kelly 2 AST),42 - 33,-9,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,330,1,5,3,7:22 PM,8:53,Williams 2' Layup (14 PTS) (Montgomery 2 AST),,,42 - 35,-7,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,332,6,4,3,7:22 PM,8:42,,,Cambage OFF.Foul (P3),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,334,5,37,3,7:22 PM,8:42,,,Cambage Offensive Foul Turnover (P2.T11),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,335,2,79,3,7:23 PM,8:33,MISS Hayes 12' Pullup Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,336,4,0,3,7:23 PM,8:31,,,Cambage REBOUND (Off:1 Def:3),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,338,5,11,3,7:23 PM,8:04,,,Wings Turnover: Shot Clock (T#12),,,3.0,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,339,6,4,3,7:24 PM,7:58,Williams OFF.Foul (P3),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,341,5,37,3,7:24 PM,7:58,Williams Offensive Foul Turnover (P1.T6),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021800018,342,2,79,3,7:24 PM,7:48,,,MISS Thornton 24' 3PT Pullup Jump Shot,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,343,4,0,3,7:24 PM,7:45,McCoughtry REBOUND (Off:1 Def:3),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,344,2,2,3,7:24 PM,7:40,MISS McCoughtry 12' Running Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,345,4,0,3,7:24 PM,7:37,,,Gray REBOUND (Off:0 Def:5),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,346,6,1,3,7:24 PM,7:37,Hayes P.FOUL (P2.T1),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,348,5,2,3,7:25 PM,7:25,Breland STEAL (1 STL),,Cambage Lost Ball Turnover (P3.T13),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,350,1,79,3,7:25 PM,7:19,Breland 14' Pullup Jump Shot (2 PTS) (Hayes 3 AST),,,42 - 37,-5,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,352,2,79,3,7:25 PM,7:03,,,MISS Cambage 17' Pullup Jump Shot,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,353,4,0,3,7:25 PM,7:00,Montgomery REBOUND (Off:1 Def:1),,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,355,2,1,3,7:26 PM,6:55,MISS McCoughtry 21' Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,356,4,0,3,7:26 PM,6:52,,,Diggins-Smith REBOUND (Off:1 Def:3),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,358,6,2,3,7:26 PM,6:41,Hayes S.FOUL (P3.T2),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,0
+1021800018,361,3,11,3,7:26 PM,6:41,,,Diggins-Smith Free Throw 1 of 2 (9 PTS),43 - 37,-6,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,362,3,12,3,7:27 PM,6:41,,,Diggins-Smith Free Throw 2 of 2 (10 PTS),44 - 37,-7,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,363,2,6,3,7:27 PM,6:27,MISS McCoughtry Driving Layup,,Thornton BLOCK (1 BLK),,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1
+1021800018,365,4,0,3,7:27 PM,6:27,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,366,5,1,3,7:27 PM,6:26,Montgomery Bad Pass Turnover (P1.T7),,Christmas-Kelly STEAL (1 STL),,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,368,2,41,3,7:27 PM,6:22,,,MISS Diggins-Smith 2' Running Layup,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,369,4,0,3,7:27 PM,6:19,,,Gray REBOUND (Off:1 Def:5),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,370,6,2,3,7:27 PM,6:19,Breland S.FOUL (P2.T3),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,372,3,11,3,7:28 PM,6:19,,,Gray Free Throw 1 of 2 (5 PTS),45 - 37,-8,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,373,3,12,3,7:28 PM,6:19,,,Gray Free Throw 2 of 2 (6 PTS),46 - 37,-9,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,374,5,2,3,7:28 PM,6:10,Hayes Lost Ball Turnover (P2.T8),,Gray STEAL (1 STL),,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,376,2,6,3,7:28 PM,6:06,Breland BLOCK (3 BLK),,MISS Gray 1' Driving Layup,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,378,4,0,3,7:28 PM,6:00,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,379,2,1,3,7:29 PM,5:44,MISS Montgomery 15' Jump Shot,,Thornton BLOCK (2 BLK),,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1
+1021800018,380,4,0,3,7:29 PM,5:38,,,Thornton REBOUND (Off:1 Def:3),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,381,6,1,3,7:29 PM,5:37,Montgomery P.FOUL (P2.T4),,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,383,8,0,3,7:29 PM,5:37,SUB: Clarendon FOR Montgomery,,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,385,8,0,3,7:29 PM,5:37,SUB: Sykes FOR Hayes,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,387,5,2,3,7:30 PM,5:33,Williams STEAL (3 STL),,Cambage Lost Ball Turnover (P4.T14),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,390,6,1,3,7:30 PM,5:28,,,Diggins-Smith P.FOUL (P1.T1),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,392,2,1,3,7:30 PM,5:26,MISS Sykes 3PT Jump Shot,,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,393,4,0,3,7:30 PM,5:25,,,Cambage REBOUND (Off:1 Def:4),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,394,2,5,3,7:30 PM,5:15,Sykes BLOCK (1 BLK),,MISS Cambage 1' Layup,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,396,4,0,3,7:30 PM,5:14,McCoughtry REBOUND (Off:1 Def:4),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,397,2,5,3,7:30 PM,5:07,MISS McCoughtry Layup,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,398,4,0,3,7:31 PM,5:06,Breland REBOUND (Off:4 Def:2),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,399,2,97,3,7:31 PM,5:06,MISS Breland 1' Tip Layup Shot,,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,400,4,0,3,7:31 PM,5:05,,,Cambage REBOUND (Off:1 Def:5),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,401,2,5,3,7:31 PM,4:42,Sykes BLOCK (2 BLK),,MISS Thornton 5' Layup,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,403,4,0,3,7:31 PM,4:39,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,404,9,1,3,7:31 PM,4:39,DREAM Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,407,8,0,3,7:33 PM,4:39,SUB: McGee-Stafford FOR Williams,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,408,8,0,3,7:33 PM,4:39,,,SUB: Stevens FOR Cambage,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,411,5,2,3,7:34 PM,4:30,McCoughtry STEAL (3 STL),,Gray Lost Ball Turnover (P2.T15),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,413,5,1,3,7:34 PM,4:12,Sykes Bad Pass Turnover (P2.T9),,Stevens STEAL (1 STL),,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,415,2,5,3,7:34 PM,4:08,Sykes BLOCK (3 BLK),,MISS Stevens 2' Layup,,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,417,4,0,3,7:34 PM,3:57,Breland REBOUND (Off:4 Def:3),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,418,1,1,3,7:34 PM,3:52,McGee-Stafford 2' Jump Shot (2 PTS) (Clarendon 2 AST),,,46 - 39,-7,4.0,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,420,6,2,3,7:35 PM,3:45,Sykes S.FOUL (P1.PN),,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,422,3,11,3,7:35 PM,3:45,,,Gray Free Throw 1 of 2 (7 PTS),47 - 39,-8,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,423,8,0,3,7:35 PM,3:45,SUB: Billings FOR Breland,,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,425,3,12,3,7:35 PM,3:45,,,Gray Free Throw 2 of 2 (8 PTS),48 - 39,-9,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,426,6,2,3,7:36 PM,3:25,,,Thornton S.FOUL (P3.T2),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,428,3,11,3,7:36 PM,3:25,MISS McCoughtry Free Throw 1 of 2,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,429,4,1,3,7:36 PM,3:25,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,430,3,12,3,7:36 PM,3:25,McCoughtry Free Throw 2 of 2 (7 PTS),,,48 - 40,-8,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,431,2,6,3,7:36 PM,3:24,,,MISS Diggins-Smith 3' Driving Layup,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,432,4,0,3,7:37 PM,3:20,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,433,5,1,3,7:37 PM,3:18,McGee-Stafford Bad Pass Turnover (P1.T10),,Stevens STEAL (2 STL),,,4.0,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,435,5,2,3,7:37 PM,3:14,McGee-Stafford STEAL (1 STL),,Stevens Lost Ball Turnover (P2.T16),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,437,1,73,3,7:37 PM,3:12,Sykes 2' Driving Reverse Layup (2 PTS),,,48 - 42,-6,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,439,1,79,3,7:38 PM,2:55,,,Thornton 21' Pullup Jump Shot (11 PTS),50 - 42,-8,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,440,1,101,3,7:38 PM,2:40,McCoughtry 10' Driving Floating Jump Shot (9 PTS) (Billings 1 AST),,,50 - 44,-6,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,441,6,2,3,7:38 PM,2:40,,,Thornton S.FOUL (P4.T3),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,444,3,10,3,7:39 PM,2:40,McCoughtry Free Throw 1 of 1 (10 PTS),,,50 - 45,-5,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,445,5,1,3,7:39 PM,2:26,McGee-Stafford STEAL (2 STL),,Gray Bad Pass Turnover (P3.T17),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,447,2,41,3,7:39 PM,2:19,MISS Clarendon 3' Running Layup,,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,448,4,0,3,7:39 PM,2:18,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,449,1,1,3,7:40 PM,2:17,Sykes 3PT Jump Shot (5 PTS) (Clarendon 3 AST),,,50 - 48,-2,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,451,9,1,3,7:40 PM,2:07,,,Wings Timeout: Regular (Reg.3 Short 1),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,452,8,0,3,7:41 PM,2:07,,,SUB: Cambage FOR Thornton,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,454,6,1,3,7:42 PM,1:51,McCoughtry P.FOUL (P2.PN),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,456,3,11,3,7:42 PM,1:51,,,MISS Cambage Free Throw 1 of 2,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,457,4,1,3,7:42 PM,1:51,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,458,3,12,3,7:42 PM,1:51,,,MISS Cambage Free Throw 2 of 2,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,459,4,0,3,7:42 PM,1:47,,,Christmas-Kelly REBOUND (Off:2 Def:3),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,460,1,79,3,7:43 PM,1:43,,,Diggins-Smith 16' Pullup Jump Shot (12 PTS),52 - 48,-4,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,461,2,79,3,7:43 PM,1:29,MISS McCoughtry 18' Pullup Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,462,4,0,3,7:43 PM,1:15,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,463,8,0,3,7:43 PM,1:13,SUB: Williams FOR McGee-Stafford,,,,,4.0,1627677,Imani McGee-Stafford,1611661330.0,Atlanta,Dream,ATL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,464,8,0,3,7:43 PM,1:13,SUB: Hayes FOR McCoughtry,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,467,6,2,3,7:44 PM,1:13,Clarendon S.FOUL (P2.PN),,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,469,3,11,3,7:44 PM,1:13,,,Diggins-Smith Free Throw 1 of 2 (13 PTS),53 - 48,-5,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,470,8,0,3,7:44 PM,1:13,,,SUB: Davis FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,472,3,12,3,7:44 PM,1:13,,,Diggins-Smith Free Throw 2 of 2 (14 PTS),54 - 48,-6,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,473,1,6,3,7:45 PM,1:02,Hayes 10' Driving Layup (11 PTS),,,54 - 50,-4,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,474,6,2,3,7:45 PM,1:02,,,Stevens S.FOUL (P1.T4),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,476,3,10,3,7:45 PM,1:02,MISS Hayes Free Throw 1 of 1,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,477,4,0,3,7:45 PM,1:01,,,Stevens REBOUND (Off:1 Def:4),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,478,1,5,3,7:45 PM,0:51,,,Stevens 1' Layup (5 PTS) (Diggins-Smith 4 AST),56 - 50,-6,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,480,2,1,3,7:46 PM,0:42,MISS Clarendon 18' Jump Shot,,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,481,4,0,3,7:46 PM,0:42,,,Stevens REBOUND (Off:1 Def:5),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,482,5,4,3,7:46 PM,0:39,,,Stevens Traveling Turnover (P3.T18),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,483,6,1,3,7:46 PM,0:29,,,Stevens P.FOUL (P2.PN),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,485,3,11,3,7:47 PM,0:29,Clarendon Free Throw 1 of 2 (1 PTS),,,56 - 51,-5,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,486,3,12,3,7:47 PM,0:29,Clarendon Free Throw 2 of 2 (2 PTS),,,56 - 52,-4,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,487,5,40,3,7:47 PM,0:10,,,Stevens Out of Bounds Lost Ball Turnover (P4.T19),,,5.0,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,488,2,6,3,7:48 PM,0:03,MISS Sykes 2' Driving Layup,,Cambage BLOCK (3 BLK),,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1
+1021800018,490,4,0,3,7:48 PM,0:03,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,491,2,1,3,7:48 PM,0:00,,,MISS Diggins-Smith 52' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,492,4,0,3,7:48 PM,0:00,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,493,13,0,3,7:48 PM,0:00,,End of 3rd Period (7:48 PM EST),,56 - 52,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1021800018,496,12,0,4,7:51 PM,10:00,,Start of 4th Period (7:51 PM EST),,56 - 52,-4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,497,1,6,4,7:51 PM,9:49,Hayes 2' Driving Layup (13 PTS),,,56 - 54,-2,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,561,7,1,4,7:51 PM,9:47,,Delay Of Game,,,,,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,498,6,18,4,7:52 PM,9:47,,Delay Technical,,,,,0,,,,,,0,0,,,,,,1,0,,,,,,1
+1021800018,499,3,16,4,7:52 PM,9:47,,,Diggins-Smith Free Throw Technical (15 PTS),57 - 54,-3,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,500,5,1,4,7:52 PM,9:35,Clarendon STEAL (1 STL),,Cambage Bad Pass Turnover (P5.T20),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,502,2,79,4,7:52 PM,9:16,MISS Hayes 24' 3PT Pullup Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,503,4,0,4,7:52 PM,9:15,,,Davis REBOUND (Off:0 Def:3),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,504,1,6,4,7:53 PM,8:57,,,Cambage 7' Driving Layup (9 PTS),59 - 54,-5,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,506,6,2,4,7:53 PM,8:57,Williams S.FOUL (P4.T1),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,508,3,10,4,7:53 PM,8:57,,,Cambage Free Throw 1 of 1 (10 PTS),60 - 54,-6,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,509,2,79,4,7:54 PM,8:41,MISS Billings 14' Pullup Jump Shot,,,,,4.0,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,510,4,0,4,7:54 PM,8:40,,,Cambage REBOUND (Off:1 Def:6),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,511,6,27,4,7:54 PM,8:18,Sykes Personal Block Foul (P2.T2),,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,513,8,0,4,7:54 PM,8:18,SUB: Breland FOR Sykes,,,,,4.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,514,8,0,4,7:54 PM,8:18,SUB: McCoughtry FOR Billings,,,,,4.0,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,517,2,80,4,7:55 PM,8:13,,,MISS Thornton 3PT Step Back Jump Shot,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,518,4,0,4,7:55 PM,8:10,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,519,6,3,4,7:55 PM,8:10,,,Cambage L.B.FOUL (P4.T1),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,521,2,6,4,7:55 PM,7:58,MISS McCoughtry 8' Driving Layup,,Christmas-Kelly BLOCK (2 BLK),,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1
+1021800018,523,4,0,4,7:55 PM,7:57,,,Diggins-Smith REBOUND (Off:1 Def:4),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,524,2,1,4,7:55 PM,7:51,,,MISS Thornton 24' 3PT Jump Shot,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,525,4,0,4,7:55 PM,7:49,Williams REBOUND (Off:4 Def:2),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,534,10,0,4,7:57 PM,7:35,Jump Ball Williams vs. Christmas-Kelly: Tip to McCoughtry,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1021800018,528,1,1,4,7:56 PM,7:29,McCoughtry 25' 3PT Jump Shot (13 PTS),,,60 - 57,-3,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,529,2,79,4,7:57 PM,7:13,,,MISS Davis 20' Pullup Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,530,4,0,4,7:57 PM,7:11,Breland REBOUND (Off:4 Def:4),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,531,2,5,4,7:57 PM,7:05,MISS Williams 5' Layup,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,532,4,0,4,7:57 PM,7:03,,,Cambage REBOUND (Off:1 Def:7),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,533,5,4,4,7:57 PM,7:01,,,Cambage Traveling Turnover (P6.T21),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,537,2,5,4,7:57 PM,7:01,MISS Clarendon 2' Layup,,Diggins-Smith BLOCK (2 BLK),,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1
+1021800018,539,4,0,4,7:57 PM,6:59,Williams REBOUND (Off:5 Def:2),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,540,2,5,4,7:57 PM,6:59,MISS Williams 3' Layup,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,541,4,0,4,7:57 PM,6:58,Williams REBOUND (Off:6 Def:2),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,542,2,44,4,7:57 PM,6:56,MISS Williams 6' Reverse Layup,,Diggins-Smith BLOCK (3 BLK),,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1
+1021800018,544,4,0,4,7:57 PM,6:55,Clarendon REBOUND (Off:1 Def:1),,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,545,2,44,4,7:57 PM,6:48,MISS Williams 2' Reverse Layup,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,546,4,0,4,7:58 PM,6:47,Breland REBOUND (Off:5 Def:4),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,547,2,97,4,7:58 PM,6:46,MISS Breland 1' Tip Layup Shot,,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,548,4,0,4,7:58 PM,6:45,,,Cambage REBOUND (Off:1 Def:8),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,549,2,101,4,7:58 PM,6:30,Williams BLOCK (2 BLK),,MISS Diggins-Smith 11' Driving Floating Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021800018,551,4,0,4,7:58 PM,6:28,McCoughtry REBOUND (Off:1 Def:5),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,552,5,2,4,7:58 PM,6:24,McCoughtry Lost Ball Turnover (P3.T11),,Thornton STEAL (1 STL),,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,554,6,1,4,7:58 PM,6:21,Clarendon P.FOUL (P3.T3),,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,556,18,0,4,7:59 PM,6:21,,Instant Replay4th Period (7:59 PM EST),,60 - 57,-3,0.0,554,,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,557,5,40,4,8:00 PM,6:05,,,Diggins-Smith Out of Bounds Lost Ball Turnover (P3.T22),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021800018,558,2,79,4,8:00 PM,5:47,MISS McCoughtry 21' Pullup Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,559,4,0,4,8:00 PM,5:45,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,560,9,1,4,8:00 PM,5:45,DREAM Timeout: Regular (Full 4 Short 0),,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,562,2,1,4,8:04 PM,5:20,,,MISS Davis 20' Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,563,4,0,4,8:04 PM,5:20,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,564,5,11,4,8:04 PM,5:20,,,Wings Turnover: Shot Clock (T#23),,,3.0,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021800018,565,2,78,4,8:04 PM,5:10,MISS Hayes 9' Floating Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,566,4,0,4,8:04 PM,5:09,,,Cambage REBOUND (Off:1 Def:9),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,567,1,1,4,8:04 PM,4:47,,,Diggins-Smith 24' 3PT Jump Shot (18 PTS) (Christmas-Kelly 3 AST),63 - 57,-6,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,569,1,6,4,8:05 PM,4:31,McCoughtry 1' Driving Layup (15 PTS),,,63 - 59,-4,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,570,2,1,4,8:05 PM,4:11,,,MISS Diggins-Smith 24' 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,571,4,0,4,8:05 PM,4:08,Breland REBOUND (Off:5 Def:5),,,,,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,572,6,2,4,8:05 PM,4:01,,,Diggins-Smith S.FOUL (P2.T2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,574,3,11,4,8:06 PM,4:01,Clarendon Free Throw 1 of 2 (3 PTS),,,63 - 60,-3,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,575,3,12,4,8:06 PM,4:01,MISS Clarendon Free Throw 2 of 2,,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,576,4,0,4,8:06 PM,3:59,,,Cambage REBOUND (Off:1 Def:10),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,577,1,5,4,8:06 PM,3:42,,,Cambage 4' Layup (12 PTS),65 - 60,-5,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,579,6,2,4,8:06 PM,3:42,Williams S.FOUL (P5.T4),,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,581,3,10,4,8:07 PM,3:42,,,MISS Cambage Free Throw 1 of 1,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,582,4,0,4,8:07 PM,3:38,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,583,6,1,4,8:07 PM,3:38,Clarendon P.FOUL (P4.PN),,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,585,3,11,4,8:08 PM,3:38,,,MISS Davis Free Throw 1 of 2,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,586,4,1,4,8:08 PM,3:38,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,587,3,12,4,8:08 PM,3:38,,,Davis Free Throw 2 of 2 (3 PTS),66 - 60,-6,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,588,2,5,4,8:08 PM,3:30,MISS Hayes 8' Layup,,Cambage BLOCK (4 BLK),,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,1
+1021800018,590,4,0,4,8:08 PM,3:27,,,Christmas-Kelly REBOUND (Off:2 Def:4),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,591,2,1,4,8:08 PM,3:15,,,MISS Thornton 24' 3PT Jump Shot,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,592,4,0,4,8:08 PM,3:11,Hayes REBOUND (Off:0 Def:3),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,593,6,2,4,8:09 PM,3:05,,,Thornton S.FOUL (P5.T3),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,595,3,11,4,8:09 PM,3:05,Breland Free Throw 1 of 2 (3 PTS),,,66 - 61,-5,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,596,8,0,4,8:09 PM,3:05,SUB: Montgomery FOR Clarendon,,,,,4.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,598,3,12,4,8:09 PM,3:05,Breland Free Throw 2 of 2 (4 PTS),,,66 - 62,-4,4.0,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,599,1,5,4,8:10 PM,2:49,,,Cambage 1' Layup (14 PTS) (Davis 3 AST),68 - 62,-6,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,601,2,79,4,8:10 PM,2:32,MISS McCoughtry 14' Pullup Jump Shot,,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,602,4,0,4,8:10 PM,2:29,,,Cambage REBOUND (Off:1 Def:11),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,603,2,47,4,8:10 PM,2:14,,,MISS Cambage 10' Turnaround Jump Shot,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,604,4,0,4,8:10 PM,2:11,McCoughtry REBOUND (Off:1 Def:6),,,,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,605,2,5,4,8:10 PM,2:07,MISS Williams 1' Layup,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,606,4,0,4,8:10 PM,2:02,,,Cambage REBOUND (Off:1 Def:12),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,610,1,1,4,8:10 PM,1:42,,,Thornton 3PT Jump Shot (14 PTS) (Christmas-Kelly 4 AST),71 - 62,-9,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,612,9,1,4,8:12 PM,1:42,DREAM Timeout: Regular (Full 6 Short 0),,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,613,8,0,4,8:13 PM,1:42,SUB: Dantas FOR Williams,,,,,4.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021800018,614,8,0,4,8:13 PM,1:42,,,SUB: Stevens FOR Cambage,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,617,1,5,4,8:14 PM,1:29,McCoughtry 2' Layup (19 PTS) (Montgomery 3 AST),,,75 - 66,-9,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,619,1,1,4,8:14 PM,1:08,,,Diggins-Smith 24' 3PT Jump Shot (24 PTS) (Thornton 1 AST),78 - 66,-12,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,621,5,2,4,8:14 PM,1:01,McCoughtry Lost Ball Turnover (P4.T12),,Christmas-Kelly STEAL (2 STL),,,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021800018,663,9,1,4,8:11 PM,0:54,DREAM Timeout: Regular (Full 5 Short 0),,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,662,3,12,4,8:12 PM,0:54,,,Diggins-Smith Free Throw 2 of 2 (19 PTS),73 - 64,-9,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,661,3,11,4,8:13 PM,0:54,,,Diggins-Smith Free Throw 1 of 2 (21 PTS),75 - 64,-11,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,623,6,1,4,8:15 PM,0:54,Hayes P.FOUL (P4.PN),,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021800018,628,1,1,4,8:17 PM,0:51,Montgomery 24' 3PT Jump Shot (9 PTS) (Hayes 4 AST),,,78 - 69,-9,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,630,9,1,4,8:17 PM,0:43,,,Wings Timeout: Regular (Reg.4 Short 1),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,631,8,0,4,8:18 PM,0:43,,,SUB: Cambage FOR Thornton,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,633,5,1,4,8:19 PM,0:42,Breland STEAL (2 STL),,Christmas-Kelly Bad Pass Turnover (P1.T24),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,202638,Jessica Breland,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021800018,635,6,2,4,8:19 PM,0:37,,,Davis S.FOUL (P3.T4),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,4,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021800018,637,3,11,4,8:19 PM,0:37,Hayes Free Throw 1 of 2 (14 PTS),,,78 - 70,-8,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,638,3,12,4,8:19 PM,0:37,MISS Hayes Free Throw 2 of 2,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,639,4,0,4,8:19 PM,0:37,,,Cambage REBOUND (Off:1 Def:13),,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,669,3,12,4,8:12 PM,0:33,,,Diggins-Smith Free Throw 2 of 2 (20 PTS),74 - 64,-10,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,670,8,0,4,8:12 PM,0:33,,,SUB: Thornton FOR Cambage,,,5.0,202633,Liz Cambage,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021800018,667,3,11,4,8:13 PM,0:33,,,MISS Diggins-Smith Free Throw 1 of 2,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,668,4,1,4,8:13 PM,0:33,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,665,6,28,4,8:15 PM,0:33,Montgomery Personal Take Foul (P4.PN),,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,0
+1021800018,672,1,6,4,8:11 PM,0:27,McCoughtry 2' Driving Layup (17 PTS),,,72 - 64,-8,4.0,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021800018,677,3,12,4,8:11 PM,0:26,,,Christmas-Kelly Free Throw 2 of 2 (7 PTS),72 - 62,-10,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,675,3,11,4,8:11 PM,0:26,,,MISS Christmas-Kelly Free Throw 1 of 2,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021800018,676,4,1,4,8:11 PM,0:26,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,673,6,28,4,8:11 PM,0:26,Montgomery Personal Take Foul (P3.PN),,,,,4.0,201904,Renee Montgomery,1611661330.0,Atlanta,Dream,ATL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,0
+1021800018,653,2,6,4,8:21 PM,0:17,MISS Dantas 4' Driving Layup,,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,654,4,0,4,8:21 PM,0:15,Dantas REBOUND (Off:2 Def:0),,,,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,655,2,1,4,8:21 PM,0:14,MISS Dantas 14' Jump Shot,,Stevens BLOCK (1 BLK),,,4.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,5,1628922,Azurá Stevens,1611661321.0,Dallas,Wings,DAL,1
+1021800018,657,4,0,4,8:22 PM,0:12,DREAM Rebound,,,,,2.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021800018,658,2,1,4,8:22 PM,0:10,MISS Hayes 21' Jump Shot,,,,,4.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021800018,659,4,0,4,8:22 PM,0:09,,,Davis REBOUND (Off:0 Def:4),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021800018,609,13,0,4,8:11 PM,0:00,,End of 4th Period (8:11 PM EST),,71 - 62,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

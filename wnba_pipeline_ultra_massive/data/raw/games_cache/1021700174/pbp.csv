@@ -1,0 +1,409 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700174,0,12,0,1,3:09 PM,10:00,,Start of 1st Period (3:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,1,10,0,1,3:09 PM,10:00,Jump Ball J. Jones vs. Griner: Tip to D. Robinson,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,1
+1021700174,2,6,2,1,3:10 PM,9:44,J. Jones S.FOUL (P1.T1),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,3,3,11,1,3:10 PM,9:44,,,Griner Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,5,3,12,1,3:10 PM,9:44,,,Griner Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,7,2,1,1,3:11 PM,9:24,MISS Williams 19' Jump Shot,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,8,4,0,1,3:11 PM,9:24,,,Griner REBOUND (Off:0 Def:1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,9,6,1,1,3:11 PM,9:11,Stricklen P.FOUL (P1.T2),,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,10,1,1,1,3:11 PM,9:06,,,Currie 16' Jump Shot (2 PTS) (D. Robinson 1 AST),4 - 0,-4,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,11,1,79,1,3:12 PM,8:44,J. Thomas 15' Pullup Jump Shot (2 PTS),,,4 - 2,-2,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,12,2,1,1,3:12 PM,8:32,,,MISS Taurasi 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,13,4,0,1,3:12 PM,8:32,A. Thomas REBOUND (Off:0 Def:1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,14,2,1,1,3:12 PM,8:23,MISS Stricklen 25' 3PT Jump Shot,,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,15,4,0,1,3:12 PM,8:23,,,D. Robinson REBOUND (Off:0 Def:1),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,16,2,1,1,3:12 PM,8:08,,,MISS Currie 18' Jump Shot,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,17,4,0,1,3:12 PM,8:08,J. Thomas REBOUND (Off:0 Def:1),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,18,2,1,1,3:13 PM,8:02,MISS J. Thomas 15' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,19,4,0,1,3:13 PM,8:01,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,21,1,71,1,3:13 PM,7:41,,,Griner 2' Finger Roll Layup (4 PTS),6 - 2,-4,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,22,5,1,1,3:13 PM,7:30,J. Thomas Bad Pass Turnover (P1.T1),,Little STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,23,1,5,1,3:13 PM,7:24,,,Little 2' Layup (2 PTS),8 - 2,-6,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,24,9,1,1,3:13 PM,7:24,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,26,2,1,1,3:16 PM,7:08,MISS J. Thomas 21' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,27,4,0,1,3:16 PM,7:08,,,Taurasi REBOUND (Off:0 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,28,1,79,1,3:16 PM,7:00,,,D. Robinson 19' Pullup Jump Shot (2 PTS),10 - 2,-8,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,29,1,73,1,3:17 PM,6:48,J. Thomas 2' Driving Reverse Layup (4 PTS),,,10 - 4,-6,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,30,2,1,1,3:17 PM,6:29,,,MISS Griner 7' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,31,4,0,1,3:17 PM,6:28,J. Thomas REBOUND (Off:0 Def:2),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,32,1,5,1,3:17 PM,6:22,J. Jones 2' Layup (2 PTS) (J. Thomas 1 AST),,,10 - 6,-4,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,33,1,98,1,3:17 PM,6:07,,,Little 1' Cutting Layup Shot (4 PTS) (Taurasi 1 AST),12 - 6,-6,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,34,6,2,1,3:17 PM,5:55,,,Little S.FOUL (P1.T1),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,35,3,11,1,3:18 PM,5:55,MISS A. Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,36,4,1,1,3:18 PM,5:55,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,37,3,12,1,3:18 PM,5:55,A. Thomas Free Throw 2 of 2 (1 PTS),,,12 - 7,-5,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,39,2,5,1,3:18 PM,5:38,,,MISS Griner 3' Layup,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,40,4,0,1,3:18 PM,5:37,,,Griner REBOUND (Off:1 Def:1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,41,1,47,1,3:19 PM,5:34,,,Griner 2' Turnaround Jump Shot (6 PTS),14 - 7,-7,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,42,5,1,1,3:19 PM,5:23,Stricklen Bad Pass Turnover (P1.T2),,D. Robinson STEAL (1 STL),,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,43,2,5,1,3:19 PM,5:18,,,MISS D. Robinson 1' Layup,,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,44,4,0,1,3:19 PM,5:17,J. Thomas REBOUND (Off:0 Def:3),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,45,5,2,1,3:19 PM,5:13,J. Thomas Lost Ball Turnover (P2.T3),,Taurasi STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,46,5,2,1,3:19 PM,5:07,A. Thomas STEAL (1 STL),,Taurasi Lost Ball Turnover (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,47,7,5,1,3:19 PM,5:00,Williams Violation:Kicked Ball,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,48,8,0,1,3:19 PM,5:00,SUB: Bentley FOR Stricklen,,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,49,1,79,1,3:20 PM,4:54,Williams 10' Pullup Jump Shot (2 PTS),,,14 - 9,-5,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,51,6,2,1,3:20 PM,4:33,Bentley S.FOUL (P1.T3),,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021700174,52,3,11,1,3:21 PM,4:33,,,Currie Free Throw 1 of 2 (3 PTS),15 - 9,-6,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,54,3,12,1,3:21 PM,4:33,,,Currie Free Throw 2 of 2 (4 PTS),16 - 9,-7,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,56,1,79,1,3:21 PM,4:21,Williams 15' Pullup Jump Shot (4 PTS),,,16 - 11,-5,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,57,2,1,1,3:22 PM,4:01,,,MISS D. Robinson 16' Jump Shot,,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,58,4,0,1,3:22 PM,4:00,J. Jones REBOUND (Off:0 Def:1),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,59,1,1,1,3:22 PM,3:53,J. Jones 27' 3PT Jump Shot (5 PTS) (Williams 1 AST),,,16 - 14,-2,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,60,6,1,1,3:22 PM,3:38,A. Thomas P.FOUL (P1.T4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,61,8,0,1,3:22 PM,3:38,,,SUB: Talbot FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,62,8,0,1,3:22 PM,3:38,,,SUB: Mitchell FOR D. Robinson,,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,63,1,1,1,3:22 PM,3:30,,,Currie 24' 3PT Jump Shot (7 PTS),19 - 14,-5,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,64,1,1,1,3:23 PM,3:18,Bentley 5' Jump Shot (2 PTS),,,19 - 16,-3,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,122,6,2,1,3:23 PM,3:18,,,Currie S.FOUL (P1.T2),,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021700174,65,3,10,1,3:23 PM,3:18,Bentley Free Throw 1 of 1 (3 PTS),,,19 - 17,-2,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,70,6,2,1,3:24 PM,2:53,J. Jones S.FOUL (P2.PN),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,72,3,11,1,3:24 PM,2:53,,,MISS Talbot Free Throw 1 of 2,,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,73,4,1,1,3:24 PM,2:53,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,74,8,0,1,3:24 PM,2:53,SUB: Banham FOR Williams,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,75,8,0,1,3:24 PM,2:53,,,SUB: George FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,76,8,0,1,3:24 PM,2:53,SUB: Pedersen FOR J. Jones,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,77,3,12,1,3:25 PM,2:53,,,Talbot Free Throw 2 of 2 (1 PTS),20 - 17,-3,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,79,1,75,1,3:25 PM,2:41,Bentley 1' Driving Finger Roll Layup (5 PTS),,,20 - 19,-1,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,80,6,2,1,3:25 PM,2:33,Bentley S.FOUL (P2.PN),,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,81,3,11,1,3:25 PM,2:33,,,Currie Free Throw 1 of 2 (8 PTS),21 - 19,-2,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,83,8,0,1,3:25 PM,2:33,SUB: Stricklen FOR Bentley,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,84,3,12,1,3:26 PM,2:33,,,Currie Free Throw 2 of 2 (9 PTS),22 - 19,-3,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,86,1,1,1,3:26 PM,2:12,J. Thomas 19' Jump Shot (6 PTS),,,22 - 21,-1,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,88,2,1,1,3:26 PM,1:56,,,MISS George 13' Jump Shot,,,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,89,4,0,1,3:26 PM,1:55,,,Little REBOUND (Off:1 Def:0),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,90,1,72,1,3:26 PM,1:52,,,Little 4' Putback Layup (6 PTS),24 - 21,-3,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,91,5,2,1,3:27 PM,1:43,Banham Lost Ball Turnover (P1.T4),,Talbot STEAL (1 STL),,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,93,2,5,1,3:27 PM,1:37,,,MISS Mitchell 3' Layup,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,94,4,0,1,3:27 PM,1:37,A. Thomas REBOUND (Off:0 Def:2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,95,6,1,1,3:27 PM,1:37,,,George P.FOUL (P1.T3),,,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,111,8,0,1,3:27 PM,1:37,,,SUB: Cannon FOR Currie,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,103,8,0,1,3:27 PM,1:37,,,SUB: Turner FOR Little,,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,96,2,1,1,3:27 PM,1:16,MISS J. Thomas 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,97,4,0,1,3:27 PM,1:15,,,Mitchell REBOUND (Off:0 Def:1),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,98,2,1,1,3:28 PM,1:05,,,MISS Turner 14' Jump Shot,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,99,4,0,1,3:28 PM,1:04,A. Thomas REBOUND (Off:0 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,100,1,5,1,3:28 PM,1:00,A. Thomas 2' Layup (3 PTS),,,24 - 23,-1,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,101,6,2,1,3:28 PM,0:42,Pedersen S.FOUL (P1.PN),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,104,8,0,1,3:29 PM,0:42,SUB: Tuck FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,105,3,11,1,3:29 PM,0:42,,,Cannon Free Throw 1 of 2 (1 PTS),25 - 23,-2,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,107,3,12,1,3:29 PM,0:42,,,MISS Cannon Free Throw 2 of 2,,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,109,4,0,1,3:29 PM,0:38,Tuck REBOUND (Off:0 Def:1),,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,110,1,73,1,3:29 PM,0:29,J. Thomas 3' Driving Reverse Layup (8 PTS) (Pedersen 1 AST),,,25 - 25,TIE,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,112,6,1,1,3:29 PM,0:10,Tuck P.FOUL (P1.PN),,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,113,3,11,1,3:30 PM,0:10,,,Cannon Free Throw 1 of 2 (2 PTS),26 - 25,-1,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,115,3,12,1,3:30 PM,0:10,,,Cannon Free Throw 2 of 2 (3 PTS),27 - 25,-2,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,117,2,1,1,3:30 PM,0:02,MISS J. Thomas 10' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,118,4,0,1,3:30 PM,0:01,Banham REBOUND (Off:1 Def:0),,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,119,13,0,1,3:30 PM,0:00,,End of 1st Period (3:30 PM EST),,27 - 25,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,123,12,0,2,3:33 PM,10:00,,Start of 2nd Period (3:33 PM EST),,27 - 25,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,124,2,5,2,3:33 PM,9:43,MISS J. Thomas 3' Layup,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,125,4,0,2,3:33 PM,9:43,,,Griner REBOUND (Off:1 Def:2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,126,1,1,2,3:33 PM,9:27,,,Taurasi 11' Jump Shot (2 PTS) (Talbot 1 AST),29 - 25,-4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,128,2,1,2,3:34 PM,9:13,MISS Stricklen 24' 3PT Jump Shot,,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,129,4,0,2,3:34 PM,9:13,,,Griner REBOUND (Off:1 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,130,6,1,2,3:34 PM,9:02,Pedersen P.FOUL (P2.T1),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,131,2,1,2,3:34 PM,8:53,,,MISS Cannon 4' Jump Shot,,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,132,4,0,2,3:34 PM,8:52,Pedersen REBOUND (Off:0 Def:1),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,133,5,45,2,3:34 PM,8:45,J. Thomas Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,134,1,47,2,3:35 PM,8:35,,,Griner 5' Turnaround Jump Shot (8 PTS) (Mitchell 1 AST),31 - 25,-6,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,135,2,1,2,3:35 PM,8:21,MISS Banham 24' 3PT Jump Shot,,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,136,4,0,2,3:35 PM,8:20,Stricklen REBOUND (Off:1 Def:0),,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,137,2,1,2,3:35 PM,8:11,MISS Pedersen 15' Jump Shot,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,138,4,0,2,3:35 PM,8:10,,,Cannon REBOUND (Off:0 Def:1),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,139,6,4,2,3:35 PM,8:05,,,Griner OFF.Foul (P1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,140,5,5,2,3:35 PM,8:05,,,Griner Foul Turnover (P1.T2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700174,141,8,0,2,3:35 PM,8:05,SUB: J. Jones FOR Pedersen,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,142,1,1,2,3:36 PM,7:49,Stricklen 25' 3PT Jump Shot (3 PTS) (Banham 1 AST),,,31 - 28,-3,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,143,5,1,2,3:36 PM,7:36,J. Jones STEAL (1 STL),,Taurasi Bad Pass Turnover (P2.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,144,1,1,2,3:36 PM,7:28,J. Jones 5' Jump Shot (7 PTS),,,31 - 30,-1,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,145,6,2,2,3:36 PM,7:28,,,Griner S.FOUL (P2.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,146,8,0,2,3:36 PM,7:28,SUB: Williams FOR Banham,,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,147,8,0,2,3:37 PM,7:28,SUB: Bentley FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,148,3,10,2,3:37 PM,7:28,J. Jones Free Throw 1 of 1 (8 PTS),,,31 - 31,TIE,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,150,1,5,2,3:37 PM,7:13,,,Griner 4' Layup (10 PTS),33 - 31,-2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,151,6,2,2,3:37 PM,7:13,Tuck S.FOUL (P2.T2),,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,152,3,10,2,3:38 PM,7:13,,,Griner Free Throw 1 of 1 (11 PTS),34 - 31,-3,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,154,1,1,2,3:38 PM,7:00,Stricklen 3PT Jump Shot (6 PTS) (Tuck 1 AST),,,34 - 34,TIE,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,155,2,1,2,3:38 PM,6:34,,,MISS Griner 16' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,156,4,0,2,3:38 PM,6:34,,,Griner REBOUND (Off:2 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,157,1,42,2,3:39 PM,6:23,,,Cannon 4' Driving Layup (5 PTS) (Taurasi 2 AST),36 - 34,-2,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,158,2,1,2,3:39 PM,6:03,MISS Tuck 14' Jump Shot,,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,159,4,0,2,3:39 PM,6:02,,,Griner REBOUND (Off:2 Def:4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,160,2,1,2,3:39 PM,5:50,,,MISS Cannon 9' Jump Shot,,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,161,4,0,2,3:39 PM,5:49,Stricklen REBOUND (Off:1 Def:1),,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,162,2,1,2,3:39 PM,5:42,MISS Bentley 18' Jump Shot,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,163,4,0,2,3:39 PM,5:41,Williams REBOUND (Off:1 Def:0),,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,164,1,47,2,3:39 PM,5:38,Williams 5' Turnaround Jump Shot (6 PTS),,,36 - 36,TIE,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,165,2,1,2,3:40 PM,5:17,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,166,4,0,2,3:40 PM,5:16,Bentley REBOUND (Off:0 Def:1),,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,167,2,1,2,3:40 PM,5:01,MISS Bentley 24' 3PT Jump Shot,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,168,4,0,2,3:40 PM,4:59,,,Cannon REBOUND (Off:0 Def:2),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,169,5,40,2,3:40 PM,4:58,,,Cannon Out of Bounds Lost Ball Turnover (P1.T4),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,170,9,4,2,3:40 PM,4:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,174,8,0,2,3:42 PM,4:58,,,SUB: D. Robinson FOR Talbot,,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,175,8,0,2,3:42 PM,4:58,,,SUB: Turner FOR Mitchell,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,176,8,0,2,3:42 PM,4:58,,,SUB: Little FOR Cannon,,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,177,8,0,2,3:43 PM,4:58,SUB: A. Thomas FOR Tuck,,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,178,1,1,2,3:43 PM,4:54,Williams 18' Jump Shot (8 PTS) (A. Thomas 1 AST),,,36 - 38,2,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,179,2,1,2,3:43 PM,4:35,,,MISS Taurasi 15' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,180,4,0,2,3:43 PM,4:34,,,Turner REBOUND (Off:1 Def:0),,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,181,2,1,2,3:43 PM,4:24,,,MISS Little 3' Jump Shot,,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,182,4,0,2,3:43 PM,4:23,J. Jones REBOUND (Off:0 Def:2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,183,2,1,2,3:43 PM,4:12,MISS Bentley 15' Jump Shot,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,184,4,0,2,3:43 PM,4:11,,,D. Robinson REBOUND (Off:0 Def:2),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,185,2,1,2,3:44 PM,3:55,,,MISS Little 9' Jump Shot,,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,186,4,0,2,3:44 PM,3:54,Bentley REBOUND (Off:0 Def:2),,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,187,2,1,2,3:44 PM,3:47,MISS Stricklen 3PT Jump Shot,,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,188,4,0,2,3:44 PM,3:47,,,Taurasi REBOUND (Off:0 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,189,2,1,2,3:44 PM,3:24,,,MISS Griner 8' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,190,4,0,2,3:44 PM,3:24,Stricklen REBOUND (Off:1 Def:2),,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,195,2,45,2,3:44 PM,3:08,MISS J. Jones 5' Jump Shot,,Griner BLOCK (1 BLK),,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1021700174,196,4,0,2,3:44 PM,3:08,J. Jones REBOUND (Off:1 Def:2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,191,1,5,2,3:44 PM,3:08,J. Jones 3' Layup (10 PTS) (Stricklen 1 AST),,,36 - 40,4,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,192,9,1,2,3:45 PM,2:58,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,197,8,0,2,3:47 PM,2:58,,,SUB: George FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,198,8,0,2,3:47 PM,2:58,,,SUB: Currie FOR Turner,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,199,8,0,2,3:47 PM,2:58,SUB: J. Thomas FOR Bentley,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,200,2,1,2,3:48 PM,2:46,,,MISS Taurasi 8' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,201,4,0,2,3:48 PM,2:45,Williams REBOUND (Off:1 Def:1),,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,202,2,1,2,3:48 PM,2:39,MISS Williams 15' Jump Shot,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,203,4,0,2,3:48 PM,2:38,A. Thomas REBOUND (Off:1 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,204,2,5,2,3:48 PM,2:35,MISS A. Thomas 1' Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,205,4,0,2,3:48 PM,2:34,Williams REBOUND (Off:2 Def:1),,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,206,6,1,2,3:48 PM,2:30,,,Little P.FOUL (P2.T2),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,207,8,0,2,3:48 PM,2:30,,,SUB: Mitchell FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,208,2,5,2,3:48 PM,2:21,MISS A. Thomas 2' Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,209,4,0,2,3:48 PM,2:20,J. Jones REBOUND (Off:2 Def:2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,210,1,72,2,3:48 PM,2:19,J. Jones 1' Putback Layup (12 PTS),,,36 - 42,6,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,211,1,1,2,3:48 PM,2:12,,,George 17' Jump Shot (2 PTS) (Mitchell 2 AST),38 - 42,4,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,212,1,5,2,3:49 PM,1:55,J. Jones 1' Layup (14 PTS) (A. Thomas 2 AST),,,38 - 44,6,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,213,1,1,2,3:49 PM,1:33,,,Currie 3PT Jump Shot (12 PTS),41 - 44,3,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,214,6,2,2,3:50 PM,1:11,,,George S.FOUL (P2.T3),,,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,215,3,11,2,3:50 PM,1:11,J. Jones Free Throw 1 of 2 (15 PTS),,,41 - 45,4,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,217,8,0,2,3:50 PM,1:11,,,SUB: Griner FOR George,,,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,218,3,12,2,3:50 PM,1:11,J. Jones Free Throw 2 of 2 (16 PTS),,,41 - 46,5,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,220,1,66,2,3:51 PM,0:58,,,Little 8' Jump Bank Shot (8 PTS),43 - 46,3,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,221,6,2,2,3:51 PM,0:58,J. Thomas S.FOUL (P1.T3),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,222,3,10,2,3:51 PM,0:58,,,MISS Little Free Throw 1 of 1,,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,224,4,0,2,3:51 PM,0:56,A. Thomas REBOUND (Off:1 Def:4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,225,6,26,2,3:51 PM,0:45,Williams Offensive Charge Foul (P1),,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,226,5,5,2,3:51 PM,0:45,Williams Foul Turnover (P1.T6),,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700174,227,1,42,2,3:52 PM,0:31,,,D. Robinson 3' Driving Layup (4 PTS),45 - 46,1,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,228,2,78,2,3:52 PM,0:14,MISS J. Thomas 6' Floating Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,229,4,0,2,3:52 PM,0:13,,,Little REBOUND (Off:1 Def:1),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,230,2,1,2,3:52 PM,0:01,A. Thomas BLOCK (1 BLK),,MISS Griner 14' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700174,231,4,0,2,3:52 PM,0:00,A. Thomas REBOUND (Off:1 Def:5),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,232,13,0,2,3:52 PM,0:00,,End of 2nd Period (3:52 PM EST),,45 - 46,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,235,12,0,3,4:08 PM,10:00,,Start of 3rd Period (4:08 PM EST),,45 - 46,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,237,2,5,3,4:08 PM,9:47,MISS Williams 2' Layup,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,236,4,0,3,4:08 PM,9:47,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,238,5,1,3,4:08 PM,9:32,J. Thomas STEAL (1 STL),,Taurasi Bad Pass Turnover (P3.T5),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,239,1,1,3,4:09 PM,9:25,J. Thomas 26' 3PT Jump Shot (11 PTS) (A. Thomas 3 AST),,,45 - 49,4,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,240,5,1,3,4:09 PM,9:05,Williams STEAL (1 STL),,Griner Bad Pass Turnover (P2.T6),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,241,6,1,3,4:09 PM,9:04,,,Taurasi P.FOUL (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,242,2,1,3,4:10 PM,8:46,MISS J. Jones 4' Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,243,4,0,3,4:10 PM,8:45,,,Little REBOUND (Off:1 Def:2),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,244,1,78,3,4:10 PM,8:36,,,Taurasi 5' Floating Jump Shot (4 PTS),47 - 49,2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,245,1,5,3,4:10 PM,8:17,J. Jones 2' Layup (18 PTS),,,47 - 51,4,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,246,2,1,3,4:10 PM,8:05,,,MISS Currie 19' Jump Shot,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,247,4,0,3,4:10 PM,8:04,J. Jones REBOUND (Off:2 Def:3),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,248,1,47,3,4:10 PM,7:51,A. Thomas 5' Turnaround Jump Shot (5 PTS),,,47 - 53,6,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,249,5,1,3,4:11 PM,7:37,J. Thomas STEAL (2 STL),,D. Robinson Bad Pass Turnover (P1.T7),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,250,1,5,3,4:11 PM,7:29,Williams 3' Layup (10 PTS) (J. Thomas 2 AST),,,47 - 55,8,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,251,9,1,3,4:11 PM,7:29,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,254,5,1,3,4:14 PM,7:17,Williams STEAL (2 STL),,Currie Bad Pass Turnover (P1.T8),,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,255,6,1,3,4:14 PM,7:13,,,D. Robinson P.FOUL (P1.T2),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,256,6,1,3,4:14 PM,7:04,,,Griner P.FOUL (P3.T3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,257,1,1,3,4:15 PM,6:54,J. Thomas 3PT Jump Shot (14 PTS) (Stricklen 2 AST),,,47 - 58,11,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,258,6,1,3,4:15 PM,6:40,J. Thomas P.FOUL (P2.T1),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,259,8,0,3,4:15 PM,6:40,,,SUB: Mitchell FOR D. Robinson,,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,260,8,0,3,4:15 PM,6:40,,,SUB: Talbot FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,261,6,1,3,4:16 PM,6:37,A. Thomas P.FOUL (P2.T2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,262,5,1,3,4:16 PM,6:36,A. Thomas STEAL (2 STL),,Mitchell Bad Pass Turnover (P1.T9),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,263,6,2,3,4:16 PM,6:34,,,Little S.FOUL (P3.T4),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,264,3,11,3,4:16 PM,6:34,MISS A. Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,265,4,1,3,4:16 PM,6:34,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,266,3,12,3,4:17 PM,6:34,A. Thomas Free Throw 2 of 2 (6 PTS),,,47 - 59,12,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,268,5,11,3,4:17 PM,6:10,,,Mercury Turnover: Shot Clock (T#10),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700174,270,1,42,3,4:18 PM,5:58,A. Thomas 3' Driving Layup (8 PTS),,,47 - 61,14,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,271,1,1,3,4:18 PM,5:42,,,Griner 17' Jump Shot (13 PTS) (Little 1 AST),49 - 61,12,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,272,5,11,3,4:18 PM,5:15,SUN Turnover: Shot Clock (T#7),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700174,273,2,1,3,4:19 PM,5:04,,,MISS Currie 5' Jump Shot,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,274,4,0,3,4:19 PM,5:03,J. Jones REBOUND (Off:2 Def:4),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,275,1,5,3,4:19 PM,4:58,A. Thomas 1' Layup (10 PTS) (J. Jones 1 AST),,,49 - 63,14,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,276,9,2,3,4:19 PM,4:57,,,Mercury Timeout: Short (Reg.2 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,278,8,0,3,4:20 PM,4:57,,,SUB: Taurasi FOR Currie,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,279,8,0,3,4:20 PM,4:57,,,SUB: Cannon FOR Little,,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,280,2,1,3,4:20 PM,4:43,,,MISS Griner 10' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,281,4,0,3,4:20 PM,4:42,J. Thomas REBOUND (Off:0 Def:4),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,282,6,2,3,4:21 PM,4:28,,,Cannon S.FOUL (P1.PN),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,283,3,11,3,4:21 PM,4:28,A. Thomas Free Throw 1 of 2 (11 PTS),,,49 - 64,15,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,285,3,12,3,4:21 PM,4:28,A. Thomas Free Throw 2 of 2 (12 PTS),,,49 - 65,16,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,287,1,79,3,4:21 PM,4:19,,,Taurasi 24' 3PT Pullup Jump Shot (7 PTS),52 - 65,13,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,288,2,1,3,4:22 PM,4:02,MISS Williams 3PT Jump Shot,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,289,4,0,3,4:22 PM,4:01,,,Cannon REBOUND (Off:0 Def:3),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,290,2,1,3,4:22 PM,3:56,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,291,4,0,3,4:22 PM,3:55,,,Cannon REBOUND (Off:1 Def:3),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,292,1,72,3,4:22 PM,3:54,,,Cannon 2' Putback Layup (7 PTS),54 - 65,11,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,293,5,1,3,4:22 PM,3:29,A. Thomas Bad Pass Turnover (P1.T8),,Taurasi STEAL (2 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,294,2,5,3,4:22 PM,3:23,,,MISS Talbot 3' Layup,,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,295,4,0,3,4:22 PM,3:22,,,Talbot REBOUND (Off:1 Def:0),,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,296,2,5,3,4:22 PM,3:17,,,MISS Talbot Layup,,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,298,4,0,3,4:22 PM,3:11,,,Taurasi REBOUND (Off:1 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,297,2,5,3,4:22 PM,3:11,,,MISS Taurasi 2' Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,299,4,0,3,4:22 PM,3:09,A. Thomas REBOUND (Off:1 Def:6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,300,1,1,3,4:23 PM,3:04,Williams 14' Jump Shot (12 PTS),,,54 - 67,13,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,301,2,5,3,4:23 PM,2:48,A. Thomas BLOCK (2 BLK),,MISS Taurasi 2' Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700174,302,4,0,3,4:23 PM,2:46,A. Thomas REBOUND (Off:1 Def:7),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,303,5,40,3,4:23 PM,2:43,Stricklen Out of Bounds Lost Ball Turnover (P2.T9),,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,304,8,0,3,4:23 PM,2:43,,,SUB: Little FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,305,8,0,3,4:23 PM,2:43,SUB: Bentley FOR Stricklen,,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,306,8,0,3,4:23 PM,2:43,SUB: Tuck FOR J. Jones,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,307,8,0,3,4:23 PM,2:43,SUB: B. Jones FOR Williams,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,308,6,2,3,4:24 PM,2:29,A. Thomas S.FOUL (P3.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,309,3,11,3,4:24 PM,2:29,,,MISS Cannon Free Throw 1 of 2,,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,310,4,1,3,4:24 PM,2:29,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,311,3,12,3,4:24 PM,2:29,,,Cannon Free Throw 2 of 2 (8 PTS),55 - 67,12,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,314,6,4,3,4:25 PM,2:23,B. Jones OFF.Foul (P1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,315,5,5,3,4:25 PM,2:23,B. Jones Foul Turnover (P1.T10),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700174,316,2,1,3,4:25 PM,2:06,,,MISS Taurasi 9' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,317,4,0,3,4:25 PM,2:06,B. Jones REBOUND (Off:0 Def:1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,318,1,5,3,4:25 PM,2:02,A. Thomas 2' Layup (14 PTS),,,55 - 69,14,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,319,6,2,3,4:25 PM,2:02,,,Mitchell S.FOUL (P1.PN),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,320,6,11,3,4:25 PM,2:02,,,Taurasi T.FOUL (P1.PN),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021700174,321,3,16,3,4:26 PM,2:02,MISS J. Thomas Free Throw Technical,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,322,4,1,3,4:26 PM,2:02,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,323,3,10,3,4:26 PM,2:02,MISS A. Thomas Free Throw 1 of 1,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,325,4,0,3,4:26 PM,2:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,327,2,1,3,4:27 PM,1:46,MISS Bentley 25' 3PT Jump Shot,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,328,4,0,3,4:27 PM,1:45,,,Little REBOUND (Off:1 Def:3),,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,329,2,1,3,4:27 PM,1:30,,,MISS Mitchell 25' 3PT Jump Shot,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,330,4,0,3,4:27 PM,1:29,B. Jones REBOUND (Off:0 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,331,1,1,3,4:27 PM,1:20,Bentley 3PT Jump Shot (8 PTS) (A. Thomas 4 AST),,,55 - 72,17,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,332,2,1,3,4:28 PM,1:03,,,MISS Mitchell 24' 3PT Jump Shot,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,333,4,0,3,4:28 PM,1:02,J. Thomas REBOUND (Off:0 Def:5),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,335,8,0,3,4:28 PM,0:55,,,SUB: Turner FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,336,8,0,3,4:28 PM,0:55,,,SUB: Currie FOR Talbot,,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,337,8,0,3,4:28 PM,0:55,SUB: Williams FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,338,2,1,3,4:28 PM,0:51,MISS Tuck 7' Jump Shot,,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,339,4,0,3,4:28 PM,0:49,A. Thomas REBOUND (Off:2 Def:7),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,340,2,1,3,4:28 PM,0:42,MISS Williams 4' Jump Shot,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,341,4,0,3,4:29 PM,0:42,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,342,6,3,3,4:29 PM,0:42,B. Jones L.B.FOUL (P2.T4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,343,2,1,3,4:29 PM,0:26,,,MISS Turner 24' 3PT Jump Shot,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,344,4,0,3,4:29 PM,0:26,B. Jones REBOUND (Off:0 Def:3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,345,2,1,3,4:29 PM,0:06,MISS A. Thomas 17' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,346,4,0,3,4:29 PM,0:04,,,Mitchell REBOUND (Off:0 Def:2),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,347,1,5,3,4:29 PM,0:00,,,Mitchell 2' Layup (2 PTS),57 - 72,15,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,348,13,0,3,4:30 PM,0:00,,End of 3rd Period (4:30 PM EST),,57 - 72,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,351,12,0,4,4:32 PM,10:00,,Start of 4th Period (4:32 PM EST),,57 - 72,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,352,1,42,4,4:33 PM,9:42,,,Turner 1' Driving Layup (2 PTS) (Currie 1 AST),59 - 72,13,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,353,2,1,4,4:34 PM,9:20,MISS Tuck 3PT Jump Shot,,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,354,4,0,4,4:34 PM,9:20,,,Currie REBOUND (Off:0 Def:1),,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,355,2,5,4,4:34 PM,9:10,,,MISS Currie 3' Layup,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,356,4,0,4,4:34 PM,9:10,Tuck REBOUND (Off:0 Def:2),,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,357,6,1,4,4:34 PM,9:07,,,Turner P.FOUL (P1.T1),,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,358,2,1,4,4:35 PM,8:50,MISS Williams 10' Jump Shot,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,359,4,0,4,4:35 PM,8:49,,,Mitchell REBOUND (Off:0 Def:3),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,360,2,5,4,4:35 PM,8:43,,,MISS Turner 1' Layup,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,361,4,0,4,4:35 PM,8:43,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,362,6,1,4,4:35 PM,8:33,,,Griner P.FOUL (P4.T2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,363,2,1,4,4:35 PM,8:25,MISS Tuck 24' 3PT Jump Shot,,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,364,4,0,4,4:35 PM,8:24,,,Currie REBOUND (Off:0 Def:2),,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,365,2,5,4,4:36 PM,8:12,,,MISS Griner 3' Layup,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,366,4,0,4,4:36 PM,8:10,Tuck REBOUND (Off:0 Def:3),,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,367,1,5,4,4:36 PM,8:05,J. Jones 2' Layup (20 PTS) (Williams 2 AST),,,59 - 74,15,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,368,2,1,4,4:36 PM,7:48,,,MISS Turner 3PT Jump Shot,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,369,4,0,4,4:36 PM,7:47,,,Turner REBOUND (Off:2 Def:0),,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,370,1,5,4,4:36 PM,7:40,,,Griner 3' Layup (15 PTS) (Mitchell 3 AST),61 - 74,13,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,371,6,2,4,4:36 PM,7:40,J. Jones S.FOUL (P3.T1),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,372,8,0,4,4:36 PM,7:40,,,SUB: D. Robinson FOR Mitchell,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,373,8,0,4,4:37 PM,7:40,SUB: A. Thomas FOR Tuck,,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,374,3,10,4,4:37 PM,7:40,,,MISS Griner Free Throw 1 of 1,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,376,4,0,4,4:37 PM,7:32,A. Thomas REBOUND (Off:2 Def:8),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,377,1,1,4,4:37 PM,7:25,Stricklen 24' 3PT Jump Shot (9 PTS),,,61 - 77,16,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,378,9,1,4,4:37 PM,7:21,,,Mercury Timeout: Regular (Reg.3 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,382,1,1,4,4:40 PM,7:03,,,Griner 12' Jump Shot (17 PTS) (Currie 2 AST),63 - 77,14,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,383,6,1,4,4:40 PM,6:51,,,D. Robinson P.FOUL (P2.T3),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,384,5,40,4,4:41 PM,6:45,Bentley Out of Bounds Lost Ball Turnover (P1.T11),,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,385,6,2,4,4:41 PM,6:36,J. Jones S.FOUL (P4.T2),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,386,3,11,4,4:41 PM,6:36,,,MISS Griner Free Throw 1 of 2,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,387,4,1,4,4:41 PM,6:36,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,388,3,12,4,4:42 PM,6:36,,,Griner Free Throw 2 of 2 (18 PTS),64 - 77,13,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,390,8,0,4,4:42 PM,6:21,SUB: J. Thomas FOR Bentley,,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,391,10,0,4,4:43 PM,6:19,Jump Ball A. Thomas vs. Currie: Tip to J. Jones,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700174,392,5,11,4,4:43 PM,6:11,SUN Turnover: Shot Clock (T#12),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700174,393,2,1,4,4:43 PM,5:52,,,MISS Turner 3' Jump Shot,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,394,4,0,4,4:43 PM,5:51,J. Jones REBOUND (Off:2 Def:5),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,395,2,1,4,4:44 PM,5:28,MISS J. Jones 24' 3PT Jump Shot,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,396,4,0,4,4:44 PM,5:27,Williams REBOUND (Off:3 Def:1),,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,397,1,72,4,4:44 PM,5:26,Williams 3' Putback Layup (14 PTS),,,64 - 79,15,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,398,2,1,4,4:44 PM,5:09,,,MISS Currie 24' 3PT Jump Shot,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,399,4,0,4,4:44 PM,5:08,,,Currie REBOUND (Off:1 Def:2),,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,400,2,5,4,4:44 PM,5:07,,,MISS Currie 1' Layup,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,401,4,0,4,4:44 PM,5:06,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,402,6,1,4,4:45 PM,5:03,Stricklen P.FOUL (P2.T3),,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,403,8,0,4,4:45 PM,5:03,,,SUB: Taurasi FOR Turner,,,5,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,404,2,1,4,4:45 PM,4:52,,,MISS Griner 8' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,405,4,0,4,4:45 PM,4:52,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,406,6,3,4,4:45 PM,4:52,,,Taurasi L.B.FOUL (P2.T4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,408,6,1,4,4:46 PM,4:44,,,D. Robinson P.FOUL (P3.PN),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,409,3,11,4,4:46 PM,4:44,A. Thomas Free Throw 1 of 2 (15 PTS),,,64 - 80,16,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,412,8,0,4,4:46 PM,4:44,,,SUB: Cannon FOR Little,,,5,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,413,3,12,4,4:46 PM,4:44,MISS A. Thomas Free Throw 2 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,415,4,0,4,4:47 PM,4:43,,,Currie REBOUND (Off:1 Def:3),,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,416,5,1,4,4:47 PM,4:35,Stricklen STEAL (1 STL),,D. Robinson Bad Pass Turnover (P2.T11),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,417,1,1,4,4:47 PM,4:29,Stricklen 25' 3PT Jump Shot (12 PTS),,,64 - 83,19,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,418,2,1,4,4:47 PM,4:09,,,MISS Griner 15' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,419,4,0,4,4:47 PM,4:08,A. Thomas REBOUND (Off:2 Def:9),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,420,6,1,4,4:47 PM,4:06,,,D. Robinson P.FOUL (P4.PN),,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,421,3,11,4,4:48 PM,4:06,A. Thomas Free Throw 1 of 2 (16 PTS),,,64 - 84,20,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,423,8,0,4,4:48 PM,4:06,,,SUB: Mitchell FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,424,8,0,4,4:48 PM,4:06,,,SUB: Prince FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,425,8,0,4,4:48 PM,4:06,,,SUB: George FOR D. Robinson,,,5,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,426,3,12,4,4:48 PM,4:06,A. Thomas Free Throw 2 of 2 (17 PTS),,,64 - 85,21,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,428,2,1,4,4:48 PM,3:53,,,MISS Currie 19' Jump Shot,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,429,4,0,4,4:49 PM,3:52,A. Thomas REBOUND (Off:2 Def:10),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,430,1,1,4,4:49 PM,3:41,Williams 13' Jump Shot (16 PTS) (A. Thomas 5 AST),,,64 - 87,23,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,431,9,2,4,4:49 PM,3:37,,,Mercury Timeout: Short (Reg.3 Short 2),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,434,8,0,4,4:50 PM,3:37,SUB: Banham FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,435,8,0,4,4:50 PM,3:37,SUB: Bentley FOR Williams,,,,,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,436,8,0,4,4:50 PM,3:37,SUB: Tuck FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,439,8,0,4,4:50 PM,3:37,,,SUB: Talbot FOR Currie,,,5,200673,Monique Currie,1611661317.0,Phoenix,Mercury,PHO,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700174,437,2,5,4,4:50 PM,3:23,J. Jones BLOCK (1 BLK),,MISS Prince 1' Layup,,,5,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0
+1021700174,438,4,0,4,4:50 PM,3:21,J. Jones REBOUND (Off:2 Def:6),,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,440,1,42,4,4:50 PM,3:07,Banham Driving Layup (2 PTS),,,64 - 89,25,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,441,5,1,4,4:50 PM,2:54,Banham STEAL (1 STL),,Talbot Bad Pass Turnover (P1.T12),,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,442,1,5,4,4:51 PM,2:48,Banham 1' Layup (4 PTS),,,64 - 91,27,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,443,2,1,4,4:51 PM,2:33,,,MISS Mitchell 14' Jump Shot,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,444,4,0,4,4:51 PM,2:32,,,Prince REBOUND (Off:1 Def:0),,,5,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,445,2,1,4,4:51 PM,2:29,,,MISS Prince 9' Jump Shot,,,5,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,446,4,0,4,4:51 PM,2:29,Bentley REBOUND (Off:0 Def:3),,,,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,447,9,1,4,4:51 PM,2:24,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,450,8,0,4,4:53 PM,2:24,SUB: Adams FOR Stricklen,,,,,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,451,8,0,4,4:53 PM,2:24,SUB: B. Jones FOR J. Jones,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700174,453,1,5,4,4:53 PM,2:14,B. Jones 2' Layup (2 PTS) (Bentley 1 AST),,,64 - 93,29,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,454,6,1,4,4:54 PM,2:06,Tuck P.FOUL (P3.T4),,,,,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,455,5,1,4,4:54 PM,2:01,Adams STEAL (1 STL),,Mitchell Bad Pass Turnover (P2.T13),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700174,456,6,1,4,4:54 PM,1:54,,,Mitchell P.FOUL (P2.PN),,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700174,457,3,11,4,4:54 PM,1:54,MISS B. Jones Free Throw 1 of 2,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,458,4,1,4,4:54 PM,1:54,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700174,459,3,12,4,4:54 PM,1:54,B. Jones Free Throw 2 of 2 (3 PTS),,,64 - 94,30,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700174,461,2,1,4,4:55 PM,1:39,,,MISS George 16' Jump Shot,,,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,462,4,0,4,4:55 PM,1:39,Banham REBOUND (Off:1 Def:1),,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,463,2,1,4,4:55 PM,1:30,MISS Banham 18' Jump Shot,,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,464,4,0,4,4:55 PM,1:30,,,Talbot REBOUND (Off:1 Def:1),,,5,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,465,2,1,4,4:55 PM,1:17,B. Jones BLOCK (1 BLK),,MISS George 8' Jump Shot,,,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700174,466,4,0,4,4:55 PM,1:16,Banham REBOUND (Off:1 Def:2),,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,467,5,1,4,4:55 PM,1:00,Bentley Bad Pass Turnover (P2.T13),,George STEAL (1 STL),,,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700174,468,6,1,4,4:56 PM,0:57,Banham P.FOUL (P1.PN),,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700174,469,3,11,4,4:56 PM,0:57,,,Mitchell Free Throw 1 of 2 (3 PTS),65 - 94,29,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,471,3,12,4,4:56 PM,0:57,,,Mitchell Free Throw 2 of 2 (4 PTS),66 - 94,28,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700174,473,2,1,4,4:56 PM,0:40,MISS Adams 28' 3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,474,4,0,4,4:56 PM,0:39,,,Cannon REBOUND (Off:1 Def:4),,,5,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,475,2,1,4,4:57 PM,0:32,,,MISS Mitchell 25' 3PT Jump Shot,,,5,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700174,476,4,0,4,4:57 PM,0:30,Banham REBOUND (Off:1 Def:3),,,,,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,478,5,40,4,4:57 PM,0:13,Adams Out of Bounds Lost Ball Turnover (P1.T14),,,,,4,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700174,479,13,0,4,4:58 PM,0:00,,End of 4th Period (4:58 PM EST),,66 - 94,28,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

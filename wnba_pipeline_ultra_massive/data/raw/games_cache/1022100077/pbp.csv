@@ -1,0 +1,375 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022100077,2,12,0,1,8:10 PM,10:00,,Start of 1st Period (8:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,4,10,0,1,8:10 PM,10:00,Jump Ball Collier vs. Fowles: Tip to McBride,,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1
+1022100077,7,6,2,1,8:10 PM,9:48,Collier S.FOUL (P1.T1),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,9,3,11,1,8:11 PM,9:48,,,Fowles Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,10,3,12,1,8:11 PM,9:48,,,MISS Fowles Free Throw 2 of 2,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,11,4,0,1,8:11 PM,9:46,,,Collier REBOUND (Off:1 Def:0),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,12,2,78,1,8:11 PM,9:40,,,MISS Collier 9' Floating Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,13,4,0,1,8:11 PM,9:39,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,15,5,1,1,8:11 PM,9:29,Ogunbowale STEAL (1 STL),,McBride Bad Pass Turnover (P1.T1),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,17,1,5,1,8:11 PM,9:24,Ogunbowale 2' Layup (2 PTS),,,1 - 2,1,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,18,1,1,1,8:12 PM,9:13,,,Carleton 3PT Jump Shot (3 PTS) (Clarendon 1 AST),4 - 2,-2,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,20,1,1,1,8:12 PM,8:53,Sabally 12' Jump Shot (2 PTS) (Thornton 1 AST),,,4 - 4,TIE,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,22,2,1,1,8:12 PM,8:38,,,MISS McBride 11' Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,23,4,0,1,8:12 PM,8:34,Ogunbowale REBOUND (Off:0 Def:1),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,24,5,2,1,8:13 PM,8:20,Sabally Lost Ball Turnover (P1.T1),,McBride STEAL (1 STL),,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,26,5,2,1,8:13 PM,8:16,Jefferson STEAL (1 STL),,Collier Lost Ball Turnover (P1.T2),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,28,6,1,1,8:13 PM,8:16,,,Fowles P.FOUL (P1.T1),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,30,2,1,1,8:13 PM,8:03,MISS Sabally 24' 3PT Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,31,4,0,1,8:13 PM,7:58,,,Collier REBOUND (Off:1 Def:1),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,32,1,1,1,8:13 PM,7:44,,,McBride 3PT Jump Shot (3 PTS) (Clarendon 2 AST),7 - 4,-3,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,34,1,1,1,8:14 PM,7:22,Jefferson 3PT Jump Shot (3 PTS) (Ogunbowale 1 AST),,,7 - 7,TIE,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,36,2,71,1,8:14 PM,7:15,,,MISS Carleton 1' Finger Roll Layup,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,37,4,0,1,8:14 PM,7:11,Jefferson REBOUND (Off:0 Def:1),,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,38,1,1,1,8:14 PM,7:09,Thornton 3PT Jump Shot (3 PTS) (Jefferson 1 AST),,,7 - 10,3,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,40,2,1,1,8:14 PM,6:46,,,MISS McBride 25' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,41,4,0,1,8:15 PM,6:43,Collier REBOUND (Off:0 Def:1),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,42,2,104,1,8:15 PM,6:38,MISS Ogunbowale 10' Step Back Bank Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,43,4,0,1,8:15 PM,6:33,,,Fowles REBOUND (Off:0 Def:1),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,44,2,6,1,8:15 PM,6:28,,,MISS Clarendon 2' Driving Layup,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,45,4,0,1,8:15 PM,6:28,Collier REBOUND (Off:0 Def:2),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,46,2,80,1,8:15 PM,6:16,MISS Collier 8' Step Back Jump Shot,,Fowles BLOCK (1 BLK),,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100077,48,4,0,1,8:15 PM,6:12,,,Collier REBOUND (Off:1 Def:2),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,49,2,1,1,8:15 PM,6:08,,,MISS McBride 18' Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,50,4,0,1,8:15 PM,6:01,Jefferson REBOUND (Off:0 Def:2),,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,51,2,1,1,8:15 PM,5:47,MISS Thornton 24' 3PT Jump Shot,,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,52,4,0,1,8:16 PM,5:43,,,Clarendon REBOUND (Off:0 Def:1),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,53,1,1,1,8:16 PM,5:30,,,Fowles 18' Jump Shot (3 PTS) (Clarendon 3 AST),9 - 10,1,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,55,1,79,1,8:16 PM,5:11,Ogunbowale 24' 3PT Pullup Jump Shot (5 PTS),,,9 - 13,4,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,56,5,2,1,8:16 PM,4:49,Ogunbowale STEAL (2 STL),,Carleton Lost Ball Turnover (P1.T3),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,59,9,4,1,8:17 PM,4:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,60,8,0,1,8:18 PM,4:47,SUB: Gray FOR Thornton,,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,61,8,0,1,8:18 PM,4:47,SUB: Alarie FOR Jefferson,,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,62,8,0,1,8:18 PM,4:47,SUB: Harris FOR Collier,,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,63,8,0,1,8:18 PM,4:47,,,SUB: Dangerfield FOR Clarendon,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,68,1,71,1,8:20 PM,4:33,Sabally 1' Finger Roll Layup (4 PTS) (Ogunbowale 2 AST),,,9 - 15,6,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,70,5,1,1,8:20 PM,4:16,Gray STEAL (1 STL),,Dangerfield Bad Pass Turnover (P1.T4),,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,72,2,1,1,8:20 PM,4:10,MISS Sabally 3PT Jump Shot,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,73,4,0,1,8:20 PM,4:05,,,Fowles REBOUND (Off:0 Def:2),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,74,2,1,1,8:20 PM,3:59,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,75,4,0,1,8:20 PM,3:56,Gray REBOUND (Off:0 Def:1),,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,76,1,1,1,8:21 PM,3:46,Ogunbowale 3PT Jump Shot (8 PTS) (Gray 1 AST),,,9 - 18,9,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,78,9,1,1,8:21 PM,3:38,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,79,8,0,1,8:22 PM,3:38,,,SUB: Banham FOR McBride,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,80,8,0,1,8:22 PM,3:38,,,SUB: Dantas FOR Fowles,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,83,2,105,1,8:23 PM,3:23,,,MISS Dantas 4' Turnaround Fadeaway Bank Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,84,4,0,1,8:23 PM,3:21,,,Collier REBOUND (Off:2 Def:2),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,85,1,5,1,8:23 PM,3:21,,,Collier 1' Layup (2 PTS),11 - 18,7,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,86,6,2,1,8:23 PM,3:21,Sabally S.FOUL (P1.T2),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,88,3,10,1,8:23 PM,3:21,,,Collier Free Throw 1 of 1 (3 PTS),12 - 18,6,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,90,1,1,1,8:24 PM,3:02,Gray 3PT Jump Shot (3 PTS) (Ogunbowale 3 AST),,,12 - 21,9,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,92,2,6,1,8:24 PM,2:50,Alarie BLOCK (1 BLK),,MISS Collier 3' Driving Layup,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,1
+1022100077,93,4,0,1,8:24 PM,2:47,Alarie REBOUND (Off:0 Def:1),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,94,2,1,1,8:24 PM,2:43,MISS Harris 3PT Jump Shot,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,95,4,0,1,8:24 PM,2:38,,,Dantas REBOUND (Off:0 Def:1),,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,96,2,1,1,8:25 PM,2:24,,,MISS Dantas 6' Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,97,4,0,1,8:25 PM,2:21,,,Carleton REBOUND (Off:1 Def:0),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,98,2,80,1,8:25 PM,2:15,,,MISS Banham 15' Step Back Jump Shot,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,99,4,0,1,8:25 PM,2:10,Sabally REBOUND (Off:0 Def:1),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,100,2,5,1,8:25 PM,2:05,MISS Sabally 1' Layup,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,101,4,0,1,8:25 PM,2:02,,,Dantas REBOUND (Off:0 Def:2),,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,102,5,40,1,8:25 PM,1:59,,,Carleton Out of Bounds Lost Ball Turnover (P2.T5),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100077,103,8,0,1,8:25 PM,1:59,SUB: Mabrey FOR Ogunbowale,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,104,8,0,1,8:25 PM,1:59,,,SUB: McBride FOR Carleton,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,107,6,2,1,8:26 PM,1:45,,,Banham S.FOUL (P1.T2),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,109,3,13,1,8:26 PM,1:45,Mabrey Free Throw 1 of 3 (1 PTS),,,12 - 22,10,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,110,3,14,1,8:26 PM,1:45,Mabrey Free Throw 2 of 3 (2 PTS),,,12 - 23,11,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,111,8,0,1,8:26 PM,1:45,SUB: Harrison FOR Sabally,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,113,3,15,1,8:26 PM,1:45,Mabrey Free Throw 3 of 3 (3 PTS),,,12 - 24,12,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,115,2,5,1,8:27 PM,1:24,,,MISS McBride 1' Layup,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,116,4,0,1,8:27 PM,1:21,Harrison REBOUND (Off:0 Def:1),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,117,5,2,1,8:27 PM,1:16,Gray Lost Ball Turnover (P1.T2),,Dangerfield STEAL (1 STL),,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,119,1,5,1,8:27 PM,1:12,,,Dangerfield 1' Layup (2 PTS),14 - 24,10,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,120,2,1,1,8:27 PM,0:58,MISS Harrison 13' Jump Shot,,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,121,4,0,1,8:27 PM,0:55,Harris REBOUND (Off:1 Def:0),,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,122,1,1,1,8:27 PM,0:54,Harris 3PT Jump Shot (3 PTS) (Mabrey 1 AST),,,14 - 27,13,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,124,2,80,1,8:27 PM,0:42,,,MISS Dantas 20' Step Back Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,125,4,0,1,8:28 PM,0:39,Mabrey REBOUND (Off:0 Def:1),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,126,7,4,1,8:28 PM,0:31,,,Dangerfield Violation:Jump Ball,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1022100077,127,6,2,1,8:29 PM,0:26,,,Collier S.FOUL (P1.PN),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,129,3,11,1,8:29 PM,0:26,Mabrey Free Throw 1 of 2 (4 PTS),,,14 - 28,14,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,130,3,12,1,8:29 PM,0:26,Mabrey Free Throw 2 of 2 (5 PTS),,,14 - 29,15,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,131,2,1,1,8:29 PM,0:09,,,MISS McBride 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,132,4,0,1,8:30 PM,0:07,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,134,6,1,1,8:30 PM,0:01,Alarie P.FOUL (P1.T3),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,136,2,1,1,8:30 PM,0:00,,,MISS Collier 19' Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,137,4,0,1,8:30 PM,0:00,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,138,13,0,1,8:31 PM,0:00,,End of 1st Period (8:31 PM EST),,14 - 29,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100077,143,12,0,2,8:34 PM,10:00,,Start of 2nd Period (8:34 PM EST),,14 - 29,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,144,2,6,2,8:34 PM,9:41,MISS Harris 5' Driving Layup,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,145,4,0,2,8:34 PM,9:38,,,McBride REBOUND (Off:0 Def:1),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,146,2,5,2,8:34 PM,9:36,Gray BLOCK (1 BLK),,MISS Banham 2' Layup,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1
+1022100077,148,4,0,2,8:34 PM,9:32,Mabrey REBOUND (Off:0 Def:2),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,149,1,1,2,8:34 PM,9:28,Mabrey 24' 3PT Jump Shot (8 PTS),,,14 - 32,18,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,150,1,71,2,8:35 PM,9:05,,,Dantas 1' Finger Roll Layup (2 PTS),16 - 32,16,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,151,2,1,2,8:35 PM,8:53,MISS Gray 13' Jump Shot,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,152,4,0,2,8:35 PM,8:52,Alarie REBOUND (Off:1 Def:1),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,153,6,2,2,8:35 PM,8:39,,,Collier S.FOUL (P2.T1),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,155,3,11,2,8:35 PM,8:39,Gray Free Throw 1 of 2 (4 PTS),,,16 - 33,17,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,156,8,0,2,8:35 PM,8:39,,,SUB: Clarendon FOR Banham,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,158,3,12,2,8:36 PM,8:39,Gray Free Throw 2 of 2 (5 PTS),,,16 - 34,18,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,159,2,1,2,8:36 PM,8:23,,,MISS Collier 24' 3PT Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,160,4,0,2,8:36 PM,8:22,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,161,6,3,2,8:36 PM,8:22,Gray L.B.FOUL (P1.T1),,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,163,6,6,2,8:36 PM,8:22,Mabrey AWAY.FROM.PLAY.FOUL (P1.T2),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,165,3,10,2,8:37 PM,8:22,,,McBride Free Throw 1 of 1 (4 PTS),17 - 34,17,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,166,8,0,2,8:37 PM,8:22,SUB: Ogunbowale FOR Mabrey,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,167,8,0,2,8:37 PM,8:22,SUB: Thornton FOR Gray,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,168,8,0,2,8:37 PM,8:22,SUB: Jefferson FOR Harris,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,172,2,1,2,8:37 PM,8:11,,,MISS Clarendon 19' Jump Shot,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,173,4,0,2,8:37 PM,8:07,Alarie REBOUND (Off:1 Def:2),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,174,1,102,2,8:38 PM,7:47,Sabally 9' Driving Floating Bank Jump Shot (6 PTS),,,17 - 36,19,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,175,6,2,2,8:38 PM,7:47,,,Clarendon S.FOUL (P1.T2),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,177,3,10,2,8:38 PM,7:47,Sabally Free Throw 1 of 1 (7 PTS),,,17 - 37,20,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,178,2,1,2,8:39 PM,7:32,,,MISS Dantas 24' 3PT Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,179,4,0,2,8:39 PM,7:27,Ogunbowale REBOUND (Off:0 Def:2),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,180,6,1,2,8:39 PM,7:27,,,Clarendon P.FOUL (P2.T3),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,182,8,0,2,8:39 PM,7:27,,,SUB: Carleton FOR Clarendon,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,183,8,0,2,8:39 PM,7:27,,,SUB: Dangerfield FOR Dantas,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,186,5,1,2,8:39 PM,7:23,Thornton Bad Pass Turnover (P1.T3),,Dangerfield STEAL (2 STL),,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,188,1,1,2,8:39 PM,7:19,,,McBride 24' 3PT Jump Shot (7 PTS) (Dangerfield 1 AST),20 - 37,17,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,190,1,1,2,8:40 PM,7:00,Thornton 24' 3PT Jump Shot (6 PTS) (Alarie 1 AST),,,20 - 40,20,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,192,5,1,2,8:40 PM,6:49,Alarie STEAL (1 STL),,Carleton Bad Pass Turnover (P3.T6),,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,194,1,1,2,8:40 PM,6:42,Jefferson 24' 3PT Jump Shot (6 PTS) (Sabally 1 AST),,,20 - 43,23,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,196,9,1,2,8:40 PM,6:35,,,Lynx Timeout: Regular (Reg.2 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,197,8,0,2,8:42 PM,6:35,SUB: Collier FOR Alarie,,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,200,2,5,2,8:44 PM,6:17,Sabally BLOCK (1 BLK),,MISS Collier 4' Layup,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,1
+1022100077,201,4,0,2,8:44 PM,6:16,,,Fowles REBOUND (Off:1 Def:2),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,202,1,72,2,8:44 PM,6:15,,,Fowles 3' Putback Layup (5 PTS),22 - 43,21,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,203,1,80,2,8:44 PM,6:04,Ogunbowale 24' 3PT Step Back Jump Shot (11 PTS),,,22 - 46,24,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,204,2,1,2,8:44 PM,5:46,,,MISS Dangerfield 25' 3PT Jump Shot,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,205,4,0,2,8:44 PM,5:44,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,207,5,1,2,8:45 PM,5:30,Jefferson Bad Pass Turnover (P1.T4),,McBride STEAL (2 STL),,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,209,1,78,2,8:45 PM,5:19,,,McBride 8' Floating Jump Shot (9 PTS) (Dangerfield 2 AST),24 - 46,22,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,212,2,1,2,8:46 PM,5:05,MISS Ogunbowale 3PT Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,213,4,0,2,8:46 PM,5:01,Thornton REBOUND (Off:1 Def:0),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,214,2,78,2,8:46 PM,4:59,MISS Ogunbowale 4' Floating Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,215,4,0,2,8:46 PM,4:55,,,McBride REBOUND (Off:0 Def:2),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,216,6,1,2,8:46 PM,4:52,Ogunbowale P.FOUL (P1.T3),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,218,8,0,2,8:46 PM,4:52,SUB: Harris FOR Jefferson,,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,221,1,102,2,8:46 PM,4:44,,,Dangerfield 7' Driving Floating Bank Jump Shot (4 PTS),26 - 46,20,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,222,9,1,2,8:47 PM,4:37,WINGS Timeout: Regular (Full 1 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,223,1,66,2,8:50 PM,4:26,Harris 24' 3PT Jump Bank Shot (6 PTS) (Ogunbowale 4 AST),,,26 - 49,23,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,225,1,1,2,8:50 PM,4:11,,,Dangerfield 27' 3PT Jump Shot (7 PTS) (Carleton 1 AST),29 - 49,20,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,227,2,1,2,8:50 PM,3:58,MISS Harris 25' 3PT Jump Shot,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,228,4,0,2,8:50 PM,3:57,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,229,6,3,2,8:50 PM,3:57,Sabally L.B.FOUL (P2.T4),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,231,2,79,2,8:51 PM,3:38,,,MISS Dangerfield 16' Pullup Jump Shot,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,232,4,0,2,8:51 PM,3:35,Sabally REBOUND (Off:0 Def:2),,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,233,2,78,2,8:51 PM,3:13,MISS Harris 10' Floating Jump Shot,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,234,4,0,2,8:51 PM,3:11,,,Fowles REBOUND (Off:1 Def:3),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,235,5,1,2,8:52 PM,2:53,Thornton STEAL (1 STL),,Dangerfield Bad Pass Turnover (P2.T7),,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,237,1,5,2,8:52 PM,2:49,Harris 1' Layup (8 PTS) (Ogunbowale 5 AST),,,29 - 51,22,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,265,2,5,2,8:52 PM,2:32,Harris BLOCK (1 BLK),,MISS Dangerfield 2' Layup,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,1
+1022100077,267,4,0,2,8:52 PM,2:32,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,240,8,0,2,8:52 PM,2:32,SUB: Gray FOR Sabally,,,,,4,1630149,Satou Sabally,1611661321.0,Dallas,Wings,DAL,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,241,8,0,2,8:52 PM,2:32,SUB: Mabrey FOR Harris,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,242,8,0,2,8:52 PM,2:32,,,SUB: Clarendon FOR Dangerfield,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,243,8,0,2,8:52 PM,2:32,,,SUB: Banham FOR Carleton,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,248,6,4,2,8:53 PM,2:29,,,McBride OFF.Foul (P1),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,250,5,37,2,8:53 PM,2:29,,,McBride Offensive Foul Turnover (P2.T8),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100077,251,6,2,2,8:53 PM,2:21,,,Collier S.FOUL (P3.T4),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,253,3,11,2,8:53 PM,2:21,Thornton Free Throw 1 of 2 (7 PTS),,,29 - 52,23,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,254,8,0,2,8:53 PM,2:21,,,SUB: Dantas FOR Collier,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,256,3,12,2,8:54 PM,2:21,Thornton Free Throw 2 of 2 (8 PTS),,,29 - 53,24,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,257,6,1,2,8:54 PM,2:09,Collier P.FOUL (P2.PN),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,259,3,11,2,8:54 PM,2:09,,,Fowles Free Throw 1 of 2 (6 PTS),30 - 53,23,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,260,8,0,2,8:54 PM,2:09,SUB: Alarie FOR Collier,,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,262,3,12,2,8:54 PM,2:09,,,MISS Fowles Free Throw 2 of 2,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,263,4,0,2,8:55 PM,2:06,Alarie REBOUND (Off:1 Def:3),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,264,1,80,2,8:55 PM,1:54,Mabrey 16' Step Back Jump Shot (10 PTS) (Alarie 2 AST),,,30 - 55,25,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,268,2,5,2,8:55 PM,1:41,,,MISS Fowles 1' Layup,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,269,4,0,2,8:55 PM,1:38,Mabrey REBOUND (Off:0 Def:3),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,270,2,5,2,8:55 PM,1:34,MISS Gray 1' Layup,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,271,4,0,2,8:55 PM,1:34,,,Dantas REBOUND (Off:0 Def:3),,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,272,5,45,2,8:56 PM,1:27,,,Clarendon Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100077,273,2,101,2,8:56 PM,1:15,MISS Mabrey 8' Driving Floating Jump Shot,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,274,4,0,2,8:56 PM,1:11,,,McBride REBOUND (Off:0 Def:3),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,276,1,5,2,8:56 PM,1:05,,,Fowles 7' Layup (8 PTS) (McBride 1 AST),32 - 55,23,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,278,6,4,2,8:56 PM,0:55,Mabrey OFF.Foul (P2),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,280,5,37,2,8:56 PM,0:55,Mabrey Offensive Foul Turnover (P1.T5),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,281,2,1,2,8:57 PM,0:42,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,282,4,0,2,8:57 PM,0:42,Thornton REBOUND (Off:1 Def:1),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,283,2,1,2,8:57 PM,0:20,MISS Mabrey 3PT Jump Shot,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,284,4,0,2,8:57 PM,0:15,Gray REBOUND (Off:1 Def:1),,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,285,2,5,2,8:57 PM,0:14,MISS Gray 1' Layup,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,287,4,0,2,8:57 PM,0:10,Alarie REBOUND (Off:2 Def:3),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,288,2,5,2,8:57 PM,0:02,MISS Ogunbowale 5' Layup,,Fowles BLOCK (2 BLK),,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100077,290,4,0,2,8:57 PM,0:02,,,Fowles REBOUND (Off:1 Def:4),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,291,1,1,2,8:58 PM,0:00,,,Banham 43' 3PT Jump Shot (3 PTS) (Fowles 1 AST),35 - 55,20,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,292,18,0,2,8:58 PM,0:00,,Instant Replay2nd Period (8:58 PM EST),,35 - 55,20,0,291,Ed Pinckney,,,,,0,0,,,,,,1,0,,,,,,0
+1022100077,293,13,0,2,8:58 PM,0:00,,End of 2nd Period (8:58 PM EST),,35 - 55,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100077,303,12,0,3,9:14 PM,10:00,,Start of 3rd Period (9:14 PM EST),,35 - 55,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,304,2,1,3,9:14 PM,9:41,MISS Thornton 24' 3PT Jump Shot,,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,305,4,0,3,9:14 PM,9:37,Collier REBOUND (Off:1 Def:2),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,306,1,5,3,9:14 PM,9:35,Collier 2' Layup (2 PTS),,,35 - 57,22,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,307,6,1,3,9:15 PM,9:17,Collier P.FOUL (P3.T1),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,309,1,78,3,9:15 PM,9:12,,,McBride 8' Floating Jump Shot (11 PTS) (Clarendon 4 AST),37 - 57,20,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,311,2,79,3,9:15 PM,9:00,MISS Ogunbowale 19' Pullup Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,312,4,0,3,9:15 PM,8:56,,,Clarendon REBOUND (Off:0 Def:2),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,313,2,1,3,9:15 PM,8:46,,,MISS Collier 3PT Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,314,4,0,3,9:15 PM,8:40,Jefferson REBOUND (Off:0 Def:3),,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,315,2,5,3,9:16 PM,8:29,MISS Thornton 2' Layup,,Collier BLOCK (1 BLK),,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1022100077,317,4,0,3,9:16 PM,8:26,,,Fowles REBOUND (Off:1 Def:5),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,318,1,5,3,9:16 PM,8:19,,,Collier 1' Layup (5 PTS) (Clarendon 5 AST),39 - 57,18,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,320,2,1,3,9:16 PM,7:50,MISS Gray 25' 3PT Jump Shot,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,321,4,0,3,9:16 PM,7:47,,,McBride REBOUND (Off:0 Def:4),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,322,6,2,3,9:16 PM,7:43,Jefferson S.FOUL (P1.T2),,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,324,3,11,3,9:17 PM,7:43,,,McBride Free Throw 1 of 2 (12 PTS),40 - 57,17,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,325,3,12,3,9:17 PM,7:43,,,McBride Free Throw 2 of 2 (13 PTS),41 - 57,16,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,326,5,1,3,9:18 PM,7:27,Jefferson Bad Pass Turnover (P2.T6),,Collier STEAL (1 STL),,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,328,1,6,3,9:18 PM,7:20,,,Collier 1' Driving Layup (7 PTS),43 - 57,14,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,329,6,1,3,9:18 PM,7:20,Collier P.FOUL (P4.T3),,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,331,8,0,3,9:18 PM,7:20,SUB: Alarie FOR Thornton,,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,332,8,0,3,9:18 PM,7:20,SUB: Harrison FOR Collier,,,,,4,1630454,Charli Collier,1611661321.0,Dallas,Wings,DAL,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,335,3,10,3,9:18 PM,7:20,,,Collier Free Throw 1 of 1 (8 PTS),44 - 57,13,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,336,2,79,3,9:19 PM,7:03,MISS Ogunbowale 18' Pullup Jump Shot,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,337,4,0,3,9:19 PM,6:59,,,Collier REBOUND (Off:2 Def:3),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,338,2,3,3,9:19 PM,6:44,,,MISS Fowles 4' Hook Shot,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,339,4,0,3,9:19 PM,6:41,,,McBride REBOUND (Off:1 Def:4),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,340,2,1,3,9:19 PM,6:32,,,MISS Collier 3PT Jump Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,341,4,0,3,9:19 PM,6:28,Alarie REBOUND (Off:2 Def:4),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,342,2,79,3,9:19 PM,6:18,MISS Jefferson 17' Pullup Jump Shot,,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,343,4,0,3,9:19 PM,6:12,,,Collier REBOUND (Off:2 Def:4),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,344,2,79,3,9:19 PM,6:08,,,MISS Carleton 11' Pullup Jump Shot,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,345,4,0,3,9:20 PM,6:04,Ogunbowale REBOUND (Off:0 Def:3),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,346,1,1,3,9:20 PM,5:44,Gray 7' Jump Shot (7 PTS),,,44 - 59,15,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,347,2,1,3,9:20 PM,5:31,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,348,4,0,3,9:20 PM,5:28,Alarie REBOUND (Off:2 Def:5),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,349,1,3,3,9:20 PM,5:22,Harrison 9' Hook Shot (2 PTS),,,44 - 61,17,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,350,9,1,3,9:20 PM,5:22,,,Lynx Timeout: Regular (Reg.3 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,351,8,0,3,9:23 PM,5:22,SUB: Harris FOR Jefferson,,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,352,8,0,3,9:23 PM,5:22,SUB: Mabrey FOR Gray,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,353,8,0,3,9:23 PM,5:22,,,SUB: Dangerfield FOR Carleton,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,354,8,0,3,9:23 PM,5:22,,,SUB: Dantas FOR Clarendon,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,355,8,0,3,9:23 PM,5:22,,,SUB: Banham FOR Fowles,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,361,1,5,3,9:24 PM,5:02,,,Collier 1' Layup (10 PTS) (Dantas 1 AST),46 - 61,15,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,363,2,6,3,9:24 PM,4:47,MISS Harris 1' Driving Layup,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,364,4,0,3,9:24 PM,4:44,,,Dantas REBOUND (Off:0 Def:4),,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,365,1,1,3,9:24 PM,4:34,,,Dangerfield 3PT Jump Shot (10 PTS) (McBride 2 AST),49 - 61,12,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,367,1,1,3,9:24 PM,4:19,Mabrey 24' 3PT Jump Shot (13 PTS) (Harris 1 AST),,,49 - 64,15,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,369,1,79,3,9:24 PM,4:09,,,Banham 3PT Pullup Jump Shot (6 PTS),52 - 64,12,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,370,6,4,3,9:25 PM,3:59,Mabrey OFF.Foul (P3),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,372,5,37,3,9:25 PM,3:59,Mabrey Offensive Foul Turnover (P2.T7),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,373,8,0,3,9:25 PM,3:59,SUB: Thornton FOR Alarie,,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,375,5,2,3,9:25 PM,3:44,Harrison STEAL (1 STL),,Banham Lost Ball Turnover (P1.T10),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,377,1,1,3,9:25 PM,3:38,Mabrey 3PT Jump Shot (16 PTS) (Ogunbowale 6 AST),,,52 - 67,15,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,379,2,5,3,9:25 PM,3:28,,,MISS McBride 1' Layup,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,380,4,0,3,9:26 PM,3:24,Ogunbowale REBOUND (Off:0 Def:4),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,381,2,5,3,9:26 PM,3:24,MISS Ogunbowale 2' Layup,,Banham BLOCK (1 BLK),,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,1
+1022100077,383,4,0,3,9:26 PM,3:23,Ogunbowale REBOUND (Off:1 Def:4),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,384,8,0,3,9:26 PM,3:21,,,SUB: Clarendon FOR McBride,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,386,10,0,3,9:27 PM,3:17,Jump Ball Ogunbowale vs. Collier: Tip to Thornton,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1
+1022100077,390,6,26,3,9:27 PM,3:12,Ogunbowale Offensive Charge Foul (P2),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,392,5,37,3,9:27 PM,3:12,Ogunbowale Offensive Foul Turnover (P1.T8),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,393,7,1,3,9:27 PM,3:12,,,Lynx Violation: Delay of game Violation,,,3,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100077,394,2,1,3,9:28 PM,2:58,,,MISS Clarendon 24' 3PT Jump Shot,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,395,4,0,3,9:28 PM,2:53,Harrison REBOUND (Off:0 Def:2),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,396,5,1,3,9:28 PM,2:48,Mabrey Bad Pass Turnover (P3.T9),,Dantas STEAL (1 STL),,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,398,1,1,3,9:28 PM,2:44,,,Banham 24' 3PT Jump Shot (9 PTS),55 - 67,12,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,399,9,1,3,9:28 PM,2:32,WINGS Timeout: Regular (Full 2 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,400,8,0,3,9:29 PM,2:32,SUB: Gray FOR Mabrey,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,402,6,1,3,9:30 PM,2:25,,,Banham P.FOUL (P2.T1),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,404,1,1,3,9:30 PM,2:16,Harris 24' 3PT Jump Shot (11 PTS) (Thornton 2 AST),,,55 - 70,15,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,406,2,86,3,9:31 PM,2:01,,,MISS Collier 11' Turnaround Fadeaway Shot,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,407,4,0,3,9:31 PM,1:58,Harrison REBOUND (Off:0 Def:3),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,408,2,6,3,9:31 PM,1:43,MISS Ogunbowale 3' Driving Layup,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,409,4,0,3,9:31 PM,1:42,,,Banham REBOUND (Off:0 Def:1),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,410,1,1,3,9:31 PM,1:35,,,Dangerfield 25' 3PT Jump Shot (13 PTS) (Clarendon 6 AST),58 - 70,12,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,412,2,1,3,9:31 PM,1:21,MISS Harrison 20' Jump Shot,,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,413,4,0,3,9:31 PM,1:20,WINGS Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,414,6,3,3,9:31 PM,1:20,,,Banham L.B.FOUL (P3.T2),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,416,8,0,3,9:32 PM,1:20,SUB: Alarie FOR Harrison,,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,417,8,0,3,9:32 PM,1:20,,,SUB: Fowles FOR Collier,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,420,6,2,3,9:32 PM,1:10,,,Banham S.FOUL (P4.PN),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,422,3,11,3,9:33 PM,1:10,Gray Free Throw 1 of 2 (8 PTS),,,58 - 71,13,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,423,3,12,3,9:33 PM,1:10,Gray Free Throw 2 of 2 (9 PTS),,,58 - 72,14,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,424,6,1,3,9:33 PM,0:58,Alarie P.FOUL (P2.T4),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,426,1,79,3,9:34 PM,0:45,,,Dangerfield 16' Pullup Jump Shot (15 PTS),60 - 72,12,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,427,1,6,3,9:34 PM,0:33,Harris 1' Driving Layup (13 PTS),,,60 - 74,14,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,428,6,1,3,9:34 PM,0:15,Thornton P.FOUL (P1.PN),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,430,3,11,3,9:35 PM,0:15,,,Dantas Free Throw 1 of 2 (3 PTS),61 - 74,13,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,431,8,0,3,9:35 PM,0:15,,,SUB: Carleton FOR Dangerfield,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,432,8,0,3,9:35 PM,0:15,,,SUB: McBride FOR Banham,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,435,3,12,3,9:35 PM,0:15,,,Dantas Free Throw 2 of 2 (4 PTS),62 - 74,12,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,437,13,0,3,9:36 PM,0:00,,End of 3rd Period (9:36 PM EST),,62 - 74,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100077,442,12,0,4,9:38 PM,10:00,,Start of 4th Period (9:38 PM EST),,62 - 74,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,443,2,1,4,9:39 PM,9:48,,,MISS Dantas 3PT Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,444,4,0,4,9:39 PM,9:45,Mabrey REBOUND (Off:0 Def:4),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,446,5,4,4,9:40 PM,9:31,Harrison Traveling Turnover (P1.T10),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,447,6,1,4,9:40 PM,9:16,Harrison P.FOUL (P1.T1),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,449,2,1,4,9:40 PM,9:12,,,MISS Dantas 24' 3PT Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,450,4,0,4,9:40 PM,9:08,Gray REBOUND (Off:1 Def:2),,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,451,6,1,4,9:41 PM,9:06,,,Dantas P.FOUL (P1.T1),,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,453,1,79,4,9:41 PM,8:59,Mabrey 24' 3PT Pullup Jump Shot (19 PTS),,,62 - 77,15,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,454,18,2,4,9:42 PM,8:37,,Instant Replay4th Period (9:42 PM EST),,62 - 77,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,455,6,16,4,9:45 PM,8:37,,"Double Technical - Clarendon, Mabrey",,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,457,10,0,4,9:46 PM,8:36,,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,3,1611661321,,,,,,1
+1022100077,460,5,2,4,9:46 PM,8:36,Mabrey STEAL (1 STL),,Clarendon Lost Ball Turnover (P2.T11),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,462,6,1,4,9:46 PM,8:36,,,Clarendon P.FOUL (P3.T2),,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,464,5,4,4,9:47 PM,8:20,Harrison Traveling Turnover (P2.T11),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,465,2,1,4,9:47 PM,8:07,,,MISS Dantas 3PT Jump Shot,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,466,4,0,4,9:47 PM,8:03,Harris REBOUND (Off:1 Def:1),,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,467,2,80,4,9:47 PM,7:48,MISS Mabrey 25' 3PT Step Back Jump Shot,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,468,4,0,4,9:47 PM,7:43,,,Fowles REBOUND (Off:1 Def:6),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,469,6,1,4,9:48 PM,7:33,Harrison P.FOUL (P2.T2),,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,471,8,0,4,9:48 PM,7:33,SUB: Thornton FOR Harris,,,,,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,472,8,0,4,9:48 PM,7:33,SUB: Jefferson FOR Harrison,,,,,4,204330,Isabelle Harrison,1611661321.0,Dallas,Wings,DAL,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,473,8,0,4,9:48 PM,7:33,,,SUB: Banham FOR Carleton,,,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,474,8,0,4,9:48 PM,7:33,,,SUB: Collier FOR Clarendon,,,5,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,475,8,0,4,9:48 PM,7:33,,,SUB: Dangerfield FOR Dantas,,,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,481,5,1,4,9:48 PM,7:22,Jefferson STEAL (2 STL),,Fowles Bad Pass Turnover (P1.T12),,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,483,1,80,4,9:48 PM,7:08,Mabrey 20' Step Back Jump Shot (21 PTS),,,62 - 79,17,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,484,1,44,4,9:49 PM,6:48,,,Collier 1' Reverse Layup (12 PTS),64 - 79,15,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,485,1,75,4,9:49 PM,6:28,Mabrey 2' Driving Finger Roll Layup (23 PTS),,,64 - 81,17,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,486,2,5,4,9:50 PM,6:04,,,MISS Fowles 2' Layup,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,487,4,0,4,9:50 PM,6:01,Alarie REBOUND (Off:2 Def:6),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,488,6,4,4,9:50 PM,5:49,Alarie OFF.Foul (P3),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,490,5,37,4,9:50 PM,5:49,Alarie Offensive Foul Turnover (P1.T12),,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,491,9,4,4,9:50 PM,5:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,492,8,0,4,9:52 PM,5:49,SUB: Ogunbowale FOR Gray,,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,493,8,0,4,9:52 PM,5:49,,,SUB: Dantas FOR Fowles,,,5,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,496,2,1,4,9:53 PM,5:39,,,MISS Banham 3PT Jump Shot,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,497,4,0,4,9:53 PM,5:35,Thornton REBOUND (Off:1 Def:2),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,498,5,1,4,9:53 PM,5:12,Ogunbowale Bad Pass Turnover (P2.T13),,Collier STEAL (2 STL),,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,500,5,45,4,9:54 PM,5:04,,,Banham Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100077,501,1,75,4,9:54 PM,4:46,Mabrey 1' Driving Finger Roll Layup (25 PTS),,,64 - 83,19,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,502,1,1,4,9:54 PM,4:30,,,Dantas 3PT Jump Shot (7 PTS) (McBride 3 AST),67 - 83,16,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,504,1,63,4,9:55 PM,4:06,Ogunbowale 3PT Fadeaway Jumper (14 PTS) (Mabrey 2 AST),,,67 - 86,19,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,506,6,2,4,9:55 PM,3:57,Thornton S.FOUL (P2.T3),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,508,3,11,4,9:56 PM,3:57,,,Collier Free Throw 1 of 2 (13 PTS),68 - 86,18,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,509,3,12,4,9:56 PM,3:57,,,Collier Free Throw 2 of 2 (14 PTS),69 - 86,17,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,510,2,5,4,9:56 PM,3:43,MISS Thornton 2' Layup,,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,511,4,0,4,9:56 PM,3:42,Thornton REBOUND (Off:2 Def:2),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,512,6,2,4,9:56 PM,3:41,,,McBride S.FOUL (P2.T3),,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,514,3,11,4,9:57 PM,3:41,Thornton Free Throw 1 of 2 (9 PTS),,,69 - 87,18,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,515,3,12,4,9:57 PM,3:41,Thornton Free Throw 2 of 2 (10 PTS),,,69 - 88,19,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1022100077,516,1,79,4,9:57 PM,3:31,,,Dantas 3PT Pullup Jump Shot (10 PTS) (Banham 1 AST),72 - 88,16,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,518,1,1,4,9:57 PM,3:02,Mabrey 27' 3PT Jump Shot (28 PTS),,,72 - 91,19,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,519,1,79,4,9:58 PM,2:49,,,Dangerfield 13' Pullup Jump Shot (17 PTS),74 - 91,17,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,520,6,4,4,9:58 PM,2:26,Ogunbowale OFF.Foul (P3),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,522,5,37,4,9:58 PM,2:26,Ogunbowale Offensive Foul Turnover (P3.T14),,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,523,9,1,4,9:58 PM,2:26,WINGS Timeout: Regular (Full 3 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100077,525,8,0,4,9:59 PM,2:26,SUB: Gray FOR Jefferson,,,,,4,1627669,Moriah Jefferson,1611661321.0,Dallas,Wings,DAL,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,527,6,1,4,10:01 PM,2:12,Gray P.FOUL (P2.T4),,,,,4,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,529,8,0,4,10:01 PM,2:12,SUB: Kuier FOR Alarie,,,,,4,1630093,Bella Alarie,1611661321.0,Dallas,Wings,DAL,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,531,1,5,4,10:02 PM,2:05,,,Collier 1' Layup (16 PTS) (Dantas 2 AST),76 - 91,15,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100077,533,6,2,4,10:02 PM,2:05,Mabrey S.FOUL (P4.PN),,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100077,535,3,10,4,10:02 PM,2:05,,,Collier Free Throw 1 of 1 (17 PTS),77 - 91,14,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100077,536,2,80,4,10:02 PM,1:51,MISS Mabrey 3PT Step Back Jump Shot,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,537,4,0,4,10:02 PM,1:47,Kuier REBOUND (Off:1 Def:0),,,,,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,538,1,75,4,10:03 PM,1:38,Ogunbowale 2' Driving Finger Roll Layup (16 PTS),,,77 - 93,16,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,539,6,4,4,10:03 PM,1:21,,,Collier OFF.Foul (P4),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1022100077,541,5,37,4,10:03 PM,1:21,,,Collier Offensive Foul Turnover (P2.T14),,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100077,542,8,0,4,10:03 PM,1:21,SUB: Harris FOR Mabrey,,,,,4,1629497,Marina Mabrey,1611661321.0,Dallas,Wings,DAL,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,543,8,0,4,10:03 PM,1:21,SUB: Dungee FOR Ogunbowale,,,,,4,1629481,Arike Ogunbowale,1611661321.0,Dallas,Wings,DAL,4,1630440,Chelsea Dungee,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1022100077,544,8,0,4,10:03 PM,1:21,,,SUB: Burdick FOR McBride,,,5,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,545,8,0,4,10:03 PM,1:21,,,SUB: Carleton FOR Collier,,,5,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100077,550,1,1,4,10:04 PM,1:02,Kuier 16' Jump Shot (2 PTS) (Harris 2 AST),,,77 - 95,18,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,4,1630112,Tyasha Harris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1022100077,551,2,1,4,10:04 PM,0:49,,,MISS Banham 24' 3PT Jump Shot,,,5,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,552,4,0,4,10:04 PM,0:43,Thornton REBOUND (Off:2 Def:3),,,,,4,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,553,5,4,4,10:04 PM,0:43,Kuier Traveling Turnover (P1.T15),,,,,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1022100077,555,2,47,4,10:05 PM,0:21,,,MISS Dangerfield 11' Turnaround Jump Shot,,,5,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100077,556,4,0,4,10:05 PM,0:18,Kuier REBOUND (Off:1 Def:1),,,,,4,1630386,Awak Kuier,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1022100077,557,13,0,4,10:06 PM,0:00,,End of 4th Period (10:06 PM EST),,77 - 95,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

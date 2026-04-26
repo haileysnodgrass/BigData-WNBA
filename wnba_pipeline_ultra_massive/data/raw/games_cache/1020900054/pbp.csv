@@ -1,0 +1,410 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020900054,0,12,0,1,8:06 PM,10:00,,Start of 1st Period (8:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,1,10,0,1,8:08 PM,10:00,Jump Ball Fowles vs. Harper: Tip to Canty,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0
+1020900054,2,5,1,1,8:09 PM,9:46,Canty Bad Pass Turnover (P1.T1),,Walker STEAL (1 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,3,2,1,1,8:09 PM,9:30,,,MISS Powell 18' Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,4,4,0,1,8:09 PM,9:29,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,5,2,5,1,8:09 PM,9:14,MISS Canty  Layup,,Harper BLOCK (1 BLK),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,6,4,0,1,8:09 PM,9:14,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,7,2,1,1,8:10 PM,9:10,MISS Perkins 18' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,8,4,0,1,8:10 PM,9:08,,,Harper REBOUND (Off:0 Def:1),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,9,2,5,1,8:10 PM,9:00,Dupree BLOCK (1 BLK),,MISS Harper  Layup,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0
+1020900054,10,4,0,1,8:10 PM,8:57,Fowles REBOUND (Off:0 Def:1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,11,2,5,1,8:10 PM,8:45,MISS Perkins  Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,12,4,0,1,8:10 PM,8:42,Canty REBOUND (Off:1 Def:0),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,13,1,1,1,8:10 PM,8:38,Wyckoff  3PT Jump Shot (3 PTS) (Canty 1 AST),,,0 - 3,3,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,14,5,11,1,8:11 PM,8:10,,,Monarchs Turnover: Shot Clock (T#1),,,3,1611661318,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900054,15,6,1,1,8:11 PM,8:03,,,Powell P.FOUL (P1.T1),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,16,6,1,1,8:11 PM,8:00,,,Dorrell P.FOUL (P1.T2),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,17,1,42,1,8:12 PM,7:52,Dupree  Driving Layup (2 PTS),,,0 - 5,5,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,18,5,4,1,8:12 PM,7:48,,,Penicheiro Traveling Turnover (P1.T2),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,19,5,38,1,8:12 PM,7:48,SKY Turnover: 5 Second Inbound (T#2),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900054,20,1,5,1,8:13 PM,7:36,,,Dorrell  Layup (2 PTS) (Penicheiro 1 AST),2 - 5,3,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,21,6,2,1,8:13 PM,7:36,Canty S.FOUL (P1.T1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,23,3,10,1,8:13 PM,7:36,,,Dorrell Free Throw 1 of 1 (3 PTS),3 - 5,2,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,25,2,5,1,8:14 PM,7:17,MISS Canty  Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,26,4,0,1,8:14 PM,7:15,,,Dorrell REBOUND (Off:0 Def:1),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,27,5,4,1,8:14 PM,6:52,,,Penicheiro Traveling Turnover (P2.T3),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,28,1,5,1,8:15 PM,6:38,Fowles  Layup (2 PTS) (Perkins 1 AST),,,3 - 7,4,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,29,2,1,1,8:15 PM,6:23,,,MISS Powell 17' Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,30,4,0,1,8:15 PM,6:21,Fowles REBOUND (Off:0 Def:2),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,31,8,0,1,8:15 PM,6:04,,,SUB: Lawson FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,32,8,0,1,8:15 PM,6:04,,,SUB: Maiga-Ba FOR Dorrell,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,33,8,0,1,8:15 PM,6:04,,,SUB: Brunson FOR Harper,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,34,5,1,1,8:16 PM,5:57,Canty Bad Pass Turnover (P2.T3),,Powell STEAL (1 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,35,2,5,1,8:16 PM,5:43,,,MISS Powell  Layup,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,36,4,0,1,8:16 PM,5:42,Dupree REBOUND (Off:0 Def:1),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,37,1,5,1,8:16 PM,5:39,Fowles  Layup (4 PTS) (Dupree 1 AST),,,3 - 9,6,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,39,6,2,1,8:16 PM,5:28,Canty S.FOUL (P2.T2),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,40,8,0,1,8:17 PM,5:28,SUB: Thorn FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,44,3,11,1,8:17 PM,5:28,,,Maiga-Ba Free Throw 1 of 2 (1 PTS),4 - 9,5,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,41,3,12,1,8:17 PM,5:28,,,MISS Maiga-Ba Free Throw 2 of 2,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,43,4,0,1,8:17 PM,5:27,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,45,2,5,1,8:17 PM,5:16,MISS Dupree  Layup,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,46,4,0,1,8:17 PM,5:14,,,Maiga-Ba REBOUND (Off:0 Def:1),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,47,6,1,1,8:17 PM,5:14,Perkins P.FOUL (P1.T3),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,48,2,1,1,8:18 PM,4:57,Fowles BLOCK (1 BLK),,MISS Walker 12' Jump Shot,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1020900054,49,4,0,1,8:18 PM,4:55,Dupree REBOUND (Off:0 Def:2),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,50,1,1,1,8:18 PM,4:47,Wyckoff  3PT Jump Shot (6 PTS) (Perkins 2 AST),,,4 - 12,8,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,51,1,5,1,8:18 PM,4:25,,,Maiga-Ba  Layup (3 PTS),6 - 12,6,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,52,9,1,1,8:19 PM,4:16,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,56,8,0,1,8:19 PM,4:16,,,SUB: Newton FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,57,8,0,1,8:19 PM,4:16,,,SUB: Kelly FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,55,1,5,1,8:22 PM,4:07,Fowles  Layup (6 PTS) (Thorn 1 AST),,,6 - 14,8,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,58,5,1,1,8:22 PM,3:50,Perkins STEAL (1 STL),,Maiga-Ba Bad Pass Turnover (P1.T4),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,59,2,5,1,8:22 PM,3:45,MISS Perkins  Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,60,4,0,1,8:22 PM,3:45,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,61,6,1,1,8:22 PM,3:45,,,Kelly P.FOUL (P1.T3),,,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,62,1,5,1,8:22 PM,3:37,Perkins  Layup (2 PTS) (Thorn 2 AST),,,6 - 16,10,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,64,1,1,1,8:23 PM,3:16,,,Maiga-Ba 19' Jump Shot (5 PTS) (Newton 1 AST),8 - 16,8,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,65,2,1,1,8:23 PM,2:53,MISS Fowles 17' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,66,4,0,1,8:23 PM,2:52,Perkins REBOUND (Off:1 Def:0),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,67,5,11,1,8:24 PM,2:51,SKY Turnover: Shot Clock (T#4),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900054,68,8,0,1,8:24 PM,2:51,SUB: Ely-Gash FOR Wyckoff,,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,4,101032,Shyra Ely-Gash,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,69,8,0,1,8:24 PM,2:51,,,SUB: Harper FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,70,2,1,1,8:24 PM,2:36,,,MISS Lawson  3PT Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,71,4,0,1,8:24 PM,2:34,,,Harper REBOUND (Off:1 Def:1),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,72,6,1,1,8:24 PM,2:28,Dupree P.FOUL (P1.T4),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,73,1,42,1,8:25 PM,2:19,,,Maiga-Ba  Driving Layup (7 PTS),10 - 16,6,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,74,2,5,1,8:25 PM,2:08,MISS Fowles  Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,75,4,0,1,8:25 PM,2:06,Fowles REBOUND (Off:1 Def:2),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,76,2,5,1,8:25 PM,2:05,MISS Fowles  Layup,,Harper BLOCK (2 BLK),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,77,4,0,1,8:25 PM,2:02,,,Lawson REBOUND (Off:0 Def:1),,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,78,2,1,1,8:25 PM,1:56,,,MISS Lawson 14' Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,79,4,0,1,8:25 PM,1:55,Fowles REBOUND (Off:1 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,80,6,4,1,8:25 PM,1:42,Fowles OFF.Foul (P1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,81,5,5,1,8:25 PM,1:42,Fowles Foul Turnover (P1.T5),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1020900054,83,8,0,1,8:26 PM,1:42,,,SUB: Powell FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,84,2,1,1,8:26 PM,1:19,,,MISS Newton 18' Jump Shot,,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,85,4,0,1,8:26 PM,1:18,,,Harper REBOUND (Off:2 Def:1),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,86,6,2,1,8:26 PM,1:17,Ely-Gash S.FOUL (P1.PN),,,,,4,101032,Shyra Ely-Gash,1611661329.0,Chicago,Sky,CHI,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,87,8,0,1,8:27 PM,1:17,SUB: Herrington FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,88,3,11,1,8:27 PM,1:17,,,Powell Free Throw 1 of 2 (1 PTS),11 - 16,5,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,90,3,12,1,8:27 PM,1:17,,,Powell Free Throw 2 of 2 (2 PTS),12 - 16,4,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,93,5,4,1,8:27 PM,1:05,Fowles Traveling Turnover (P2.T6),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1020900054,94,8,0,1,8:27 PM,1:05,,,SUB: Dorrell FOR Newton,,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,475,8,0,1,8:27 PM,1:05,,,SUB: Penicheiro FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,95,1,5,1,8:28 PM,0:48,,,Kelly  Layup (2 PTS) (Harper 1 AST),14 - 16,2,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,96,1,5,1,8:28 PM,0:33,Fowles  Layup (8 PTS) (Ely-Gash 1 AST),,,14 - 18,4,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,101032,Shyra Ely-Gash,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,97,2,5,1,8:28 PM,0:18,,,MISS Harper  Layup,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,98,4,0,1,8:28 PM,0:17,Ely-Gash REBOUND (Off:0 Def:1),,,,,4,101032,Shyra Ely-Gash,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,99,2,5,1,8:28 PM,0:10,MISS Ely-Gash  Layup,,,,,4,101032,Shyra Ely-Gash,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,101,4,0,1,8:28 PM,0:08,Herrington REBOUND (Off:1 Def:0),,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,100,1,5,1,8:28 PM,0:08,Herrington  Layup (2 PTS),,,14 - 20,6,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,102,2,1,1,8:28 PM,0:00,,,MISS Penicheiro 12' Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,103,4,0,1,8:29 PM,0:00,,,Kelly REBOUND (Off:1 Def:0),,,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,104,6,2,1,8:29 PM,0:00,Fowles S.FOUL (P2.PN),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,106,18,0,1,8:31 PM,0:00,,Instant Replay1st Period (8:31 PM EST),,14 - 20,6,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900054,107,3,11,1,8:31 PM,0:00,,,Kelly Free Throw 1 of 2 (3 PTS),15 - 20,5,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,109,3,12,1,8:31 PM,0:00,,,Kelly Free Throw 2 of 2 (4 PTS),16 - 20,4,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,111,13,0,1,8:31 PM,0:00,,End of 1st Period (8:31 PM EST),,16 - 20,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,113,12,0,2,8:33 PM,10:00,,Start of 2nd Period (8:33 PM EST),,16 - 20,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,114,5,4,2,8:34 PM,9:44,,,Walker Traveling Turnover (P1.T5),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,115,2,5,2,8:35 PM,9:22,MISS Dupree  Layup,,Walker BLOCK (1 BLK),,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,116,4,0,2,8:35 PM,9:20,,,Powell REBOUND (Off:0 Def:1),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,117,1,5,2,8:35 PM,9:04,,,Penicheiro  Layup (2 PTS),18 - 20,2,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,118,2,1,2,8:35 PM,8:46,MISS Dupree  3PT Jump Shot,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,119,4,0,2,8:35 PM,8:45,Herrington REBOUND (Off:2 Def:0),,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,120,2,1,2,8:35 PM,8:41,MISS Dupree 17' Jump Shot,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,121,4,0,2,8:35 PM,8:39,Herrington REBOUND (Off:3 Def:0),,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,122,2,1,2,8:36 PM,8:18,MISS Dupree 13' Jump Shot,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,123,4,0,2,8:36 PM,8:17,,,Powell REBOUND (Off:0 Def:2),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,124,1,1,2,8:36 PM,8:09,,,Powell  3PT Jump Shot (5 PTS),21 - 20,-1,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,125,2,5,2,8:36 PM,7:53,MISS Nan  Layup,,Harper BLOCK (3 BLK),,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,126,4,0,2,8:36 PM,7:51,,,Penicheiro REBOUND (Off:0 Def:1),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,127,6,2,2,8:36 PM,7:44,Herrington S.FOUL (P1.T1),,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,128,8,0,2,8:37 PM,7:44,,,SUB: Paris FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,129,8,0,2,8:37 PM,7:44,SUB: Perkins FOR Thorn,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,130,8,0,2,8:37 PM,7:44,,,SUB: Lawson FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,131,8,0,2,8:37 PM,7:44,SUB: Canty FOR Ely-Gash,,,,,4,101032,Shyra Ely-Gash,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,132,8,0,2,8:37 PM,7:44,,,SUB: Maiga-Ba FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,133,3,11,2,8:37 PM,7:44,,,Harper Free Throw 1 of 2 (1 PTS),22 - 20,-2,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,135,3,12,2,8:37 PM,7:44,,,Harper Free Throw 2 of 2 (2 PTS),23 - 20,-3,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,137,2,1,2,8:38 PM,7:22,MISS Perkins 17' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,138,4,0,2,8:38 PM,7:20,,,Paris REBOUND (Off:0 Def:1),,,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,139,5,1,2,8:38 PM,7:18,Perkins STEAL (2 STL),,Paris Bad Pass Turnover (P1.T6),,,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,140,1,1,2,8:38 PM,6:55,Herrington 15' Jump Shot (4 PTS) (Perkins 3 AST),,,23 - 22,-1,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,141,2,1,2,8:38 PM,6:41,,,MISS Dorrell 19' Jump Shot,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,142,4,0,2,8:38 PM,6:40,Nan REBOUND (Off:0 Def:1),,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,143,1,1,2,8:39 PM,6:20,Nan 15' Jump Shot (2 PTS) (Canty 2 AST),,,23 - 24,1,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,144,9,1,2,8:39 PM,6:18,,,Monarchs Timeout: Regular (Reg.1 Short 0),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,148,8,0,2,8:42 PM,6:18,,,SUB: Brunson FOR Harper,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,149,8,0,2,8:42 PM,6:18,,,SUB: Newton FOR Dorrell,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,150,8,0,2,8:42 PM,6:15,SUB: Wyckoff FOR Dupree,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,151,6,2,2,8:42 PM,5:57,Nan S.FOUL (P1.T2),,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,152,3,11,2,8:42 PM,5:57,,,MISS Paris Free Throw 1 of 2,,,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,153,4,1,2,8:42 PM,5:57,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,154,3,12,2,8:42 PM,5:57,,,Paris Free Throw 2 of 2 (1 PTS),24 - 24,TIE,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,156,2,5,2,8:43 PM,5:43,MISS Nan  Layup,,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,157,4,0,2,8:43 PM,5:40,,,Brunson REBOUND (Off:0 Def:1),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,158,1,1,2,8:43 PM,5:23,,,Maiga-Ba 18' Jump Shot (9 PTS) (Brunson 1 AST),26 - 24,-2,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,159,2,5,2,8:44 PM,5:10,MISS Herrington  Layup,,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,160,4,0,2,8:44 PM,5:07,,,Maiga-Ba REBOUND (Off:0 Def:2),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,161,1,1,2,8:44 PM,4:53,,,Lawson  3PT Jump Shot (3 PTS) (Maiga-Ba 1 AST),29 - 24,-5,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,162,2,1,2,8:44 PM,4:29,MISS Herrington 16' Jump Shot,,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,163,4,0,2,8:44 PM,4:27,Wyckoff REBOUND (Off:1 Def:0),,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,164,6,2,2,8:45 PM,4:13,,,Paris S.FOUL (P1.T1),,,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,165,8,0,2,8:45 PM,4:13,SUB: Dupree FOR Herrington,,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,166,8,0,2,8:45 PM,4:13,SUB: Fowles FOR Nan,,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,167,3,11,2,8:45 PM,4:13,Canty Free Throw 1 of 2 (1 PTS),,,29 - 25,-4,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,169,8,0,2,8:45 PM,4:13,,,SUB: Penicheiro FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,170,3,12,2,8:45 PM,4:13,Canty Free Throw 2 of 2 (2 PTS),,,29 - 26,-3,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,172,2,1,2,8:46 PM,3:50,,,MISS Penicheiro  3PT Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,173,4,0,2,8:46 PM,3:48,Fowles REBOUND (Off:1 Def:4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,174,6,1,2,8:46 PM,3:48,,,Maiga-Ba P.FOUL (P1.T2),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,175,5,2,2,8:46 PM,3:25,Fowles Lost Ball Turnover (P3.T7),,Penicheiro STEAL (1 STL),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,176,6,2,2,8:47 PM,3:19,Perkins S.FOUL (P2.T3),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,177,8,0,2,8:47 PM,3:19,,,SUB: Powell FOR Paris,,,5,201907,Courtney Paris,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,178,3,11,2,8:47 PM,3:19,,,MISS Penicheiro Free Throw 1 of 2,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,179,4,1,2,8:47 PM,3:19,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,180,8,0,2,8:47 PM,3:19,,,SUB: Walker FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,181,3,12,2,8:47 PM,3:19,,,MISS Penicheiro Free Throw 2 of 2,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,183,4,0,2,8:47 PM,3:15,Fowles REBOUND (Off:1 Def:5),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,184,1,5,2,8:48 PM,3:12,Wyckoff  Layup (8 PTS) (Perkins 4 AST),,,29 - 28,-1,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,185,5,1,2,8:48 PM,2:54,Dupree STEAL (1 STL),,Powell Bad Pass Turnover (P1.T7),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,186,6,2,2,8:48 PM,2:35,,,Walker S.FOUL (P1.T3),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,187,9,1,2,8:49 PM,2:35,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,190,3,11,2,8:51 PM,2:35,Canty Free Throw 1 of 2 (3 PTS),,,29 - 29,TIE,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,192,8,0,2,8:51 PM,2:35,,,SUB: Dorrell FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,193,8,0,2,8:51 PM,2:35,,,SUB: Kelly FOR Newton,,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,194,3,12,2,8:51 PM,2:35,Canty Free Throw 2 of 2 (4 PTS),,,29 - 30,1,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,196,5,4,2,8:52 PM,2:22,,,Dorrell Traveling Turnover (P1.T8),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,197,5,1,2,8:52 PM,2:09,Wyckoff Bad Pass Turnover (P1.T8),,Dorrell STEAL (1 STL),,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,198,2,1,2,8:52 PM,2:00,,,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,199,4,0,2,8:52 PM,1:59,,,Walker REBOUND (Off:1 Def:0),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,200,1,72,2,8:52 PM,1:56,,,Walker  Putback Layup (2 PTS),31 - 30,-1,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,201,1,5,2,8:53 PM,1:39,Dupree  Layup (4 PTS) (Perkins 5 AST),,,31 - 32,1,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,202,1,1,2,8:53 PM,1:20,,,Walker 19' Jump Shot (4 PTS),33 - 32,-1,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,203,2,1,2,8:53 PM,1:13,MISS Dupree 15' Jump Shot,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,204,4,0,2,8:53 PM,1:09,,,Powell REBOUND (Off:0 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,205,1,44,2,8:53 PM,0:57,,,Powell  Reverse Layup (7 PTS),35 - 32,-3,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,206,5,1,2,8:54 PM,0:57,Canty Bad Pass Turnover (P3.T9),,Powell STEAL (2 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,207,6,2,2,8:54 PM,0:47,Dupree S.FOUL (P2.T4),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,208,8,0,2,8:54 PM,0:47,,,SUB: Brunson FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,209,8,0,2,8:54 PM,0:47,,,SUB: Harper FOR Kelly,,,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,210,3,11,2,8:54 PM,0:47,,,Powell Free Throw 1 of 2 (8 PTS),36 - 32,-4,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,212,3,12,2,8:54 PM,0:47,,,Powell Free Throw 2 of 2 (9 PTS),37 - 32,-5,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,214,5,40,2,8:55 PM,0:20,Fowles Out of Bounds Lost Ball Turnover (P4.T10),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,215,2,1,2,8:55 PM,0:06,,,MISS Dorrell 17' Jump Shot,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,216,4,0,2,8:55 PM,0:01,,,Powell REBOUND (Off:1 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,217,2,1,2,8:55 PM,0:00,,,MISS Powell 14' Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,218,4,0,2,8:55 PM,0:00,Fowles REBOUND (Off:1 Def:6),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,219,13,0,2,8:57 PM,0:00,,End of 2nd Period (8:57 PM EST),,37 - 32,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,221,12,0,3,9:12 PM,10:00,,Start of 3rd Period (9:12 PM EST),,37 - 32,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,222,1,1,3,9:12 PM,9:36,,,Powell  3PT Jump Shot (12 PTS) (Harper 2 AST),40 - 32,-8,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,223,1,5,3,9:12 PM,9:19,Perkins  Layup (4 PTS),,,40 - 34,-6,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,224,2,1,3,9:13 PM,8:57,,,MISS Powell 17' Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,225,4,0,3,9:13 PM,8:55,Fowles REBOUND (Off:1 Def:7),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,226,2,1,3,9:13 PM,8:36,MISS Canty 11' Jump Shot,,Harper BLOCK (4 BLK),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,227,4,0,3,9:13 PM,8:30,,,Dorrell REBOUND (Off:0 Def:2),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,228,2,5,3,9:13 PM,8:25,Fowles BLOCK (2 BLK),,MISS Harper  Layup,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1020900054,229,4,0,3,9:13 PM,8:24,,,Harper REBOUND (Off:3 Def:1),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,230,6,1,3,9:13 PM,8:14,Canty P.FOUL (P3.T1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,231,2,5,3,9:14 PM,8:05,,,MISS Walker  Layup,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,232,4,0,3,9:14 PM,8:04,Fowles REBOUND (Off:1 Def:8),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,233,5,2,3,9:14 PM,8:01,Fowles Lost Ball Turnover (P5.T11),,Walker STEAL (2 STL),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,234,5,4,3,9:14 PM,8:01,,,Walker Traveling Turnover (P2.T9),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,235,2,5,3,9:14 PM,7:49,MISS Perkins  Layup,,Dorrell BLOCK (1 BLK),,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,236,4,0,3,9:14 PM,7:47,,,Dorrell REBOUND (Off:0 Def:3),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,237,5,2,3,9:14 PM,7:37,Perkins STEAL (3 STL),,Powell Lost Ball Turnover (P2.T10),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,238,1,5,3,9:14 PM,7:32,Dupree  Layup (6 PTS) (Perkins 6 AST),,,40 - 36,-4,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,239,2,5,3,9:15 PM,7:19,,,MISS Harper  Layup,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,240,4,0,3,9:15 PM,7:18,Fowles REBOUND (Off:1 Def:9),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,241,8,0,3,9:15 PM,7:07,,,SUB: Brunson FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,242,8,0,3,9:15 PM,7:07,,,SUB: Lawson FOR Dorrell,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,243,8,0,3,9:15 PM,7:07,,,SUB: Newton FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,244,6,5,3,9:15 PM,7:07,,,Harper IN.FOUL (P1.T1),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,245,3,11,3,9:16 PM,7:07,Fowles Free Throw 1 of 2 (9 PTS),,,40 - 37,-3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,247,3,12,3,9:16 PM,7:07,Fowles Free Throw 2 of 2 (10 PTS),,,40 - 38,-2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,249,6,2,3,9:16 PM,6:51,Wyckoff S.FOUL (P1.T2),,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,250,3,11,3,9:17 PM,6:51,,,Powell Free Throw 1 of 2 (13 PTS),41 - 38,-3,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,252,3,12,3,9:17 PM,6:51,,,Powell Free Throw 2 of 2 (14 PTS),42 - 38,-4,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,254,6,1,3,9:17 PM,6:38,,,Harper P.FOUL (P2.T2),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,255,8,0,3,9:17 PM,6:38,,,SUB: Kelly FOR Harper,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,256,6,1,3,9:18 PM,6:30,,,Newton P.FOUL (P1.T3),,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,257,1,1,3,9:18 PM,6:24,Perkins 18' Jump Shot (6 PTS),,,42 - 40,-2,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,258,6,4,3,9:18 PM,6:12,,,Brunson OFF.Foul (P1),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,259,5,5,3,9:18 PM,6:12,,,Brunson Foul Turnover (P1.T11),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,260,8,0,3,9:19 PM,6:12,,,SUB: Maiga-Ba FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,261,6,1,3,9:19 PM,6:03,,,Brunson P.FOUL (P2.T4),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,262,1,42,3,9:19 PM,5:58,Fowles  Driving Layup (12 PTS) (Perkins 7 AST),,,42 - 42,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,263,1,1,3,9:19 PM,5:47,,,Kelly 18' Jump Shot (6 PTS) (Newton 2 AST),44 - 42,-2,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,264,5,1,3,9:20 PM,5:28,Wyckoff Bad Pass Turnover (P2.T12),,Lawson STEAL (1 STL),,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,265,6,1,3,9:20 PM,5:27,Canty P.FOUL (P4.T3),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,266,8,0,3,9:20 PM,5:27,SUB: Thorn FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,267,6,1,3,9:20 PM,5:18,Fowles P.FOUL (P3.T4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,268,2,1,3,9:21 PM,5:12,,,MISS Lawson  3PT Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,269,4,0,3,9:21 PM,5:09,,,Brunson REBOUND (Off:1 Def:1),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,270,2,5,3,9:21 PM,5:08,Wyckoff BLOCK (1 BLK),,MISS Brunson  Layup,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0
+1020900054,271,4,0,3,9:21 PM,5:06,Wyckoff REBOUND (Off:1 Def:1),,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,272,2,1,3,9:21 PM,5:02,MISS Perkins  3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,273,4,0,3,9:21 PM,5:01,,,Maiga-Ba REBOUND (Off:0 Def:3),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,274,1,1,3,9:21 PM,4:52,,,Brunson 16' Jump Shot (2 PTS),46 - 42,-4,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,275,5,1,3,9:21 PM,4:40,Perkins Bad Pass Turnover (P1.T13),,Brunson STEAL (1 STL),,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,276,2,1,3,9:21 PM,4:30,,,MISS Maiga-Ba 18' Jump Shot,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,277,4,0,3,9:21 PM,4:29,Perkins REBOUND (Off:1 Def:1),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,278,5,1,3,9:22 PM,4:20,Thorn Bad Pass Turnover (P1.T14),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,279,9,1,3,9:22 PM,4:20,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,281,8,0,3,9:24 PM,4:19,,,SUB: Walker FOR Kelly,,,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,282,8,0,3,9:24 PM,4:19,,,SUB: Dorrell FOR Newton,,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,284,2,1,3,9:25 PM,4:05,Fowles BLOCK (3 BLK),,MISS Dorrell 7' Jump Shot,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1020900054,285,4,0,3,9:25 PM,4:01,Dupree REBOUND (Off:0 Def:3),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,286,6,1,3,9:25 PM,3:46,,,Dorrell P.FOUL (P2.PN),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,287,3,11,3,9:25 PM,3:46,Thorn Free Throw 1 of 2 (1 PTS),,,46 - 43,-3,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,289,3,12,3,9:25 PM,3:46,Thorn Free Throw 2 of 2 (2 PTS),,,46 - 44,-2,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,291,2,1,3,9:26 PM,3:27,,,MISS Dorrell 14' Jump Shot,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,292,4,0,3,9:26 PM,3:26,Perkins REBOUND (Off:1 Def:2),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,293,1,5,3,9:26 PM,3:16,Fowles  Layup (14 PTS) (Perkins 8 AST),,,46 - 46,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,294,5,1,3,9:26 PM,3:00,Perkins STEAL (4 STL),,Lawson Bad Pass Turnover (P1.T12),,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,295,1,5,3,9:26 PM,2:59,Perkins  Layup (8 PTS),,,46 - 48,2,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,296,6,2,3,9:26 PM,2:59,,,Brunson S.FOUL (P3.PN),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,297,8,0,3,9:27 PM,2:59,,,SUB: Powell FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,298,3,10,3,9:27 PM,2:59,Perkins Free Throw 1 of 1 (9 PTS),,,46 - 49,3,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,300,1,42,3,9:27 PM,2:34,,,Lawson  Driving Layup (5 PTS),48 - 49,1,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,301,5,2,3,9:28 PM,2:22,Perkins Lost Ball Turnover (P2.T15),,Lawson STEAL (2 STL),,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,302,2,5,3,9:28 PM,2:18,,,MISS Lawson  Layup,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,304,4,0,3,9:28 PM,2:17,,,Powell REBOUND (Off:2 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,303,1,5,3,9:28 PM,2:17,,,Powell  Layup (16 PTS),50 - 49,-1,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,305,9,2,3,9:28 PM,2:15,SKY Timeout: Short (Full 1 Short 1),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,306,8,0,3,9:28 PM,2:15,SUB: Herrington FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,307,8,0,3,9:29 PM,2:15,,,SUB: Penicheiro FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,308,8,0,3,9:29 PM,2:15,,,SUB: Harper FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,309,1,5,3,9:29 PM,1:58,Dupree  Layup (8 PTS) (Fowles 1 AST),,,50 - 51,1,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,310,2,1,3,9:30 PM,1:36,,,MISS Penicheiro 17' Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,311,4,0,3,9:30 PM,1:34,,,Walker REBOUND (Off:2 Def:0),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,312,10,0,3,9:30 PM,1:34,Jump Ball Fowles vs. Walker: Tip to Dupree,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0
+1020900054,313,5,2,3,9:30 PM,1:34,Fowles STEAL (1 STL),,Walker Lost Ball Turnover (P3.T13),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,314,1,1,3,9:30 PM,1:24,Thorn 20' Jump Shot (4 PTS) (Dupree 2 AST),,,50 - 53,3,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,315,6,2,3,9:30 PM,1:06,Dupree S.FOUL (P3.PN),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,316,8,0,3,9:31 PM,1:06,,,SUB: Maiga-Ba FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,317,3,11,3,9:31 PM,1:06,,,MISS Dorrell Free Throw 1 of 2,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,318,4,1,3,9:31 PM,1:06,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,319,8,0,3,9:31 PM,1:06,SUB: Canty FOR Wyckoff,,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,320,8,0,3,9:31 PM,1:06,SUB: Nan FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,321,3,12,3,9:31 PM,1:06,,,Dorrell Free Throw 2 of 2 (4 PTS),51 - 53,2,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,323,2,1,3,9:32 PM,0:46,MISS Nan 12' Jump Shot,,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,324,4,0,3,9:32 PM,0:46,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,325,6,3,3,9:32 PM,0:46,Nan L.B.FOUL (P2.PN),,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,326,3,11,3,9:32 PM,0:46,,,Harper Free Throw 1 of 2 (3 PTS),52 - 53,1,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,328,3,12,3,9:32 PM,0:46,,,Harper Free Throw 2 of 2 (4 PTS),53 - 53,TIE,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,330,1,1,3,9:33 PM,0:33,Dupree 9' Jump Shot (10 PTS) (Canty 3 AST),,,53 - 55,2,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,331,6,2,3,9:33 PM,0:16,Thorn S.FOUL (P1.PN),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,332,3,11,3,9:33 PM,0:16,,,Harper Free Throw 1 of 2 (5 PTS),54 - 55,1,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,334,3,12,3,9:34 PM,0:16,,,Harper Free Throw 2 of 2 (6 PTS),55 - 55,TIE,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,336,5,40,3,9:34 PM,0:00,Dupree Out of Bounds Lost Ball Turnover (P1.T16),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,337,13,0,3,9:35 PM,0:00,,End of 3rd Period (9:35 PM EST),,55 - 55,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,339,12,0,4,9:37 PM,10:00,,Start of 4th Period (9:37 PM EST),,55 - 55,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,340,1,5,4,9:38 PM,9:41,Dupree  Layup (12 PTS) (Thorn 3 AST),,,55 - 57,2,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,341,2,1,4,9:38 PM,9:14,,,MISS Powell 16' Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,342,4,0,4,9:38 PM,9:13,Dupree REBOUND (Off:0 Def:4),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,343,2,5,4,9:38 PM,8:53,MISS Canty  Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,344,4,0,4,9:38 PM,8:53,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,345,8,0,4,9:39 PM,8:53,,,SUB: Newton FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,346,8,0,4,9:39 PM,8:53,,,SUB: Walker FOR Harper,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,347,8,0,4,9:39 PM,8:53,SUB: Fowles FOR Nan,,,,,4,101075,Chen Nan,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,348,2,1,4,9:39 PM,8:38,MISS Thorn  3PT Jump Shot,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,349,4,0,4,9:39 PM,8:36,,,Maiga-Ba REBOUND (Off:0 Def:4),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,350,1,1,4,9:40 PM,8:30,,,Lawson  3PT Jump Shot (8 PTS) (Penicheiro 2 AST),58 - 57,-1,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,351,5,1,4,9:40 PM,8:11,Canty Bad Pass Turnover (P4.T17),,Maiga-Ba STEAL (1 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,352,1,5,4,9:40 PM,8:05,,,Newton  Layup (2 PTS) (Maiga-Ba 2 AST),60 - 57,-3,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,353,6,1,4,9:40 PM,7:53,,,Walker P.FOUL (P2.T1),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,354,8,0,4,9:40 PM,7:53,SUB: Wyckoff FOR Dupree,,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,355,8,0,4,9:41 PM,7:53,,,SUB: Brunson FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,356,8,0,4,9:41 PM,7:53,,,SUB: Dorrell FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,357,2,1,4,9:41 PM,7:42,MISS Wyckoff  3PT Jump Shot,,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,358,4,0,4,9:41 PM,7:41,,,Newton REBOUND (Off:0 Def:1),,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,359,6,4,4,9:41 PM,7:29,,,Walker OFF.Foul (P3),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,360,5,5,4,9:41 PM,7:29,,,Walker Foul Turnover (P4.T14),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,361,2,5,4,9:42 PM,7:11,MISS Fowles  Layup,,Brunson BLOCK (1 BLK),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,362,4,0,4,9:42 PM,7:08,,,Walker REBOUND (Off:2 Def:1),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,363,2,5,4,9:42 PM,7:02,,,MISS Dorrell  Layup,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,364,4,0,4,9:42 PM,7:01,Fowles REBOUND (Off:1 Def:10),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,365,1,42,4,9:42 PM,6:48,Canty  Driving Layup (6 PTS),,,60 - 59,-1,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,366,6,2,4,9:42 PM,6:48,,,Lawson S.FOUL (P1.T2),,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,367,8,0,4,9:42 PM,6:48,SUB: Perkins FOR Herrington,,,,,4,201048,Armintie Herrington,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,368,3,10,4,9:42 PM,6:48,Canty Free Throw 1 of 1 (7 PTS),,,60 - 60,TIE,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,370,1,5,4,9:43 PM,6:34,,,Brunson  Layup (4 PTS) (Walker 1 AST),62 - 60,-2,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,371,2,1,4,9:43 PM,6:13,MISS Perkins 10' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,372,4,0,4,9:43 PM,6:11,,,Walker REBOUND (Off:2 Def:2),,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,373,6,1,4,9:43 PM,5:57,Fowles P.FOUL (P4.T1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,374,9,1,4,9:44 PM,5:57,SKY Timeout: Regular (Full 2 Short 1),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,376,8,0,4,9:46 PM,5:57,,,SUB: Powell FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,377,8,0,4,9:46 PM,5:57,,,SUB: Penicheiro FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,378,8,0,4,9:46 PM,5:57,,,SUB: Kelly FOR Newton,,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,380,6,1,4,9:47 PM,5:52,Thorn P.FOUL (P2.T2),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,381,1,1,4,9:47 PM,5:48,,,Powell 25' 3PT Jump Shot (19 PTS),65 - 60,-5,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,382,5,4,4,9:47 PM,5:32,Canty Traveling Turnover (P5.T18),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1020900054,384,5,2,4,9:48 PM,5:12,Canty STEAL (1 STL),,Penicheiro Lost Ball Turnover (P3.T15),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,385,2,1,4,9:48 PM,5:07,MISS Thorn 19' Jump Shot,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,386,4,0,4,9:48 PM,5:05,,,Brunson REBOUND (Off:1 Def:2),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,387,2,1,4,9:48 PM,4:42,,,MISS Brunson 15' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,388,4,0,4,9:48 PM,4:40,Fowles REBOUND (Off:1 Def:11),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,389,2,1,4,9:49 PM,4:20,MISS Canty 15' Jump Shot,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,390,4,0,4,9:49 PM,4:18,Canty REBOUND (Off:2 Def:0),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,391,1,42,4,9:49 PM,4:10,Thorn  Driving Layup (6 PTS),,,65 - 62,-3,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,392,6,1,4,9:49 PM,3:54,Thorn P.FOUL (P3.T3),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,393,8,0,4,9:49 PM,3:54,SUB: Dupree FOR Thorn,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,394,8,0,4,9:49 PM,3:54,,,SUB: Maiga-Ba FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,395,8,0,4,9:49 PM,3:54,,,SUB: Newton FOR Dorrell,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,396,8,0,4,9:49 PM,3:54,,,SUB: Harper FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,397,8,0,4,9:49 PM,3:54,,,SUB: Lawson FOR Kelly,,,5,201494,Crystal Kelly,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,398,2,1,4,9:50 PM,3:45,,,MISS Maiga-Ba 17' Jump Shot,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,399,4,0,4,9:50 PM,3:43,,,Brunson REBOUND (Off:2 Def:2),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,400,6,2,4,9:50 PM,3:29,Wyckoff S.FOUL (P2.T4),,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,401,3,11,4,9:50 PM,3:29,,,Brunson Free Throw 1 of 2 (5 PTS),66 - 62,-4,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,403,3,12,4,9:50 PM,3:29,,,Brunson Free Throw 2 of 2 (6 PTS),67 - 62,-5,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,405,2,5,4,9:51 PM,3:11,MISS Fowles  Layup,,Brunson BLOCK (2 BLK),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0
+1020900054,406,4,0,4,9:51 PM,3:06,,,Brunson REBOUND (Off:2 Def:3),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,407,2,1,4,9:51 PM,2:48,,,MISS Lawson  3PT Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,408,4,0,4,9:51 PM,2:47,Fowles REBOUND (Off:1 Def:12),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,409,6,2,4,9:51 PM,2:41,,,Harper S.FOUL (P3.T3),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,410,9,1,4,9:52 PM,2:41,,,Monarchs Timeout: Regular (Reg.2 Short 0),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,412,8,0,4,9:53 PM,2:41,,,SUB: Walker FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,415,3,11,4,9:54 PM,2:41,Dupree Free Throw 1 of 2 (13 PTS),,,67 - 63,-4,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,417,3,12,4,9:54 PM,2:41,Dupree Free Throw 2 of 2 (14 PTS),,,67 - 64,-3,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,419,6,4,4,9:55 PM,2:28,,,Harper OFF.Foul (P4),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,420,5,5,4,9:55 PM,2:28,,,Harper Foul Turnover (P1.T16),,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020900054,421,8,0,4,9:55 PM,2:28,,,SUB: Brunson FOR Harper,,,5,201509,Laura Harper,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,422,6,1,4,9:55 PM,2:22,,,Newton P.FOUL (P2.T4),,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,423,8,0,4,9:55 PM,2:22,,,SUB: Penicheiro FOR Newton,,,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,424,2,1,4,9:56 PM,2:03,MISS Canty 18' Jump Shot,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,425,4,0,4,9:56 PM,2:02,Dupree REBOUND (Off:1 Def:4),,,,,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,426,1,1,4,9:56 PM,1:52,Dupree 18' Jump Shot (16 PTS) (Wyckoff 1 AST),,,67 - 66,-1,4,200676,Candice Dupree,1611661329.0,Chicago,Sky,CHI,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,427,5,1,4,9:56 PM,1:35,Canty STEAL (2 STL),,Maiga-Ba Bad Pass Turnover (P2.T17),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,428,1,5,4,9:56 PM,1:30,Perkins  Layup (11 PTS) (Canty 4 AST),,,67 - 68,1,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,429,9,1,4,9:56 PM,1:28,,,Monarchs Timeout: Regular (Reg.3 Short 0),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,430,8,0,4,9:58 PM,1:28,,,SUB: Powell FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,431,2,5,4,9:58 PM,1:14,,,MISS Penicheiro  Layup,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,432,4,0,4,9:58 PM,1:13,Fowles REBOUND (Off:1 Def:13),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,433,1,1,4,9:59 PM,0:57,Perkins  3PT Jump Shot (14 PTS) (Canty 5 AST),,,67 - 71,4,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,434,2,1,4,9:59 PM,0:43,,,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,435,4,0,4,9:59 PM,0:41,,,Powell REBOUND (Off:3 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,436,2,1,4,9:59 PM,0:26,,,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,437,4,0,4,9:59 PM,0:25,Canty REBOUND (Off:2 Def:1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,438,6,1,4,10:00 PM,0:18,,,Lawson P.FOUL (P2.PN),,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,439,3,11,4,10:00 PM,0:18,Perkins Free Throw 1 of 2 (15 PTS),,,67 - 72,5,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,441,8,0,4,10:00 PM,0:18,,,SUB: Maiga-Ba FOR Walker,,,5,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,442,3,12,4,10:00 PM,0:18,Perkins Free Throw 2 of 2 (16 PTS),,,67 - 73,6,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,444,9,2,4,10:00 PM,0:18,,,Monarchs Timeout: Short (Reg.3 Short 1),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,448,2,1,4,10:02 PM,0:07,,,MISS Penicheiro 11' Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,449,4,0,4,10:02 PM,0:06,,,Penicheiro REBOUND (Off:1 Def:1),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,450,6,2,4,10:02 PM,0:04,Perkins S.FOUL (P3.PN),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020900054,451,3,13,4,10:02 PM,0:04,,,Lawson Free Throw 1 of 3 (9 PTS),68 - 73,5,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,453,3,14,4,10:03 PM,0:04,,,Lawson Free Throw 2 of 3 (10 PTS),69 - 73,4,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,455,3,15,4,10:03 PM,0:04,,,Lawson Free Throw 3 of 3 (11 PTS),70 - 73,3,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,457,9,2,4,10:03 PM,0:04,SKY Timeout: Short (Full 2 Short 2),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,458,8,0,4,10:04 PM,0:04,SUB: Thorn FOR Wyckoff,,,,,4,100667,Brooke Wyckoff,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1020900054,459,8,0,4,10:04 PM,0:04,,,SUB: Dorrell FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,460,6,1,4,10:04 PM,0:03,,,Penicheiro P.FOUL (P1.PN),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1020900054,461,3,11,4,10:04 PM,0:03,MISS Perkins Free Throw 1 of 2,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,462,4,1,4,10:04 PM,0:03,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,463,8,0,4,10:05 PM,0:03,,,SUB: Newton FOR Dorrell,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,464,8,0,4,10:05 PM,0:03,,,SUB: Lawson FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020900054,465,3,12,4,10:05 PM,0:03,Perkins Free Throw 2 of 2 (17 PTS),,,70 - 74,4,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1020900054,467,9,2,4,10:05 PM,0:03,,,Monarchs Timeout: Short (Reg.3 Short 2),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900054,468,2,1,4,10:06 PM,0:01,,,MISS Brunson 14' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,470,4,0,4,10:06 PM,0:00,,,Powell REBOUND (Off:4 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,469,2,5,4,10:06 PM,0:00,,,MISS Powell  Layup,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,472,4,0,4,10:07 PM,0:00,,,Powell REBOUND (Off:5 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,471,1,5,4,10:07 PM,0:00,,,Powell  Layup (21 PTS),72 - 74,2,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020900054,473,13,0,4,10:07 PM,0:00,,End of 4th Period (10:07 PM EST),,72 - 74,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

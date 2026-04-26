@@ -1,0 +1,392 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020800160,0,12,0,1,4:00 PM,10:00,,Start of 1st Period (4:00 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,1,10,0,1,4:00 PM,10:00,Jump Ball Sanford vs. Griffith: Tip to Beard,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020800160,2,2,1,1,4:01 PM,9:46,MISS McWilliams-Franklin 9' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,3,4,0,1,4:01 PM,9:45,Currie REBOUND (Off:1 Def:0),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,4,1,1,1,4:01 PM,9:41,Beard 13' Jump Shot (2 PTS),,,0 - 2,2,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,5,7,1,1,4:01 PM,9:39,MYSTICS Violation: Delay of game Violation,,,,,2,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1020800160,7,6,1,1,4:01 PM,9:29,Blue P.FOUL (P1.T1),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,9,1,1,1,4:02 PM,9:14,,,Cash 13' Jump Shot (2 PTS) (Bird 1 AST),2 - 2,TIE,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,10,6,2,1,4:02 PM,8:58,,,Cash S.FOUL (P1.T1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,11,3,11,1,4:02 PM,8:58,MISS Sanford Free Throw 1 of 2,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,12,4,1,1,4:02 PM,8:58,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,13,3,12,1,4:02 PM,8:58,Sanford Free Throw 2 of 2 (1 PTS),,,2 - 3,1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,14,2,1,1,4:03 PM,8:43,,,MISS Cash 9' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,15,4,0,1,4:03 PM,8:42,,,Little REBOUND (Off:1 Def:0),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,16,1,1,1,4:03 PM,8:39,,,Little 8' Jump Shot (2 PTS),4 - 3,-1,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,17,2,1,1,4:03 PM,8:22,MISS Beard 15' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,18,4,0,1,4:03 PM,8:21,,,Swoopes REBOUND (Off:0 Def:1),,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,19,5,1,1,4:03 PM,8:15,Beard STEAL (1 STL),,Bird Bad Pass Turnover (P1.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,20,2,5,1,4:04 PM,8:08,MISS Beard 2' Layup,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,21,4,0,1,4:04 PM,8:08,,,Swoopes REBOUND (Off:0 Def:2),,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,22,6,3,1,4:04 PM,8:08,Sanford L.B.FOUL (P1.T2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,23,1,78,1,4:04 PM,7:52,,,Bird 9' Floating Jump Shot (2 PTS) (Little 1 AST),6 - 3,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,24,8,0,1,4:05 PM,7:37,SUB: Smith FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,25,1,1,1,4:05 PM,7:34,Currie 19' Jump Shot (2 PTS) (Beard 1 AST),,,6 - 5,-1,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,26,1,1,1,4:05 PM,7:19,,,Swoopes 19' Jump Shot (2 PTS) (Griffith 1 AST),8 - 5,-3,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,27,1,47,1,4:05 PM,7:04,Sanford 5' Turnaround Jump Shot (3 PTS) (Beard 2 AST),,,8 - 7,-1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,28,5,1,1,4:06 PM,6:51,Beard STEAL (2 STL),,Cash Bad Pass Turnover (P1.T2),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,29,1,5,1,4:06 PM,6:43,McWilliams-Franklin 2' Layup (2 PTS) (Beard 3 AST),,,8 - 9,1,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,30,2,1,1,4:06 PM,6:30,,,MISS Bird 16' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,31,4,0,1,4:06 PM,6:28,Beard REBOUND (Off:0 Def:1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,32,2,1,1,4:06 PM,6:22,MISS Currie 16' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,33,4,0,1,4:06 PM,6:21,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,34,2,1,1,4:07 PM,6:02,,,MISS Cash 18' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,35,4,0,1,4:07 PM,6:01,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,36,1,5,1,4:07 PM,5:50,Currie 3' Layup (4 PTS) (McWilliams-Franklin 1 AST),,,8 - 11,3,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,37,1,1,1,4:07 PM,5:35,,,Bird 25' 3PT Jump Shot (5 PTS),11 - 11,TIE,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,38,2,1,1,4:08 PM,5:25,MISS McWilliams-Franklin 16' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,39,4,0,1,4:08 PM,5:24,,,Little REBOUND (Off:1 Def:1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,40,1,5,1,4:08 PM,5:12,,,Griffith 2' Layup (2 PTS) (Cash 1 AST),13 - 11,-2,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,41,1,5,1,4:08 PM,4:49,McWilliams-Franklin 1' Layup (4 PTS) (Sanford 1 AST),,,13 - 13,TIE,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,42,9,4,1,4:08 PM,4:32,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,44,8,0,1,4:11 PM,4:32,,,SUB: Wright FOR Swoopes,,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,45,8,0,1,4:11 PM,4:32,SUB: Miller FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,46,8,0,1,4:11 PM,4:32,SUB: Blue FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,47,8,0,1,4:11 PM,4:32,SUB: Langhorne FOR Smith,,,,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,48,1,46,1,4:12 PM,4:16,,,Bird 10' Running Jump Shot (7 PTS),15 - 13,-2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,49,2,1,1,4:12 PM,3:59,MISS Langhorne 5' Jump Shot,,Griffith BLOCK (1 BLK),,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0
+1020800160,50,4,0,1,4:12 PM,3:59,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,51,2,1,1,4:12 PM,3:52,MISS Beard 24' 3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,52,4,0,1,4:12 PM,3:51,,,Little REBOUND (Off:1 Def:2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,53,5,1,1,4:12 PM,3:39,McWilliams-Franklin STEAL (1 STL),,Bird Bad Pass Turnover (P2.T3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,55,1,5,1,4:13 PM,3:34,McWilliams-Franklin  Layup (6 PTS),,,15 - 15,TIE,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,56,2,1,1,4:13 PM,3:14,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,57,4,0,1,4:13 PM,3:12,Langhorne REBOUND (Off:0 Def:1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,58,5,2,1,4:13 PM,3:04,McWilliams-Franklin Lost Ball Turnover (P1.T1),,Little STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,59,2,5,1,4:13 PM,2:53,,,MISS Little 1' Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,60,4,0,1,4:13 PM,2:52,Miller REBOUND (Off:0 Def:1),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,62,1,1,1,4:13 PM,2:39,Blue  3PT Jump Shot (3 PTS) (Langhorne 1 AST),,,15 - 18,3,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,63,6,2,1,4:14 PM,2:14,Miller S.FOUL (P1.T3),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,64,3,11,1,4:14 PM,2:14,,,MISS Griffith Free Throw 1 of 2,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,65,4,1,1,4:14 PM,2:14,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,66,8,0,1,4:15 PM,2:14,,,SUB: Swoopes FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,67,8,0,1,4:15 PM,2:14,SUB: Currie FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,68,8,0,1,4:15 PM,2:14,SUB: Smith FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,69,8,0,1,4:15 PM,2:14,SUB: Sanford FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,70,3,12,1,4:15 PM,2:14,,,MISS Griffith Free Throw 2 of 2,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,71,4,0,1,4:15 PM,2:13,Currie REBOUND (Off:1 Def:1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,72,5,1,1,4:15 PM,2:08,Miller Bad Pass Turnover (P1.T2),,Little STEAL (2 STL),,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,73,1,1,1,4:15 PM,1:50,,,Little 12' Jump Shot (4 PTS) (Swoopes 1 AST),17 - 18,1,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,74,6,2,1,4:16 PM,1:31,,,Griffith S.FOUL (P1.T2),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,75,8,0,1,4:16 PM,1:31,,,SUB: Robinson FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,76,3,11,1,4:16 PM,1:31,Currie Free Throw 1 of 2 (5 PTS),,,17 - 19,2,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,77,3,12,1,4:16 PM,1:31,Currie Free Throw 2 of 2 (6 PTS),,,17 - 20,3,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,78,5,1,1,4:17 PM,1:14,,,Robinson Bad Pass Turnover (P1.T4),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800160,79,1,1,1,4:17 PM,1:01,Miller  3PT Jump Shot (3 PTS) (Currie 1 AST),,,17 - 23,6,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,80,6,4,1,4:17 PM,0:50,,,Robinson OFF.Foul (P1),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,81,5,5,1,4:17 PM,0:50,,,Robinson Foul Turnover (P2.T5),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800160,82,8,0,1,4:18 PM,0:50,,,SUB: Santos FOR Robinson,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,83,8,0,1,4:18 PM,0:33,,,SUB: Gearlds FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,84,5,4,1,4:19 PM,0:21,Sanford Traveling Turnover (P1.T3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,86,2,1,1,4:20 PM,0:00,,,MISS Santos 5' Jump Shot,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,87,4,0,1,4:20 PM,0:00,Miller REBOUND (Off:0 Def:2),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,88,13,0,1,4:20 PM,0:00,,End of 1st Period (4:20 PM EST),,17 - 23,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,90,12,0,2,4:22 PM,10:00,,Start of 2nd Period (4:22 PM EST),,17 - 23,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,91,5,2,2,4:23 PM,9:42,Beard STEAL (3 STL),,Swoopes Lost Ball Turnover (P1.T6),,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,92,2,1,2,4:23 PM,9:36,MISS Beard 5' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,93,4,0,2,4:23 PM,9:35,,,Wright REBOUND (Off:0 Def:1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,94,2,1,2,4:23 PM,9:17,,,MISS Little 4' Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,95,4,0,2,4:23 PM,9:16,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,96,1,1,2,4:23 PM,9:04,McWilliams-Franklin 17' Jump Shot (8 PTS) (Beard 4 AST),,,17 - 25,8,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,97,9,1,2,4:24 PM,9:02,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,99,1,57,2,4:26 PM,8:38,,,Little 2' Driving Hook Shot (6 PTS),19 - 25,6,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,100,1,1,2,4:27 PM,8:21,McWilliams-Franklin  3PT Jump Shot (11 PTS) (Beard 5 AST),,,19 - 28,9,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,101,2,5,2,4:27 PM,8:06,McWilliams-Franklin BLOCK (1 BLK),,MISS Wright 2' Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0
+1020800160,102,4,0,2,4:27 PM,8:04,Langhorne REBOUND (Off:0 Def:2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,103,2,1,2,4:27 PM,7:57,MISS Beard 4' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,104,4,0,2,4:27 PM,7:56,,,Santos REBOUND (Off:0 Def:1),,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,105,5,11,2,4:27 PM,7:32,,,Storm Turnover: Shot Clock (T#7),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1020800160,106,8,0,2,4:28 PM,7:32,SUB: Sanford FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,107,8,0,2,4:28 PM,7:32,,,SUB: Bird FOR Gearlds,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,108,8,0,2,4:28 PM,7:32,,,SUB: Griffith FOR Swoopes,,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,109,8,0,2,4:28 PM,7:32,,,SUB: Cash FOR Santos,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,110,5,1,2,4:28 PM,7:16,McWilliams-Franklin Bad Pass Turnover (P2.T4),,Little STEAL (3 STL),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,111,2,1,2,4:28 PM,7:10,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,112,4,0,2,4:28 PM,7:08,,,Little REBOUND (Off:2 Def:2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,113,5,2,2,4:28 PM,7:03,Beard STEAL (4 STL),,Little Lost Ball Turnover (P1.T8),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,114,1,1,2,4:29 PM,6:53,McWilliams-Franklin  3PT Jump Shot (14 PTS) (Miller 1 AST),,,19 - 31,12,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,116,6,2,2,4:29 PM,6:33,Beard S.FOUL (P1.T1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,117,8,0,2,4:29 PM,6:33,SUB: Blue FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,118,3,11,2,4:29 PM,6:33,,,Griffith Free Throw 1 of 2 (3 PTS),20 - 31,11,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,119,3,12,2,4:30 PM,6:33,,,Griffith Free Throw 2 of 2 (4 PTS),21 - 31,10,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,121,2,5,2,4:30 PM,6:16,MISS Sanford 2' Layup,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,122,4,0,2,4:30 PM,6:15,,,Griffith REBOUND (Off:0 Def:1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,123,2,5,2,4:30 PM,6:08,,,MISS Cash 1' Layup,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,124,4,0,2,4:30 PM,6:07,Currie REBOUND (Off:1 Def:2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,125,6,1,2,4:30 PM,5:59,,,Wright P.FOUL (P1.T1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,126,8,0,2,4:31 PM,5:59,SUB: Beard FOR Miller,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,127,1,5,2,4:31 PM,5:44,Sanford 3' Layup (5 PTS),,,21 - 33,12,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,129,8,0,2,4:32 PM,5:16,SUB: Langhorne FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,130,10,0,2,4:32 PM,5:16,Jump Ball Currie vs. Cash: Tip to,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,2,1611661322,,,,,,0
+1020800160,131,5,2,2,4:32 PM,5:16,Currie STEAL (1 STL),,Cash Lost Ball Turnover (P2.T9),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,133,1,1,2,4:33 PM,5:02,McWilliams-Franklin 14' Jump Shot (16 PTS) (Beard 6 AST),,,21 - 35,14,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,134,1,1,2,4:33 PM,4:43,,,Griffith 6' Jump Shot (6 PTS) (Bird 2 AST),23 - 35,12,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,135,1,5,2,4:33 PM,4:25,McWilliams-Franklin 3' Layup (18 PTS) (Beard 7 AST),,,23 - 37,14,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,136,2,1,2,4:34 PM,3:58,,,MISS Little 25' 3PT Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,137,4,0,2,4:34 PM,3:57,Beard REBOUND (Off:0 Def:2),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,138,2,1,2,4:34 PM,3:44,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,139,4,0,2,4:34 PM,3:43,,,Cash REBOUND (Off:0 Def:1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,140,2,1,2,4:34 PM,3:32,,,MISS Wright 11' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,141,4,0,2,4:34 PM,3:31,Currie REBOUND (Off:1 Def:3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,142,2,1,2,4:35 PM,3:11,MISS Currie  3PT Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,143,4,0,2,4:35 PM,3:10,,,Little REBOUND (Off:2 Def:3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,144,6,1,2,4:35 PM,2:55,Blue P.FOUL (P2.T2),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,145,9,1,2,4:35 PM,2:55,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,147,8,0,2,4:38 PM,2:55,SUB: Smith FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,148,8,0,2,4:38 PM,2:55,SUB: Miller FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,149,8,0,2,4:38 PM,2:55,SUB: Mosby FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,150,8,0,2,4:38 PM,2:55,,,SUB: Gearlds FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,151,8,0,2,4:38 PM,2:55,,,SUB: Swoopes FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,152,8,0,2,4:38 PM,2:55,,,SUB: Ely-Gash FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,153,5,41,2,4:38 PM,2:46,Beard STEAL (5 STL),,Ely-Gash Poss Lost Ball Turnover (P1.T10),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,154,6,1,2,4:38 PM,2:46,,,Ely-Gash P.FOUL (P1.T2),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,155,8,0,2,4:39 PM,2:46,,,SUB: Wright FOR Gearlds,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,156,8,0,2,4:39 PM,2:46,,,SUB: Bird FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,157,8,0,2,4:39 PM,2:46,SUB: Koehn FOR Miller,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,158,6,1,2,4:39 PM,2:40,,,Griffith P.FOUL (P2.T3),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,159,8,0,2,4:40 PM,2:40,,,SUB: Robinson FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,161,1,1,2,4:40 PM,2:33,Koehn 24' 3PT Jump Shot (3 PTS) (Smith 1 AST),,,23 - 40,17,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,162,5,1,2,4:41 PM,2:07,Langhorne STEAL (1 STL),,Swoopes Bad Pass Turnover (P2.T11),,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,163,6,1,2,4:41 PM,2:06,,,Swoopes P.FOUL (P1.T4),,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,164,1,1,2,4:42 PM,1:45,Smith 25' 3PT Jump Shot (3 PTS) (Beard 8 AST),,,23 - 43,20,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,165,5,1,2,4:42 PM,1:23,,,Wright Bad Pass Turnover (P1.T12),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800160,166,8,0,2,4:42 PM,1:23,SUB: McWilliams-Franklin FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,167,2,1,2,4:43 PM,1:04,MISS Smith 14' Jump Shot,,,,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,168,4,0,2,4:43 PM,1:03,Smith REBOUND (Off:1 Def:0),,,,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,169,1,1,2,4:43 PM,0:59,Koehn 24' 3PT Jump Shot (6 PTS) (Smith 2 AST),,,23 - 46,23,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,170,9,1,2,4:43 PM,0:57,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,172,8,0,2,4:45 PM,0:57,,,SUB: O'Neill FOR Swoopes,,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,173,8,0,2,4:45 PM,0:57,,,SUB: Santos FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,174,8,0,2,4:45 PM,0:57,,,SUB: Gearlds FOR Robinson,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,175,2,1,2,4:45 PM,0:41,,,MISS Gearlds  3PT Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,176,4,0,2,4:45 PM,0:40,Mosby REBOUND (Off:0 Def:1),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,177,1,63,2,4:46 PM,0:17,Mosby 6' Fadeaway Jumper (2 PTS) (Beard 9 AST),,,23 - 48,25,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,178,1,86,2,4:46 PM,0:05,,,Ely-Gash 9' Turnaround Fadeaway (2 PTS) (Wright 1 AST),25 - 48,23,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,179,2,1,2,4:46 PM,0:00,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,180,4,0,2,4:46 PM,0:00,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,181,13,0,2,4:46 PM,0:00,,End of 2nd Period (4:46 PM EST),,25 - 48,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,185,12,0,3,5:02 PM,10:00,,Start of 3rd Period (5:02 PM EST),,25 - 48,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,186,2,1,3,5:02 PM,9:45,,,MISS Cash 9' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,187,4,0,3,5:02 PM,9:43,,,Little REBOUND (Off:3 Def:3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,188,2,5,3,5:02 PM,9:40,Beard BLOCK (1 BLK),,MISS Little 2' Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020800160,189,4,0,3,5:02 PM,9:39,Beard REBOUND (Off:0 Def:3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,190,6,1,3,5:02 PM,9:38,,,Little P.FOUL (P1.T1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,192,2,5,3,5:03 PM,9:27,MISS Beard 3' Layup,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,193,4,0,3,5:03 PM,9:26,,,Little REBOUND (Off:3 Def:4),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,194,1,79,3,5:03 PM,9:06,,,Bird 16' Pullup Jump Shot (9 PTS) (Little 2 AST),27 - 48,21,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,195,9,2,3,5:03 PM,8:58,MYSTICS Timeout: Short (Full 1 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,197,8,0,3,5:04 PM,8:58,,,SUB: Wright FOR Swoopes,,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,198,5,4,3,5:04 PM,8:51,Blue Traveling Turnover (P1.T5),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,199,6,1,3,5:05 PM,8:36,Blue P.FOUL (P3.T1),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,200,5,1,3,5:05 PM,8:32,Currie STEAL (2 STL),,Cash Bad Pass Turnover (P3.T13),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,201,5,1,3,5:05 PM,8:27,Currie Bad Pass Turnover (P1.T6),,Bird STEAL (1 STL),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,202,2,1,3,5:05 PM,8:16,,,MISS Little 24' 3PT Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,203,4,0,3,5:05 PM,8:14,Blue REBOUND (Off:0 Def:1),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,204,2,1,3,5:05 PM,8:06,MISS McWilliams-Franklin 8' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,205,4,0,3,5:05 PM,8:05,,,Little REBOUND (Off:3 Def:5),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,206,6,3,3,5:05 PM,8:05,Sanford L.B.FOUL (P2.T2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,207,2,1,3,5:06 PM,7:45,,,MISS Wright 17' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,208,4,0,3,5:06 PM,7:43,,,Griffith REBOUND (Off:1 Def:1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,209,6,2,3,5:06 PM,7:42,Currie S.FOUL (P1.T3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,210,3,11,3,5:07 PM,7:42,,,MISS Wright Free Throw 1 of 2,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,211,4,1,3,5:07 PM,7:42,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,212,8,0,3,5:07 PM,7:42,SUB: Miller FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,213,8,0,3,5:07 PM,7:42,SUB: Smith FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,214,8,0,3,5:07 PM,7:42,SUB: Langhorne FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,215,3,12,3,5:07 PM,7:42,,,Wright Free Throw 2 of 2 (1 PTS),28 - 48,20,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,217,1,3,3,5:07 PM,7:22,McWilliams-Franklin 7' Hook Shot (20 PTS),,,28 - 50,22,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,218,5,2,3,5:08 PM,7:10,Smith STEAL (1 STL),,Bird Lost Ball Turnover (P3.T14),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,219,5,1,3,5:08 PM,7:08,Smith Bad Pass Turnover (P1.T7),,Griffith STEAL (1 STL),,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,220,6,2,3,5:08 PM,7:06,Beard S.FOUL (P2.T4),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,221,3,11,3,5:08 PM,7:06,,,MISS Cash Free Throw 1 of 2,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,222,4,1,3,5:08 PM,7:06,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,223,3,12,3,5:09 PM,7:06,,,Cash Free Throw 2 of 2 (3 PTS),29 - 50,21,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,225,2,1,3,5:09 PM,6:45,MISS McWilliams-Franklin 16' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,226,4,0,3,5:09 PM,6:43,,,Little REBOUND (Off:3 Def:6),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,227,1,5,3,5:09 PM,6:41,,,Bird 1' Layup (11 PTS) (Little 3 AST),31 - 50,19,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,228,6,2,3,5:09 PM,6:41,Smith S.FOUL (P1.PN),,,,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,229,3,10,3,5:10 PM,6:41,,,MISS Bird Free Throw 1 of 1,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,230,4,0,3,5:10 PM,6:40,,,Little REBOUND (Off:4 Def:6),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,231,1,5,3,5:10 PM,6:35,,,Little 2' Layup (8 PTS),33 - 50,17,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,233,2,1,3,5:10 PM,6:22,MISS Beard 15' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,234,4,0,3,5:10 PM,6:21,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,235,5,1,3,5:11 PM,6:16,McWilliams-Franklin STEAL (2 STL),,Bird Bad Pass Turnover (P4.T15),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,236,6,1,3,5:11 PM,6:13,,,Bird P.FOUL (P1.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,237,8,0,3,5:11 PM,6:13,SUB: Sanford FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,239,6,1,3,5:11 PM,6:02,,,Griffith P.FOUL (P3.T3),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,240,1,5,3,5:12 PM,5:51,Sanford 2' Layup (7 PTS),,,33 - 52,19,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,241,2,5,3,5:12 PM,5:40,,,MISS Wright 2' Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,242,4,0,3,5:12 PM,5:37,,,Cash REBOUND (Off:1 Def:1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,243,2,1,3,5:12 PM,5:19,,,MISS Griffith 3' Jump Shot,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,244,4,0,3,5:12 PM,5:17,,,Cash REBOUND (Off:2 Def:1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,245,2,5,3,5:12 PM,5:14,,,MISS Cash 1' Layup,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,246,4,0,3,5:13 PM,5:14,,,Little REBOUND (Off:5 Def:6),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,248,8,0,3,5:13 PM,5:14,,,SUB: Gearlds FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,249,10,0,3,5:13 PM,5:14,Jump Ball Miller vs. Little: Tip to,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,3,1611661328,,,,,,0
+1020800160,257,7,4,3,5:13 PM,5:14,Miller Violation:Jump Ball,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,252,10,0,3,5:14 PM,5:10,Jump Ball Miller vs. Gearlds: Tip to Smith,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0
+1020800160,253,5,2,3,5:14 PM,5:10,Miller STEAL (1 STL),,Gearlds Lost Ball Turnover (P1.T16),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,254,1,5,3,5:14 PM,5:02,Smith 1' Layup (5 PTS),,,33 - 54,21,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,256,9,4,3,5:14 PM,4:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,259,8,0,3,5:16 PM,4:49,,,SUB: Santos FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,260,8,0,3,5:17 PM,4:49,SUB: Currie FOR Smith,,,,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,261,2,1,3,5:17 PM,4:43,,,MISS Gearlds  3PT Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,262,4,0,3,5:17 PM,4:41,,,Little REBOUND (Off:6 Def:6),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,263,5,2,3,5:17 PM,4:38,Currie STEAL (3 STL),,Little Lost Ball Turnover (P2.T17),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,264,5,1,3,5:17 PM,4:27,Miller Bad Pass Turnover (P2.T8),,Gearlds STEAL (1 STL),,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,265,5,2,3,5:18 PM,4:19,Langhorne STEAL (2 STL),,Little Lost Ball Turnover (P3.T18),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,267,5,4,3,5:18 PM,4:04,Langhorne Traveling Turnover (P1.T9),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,268,8,0,3,5:18 PM,4:04,SUB: McWilliams-Franklin FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,269,6,2,3,5:18 PM,3:49,Currie S.FOUL (P2.PN),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,270,3,11,3,5:19 PM,3:49,,,Little Free Throw 1 of 2 (9 PTS),34 - 54,20,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,271,3,12,3,5:19 PM,3:49,,,Little Free Throw 2 of 2 (10 PTS),35 - 54,19,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,273,2,1,3,5:19 PM,3:33,MISS McWilliams-Franklin 8' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,274,4,0,3,5:19 PM,3:33,,,Santos REBOUND (Off:0 Def:2),,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,275,6,1,3,5:19 PM,3:33,Sanford P.FOUL (P3.PN),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,277,3,11,3,5:20 PM,3:33,,,Santos Free Throw 1 of 2 (1 PTS),36 - 54,18,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,278,8,0,3,5:20 PM,3:33,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,279,3,12,3,5:20 PM,3:33,,,Santos Free Throw 2 of 2 (2 PTS),37 - 54,17,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,281,6,4,3,5:20 PM,3:21,Beard OFF.Foul (P3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,282,5,5,3,5:20 PM,3:21,Beard Foul Turnover (P1.T10),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,283,2,1,3,5:21 PM,3:08,,,MISS Santos 3' Jump Shot,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,284,4,0,3,5:21 PM,3:07,Mosby REBOUND (Off:0 Def:2),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,285,1,1,3,5:21 PM,2:50,Beard  3PT Jump Shot (5 PTS),,,37 - 57,20,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,286,2,1,3,5:22 PM,2:24,,,MISS Gearlds  3PT Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,287,4,0,3,5:22 PM,2:22,Currie REBOUND (Off:1 Def:4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,288,2,1,3,5:22 PM,2:13,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,289,4,0,3,5:22 PM,2:12,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,290,8,0,3,5:22 PM,2:11,SUB: Blue FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,292,1,1,3,5:23 PM,2:06,,,Wright 8' Jump Shot (3 PTS),39 - 57,18,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,293,1,1,3,5:23 PM,1:53,Currie 16' Jump Shot (8 PTS) (Mosby 1 AST),,,39 - 59,20,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,294,2,1,3,5:23 PM,1:35,,,MISS Gearlds 9' Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,295,4,0,3,5:23 PM,1:35,Mosby REBOUND (Off:0 Def:3),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,296,8,0,3,5:23 PM,1:31,,,SUB: Ely-Gash FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,297,8,0,3,5:23 PM,1:31,SUB: Smith FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,298,10,0,3,5:24 PM,1:31,Jump Ball Mosby vs. Gearlds: Tip to Little,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0
+1020800160,299,5,2,3,5:24 PM,1:31,Mosby Lost Ball Turnover (P1.T11),,Gearlds STEAL (2 STL),,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,300,5,4,3,5:24 PM,1:23,,,Little Traveling Turnover (P4.T19),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800160,302,5,2,3,5:24 PM,1:08,McWilliams-Franklin Lost Ball Turnover (P3.T12),,Santos STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,303,1,5,3,5:25 PM,0:57,,,Santos 2' Layup (4 PTS),41 - 59,18,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,304,6,2,3,5:25 PM,0:57,Mosby S.FOUL (P1.PN),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,305,3,10,3,5:25 PM,0:57,,,Santos Free Throw 1 of 1 (5 PTS),42 - 59,17,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,307,6,2,3,5:25 PM,0:50,,,Ely-Gash S.FOUL (P2.T4),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,308,8,0,3,5:25 PM,0:50,SUB: Sanford FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,309,3,11,3,5:25 PM,0:50,Currie Free Throw 1 of 2 (9 PTS),,,42 - 60,18,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,310,3,12,3,5:26 PM,0:50,Currie Free Throw 2 of 2 (10 PTS),,,42 - 61,19,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,312,2,1,3,5:26 PM,0:31,,,MISS Ely-Gash 6' Jump Shot,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,313,4,0,3,5:26 PM,0:31,Mosby REBOUND (Off:0 Def:4),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,314,6,3,3,5:26 PM,0:31,,,Santos L.B.FOUL (P1.PN),,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,315,3,11,3,5:27 PM,0:31,Sanford Free Throw 1 of 2 (8 PTS),,,42 - 62,20,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,316,3,12,3,5:27 PM,0:31,MISS Sanford Free Throw 2 of 2,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,317,4,0,3,5:27 PM,0:30,,,Wright REBOUND (Off:0 Def:2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,319,2,1,3,5:27 PM,0:18,,,MISS Gearlds  3PT Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,320,4,0,3,5:27 PM,0:17,,,Ely-Gash REBOUND (Off:1 Def:0),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,321,6,2,3,5:27 PM,0:16,Sanford S.FOUL (P4.PN),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,322,3,11,3,5:27 PM,0:16,,,MISS Ely-Gash Free Throw 1 of 2,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,323,4,1,3,5:27 PM,0:16,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,324,8,0,3,5:28 PM,0:16,SUB: Langhorne FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,325,3,12,3,5:28 PM,0:16,,,MISS Ely-Gash Free Throw 2 of 2,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,326,4,0,3,5:28 PM,0:14,Langhorne REBOUND (Off:0 Def:3),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,328,1,47,3,5:28 PM,0:00,Smith 13' Turnaround Jump Shot (7 PTS),,,42 - 64,22,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,329,18,0,3,5:29 PM,0:00,,Instant Replay3rd Period (5:29 PM EST),,42 - 64,22,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1020800160,330,13,0,3,5:29 PM,0:00,,End of 3rd Period (5:29 PM EST),,42 - 64,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,332,12,0,4,5:31 PM,10:00,,Start of 4th Period (5:31 PM EST),,42 - 64,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,333,1,5,4,5:32 PM,9:47,Mosby  Layup (4 PTS) (Langhorne 2 AST),,,42 - 66,24,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,334,2,1,4,5:32 PM,9:28,,,MISS Robinson 13' Jump Shot,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,335,4,0,4,5:32 PM,9:27,,,Ely-Gash REBOUND (Off:2 Def:0),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,336,2,1,4,5:32 PM,9:25,,,MISS Ely-Gash 4' Jump Shot,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,337,4,0,4,5:32 PM,9:25,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,338,5,1,4,5:32 PM,9:15,Miller Bad Pass Turnover (P3.T13),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,339,5,41,4,5:33 PM,9:07,Miller STEAL (2 STL),,Gearlds Poss Lost Ball Turnover (P2.T20),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,340,6,2,4,5:33 PM,9:03,,,Wright S.FOUL (P2.T1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,341,3,11,4,5:33 PM,9:03,Smith Free Throw 1 of 2 (8 PTS),,,42 - 67,25,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,342,3,12,4,5:33 PM,9:03,Smith Free Throw 2 of 2 (9 PTS),,,42 - 68,26,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,344,6,2,4,5:34 PM,8:47,Langhorne S.FOUL (P1.T1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,345,3,11,4,5:34 PM,8:47,,,MISS Santos Free Throw 1 of 2,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,346,4,1,4,5:34 PM,8:47,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,347,8,0,4,5:34 PM,8:47,,,SUB: O'Neill FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,348,3,12,4,5:34 PM,8:47,,,Santos Free Throw 2 of 2 (6 PTS),43 - 68,25,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,349,2,1,4,5:35 PM,8:33,MISS Mosby 14' Jump Shot,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,350,4,0,4,5:35 PM,8:32,Mosby REBOUND (Off:1 Def:4),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,351,2,1,4,5:35 PM,8:12,MISS Currie 15' Jump Shot,,Ely-Gash BLOCK (1 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0
+1020800160,352,4,0,4,5:35 PM,8:12,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,353,8,0,4,5:35 PM,8:12,SUB: Blue FOR Smith,,,,,4,200702,Crystal Smith,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,354,8,0,4,5:35 PM,8:12,SUB: Beard FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,355,8,0,4,5:35 PM,8:12,SUB: Sanford FOR Miller,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,356,8,0,4,5:35 PM,8:12,SUB: McWilliams-Franklin FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,357,6,2,4,5:35 PM,8:10,,,Gearlds S.FOUL (P1.T2),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,358,3,11,4,5:36 PM,8:10,Currie Free Throw 1 of 2 (11 PTS),,,43 - 69,26,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,359,3,12,4,5:36 PM,8:10,Currie Free Throw 2 of 2 (12 PTS),,,43 - 70,27,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,361,2,1,4,5:36 PM,7:49,,,MISS Ely-Gash  3PT Jump Shot,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,362,4,0,4,5:36 PM,7:48,Sanford REBOUND (Off:0 Def:1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,363,1,77,4,5:36 PM,7:43,Beard 10' Driving Jump Shot (7 PTS) (Sanford 2 AST),,,43 - 72,29,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,364,6,2,4,5:37 PM,7:26,Blue S.FOUL (P4.T2),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,365,3,11,4,5:37 PM,7:26,,,MISS Santos Free Throw 1 of 2,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,366,4,1,4,5:37 PM,7:26,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,367,8,0,4,5:37 PM,7:26,SUB: Miller FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,368,3,12,4,5:37 PM,7:26,,,MISS Santos Free Throw 2 of 2,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,369,4,0,4,5:38 PM,7:26,Beard REBOUND (Off:0 Def:4),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,371,6,1,4,5:38 PM,7:17,,,Robinson P.FOUL (P2.T3),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,372,2,1,4,5:38 PM,7:12,MISS Miller 13' Jump Shot,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,373,4,0,4,5:38 PM,7:11,,,Gearlds REBOUND (Off:0 Def:1),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,374,2,5,4,5:38 PM,7:05,,,MISS O'Neill 3' Layup,,,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,375,4,0,4,5:39 PM,7:04,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,376,1,1,4,5:39 PM,6:59,,,Gearlds 10' Jump Shot (2 PTS),45 - 72,27,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,377,2,1,4,5:39 PM,6:44,MISS Sanford 7' Jump Shot,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,378,4,0,4,5:39 PM,6:44,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,379,6,3,4,5:39 PM,6:44,,,O'Neill L.B.FOUL (P1.T4),,,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,380,1,1,4,5:40 PM,6:30,Miller 17' Jump Shot (5 PTS) (McWilliams-Franklin 2 AST),,,45 - 74,29,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,381,1,1,4,5:40 PM,6:19,,,Gearlds 26' 3PT Jump Shot (5 PTS) (Ely-Gash 1 AST),48 - 74,26,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,382,2,1,4,5:40 PM,5:56,MISS Miller  3PT Jump Shot,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,383,4,0,4,5:40 PM,5:54,,,Santos REBOUND (Off:0 Def:3),,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,384,6,2,4,5:41 PM,5:39,Miller S.FOUL (P2.T3),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,385,9,1,4,5:41 PM,5:39,MYSTICS Timeout: Regular (Full 2 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,387,8,0,4,5:43 PM,5:39,SUB: Wecker FOR Miller,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,388,8,0,4,5:43 PM,5:39,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,389,3,11,4,5:43 PM,5:39,,,Santos Free Throw 1 of 2 (7 PTS),49 - 74,25,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,390,3,12,4,5:44 PM,5:39,,,MISS Santos Free Throw 2 of 2,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,391,4,0,4,5:44 PM,5:38,Wecker REBOUND (Off:0 Def:1),,,,,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,392,1,1,4,5:44 PM,5:17,Blue 24' 3PT Jump Shot (6 PTS) (McWilliams-Franklin 3 AST),,,49 - 77,28,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,393,2,1,4,5:44 PM,5:01,,,MISS Robinson 14' Jump Shot,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,394,4,0,4,5:44 PM,4:59,,,Ely-Gash REBOUND (Off:3 Def:0),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,395,2,1,4,5:45 PM,4:49,,,MISS Robinson 7' Jump Shot,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,396,4,0,4,5:45 PM,4:48,Mosby REBOUND (Off:1 Def:5),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,397,1,79,4,5:45 PM,4:41,Beard 18' Pullup Jump Shot (9 PTS),,,49 - 79,30,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,398,1,63,4,5:45 PM,4:19,,,Gearlds 14' Fadeaway Jumper (7 PTS),51 - 79,28,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,400,1,82,4,5:45 PM,4:03,Mosby 4' Driving Bank Shot (6 PTS),,,51 - 81,30,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,401,8,0,4,5:46 PM,3:59,SUB: Koehn FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,402,5,1,4,5:46 PM,3:49,McWilliams-Franklin STEAL (3 STL),,Gearlds Bad Pass Turnover (P3.T21),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,403,6,4,4,5:46 PM,3:40,Wecker OFF.Foul (P1),,,,,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,404,5,5,4,5:46 PM,3:40,Wecker Foul Turnover (P1.T14),,,,,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,406,1,1,4,5:47 PM,3:22,,,Gearlds 24' 3PT Jump Shot (10 PTS) (O'Neill 1 AST),54 - 81,27,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800160,407,2,1,4,5:47 PM,3:06,MISS Koehn  3PT Jump Shot,,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,408,4,0,4,5:47 PM,3:05,,,Robinson REBOUND (Off:0 Def:1),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,409,5,1,4,5:47 PM,2:55,McWilliams-Franklin STEAL (4 STL),,Ely-Gash Bad Pass Turnover (P2.T22),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,410,2,1,4,5:47 PM,2:49,MISS Beard 3' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,411,4,0,4,5:47 PM,2:48,Wecker REBOUND (Off:1 Def:1),,,,,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,412,2,5,4,5:47 PM,2:41,MISS Wecker 1' Layup,,,,,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,413,4,0,4,5:47 PM,2:40,McWilliams-Franklin REBOUND (Off:1 Def:0),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,414,1,72,4,5:47 PM,2:38,McWilliams-Franklin 1' Putback Layup (22 PTS),,,54 - 83,29,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,416,1,1,4,5:48 PM,2:24,,,Gearlds  3PT Jump Shot (13 PTS),57 - 83,26,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,417,9,1,4,5:48 PM,2:16,MYSTICS Timeout: Regular (Full 3 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800160,420,8,0,4,5:50 PM,2:16,SUB: Miller FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,421,8,0,4,5:50 PM,2:16,SUB: Blue FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,422,8,0,4,5:50 PM,2:16,SUB: Currie FOR Koehn,,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,423,8,0,4,5:50 PM,2:16,SUB: Langhorne FOR Wecker,,,,,4,101022,Kendra Wecker,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,424,1,5,4,5:51 PM,2:03,Mosby 2' Layup (8 PTS) (Miller 2 AST),,,57 - 85,28,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,425,6,1,4,5:51 PM,1:43,Currie P.FOUL (P3.T4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800160,426,5,2,4,5:51 PM,1:33,Mosby STEAL (1 STL),,Gearlds Lost Ball Turnover (P4.T23),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,427,6,1,4,5:51 PM,1:33,,,Gearlds P.FOUL (P2.PN),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800160,428,3,11,4,5:52 PM,1:33,Miller Free Throw 1 of 2 (6 PTS),,,57 - 86,29,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,429,3,12,4,5:52 PM,1:33,MISS Miller Free Throw 2 of 2,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,430,4,0,4,5:52 PM,1:32,,,Robinson REBOUND (Off:0 Def:2),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,431,10,0,4,5:53 PM,1:12,Jump Ball Langhorne vs. Santos: Tip to Currie,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0
+1020800160,432,5,2,4,5:53 PM,1:12,Langhorne STEAL (3 STL),,Santos Lost Ball Turnover (P1.T24),,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,433,5,39,4,5:53 PM,0:59,Miller Step Out of Bounds Turnover (P4.T15),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800160,436,2,1,4,5:54 PM,0:38,,,MISS Santos 15' Jump Shot,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,437,4,0,4,5:54 PM,0:37,Mosby REBOUND (Off:1 Def:6),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,438,1,1,4,5:54 PM,0:25,Blue  3PT Jump Shot (9 PTS) (Currie 2 AST),,,57 - 89,32,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800160,439,2,1,4,5:54 PM,0:14,,,MISS O'Neill 24' 3PT Jump Shot,,,5,201475,Kristen O'Neill,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800160,440,4,0,4,5:55 PM,0:14,Currie REBOUND (Off:1 Def:5),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800160,441,13,0,4,5:55 PM,0:00,,End of 4th Period (5:55 PM EST),,57 - 89,32,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

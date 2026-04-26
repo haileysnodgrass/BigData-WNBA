@@ -1,0 +1,374 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1029800055,0,12,0,1,1:06 AM,20:00,,Start of 1st Half (1:06 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,1,10,0,1,1:07 AM,20:00,Jump Ball Leslie vs. Congreaves: Tip to Toler,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,2,2,1,1,1:07 AM,19:50,MISS Leslie 6' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,3,4,0,1,1:07 AM,19:47,,,Stinson REBOUND (Off:0 Def:1),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,4,1,1,1,1:08 AM,19:42,,,Smith  3PT Jump Shot (3 PTS) (Stinson 1 AST),3 - 0,-3,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,5,6,1,1,1:08 AM,19:33,,,Congreaves P.FOUL (P1.T1),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,6,1,1,1,1:08 AM,19:31,Toler 7' Jump Shot (2 PTS) (Mabika 1 AST),,,3 - 2,-1,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,7,1,1,1,1:08 AM,19:08,,,Bullett 13' Jump Shot (2 PTS) (Smith 1 AST),5 - 2,-3,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,8,2,1,1,1:08 AM,18:58,MISS Toler 10' Jump Shot,,Bullett BLOCK (1 BLK),,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0
+1029800055,9,4,0,1,1:09 AM,18:55,Dixon REBOUND (Off:1 Def:0),,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,10,1,6,1,1:09 AM,18:41,Dixon  Driving Layup (2 PTS) (Toler 1 AST),,,5 - 4,-1,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,11,1,1,1,1:09 AM,18:25,,,Smith  3PT Jump Shot (6 PTS) (Congreaves 1 AST),8 - 4,-4,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,12,2,6,1,1:09 AM,18:06,MISS Mabika  Driving Layup,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,13,4,0,1,1:09 AM,18:04,McGee REBOUND (Off:1 Def:0),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,14,2,1,1,1:10 AM,17:53,MISS McGee 8' Jump Shot,,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,15,4,0,1,1:10 AM,17:50,,,Stinson REBOUND (Off:0 Def:2),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,16,2,1,1,1:10 AM,17:45,Leslie BLOCK (1 BLK),,MISS Stinson 9' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,17,4,0,1,1:10 AM,17:43,Dixon REBOUND (Off:1 Def:1),,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,18,1,1,1,1:10 AM,17:22,Leslie 7' Jump Shot (2 PTS) (Mabika 2 AST),,,8 - 6,-2,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,19,2,1,1,1:11 AM,16:53,,,MISS Bullett 5' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,20,4,0,1,1:11 AM,16:51,Leslie REBOUND (Off:0 Def:1),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,21,6,2,1,1:11 AM,16:47,,,Bullett S.FOUL (P1.T2),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,22,3,11,1,1:11 AM,16:47,Toler Free Throw 1 of 2 (3 PTS),,,8 - 7,-1,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,23,3,12,1,1:11 AM,16:47,MISS Toler Free Throw 2 of 2,,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,24,4,0,1,1:11 AM,16:46,,,Congreaves REBOUND (Off:0 Def:1),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,26,6,1,1,1:12 AM,16:31,Mabika P.FOUL (P1.T1),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,27,1,1,1,1:12 AM,16:26,,,Bullett 15' Jump Shot (4 PTS),10 - 7,-3,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,28,1,5,1,1:12 AM,16:13,Leslie  Layup (4 PTS) (Mabika 3 AST),,,10 - 9,-1,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,29,6,2,1,1:13 AM,16:06,Mabika S.FOUL (P2.T2),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,30,3,11,1,1:13 AM,16:06,,,Congreaves Free Throw 1 of 2 (1 PTS),11 - 9,-2,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,31,8,0,1,1:13 AM,16:06,SUB: Colleton FOR Mabika,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,32,3,12,1,1:13 AM,16:06,,,Congreaves Free Throw 2 of 2 (2 PTS),12 - 9,-3,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,33,2,6,1,1:13 AM,15:56,MISS Colleton  Driving Layup,,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,34,4,0,1,1:13 AM,15:53,McGee REBOUND (Off:2 Def:0),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,35,1,5,1,1:13 AM,15:50,McGee  Layup (2 PTS),,,12 - 11,-1,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,36,2,1,1,1:14 AM,15:30,,,MISS Smith  3PT Jump Shot,,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,38,4,0,1,1:14 AM,15:29,,,Reid REBOUND (Off:1 Def:0),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,39,9,4,1,1:14 AM,15:29,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,41,8,0,1,1:16 AM,15:29,,,SUB: Manning FOR Congreaves,,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,43,10,0,1,1:17 AM,15:29,Jump Ball McGee vs. Reid: Tip to Stinson,,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0
+1029800055,44,2,1,1,1:17 AM,15:24,,,MISS Stinson 13' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,45,4,0,1,1:17 AM,15:22,McGee REBOUND (Off:2 Def:1),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,46,5,4,1,1:18 AM,15:00,McGee Traveling Turnover (P1.T1),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,47,6,1,1,1:18 AM,14:46,Toler P.FOUL (P1.T3),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,48,5,1,1,1:19 AM,14:23,Dixon STEAL (1 STL),,Bullett Bad Pass Turnover (P1.T1),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,49,1,6,1,1:19 AM,14:19,Dixon  Driving Layup (4 PTS),,,12 - 13,1,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,50,2,1,1,1:19 AM,14:07,Dixon BLOCK (1 BLK),,MISS Stinson 13' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,51,4,0,1,1:19 AM,14:05,Colleton REBOUND (Off:0 Def:1),,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,52,2,1,1,1:19 AM,13:56,MISS Leslie 7' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,53,4,0,1,1:19 AM,13:53,,,Manning REBOUND (Off:0 Def:1),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,54,6,2,1,1:20 AM,13:43,McGee S.FOUL (P1.T4),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,55,3,11,1,1:20 AM,13:43,,,Reid Free Throw 1 of 2 (1 PTS),13 - 13,TIE,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,56,3,12,1,1:20 AM,13:43,,,Reid Free Throw 2 of 2 (2 PTS),14 - 13,-1,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,57,2,1,1,1:21 AM,13:20,MISS Leslie 8' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,58,4,0,1,1:21 AM,13:16,,,Smith REBOUND (Off:0 Def:1),,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,59,2,1,1,1:21 AM,13:08,,,MISS Reid 11' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,60,4,0,1,1:21 AM,13:06,,,Manning REBOUND (Off:1 Def:1),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,61,2,5,1,1:21 AM,13:06,,,MISS Manning  Layup,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,63,4,0,1,1:21 AM,13:03,,,Stinson REBOUND (Off:1 Def:2),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,62,1,5,1,1:21 AM,13:03,,,Stinson  Layup (2 PTS),16 - 13,-3,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,64,6,1,1,1:21 AM,12:44,,,Stinson P.FOUL (P1.T3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,65,8,0,1,1:21 AM,12:44,SUB: VanEmbricqs FOR McGee,,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,66,6,2,1,1:22 AM,12:40,,,Bullett S.FOUL (P2.T4),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,67,3,11,1,1:22 AM,12:40,MISS Leslie Free Throw 1 of 2,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,68,4,0,1,1:22 AM,12:40,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,69,8,0,1,1:22 AM,12:40,,,SUB: Suber FOR Smith,,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,70,3,12,1,1:22 AM,12:40,Leslie Free Throw 2 of 2 (5 PTS),,,16 - 14,-2,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,71,2,1,1,1:23 AM,12:23,,,MISS Suber  3PT Jump Shot,,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,72,4,0,1,1:23 AM,12:21,,,Suber REBOUND (Off:1 Def:0),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,73,2,1,1,1:23 AM,12:15,,,MISS Bullett 13' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,74,4,0,1,1:23 AM,12:13,Colleton REBOUND (Off:0 Def:2),,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,75,1,6,1,1:23 AM,12:07,Toler  Driving Layup (5 PTS),,,16 - 16,TIE,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,76,5,1,1,1:23 AM,11:38,Leslie STEAL (1 STL),,Suber Bad Pass Turnover (P1.T2),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,77,6,14,1,1:24 AM,11:34,,,Manning FLAGRANT.FOUL.TYPE1 (P1.PN),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1029800055,79,9,4,1,1:24 AM,11:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,81,8,0,1,1:26 AM,11:34,SUB: Wideman FOR Toler,,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,82,8,0,1,1:26 AM,11:34,,,SUB: Johns Kimbrough FOR Bullett,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,83,3,17,1,1:26 AM,11:34,MISS Leslie Free Throw Clear Path,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,84,4,0,1,1:26 AM,11:34,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,85,3,18,1,1:26 AM,11:34,Leslie Free Throw Flagrant 1 of 2 (6 PTS),,,16 - 17,1,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,86,6,4,1,1:27 AM,11:17,Leslie OFF.Foul (P1),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,87,5,5,1,1:27 AM,11:17,Leslie Foul Turnover (P1.T2),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,88,5,2,1,1:27 AM,11:08,Dixon STEAL (2 STL),,Stinson Lost Ball Turnover (P1.T3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,89,2,1,1,1:28 AM,10:56,MISS Colleton 15' Jump Shot,,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,90,4,0,1,1:28 AM,10:53,,,Stinson REBOUND (Off:1 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,91,2,1,1,1:28 AM,10:37,,,MISS Stinson  3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,92,4,0,1,1:28 AM,10:35,,,Suber REBOUND (Off:2 Def:0),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,93,5,1,1,1:28 AM,10:34,Colleton STEAL (1 STL),,Suber Bad Pass Turnover (P2.T4),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,94,1,2,1,1:28 AM,10:29,Dixon 17' Running Jump Shot (6 PTS) (Colleton 1 AST),,,16 - 19,3,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,95,2,6,1,1:29 AM,10:01,,,MISS Suber  Driving Layup,,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,96,4,0,1,1:29 AM,10:00,,,Stinson REBOUND (Off:2 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,97,5,4,1,1:29 AM,9:41,,,Suber Traveling Turnover (P3.T5),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,98,8,0,1,1:29 AM,9:41,SUB: Blue FOR Leslie,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100169,Octavia Blue,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,99,8,0,1,1:29 AM,9:41,,,SUB: Chase FOR Reid,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,100,6,2,1,1:30 AM,9:26,,,Johns Kimbrough S.FOUL (P1.PN),,,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,101,3,11,1,1:30 AM,9:26,VanEmbricqs Free Throw 1 of 2 (1 PTS),,,16 - 20,4,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,102,3,12,1,1:30 AM,9:26,MISS VanEmbricqs Free Throw 2 of 2,,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,103,4,0,1,1:30 AM,9:25,,,Stinson REBOUND (Off:2 Def:4),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,104,2,1,1,1:30 AM,9:08,,,MISS Manning 4' Jump Shot,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,105,4,0,1,1:30 AM,9:08,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,106,6,3,1,1:31 AM,9:08,,,Manning L.B.FOUL (P2.PN),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,107,2,1,1,1:31 AM,8:54,MISS Dixon 15' Jump Shot,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,108,4,0,1,1:31 AM,8:52,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,109,6,3,1,1:31 AM,8:52,VanEmbricqs L.B.FOUL (P1.PN),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,110,8,0,1,1:31 AM,8:52,,,SUB: Smith FOR Suber,,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,111,2,5,1,1:31 AM,8:39,,,MISS Johns Kimbrough  Layup,,,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,112,4,0,1,1:31 AM,8:37,Dixon REBOUND (Off:1 Def:2),,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,113,1,6,1,1:32 AM,8:31,Dixon  Driving Layup (8 PTS),,,16 - 22,6,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,114,6,2,1,1:32 AM,8:15,Blue S.FOUL (P1.PN),,,,,4,100169,Octavia Blue,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,115,3,11,1,1:32 AM,8:15,,,MISS Johns Kimbrough Free Throw 1 of 2,,,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,116,4,0,1,1:32 AM,8:15,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,117,3,12,1,1:32 AM,8:15,,,MISS Johns Kimbrough Free Throw 2 of 2,,,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,118,4,0,1,1:32 AM,8:14,,,Chase REBOUND (Off:1 Def:0),,,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,119,1,2,1,1:33 AM,8:07,,,Smith 8' Running Jump Shot (8 PTS) (Chase 1 AST),18 - 22,4,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,120,1,1,1,1:33 AM,7:51,Dixon 13' Jump Shot (10 PTS) (Wideman 1 AST),,,18 - 24,6,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,121,2,1,1,1:33 AM,7:35,,,MISS Stinson 14' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,122,4,0,1,1:33 AM,7:32,,,Manning REBOUND (Off:2 Def:1),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,123,1,1,1,1:33 AM,7:30,,,Manning 13' Jump Shot (2 PTS),20 - 24,4,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,124,1,6,1,1:33 AM,7:15,Wideman  Driving Layup (2 PTS),,,20 - 26,6,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,125,1,6,1,1:34 AM,7:07,,,Stinson  Driving Layup (4 PTS),22 - 26,4,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,126,2,6,1,1:34 AM,6:32,MISS Dixon  Driving Layup,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,127,4,0,1,1:34 AM,6:28,,,Manning REBOUND (Off:2 Def:2),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,128,2,5,1,1:34 AM,6:15,VanEmbricqs BLOCK (1 BLK),,MISS Manning  Layup,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,129,4,0,1,1:35 AM,6:12,VanEmbricqs REBOUND (Off:0 Def:1),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,130,2,5,1,1:35 AM,6:06,MISS Dixon  Layup,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,131,4,0,1,1:35 AM,6:04,,,Stinson REBOUND (Off:2 Def:5),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,132,2,2,1,1:35 AM,5:58,,,MISS Stinson 11' Running Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,133,4,0,1,1:35 AM,5:54,VanEmbricqs REBOUND (Off:0 Def:2),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,134,5,2,1,1:35 AM,5:27,Dixon Lost Ball Turnover (P1.T3),,Johns Kimbrough STEAL (1 STL),,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,135,2,1,1,1:35 AM,5:19,,,MISS Stinson  3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,136,4,0,1,1:35 AM,5:16,Blue REBOUND (Off:0 Def:1),,,,,4,100169,Octavia Blue,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,137,9,4,1,1:35 AM,5:14,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,139,8,0,1,1:38 AM,5:14,SUB: McGee FOR Dixon,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,140,8,0,1,1:38 AM,5:14,SUB: Toler FOR VanEmbricqs,,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,141,8,0,1,1:38 AM,5:14,SUB: Leslie FOR Blue,,,,,4,100169,Octavia Blue,1611661320.0,Los Angeles,Sparks,LAS,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,142,8,0,1,1:38 AM,5:12,,,SUB: Congreaves FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,143,8,0,1,1:38 AM,5:12,,,SUB: Bullett FOR Manning,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,144,8,0,1,1:38 AM,5:12,,,SUB: Paschal FOR Johns Kimbrough,,,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,5,100070,Tia Paschal,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,145,1,1,1,1:38 AM,4:46,Leslie 12' Jump Shot (8 PTS) (Colleton 2 AST),,,22 - 28,6,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,146,5,2,1,1:39 AM,4:27,Colleton STEAL (2 STL),,Paschal Lost Ball Turnover (P1.T6),,,5,100070,Tia Paschal,1611661314.0,Charlotte,Sting,CHA,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,147,1,6,1,1:39 AM,4:15,Leslie  Driving Layup (10 PTS) (Toler 2 AST),,,22 - 30,8,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,148,1,1,1,1:39 AM,3:53,,,Smith  3PT Jump Shot (11 PTS) (Chase 2 AST),25 - 30,5,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,149,1,2,1,1:39 AM,3:45,Toler 12' Running Jump Shot (7 PTS) (Leslie 1 AST),,,25 - 32,7,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,150,1,1,1,1:40 AM,3:29,,,Bullett 10' Jump Shot (6 PTS) (Smith 2 AST),27 - 32,5,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,151,6,2,1,1:40 AM,3:29,McGee S.FOUL (P2.PN),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,152,9,4,1,1:40 AM,3:29,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,154,8,0,1,1:43 AM,3:29,,,SUB: Reid FOR Paschal,,,5,100070,Tia Paschal,1611661314.0,Charlotte,Sting,CHA,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,155,3,10,1,1:43 AM,3:29,,,Bullett Free Throw 1 of 1 (7 PTS),28 - 32,4,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,156,1,1,1,1:43 AM,3:17,Colleton 11' Jump Shot (2 PTS),,,28 - 34,6,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,157,5,1,1,1:43 AM,2:56,McGee STEAL (1 STL),,Chase Bad Pass Turnover (P1.T7),,,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,158,2,1,1,1:43 AM,2:44,MISS Leslie  3PT Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,159,4,0,1,1:43 AM,2:41,,,Reid REBOUND (Off:1 Def:1),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,160,2,1,1,1:44 AM,2:18,,,MISS Reid 5' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,161,4,0,1,1:44 AM,2:16,Leslie REBOUND (Off:0 Def:2),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,162,6,1,1,1:44 AM,2:13,,,Chase P.FOUL (P1.PN),,,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,163,3,11,1,1:44 AM,2:13,Toler Free Throw 1 of 2 (8 PTS),,,28 - 35,7,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,164,3,12,1,1:44 AM,2:13,Toler Free Throw 2 of 2 (9 PTS),,,28 - 36,8,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,165,5,2,1,1:45 AM,2:05,Wideman STEAL (1 STL),,Smith Lost Ball Turnover (P1.T8),,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,166,1,6,1,1:45 AM,2:01,McGee  Driving Layup (4 PTS) (Wideman 2 AST),,,28 - 38,10,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,167,1,5,1,1:45 AM,1:39,,,Reid  Layup (4 PTS) (Bullett 1 AST),30 - 38,8,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,169,1,1,1,1:45 AM,1:15,Leslie 8' Jump Shot (12 PTS) (Wideman 3 AST),,,30 - 40,10,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,170,6,2,1,1:46 AM,1:04,McGee S.FOUL (P3.PN),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,171,3,11,1,1:46 AM,1:04,,,MISS Reid Free Throw 1 of 2,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,172,4,0,1,1:46 AM,1:04,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,173,8,0,1,1:46 AM,1:04,SUB: Dixon FOR Wideman,,,,,4,100007,Jamila Wideman,1611661320.0,Los Angeles,Sparks,LAS,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,174,8,0,1,1:46 AM,1:04,SUB: VanEmbricqs FOR McGee,,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,175,8,0,1,1:47 AM,1:04,,,SUB: Manning FOR Congreaves,,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,177,8,0,1,1:47 AM,1:04,,,SUB: Stinson FOR Chase,,,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,176,3,12,1,1:47 AM,1:04,,,Reid Free Throw 2 of 2 (5 PTS),31 - 40,9,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,178,6,1,1,1:47 AM,0:40,,,Bullett P.FOUL (P3.PN),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,179,3,11,1,1:48 AM,0:40,Leslie Free Throw 1 of 2 (13 PTS),,,31 - 41,10,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,180,8,0,1,1:48 AM,0:40,,,SUB: Johns Kimbrough FOR Bullett,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100180,Pollyanna Johns Kimbrough,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,181,3,12,1,1:48 AM,0:40,Leslie Free Throw 2 of 2 (14 PTS),,,31 - 42,11,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,182,1,5,1,1:49 AM,0:15,,,Manning  Layup (4 PTS) (Stinson 2 AST),33 - 42,9,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,183,6,2,1,1:49 AM,0:15,VanEmbricqs S.FOUL (P2.PN),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,184,3,10,1,1:49 AM,0:15,,,Manning Free Throw 1 of 1 (5 PTS),34 - 42,8,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,185,9,2,1,1:49 AM,0:15,SPARKS Timeout: Short (Full 0 Short 1),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,189,5,3,1,1:50 AM,0:13,Toler Out Of Bounds Turnover (P1.T4),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,190,9,2,1,1:50 AM,0:13,,,Sting Timeout: Short (Reg.0 Short 1),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,191,1,1,1,1:51 AM,0:00,,,Stinson  3PT Jump Shot (7 PTS),37 - 42,5,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,192,13,0,1,1:51 AM,0:00,,End of 1st Half (1:51 AM EST),,37 - 42,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,194,12,0,2,2:07 AM,20:00,,Start of 2nd Half (2:07 AM EST),,37 - 42,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,195,10,0,2,2:08 AM,20:00,Jump Ball Leslie vs. Congreaves: Tip to Mabika,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,196,1,6,2,2:08 AM,19:54,Mabika  Driving Layup (2 PTS),,,37 - 44,7,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,197,1,1,2,2:08 AM,19:36,,,Stinson 13' Jump Shot (9 PTS) (Smith 3 AST),39 - 44,5,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,198,2,1,2,2:08 AM,19:26,MISS Mabika  3PT Jump Shot,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,199,4,0,2,2:09 AM,19:23,,,Congreaves REBOUND (Off:0 Def:2),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,200,2,1,2,2:09 AM,19:18,,,MISS Stinson  3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,201,4,0,2,2:09 AM,19:15,Mabika REBOUND (Off:0 Def:1),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,202,1,1,2,2:09 AM,18:51,Leslie 8' Jump Shot (16 PTS) (Mabika 4 AST),,,39 - 46,7,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,203,1,1,2,2:10 AM,18:22,,,Bullett 7' Jump Shot (9 PTS) (Congreaves 2 AST),41 - 46,5,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,204,5,1,2,2:10 AM,18:18,Leslie Bad Pass Turnover (P2.T5),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,205,1,1,2,2:10 AM,18:02,,,Congreaves  3PT Jump Shot (5 PTS) (Smith 4 AST),44 - 46,2,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,206,1,1,2,2:10 AM,17:39,Toler 8' Jump Shot (11 PTS) (Leslie 2 AST),,,44 - 48,4,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,207,6,1,2,2:11 AM,17:30,Toler P.FOUL (P2.T1),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,208,2,1,2,2:11 AM,17:13,,,MISS Bullett 13' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,209,4,0,2,2:11 AM,17:12,Mabika REBOUND (Off:0 Def:2),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,210,2,1,2,2:11 AM,17:04,MISS Toler 15' Jump Shot,,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,211,4,0,2,2:11 AM,17:02,,,Bullett REBOUND (Off:0 Def:1),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,212,2,1,2,2:12 AM,16:49,,,MISS Stinson 12' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,213,4,0,2,2:12 AM,16:47,Leslie REBOUND (Off:0 Def:3),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,214,10,0,2,2:12 AM,16:47,Jump Ball Leslie vs. Reid: Tip to Smith,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0
+1029800055,215,5,2,2,2:12 AM,16:47,Leslie Lost Ball Turnover (P3.T6),,Reid STEAL (1 STL),,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,216,1,1,2,2:12 AM,16:39,,,Congreaves 24' 3PT Jump Shot (8 PTS) (Smith 5 AST),47 - 48,1,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,217,1,5,2,2:12 AM,16:18,Leslie  Layup (18 PTS) (Mabika 5 AST),,,47 - 50,3,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,218,5,4,2,2:13 AM,16:09,,,Congreaves Traveling Turnover (P1.T9),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,219,2,5,2,2:13 AM,16:04,MISS Mabika  Layup,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,220,4,0,2,2:13 AM,16:02,Mabika REBOUND (Off:1 Def:2),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,221,1,5,2,2:13 AM,16:00,Mabika  Layup (4 PTS),,,47 - 52,5,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,222,5,2,2,2:13 AM,15:53,Toler STEAL (1 STL),,Smith Lost Ball Turnover (P2.T10),,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,223,1,2,2,2:13 AM,15:48,Toler 6' Running Jump Shot (13 PTS),,,47 - 54,7,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,224,6,1,2,2:13 AM,15:42,Toler P.FOUL (P3.T2),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,225,9,4,2,2:13 AM,15:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,228,8,0,2,2:16 AM,15:42,,,SUB: Suber FOR Smith,,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,229,1,1,2,2:16 AM,15:28,,,Reid 12' Jump Shot (7 PTS) (Congreaves 3 AST),49 - 54,5,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,230,2,1,2,2:16 AM,15:13,MISS Mabika 17' Jump Shot,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,231,4,0,2,2:16 AM,15:10,,,Bullett REBOUND (Off:0 Def:2),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,232,2,5,2,2:17 AM,14:54,,,MISS Bullett 5' Layup,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,233,4,0,2,2:17 AM,14:50,McGee REBOUND (Off:2 Def:2),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,234,1,6,2,2:17 AM,14:47,Dixon  Driving Layup (12 PTS) (Toler 3 AST),,,49 - 56,7,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,235,6,2,2,2:17 AM,14:47,,,Suber S.FOUL (P1.T1),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,236,8,0,2,2:17 AM,14:47,SUB: Colleton FOR Mabika,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,237,3,10,2,2:17 AM,14:47,Dixon Free Throw 1 of 1 (13 PTS),,,49 - 57,8,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,238,2,1,2,2:18 AM,14:27,,,MISS Stinson 13' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,239,4,0,2,2:18 AM,14:25,,,Bullett REBOUND (Off:1 Def:2),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,240,2,1,2,2:18 AM,14:19,,,MISS Congreaves  3PT Jump Shot,,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,241,4,0,2,2:18 AM,14:17,SPARKS Rebound,,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,242,2,1,2,2:18 AM,14:00,MISS Toler 7' Jump Shot,,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,243,4,0,2,2:18 AM,13:57,,,Reid REBOUND (Off:1 Def:2),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,244,1,6,2,2:18 AM,13:53,,,Stinson  Driving Layup (11 PTS) (Reid 1 AST),51 - 57,6,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,245,2,1,2,2:19 AM,13:29,MISS Leslie 12' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,246,4,0,2,2:19 AM,13:27,,,Bullett REBOUND (Off:1 Def:3),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,247,5,1,2,2:19 AM,13:25,Leslie STEAL (2 STL),,Stinson Bad Pass Turnover (P2.T11),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,248,5,2,2,2:19 AM,13:21,Leslie Lost Ball Turnover (P4.T7),,Stinson STEAL (1 STL),,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,249,1,5,2,2:19 AM,13:16,,,Reid  Layup (9 PTS) (Stinson 3 AST),53 - 57,4,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,250,6,2,2,2:19 AM,13:16,Colleton S.FOUL (P1.T3),,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,251,3,10,2,2:19 AM,13:16,,,MISS Reid Free Throw 1 of 1,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,252,4,0,2,2:19 AM,13:15,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,253,1,1,2,2:20 AM,13:09,,,Stinson 12' Jump Shot (13 PTS),55 - 57,2,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,254,2,1,2,2:20 AM,12:41,MISS Toler 10' Jump Shot,,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,255,4,0,2,2:20 AM,12:39,McGee REBOUND (Off:3 Def:2),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,256,2,1,2,2:20 AM,12:36,MISS Colleton  3PT Jump Shot,,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,257,4,0,2,2:20 AM,12:34,,,Reid REBOUND (Off:1 Def:3),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,258,5,4,2,2:20 AM,12:31,,,Reid Traveling Turnover (P1.T12),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,259,5,1,2,2:21 AM,12:20,Toler Bad Pass Turnover (P2.T8),,Stinson STEAL (2 STL),,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,260,2,1,2,2:21 AM,12:14,,,MISS Bullett 10' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,261,4,0,2,2:21 AM,12:12,McGee REBOUND (Off:3 Def:3),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,262,5,2,2,2:21 AM,12:04,Dixon Lost Ball Turnover (P2.T9),,Suber STEAL (1 STL),,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,263,2,1,2,2:21 AM,11:55,,,MISS Bullett 6' Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,264,4,0,2,2:21 AM,11:52,Toler REBOUND (Off:0 Def:1),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,265,1,1,2,2:22 AM,11:36,Dixon 14' Jump Shot (15 PTS) (Leslie 3 AST),,,55 - 59,4,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,266,6,1,2,2:22 AM,11:19,McGee P.FOUL (P4.T4),,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,267,9,4,2,2:22 AM,11:19,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,269,8,0,2,2:24 AM,11:19,,,SUB: Chase FOR Bullett,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,270,8,0,2,2:24 AM,11:19,,,SUB: Manning FOR Reid,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,271,8,0,2,2:24 AM,11:19,SUB: Mabika FOR McGee,,,,,4,100020,Pam McGee,1611661320.0,Los Angeles,Sparks,LAS,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,272,8,0,2,2:24 AM,11:19,SUB: VanEmbricqs FOR Dixon,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,273,5,1,2,2:25 AM,11:10,,,Suber Bad Pass Turnover (P4.T13),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,274,2,1,2,2:25 AM,11:01,MISS Leslie 7' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,275,4,0,2,2:25 AM,10:59,,,Stinson REBOUND (Off:2 Def:6),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,276,5,2,2,2:25 AM,10:57,VanEmbricqs STEAL (1 STL),,Stinson Lost Ball Turnover (P3.T14),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,277,1,1,2,2:25 AM,10:54,VanEmbricqs 6' Jump Shot (3 PTS),,,55 - 61,6,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,278,2,1,2,2:25 AM,10:37,,,MISS Suber  3PT Jump Shot,,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,279,4,0,2,2:25 AM,10:34,,,Congreaves REBOUND (Off:1 Def:2),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,280,2,5,2,2:26 AM,10:33,Leslie BLOCK (2 BLK),,MISS Congreaves  Layup,,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,281,4,0,2,2:26 AM,10:30,Leslie REBOUND (Off:0 Def:4),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,282,5,4,2,2:26 AM,10:28,Toler Traveling Turnover (P3.T10),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,283,1,1,2,2:26 AM,10:11,,,Stinson 11' Jump Shot (15 PTS),57 - 61,4,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,284,2,1,2,2:26 AM,9:57,MISS Mabika 7' Jump Shot,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,285,4,0,2,2:26 AM,9:55,Colleton REBOUND (Off:1 Def:2),,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,286,2,5,2,2:26 AM,9:54,MISS Colleton  Layup,,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,287,4,0,2,2:26 AM,9:52,,,Stinson REBOUND (Off:2 Def:7),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,288,6,1,2,2:26 AM,9:49,Leslie P.FOUL (P2.PN),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,289,8,0,2,2:27 AM,9:49,,,SUB: Reid FOR Suber,,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,290,1,6,2,2:27 AM,9:43,,,Reid  Driving Layup (11 PTS),59 - 61,2,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,291,2,1,2,2:27 AM,9:27,MISS Leslie 19' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,292,4,0,2,2:27 AM,9:23,,,Stinson REBOUND (Off:2 Def:8),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,293,2,1,2,2:28 AM,9:10,Mabika BLOCK (1 BLK),,MISS Reid 7' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0
+1029800055,294,4,0,2,2:28 AM,9:08,Mabika REBOUND (Off:1 Def:3),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,295,1,2,2,2:28 AM,9:05,Mabika 9' Running Jump Shot (6 PTS),,,59 - 63,4,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,296,6,2,2,2:28 AM,9:05,,,Chase S.FOUL (P2.T2),,,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,297,3,10,2,2:28 AM,9:05,MISS Mabika Free Throw 1 of 1,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,298,4,0,2,2:28 AM,9:05,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,299,6,3,2,2:28 AM,9:05,VanEmbricqs L.B.FOUL (P3.PN),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,300,2,6,2,2:28 AM,9:00,,,MISS Stinson  Driving Layup,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,301,4,0,2,2:28 AM,8:58,VanEmbricqs REBOUND (Off:0 Def:3),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,302,2,1,2,2:29 AM,8:49,MISS VanEmbricqs 13' Jump Shot,,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,303,4,0,2,2:29 AM,8:47,Toler REBOUND (Off:1 Def:1),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,304,1,5,2,2:29 AM,8:45,Leslie  Layup (20 PTS) (Toler 4 AST),,,59 - 65,6,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,305,2,5,2,2:29 AM,8:24,,,MISS Reid  Layup,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,306,4,0,2,2:29 AM,8:23,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,307,1,3,2,2:29 AM,8:18,,,Manning 5' Hook Shot (7 PTS) (Stinson 4 AST),61 - 65,4,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,308,2,5,2,2:30 AM,7:59,MISS Leslie  Layup,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,309,4,0,2,2:30 AM,7:57,Colleton REBOUND (Off:2 Def:2),,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,310,6,2,2,2:30 AM,7:55,,,Congreaves S.FOUL (P2.T3),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,311,9,4,2,2:30 AM,7:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,313,8,0,2,2:32 AM,7:55,SUB: Dixon FOR Colleton,,,,,4,100009,Katrina Colleton,1611661320.0,Los Angeles,Sparks,LAS,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,314,8,0,2,2:32 AM,7:55,,,SUB: Smith FOR Chase,,,5,100178,Sonia Chase,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,315,3,11,2,2:32 AM,7:55,Mabika Free Throw 1 of 2 (7 PTS),,,61 - 66,5,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,316,3,12,2,2:33 AM,7:55,MISS Mabika Free Throw 2 of 2,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,317,4,0,2,2:33 AM,7:55,,,Manning REBOUND (Off:2 Def:3),,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,318,2,1,2,2:33 AM,7:34,,,MISS Smith  3PT Jump Shot,,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,319,4,0,2,2:33 AM,7:32,VanEmbricqs REBOUND (Off:0 Def:4),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,320,2,6,2,2:34 AM,7:11,MISS Dixon  Driving Layup,,,,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,321,4,0,2,2:34 AM,7:10,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,322,6,3,2,2:34 AM,7:10,Mabika L.B.FOUL (P3.PN),,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,323,8,0,2,2:34 AM,7:10,,,SUB: Bullett FOR Congreaves,,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,324,6,2,2,2:34 AM,6:48,Leslie S.FOUL (P3.PN),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,325,3,11,2,2:35 AM,6:48,,,MISS Reid Free Throw 1 of 2,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,326,4,0,2,2:35 AM,6:48,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,327,3,12,2,2:35 AM,6:48,,,Reid Free Throw 2 of 2 (12 PTS),62 - 66,4,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,328,2,1,2,2:35 AM,6:38,MISS Mabika 16' Jump Shot,,,,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,329,4,0,2,2:35 AM,6:36,Leslie REBOUND (Off:1 Def:4),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,330,6,2,2,2:35 AM,6:35,,,Smith S.FOUL (P1.T4),,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,331,3,11,2,2:35 AM,6:35,Leslie Free Throw 1 of 2 (21 PTS),,,62 - 67,5,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,332,3,12,2,2:36 AM,6:35,Leslie Free Throw 2 of 2 (22 PTS),,,62 - 68,6,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,333,1,1,2,2:36 AM,6:18,,,Stinson 16' Jump Shot (17 PTS),64 - 68,4,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,334,5,1,2,2:36 AM,6:09,Dixon Bad Pass Turnover (P3.T11),,Manning STEAL (1 STL),,,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,335,1,6,2,2:36 AM,6:03,,,Reid  Driving Layup (14 PTS) (Manning 1 AST),66 - 68,2,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,336,9,2,2,2:37 AM,5:57,SPARKS Timeout: Short (Full 0 Short 2),,,,,2,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,339,2,1,2,2:38 AM,5:40,MISS Leslie 8' Jump Shot,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,340,4,0,2,2:38 AM,5:38,,,Reid REBOUND (Off:1 Def:4),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,341,5,2,2,2:38 AM,5:24,,,Reid Lost Ball Turnover (P2.T15),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,342,1,1,2,2:39 AM,5:10,Toler 8' Jump Shot (15 PTS),,,66 - 70,4,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,343,5,2,2,2:39 AM,4:57,Dixon STEAL (3 STL),,Smith Lost Ball Turnover (P3.T16),,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,344,1,6,2,2:39 AM,4:52,Dixon  Driving Layup (17 PTS),,,66 - 72,6,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,345,6,2,2,2:39 AM,4:43,VanEmbricqs S.FOUL (P4.PN),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,346,8,0,2,2:39 AM,4:43,,,SUB: Suber FOR Smith,,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,347,3,11,2,2:39 AM,4:43,,,Bullett Free Throw 1 of 2 (10 PTS),67 - 72,5,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,348,3,12,2,2:39 AM,4:43,,,Bullett Free Throw 2 of 2 (11 PTS),68 - 72,4,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,349,5,4,2,2:40 AM,4:29,Toler Traveling Turnover (P4.T12),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,350,1,5,2,2:40 AM,4:10,,,Reid  Layup (16 PTS),70 - 72,2,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,351,5,1,2,2:41 AM,3:51,VanEmbricqs Bad Pass Turnover (P1.T13),,Bullett STEAL (1 STL),,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,352,1,6,2,2:41 AM,3:47,,,Stinson  Driving Layup (19 PTS),72 - 72,TIE,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,353,9,4,2,2:41 AM,3:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,357,6,2,2,2:44 AM,3:22,,,Bullett S.FOUL (P4.PN),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,358,3,11,2,2:44 AM,3:22,Mabika Free Throw 1 of 2 (8 PTS),,,72 - 73,1,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,359,3,12,2,2:44 AM,3:22,Mabika Free Throw 2 of 2 (9 PTS),,,72 - 74,2,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,360,1,1,2,2:45 AM,3:07,,,Stinson 14' Jump Shot (21 PTS) (Bullett 2 AST),74 - 74,TIE,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,361,2,1,2,2:45 AM,2:49,MISS Mabika 4' Jump Shot,,Manning BLOCK (1 BLK),,,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,0
+1029800055,362,4,0,2,2:45 AM,2:46,Leslie REBOUND (Off:2 Def:4),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,363,2,5,2,2:45 AM,2:45,MISS Leslie  Layup,,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,365,4,0,2,2:45 AM,2:43,Leslie REBOUND (Off:3 Def:4),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,364,1,5,2,2:45 AM,2:43,Leslie  Layup (24 PTS),,,74 - 76,2,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,366,2,1,2,2:45 AM,2:26,,,MISS Reid 7' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,367,4,0,2,2:45 AM,2:24,Toler REBOUND (Off:1 Def:2),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,368,1,1,2,2:46 AM,2:03,Mabika  3PT Jump Shot (12 PTS) (Dixon 1 AST),,,74 - 79,5,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,369,5,4,2,2:46 AM,1:39,,,Suber Traveling Turnover (P5.T17),,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,370,2,1,2,2:47 AM,1:12,MISS Toler 9' Jump Shot,,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,371,4,0,2,2:47 AM,1:10,,,Bullett REBOUND (Off:1 Def:4),,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,372,2,1,2,2:47 AM,1:00,,,MISS Stinson 9' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,373,4,0,2,2:47 AM,0:59,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,374,6,3,2,2:47 AM,0:59,Leslie L.B.FOUL (P4.PN),,,,,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,375,8,0,2,2:47 AM,0:59,,,SUB: Smith FOR Suber,,,5,100062,Tora Suber,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,376,3,11,2,2:47 AM,0:59,,,Reid Free Throw 1 of 2 (17 PTS),75 - 79,4,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,377,3,12,2,2:48 AM,0:59,,,MISS Reid Free Throw 2 of 2,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,378,4,0,2,2:48 AM,0:58,VanEmbricqs REBOUND (Off:0 Def:5),,,,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,379,1,1,2,2:48 AM,0:32,Mabika  3PT Jump Shot (15 PTS) (Toler 5 AST),,,75 - 82,7,4,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,380,9,1,2,2:48 AM,0:32,,,Sting Timeout: Regular (Reg.1 Short 1),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,383,8,0,2,2:51 AM,0:32,,,SUB: Congreaves FOR Manning,,,5,100063,Sharon Manning,1611661314.0,Charlotte,Sting,CHA,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,384,2,1,2,2:51 AM,0:27,,,MISS Bullett  3PT Jump Shot,,,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,385,4,0,2,2:51 AM,0:24,Toler REBOUND (Off:1 Def:3),,,,,4,100004,Penny Toler,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,386,1,6,2,2:51 AM,0:19,VanEmbricqs  Driving Layup (5 PTS) (Leslie 4 AST),,,75 - 84,9,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,4,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,387,9,2,2,2:51 AM,0:19,,,Sting Timeout: Short (Reg.1 Short 2),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800055,389,5,1,2,2:52 AM,0:15,Dixon STEAL (4 STL),,Congreaves Bad Pass Turnover (P2.T18),,,5,100065,Andrea Congreaves,1611661314.0,Charlotte,Sting,CHA,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1029800055,390,6,1,2,2:52 AM,0:13,,,Smith P.FOUL (P2.PN),,,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,391,6,1,2,2:53 AM,0:10,,,Reid P.FOUL (P1.PN),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,392,3,11,2,2:53 AM,0:10,Dixon Free Throw 1 of 2 (18 PTS),,,75 - 85,10,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,393,3,12,2,2:53 AM,0:10,Dixon Free Throw 2 of 2 (19 PTS),,,75 - 86,11,4,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1029800055,394,1,5,2,2:54 AM,0:03,,,Reid  Layup (19 PTS) (Smith 6 AST),77 - 86,9,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100181,Christy Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,395,5,1,2,2:54 AM,0:01,VanEmbricqs Bad Pass Turnover (P2.T14),,Bullett STEAL (2 STL),,,4,100176,Sandra VanEmbricqs,1611661320.0,Los Angeles,Sparks,LAS,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1029800055,396,1,5,2,2:54 AM,0:00,,,Bullett  Layup (13 PTS),79 - 86,7,5,100058,Vicky Bullett,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1029800055,397,13,0,2,2:54 AM,0:00,,End of 2nd Half (2:54 AM EST),,79 - 86,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

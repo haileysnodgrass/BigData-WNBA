@@ -1,0 +1,397 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021600132,0,12,0,1,3:12 PM,10:00,,Start of 1st Period (3:12 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,1,10,0,1,3:12 PM,10:00,Jump Ball Swords vs. Jones: Tip to Wright,,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1
+1021600132,2,2,42,1,3:12 PM,9:41,MISS Rodgers 2' Driving Layup,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,3,4,0,1,3:12 PM,9:40,,,A. Thomas REBOUND (Off:0 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,4,1,41,1,3:12 PM,9:34,,,A. Thomas 2' Running Layup (2 PTS),2 - 0,-2,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,5,1,98,1,3:12 PM,9:13,Rodgers 3' Cutting Layup Shot (2 PTS) (Charles 1 AST),,,2 - 2,TIE,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,6,2,1,1,3:13 PM,8:57,,,MISS J. Thomas 25' 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,7,4,0,1,3:13 PM,8:56,Charles REBOUND (Off:0 Def:1),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,8,5,2,1,3:13 PM,8:37,Cash Lost Ball Turnover (P1.T1),,J. Thomas STEAL (1 STL),,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,9,2,5,1,3:13 PM,8:33,,,MISS J. Thomas 2' Layup,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,10,4,0,1,3:13 PM,8:32,Swords REBOUND (Off:0 Def:1),,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,11,2,1,1,3:13 PM,8:25,MISS Charles 19' Jump Shot,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,12,4,0,1,3:13 PM,8:24,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,13,6,1,1,3:14 PM,8:14,Cash P.FOUL (P1.T1),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,14,2,1,1,3:14 PM,8:03,,,MISS Little 25' 3PT Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,15,4,0,1,3:14 PM,8:02,Wright REBOUND (Off:0 Def:1),,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,16,2,42,1,3:14 PM,7:51,MISS Cash 1' Driving Layup,,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,17,4,0,1,3:14 PM,7:50,Cash REBOUND (Off:1 Def:0),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,18,1,72,1,3:14 PM,7:48,Cash Putback Layup (2 PTS),,,2 - 4,2,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,19,1,1,1,3:15 PM,7:35,,,Bentley 3PT Jump Shot (3 PTS) (A. Thomas 1 AST),5 - 4,-1,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,20,5,1,1,3:15 PM,7:14,Cash Bad Pass Turnover (P2.T2),,Little STEAL (1 STL),,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,21,2,1,1,3:15 PM,7:07,,,MISS J. Thomas 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,22,4,0,1,3:15 PM,7:06,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,23,1,98,1,3:15 PM,7:04,,,Little 2' Cutting Layup Shot (2 PTS) (J. Thomas 1 AST),7 - 4,-3,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,24,6,4,1,3:16 PM,6:52,Charles OFF.Foul (P1),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,25,5,5,1,3:16 PM,6:52,Charles Foul Turnover (P1.T3),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1021600132,26,1,5,1,3:16 PM,6:36,,,A. Thomas 1' Layup (4 PTS) (J. Thomas 2 AST),9 - 4,-5,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,27,1,1,1,3:16 PM,6:20,Wright 19' Jump Shot (2 PTS) (Rodgers 1 AST),,,9 - 6,-3,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,28,6,4,1,3:16 PM,6:09,,,A. Thomas OFF.Foul (P1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,29,5,5,1,3:16 PM,6:09,,,A. Thomas Foul Turnover (P1.T1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021600132,30,2,1,1,3:17 PM,5:52,MISS Charles 18' Jump Shot,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,31,4,0,1,3:17 PM,5:51,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,32,2,1,1,3:17 PM,5:36,,,MISS Bentley 25' 3PT Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,33,4,0,1,3:17 PM,5:35,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,35,2,1,1,3:18 PM,5:16,MISS Wright 20' Jump Shot,,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,36,4,0,1,3:18 PM,5:15,,,Little REBOUND (Off:0 Def:1),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,37,2,1,1,3:18 PM,5:03,,,MISS Jones 13' Jump Shot,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,38,4,0,1,3:18 PM,5:02,Wright REBOUND (Off:0 Def:2),,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,39,1,1,1,3:18 PM,4:56,Rodgers 3PT Jump Shot (5 PTS) (Wright 1 AST),,,9 - 9,TIE,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,40,2,79,1,3:19 PM,4:43,,,MISS Bentley 15' Pullup Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,41,4,0,1,3:19 PM,4:42,Wright REBOUND (Off:0 Def:3),,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,42,6,2,1,3:19 PM,4:37,,,A. Thomas S.FOUL (P2.T1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,43,9,4,1,3:19 PM,4:37,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,45,8,0,1,3:21 PM,4:37,,,SUB: Ogwumike FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,46,8,0,1,3:21 PM,4:37,,,SUB: Stricklen FOR Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,47,8,0,1,3:21 PM,4:37,SUB: Stokes FOR Swords,,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,48,3,11,1,3:21 PM,4:37,Cash Free Throw 1 of 2 (3 PTS),,,9 - 10,1,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,50,3,12,1,3:22 PM,4:37,Cash Free Throw 2 of 2 (4 PTS),,,9 - 11,2,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,52,2,47,1,3:22 PM,4:18,,,MISS Ogwumike 3' Turnaround Jump Shot,,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,53,4,0,1,3:22 PM,4:17,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,54,8,0,1,3:22 PM,4:17,SUB: Zellous FOR Cash,,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,55,5,1,1,3:23 PM,4:04,Stokes Bad Pass Turnover (P1.T4),,Stricklen STEAL (1 STL),,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,56,1,5,1,3:23 PM,3:52,,,Ogwumike 2' Layup (2 PTS),11 - 11,TIE,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,57,2,1,1,3:23 PM,3:40,MISS Rodgers 14' Jump Shot,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,58,4,0,1,3:23 PM,3:39,Stokes REBOUND (Off:1 Def:0),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,59,6,26,1,3:23 PM,3:38,Stokes Offensive Charge Foul (P1),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,60,5,5,1,3:23 PM,3:38,Stokes Foul Turnover (P2.T5),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1021600132,63,9,1,1,3:24 PM,3:38,,,Sun Timeout: Regular (Reg.1 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,67,6,1,1,3:27 PM,3:29,Zellous P.FOUL (P1.T2),,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,68,1,78,1,3:27 PM,3:23,,,Bentley 8' Floating Jump Shot (5 PTS) (J. Thomas 3 AST),13 - 11,-2,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,69,1,98,1,3:28 PM,3:00,Stokes 2' Cutting Layup Shot (2 PTS) (Charles 2 AST),,,13 - 13,TIE,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,70,2,1,1,3:28 PM,2:43,,,MISS Bentley 19' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,71,4,0,1,3:28 PM,2:42,,,Ogwumike REBOUND (Off:1 Def:0),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,73,8,0,1,3:28 PM,2:40,SUB: Boyd-Jones FOR Wright,,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,74,5,11,1,3:29 PM,2:28,,,Sun Turnover: Shot Clock (T#2),,,3.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600132,75,2,1,1,3:29 PM,2:16,MISS Boyd-Jones 12' Jump Shot,,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,76,4,0,1,3:29 PM,2:15,Stokes REBOUND (Off:2 Def:0),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,77,1,46,1,3:29 PM,2:07,Charles 8' Running Jump Shot (2 PTS),,,13 - 15,2,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,78,2,1,1,3:29 PM,1:54,,,MISS Stricklen 25' 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,79,4,0,1,3:29 PM,1:53,Charles REBOUND (Off:0 Def:2),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,80,2,79,1,3:30 PM,1:40,MISS Charles 9' Pullup Jump Shot,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,81,4,0,1,3:30 PM,1:39,Stokes REBOUND (Off:3 Def:0),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,82,2,1,1,3:30 PM,1:33,MISS Charles 17' Jump Shot,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,83,4,0,1,3:30 PM,1:32,,,J. Thomas REBOUND (Off:0 Def:1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,84,6,2,1,3:30 PM,1:29,Zellous S.FOUL (P2.T3),,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,85,3,11,1,3:30 PM,1:29,,,Ogwumike Free Throw 1 of 2 (3 PTS),14 - 15,1,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,87,8,0,1,3:30 PM,1:29,,,SUB: Faris FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,88,3,12,1,3:30 PM,1:29,,,Ogwumike Free Throw 2 of 2 (4 PTS),15 - 15,TIE,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,90,1,1,1,3:31 PM,1:13,Zellous 16' Jump Shot (2 PTS) (Stokes 1 AST),,,15 - 17,2,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,91,2,79,1,3:31 PM,0:58,,,MISS Bentley 17' Pullup Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,92,4,0,1,3:31 PM,0:57,Boyd-Jones REBOUND (Off:0 Def:1),,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,93,1,5,1,3:31 PM,0:53,Boyd-Jones 2' Layup (2 PTS),,,15 - 19,4,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,94,2,1,1,3:31 PM,0:37,,,MISS Bentley 25' 3PT Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,95,4,0,1,3:31 PM,0:36,Rodgers REBOUND (Off:0 Def:1),,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,96,1,71,1,3:32 PM,0:23,Zellous 2' Finger Roll Layup (4 PTS) (Charles 3 AST),,,15 - 21,6,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,97,13,0,1,3:32 PM,0:00,,End of 1st Period (3:32 PM EST),,15 - 21,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,99,12,0,2,3:35 PM,10:00,,Start of 2nd Period (3:35 PM EST),,15 - 21,6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,100,6,2,2,3:35 PM,9:46,Zahui B S.FOUL (P1.T1),,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,101,3,11,2,3:35 PM,9:46,,,Tuck Free Throw 1 of 2 (1 PTS),16 - 21,5,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,103,3,12,2,3:35 PM,9:46,,,MISS Tuck Free Throw 2 of 2,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,105,4,0,2,3:35 PM,9:45,Stokes REBOUND (Off:3 Def:1),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,106,6,1,2,3:36 PM,9:34,,,Faris P.FOUL (P1.T1),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,107,6,2,2,3:36 PM,9:28,,,Tuck S.FOUL (P1.T2),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,108,3,11,2,3:36 PM,9:28,Zellous Free Throw 1 of 2 (5 PTS),,,16 - 22,6,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,110,3,12,2,3:36 PM,9:28,Zellous Free Throw 2 of 2 (6 PTS),,,16 - 23,7,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,112,2,1,2,3:37 PM,9:09,,,MISS Tuck 24' 3PT Jump Shot,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,113,4,0,2,3:37 PM,9:08,Boyd-Jones REBOUND (Off:0 Def:2),,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,115,6,2,2,3:37 PM,8:55,,,Ogwumike S.FOUL (P1.T3),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,119,3,11,2,3:38 PM,8:55,MISS Allen Free Throw 1 of 2,,,,,4.0,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,120,4,1,2,3:38 PM,8:55,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,126,8,0,2,3:39 PM,8:55,,,SUB: Williams FOR Faris,,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,125,8,0,2,3:39 PM,8:55,,,SUB: J. Thomas FOR Bentley,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,121,3,12,2,3:39 PM,8:55,Allen Free Throw 2 of 2 (1 PTS),,,16 - 24,8,4.0,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,123,5,2,2,3:39 PM,8:44,Boyd-Jones STEAL (1 STL),,Ogwumike Lost Ball Turnover (P1.T3),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,124,6,1,2,3:39 PM,8:43,,,J. Thomas P.FOUL (P1.T4),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,127,5,2,2,3:40 PM,8:20,Allen Lost Ball Turnover (P1.T6),,Stricklen STEAL (2 STL),,,4.0,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,128,6,2,2,3:40 PM,8:18,Boyd-Jones S.FOUL (P1.T2),,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,135,8,0,2,3:41 PM,8:18,SUB: Rodgers FOR Allen,,,,,4.0,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,131,3,11,2,3:41 PM,8:18,,,Ogwumike Free Throw 1 of 2 (5 PTS),17 - 24,7,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,133,3,12,2,3:41 PM,8:18,,,Ogwumike Free Throw 2 of 2 (6 PTS),18 - 24,6,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,136,2,1,2,3:42 PM,7:59,MISS Rodgers 3' Jump Shot,,Ogwumike BLOCK (1 BLK),,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,1
+1021600132,137,4,0,2,3:42 PM,7:56,,,Ogwumike REBOUND (Off:1 Def:1),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,138,2,5,2,3:42 PM,7:49,,,MISS Williams 3' Layup,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,139,4,0,2,3:42 PM,7:48,Zellous REBOUND (Off:0 Def:1),,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,140,5,1,2,3:42 PM,7:37,Boyd-Jones Bad Pass Turnover (P1.T7),,Stricklen STEAL (3 STL),,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,141,1,1,2,3:42 PM,7:27,,,Stricklen 24' 3PT Jump Shot (3 PTS),21 - 24,3,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,142,9,1,2,3:42 PM,7:27,LIBERTY Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,146,5,1,2,3:45 PM,7:06,Zellous Bad Pass Turnover (P1.T8),,Tuck STEAL (1 STL),,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,147,6,2,2,3:45 PM,7:02,Boyd-Jones S.FOUL (P2.T3),,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,148,3,11,2,3:45 PM,7:02,,,Tuck Free Throw 1 of 2 (2 PTS),22 - 24,2,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,151,8,0,2,3:46 PM,7:02,SUB: Wright FOR Boyd-Jones,,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,150,8,0,2,3:46 PM,7:02,SUB: Charles FOR Zahui B,,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,152,3,12,2,3:46 PM,7:02,,,Tuck Free Throw 2 of 2 (3 PTS),23 - 24,1,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,154,2,1,2,3:46 PM,6:47,MISS Rodgers 20' Jump Shot,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,155,4,0,2,3:46 PM,6:46,,,Ogwumike REBOUND (Off:1 Def:2),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,156,1,1,2,3:46 PM,6:36,,,Ogwumike 20' Jump Shot (8 PTS) (J. Thomas 4 AST),25 - 24,-1,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,157,5,1,2,3:47 PM,6:18,Wright Bad Pass Turnover (P1.T9),,Ogwumike STEAL (1 STL),,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,158,5,45,2,3:47 PM,6:14,,,Ogwumike Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,159,2,47,2,3:47 PM,5:58,MISS Zellous 7' Turnaround Jump Shot,,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,160,4,0,2,3:47 PM,5:57,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,161,6,2,2,3:48 PM,5:46,Zellous S.FOUL (P3.T4),,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,162,3,11,2,3:48 PM,5:46,,,J. Thomas Free Throw 1 of 2 (1 PTS),26 - 24,-2,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,164,8,0,2,3:48 PM,5:46,,,SUB: A. Thomas FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,165,8,0,2,3:48 PM,5:46,SUB: Cash FOR Zellous,,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,166,3,12,2,3:48 PM,5:46,,,J. Thomas Free Throw 2 of 2 (2 PTS),27 - 24,-3,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,168,5,2,2,3:49 PM,5:27,Charles Lost Ball Turnover (P2.T10),,Tuck STEAL (2 STL),,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,169,1,79,2,3:49 PM,5:20,,,J. Thomas 16' Pullup Jump Shot (4 PTS),29 - 24,-5,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,170,5,45,2,3:49 PM,5:07,Wright Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,171,6,2,2,3:49 PM,4:58,Cash S.FOUL (P2.PN),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,172,3,11,2,3:50 PM,4:58,,,Tuck Free Throw 1 of 2 (4 PTS),30 - 24,-6,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,174,3,12,2,3:50 PM,4:58,,,MISS Tuck Free Throw 2 of 2,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,196,4,0,2,3:50 PM,4:57,Charles REBOUND (Off:0 Def:3),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,177,1,1,2,3:50 PM,4:37,Wright 19' Jump Shot (4 PTS),,,30 - 26,-4,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,178,2,1,2,3:50 PM,4:21,,,MISS Williams 20' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,179,4,0,2,3:50 PM,4:20,,,Williams REBOUND (Off:1 Def:0),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,180,1,78,2,3:50 PM,4:17,,,Williams 5' Floating Jump Shot (2 PTS),32 - 26,-6,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,181,2,1,2,3:51 PM,4:06,MISS Stokes 17' Jump Shot,,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,182,4,0,2,3:51 PM,4:05,,,Ogwumike REBOUND (Off:1 Def:3),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,183,5,1,2,3:51 PM,3:49,Stokes STEAL (1 STL),,A. Thomas Bad Pass Turnover (P2.T5),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,184,1,1,2,3:51 PM,3:39,Cash 18' Jump Shot (6 PTS),,,32 - 28,-4,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,185,2,46,2,3:51 PM,3:24,,,MISS J. Thomas 5' Running Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,186,4,0,2,3:51 PM,3:23,Cash REBOUND (Off:1 Def:1),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,187,2,42,2,3:52 PM,3:13,MISS Charles 1' Driving Layup,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,188,4,0,2,3:52 PM,3:12,,,J. Thomas REBOUND (Off:0 Def:2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,189,2,44,2,3:52 PM,2:58,,,MISS Tuck 2' Reverse Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,190,4,0,2,3:52 PM,2:57,Charles REBOUND (Off:0 Def:4),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,191,2,42,2,3:52 PM,2:48,MISS Wright 3' Driving Layup,,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,192,4,0,2,3:52 PM,2:47,,,Tuck REBOUND (Off:0 Def:1),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,194,9,4,2,3:52 PM,2:33,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,197,8,0,2,3:54 PM,2:33,,,SUB: Bentley FOR Tuck,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,198,8,0,2,3:54 PM,2:33,,,SUB: Little FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,199,8,0,2,3:54 PM,2:33,SUB: Swords FOR Stokes,,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,200,5,11,2,3:55 PM,2:24,,,Sun Turnover: Shot Clock (T#6),,,3.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600132,201,5,1,2,3:55 PM,2:15,Wright Bad Pass Turnover (P3.T12),,Little STEAL (2 STL),,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,202,6,2,2,3:56 PM,2:13,Swords S.FOUL (P1.PN),,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,203,3,11,2,3:56 PM,2:13,,,Little Free Throw 1 of 2 (3 PTS),33 - 28,-5,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,205,3,12,2,3:56 PM,2:13,,,MISS Little Free Throw 2 of 2,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,207,4,0,2,3:56 PM,2:12,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,208,6,1,2,3:56 PM,2:12,Wright P.FOUL (P1.PN),,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,209,3,11,2,3:56 PM,2:12,,,A. Thomas Free Throw 1 of 2 (5 PTS),34 - 28,-6,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,211,8,0,2,3:57 PM,2:12,SUB: Boyd-Jones FOR Wright,,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,212,3,12,2,3:57 PM,2:12,,,A. Thomas Free Throw 2 of 2 (6 PTS),35 - 28,-7,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,214,6,1,2,3:57 PM,2:03,,,Ogwumike P.FOUL (P2.PN),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,215,3,11,2,3:57 PM,2:03,Charles Free Throw 1 of 2 (3 PTS),,,35 - 29,-6,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,217,3,12,2,3:57 PM,2:03,Charles Free Throw 2 of 2 (4 PTS),,,35 - 30,-5,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,219,2,5,2,3:58 PM,1:49,,,MISS A. Thomas 2' Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,220,4,0,2,3:58 PM,1:47,Charles REBOUND (Off:0 Def:5),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,221,5,2,2,3:58 PM,1:34,Rodgers Lost Ball Turnover (P1.T13),,J. Thomas STEAL (2 STL),,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,222,5,1,2,3:58 PM,1:30,Boyd-Jones STEAL (2 STL),,J. Thomas Bad Pass Turnover (P1.T7),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,223,2,1,2,3:58 PM,1:22,MISS Rodgers 3PT Jump Shot,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,224,4,0,2,3:58 PM,1:21,Charles REBOUND (Off:1 Def:5),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,225,1,1,2,3:58 PM,1:19,Charles 7' Jump Shot (6 PTS),,,35 - 32,-3,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,226,2,1,2,3:59 PM,0:59,,,MISS J. Thomas 17' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,227,4,0,2,3:59 PM,0:58,Cash REBOUND (Off:1 Def:2),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,229,6,1,2,3:59 PM,0:39,,,Little P.FOUL (P1.PN),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,230,3,11,2,3:59 PM,0:39,Charles Free Throw 1 of 2 (7 PTS),,,35 - 33,-2,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,233,3,12,2,4:00 PM,0:39,Charles Free Throw 2 of 2 (8 PTS),,,35 - 34,-1,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,238,1,5,2,4:00 PM,0:26,,,Ogwumike 3' Layup (10 PTS) (Little 1 AST),37 - 34,-3,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,240,1,1,2,4:00 PM,0:05,Charles 19' Jump Shot (10 PTS) (Boyd-Jones 1 AST),,,37 - 36,-1,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,241,1,1,2,4:01 PM,0:00,,,J. Thomas 16' Jump Shot (6 PTS),39 - 36,-3,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,242,18,0,2,4:01 PM,0:00,,Support Ruling,,,,,241,Darrin Hancock,,,,,0,0,,,,,,1,0,,,,,,0
+1021600132,243,13,0,2,4:01 PM,0:00,,End of 2nd Period (4:01 PM EST),,39 - 36,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,246,12,0,3,4:17 PM,10:00,,Start of 3rd Period (4:17 PM EST),,39 - 36,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,247,2,47,3,4:17 PM,9:40,,,MISS Jones 7' Turnaround Jump Shot,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,248,4,0,3,4:17 PM,9:39,,,A. Thomas REBOUND (Off:1 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,249,2,5,3,4:17 PM,9:37,Swords BLOCK (1 BLK),,MISS A. Thomas 3' Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,1
+1021600132,250,4,0,3,4:17 PM,9:36,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,251,2,5,3,4:17 PM,9:32,,,MISS A. Thomas Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,252,4,0,3,4:17 PM,9:31,,,A. Thomas REBOUND (Off:2 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,253,2,5,3,4:17 PM,9:30,,,MISS A. Thomas Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,254,4,0,3,4:17 PM,9:28,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,255,1,1,3,4:18 PM,9:20,,,Jones 19' Jump Shot (2 PTS) (Bentley 1 AST),41 - 36,-5,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,256,6,1,3,4:18 PM,9:10,,,A. Thomas P.FOUL (P3.T1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,257,1,98,3,4:18 PM,8:56,Swords 1' Cutting Layup Shot (2 PTS) (Rodgers 2 AST),,,41 - 38,-3,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,258,1,79,3,4:19 PM,8:34,,,J. Thomas 16' Pullup Jump Shot (8 PTS),43 - 38,-5,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,259,6,1,3,4:19 PM,8:25,,,Little P.FOUL (P2.T2),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,260,1,1,3,4:19 PM,8:17,Cash 17' Jump Shot (8 PTS) (Wright 2 AST),,,43 - 40,-3,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,261,2,1,3,4:20 PM,8:06,,,MISS Bentley 17' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,262,4,0,3,4:20 PM,8:05,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,263,6,3,3,4:20 PM,8:05,Swords L.B.FOUL (P2.T1),,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,264,2,5,3,4:20 PM,7:53,,,MISS A. Thomas 3' Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,265,4,0,3,4:20 PM,7:52,Cash REBOUND (Off:1 Def:3),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,266,5,2,3,4:20 PM,7:48,Cash Lost Ball Turnover (P3.T14),,J. Thomas STEAL (3 STL),,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,267,6,2,3,4:20 PM,7:48,Swords S.FOUL (P3.T2),,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,268,3,11,3,4:21 PM,7:48,,,A. Thomas Free Throw 1 of 2 (7 PTS),44 - 40,-4,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,270,3,12,3,4:21 PM,7:48,,,A. Thomas Free Throw 2 of 2 (8 PTS),45 - 40,-5,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,272,2,1,3,4:21 PM,7:31,MISS Charles 11' Jump Shot,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,273,4,0,3,4:21 PM,7:30,,,A. Thomas REBOUND (Off:2 Def:2),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,275,1,78,3,4:21 PM,7:24,,,J. Thomas 6' Floating Jump Shot (10 PTS) (A. Thomas 2 AST),47 - 40,-7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,276,6,1,3,4:22 PM,7:12,,,J. Thomas P.FOUL (P2.T3),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,279,2,1,3,4:22 PM,7:05,MISS Swords 19' Jump Shot,,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,280,4,0,3,4:22 PM,7:04,,,J. Thomas REBOUND (Off:0 Def:3),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,281,2,1,3,4:22 PM,6:51,Rodgers BLOCK (1 BLK),,MISS Bentley 12' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,1
+1021600132,282,4,0,3,4:22 PM,6:49,,,Little REBOUND (Off:1 Def:1),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,283,2,5,3,4:22 PM,6:46,,,MISS Little 3' Layup,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,284,4,0,3,4:22 PM,6:45,Charles REBOUND (Off:1 Def:6),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,285,2,1,3,4:22 PM,6:42,MISS Cash 19' Jump Shot,,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,286,4,0,3,4:22 PM,6:41,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,287,1,5,3,4:23 PM,6:39,Wright 1' Layup (6 PTS) (Cash 1 AST),,,47 - 42,-5,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,288,2,1,3,4:23 PM,6:18,,,MISS J. Thomas 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,289,4,0,3,4:23 PM,6:17,Swords REBOUND (Off:0 Def:2),,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,290,5,45,3,4:23 PM,6:07,Charles Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,291,8,0,3,4:23 PM,6:07,SUB: Boyd-Jones FOR Wright,,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,292,8,0,3,4:23 PM,6:07,,,SUB: Ogwumike FOR Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,293,1,79,3,4:24 PM,5:57,,,J. Thomas 13' Pullup Jump Shot (12 PTS),49 - 42,-7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,294,1,42,3,4:24 PM,5:41,Cash 2' Driving Layup (10 PTS) (Swords 1 AST),,,49 - 44,-5,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,295,1,42,3,4:24 PM,5:32,,,J. Thomas 2' Driving Layup (14 PTS),51 - 44,-7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,296,1,42,3,4:24 PM,5:15,Rodgers 3' Driving Layup (7 PTS),,,51 - 46,-5,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,297,2,1,3,4:25 PM,5:04,,,MISS J. Thomas 19' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,298,4,0,3,4:25 PM,5:03,Charles REBOUND (Off:1 Def:7),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,299,2,1,3,4:25 PM,4:50,MISS Cash 13' Jump Shot,,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,300,4,0,3,4:25 PM,4:48,,,A. Thomas REBOUND (Off:2 Def:3),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,301,6,1,3,4:25 PM,4:48,Cash P.FOUL (P3.T3),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,302,9,4,3,4:25 PM,4:48,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,305,8,0,3,4:27 PM,4:48,,,SUB: Jones FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,306,8,0,3,4:27 PM,4:48,,,SUB: Stricklen FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,307,8,0,3,4:27 PM,4:48,,,SUB: J. Thomas FOR Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,308,8,0,3,4:28 PM,4:48,SUB: Stokes FOR Swords,,,,,4.0,202670,Carolyn Swords,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,309,2,5,3,4:28 PM,4:31,Cash BLOCK (1 BLK),,MISS Ogwumike 2' Layup,,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1
+1021600132,310,4,0,3,4:28 PM,4:30,,,Ogwumike REBOUND (Off:2 Def:3),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,311,2,1,3,4:28 PM,4:24,,,MISS Stricklen 24' 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,312,4,0,3,4:28 PM,4:23,,,Little REBOUND (Off:2 Def:1),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,313,5,2,3,4:28 PM,4:18,Rodgers STEAL (1 STL),,Little Lost Ball Turnover (P1.T8),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,314,1,1,3,4:28 PM,4:05,Rodgers 24' 3PT Jump Shot (10 PTS) (Cash 2 AST),,,51 - 49,-2,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,316,2,42,3,4:29 PM,3:45,,,MISS Bentley 2' Driving Layup,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,317,4,0,3,4:29 PM,3:44,,,Ogwumike REBOUND (Off:3 Def:3),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,318,5,2,3,4:29 PM,3:41,Cash STEAL (1 STL),,Ogwumike Lost Ball Turnover (P3.T9),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,319,6,2,3,4:29 PM,3:33,,,Bentley S.FOUL (P1.T4),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,320,3,11,3,4:29 PM,3:33,Stokes Free Throw 1 of 2 (3 PTS),,,51 - 50,-1,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,322,3,12,3,4:29 PM,3:33,Stokes Free Throw 2 of 2 (4 PTS),,,51 - 51,TIE,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,324,5,2,3,4:30 PM,3:17,Rodgers STEAL (2 STL),,Ogwumike Lost Ball Turnover (P4.T10),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,325,1,3,3,4:30 PM,3:01,Charles 6' Hook Shot (12 PTS) (Rodgers 3 AST),,,51 - 53,2,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,326,9,1,3,4:30 PM,2:55,,,Sun Timeout: Regular (Reg.2 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,330,6,2,3,4:33 PM,2:44,Rodgers S.FOUL (P1.T4),,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,331,3,11,3,4:33 PM,2:44,,,Bentley Free Throw 1 of 2 (6 PTS),52 - 53,1,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,333,3,12,3,4:33 PM,2:44,,,Bentley Free Throw 2 of 2 (7 PTS),53 - 53,TIE,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,335,2,1,3,4:33 PM,2:29,MISS Rodgers 24' 3PT Jump Shot,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,336,4,0,3,4:33 PM,2:28,,,Stricklen REBOUND (Off:0 Def:1),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,337,2,1,3,4:34 PM,2:19,,,MISS Little 24' 3PT Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,338,4,0,3,4:34 PM,2:18,Boyd-Jones REBOUND (Off:0 Def:3),,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,339,1,78,3,4:34 PM,2:07,Rodgers 7' Floating Jump Shot (12 PTS),,,53 - 55,2,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,340,5,2,3,4:34 PM,1:42,Cash STEAL (2 STL),,Little Lost Ball Turnover (P2.T11),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,341,2,3,3,4:35 PM,1:21,MISS Charles 6' Hook Shot,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,342,4,0,3,4:35 PM,1:20,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,343,5,11,3,4:35 PM,1:19,LIBERTY Turnover: Shot Clock (T#16),,,,,2.0,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600132,345,8,0,3,4:35 PM,1:19,SUB: Zellous FOR Charles,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,344,8,0,3,4:35 PM,1:19,SUB: Zahui B FOR Cash,,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,4,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,346,8,0,3,4:35 PM,1:19,,,SUB: Williams FOR Bentley,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,347,2,1,3,4:35 PM,1:04,,,MISS Stricklen 15' Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,348,4,0,3,4:35 PM,1:03,Stokes REBOUND (Off:3 Def:2),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,349,2,79,3,4:35 PM,0:56,MISS Boyd-Jones 12' Pullup Jump Shot,,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,350,4,0,3,4:35 PM,0:55,,,Stricklen REBOUND (Off:0 Def:2),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,351,2,1,3,4:36 PM,0:45,,,MISS Little 3PT Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,352,4,0,3,4:36 PM,0:44,Zellous REBOUND (Off:0 Def:2),,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,353,2,42,3,4:36 PM,0:32,MISS Rodgers 3' Driving Layup,,Little BLOCK (1 BLK),,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,1
+1021600132,354,4,0,3,4:36 PM,0:31,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,355,8,0,3,4:36 PM,0:31,,,SUB: Tuck FOR Little,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,356,2,80,3,4:36 PM,0:26,MISS Rodgers 16' Step Back Jump Shot,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,357,4,0,3,4:36 PM,0:25,,,Ogwumike REBOUND (Off:3 Def:4),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,358,5,2,3,4:37 PM,0:06,Boyd-Jones STEAL (3 STL),,J. Thomas Lost Ball Turnover (P2.T12),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,359,2,5,3,4:37 PM,0:01,MISS Rodgers 2' Layup,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,360,4,0,3,4:37 PM,0:00,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,361,13,0,3,4:37 PM,0:00,,End of 3rd Period (4:37 PM EST),,53 - 55,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,363,12,0,4,4:40 PM,10:00,,Start of 4th Period (4:40 PM EST),,53 - 55,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,364,6,2,4,4:40 PM,9:44,,,Ogwumike S.FOUL (P3.T1),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,366,9,2,4,4:41 PM,9:44,LIBERTY Timeout: Short (Full 1 Short 1),,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,367,3,11,4,4:41 PM,9:44,MISS Zahui B Free Throw 1 of 2,,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,368,4,1,4,4:41 PM,9:44,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,369,3,12,4,4:41 PM,9:44,Zahui B Free Throw 2 of 2 (1 PTS),,,53 - 56,3,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,371,2,42,4,4:42 PM,9:25,,,MISS Tuck 2' Driving Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,372,4,0,4,4:42 PM,9:24,,,Ogwumike REBOUND (Off:4 Def:4),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,373,2,1,4,4:42 PM,9:22,Zahui B BLOCK (1 BLK),,MISS Ogwumike 3' Jump Shot,,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1
+1021600132,374,4,0,4,4:42 PM,9:20,Zahui B REBOUND (Off:0 Def:1),,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,375,1,46,4,4:42 PM,9:08,Zahui B 5' Running Jump Shot (3 PTS) (Zellous 1 AST),,,53 - 58,5,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,376,2,1,4,4:42 PM,8:53,,,MISS Stricklen 24' 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,377,4,0,4,4:42 PM,8:52,Zahui B REBOUND (Off:0 Def:2),,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,378,1,42,4,4:43 PM,8:45,Boyd-Jones 2' Driving Layup (4 PTS),,,53 - 60,7,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,379,6,2,4,4:43 PM,8:45,,,J. Thomas S.FOUL (P3.T2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,380,3,10,4,4:43 PM,8:45,Boyd-Jones Free Throw 1 of 1 (5 PTS),,,53 - 61,8,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,382,2,1,4,4:43 PM,8:29,,,MISS Tuck 9' Jump Shot,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,383,4,0,4,4:43 PM,8:28,Zahui B REBOUND (Off:0 Def:3),,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,385,9,1,4,4:44 PM,8:20,,,Sun Timeout: Regular (Reg.3 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,387,8,0,4,4:46 PM,8:20,,,SUB: Jones FOR Tuck,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,389,2,1,4,4:46 PM,8:14,MISS Zellous 19' Jump Shot,,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,390,4,0,4,4:46 PM,8:13,,,J. Thomas REBOUND (Off:0 Def:4),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,391,2,1,4,4:46 PM,7:54,,,MISS Williams 15' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,392,4,0,4,4:46 PM,7:53,Zahui B REBOUND (Off:0 Def:4),,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,393,2,78,4,4:47 PM,7:44,MISS Boyd-Jones 7' Floating Jump Shot,,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,394,4,0,4,4:47 PM,7:43,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,395,6,2,4,4:47 PM,7:26,Boyd-Jones S.FOUL (P3.T1),,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,396,3,11,4,4:47 PM,7:26,,,Ogwumike Free Throw 1 of 2 (11 PTS),54 - 61,7,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,399,8,0,4,4:48 PM,7:26,SUB: Rodgers FOR Allen,,,,,4.0,204296,Rebecca Allen,1611661313.0,New York,Liberty,NYL,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,400,3,12,4,4:48 PM,7:26,,,Ogwumike Free Throw 2 of 2 (12 PTS),55 - 61,6,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,402,2,46,4,4:48 PM,7:07,MISS Rodgers 7' Running Jump Shot,,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,403,4,0,4,4:48 PM,7:06,,,Stricklen REBOUND (Off:0 Def:3),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,404,2,42,4,4:48 PM,7:00,,,MISS J. Thomas 2' Driving Layup,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,405,4,0,4,4:48 PM,6:59,,,Ogwumike REBOUND (Off:5 Def:4),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,406,1,72,4,4:48 PM,6:57,,,Ogwumike 2' Putback Layup (14 PTS),57 - 61,4,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,407,6,2,4,4:49 PM,6:45,,,Ogwumike S.FOUL (P4.T3),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,408,3,11,4,4:49 PM,6:45,Zellous Free Throw 1 of 2 (7 PTS),,,57 - 62,5,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,410,3,12,4,4:49 PM,6:45,Zellous Free Throw 2 of 2 (8 PTS),,,57 - 63,6,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,412,6,2,4,4:49 PM,6:32,Stokes S.FOUL (P2.T2),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,413,3,11,4,4:50 PM,6:32,,,Jones Free Throw 1 of 2 (3 PTS),58 - 63,5,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,415,3,12,4,4:50 PM,6:32,,,Jones Free Throw 2 of 2 (4 PTS),59 - 63,4,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,417,2,1,4,4:50 PM,6:17,MISS Zellous 11' Jump Shot,,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,418,4,0,4,4:50 PM,6:16,,,Ogwumike REBOUND (Off:5 Def:5),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,419,1,1,4,4:51 PM,6:01,,,Stricklen 24' 3PT Jump Shot (6 PTS) (J. Thomas 5 AST),62 - 63,1,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,420,1,5,4,4:51 PM,5:46,Stokes 2' Layup (6 PTS) (Boyd-Jones 2 AST),,,62 - 65,3,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,421,1,42,4,4:51 PM,5:29,,,Ogwumike 3' Driving Layup (16 PTS),64 - 65,1,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,422,5,1,4,4:51 PM,5:12,Rodgers Bad Pass Turnover (P2.T17),,J. Thomas STEAL (4 STL),,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,423,1,41,4,4:52 PM,5:07,,,J. Thomas 2' Running Layup (16 PTS),66 - 65,-1,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,424,2,5,4,4:52 PM,4:51,MISS Boyd-Jones 1' Layup,,Ogwumike BLOCK (2 BLK),,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,5,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,1
+1021600132,426,4,0,4,4:52 PM,4:50,LIBERTY Rebound,,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,425,8,0,4,4:52 PM,4:50,SUB: Cash FOR Zellous,,,,,4.0,201919,Shavonte Zellous,1611661313.0,New York,Liberty,NYL,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,427,8,0,4,4:52 PM,4:50,SUB: Charles FOR Zahui B,,,,,4.0,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,428,10,0,4,4:52 PM,4:50,Jump Ball Stokes vs. J. Thomas: Tip to Boyd-Jones,,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,1
+1021600132,429,1,1,4,4:53 PM,4:41,Boyd-Jones 17' Jump Shot (7 PTS),,,66 - 67,1,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,443,6,2,4,4:53 PM,4:41,,,J. Thomas S.FOUL (P4.T4),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,433,3,10,4,4:53 PM,4:41,Boyd-Jones Free Throw 1 of 1 (8 PTS),,,66 - 68,2,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,435,2,1,4,4:53 PM,4:17,,,MISS Williams 15' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,436,4,0,4,4:53 PM,4:16,Cash REBOUND (Off:1 Def:4),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,437,6,2,4,4:54 PM,4:09,,,Williams S.FOUL (P1.PN),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,438,3,11,4,4:54 PM,4:09,Cash Free Throw 1 of 2 (11 PTS),,,66 - 69,3,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,440,8,0,4,4:54 PM,4:09,SUB: Wright FOR Boyd-Jones,,,,,4.0,204327,Brittany Boyd-Jones,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1021600132,441,3,12,4,4:54 PM,4:09,Cash Free Throw 2 of 2 (12 PTS),,,66 - 70,4,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,444,1,1,4,4:55 PM,3:57,,,Stricklen 3PT Jump Shot (9 PTS) (J. Thomas 6 AST),69 - 70,1,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021600132,445,6,2,4,4:55 PM,3:44,,,Williams S.FOUL (P2.PN),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,446,3,11,4,4:55 PM,3:44,Rodgers Free Throw 1 of 2 (13 PTS),,,69 - 71,2,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,448,3,12,4,4:55 PM,3:44,Rodgers Free Throw 2 of 2 (14 PTS),,,69 - 72,3,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,450,2,1,4,4:56 PM,3:30,,,MISS Jones 3PT Jump Shot,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,451,4,0,4,4:56 PM,3:29,Wright REBOUND (Off:0 Def:4),,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,452,2,1,4,4:56 PM,3:12,MISS Wright 18' Jump Shot,,,,,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,453,4,0,4,4:56 PM,3:11,Cash REBOUND (Off:2 Def:4),,,,,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,454,1,72,4,4:56 PM,3:10,Cash 2' Putback Layup (14 PTS),,,69 - 74,5,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,455,1,57,4,4:56 PM,2:47,,,Ogwumike 6' Driving Hook Shot (18 PTS),71 - 74,3,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,456,1,1,4,4:57 PM,2:30,Charles 18' Jump Shot (14 PTS) (Stokes 2 AST),,,71 - 76,5,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,457,2,42,4,4:57 PM,2:10,,,MISS J. Thomas 3' Driving Layup,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,458,4,0,4,4:57 PM,2:09,Charles REBOUND (Off:1 Def:8),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,459,1,5,4,4:57 PM,2:03,Stokes 2' Layup (8 PTS) (Wright 3 AST),,,71 - 78,7,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1021600132,460,9,2,4,4:57 PM,2:02,,,Sun Timeout: Short (Reg.3 Short 1),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,462,8,0,4,4:59 PM,2:02,,,SUB: Little FOR Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,463,8,0,4,5:00 PM,2:02,,,SUB: Bentley FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021600132,465,9,1,4,5:00 PM,2:02,LIBERTY Timeout: Regular (Full 2 Short 1),,,,,2.0,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,467,2,1,4,5:00 PM,1:47,,,MISS Little 10' Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,468,4,0,4,5:00 PM,1:46,Charles REBOUND (Off:1 Def:9),,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,469,2,63,4,5:01 PM,1:25,MISS Charles 8' Fadeaway Jumper,,,,,4.0,202250,Tina Charles,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,470,4,0,4,5:01 PM,1:24,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600132,471,6,3,4,5:01 PM,1:24,Stokes L.B.FOUL (P3.T3),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,472,2,46,4,5:01 PM,1:08,,,MISS Ogwumike 7' Running Jump Shot,,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,473,4,0,4,5:01 PM,1:07,Stokes REBOUND (Off:3 Def:3),,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,474,6,1,4,5:01 PM,1:06,,,Ogwumike P.FOUL (P5.PN),,,5.0,203823,Chiney Ogwumike,1611661323.0,Connecticut,Sun,CON,4,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,475,3,11,4,5:02 PM,1:06,Stokes Free Throw 1 of 2 (9 PTS),,,71 - 79,8,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,477,3,12,4,5:02 PM,1:06,MISS Stokes Free Throw 2 of 2,,,,,4.0,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1021600132,479,4,0,4,5:02 PM,1:05,,,J. Thomas REBOUND (Off:0 Def:5),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,480,6,2,4,5:02 PM,1:00,Rodgers S.FOUL (P2.PN),,,,,4.0,203411,Sugar Rodgers,1611661313.0,New York,Liberty,NYL,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021600132,481,3,11,4,5:02 PM,1:00,,,Little Free Throw 1 of 2 (4 PTS),72 - 79,7,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,483,3,12,4,5:03 PM,1:00,,,Little Free Throw 2 of 2 (5 PTS),73 - 79,6,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021600132,485,1,63,4,5:03 PM,0:38,Cash 11' Fadeaway Jumper (16 PTS),,,73 - 81,8,4.0,100721,Swin Cash,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,486,2,1,4,5:03 PM,0:32,,,MISS J. Thomas 25' 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,487,4,0,4,5:03 PM,0:30,,,Bentley REBOUND (Off:1 Def:0),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,488,1,1,4,5:03 PM,0:27,,,Bentley 3PT Jump Shot (10 PTS),76 - 81,5,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021600132,489,6,1,4,5:03 PM,0:26,,,J. Thomas P.FOUL (P5.PN),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1021600132,490,3,11,4,5:04 PM,0:26,Wright Free Throw 1 of 2 (7 PTS),,,76 - 82,6,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,493,3,12,4,5:04 PM,0:26,Wright Free Throw 2 of 2 (8 PTS),,,76 - 83,7,4.0,101030,Tanisha Wright,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1021600132,496,5,4,4,5:04 PM,0:20,,,Bentley Traveling Turnover (P1.T13),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021600132,497,13,0,4,5:05 PM,0:00,,End of 4th Period (5:05 PM EST),,76 - 83,7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

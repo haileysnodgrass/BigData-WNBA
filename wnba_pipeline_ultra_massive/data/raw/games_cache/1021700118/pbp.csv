@@ -1,0 +1,453 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700118,0,12,0,1,11:39 AM,10:00,,Start of 1st Period (11:39 AM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,1,10,0,1,11:39 AM,10:00,Jump Ball Thomas vs. Williams: Tip to Toliver,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0
+1021700118,2,6,1,1,11:40 AM,9:40,,,Lyttle P.FOUL (P1.T1),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,3,7,5,1,11:40 AM,9:32,,,Lyttle Violation:Kicked Ball,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021700118,4,5,40,1,11:41 AM,9:25,Thomas Out of Bounds Lost Ball Turnover (P1.T1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021700118,5,1,42,1,11:41 AM,9:12,,,Hayes 2' Driving Layup (2 PTS) (Williams 1 AST),2 - 0,-2,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,6,2,1,1,11:41 AM,9:02,MISS Toliver 18' Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,7,4,0,1,11:41 AM,9:01,,,Clarendon REBOUND (Off:0 Def:1),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,8,1,3,1,11:41 AM,8:43,,,Williams 7' Hook Shot (2 PTS) (Sykes 1 AST),4 - 0,-4,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,9,2,1,1,11:42 AM,8:25,MISS Meesseman 6' Jump Shot,,Williams BLOCK (1 BLK),,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021700118,10,4,0,1,11:42 AM,8:21,Walker-Kimbrough REBOUND (Off:1 Def:0),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,11,1,1,1,11:42 AM,8:17,Toliver 26' 3PT Jump Shot (3 PTS) (Walker-Kimbrough 1 AST),,,4 - 3,-1,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,12,1,42,1,11:42 AM,8:00,,,Lyttle 2' Driving Layup (2 PTS) (Sykes 2 AST),6 - 3,-3,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,13,2,1,1,11:42 AM,7:45,MISS Meesseman 6' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,14,4,0,1,11:42 AM,7:44,Thomas REBOUND (Off:1 Def:0),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,15,2,1,1,11:42 AM,7:43,MISS Thomas 5' Jump Shot,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,16,4,0,1,11:42 AM,7:43,Thomas REBOUND (Off:2 Def:0),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,17,1,66,1,11:42 AM,7:42,Thomas 4' Jump Bank Shot (2 PTS),,,6 - 5,-1,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,18,6,1,1,11:43 AM,7:37,Ruffin-Pratt P.FOUL (P1.T1),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,19,1,1,1,11:43 AM,7:26,,,Lyttle 14' Jump Shot (4 PTS) (Clarendon 1 AST),8 - 5,-3,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,20,2,1,1,11:43 AM,7:04,MISS Walker-Kimbrough 25' 3PT Jump Shot,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,21,4,0,1,11:43 AM,7:03,,,Clarendon REBOUND (Off:0 Def:2),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,22,1,42,1,11:43 AM,6:56,,,Hayes 2' Driving Layup (4 PTS) (Clarendon 2 AST),10 - 5,-5,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,23,9,1,1,11:44 AM,6:50,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,25,6,1,1,11:46 AM,6:36,,,Clarendon P.FOUL (P1.T2),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1021700118,26,2,85,1,11:47 AM,6:28,MISS Meesseman 11' Turnaround Bank Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,27,4,0,1,11:47 AM,6:25,,,Clarendon REBOUND (Off:0 Def:3),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,28,2,5,1,11:47 AM,6:17,,,MISS Williams 2' Layup,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,29,4,0,1,11:47 AM,6:16,Ruffin-Pratt REBOUND (Off:0 Def:1),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,31,2,1,1,11:47 AM,6:13,MISS Toliver 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,32,4,0,1,11:47 AM,6:12,,,Lyttle REBOUND (Off:0 Def:1),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,33,1,98,1,11:47 AM,6:07,,,Hayes 1' Cutting Layup Shot (6 PTS) (Sykes 3 AST),12 - 5,-7,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,34,2,1,1,11:48 AM,5:40,MISS Ruffin-Pratt 19' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,35,4,0,1,11:48 AM,5:39,Thomas REBOUND (Off:3 Def:0),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,36,2,1,1,11:48 AM,5:35,MISS Toliver 24' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,37,4,0,1,11:48 AM,5:34,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,39,1,1,1,11:48 AM,5:19,,,Lyttle 20' Jump Shot (6 PTS) (Hayes 1 AST),14 - 5,-9,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,40,2,1,1,11:49 AM,5:00,MISS Ruffin-Pratt 15' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,41,4,0,1,11:49 AM,4:59,,,Lyttle REBOUND (Off:0 Def:2),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,42,2,42,1,11:49 AM,4:44,,,MISS Hayes 2' Driving Layup,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,43,4,0,1,11:49 AM,4:44,Meesseman REBOUND (Off:0 Def:1),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,44,6,26,1,11:49 AM,4:35,Walker-Kimbrough Offensive Charge Foul (P1.T2),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,45,5,5,1,11:49 AM,4:35,Walker-Kimbrough Foul Turnover (P1.T2),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1021700118,46,8,0,1,11:49 AM,4:35,SUB: Cloud FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,47,8,0,1,11:49 AM,4:35,,,SUB: Holmes FOR Sykes,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,49,2,1,1,11:50 AM,4:14,,,MISS Clarendon 10' Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,50,4,0,1,11:50 AM,4:13,,,Lyttle REBOUND (Off:1 Def:2),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,51,1,42,1,11:50 AM,4:03,,,Hayes 2' Driving Layup (8 PTS),16 - 5,-11,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,52,2,66,1,11:50 AM,3:47,MISS Walker-Kimbrough 6' Jump Bank Shot,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,53,4,0,1,11:50 AM,3:46,,,Clarendon REBOUND (Off:0 Def:4),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,54,9,1,1,11:51 AM,3:36,,,Dream Timeout: Regular (Reg.1 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,56,8,0,1,11:51 AM,3:36,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,57,8,0,1,11:52 AM,3:36,SUB: Latta FOR Walker-Kimbrough,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,58,8,0,1,11:53 AM,3:36,,,SUB: Dantas FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,59,2,1,1,11:53 AM,3:24,,,MISS Lyttle 19' Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,60,4,0,1,11:53 AM,3:22,Toliver REBOUND (Off:0 Def:1),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,61,2,1,1,11:53 AM,3:06,MISS Cloud 24' 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,62,4,0,1,11:53 AM,3:05,,,Hayes REBOUND (Off:0 Def:1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,63,2,5,1,11:54 AM,2:56,Meesseman BLOCK (1 BLK),,MISS Hayes 1' Layup,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1021700118,64,4,0,1,11:54 AM,2:54,Meesseman REBOUND (Off:0 Def:2),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,65,1,1,1,11:54 AM,2:43,Toliver 24' 3PT Jump Shot (6 PTS) (Meesseman 1 AST),,,16 - 8,-8,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,66,6,1,1,11:54 AM,2:21,Latta P.FOUL (P1.T3),,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,67,8,0,1,11:54 AM,2:21,,,SUB: Sykes FOR Clarendon,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,68,8,0,1,11:54 AM,2:21,,,SUB: Ajavon FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,69,1,1,1,11:55 AM,2:08,,,Dantas 6' Jump Shot (2 PTS),18 - 8,-10,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,70,6,2,1,11:55 AM,2:00,,,Lyttle S.FOUL (P2.T3),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,71,3,11,1,11:55 AM,2:00,Cloud Free Throw 1 of 2 (1 PTS),,,18 - 9,-9,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,73,8,0,1,11:56 AM,2:00,,,SUB: Williams FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,74,3,12,1,11:56 AM,2:00,Cloud Free Throw 2 of 2 (2 PTS),,,18 - 10,-8,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,77,2,5,1,11:56 AM,1:43,Hawkins BLOCK (1 BLK),,MISS Holmes 3' Layup,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0
+1021700118,85,4,0,1,11:56 AM,1:42,,,Holmes REBOUND (Off:1 Def:0),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,87,2,40,1,11:56 AM,1:42,Meesseman BLOCK (2 BLK),,MISS Holmes Layup,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1021700118,78,4,0,1,11:56 AM,1:41,Toliver REBOUND (Off:0 Def:2),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,79,2,5,1,11:56 AM,1:35,MISS Cloud Layup,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,80,4,0,1,11:56 AM,1:33,Hawkins REBOUND (Off:1 Def:0),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,81,1,1,1,11:56 AM,1:30,Latta 27' 3PT Jump Shot (3 PTS) (Hawkins 1 AST),,,18 - 13,-5,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,82,1,1,1,11:57 AM,1:15,,,Sykes 5' Jump Shot (2 PTS),20 - 13,-7,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,83,2,5,1,11:57 AM,1:06,MISS Cloud 2' Layup,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,84,4,0,1,11:57 AM,1:05,,,Ajavon REBOUND (Off:0 Def:1),,,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,86,6,1,1,11:57 AM,1:04,Toliver P.FOUL (P1.T4),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,88,6,1,1,11:57 AM,0:51,Toliver P.FOUL (P2.PN),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,89,3,11,1,11:58 AM,0:51,,,Sykes Free Throw 1 of 2 (3 PTS),21 - 13,-8,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,91,8,0,1,11:58 AM,0:51,SUB: Walker-Kimbrough FOR Toliver,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,92,3,12,1,11:58 AM,0:51,,,Sykes Free Throw 2 of 2 (4 PTS),22 - 13,-9,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,94,1,5,1,11:58 AM,0:39,Hawkins 1' Layup (2 PTS) (Cloud 1 AST),,,22 - 15,-7,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,95,5,4,1,11:59 AM,0:29,,,Sykes Traveling Turnover (P1.T1),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021700118,96,2,1,1,11:59 AM,0:05,MISS Latta 3PT Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,97,4,0,1,11:59 AM,0:04,,,Sykes REBOUND (Off:0 Def:1),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,98,5,4,1,11:59 AM,0:01,,,Sykes Traveling Turnover (P2.T2),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021700118,100,2,1,1,12:00 PM,0:01,MISS Cloud 36' 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,101,4,0,1,12:00 PM,0:00,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,102,13,0,1,12:00 PM,0:00,,End of 1st Period (12:00 PM EST),,22 - 15,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,104,12,0,2,12:02 PM,10:00,,Start of 2nd Period (12:02 PM EST),,22 - 15,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,105,1,3,2,12:02 PM,9:46,,,Williams 9' Hook Shot (4 PTS),24 - 15,-9,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,106,2,1,2,12:03 PM,9:29,MISS Walker-Kimbrough 24' 3PT Jump Shot,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,107,4,0,2,12:03 PM,9:28,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,108,8,0,2,12:03 PM,9:27,,,SUB: Clarendon FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,109,8,0,2,12:03 PM,9:27,,,SUB: Lyttle FOR Holmes,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,110,8,0,2,12:03 PM,9:27,,,SUB: Hayes FOR Ajavon,,,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,111,1,1,2,12:03 PM,9:24,Hawkins 16' Jump Shot (4 PTS) (Cloud 2 AST),,,24 - 17,-7,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,112,1,1,2,12:03 PM,9:11,,,Dantas 3PT Jump Shot (5 PTS) (Clarendon 3 AST),27 - 17,-10,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,113,1,42,2,12:03 PM,8:56,Walker-Kimbrough 2' Driving Layup (2 PTS) (Latta 1 AST),,,27 - 19,-8,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,114,1,1,2,12:04 PM,8:42,,,Dantas 24' 3PT Jump Shot (8 PTS) (Clarendon 4 AST),30 - 19,-11,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,115,2,63,2,12:04 PM,8:19,MISS Cloud 17' Fadeaway Jumper,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,116,4,0,2,12:04 PM,8:18,,,Hayes REBOUND (Off:0 Def:2),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,117,1,98,2,12:04 PM,8:13,,,Sykes 1' Cutting Layup Shot (6 PTS) (Clarendon 5 AST),32 - 19,-13,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,118,2,1,2,12:05 PM,7:49,MISS Latta 3PT Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,119,4,0,2,12:05 PM,7:47,,,Dantas REBOUND (Off:0 Def:1),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,120,6,2,2,12:05 PM,7:43,Hawkins S.FOUL (P1.T1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,121,3,11,2,12:05 PM,7:43,,,Hayes Free Throw 1 of 2 (9 PTS),33 - 19,-14,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,123,3,12,2,12:05 PM,7:43,,,Hayes Free Throw 2 of 2 (10 PTS),34 - 19,-15,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,126,2,1,2,12:06 PM,7:18,MISS Latta 28' 3PT Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,127,4,0,2,12:06 PM,7:18,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,128,5,11,2,12:06 PM,7:18,MYSTICS Turnover: Shot Clock (T#3),,,,,2.0,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,129,9,1,2,12:06 PM,7:18,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,131,8,0,2,12:08 PM,7:18,SUB: Meesseman FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,132,8,0,2,12:08 PM,7:18,,,SUB: Williams FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,133,2,5,2,12:09 PM,6:59,,,MISS Clarendon 3' Layup,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,134,4,0,2,12:09 PM,6:59,,,Williams REBOUND (Off:1 Def:0),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,135,1,72,2,12:09 PM,6:57,,,Williams 2' Putback Layup (6 PTS),36 - 19,-17,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,136,2,1,2,12:09 PM,6:41,MISS Meesseman 24' 3PT Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,137,4,0,2,12:09 PM,6:40,,,Dantas REBOUND (Off:0 Def:2),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,138,6,2,2,12:10 PM,6:25,Meesseman S.FOUL (P1.T2),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,139,3,11,2,12:10 PM,6:25,,,Williams Free Throw 1 of 2 (7 PTS),37 - 19,-18,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,141,8,0,2,12:10 PM,6:25,SUB: Toliver FOR Latta,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,142,8,0,2,12:10 PM,6:25,SUB: Ruffin-Pratt FOR Cloud,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,143,3,12,2,12:10 PM,6:25,,,MISS Williams Free Throw 2 of 2,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,145,4,0,2,12:10 PM,6:24,Thomas REBOUND (Off:3 Def:1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,146,1,86,2,12:10 PM,6:03,Toliver 13' Turnaround Fadeaway (8 PTS),,,37 - 21,-16,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,147,1,1,2,12:11 PM,5:55,,,Hayes 3PT Jump Shot (13 PTS) (Williams 2 AST),40 - 21,-19,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,148,5,1,2,12:11 PM,5:34,Meesseman Bad Pass Turnover (P1.T4),,Clarendon STEAL (1 STL),,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,149,2,5,2,12:11 PM,5:26,,,MISS Hayes 2' Layup,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,150,4,0,2,12:11 PM,5:25,Meesseman REBOUND (Off:0 Def:3),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,151,2,1,2,12:11 PM,5:09,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,152,4,0,2,12:11 PM,5:08,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,153,6,3,2,12:12 PM,5:08,Thomas L.B.FOUL (P1.T3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,154,18,0,2,12:12 PM,5:08,,Support Ruling,,,,,153,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,156,8,0,2,12:13 PM,5:08,,,SUB: Holmes FOR Sykes,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,157,8,0,2,12:14 PM,5:08,,,SUB: Lyttle FOR Dantas,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,158,2,5,2,12:14 PM,4:51,,,MISS Clarendon 2' Layup,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,159,4,0,2,12:14 PM,4:50,Ruffin-Pratt REBOUND (Off:0 Def:2),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,160,6,29,2,12:14 PM,4:46,,,Hayes Shooting Block Foul (P1.T1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,161,3,11,2,12:15 PM,4:46,MISS Ruffin-Pratt Free Throw 1 of 2,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,162,4,1,2,12:15 PM,4:46,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,163,3,12,2,12:15 PM,4:46,MISS Ruffin-Pratt Free Throw 2 of 2,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,165,4,0,2,12:15 PM,4:45,Thomas REBOUND (Off:4 Def:1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,166,6,26,2,12:15 PM,4:42,Thomas Offensive Charge Foul (P2.T4),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,167,5,5,2,12:15 PM,4:42,Thomas Foul Turnover (P2.T5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021700118,168,5,2,2,12:16 PM,4:30,Meesseman STEAL (1 STL),,Clarendon Lost Ball Turnover (P1.T3),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,169,1,79,2,12:16 PM,4:26,Meesseman 18' Pullup Jump Shot (2 PTS) (Toliver 1 AST),,,40 - 23,-17,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,170,1,1,2,12:16 PM,4:14,,,Clarendon 14' Jump Shot (2 PTS),42 - 23,-19,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,173,1,1,2,12:17 PM,4:08,Toliver 14' Jump Shot (10 PTS),,,42 - 25,-17,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,174,2,1,2,12:17 PM,3:52,,,MISS Holmes 25' 3PT Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,175,4,0,2,12:17 PM,3:50,Meesseman REBOUND (Off:0 Def:4),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,176,6,2,2,12:17 PM,3:41,,,Williams S.FOUL (P1.T2),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1021700118,177,3,11,2,12:17 PM,3:41,Walker-Kimbrough Free Throw 1 of 2 (3 PTS),,,42 - 26,-16,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,179,8,0,2,12:17 PM,3:41,,,SUB: Sykes FOR Holmes,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,180,8,0,2,12:17 PM,3:41,,,SUB: Dantas FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,181,3,12,2,12:17 PM,3:41,Walker-Kimbrough Free Throw 2 of 2 (4 PTS),,,42 - 27,-15,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,183,1,1,2,12:18 PM,3:24,,,Sykes 25' 3PT Jump Shot (9 PTS) (Williams 3 AST),45 - 27,-18,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,184,2,1,2,12:18 PM,3:03,MISS Walker-Kimbrough 10' Jump Shot,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,185,4,0,2,12:18 PM,3:02,Toliver REBOUND (Off:1 Def:2),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,186,2,1,2,12:18 PM,2:53,MISS Ruffin-Pratt 15' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,187,4,0,2,12:18 PM,2:52,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,188,9,4,2,12:18 PM,2:51,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,190,8,0,2,12:21 PM,2:51,,,SUB: Hooper FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203835,Jordan Hooper,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,191,1,1,2,12:21 PM,2:43,Toliver 25' 3PT Jump Shot (13 PTS) (Ruffin-Pratt 1 AST),,,45 - 30,-15,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,193,5,11,2,12:22 PM,2:17,,,Dream Turnover: Shot Clock (T#4),,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,195,5,1,2,12:23 PM,2:03,Walker-Kimbrough Bad Pass Turnover (P2.T6),,Hooper STEAL (1 STL),,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,203835,Jordan Hooper,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,196,1,42,2,12:23 PM,1:58,,,Sykes 1' Driving Layup (11 PTS),47 - 30,-17,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,197,6,2,2,12:23 PM,1:58,Walker-Kimbrough S.FOUL (P2.PN),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,198,8,0,2,12:23 PM,1:58,SUB: Latta FOR Walker-Kimbrough,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,199,8,0,2,12:23 PM,1:58,SUB: Cloud FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,200,3,10,2,12:23 PM,1:58,,,Sykes Free Throw 1 of 1 (12 PTS),48 - 30,-18,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,203,2,1,2,12:24 PM,1:36,MISS Latta 5' Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,204,4,0,2,12:24 PM,1:36,,,Sykes REBOUND (Off:0 Def:2),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,205,1,1,2,12:24 PM,1:29,,,Hooper 24' 3PT Jump Shot (3 PTS) (Sykes 4 AST),51 - 30,-21,5.0,203835,Jordan Hooper,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,206,1,1,2,12:24 PM,1:16,Toliver 26' 3PT Jump Shot (16 PTS) (Cloud 3 AST),,,51 - 33,-18,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,207,1,98,2,12:24 PM,1:05,,,Sykes 2' Cutting Layup Shot (14 PTS) (Williams 4 AST),53 - 33,-20,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,208,1,1,2,12:24 PM,0:57,Toliver 26' 3PT Jump Shot (19 PTS) (Latta 2 AST),,,53 - 36,-17,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,209,5,45,2,12:24 PM,0:57,,,Clarendon Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021700118,210,1,1,2,12:25 PM,0:42,Latta 25' 3PT Jump Shot (6 PTS) (Cloud 4 AST),,,53 - 39,-14,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,211,6,1,2,12:25 PM,0:38,Latta P.FOUL (P2.PN),,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,212,3,11,2,12:25 PM,0:38,,,Clarendon Free Throw 1 of 2 (3 PTS),54 - 39,-15,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,214,3,12,2,12:26 PM,0:38,,,MISS Clarendon Free Throw 2 of 2,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,215,4,0,2,12:26 PM,0:37,Thomas REBOUND (Off:4 Def:2),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,216,6,1,2,12:26 PM,0:23,,,Dantas P.FOUL (P1.T3),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,217,1,58,2,12:27 PM,0:12,Thomas 5' Turnaround Hook Shot (4 PTS) (Meesseman 2 AST),,,54 - 41,-13,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,218,2,1,2,12:27 PM,0:00,,,MISS Sykes 3PT Jump Shot,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,219,4,0,2,12:27 PM,0:00,,,Williams REBOUND (Off:2 Def:0),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,220,1,97,2,12:27 PM,0:00,,,Williams 1' Tip Layup Shot (9 PTS),56 - 41,-15,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,221,18,0,2,12:27 PM,0:00,,Support Ruling,,,,,220,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,223,13,0,2,12:27 PM,0:00,,End of 2nd Period (12:27 PM EST),,56 - 41,-15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,225,12,0,3,12:42 PM,10:00,,Start of 3rd Period (12:42 PM EST),,56 - 41,-15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,226,5,1,3,12:42 PM,9:46,Toliver STEAL (1 STL),,Lyttle Bad Pass Turnover (P1.T6),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,227,5,1,3,12:42 PM,9:45,Toliver Bad Pass Turnover (P1.T7),,Lyttle STEAL (1 STL),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,228,2,1,3,12:42 PM,9:44,,,MISS Lyttle 12' Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,229,4,0,3,12:42 PM,9:40,Meesseman REBOUND (Off:0 Def:5),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,230,1,1,3,12:43 PM,9:25,Toliver 3PT Jump Shot (22 PTS),,,56 - 44,-12,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,242,18,1,3,12:43 PM,9:25,,Overturn Ruling,,,,,230,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,231,1,78,3,12:43 PM,9:12,,,Clarendon 8' Floating Jump Shot (5 PTS),58 - 44,-14,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,232,1,63,3,12:43 PM,8:54,Toliver 21' Fadeaway Jumper (24 PTS),,,58 - 46,-12,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,243,18,0,3,12:43 PM,8:54,,Support Ruling,,,,,232,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,233,1,66,3,12:43 PM,8:40,,,Lyttle 6' Jump Bank Shot (8 PTS) (Clarendon 6 AST),60 - 46,-14,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,234,2,1,3,12:44 PM,8:27,MISS Walker-Kimbrough 18' Jump Shot,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,235,4,0,3,12:44 PM,8:26,Thomas REBOUND (Off:5 Def:2),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,236,2,1,3,12:44 PM,8:22,MISS Cloud 24' 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,237,4,0,3,12:44 PM,8:21,,,Williams REBOUND (Off:2 Def:1),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,238,1,42,3,12:44 PM,8:04,,,Sykes 1' Driving Layup (16 PTS),62 - 46,-16,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,239,5,1,3,12:44 PM,7:55,Cloud Bad Pass Turnover (P1.T8),,Sykes STEAL (1 STL),,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,240,6,29,3,12:44 PM,7:52,Walker-Kimbrough Shooting Block Foul (P3.T1),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,241,9,1,3,12:45 PM,7:52,MYSTICS Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,244,3,11,3,12:47 PM,7:52,,,Sykes Free Throw 1 of 2 (17 PTS),63 - 46,-17,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,246,3,12,3,12:47 PM,7:52,,,Sykes Free Throw 2 of 2 (18 PTS),64 - 46,-18,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,249,1,98,3,12:48 PM,7:41,Cloud 3' Cutting Layup Shot (4 PTS) (Meesseman 3 AST),,,64 - 48,-16,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,250,2,1,3,12:48 PM,7:21,,,MISS Hayes 26' 3PT Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,251,4,0,3,12:48 PM,7:20,Cloud REBOUND (Off:0 Def:1),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,252,2,1,3,12:48 PM,7:09,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,253,4,0,3,12:48 PM,7:08,,,Lyttle REBOUND (Off:1 Def:3),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,254,2,1,3,12:48 PM,7:02,Meesseman BLOCK (3 BLK),,MISS Sykes 3' Jump Shot,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1021700118,255,4,0,3,12:48 PM,7:01,Meesseman REBOUND (Off:0 Def:6),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,256,1,75,3,12:48 PM,6:52,Meesseman 2' Driving Finger Roll Layup (4 PTS),,,64 - 50,-14,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,257,2,1,3,12:49 PM,6:34,,,MISS Lyttle 4' Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,258,4,0,3,12:49 PM,6:33,,,Lyttle REBOUND (Off:2 Def:3),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,260,8,0,3,12:49 PM,6:24,,,SUB: Dantas FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,261,2,1,3,12:49 PM,6:17,,,MISS Hayes 18' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,262,4,0,3,12:49 PM,6:16,Thomas REBOUND (Off:5 Def:3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,263,2,1,3,12:50 PM,5:54,MISS Meesseman 18' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,264,4,0,3,12:50 PM,5:53,Thomas REBOUND (Off:6 Def:3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,265,6,2,3,12:50 PM,5:51,,,Dantas S.FOUL (P2.T1),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,266,3,11,3,12:50 PM,5:51,MISS Thomas Free Throw 1 of 2,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,267,4,1,3,12:50 PM,5:51,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,268,3,12,3,12:50 PM,5:51,Thomas Free Throw 2 of 2 (5 PTS),,,64 - 51,-13,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,270,2,5,3,12:51 PM,5:37,,,MISS Sykes 1' Layup,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,271,4,0,3,12:51 PM,5:36,Thomas REBOUND (Off:6 Def:4),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,273,1,42,3,12:51 PM,5:18,Meesseman 3' Driving Layup (6 PTS) (Toliver 2 AST),,,64 - 53,-11,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,274,6,2,3,12:51 PM,5:18,,,Sykes S.FOUL (P1.T2),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,275,8,0,3,12:52 PM,5:18,,,SUB: Holmes FOR Sykes,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,278,8,0,3,12:52 PM,5:18,SUB: Latta FOR Walker-Kimbrough,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,282,8,0,3,12:52 PM,5:18,,,SUB: Williams FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,276,3,10,3,12:52 PM,5:18,Meesseman Free Throw 1 of 1 (7 PTS),,,64 - 54,-10,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,279,2,1,3,12:52 PM,5:03,,,MISS Clarendon 7' Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,280,4,0,3,12:52 PM,5:01,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,281,6,3,3,12:52 PM,5:01,,,Clarendon L.B.FOUL (P2.T3),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1021700118,283,2,1,3,12:53 PM,4:47,MISS Cloud 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,284,4,0,3,12:53 PM,4:47,,,Clarendon REBOUND (Off:0 Def:5),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,285,5,1,3,12:53 PM,4:36,Meesseman STEAL (2 STL),,Clarendon Bad Pass Turnover (P3.T7),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,286,1,75,3,12:53 PM,4:28,Meesseman 1' Driving Finger Roll Layup (9 PTS),,,64 - 56,-8,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,287,6,2,3,12:53 PM,4:28,,,Clarendon S.FOUL (P3.T4),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1021700118,288,3,10,3,12:54 PM,4:28,Meesseman Free Throw 1 of 1 (10 PTS),,,64 - 57,-7,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,290,5,1,3,12:54 PM,4:08,Thomas STEAL (1 STL),,Dantas Bad Pass Turnover (P1.T8),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,291,6,1,3,12:54 PM,4:08,,,Clarendon P.FOUL (P4.PN),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,292,3,11,3,12:55 PM,4:08,Toliver Free Throw 1 of 2 (25 PTS),,,64 - 58,-6,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,294,8,0,3,12:55 PM,4:08,,,SUB: Ajavon FOR Clarendon,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,295,3,12,3,12:55 PM,4:08,Toliver Free Throw 2 of 2 (26 PTS),,,64 - 59,-5,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,297,9,1,3,12:55 PM,4:03,,,Dream Timeout: Regular (Reg.2 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,299,2,1,3,12:57 PM,3:46,,,MISS Dantas 7' Jump Shot,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,300,4,0,3,12:57 PM,3:45,Thomas REBOUND (Off:6 Def:5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,301,2,1,3,12:57 PM,3:29,MISS Toliver 24' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,302,4,0,3,12:57 PM,3:27,,,Holmes REBOUND (Off:1 Def:1),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,303,6,29,3,12:57 PM,3:12,Meesseman Shooting Block Foul (P2.T2),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,304,3,11,3,12:58 PM,3:12,,,Ajavon Free Throw 1 of 2 (1 PTS),65 - 59,-6,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,306,8,0,3,12:58 PM,3:12,,,SUB: Sykes FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,307,8,0,3,12:58 PM,3:12,,,SUB: Lyttle FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,308,3,12,3,12:58 PM,3:12,,,Ajavon Free Throw 2 of 2 (2 PTS),66 - 59,-7,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,311,2,1,3,12:59 PM,2:51,MISS Meesseman 15' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,312,4,0,3,12:59 PM,2:50,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,313,6,3,3,12:59 PM,2:50,Thomas L.B.FOUL (P3.T3),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,314,8,0,3,12:59 PM,2:50,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,315,8,0,3,12:59 PM,2:50,SUB: Ruffin-Pratt FOR Cloud,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,316,6,2,3,1:00 PM,2:37,Ruffin-Pratt S.FOUL (P2.T4),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,317,3,11,3,1:00 PM,2:37,,,Sykes Free Throw 1 of 2 (19 PTS),67 - 59,-8,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,319,3,12,3,1:00 PM,2:37,,,Sykes Free Throw 2 of 2 (20 PTS),68 - 59,-9,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,322,1,5,3,1:01 PM,2:19,Hawkins 1' Layup (6 PTS) (Meesseman 4 AST),,,68 - 61,-7,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,323,2,1,3,1:01 PM,2:03,,,MISS Holmes 24' 3PT Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,324,4,0,3,1:01 PM,2:02,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,325,6,3,3,1:01 PM,2:02,Hawkins L.B.FOUL (P2.PN),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,326,3,11,3,1:01 PM,2:02,,,Dantas Free Throw 1 of 2 (9 PTS),69 - 61,-8,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,328,3,12,3,1:01 PM,2:02,,,Dantas Free Throw 2 of 2 (10 PTS),70 - 61,-9,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,331,2,1,3,1:02 PM,1:49,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,332,4,0,3,1:02 PM,1:49,,,Lyttle REBOUND (Off:2 Def:4),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,333,2,1,3,1:02 PM,1:32,,,MISS Holmes 4' Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,334,4,0,3,1:02 PM,1:31,Toliver REBOUND (Off:1 Def:3),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,335,2,1,3,1:02 PM,1:24,MISS Hawkins 4' Jump Shot,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,336,4,0,3,1:02 PM,1:23,Ruffin-Pratt REBOUND (Off:1 Def:2),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,337,1,1,3,1:02 PM,1:16,Latta 3PT Jump Shot (9 PTS) (Meesseman 5 AST),,,70 - 64,-6,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,338,6,26,3,1:03 PM,0:59,,,Dantas Offensive Charge Foul (P3.PN),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1021700118,339,5,5,3,1:03 PM,0:59,,,Dantas Foul Turnover (P2.T9),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021700118,340,8,0,3,1:03 PM,0:59,SUB: Walker-Kimbrough FOR Toliver,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,343,2,1,3,1:03 PM,0:43,MISS Meesseman 24' 3PT Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,344,4,0,3,1:03 PM,0:42,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,345,1,42,3,1:04 PM,0:28,,,Sykes 2' Driving Layup (22 PTS),72 - 64,-8,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,346,2,5,3,1:04 PM,0:09,MISS Latta 2' Layup,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,347,4,0,3,1:04 PM,0:07,,,Holmes REBOUND (Off:1 Def:2),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,348,5,39,3,1:04 PM,0:06,,,Holmes Step Out of Bounds Turnover (P1.T10),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021700118,349,6,4,3,1:05 PM,0:06,Latta OFF.Foul (P3),,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,350,5,5,3,1:05 PM,0:06,Latta Foul Turnover (P1.T9),,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021700118,352,2,1,3,1:05 PM,0:01,Walker-Kimbrough BLOCK (1 BLK),,MISS Sykes 28' 3PT Jump Shot,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0
+1021700118,353,4,0,3,1:05 PM,0:00,Latta REBOUND (Off:0 Def:1),,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,354,13,0,3,1:05 PM,0:00,,End of 3rd Period (1:05 PM EST),,72 - 64,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,356,12,0,4,1:07 PM,10:00,,Start of 4th Period (1:07 PM EST),,72 - 64,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,357,2,1,4,1:08 PM,9:48,MISS Latta 19' Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,358,4,0,4,1:08 PM,9:46,Thomas REBOUND (Off:7 Def:5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,361,6,5,4,1:08 PM,9:45,,,Ajavon IN.FOUL (P1.T1),,,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1021700118,362,3,10,4,1:08 PM,9:45,Latta Free Throw 1 of 1 (10 PTS),,,72 - 65,-7,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,364,2,5,4,1:09 PM,9:40,MISS Walker-Kimbrough 1' Layup,,Williams BLOCK (2 BLK),,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021700118,365,4,0,4,1:09 PM,9:38,,,Holmes REBOUND (Off:1 Def:3),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,366,2,5,4,1:09 PM,9:32,,,MISS Holmes 2' Layup,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,367,4,0,4,1:09 PM,9:30,,,Williams REBOUND (Off:3 Def:1),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,368,2,1,4,1:09 PM,9:18,,,MISS Dantas 9' Jump Shot,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,369,4,0,4,1:09 PM,9:17,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,371,5,40,4,1:10 PM,9:10,Walker-Kimbrough Out of Bounds Lost Ball Turnover (P3.T10),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021700118,374,2,1,4,1:10 PM,8:58,,,MISS Hayes 11' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,375,4,0,4,1:10 PM,8:57,Hawkins REBOUND (Off:1 Def:1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,376,1,79,4,1:10 PM,8:49,Latta 26' 3PT Pullup Jump Shot (13 PTS),,,72 - 68,-4,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,378,1,75,4,1:11 PM,8:31,,,Holmes 2' Driving Finger Roll Layup (2 PTS),74 - 68,-6,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,379,1,1,4,1:11 PM,8:21,Ruffin-Pratt 8' Jump Shot (2 PTS),,,74 - 70,-4,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,380,2,1,4,1:11 PM,7:59,,,MISS Ajavon 13' Jump Shot,,,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,381,4,0,4,1:11 PM,7:58,,,Williams REBOUND (Off:4 Def:1),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,383,6,2,4,1:11 PM,7:50,Walker-Kimbrough S.FOUL (P4.T1),,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,384,3,11,4,1:11 PM,7:50,,,Hayes Free Throw 1 of 2 (14 PTS),75 - 70,-5,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,386,8,0,4,1:12 PM,7:50,,,SUB: Clarendon FOR Ajavon,,,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,387,8,0,4,1:12 PM,7:50,,,SUB: Sykes FOR Holmes,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,388,8,0,4,1:12 PM,7:50,SUB: Toliver FOR Walker-Kimbrough,,,,,4.0,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,389,3,12,4,1:12 PM,7:50,,,Hayes Free Throw 2 of 2 (15 PTS),76 - 70,-6,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,391,2,1,4,1:12 PM,7:31,MISS Ruffin-Pratt 16' Jump Shot,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,392,4,0,4,1:12 PM,7:30,Hawkins REBOUND (Off:2 Def:1),,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,393,1,66,4,1:12 PM,7:28,Hawkins 6' Jump Bank Shot (8 PTS),,,76 - 72,-4,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,394,6,2,4,1:13 PM,7:22,Ruffin-Pratt S.FOUL (P3.T2),,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,395,3,11,4,1:13 PM,7:22,,,Sykes Free Throw 1 of 2 (23 PTS),77 - 72,-5,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,397,8,0,4,1:13 PM,7:22,,,SUB: Lyttle FOR Dantas,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,399,8,0,4,1:13 PM,7:22,SUB: Meesseman FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,400,3,12,4,1:13 PM,7:22,,,Sykes Free Throw 2 of 2 (24 PTS),78 - 72,-6,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,402,2,5,4,1:14 PM,7:11,MISS Thomas Layup,,Williams BLOCK (3 BLK),,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021700118,403,4,0,4,1:14 PM,7:11,Thomas REBOUND (Off:8 Def:5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,404,5,39,4,1:14 PM,7:11,Thomas Step Out of Bounds Turnover (P3.T11),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1021700118,405,8,0,4,1:14 PM,7:11,SUB: Cloud FOR Ruffin-Pratt,,,,,4.0,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,407,5,11,4,1:14 PM,6:46,,,Dream Turnover: Shot Clock (T#11),,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,408,2,1,4,1:15 PM,6:21,MISS Toliver 25' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,409,4,0,4,1:15 PM,6:20,,,Sykes REBOUND (Off:0 Def:3),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,410,1,1,4,1:15 PM,5:57,,,Clarendon 15' Jump Shot (7 PTS) (Hayes 2 AST),80 - 72,-8,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,411,1,1,4,1:16 PM,5:40,Cloud 3PT Jump Shot (7 PTS) (Latta 3 AST),,,80 - 75,-5,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,412,1,1,4,1:16 PM,5:30,,,Hayes 26' 3PT Jump Shot (18 PTS) (Clarendon 7 AST),83 - 75,-8,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,413,9,2,4,1:16 PM,5:29,MYSTICS Timeout: Short (Full 3 Short 1),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,414,9,4,4,1:17 PM,5:29,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,416,2,1,4,1:19 PM,5:14,MISS Latta 19' Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,417,4,0,4,1:19 PM,5:13,,,Lyttle REBOUND (Off:2 Def:5),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,418,2,1,4,1:20 PM,4:51,,,MISS Clarendon 24' 3PT Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,419,4,0,4,1:20 PM,4:50,Toliver REBOUND (Off:1 Def:4),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,420,2,1,4,1:20 PM,4:28,MISS Cloud 25' 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,421,4,0,4,1:20 PM,4:27,Thomas REBOUND (Off:9 Def:5),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,422,1,72,4,1:20 PM,4:25,Thomas 1' Putback Layup (7 PTS),,,83 - 77,-6,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,424,2,5,4,1:20 PM,4:08,Meesseman BLOCK (4 BLK),,MISS Clarendon 1' Layup,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1
+1021700118,425,4,0,4,1:20 PM,4:06,Latta REBOUND (Off:0 Def:2),,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,426,2,1,4,1:20 PM,3:58,MISS Toliver 26' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,427,4,0,4,1:20 PM,3:58,,,Lyttle REBOUND (Off:2 Def:6),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,428,6,1,4,1:21 PM,3:46,Toliver P.FOUL (P3.T3),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,429,2,1,4,1:21 PM,3:33,,,MISS Hayes 7' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,430,4,0,4,1:21 PM,3:32,,,Lyttle REBOUND (Off:3 Def:6),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,431,2,1,4,1:21 PM,3:31,,,MISS Lyttle 5' Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,432,4,0,4,1:21 PM,3:31,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,433,5,11,4,1:21 PM,3:31,,,Dream Turnover: Shot Clock (T#12),,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,434,5,1,4,1:22 PM,3:18,Meesseman Bad Pass Turnover (P2.T12),,Clarendon STEAL (2 STL),,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,435,6,1,4,1:22 PM,3:03,Meesseman P.FOUL (P3.T4),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021700118,436,2,1,4,1:23 PM,2:48,,,MISS Williams 17' Jump Shot,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,437,4,0,4,1:23 PM,2:48,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,438,5,11,4,1:23 PM,2:48,,,Dream Turnover: Shot Clock (T#13),,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,439,9,1,4,1:23 PM,2:48,,,Dream Timeout: Regular (Reg.3 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,441,1,105,4,1:25 PM,2:36,Meesseman 8' Turnaround Fadeaway Bank Jump Shot (12 PTS) (Cloud 5 AST),,,83 - 79,-4,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,442,2,1,4,1:25 PM,2:17,,,MISS Williams 10' Jump Shot,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,443,4,0,4,1:25 PM,2:16,Cloud REBOUND (Off:0 Def:2),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,444,2,1,4,1:26 PM,2:11,MISS Toliver 24' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,445,4,0,4,1:26 PM,2:09,Cloud REBOUND (Off:1 Def:2),,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,446,1,5,4,1:26 PM,2:03,Meesseman 2' Layup (14 PTS) (Latta 4 AST),,,83 - 81,-2,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,447,6,27,4,1:26 PM,1:40,Meesseman Personal Block Foul (P4.PN),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,448,3,11,4,1:27 PM,1:40,,,Sykes Free Throw 1 of 2 (25 PTS),84 - 81,-3,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,450,3,12,4,1:27 PM,1:40,,,Sykes Free Throw 2 of 2 (26 PTS),85 - 81,-4,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,452,1,1,4,1:27 PM,1:32,Latta 26' 3PT Jump Shot (16 PTS) (Cloud 6 AST),,,85 - 84,-1,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,453,1,1,4,1:27 PM,1:14,,,Williams 11' Jump Shot (11 PTS) (Hayes 3 AST),87 - 84,-3,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,454,2,1,4,1:28 PM,1:03,MISS Meesseman 4' Jump Shot,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,455,4,0,4,1:28 PM,1:02,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,456,9,2,4,1:28 PM,1:01,MYSTICS Timeout: Short (Full 3 Short 2),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,457,6,1,4,1:29 PM,0:54,,,Hayes P.FOUL (P2.T2),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,458,1,80,4,1:30 PM,0:49,Toliver 3PT Step Back Jump Shot (29 PTS),,,87 - 87,TIE,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,459,1,1,4,1:30 PM,0:31,,,Clarendon 14' Jump Shot (9 PTS),89 - 87,-2,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,460,9,1,4,1:30 PM,0:31,MYSTICS Timeout: Regular (Full 4 Short 2),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,462,8,0,4,1:31 PM,0:31,SUB: Hawkins FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,463,8,0,4,1:32 PM,0:31,,,SUB: Ajavon FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,464,8,0,4,1:32 PM,0:31,,,SUB: Holmes FOR Clarendon,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,465,1,5,4,1:32 PM,0:30,Meesseman 1' Layup (16 PTS) (Cloud 7 AST),,,89 - 89,TIE,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,466,9,2,4,1:32 PM,0:25,,,Dream Timeout: Short (Reg.3 Short 1),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,468,8,0,4,1:33 PM,0:25,SUB: Thomas FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,469,8,0,4,1:33 PM,0:25,SUB: Ruffin-Pratt FOR Latta,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,470,8,0,4,1:33 PM,0:25,,,SUB: Williams FOR Holmes,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,471,8,0,4,1:33 PM,0:25,,,SUB: Clarendon FOR Ajavon,,,5.0,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,472,5,2,4,1:33 PM,0:07,Ruffin-Pratt STEAL (1 STL),,Clarendon Lost Ball Turnover (P4.T14),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,473,2,1,4,1:33 PM,0:01,MISS Toliver 29' 3PT Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,474,4,0,4,1:33 PM,0:00,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,475,13,0,4,1:34 PM,0:00,,End of 4th Period (1:34 PM EST),,89 - 89,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,477,12,0,5,1:36 PM,5:00,,Start of 1st OT (1:36 PM EST),,89 - 89,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,478,10,0,5,1:36 PM,4:59,Jump Ball Thomas vs. Williams: Tip to Clarendon,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0
+1021700118,479,5,2,5,1:36 PM,4:59,Thomas Lost Ball Turnover (P4.T13),,Williams STEAL (1 STL),,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,480,1,1,5,1:36 PM,4:53,,,Hayes 30' 3PT Jump Shot (21 PTS) (Clarendon 8 AST),92 - 89,-3,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,481,2,80,5,1:36 PM,4:30,MISS Toliver 24' 3PT Step Back Jump Shot,,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,482,4,0,5,1:36 PM,4:29,Meesseman REBOUND (Off:1 Def:6),,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,483,1,85,5,1:37 PM,4:18,Thomas 5' Turnaround Bank Shot (9 PTS) (Meesseman 6 AST),,,92 - 91,-1,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,484,2,1,5,1:37 PM,3:55,,,MISS Sykes 6' Jump Shot,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,485,4,0,5,1:37 PM,3:54,Thomas REBOUND (Off:9 Def:6),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,486,2,1,5,1:37 PM,3:35,MISS Cloud 3PT Jump Shot,,,,,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,487,4,0,5,1:37 PM,3:34,,,Lyttle REBOUND (Off:3 Def:7),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,488,2,5,5,1:38 PM,3:15,,,MISS Sykes 2' Layup,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,489,4,0,5,1:38 PM,3:15,,,Williams REBOUND (Off:5 Def:1),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,490,2,1,5,1:38 PM,3:08,,,MISS Clarendon 12' Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,491,4,0,5,1:38 PM,3:07,Thomas REBOUND (Off:9 Def:7),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,492,2,5,5,1:38 PM,2:47,MISS Meesseman 1' Layup,,,,,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,493,4,0,5,1:38 PM,2:46,,,Lyttle REBOUND (Off:3 Def:8),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,494,5,1,5,1:38 PM,2:42,Meesseman STEAL (3 STL),,Clarendon Bad Pass Turnover (P5.T15),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,495,1,1,5,1:38 PM,2:32,Cloud 24' 3PT Jump Shot (10 PTS) (Toliver 3 AST),,,92 - 94,2,4.0,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,496,2,1,5,1:39 PM,2:11,,,MISS Clarendon 24' 3PT Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,497,4,0,5,1:39 PM,2:10,Thomas REBOUND (Off:9 Def:8),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,498,1,5,5,1:39 PM,1:53,Latta 1' Layup (18 PTS) (Meesseman 7 AST),,,92 - 96,4,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,499,9,1,5,1:39 PM,1:49,,,Dream Timeout: Regular (Reg.4 Short 1),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,501,8,0,5,1:40 PM,1:49,,,SUB: Hooper FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203835,Jordan Hooper,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,502,8,0,5,1:40 PM,1:49,,,SUB: Dantas FOR Clarendon,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,503,5,45,5,1:41 PM,1:37,,,Dantas Out of Bounds - Bad Pass Turnover Turnover (P3.T16),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021700118,504,18,0,5,1:41 PM,1:37,,Support Ruling,,,,,504,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,505,8,0,5,1:42 PM,1:37,,,SUB: Ajavon FOR Hooper,,,5.0,203835,Jordan Hooper,1611661330.0,Atlanta,Dream,ATL,5,201492,Matee Ajavon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,506,2,1,5,1:42 PM,1:14,MISS Latta 6' Jump Shot,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,507,4,0,5,1:42 PM,1:13,,,Sykes REBOUND (Off:0 Def:4),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,508,1,79,5,1:43 PM,1:07,,,Hayes 24' 3PT Pullup Jump Shot (24 PTS) (Sykes 5 AST),95 - 96,1,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700118,509,1,86,5,1:43 PM,0:42,Meesseman 7' Turnaround Fadeaway (18 PTS) (Cloud 8 AST),,,95 - 98,3,4.0,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,4,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1021700118,510,18,0,5,1:43 PM,0:42,,Support Ruling,,,,,509,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700118,511,6,2,5,1:45 PM,0:30,Thomas S.FOUL (P4.T1),,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700118,512,3,11,5,1:45 PM,0:30,,,MISS Sykes Free Throw 1 of 2,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700118,513,4,1,5,1:45 PM,0:30,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,514,8,0,5,1:45 PM,0:30,,,SUB: Williams FOR Dantas,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,515,8,0,5,1:46 PM,0:30,SUB: Hawkins FOR Latta,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,516,3,12,5,1:46 PM,0:30,,,Sykes Free Throw 2 of 2 (27 PTS),96 - 98,2,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700118,518,9,2,5,1:46 PM,0:30,MYSTICS Timeout: Short (Full 4 Short 3),,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,520,8,0,5,1:47 PM,0:30,SUB: Latta FOR Thomas,,,,,4.0,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,4,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,522,2,1,5,1:47 PM,0:10,MISS Toliver 28' 3PT Jump Shot,,Williams BLOCK (4 BLK),,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021700118,523,4,0,5,1:48 PM,0:10,MYSTICS Rebound,,,,,2.0,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,525,6,2,5,1:48 PM,0:08,,,Hayes S.FOUL (P3.T1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021700118,526,3,11,5,1:49 PM,0:08,Hawkins Free Throw 1 of 2 (9 PTS),,,96 - 99,3,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,528,8,0,5,1:49 PM,0:08,SUB: Ruffin-Pratt FOR Latta,,,,,4.0,201056,Ivory Latta,1611661322.0,Washington,Mystics,WAS,4,203437,Tierra Ruffin-Pratt,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,529,3,12,5,1:49 PM,0:08,Hawkins Free Throw 2 of 2 (10 PTS),,,96 - 100,4,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021700118,531,9,2,5,1:49 PM,0:08,,,Dream Timeout: Short (Reg.4 Short 2),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700118,533,8,0,5,1:50 PM,0:08,SUB: Thomas FOR Hawkins,,,,,4.0,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,202663,Krystal Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021700118,534,8,0,5,1:50 PM,0:08,,,SUB: Hooper FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203835,Jordan Hooper,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700118,535,2,1,5,1:50 PM,0:02,Meesseman BLOCK (5 BLK),,MISS Hayes 33' 3PT Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203416,Emma Meesseman,1611661322.0,Washington,Mystics,WAS,0
+1021700118,536,4,0,5,1:50 PM,0:00,Toliver REBOUND (Off:1 Def:5),,,,,4.0,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1021700118,537,13,0,5,1:51 PM,0:00,,End of 1st OT (1:51 PM EST),,96 - 100,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

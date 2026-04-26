@@ -1,0 +1,355 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700005,0,12,0,1,6:12 PM,10:00,,Start of 1st Period (6:12 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,1,10,0,1,6:12 PM,10:00,Jump Ball Griner vs. Paris: Tip to Talbot,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,1
+1021700005,2,6,2,1,6:12 PM,9:41,,,Paris S.FOUL (P1.T1),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,3,3,11,1,6:12 PM,9:41,MISS Griner Free Throw 1 of 2,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,4,4,1,1,6:12 PM,9:41,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,5,3,12,1,6:13 PM,9:41,Griner Free Throw 2 of 2 (1 PTS),,,0 - 1,1,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,7,6,2,1,6:13 PM,9:29,Talbot S.FOUL (P1.T1),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,8,3,11,1,6:13 PM,9:29,,,MISS Christmas-Kelly Free Throw 1 of 2,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,9,4,1,1,6:13 PM,9:29,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,10,3,12,1,6:14 PM,9:29,,,Christmas-Kelly Free Throw 2 of 2 (1 PTS),1 - 1,TIE,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,12,1,42,1,6:14 PM,9:14,Talbot 1' Driving Layup (2 PTS),,,1 - 3,2,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,13,2,79,1,6:14 PM,8:46,,,MISS Diggins-Smith 16' Pullup Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,14,4,0,1,6:14 PM,8:43,Talbot REBOUND (Off:0 Def:1),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,15,1,79,1,6:15 PM,8:39,Robinson 14' Pullup Jump Shot (2 PTS),,,1 - 5,4,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,16,2,1,1,6:15 PM,8:13,,,MISS Johnson 3PT Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,17,4,0,1,6:15 PM,8:10,Talbot REBOUND (Off:0 Def:2),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,18,1,1,1,6:15 PM,8:04,Taurasi 3PT Jump Shot (3 PTS) (Robinson 1 AST),,,1 - 8,7,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,19,9,1,1,6:15 PM,8:03,,,Wings Timeout: Regular (Reg.1 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,22,2,42,1,6:18 PM,7:50,,,MISS Gray 2' Driving Layup,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,23,4,0,1,6:18 PM,7:48,Griner REBOUND (Off:0 Def:1),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,24,1,3,1,6:18 PM,7:32,Griner 7' Hook Shot (3 PTS),,,1 - 10,9,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,25,1,42,1,6:18 PM,7:17,,,Gray 1' Driving Layup (2 PTS),3 - 10,7,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,26,2,47,1,6:19 PM,6:58,MISS Griner 10' Turnaround Jump Shot,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,27,4,0,1,6:19 PM,6:55,,,Christmas-Kelly REBOUND (Off:0 Def:1),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,28,2,1,1,6:19 PM,6:45,,,MISS Christmas-Kelly 3PT Jump Shot,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,29,4,0,1,6:19 PM,6:43,,,Johnson REBOUND (Off:1 Def:0),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,30,5,1,1,6:19 PM,6:42,Little STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T1),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,31,6,27,1,6:19 PM,6:32,,,Diggins-Smith Personal Block Foul (P1.T2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,32,2,1,1,6:20 PM,6:17,MISS Little 3PT Jump Shot,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,33,4,0,1,6:20 PM,6:15,,,Christmas-Kelly REBOUND (Off:0 Def:2),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,34,6,4,1,6:20 PM,6:00,,,Johnson OFF.Foul (P1),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,35,5,5,1,6:20 PM,6:00,,,Johnson Foul Turnover (P2.T2),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,36,6,1,1,6:20 PM,5:50,,,Gray P.FOUL (P1.T3),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,37,1,98,1,6:21 PM,5:44,Little 2' Cutting Layup Shot (2 PTS) (Robinson 2 AST),,,3 - 12,9,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,38,6,2,1,6:21 PM,5:23,Griner S.FOUL (P1.T2),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,39,3,13,1,6:22 PM,5:23,,,Gray Free Throw 1 of 3 (3 PTS),4 - 12,8,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,41,3,14,1,6:22 PM,5:23,,,MISS Gray Free Throw 2 of 3,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,42,4,1,1,6:22 PM,5:23,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,43,3,15,1,6:22 PM,5:23,,,Gray Free Throw 3 of 3 (4 PTS),5 - 12,7,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,45,1,73,1,6:22 PM,5:10,Griner 1' Driving Reverse Layup (5 PTS) (Robinson 3 AST),,,5 - 14,9,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,46,6,4,1,6:22 PM,5:01,,,Johnson OFF.Foul (P2),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,47,5,5,1,6:22 PM,5:01,,,Johnson Foul Turnover (P3.T3),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,48,8,0,1,6:23 PM,5:01,,,SUB: Thornton FOR Johnson,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,49,8,0,1,6:23 PM,5:01,,,SUB: Davis FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,50,7,1,1,6:23 PM,5:01,,,Wings Violation: Delay of game Violation,,,3.0,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700005,51,1,42,1,6:23 PM,4:52,Robinson 1' Driving Layup (4 PTS),,,5 - 16,11,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,52,6,1,1,6:24 PM,4:35,Talbot P.FOUL (P2.T3),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,53,10,0,1,6:24 PM,4:29,,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,3,1611661321,,,,,,1
+1021700005,54,7,3,1,6:25 PM,4:29,Little Violation:Lane,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021700005,55,1,1,1,6:25 PM,4:18,,,Thornton 19' Jump Shot (2 PTS) (Diggins-Smith 1 AST),7 - 16,9,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,56,5,40,1,6:25 PM,4:10,Robinson Out of Bounds Lost Ball Turnover (P1.T1),,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,58,2,5,1,6:26 PM,4:00,Griner BLOCK (1 BLK),,MISS Diggins-Smith 2' Layup,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1021700005,59,4,0,1,6:26 PM,4:00,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,60,1,1,1,6:26 PM,3:54,,,Diggins-Smith 17' Jump Shot (2 PTS),9 - 16,7,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,61,2,1,1,6:26 PM,3:40,MISS Taurasi 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,62,4,0,1,6:26 PM,3:40,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,63,8,0,1,6:26 PM,3:40,SUB: Murphy FOR Taurasi,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,64,6,2,1,6:27 PM,3:27,Talbot S.FOUL (P3.T4),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,65,3,11,1,6:27 PM,3:27,,,Davis Free Throw 1 of 2 (1 PTS),10 - 16,6,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,67,8,0,1,6:27 PM,3:27,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,68,8,0,1,6:27 PM,3:27,SUB: Mitchell FOR Talbot,,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,69,8,0,1,6:27 PM,3:27,SUB: George FOR Little,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,70,3,12,1,6:28 PM,3:27,,,Davis Free Throw 2 of 2 (2 PTS),11 - 16,5,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,72,1,81,1,6:28 PM,3:11,Murphy 18' Pullup Bank Shot (2 PTS),,,11 - 18,7,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,73,1,1,1,6:28 PM,2:54,,,Davis 11' Jump Shot (4 PTS),13 - 18,5,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,74,2,79,1,6:28 PM,2:47,MISS Robinson 13' Pullup Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,75,4,0,1,6:28 PM,2:46,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,76,8,0,1,6:28 PM,2:46,,,SUB: Chong FOR Diggins-Smith,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,77,1,5,1,6:29 PM,2:37,Griner 2' Layup (7 PTS) (Murphy 1 AST),,,13 - 20,7,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,78,2,1,1,6:29 PM,2:13,,,MISS Plaisance 24' 3PT Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,79,4,0,1,6:29 PM,2:10,George REBOUND (Off:0 Def:1),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,80,6,4,1,6:30 PM,1:58,George OFF.Foul (P1),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,81,5,5,1,6:30 PM,1:58,George Foul Turnover (P1.T2),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,82,8,0,1,6:30 PM,1:58,SUB: Turner FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,83,2,47,1,6:31 PM,1:36,,,MISS Thornton 9' Turnaround Jump Shot,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,84,4,0,1,6:31 PM,1:32,George REBOUND (Off:0 Def:2),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,85,6,2,1,6:31 PM,1:23,,,Thornton S.FOUL (P1.T4),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,86,3,11,1,6:31 PM,1:23,Griner Free Throw 1 of 2 (8 PTS),,,13 - 21,8,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,88,3,12,1,6:31 PM,1:23,Griner Free Throw 2 of 2 (9 PTS),,,13 - 22,9,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,90,6,2,1,6:32 PM,1:12,Griner S.FOUL (P2.PN),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,92,3,11,1,6:33 PM,1:12,,,Davis Free Throw 1 of 2 (5 PTS),14 - 22,8,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,94,8,0,1,6:33 PM,1:12,SUB: Little FOR Griner,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,95,3,12,1,6:33 PM,1:12,,,Davis Free Throw 2 of 2 (6 PTS),15 - 22,7,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,97,2,1,1,6:33 PM,0:54,MISS Turner 24' 3PT Jump Shot,,,,,4.0,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,98,4,0,1,6:33 PM,0:52,,,Christmas-Kelly REBOUND (Off:0 Def:3),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,99,2,5,1,6:34 PM,0:46,,,MISS Christmas-Kelly 2' Layup,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,100,4,0,1,6:34 PM,0:45,,,Thornton REBOUND (Off:1 Def:0),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,101,6,2,1,6:34 PM,0:45,George S.FOUL (P2.PN),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,102,3,11,1,6:34 PM,0:45,,,Thornton Free Throw 1 of 2 (3 PTS),16 - 22,6,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,104,8,0,1,6:34 PM,0:45,SUB: Cannon FOR George,,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,4,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,105,3,12,1,6:34 PM,0:45,,,Thornton Free Throw 2 of 2 (4 PTS),17 - 22,5,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,107,2,1,1,6:35 PM,0:28,MISS Mitchell 3PT Jump Shot,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,108,4,0,1,6:35 PM,0:26,,,Thornton REBOUND (Off:1 Def:1),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,109,1,1,1,6:35 PM,0:20,,,Plaisance 14' Jump Shot (2 PTS) (Thornton 1 AST),19 - 22,3,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,110,2,5,1,6:35 PM,0:02,MISS Little 2' Layup,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,111,4,0,1,6:35 PM,0:01,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,112,13,0,1,6:36 PM,0:00,,End of 1st Period (6:36 PM EST),,19 - 22,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,114,12,0,2,6:39 PM,10:00,,Start of 2nd Period (6:39 PM EST),,19 - 22,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,115,1,3,2,6:39 PM,9:36,,,Plaisance 7' Hook Shot (4 PTS) (Diggins-Smith 2 AST),21 - 22,1,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,116,6,1,2,6:39 PM,9:27,,,Davis P.FOUL (P1.T1),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,117,5,1,2,6:40 PM,9:16,Taurasi Bad Pass Turnover (P1.T3),,Thornton STEAL (1 STL),,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,118,1,1,2,6:40 PM,9:10,,,Davis 17' Jump Shot (8 PTS) (Thornton 2 AST),23 - 22,-1,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,119,6,29,2,6:40 PM,8:59,,,Plaisance Shooting Block Foul (P1.T2),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,120,3,11,2,6:40 PM,8:59,MISS Mitchell Free Throw 1 of 2,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,121,4,1,2,6:40 PM,8:59,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,122,3,12,2,6:40 PM,8:59,MISS Mitchell Free Throw 2 of 2,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,124,4,0,2,6:41 PM,8:59,,,Thornton REBOUND (Off:1 Def:2),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,126,5,1,2,6:41 PM,8:36,Little STEAL (2 STL),,Chong Bad Pass Turnover (P1.T4),,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,127,5,45,2,6:41 PM,8:33,Little Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,128,6,26,2,6:42 PM,8:13,,,Diggins-Smith Offensive Charge Foul (P2.T3),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,129,5,5,2,6:42 PM,8:13,,,Diggins-Smith Foul Turnover (P1.T5),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,130,8,0,2,6:42 PM,8:13,SUB: Robinson FOR Mitchell,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,131,2,1,2,6:43 PM,7:59,MISS Cannon 3' Jump Shot,,,,,4.0,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,132,4,0,2,6:43 PM,7:57,,,Thornton REBOUND (Off:1 Def:3),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,133,2,1,2,6:43 PM,7:44,,,MISS Plaisance 25' 3PT Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,134,4,0,2,6:43 PM,7:42,Robinson REBOUND (Off:0 Def:1),,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,135,1,5,2,6:43 PM,7:35,Little 2' Layup (4 PTS) (Robinson 4 AST),,,23 - 24,1,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,136,1,98,2,6:43 PM,7:12,,,Plaisance 1' Cutting Layup Shot (6 PTS) (Davis 1 AST),25 - 24,-1,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,137,2,1,2,6:44 PM,7:01,MISS Murphy 24' 3PT Jump Shot,,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,138,4,0,2,6:44 PM,6:59,,,Davis REBOUND (Off:0 Def:1),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,139,1,1,2,6:44 PM,6:52,,,Davis 15' Jump Shot (10 PTS),27 - 24,-3,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,140,9,1,2,6:44 PM,6:45,MERCURY Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,142,8,0,2,6:46 PM,6:45,SUB: Griner FOR Cannon,,,,,4.0,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,143,8,0,2,6:46 PM,6:45,,,SUB: Paris FOR Thornton,,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,144,8,0,2,6:46 PM,6:45,,,SUB: Johnson FOR Davis,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,145,8,0,2,6:46 PM,6:45,,,SUB: Gray FOR Plaisance,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,146,8,0,2,6:46 PM,6:45,,,SUB: Christmas-Kelly FOR Chong,,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,147,2,47,2,6:47 PM,6:28,MISS Little 12' Turnaround Jump Shot,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,148,4,0,2,6:47 PM,6:24,,,Johnson REBOUND (Off:1 Def:1),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,149,6,17,2,6:47 PM,6:09,MERCURY T.Foul (Def. 3 Sec Little ),,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,150,3,16,2,6:47 PM,6:09,,,Diggins-Smith Free Throw Technical (3 PTS),28 - 24,-4,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,152,5,11,2,6:48 PM,5:54,,,Wings Turnover: Shot Clock (T#6),,,3.0,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700005,153,6,2,2,6:48 PM,5:42,,,Paris S.FOUL (P2.T4),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,154,3,11,2,6:49 PM,5:42,Griner Free Throw 1 of 2 (10 PTS),,,28 - 25,-3,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,156,3,12,2,6:49 PM,5:42,Griner Free Throw 2 of 2 (11 PTS),,,28 - 26,-2,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,158,2,98,2,6:49 PM,5:28,,,MISS Paris 2' Cutting Layup Shot,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,159,4,0,2,6:49 PM,5:26,,,Paris REBOUND (Off:1 Def:0),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,160,2,1,2,6:49 PM,5:23,,,MISS Gray 18' Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,161,4,0,2,6:49 PM,5:22,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,162,2,1,2,6:50 PM,5:07,MISS Taurasi 15' Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,163,4,0,2,6:50 PM,5:05,,,Johnson REBOUND (Off:1 Def:2),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,164,6,4,2,6:50 PM,4:59,,,Paris OFF.Foul (P3),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,165,5,5,2,6:50 PM,4:59,,,Paris Foul Turnover (P1.T7),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,166,8,0,2,6:50 PM,4:59,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,167,1,47,2,6:50 PM,4:45,Griner 12' Turnaround Jump Shot (13 PTS) (Robinson 5 AST),,,28 - 28,TIE,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,168,1,42,2,6:51 PM,4:20,,,Gray Driving Layup (6 PTS),30 - 28,-2,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,169,6,1,2,6:51 PM,4:12,,,Christmas-Kelly P.FOUL (P1.PN),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,170,8,0,2,6:51 PM,4:12,SUB: Prince FOR Taurasi,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,171,5,45,2,6:51 PM,4:06,Robinson Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,172,5,1,2,6:52 PM,3:52,Little STEAL (3 STL),,Diggins-Smith Bad Pass Turnover (P2.T8),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,173,5,45,2,6:52 PM,3:48,Little Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,174,6,1,2,6:53 PM,3:35,Prince P.FOUL (P1.T1),,,,,4.0,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,175,6,1,2,6:53 PM,3:35,Little P.FOUL (P1.T2),,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,176,9,1,2,6:53 PM,3:35,,,Wings Timeout: Regular (Reg.2 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,180,2,1,2,6:56 PM,3:28,,,MISS Johnson 17' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,181,4,0,2,6:56 PM,3:27,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,182,2,82,2,6:56 PM,3:18,,,MISS Diggins-Smith 9' Driving Bank Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,183,4,0,2,6:57 PM,3:17,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,184,1,42,2,6:57 PM,3:07,Robinson 1' Driving Layup (6 PTS),,,30 - 30,TIE,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,186,6,5,2,6:58 PM,2:46,Griner IN.FOUL (P3.T3),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,187,3,10,2,6:58 PM,2:46,,,MISS Diggins-Smith Free Throw 1 of 1,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,188,4,1,2,6:58 PM,2:46,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,189,8,0,2,6:58 PM,2:46,SUB: George FOR Griner,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,190,8,0,2,6:58 PM,2:46,,,SUB: Davis FOR Gray,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,191,1,98,2,6:58 PM,2:38,,,Johnson 3' Cutting Layup Shot (2 PTS) (Davis 2 AST),32 - 30,-2,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,192,1,5,2,6:59 PM,2:20,Little 1' Layup (6 PTS),,,32 - 32,TIE,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,193,6,2,2,6:59 PM,2:20,,,Christmas-Kelly S.FOUL (P2.PN),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,194,8,0,2,6:59 PM,2:20,SUB: Taurasi FOR Murphy,,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,195,3,10,2,6:59 PM,2:20,MISS Little Free Throw 1 of 1,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,197,4,0,2,6:59 PM,2:19,,,Johnson REBOUND (Off:1 Def:3),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,198,2,79,2,7:00 PM,2:01,,,MISS Johnson 9' Pullup Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,199,4,0,2,7:00 PM,1:58,George REBOUND (Off:0 Def:3),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,200,2,1,2,7:00 PM,1:42,MISS George 20' Jump Shot,,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,201,4,0,2,7:00 PM,1:40,,,Diggins-Smith REBOUND (Off:0 Def:1),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,202,2,79,2,7:00 PM,1:31,,,MISS Diggins-Smith 17' Pullup Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,203,4,0,2,7:00 PM,1:28,Robinson REBOUND (Off:0 Def:2),,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,204,2,80,2,7:00 PM,1:14,MISS Prince 3PT Step Back Jump Shot,,,,,4.0,1628297,Alexis Prince,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,205,4,0,2,7:00 PM,1:09,,,Johnson REBOUND (Off:1 Def:4),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,206,5,40,2,7:01 PM,0:53,,,Davis Out of Bounds Lost Ball Turnover (P1.T9),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,207,2,1,2,7:01 PM,0:37,MISS Taurasi 24' 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,208,4,0,2,7:01 PM,0:34,,,Plaisance REBOUND (Off:0 Def:1),,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,209,2,82,2,7:01 PM,0:25,,,MISS Diggins-Smith 3' Driving Bank Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,210,4,0,2,7:02 PM,0:22,George REBOUND (Off:0 Def:4),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,211,1,79,2,7:02 PM,0:04,Robinson 18' Pullup Jump Shot (8 PTS),,,32 - 34,2,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,212,13,0,2,7:02 PM,0:00,,End of 2nd Period (7:02 PM EST),,32 - 34,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,214,12,0,3,7:17 PM,10:00,,Start of 3rd Period (7:17 PM EST),,32 - 34,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,215,2,98,3,7:18 PM,9:46,,,MISS Paris 2' Cutting Layup Shot,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,216,4,0,3,7:18 PM,9:44,,,Paris REBOUND (Off:2 Def:0),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,217,2,42,3,7:18 PM,9:39,,,MISS Johnson 2' Driving Layup,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,219,4,0,3,7:18 PM,9:36,,,Johnson REBOUND (Off:2 Def:4),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,218,1,5,3,7:18 PM,9:36,,,Johnson 2' Layup (4 PTS),34 - 34,TIE,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,220,2,1,3,7:18 PM,9:25,MISS Taurasi 24' 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,221,4,0,3,7:18 PM,9:23,,,Johnson REBOUND (Off:2 Def:5),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,222,2,1,3,7:18 PM,9:04,Taurasi BLOCK (1 BLK),,MISS Gray 3' Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1021700005,223,4,0,3,7:18 PM,8:59,Robinson REBOUND (Off:0 Def:3),,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,224,1,66,3,7:19 PM,8:44,Little 6' Jump Bank Shot (8 PTS) (Robinson 6 AST),,,34 - 36,2,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,225,2,1,3,7:19 PM,8:27,,,MISS Diggins-Smith 3PT Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,226,4,0,3,7:19 PM,8:25,Griner REBOUND (Off:0 Def:2),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,227,1,1,3,7:19 PM,8:16,Little 3PT Jump Shot (11 PTS) (Robinson 7 AST),,,34 - 39,5,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,228,2,1,3,7:20 PM,7:55,,,MISS Johnson 3PT Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,229,4,0,3,7:20 PM,7:53,Talbot REBOUND (Off:0 Def:3),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,230,2,44,3,7:20 PM,7:39,MISS Little 2' Reverse Layup,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,231,4,0,3,7:20 PM,7:35,,,Paris REBOUND (Off:2 Def:1),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,232,1,1,3,7:20 PM,7:29,,,Gray 24' 3PT Jump Shot (9 PTS),37 - 39,2,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,233,2,1,3,7:20 PM,7:04,MISS Robinson 4' Jump Shot,,Diggins-Smith BLOCK (1 BLK),,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1
+1021700005,234,4,0,3,7:20 PM,7:02,,,Gray REBOUND (Off:0 Def:1),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,235,2,1,3,7:20 PM,6:56,,,MISS Gray 24' 3PT Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,236,4,0,3,7:21 PM,6:53,,,Johnson REBOUND (Off:3 Def:5),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,237,2,47,3,7:21 PM,6:51,,,MISS Johnson 7' Turnaround Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,238,4,0,3,7:21 PM,6:48,Talbot REBOUND (Off:0 Def:4),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,239,6,4,3,7:21 PM,6:45,Taurasi OFF.Foul (P1),,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,240,5,5,3,7:21 PM,6:45,Taurasi Foul Turnover (P2.T7),,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,241,8,0,3,7:21 PM,6:45,,,SUB: Davis FOR Christmas-Kelly,,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,242,1,42,3,7:21 PM,6:35,,,Davis Driving Layup (12 PTS),39 - 39,TIE,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,244,5,1,3,7:22 PM,6:23,Robinson Bad Pass Turnover (P3.T8),,Davis STEAL (1 STL),,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,245,6,2,3,7:22 PM,6:20,Talbot S.FOUL (P4.T1),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,246,3,11,3,7:22 PM,6:20,,,Davis Free Throw 1 of 2 (13 PTS),40 - 39,-1,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,248,8,0,3,7:22 PM,6:20,SUB: Mitchell FOR Talbot,,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,249,3,12,3,7:22 PM,6:20,,,Davis Free Throw 2 of 2 (14 PTS),41 - 39,-2,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,251,2,1,3,7:23 PM,5:57,MISS Griner 16' Jump Shot,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,252,4,0,3,7:23 PM,5:55,,,Diggins-Smith REBOUND (Off:0 Def:2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,253,2,1,3,7:23 PM,5:46,,,MISS Diggins-Smith 20' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,254,4,0,3,7:23 PM,5:44,,,Diggins-Smith REBOUND (Off:1 Def:2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,255,5,1,3,7:23 PM,5:29,Mitchell STEAL (1 STL),,Gray Bad Pass Turnover (P1.T10),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,256,6,1,3,7:24 PM,5:29,,,Diggins-Smith P.FOUL (P3.T1),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,257,18,0,3,7:24 PM,5:29,,Support Ruling,,,,,256,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700005,258,8,0,3,7:25 PM,5:29,,,SUB: Chong FOR Diggins-Smith,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,5,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,259,2,1,3,7:25 PM,5:19,MISS Taurasi 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,260,4,0,3,7:25 PM,5:17,,,Gray REBOUND (Off:0 Def:2),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,261,1,42,3,7:25 PM,4:55,,,Johnson 2' Driving Layup (6 PTS),43 - 39,-4,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,263,2,86,3,7:26 PM,4:39,MISS Taurasi 15' Turnaround Fadeaway Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,264,4,0,3,7:26 PM,4:35,,,Gray REBOUND (Off:0 Def:3),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,265,5,45,3,7:26 PM,4:27,,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,266,9,4,3,7:26 PM,4:27,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,270,6,1,3,7:29 PM,4:19,,,Paris P.FOUL (P4.T2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,271,8,0,3,7:29 PM,4:19,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,272,5,1,3,7:29 PM,4:11,Mitchell Bad Pass Turnover (P1.T9),,Plaisance STEAL (1 STL),,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,273,5,2,3,7:29 PM,4:00,Taurasi STEAL (1 STL),,Davis Lost Ball Turnover (P2.T12),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,274,2,1,3,7:30 PM,3:53,MISS Taurasi 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,275,4,0,3,7:30 PM,3:51,,,Gray REBOUND (Off:0 Def:4),,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,276,1,41,3,7:30 PM,3:47,,,Gray 1' Running Layup (11 PTS),45 - 39,-6,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,277,2,1,3,7:30 PM,3:23,MISS Griner 10' Jump Shot,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,278,4,0,3,7:30 PM,3:21,,,Johnson REBOUND (Off:3 Def:6),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,279,5,1,3,7:30 PM,3:04,Little STEAL (4 STL),,Chong Bad Pass Turnover (P2.T13),,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,280,6,1,3,7:30 PM,3:04,,,Johnson P.FOUL (P3.T3),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,281,8,0,3,7:31 PM,3:04,SUB: Murphy FOR Taurasi,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,282,8,0,3,7:31 PM,3:04,,,SUB: Thornton FOR Johnson,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,283,2,1,3,7:31 PM,2:46,MISS Robinson 17' Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,284,4,0,3,7:31 PM,2:44,,,Davis REBOUND (Off:0 Def:2),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,285,6,27,3,7:31 PM,2:41,Robinson Personal Block Foul (P1.T2),,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,286,2,1,3,7:32 PM,2:28,,,MISS Plaisance 25' 3PT Jump Shot,,,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,287,4,0,3,7:32 PM,2:27,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,288,6,3,3,7:32 PM,2:27,,,Chong L.B.FOUL (P1.T4),,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,289,1,1,3,7:32 PM,2:14,Mitchell 3PT Jump Shot (3 PTS) (Griner 1 AST),,,45 - 42,-3,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,290,5,45,3,7:33 PM,1:52,,,Chong Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,291,1,1,3,7:33 PM,1:32,Mitchell 3PT Jump Shot (6 PTS) (Robinson 8 AST),,,45 - 45,TIE,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,292,2,1,3,7:33 PM,1:18,,,MISS Gray 11' Jump Shot,,,5.0,1628277,Allisha Gray,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,293,4,0,3,7:33 PM,1:16,,,Thornton REBOUND (Off:2 Def:3),,,5.0,203866,Kayla Thornton,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,294,1,1,3,7:34 PM,1:11,,,Plaisance 10' Jump Shot (8 PTS) (Davis 3 AST),47 - 45,-2,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,295,5,2,3,7:34 PM,0:54,Robinson Lost Ball Turnover (P4.T10),,Davis STEAL (2 STL),,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,296,1,5,3,7:34 PM,0:54,,,Plaisance 1' Layup (10 PTS) (Davis 4 AST),49 - 45,-4,5.0,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,297,1,79,3,7:34 PM,0:42,Mitchell 19' Pullup Jump Shot (8 PTS),,,49 - 47,-2,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,298,5,40,3,7:35 PM,0:18,,,Chong Out of Bounds Lost Ball Turnover (P4.T15),,,5.0,1628267,Saniya Chong,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,299,5,4,3,7:35 PM,0:03,Mitchell Traveling Turnover (P2.T11),,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021700005,300,13,0,3,7:36 PM,0:00,,End of 3rd Period (7:36 PM EST),,49 - 47,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,302,12,0,4,7:38 PM,10:00,,Start of 4th Period (7:38 PM EST),,49 - 47,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,303,2,1,4,7:38 PM,9:46,MISS Taurasi 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,304,4,0,4,7:38 PM,9:44,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,306,5,4,4,7:39 PM,9:26,,,Johnson Traveling Turnover (P5.T16),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,307,1,58,4,7:39 PM,9:16,Griner 5' Turnaround Hook Shot (15 PTS) (Mitchell 1 AST),,,49 - 49,TIE,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,308,6,1,4,7:39 PM,8:59,Murphy P.FOUL (P1.T1),,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,5,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,309,1,5,4,7:40 PM,8:50,,,Johnson 2' Layup (8 PTS) (Diggins-Smith 3 AST),51 - 49,-2,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,310,6,2,4,7:40 PM,8:50,Murphy S.FOUL (P2.T2),,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,311,3,10,4,7:40 PM,8:50,,,Johnson Free Throw 1 of 1 (9 PTS),52 - 49,-3,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,313,2,1,4,7:41 PM,8:37,MISS Mitchell 3PT Jump Shot,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,314,4,0,4,7:41 PM,8:34,,,Paris REBOUND (Off:2 Def:2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,315,2,1,4,7:41 PM,8:19,,,MISS Davis 10' Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,316,4,0,4,7:41 PM,8:17,,,Johnson REBOUND (Off:4 Def:6),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,318,8,0,4,7:41 PM,8:17,SUB: George FOR Little,,,,,4.0,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,4,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,319,2,1,4,7:41 PM,8:14,,,MISS Diggins-Smith 13' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,320,4,0,4,7:41 PM,8:12,Murphy REBOUND (Off:0 Def:1),,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,321,2,47,4,7:41 PM,8:01,MISS Griner 7' Turnaround Jump Shot,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,322,4,0,4,7:41 PM,7:58,,,Johnson REBOUND (Off:4 Def:7),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,323,2,1,4,7:42 PM,7:50,,,MISS Davis 24' 3PT Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,324,4,0,4,7:42 PM,7:47,George REBOUND (Off:0 Def:5),,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,325,2,1,4,7:42 PM,7:30,MISS Griner 5' Jump Shot,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,326,4,0,4,7:42 PM,7:28,,,Johnson REBOUND (Off:4 Def:8),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,327,6,1,4,7:42 PM,7:17,Taurasi P.FOUL (P2.T3),,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,328,8,0,4,7:42 PM,7:17,SUB: Talbot FOR Murphy,,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,4,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,329,8,0,4,7:42 PM,7:17,SUB: Robinson FOR Mitchell,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,330,5,45,4,7:43 PM,7:08,,,Christmas-Kelly Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1,0,,,,,,1
+1021700005,331,2,79,4,7:43 PM,6:45,MISS Robinson 16' Pullup Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,332,4,0,4,7:43 PM,6:43,,,Johnson REBOUND (Off:4 Def:9),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,333,1,1,4,7:44 PM,6:24,,,Davis 9' Jump Shot (16 PTS),54 - 49,-5,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,334,9,1,4,7:44 PM,6:23,MERCURY Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,338,1,47,4,7:46 PM,6:07,Griner 5' Turnaround Jump Shot (17 PTS),,,54 - 51,-3,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,339,6,2,4,7:46 PM,6:07,,,Paris S.FOUL (P5.T1),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,340,3,10,4,7:47 PM,6:07,Griner Free Throw 1 of 1 (18 PTS),,,54 - 52,-2,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,342,2,1,4,7:47 PM,5:45,Griner BLOCK (2 BLK),,MISS Johnson 3' Jump Shot,,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1021700005,344,4,0,4,7:47 PM,5:41,,,Paris REBOUND (Off:3 Def:2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,343,1,72,4,7:47 PM,5:41,,,Paris 1' Putback Layup (2 PTS),56 - 52,-4,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,345,5,2,4,7:48 PM,5:21,Robinson Lost Ball Turnover (P5.T12),,Christmas-Kelly STEAL (1 STL),,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,346,2,79,4,7:48 PM,5:14,,,MISS Davis 20' Pullup Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,347,4,0,4,7:48 PM,5:10,Talbot REBOUND (Off:0 Def:5),,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,348,1,41,4,7:48 PM,5:08,George Running Layup (2 PTS) (Robinson 9 AST),,,56 - 54,-2,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,349,6,2,4,7:48 PM,4:46,Griner S.FOUL (P4.T4),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,350,3,11,4,7:48 PM,4:46,,,Davis Free Throw 1 of 2 (17 PTS),57 - 54,-3,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,352,3,12,4,7:49 PM,4:46,,,Davis Free Throw 2 of 2 (18 PTS),58 - 54,-4,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,354,5,1,4,7:49 PM,4:36,Robinson Bad Pass Turnover (P6.T13),,Diggins-Smith STEAL (1 STL),,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,355,1,78,4,7:49 PM,4:15,,,Diggins-Smith 10' Floating Jump Shot (5 PTS),60 - 54,-6,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,356,9,2,4,7:50 PM,4:14,MERCURY Timeout: Short (Full 2 Short 1),,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,360,2,1,4,7:51 PM,3:57,MISS Taurasi 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,361,4,0,4,7:51 PM,3:55,,,Davis REBOUND (Off:0 Def:3),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,362,2,1,4,7:51 PM,3:31,,,MISS Diggins-Smith 20' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,364,4,0,4,7:51 PM,3:27,,,Paris REBOUND (Off:4 Def:2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,363,2,5,4,7:51 PM,3:27,,,MISS Paris 2' Layup,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,365,4,0,4,7:51 PM,3:25,,,Paris REBOUND (Off:5 Def:2),,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,366,6,2,4,7:51 PM,3:19,Griner S.FOUL (P5.PN),,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,1,0,,,,,,1
+1021700005,367,3,11,4,7:52 PM,3:19,,,Diggins-Smith Free Throw 1 of 2 (6 PTS),61 - 54,-7,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,369,3,12,4,7:52 PM,3:19,,,Diggins-Smith Free Throw 2 of 2 (7 PTS),62 - 54,-8,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,0
+1021700005,371,6,2,4,7:52 PM,3:03,,,Diggins-Smith S.FOUL (P4.T2),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,372,3,11,4,7:53 PM,3:03,MISS Talbot Free Throw 1 of 2,,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,373,4,1,4,7:53 PM,3:03,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,374,3,12,4,7:53 PM,3:03,MISS Talbot Free Throw 2 of 2,,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,376,4,0,4,7:53 PM,3:03,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,377,1,82,4,7:53 PM,2:41,,,Davis 6' Driving Bank Shot (20 PTS),64 - 54,-10,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,378,5,1,4,7:54 PM,2:24,Talbot Bad Pass Turnover (P1.T14),,Christmas-Kelly STEAL (2 STL),,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,1
+1021700005,379,1,41,4,7:54 PM,2:21,,,Christmas-Kelly 1' Running Layup (3 PTS),66 - 54,-12,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,380,9,2,4,7:54 PM,2:19,MERCURY Timeout: Short (Full 2 Short 2),,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,382,9,1,4,7:55 PM,2:19,,,Wings Timeout: Regular (Reg.3 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,384,8,0,4,7:56 PM,2:19,SUB: Mitchell FOR Talbot,,,,,4.0,203855,Stephanie Talbot,1611661317.0,Phoenix,Mercury,PHO,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,385,8,0,4,7:56 PM,2:19,SUB: Murphy FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661317.0,Phoenix,Mercury,PHO,4,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,386,8,0,4,7:56 PM,2:19,SUB: Little FOR George,,,,,4.0,204297,Cayla George,1611661317.0,Phoenix,Mercury,PHO,4,201067,Camille Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,387,8,0,4,7:56 PM,2:19,,,SUB: Plaisance FOR Paris,,,5.0,201907,Courtney Paris,1611661321.0,Dallas,Wings,DAL,5,203849,Theresa Plaisance,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0
+1021700005,388,6,2,4,7:57 PM,2:06,,,Christmas-Kelly S.FOUL (P3.T3),,,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,4,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021700005,389,3,13,4,7:58 PM,2:06,MISS Murphy Free Throw 1 of 3,,,,,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,390,4,1,4,7:58 PM,2:06,MERCURY Rebound,,,,,2.0,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,391,3,14,4,7:58 PM,2:06,Murphy Free Throw 2 of 3 (3 PTS),,,66 - 55,-11,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,393,3,15,4,7:58 PM,2:06,Murphy Free Throw 3 of 3 (4 PTS),,,66 - 56,-10,4.0,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021700005,395,1,42,4,7:58 PM,1:46,,,Christmas-Kelly 3' Driving Layup (5 PTS),68 - 56,-12,5.0,202640,Karima Christmas-Kelly,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,396,2,1,4,7:59 PM,1:37,MISS Taurasi 3PT Jump Shot,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,397,4,0,4,7:59 PM,1:35,,,Davis REBOUND (Off:0 Def:4),,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,398,2,1,4,7:59 PM,1:10,,,MISS Diggins-Smith 20' Jump Shot,,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,399,4,0,4,7:59 PM,1:09,,,Wings Rebound,,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,400,9,1,4,7:59 PM,1:09,,,Wings Timeout: Regular (Reg.4 Short 0),,,3.0,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700005,403,8,0,4,8:01 PM,1:09,SUB: Turner FOR Griner,,,,,4.0,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,404,8,0,4,8:01 PM,1:09,SUB: Cannon FOR Taurasi,,,,,4.0,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1628242,Emma Cannon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021700005,405,5,1,4,8:01 PM,0:53,Murphy STEAL (1 STL),,Diggins-Smith Bad Pass Turnover (P3.T18),,,5.0,203400,Skylar Diggins-Smith,1611661321.0,Dallas,Wings,DAL,4,201062,Shay Murphy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021700005,406,2,1,4,8:01 PM,0:46,MISS Mitchell 24' 3PT Jump Shot,,,,,4.0,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,407,4,0,4,8:01 PM,0:44,,,Johnson REBOUND (Off:4 Def:10),,,5.0,203017,Glory Johnson,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,0,0,,,,,,1
+1021700005,408,2,1,4,8:01 PM,0:24,Mitchell BLOCK (1 BLK),,MISS Davis 12' Jump Shot,,,5.0,1628273,Kaela Davis,1611661321.0,Dallas,Wings,DAL,0,0,,,,,,4,201507,Leilani Mitchell,1611661317.0,Phoenix,Mercury,PHO,1
+1021700005,409,4,0,4,8:01 PM,0:21,Turner REBOUND (Off:0 Def:1),,,,,4.0,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,410,1,42,4,8:01 PM,0:17,Turner 1' Driving Layup (2 PTS),,,68 - 58,-10,4.0,203389,Yvonne Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021700005,411,13,0,4,8:02 PM,0:00,,End of 4th Period (8:02 PM EST),,68 - 58,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

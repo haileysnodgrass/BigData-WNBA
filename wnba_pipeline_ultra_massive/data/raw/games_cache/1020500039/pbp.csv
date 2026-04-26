@@ -1,0 +1,379 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020500039,0,12,0,1,10:10 PM,20:00,,Start of 1st Half (10:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,1,10,0,1,10:10 PM,20:00,Jump Ball Griffith vs. Schumacher: Tip to Miller,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0
+1020500039,2,2,1,1,10:10 PM,19:35,,,MISS White 14' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,3,4,0,1,10:10 PM,19:33,Griffith REBOUND (Off:0 Def:1),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,4,5,2,1,10:11 PM,19:17,Walker Lost Ball Turnover (P1.T1),,White STEAL (1 STL),,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,5,2,1,1,10:11 PM,19:10,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,6,4,0,1,10:11 PM,19:09,Walker REBOUND (Off:0 Def:1),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,7,5,1,1,10:11 PM,18:53,Newton Bad Pass Turnover (P1.T2),,Williams STEAL (1 STL),,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,8,2,1,1,10:11 PM,18:46,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,9,4,0,1,10:11 PM,18:44,Penicheiro REBOUND (Off:0 Def:1),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,10,5,1,1,10:11 PM,18:41,Penicheiro Bad Pass Turnover (P1.T3),,Catchings STEAL (1 STL),,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,11,6,1,1,10:11 PM,18:40,Newton P.FOUL (P1.T1),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,12,6,2,1,10:12 PM,18:21,Penicheiro S.FOUL (P1.T2),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,13,3,11,1,10:12 PM,18:21,,,Miller Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,14,3,12,1,10:13 PM,18:21,,,Miller Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,16,10,0,1,10:14 PM,18:04,Jump Ball Walker vs. Miller: Tip to Newton,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0
+1020500039,18,1,1,1,10:14 PM,17:56,Powell  3PT Jump Shot (3 PTS) (Penicheiro 1 AST),,,2 - 3,1,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,20,6,4,1,10:14 PM,17:39,,,Schumacher OFF.Foul (P1),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,21,5,5,1,10:14 PM,17:39,,,Schumacher Foul Turnover (P1.T1),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,23,1,1,1,10:15 PM,17:25,Powell 18' Jump Shot (5 PTS),,,2 - 5,3,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,24,6,1,1,10:15 PM,17:07,Walker P.FOUL (P1.T3),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,25,2,5,1,10:15 PM,17:03,,,MISS White  Layup,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,26,4,0,1,10:16 PM,17:02,,,Schumacher REBOUND (Off:1 Def:0),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,27,2,5,1,10:16 PM,17:01,,,MISS Schumacher  Layup,,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,28,4,0,1,10:16 PM,16:59,Griffith REBOUND (Off:0 Def:2),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,29,1,1,1,10:16 PM,16:43,Penicheiro 11' Jump Shot (2 PTS),,,2 - 7,5,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,30,2,1,1,10:16 PM,16:21,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,31,4,0,1,10:16 PM,16:18,Griffith REBOUND (Off:0 Def:3),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,32,2,5,1,10:16 PM,16:13,MISS Walker  Layup,,Catchings BLOCK (1 BLK),,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1020500039,33,4,0,1,10:16 PM,16:11,,,Miller REBOUND (Off:0 Def:1),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,34,2,42,1,10:16 PM,16:05,,,MISS White  Driving Layup,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,35,4,0,1,10:17 PM,16:04,,,Williams REBOUND (Off:1 Def:0),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,36,2,4,1,10:17 PM,16:04,,,MISS Williams  Tip Shot,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,37,4,0,1,10:17 PM,16:03,,,Williams REBOUND (Off:2 Def:0),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,38,9,1,1,10:17 PM,15:57,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,40,8,0,1,10:19 PM,15:57,SUB: Haynie FOR Walker,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,41,8,0,1,10:19 PM,15:57,SUB: Brunson FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,42,1,1,1,10:19 PM,15:37,,,Miller 8' Jump Shot (4 PTS) (Williams 1 AST),4 - 7,3,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,43,7,5,1,10:20 PM,15:25,,,Miller Violation:Kicked Ball,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,44,2,1,1,10:20 PM,15:10,MISS Griffith 13' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,45,4,0,1,10:20 PM,15:08,,,Williams REBOUND (Off:2 Def:1),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,46,6,4,1,10:20 PM,15:03,,,Schumacher OFF.Foul (P2),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,47,5,5,1,10:20 PM,15:03,,,Schumacher Foul Turnover (P2.T2),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,48,1,1,1,10:21 PM,14:48,Penicheiro 11' Jump Shot (4 PTS),,,4 - 9,5,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,49,2,5,1,10:21 PM,14:29,Griffith BLOCK (1 BLK),,MISS Williams  Layup,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020500039,50,4,0,1,10:21 PM,14:28,Penicheiro REBOUND (Off:0 Def:2),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,51,2,47,1,10:21 PM,14:21,MISS Griffith 7' Turnaround Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,52,4,0,1,10:21 PM,14:18,Griffith REBOUND (Off:1 Def:3),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,53,6,2,1,10:22 PM,14:06,,,Miller S.FOUL (P1.T1),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,54,8,0,1,10:22 PM,14:06,,,SUB: Streimikyte FOR Schumacher,,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,55,3,11,1,10:22 PM,14:06,Penicheiro Free Throw 1 of 2 (5 PTS),,,4 - 10,6,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,56,3,12,1,10:22 PM,14:06,Penicheiro Free Throw 2 of 2 (6 PTS),,,4 - 11,7,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,57,1,5,1,10:23 PM,13:49,,,Williams  Layup (2 PTS) (Catchings 1 AST),6 - 11,5,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,58,6,1,1,10:23 PM,13:40,,,Miller P.FOUL (P2.T2),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,59,8,0,1,10:23 PM,13:40,,,SUB: Paige FOR Miller,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,60,2,1,1,10:23 PM,13:35,MISS Haynie 13' Jump Shot,,Williams BLOCK (1 BLK),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0
+1020500039,61,4,0,1,10:23 PM,13:33,Penicheiro REBOUND (Off:1 Def:2),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,62,2,1,1,10:24 PM,13:15,MISS Penicheiro  3PT Jump Shot,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,63,4,0,1,10:24 PM,13:13,,,Paige REBOUND (Off:0 Def:1),,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,64,1,42,1,10:24 PM,13:06,,,White  Driving Layup (2 PTS),8 - 11,3,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,65,2,1,1,10:24 PM,12:47,MISS Brunson 5' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,66,4,0,1,10:24 PM,12:45,Powell REBOUND (Off:1 Def:0),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,67,2,5,1,10:25 PM,12:35,MISS Penicheiro  Layup,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,68,4,0,1,10:25 PM,12:34,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,69,8,0,1,10:25 PM,12:34,,,SUB: Hoffman FOR Williams,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,70,8,0,1,10:25 PM,12:34,SUB: Li jie FOR Penicheiro,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,71,2,5,1,10:25 PM,12:09,,,MISS White  Layup,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,72,4,0,1,10:25 PM,12:07,,,Hoffman REBOUND (Off:1 Def:0),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,73,2,1,1,10:25 PM,12:06,,,MISS Hoffman 9' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,74,4,0,1,10:25 PM,12:04,,,Streimikyte REBOUND (Off:1 Def:0),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,75,2,1,1,10:26 PM,11:56,,,MISS Paige 14' Jump Shot,,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,76,4,0,1,10:26 PM,11:55,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,78,6,3,1,10:26 PM,11:55,Brunson L.B.FOUL (P1.T4),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,77,9,1,1,10:26 PM,11:55,MONARCHS Timeout: Regular (Full 1 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,81,8,0,1,10:29 PM,11:55,SUB: Newton FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,82,8,0,1,10:29 PM,11:55,SUB: Penicheiro FOR Griffith,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,83,8,0,1,10:29 PM,11:55,SUB: Walker FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,84,6,1,1,10:29 PM,11:43,Walker P.FOUL (P2.PN),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,85,8,0,1,10:29 PM,11:43,SUB: Griffith FOR Li jie,,,,,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,86,1,1,1,10:30 PM,11:26,,,White  3PT Jump Shot (5 PTS) (Paige 1 AST),11 - 11,TIE,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,87,1,1,1,10:30 PM,11:03,Walker  3PT Jump Shot (3 PTS),,,11 - 14,3,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,88,6,1,1,10:31 PM,10:48,Brunson P.FOUL (P2.PN),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,89,8,0,1,10:31 PM,10:48,SUB: Maiga-Ba FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,90,5,40,1,10:31 PM,10:39,,,Paige Out of Bounds Lost Ball Turnover (P1.T3),,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,91,6,1,1,10:32 PM,10:27,,,Hoffman P.FOUL (P1.T3),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,92,2,1,1,10:32 PM,10:12,MISS Newton 14' Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,93,4,0,1,10:32 PM,10:10,,,Streimikyte REBOUND (Off:1 Def:1),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,94,6,2,1,10:33 PM,10:03,Newton S.FOUL (P2.PN),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,95,3,11,1,10:33 PM,10:03,,,Catchings Free Throw 1 of 2 (1 PTS),12 - 14,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,96,8,0,1,10:33 PM,10:03,,,SUB: Miller FOR White,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,97,3,12,1,10:33 PM,10:03,,,Catchings Free Throw 2 of 2 (2 PTS),13 - 14,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,98,2,1,1,10:34 PM,9:53,MISS Penicheiro  3PT Jump Shot,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,99,4,0,1,10:34 PM,9:52,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,100,8,0,1,10:34 PM,9:52,,,SUB: Jackson FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,101,1,5,1,10:34 PM,9:48,,,Jackson  Layup (2 PTS) (Miller 1 AST),15 - 14,-1,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,102,6,2,1,10:34 PM,9:28,,,Jackson S.FOUL (P1.T4),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,103,3,11,1,10:35 PM,9:28,MISS Walker Free Throw 1 of 2,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,104,4,1,1,10:35 PM,9:28,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,105,3,12,1,10:35 PM,9:28,Walker Free Throw 2 of 2 (4 PTS),,,15 - 15,TIE,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,106,1,1,1,10:36 PM,9:04,,,Hoffman 14' Jump Shot (2 PTS) (Paige 2 AST),17 - 15,-2,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,107,6,2,1,10:36 PM,8:35,,,Streimikyte S.FOUL (P1.PN),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,108,9,1,1,10:37 PM,8:35,MONARCHS Timeout: Regular (Full 2 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,110,3,11,1,10:38 PM,8:35,MISS Walker Free Throw 1 of 2,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,111,4,1,1,10:38 PM,8:35,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,112,3,12,1,10:38 PM,8:35,Walker Free Throw 2 of 2 (5 PTS),,,17 - 16,-1,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,113,6,4,1,10:39 PM,8:11,,,Paige OFF.Foul (P1),,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,114,5,5,1,10:39 PM,8:11,,,Paige Foul Turnover (P2.T4),,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,115,2,1,1,10:40 PM,7:56,MISS Newton 15' Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,116,4,0,1,10:40 PM,7:55,,,Miller REBOUND (Off:0 Def:2),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,117,2,1,1,10:40 PM,7:27,,,MISS Hoffman 19' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,118,4,0,1,10:40 PM,7:26,Maiga-Ba REBOUND (Off:0 Def:1),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,119,1,5,1,10:40 PM,7:22,Griffith  Layup (2 PTS) (Maiga-Ba 1 AST),,,17 - 18,1,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,120,2,1,1,10:40 PM,7:00,,,MISS Streimikyte 10' Jump Shot,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,121,4,0,1,10:40 PM,6:58,Maiga-Ba REBOUND (Off:0 Def:2),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,122,6,2,1,10:41 PM,6:54,,,Hoffman S.FOUL (P2.PN),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,123,9,1,1,10:41 PM,6:54,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,125,8,0,1,10:43 PM,6:54,,,SUB: White FOR Streimikyte,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,126,8,0,1,10:43 PM,6:54,,,SUB: Benningfield FOR Paige,,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,5,100921,Jenni Benningfield,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,127,8,0,1,10:43 PM,6:54,,,SUB: Catchings FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,128,8,0,1,10:43 PM,6:54,,,SUB: Williams FOR Jackson,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,129,8,0,1,10:43 PM,6:54,SUB: Haynie FOR Penicheiro,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,130,3,11,1,10:43 PM,6:54,Griffith Free Throw 1 of 2 (3 PTS),,,17 - 19,2,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,131,3,12,1,10:44 PM,6:54,Griffith Free Throw 2 of 2 (4 PTS),,,17 - 20,3,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,132,6,4,1,10:44 PM,6:32,,,Catchings OFF.Foul (P1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,133,5,5,1,10:44 PM,6:32,,,Catchings Foul Turnover (P1.T5),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,134,6,2,1,10:45 PM,6:16,,,White S.FOUL (P1.PN),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,135,3,11,1,10:45 PM,6:16,Walker Free Throw 1 of 2 (6 PTS),,,17 - 21,4,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,136,3,12,1,10:45 PM,6:16,MISS Walker Free Throw 2 of 2,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,137,4,0,1,10:46 PM,6:15,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,138,5,2,1,10:46 PM,6:06,Maiga-Ba Lost Ball Turnover (P1.T4),,Miller STEAL (1 STL),,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,139,2,1,1,10:46 PM,5:57,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,140,4,0,1,10:46 PM,5:56,,,Williams REBOUND (Off:3 Def:1),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,141,6,2,1,10:46 PM,5:56,Griffith S.FOUL (P1.PN),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,142,3,11,1,10:46 PM,5:56,,,MISS Williams Free Throw 1 of 2,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,143,4,1,1,10:46 PM,5:56,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,144,8,0,1,10:47 PM,5:56,SUB: Powell FOR Maiga-Ba,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,145,3,12,1,10:47 PM,5:56,,,Williams Free Throw 2 of 2 (3 PTS),18 - 21,3,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,146,5,41,1,10:47 PM,5:52,Powell Poss Lost Ball Turnover (P1.T5),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,147,2,1,1,10:47 PM,5:34,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,148,4,0,1,10:47 PM,5:33,Haynie REBOUND (Off:0 Def:1),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,149,6,2,1,10:48 PM,5:15,,,Catchings S.FOUL (P2.PN),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,150,3,11,1,10:48 PM,5:15,MISS Griffith Free Throw 1 of 2,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,151,4,1,1,10:48 PM,5:15,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,152,8,0,1,10:48 PM,5:15,,,SUB: Schumacher FOR Benningfield,,,5,100921,Jenni Benningfield,1611661325.0,Indiana,Fever,IND,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,153,3,12,1,10:48 PM,5:15,MISS Griffith Free Throw 2 of 2,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,154,4,0,1,10:49 PM,5:14,Powell REBOUND (Off:2 Def:0),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,155,1,1,1,10:49 PM,5:06,Powell 13' Jump Shot (7 PTS),,,18 - 23,5,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,156,5,1,1,10:49 PM,4:46,,,White Bad Pass Turnover (P1.T6),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,157,1,1,1,10:50 PM,4:29,Griffith 10' Jump Shot (6 PTS) (Powell 1 AST),,,18 - 25,7,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,158,9,1,1,10:50 PM,4:19,,,Fever Timeout: Regular (Reg.3 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,160,5,1,1,10:53 PM,4:02,Walker STEAL (1 STL),,Williams Bad Pass Turnover (P1.T7),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,161,1,5,1,10:53 PM,3:56,Griffith  Layup (8 PTS) (Newton 1 AST),,,18 - 27,9,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,162,5,40,1,10:53 PM,3:43,,,Catchings Out of Bounds Lost Ball Turnover (P2.T8),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,163,1,5,1,10:53 PM,3:28,Walker  Layup (8 PTS) (Griffith 1 AST),,,18 - 29,11,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,164,2,1,1,10:54 PM,3:06,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,165,4,0,1,10:54 PM,3:04,Haynie REBOUND (Off:0 Def:2),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,166,1,47,1,10:54 PM,2:43,Griffith 11' Turnaround Jump Shot (10 PTS),,,18 - 31,13,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,167,9,2,1,10:54 PM,2:40,,,Fever Timeout: Short (Reg.3 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,169,8,0,1,10:55 PM,2:40,,,SUB: Paige FOR Williams,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,170,8,0,1,10:55 PM,2:40,SUB: Penicheiro FOR Walker,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,171,8,0,1,10:55 PM,2:40,SUB: Brunson FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,172,8,0,1,10:55 PM,2:40,SUB: Li jie FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,173,5,41,1,10:56 PM,2:19,,,White Poss Lost Ball Turnover (P2.T9),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,174,10,0,1,10:56 PM,2:19,Jump Ball Griffith vs. White: Tip to,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,2,1611661318,,,,,,0
+1020500039,175,6,1,1,10:57 PM,2:11,,,Schumacher P.FOUL (P3.PN),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,176,3,11,1,10:57 PM,2:11,Griffith Free Throw 1 of 2 (11 PTS),,,18 - 32,14,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,177,8,0,1,10:57 PM,2:11,,,SUB: Williams FOR Schumacher,,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,178,3,12,1,10:57 PM,2:11,Griffith Free Throw 2 of 2 (12 PTS),,,18 - 33,15,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,179,1,1,1,10:58 PM,1:51,,,Miller  3PT Jump Shot (7 PTS) (Paige 3 AST),21 - 33,12,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,180,1,47,1,10:58 PM,1:28,Li jie 10' Turnaround Jump Shot (2 PTS),,,21 - 35,14,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,181,6,2,1,10:58 PM,1:14,Powell S.FOUL (P1.PN),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,182,3,11,1,10:59 PM,1:14,,,Paige Free Throw 1 of 2 (1 PTS),22 - 35,13,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,183,3,12,1,10:59 PM,1:14,,,Paige Free Throw 2 of 2 (2 PTS),23 - 35,12,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,184,2,1,1,10:59 PM,0:57,MISS Brunson 7' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,185,4,0,1,10:59 PM,0:55,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,186,2,1,1,11:00 PM,0:40,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,187,4,0,1,11:00 PM,0:39,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,188,2,1,1,11:00 PM,0:35,,,MISS White 9' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,189,4,0,1,11:00 PM,0:33,Griffith REBOUND (Off:1 Def:4),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,190,7,5,1,11:00 PM,0:27,,,Williams Violation:Kicked Ball,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,191,5,1,1,11:01 PM,0:09,Penicheiro Bad Pass Turnover (P2.T6),,Catchings STEAL (2 STL),,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,192,5,1,1,11:01 PM,0:04,Powell STEAL (1 STL),,Paige Bad Pass Turnover (P3.T10),,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,193,2,1,1,11:01 PM,0:00,MISS Penicheiro  3PT Jump Shot,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,195,4,0,1,11:01 PM,0:00,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,194,13,0,1,11:01 PM,0:00,,End of 1st Half (11:01 PM EST),,23 - 35,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,197,12,0,2,11:18 PM,20:00,,Start of 2nd Half (11:18 PM EST),,23 - 35,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,198,10,0,2,11:18 PM,20:00,Jump Ball Griffith vs. Schumacher: Tip to Powell,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020500039,199,1,1,2,11:19 PM,19:39,Newton 20' Jump Shot (2 PTS) (Penicheiro 2 AST),,,23 - 37,14,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,200,1,1,2,11:19 PM,19:08,,,Miller  3PT Jump Shot (10 PTS) (Catchings 2 AST),26 - 37,11,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,201,5,2,2,11:19 PM,18:58,Walker Lost Ball Turnover (P2.T7),,Miller STEAL (2 STL),,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,202,2,1,2,11:20 PM,18:50,,,MISS Catchings 18' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,203,4,0,2,11:20 PM,18:48,Penicheiro REBOUND (Off:1 Def:3),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,204,1,5,2,11:20 PM,18:39,Walker  Layup (10 PTS) (Penicheiro 3 AST),,,26 - 39,13,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,205,2,1,2,11:20 PM,18:17,Walker BLOCK (1 BLK),,MISS Williams 6' Jump Shot,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0
+1020500039,206,4,0,2,11:20 PM,18:16,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,207,6,3,2,11:20 PM,18:16,,,Miller L.B.FOUL (P3.T1),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,208,6,1,2,11:21 PM,17:58,,,Williams P.FOUL (P1.T2),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,209,1,5,2,11:21 PM,17:44,Griffith  Layup (14 PTS) (Walker 1 AST),,,26 - 41,15,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,210,2,1,2,11:22 PM,17:22,,,MISS Schumacher 14' Jump Shot,,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,211,4,0,2,11:22 PM,17:21,Griffith REBOUND (Off:1 Def:5),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,212,2,42,2,11:22 PM,17:13,MISS Penicheiro  Driving Layup,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,213,4,0,2,11:22 PM,17:12,,,Williams REBOUND (Off:3 Def:2),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,214,2,1,2,11:22 PM,16:55,,,MISS Catchings 6' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,215,4,0,2,11:22 PM,16:54,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,216,6,3,2,11:22 PM,16:54,,,Schumacher L.B.FOUL (P4.T3),,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,217,8,0,2,11:22 PM,16:54,,,SUB: Jackson FOR Schumacher,,,5,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,218,8,0,2,11:22 PM,16:54,SUB: Brunson FOR Walker,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,219,8,0,2,11:22 PM,16:54,SUB: Li jie FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,220,1,5,2,11:23 PM,16:29,Griffith  Layup (16 PTS) (Penicheiro 4 AST),,,26 - 43,17,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,221,2,1,2,11:23 PM,16:06,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,222,4,0,2,11:23 PM,16:05,Penicheiro REBOUND (Off:1 Def:4),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,223,5,1,2,11:24 PM,15:57,Penicheiro Bad Pass Turnover (P3.T8),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,224,9,1,2,11:24 PM,15:57,MONARCHS Timeout: Regular (Full 3 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,226,2,1,2,11:27 PM,15:34,,,MISS Catchings 17' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,227,4,0,2,11:27 PM,15:32,Powell REBOUND (Off:2 Def:1),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,228,2,1,2,11:27 PM,15:16,MISS Powell  3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,229,4,0,2,11:27 PM,15:14,,,Williams REBOUND (Off:3 Def:3),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,230,6,2,2,11:27 PM,14:58,Brunson S.FOUL (P3.T1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,231,3,11,2,11:27 PM,14:58,,,Catchings Free Throw 1 of 2 (3 PTS),27 - 43,16,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,232,3,12,2,11:28 PM,14:58,,,Catchings Free Throw 2 of 2 (4 PTS),28 - 43,15,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,233,6,4,2,11:28 PM,14:43,Griffith OFF.Foul (P2),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,234,5,5,2,11:28 PM,14:43,Griffith Foul Turnover (P1.T9),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,235,2,1,2,11:29 PM,14:23,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,236,4,0,2,11:29 PM,14:21,,,Williams REBOUND (Off:4 Def:3),,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,237,2,5,2,11:29 PM,14:19,,,MISS Williams  Layup,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,238,4,0,2,11:29 PM,14:18,Brunson REBOUND (Off:0 Def:1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,239,6,2,2,11:29 PM,14:13,,,White S.FOUL (P2.T4),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,240,3,11,2,11:29 PM,14:13,MISS Griffith Free Throw 1 of 2,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,241,4,1,2,11:29 PM,14:13,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,242,8,0,2,11:30 PM,14:13,,,SUB: Hoffman FOR Williams,,,5,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,243,8,0,2,11:30 PM,14:13,,,SUB: Paige FOR White,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,244,3,12,2,11:30 PM,14:13,MISS Griffith Free Throw 2 of 2,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,245,4,0,2,11:30 PM,14:12,,,Hoffman REBOUND (Off:1 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,246,2,1,2,11:30 PM,13:54,,,MISS Jackson 5' Jump Shot,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,247,4,0,2,11:30 PM,13:52,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,248,6,3,2,11:30 PM,13:52,,,Jackson L.B.FOUL (P2.PN),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,249,2,1,2,11:31 PM,13:42,MISS Brunson 7' Jump Shot,,Catchings BLOCK (2 BLK),,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1020500039,250,4,0,2,11:31 PM,13:40,,,Hoffman REBOUND (Off:1 Def:2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,251,1,1,2,11:31 PM,13:26,,,Miller 12' Jump Shot (12 PTS),30 - 43,13,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,252,2,1,2,11:31 PM,13:00,MISS Griffith 13' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,253,4,0,2,11:31 PM,12:58,,,Catchings REBOUND (Off:0 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,254,1,1,2,11:32 PM,12:52,,,Paige 19' Jump Shot (4 PTS),32 - 43,11,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,255,1,1,2,11:32 PM,12:30,Powell  3PT Jump Shot (10 PTS),,,32 - 46,14,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,256,6,2,2,11:32 PM,12:10,Brunson S.FOUL (P4.T2),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,257,8,0,2,11:33 PM,12:10,SUB: Walker FOR Griffith,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,258,8,0,2,11:33 PM,12:10,SUB: Haynie FOR Penicheiro,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,259,8,0,2,11:33 PM,12:10,SUB: Perperoglou FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,260,3,11,2,11:33 PM,12:10,,,Catchings Free Throw 1 of 2 (5 PTS),33 - 46,13,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,261,9,1,2,11:33 PM,12:10,,,Fever Timeout: Regular (Reg.4 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,263,3,12,2,11:35 PM,12:10,,,MISS Catchings Free Throw 2 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,264,4,0,2,11:36 PM,12:09,Walker REBOUND (Off:0 Def:2),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,265,2,1,2,11:36 PM,11:44,MISS Haynie 13' Jump Shot,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,266,4,0,2,11:36 PM,11:42,Walker REBOUND (Off:1 Def:2),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,267,2,1,2,11:36 PM,11:30,MISS Walker 4' Jump Shot,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,268,4,0,2,11:36 PM,11:29,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,269,2,1,2,11:37 PM,11:26,MISS Walker 15' Jump Shot,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,270,4,0,2,11:37 PM,11:25,,,Hoffman REBOUND (Off:1 Def:3),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,271,6,2,2,11:37 PM,11:19,Perperoglou S.FOUL (P1.T3),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,272,3,11,2,11:37 PM,11:19,,,MISS Jackson Free Throw 1 of 2,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,273,4,1,2,11:37 PM,11:19,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,274,3,12,2,11:37 PM,11:19,,,MISS Jackson Free Throw 2 of 2,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,275,4,0,2,11:37 PM,11:19,,,Jackson REBOUND (Off:1 Def:0),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,276,1,1,2,11:38 PM,10:50,,,Jackson 7' Jump Shot (4 PTS),35 - 46,11,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,277,1,1,2,11:38 PM,10:36,Haynie 13' Jump Shot (2 PTS) (Perperoglou 1 AST),,,35 - 48,13,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,278,9,1,2,11:38 PM,10:16,,,Fever Timeout: Regular (Reg.5 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,280,2,1,2,11:41 PM,10:06,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,281,4,0,2,11:41 PM,10:04,Li jie REBOUND (Off:0 Def:1),,,,,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,282,5,2,2,11:41 PM,9:52,Powell Lost Ball Turnover (P2.T10),,Jackson STEAL (1 STL),,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,283,2,1,2,11:42 PM,9:34,,,MISS Paige 8' Jump Shot,,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,284,4,0,2,11:42 PM,9:33,,,Catchings REBOUND (Off:1 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,285,6,2,2,11:42 PM,9:32,Walker S.FOUL (P3.T4),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,286,3,11,2,11:42 PM,9:32,,,Catchings Free Throw 1 of 2 (6 PTS),36 - 48,12,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,287,3,12,2,11:43 PM,9:32,,,MISS Catchings Free Throw 2 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,288,4,0,2,11:43 PM,9:31,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,289,6,3,2,11:43 PM,9:31,Haynie L.B.FOUL (P1.PN),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,290,1,1,2,11:43 PM,9:19,,,Hoffman 11' Jump Shot (4 PTS) (Catchings 3 AST),38 - 48,10,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,291,1,42,2,11:43 PM,9:09,Walker  Driving Layup (12 PTS),,,38 - 50,12,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,292,6,2,2,11:44 PM,9:00,Powell S.FOUL (P2.PN),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,293,3,11,2,11:44 PM,9:00,,,MISS Catchings Free Throw 1 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,294,4,1,2,11:44 PM,9:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,295,3,12,2,11:44 PM,9:00,,,Catchings Free Throw 2 of 2 (7 PTS),39 - 50,11,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,296,2,42,2,11:44 PM,8:54,MISS Haynie  Driving Layup,,Catchings BLOCK (3 BLK),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1020500039,297,4,0,2,11:44 PM,8:52,,,Catchings REBOUND (Off:1 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,298,1,65,2,11:45 PM,8:33,,,Hoffman 8' Jump Hook Shot (6 PTS) (Miller 2 AST),41 - 50,9,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,299,9,1,2,11:45 PM,8:16,MONARCHS Timeout: Regular (Full 4 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,301,8,0,2,11:47 PM,8:16,SUB: Griffith FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,302,8,0,2,11:47 PM,8:16,SUB: Newton FOR Li jie,,,,,4,101000,Miao Li jie,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,303,8,0,2,11:47 PM,8:16,SUB: Penicheiro FOR Perperoglou,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,304,2,1,2,11:48 PM,8:01,MISS Walker 6' Jump Shot,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,305,4,0,2,11:48 PM,7:59,,,Catchings REBOUND (Off:1 Def:4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,306,2,1,2,11:48 PM,7:42,,,MISS Jackson 4' Jump Shot,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,307,4,0,2,11:48 PM,7:40,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,308,2,1,2,11:49 PM,7:19,,,MISS Jackson 5' Jump Shot,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,309,4,0,2,11:49 PM,7:18,,,Jackson REBOUND (Off:2 Def:0),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,310,6,1,2,11:49 PM,7:18,Powell P.FOUL (P3.PN),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,311,1,1,2,11:50 PM,6:56,,,Jackson 4' Jump Shot (6 PTS) (Catchings 4 AST),43 - 50,7,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,312,5,2,2,11:50 PM,6:44,Walker Lost Ball Turnover (P3.T11),,Jackson STEAL (2 STL),,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,313,2,5,2,11:50 PM,6:41,,,MISS Catchings  Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,314,4,0,2,11:50 PM,6:40,,,Jackson REBOUND (Off:3 Def:0),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,315,2,5,2,11:50 PM,6:39,,,MISS Jackson  Layup,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,316,4,0,2,11:50 PM,6:38,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,317,6,3,2,11:50 PM,6:38,,,Catchings L.B.FOUL (P3.PN),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,318,2,47,2,11:51 PM,6:16,MISS Griffith 9' Turnaround Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,319,4,0,2,11:51 PM,6:15,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,320,5,24,2,11:51 PM,6:05,,,Fever Turnover: 10 Second Violaton (T#11),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020500039,321,6,1,2,11:52 PM,5:56,,,Hoffman P.FOUL (P3.PN),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,322,2,1,2,11:52 PM,5:43,MISS Griffith 4' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,323,4,0,2,11:52 PM,5:42,,,Jackson REBOUND (Off:3 Def:1),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,324,5,1,2,11:54 PM,5:20,,,Catchings Bad Pass Turnover (P3.T12),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,325,6,3,2,11:54 PM,5:19,,,Miller L.B.FOUL (P4.PN),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,326,3,11,2,11:54 PM,5:19,MISS Penicheiro Free Throw 1 of 2,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,327,4,1,2,11:54 PM,5:19,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,330,7,3,2,11:54 PM,5:19,,,Catchings Violation:Lane,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,331,3,12,2,11:55 PM,5:19,Penicheiro Free Throw 2 of 2 (7 PTS),,,43 - 51,8,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,332,1,42,2,11:55 PM,5:06,,,Catchings  Driving Layup (9 PTS),45 - 51,6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,333,1,42,2,11:55 PM,4:45,Penicheiro  Driving Layup (9 PTS),,,45 - 53,8,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,334,6,1,2,11:56 PM,4:29,Walker P.FOUL (P4.PN),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,335,3,11,2,11:56 PM,4:29,,,MISS Catchings Free Throw 1 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,336,4,1,2,11:56 PM,4:29,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,337,3,12,2,11:56 PM,4:29,,,Catchings Free Throw 2 of 2 (10 PTS),46 - 53,7,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,338,6,1,2,11:57 PM,4:06,,,Catchings P.FOUL (P4.PN),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,339,3,11,2,11:57 PM,4:06,MISS Griffith Free Throw 1 of 2,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,340,4,1,2,11:57 PM,4:06,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,341,8,0,2,11:57 PM,4:06,,,SUB: White FOR Paige,,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,342,3,12,2,11:57 PM,4:06,Griffith Free Throw 2 of 2 (17 PTS),,,46 - 54,8,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,343,2,1,2,11:58 PM,3:44,,,MISS Jackson 6' Jump Shot,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,344,4,0,2,11:58 PM,3:42,Griffith REBOUND (Off:1 Def:6),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,345,2,1,2,11:58 PM,3:28,MISS Griffith 7' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,346,4,0,2,11:58 PM,3:27,,,Jackson REBOUND (Off:3 Def:2),,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,347,6,1,2,11:59 PM,3:00,Powell P.FOUL (P4.PN),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020500039,348,3,11,2,11:59 PM,3:00,,,MISS Catchings Free Throw 1 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,349,4,1,2,11:59 PM,3:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,350,3,12,2,11:59 PM,3:00,,,Catchings Free Throw 2 of 2 (11 PTS),47 - 54,7,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,351,6,1,2,12:00 AM,2:43,,,Hoffman P.FOUL (P4.PN),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,352,3,11,2,12:00 AM,2:43,Penicheiro Free Throw 1 of 2 (10 PTS),,,47 - 55,8,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,353,3,12,2,12:01 AM,2:43,Penicheiro Free Throw 2 of 2 (11 PTS),,,47 - 56,9,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,354,5,2,2,12:01 AM,2:27,Penicheiro STEAL (1 STL),,White Lost Ball Turnover (P3.T13),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,355,6,1,2,12:01 AM,2:26,,,White P.FOUL (P3.PN),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,356,3,11,2,12:02 AM,2:26,Penicheiro Free Throw 1 of 2 (12 PTS),,,47 - 57,10,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,357,3,12,2,12:02 AM,2:26,Penicheiro Free Throw 2 of 2 (13 PTS),,,47 - 58,11,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,358,2,1,2,12:03 AM,2:18,,,MISS Hoffman 12' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,359,4,0,2,12:03 AM,2:17,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,360,6,3,2,12:03 AM,2:17,,,Miller L.B.FOUL (P5.PN),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,361,3,11,2,12:03 AM,2:17,Griffith Free Throw 1 of 2 (18 PTS),,,47 - 59,12,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,362,3,12,2,12:04 AM,2:17,Griffith Free Throw 2 of 2 (19 PTS),,,47 - 60,13,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,363,2,42,2,12:04 AM,2:03,,,MISS Jackson  Driving Layup,,,5,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,364,4,0,2,12:04 AM,2:01,,,Catchings REBOUND (Off:2 Def:4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,365,1,1,2,12:04 AM,1:55,,,Catchings 15' Jump Shot (13 PTS),49 - 60,11,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,366,2,1,2,12:04 AM,1:34,MISS Walker 5' Jump Shot,,Hoffman BLOCK (1 BLK),,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0
+1020500039,367,4,0,2,12:04 AM,1:33,,,Miller REBOUND (Off:0 Def:3),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,368,2,5,2,12:04 AM,1:25,,,MISS White  Layup,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,369,4,0,2,12:04 AM,1:24,Griffith REBOUND (Off:1 Def:7),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,370,6,1,2,12:05 AM,1:14,,,Miller P.FOUL (P6.PN),,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,371,8,0,2,12:05 AM,1:14,,,SUB: Paige FOR Miller,,,5,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,372,3,11,2,12:06 AM,1:14,Penicheiro Free Throw 1 of 2 (14 PTS),,,49 - 61,12,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,373,3,12,2,12:06 AM,1:14,Penicheiro Free Throw 2 of 2 (15 PTS),,,49 - 62,13,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,374,5,1,2,12:07 AM,1:06,Powell STEAL (2 STL),,Catchings Bad Pass Turnover (P4.T14),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,375,6,1,2,12:07 AM,0:58,,,White P.FOUL (P4.PN),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020500039,376,3,11,2,12:07 AM,0:58,Griffith Free Throw 1 of 2 (20 PTS),,,49 - 63,14,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,377,3,12,2,12:08 AM,0:58,MISS Griffith Free Throw 2 of 2,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,378,4,0,2,12:08 AM,0:57,,,Hoffman REBOUND (Off:1 Def:4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,379,9,1,2,12:08 AM,0:57,,,Fever Timeout: Regular (Reg.6 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,383,2,1,2,12:10 AM,0:54,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,384,4,0,2,12:10 AM,0:53,,,Hoffman REBOUND (Off:2 Def:4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,385,2,1,2,12:10 AM,0:48,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,386,4,0,2,12:11 AM,0:47,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,387,5,1,2,12:11 AM,0:46,Walker STEAL (2 STL),,White Bad Pass Turnover (P4.T15),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020500039,388,2,1,2,12:11 AM,0:19,MISS Powell  3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,389,4,0,2,12:11 AM,0:18,Walker REBOUND (Off:2 Def:2),,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,390,2,5,2,12:11 AM,0:16,MISS Walker  Layup,,,,,4,100533,DeMya Walker,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,391,4,0,2,12:11 AM,0:15,Griffith REBOUND (Off:2 Def:7),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,392,1,5,2,12:11 AM,0:15,Griffith  Layup (22 PTS),,,49 - 65,16,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,393,2,1,2,12:12 AM,0:09,,,MISS Paige  3PT Jump Shot,,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,394,4,0,2,12:12 AM,0:07,,,Paige REBOUND (Off:1 Def:1),,,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020500039,395,1,5,2,12:12 AM,0:06,,,White  Layup (7 PTS) (Paige 4 AST),51 - 65,14,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,101034,Yolanda Paige,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020500039,396,2,1,2,12:12 AM,0:00,MISS Powell 32' 3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020500039,398,4,0,2,12:12 AM,0:00,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020500039,397,13,0,2,12:12 AM,0:00,,End of 2nd Half (12:12 AM EST),,51 - 65,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,392 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700017,0,12,0,1,8:05 PM,10:00,,Start of 1st Period (8:05 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,1,10,0,1,8:05 PM,10:00,Jump Ball Fowles vs. J. Jones: Tip to J. Thomas,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700017,2,2,1,1,8:05 PM,9:46,,,MISS J. Thomas 14' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,3,4,0,1,8:05 PM,9:45,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,5,2,1,1,8:06 PM,9:32,,,MISS J. Thomas 27' 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,6,4,0,1,8:06 PM,9:31,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,7,5,11,1,8:06 PM,9:31,,,Sun Turnover: Shot Clock (T#1),,,3.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,8,6,1,1,8:07 PM,9:17,,,Bentley P.FOUL (P1.T1),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,9,2,1,1,8:07 PM,9:11,MISS Whalen 16' Jump Shot,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,10,4,0,1,8:07 PM,9:10,Brunson REBOUND (Off:1 Def:0),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,11,7,5,1,8:07 PM,8:59,,,Tuck Violation:Kicked Ball,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1021700017,12,5,1,1,8:07 PM,8:54,Moore Bad Pass Turnover (P1.T1),,J. Thomas STEAL (1 STL),,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,13,2,5,1,8:08 PM,8:48,,,MISS A. Thomas 3' Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,14,4,0,1,8:08 PM,8:46,Fowles REBOUND (Off:0 Def:1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,15,2,41,1,8:08 PM,8:33,MISS Brunson 3' Running Layup,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,16,4,0,1,8:08 PM,8:32,,,A. Thomas REBOUND (Off:0 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,17,2,5,1,8:08 PM,8:27,,,MISS Tuck 2' Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,18,4,0,1,8:08 PM,8:26,Augustus REBOUND (Off:0 Def:1),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,19,5,45,1,8:08 PM,8:23,Augustus Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,20,1,80,1,8:08 PM,8:04,,,Bentley 20' Step Back Jump Shot (2 PTS),2 - 0,-2,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,21,5,1,1,8:09 PM,7:45,Moore Bad Pass Turnover (P2.T3),,J. Jones STEAL (1 STL),,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,22,2,5,1,8:09 PM,7:40,Fowles BLOCK (1 BLK),,MISS J. Thomas 2' Layup,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1021700017,23,4,0,1,8:09 PM,7:38,,,A. Thomas REBOUND (Off:1 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,24,1,5,1,8:09 PM,7:35,,,J. Jones 2' Layup (2 PTS) (A. Thomas 1 AST),4 - 0,-4,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,25,1,1,1,8:09 PM,7:19,Brunson 16' Jump Shot (2 PTS) (Moore 1 AST),,,4 - 2,-2,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,26,5,1,1,8:09 PM,7:05,Moore STEAL (1 STL),,J. Thomas Bad Pass Turnover (P1.T2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,27,2,80,1,8:10 PM,6:52,MISS Augustus 16' Step Back Jump Shot,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,28,4,0,1,8:10 PM,6:50,,,J. Jones REBOUND (Off:0 Def:1),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,29,1,5,1,8:10 PM,6:44,,,Tuck 3' Layup (2 PTS) (A. Thomas 2 AST),6 - 2,-4,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,30,5,4,1,8:10 PM,6:23,Fowles Traveling Turnover (P1.T4),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1021700017,31,8,0,1,8:10 PM,6:23,SUB: Howard FOR Moore,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,32,2,42,1,8:11 PM,6:08,,,MISS Tuck 2' Driving Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,33,4,0,1,8:11 PM,6:07,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,34,6,2,1,8:11 PM,5:47,,,J. Jones S.FOUL (P1.T2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,35,3,11,1,8:11 PM,5:47,Brunson Free Throw 1 of 2 (3 PTS),,,6 - 3,-3,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,37,3,12,1,8:12 PM,5:47,MISS Brunson Free Throw 2 of 2,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,41,4,0,1,8:12 PM,5:46,,,Tuck REBOUND (Off:0 Def:1),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,42,2,86,1,8:12 PM,5:31,,,MISS J. Jones 11' Turnaround Fadeaway Shot,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,43,4,0,1,8:12 PM,5:30,Whalen REBOUND (Off:0 Def:1),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,45,8,0,1,8:12 PM,5:17,,,SUB: Kizer FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,46,8,0,1,8:12 PM,5:17,SUB: Montgomery FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,47,8,0,1,8:12 PM,5:17,SUB: Perkins FOR Augustus,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,48,8,0,1,8:12 PM,5:17,SUB: Pierson FOR Fowles,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,49,2,1,1,8:13 PM,5:13,MISS Pierson 18' Jump Shot,,,,,4.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,50,4,0,1,8:13 PM,5:12,,,Bentley REBOUND (Off:0 Def:1),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,51,5,1,1,8:13 PM,5:03,Howard STEAL (1 STL),,Bentley Bad Pass Turnover (P1.T3),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,52,5,1,1,8:13 PM,5:02,Howard Bad Pass Turnover (P1.T5),,Kizer STEAL (1 STL),,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,53,1,1,1,8:13 PM,4:57,,,Bentley 24' 3PT Jump Shot (5 PTS) (Tuck 1 AST),9 - 3,-6,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,54,6,2,1,8:13 PM,4:34,,,Kizer S.FOUL (P1.T3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,55,9,1,1,8:14 PM,4:34,,Timeout: Regular,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,56,8,0,1,8:16 PM,4:34,SUB: Moore FOR Brunson,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,57,3,11,1,8:16 PM,4:34,Perkins Free Throw 1 of 2 (1 PTS),,,9 - 4,-5,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,59,3,12,1,8:17 PM,4:34,Perkins Free Throw 2 of 2 (2 PTS),,,9 - 5,-4,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,62,1,1,1,8:17 PM,4:14,,,J. Thomas 3PT Jump Shot (3 PTS) (A. Thomas 3 AST),12 - 5,-7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,63,6,2,1,8:17 PM,4:03,,,A. Thomas S.FOUL (P1.T4),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,64,3,11,1,8:18 PM,4:03,MISS Moore Free Throw 1 of 2,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,65,4,1,1,8:18 PM,4:03,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,66,8,0,1,8:18 PM,4:03,,,SUB: Williams FOR Bentley,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,67,3,12,1,8:18 PM,4:03,Moore Free Throw 2 of 2 (1 PTS),,,12 - 6,-6,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,69,2,5,1,8:18 PM,3:49,Howard BLOCK (1 BLK),,MISS Kizer 2' Layup,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,1
+1021700017,70,4,0,1,8:18 PM,3:47,,,Williams REBOUND (Off:1 Def:0),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,71,1,1,1,8:18 PM,3:38,,,J. Thomas 27' 3PT Jump Shot (6 PTS) (Tuck 2 AST),15 - 6,-9,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,72,1,1,1,8:19 PM,3:21,Moore 24' 3PT Jump Shot (4 PTS) (Pierson 1 AST),,,15 - 9,-6,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,73,2,1,1,8:19 PM,3:06,,,MISS Williams 20' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,74,4,0,1,8:19 PM,3:05,Moore REBOUND (Off:0 Def:1),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,75,1,1,1,8:19 PM,2:55,Montgomery 3PT Jump Shot (3 PTS) (Moore 2 AST),,,15 - 12,-3,4.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,76,5,1,1,8:19 PM,2:33,Perkins STEAL (1 STL),,A. Thomas Bad Pass Turnover (P1.T4),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,77,2,75,1,8:20 PM,2:23,MISS Perkins 2' Driving Finger Roll Layup,,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,78,4,0,1,8:20 PM,2:22,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,79,8,0,1,8:20 PM,2:22,,,SUB: Stricklen FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,80,8,0,1,8:20 PM,2:22,SUB: Fowles FOR Howard,,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,81,1,1,1,8:20 PM,2:08,,,Kizer 14' Jump Shot (2 PTS) (Williams 1 AST),17 - 12,-5,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,82,5,1,1,8:20 PM,1:56,Fowles Bad Pass Turnover (P2.T6),,Kizer STEAL (2 STL),,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,84,5,2,1,8:21 PM,1:46,Fowles STEAL (1 STL),,Kizer Lost Ball Turnover (P1.T5),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,85,6,17,1,8:21 PM,1:34,,,Sun T.Foul (Def. 3 Sec Kizer ),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700017,86,3,16,1,8:21 PM,1:34,Moore Free Throw Technical (5 PTS),,,17 - 13,-4,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,88,8,0,1,8:21 PM,1:34,,,SUB: J. Jones FOR Kizer,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,89,1,1,1,8:22 PM,1:22,Pierson 3PT Jump Shot (3 PTS) (Moore 3 AST),,,17 - 16,-1,4.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,90,2,46,1,8:22 PM,1:01,,,MISS Stricklen 4' Running Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,91,4,0,1,8:22 PM,1:00,Perkins REBOUND (Off:0 Def:1),,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,92,1,5,1,8:22 PM,0:52,Fowles 1' Layup (2 PTS) (Pierson 2 AST),,,17 - 18,1,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,93,1,1,1,8:23 PM,0:41,,,J. Thomas 3PT Jump Shot (9 PTS),20 - 18,-2,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,94,2,1,1,8:23 PM,0:28,MISS Montgomery 14' Jump Shot,,,,,4.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,95,4,0,1,8:23 PM,0:26,,,Stricklen REBOUND (Off:0 Def:1),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,96,6,27,1,8:23 PM,0:09,Pierson Personal Block Foul (P1.T1),,,,,4.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,97,2,1,1,8:24 PM,0:02,,,MISS Tuck 8' Jump Shot,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,98,4,0,1,8:24 PM,0:00,Fowles REBOUND (Off:0 Def:2),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,99,13,0,1,8:24 PM,0:00,,End of 1st Period (8:24 PM EST),,20 - 18,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,101,12,0,2,8:27 PM,10:00,,Start of 2nd Period (8:27 PM EST),,20 - 18,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,102,1,58,2,8:28 PM,9:38,Fowles 3' Turnaround Hook Shot (4 PTS) (Augustus 1 AST),,,20 - 20,TIE,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,103,1,1,2,8:28 PM,9:20,,,J. Jones 3' Jump Shot (4 PTS) (Williams 2 AST),22 - 20,-2,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,104,1,1,2,8:28 PM,8:58,Augustus 3PT Jump Shot (3 PTS) (Whalen 1 AST),,,22 - 23,1,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,105,2,1,2,8:29 PM,8:38,,,MISS Williams 17' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,106,4,0,2,8:29 PM,8:37,Fowles REBOUND (Off:0 Def:3),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,107,2,80,2,8:29 PM,8:23,MISS Moore 3PT Step Back Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,108,4,0,2,8:29 PM,8:21,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,109,8,0,2,8:29 PM,8:21,SUB: Brunson FOR Pierson,,,,,4.0,100888,Plenette Pierson,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,110,2,5,2,8:29 PM,7:58,,,MISS Tuck 1' Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,111,4,0,2,8:29 PM,7:57,Moore REBOUND (Off:0 Def:2),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,112,1,41,2,8:30 PM,7:50,Fowles 3' Running Layup (6 PTS) (Moore 4 AST),,,22 - 25,3,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,113,6,1,2,8:30 PM,7:36,Fowles P.FOUL (P1.T1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,114,8,0,2,8:30 PM,7:36,,,SUB: A. Thomas FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,115,8,0,2,8:30 PM,7:36,,,SUB: Bentley FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,116,8,0,2,8:30 PM,7:36,,,SUB: Kizer FOR Tuck,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,117,8,0,2,8:30 PM,7:36,SUB: Perkins FOR Moore,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,118,1,5,2,8:31 PM,7:26,,,J. Jones 3' Layup (6 PTS) (Bentley 1 AST),24 - 25,1,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,119,6,2,2,8:31 PM,7:10,,,J. Jones S.FOUL (P2.T1),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,120,3,11,2,8:31 PM,7:10,Fowles Free Throw 1 of 2 (7 PTS),,,24 - 26,2,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,122,8,0,2,8:31 PM,7:10,,,SUB: Tuck FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,123,3,12,2,8:31 PM,7:10,Fowles Free Throw 2 of 2 (8 PTS),,,24 - 27,3,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,125,2,5,2,8:32 PM,6:48,Fowles BLOCK (2 BLK),,MISS Tuck 2' Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1021700017,126,4,0,2,8:32 PM,6:46,,,Tuck REBOUND (Off:1 Def:1),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,127,2,5,2,8:32 PM,6:44,,,MISS Tuck 2' Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,128,4,0,2,8:32 PM,6:43,Fowles REBOUND (Off:0 Def:4),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,129,5,2,2,8:32 PM,6:39,Whalen Lost Ball Turnover (P1.T7),,Tuck STEAL (1 STL),,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,130,1,5,2,8:32 PM,6:33,,,Kizer 2' Layup (4 PTS) (A. Thomas 4 AST),26 - 27,1,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,131,5,45,2,8:33 PM,6:11,Augustus Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,132,2,63,2,8:33 PM,5:53,,,MISS Bentley 5' Fadeaway Jumper,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,133,4,0,2,8:33 PM,5:51,Augustus REBOUND (Off:0 Def:2),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,134,1,79,2,8:34 PM,5:31,Augustus 17' Pullup Jump Shot (5 PTS),,,26 - 29,3,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,135,1,79,2,8:34 PM,5:13,,,Williams 18' Pullup Jump Shot (2 PTS) (Bentley 2 AST),28 - 29,1,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,136,5,1,2,8:34 PM,5:01,Fowles Bad Pass Turnover (P3.T9),,Bentley STEAL (1 STL),,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,137,2,79,2,8:34 PM,4:55,,,MISS Bentley 24' 3PT Pullup Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,138,4,0,2,8:34 PM,4:53,Fowles REBOUND (Off:0 Def:5),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,139,6,4,2,8:34 PM,4:43,Fowles OFF.Foul (P2),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,140,5,5,2,8:34 PM,4:43,Fowles Foul Turnover (P4.T10),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1021700017,141,9,1,2,8:34 PM,4:43,LYNX Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,143,18,0,2,8:35 PM,4:43,,Support Ruling,,,,,104,Benoit Benjamin,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,145,8,0,2,8:37 PM,4:43,SUB: Howard FOR Fowles,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,146,8,0,2,8:37 PM,4:43,SUB: Montgomery FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,147,1,5,2,8:38 PM,4:30,,,A. Thomas 2' Layup (2 PTS) (Bentley 3 AST),30 - 29,-1,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,148,2,1,2,8:38 PM,4:16,MISS Perkins 16' Jump Shot,,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,150,4,0,2,8:38 PM,4:15,Howard REBOUND (Off:1 Def:0),,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,149,2,97,2,8:38 PM,4:15,MISS Howard 2' Tip Layup Shot,,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,151,4,0,2,8:38 PM,4:14,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,152,6,3,2,8:38 PM,4:14,,,Kizer L.B.FOUL (P2.T2),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,154,2,1,2,8:39 PM,4:01,MISS Perkins 24' 3PT Jump Shot,,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,155,4,0,2,8:39 PM,4:00,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,156,5,11,2,8:39 PM,4:00,LYNX Turnover: Shot Clock (T#11),,,,,2.0,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,157,2,41,2,8:39 PM,3:53,,,MISS Bentley 3' Running Layup,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,158,4,0,2,8:39 PM,3:51,Brunson REBOUND (Off:1 Def:1),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,159,2,1,2,8:40 PM,3:35,MISS Brunson 3PT Jump Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,160,4,0,2,8:40 PM,3:34,,,Williams REBOUND (Off:1 Def:1),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,161,1,1,2,8:40 PM,3:27,,,Bentley 3PT Jump Shot (8 PTS) (Williams 3 AST),33 - 29,-4,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,162,1,46,2,8:40 PM,3:04,Perkins 11' Running Jump Shot (4 PTS),,,33 - 31,-2,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,163,2,1,2,8:40 PM,2:47,,,MISS Tuck 3PT Jump Shot,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,164,4,0,2,8:40 PM,2:46,Brunson REBOUND (Off:1 Def:2),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,165,2,47,2,8:41 PM,2:24,MISS Perkins 12' Turnaround Jump Shot,,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,166,4,0,2,8:41 PM,2:22,,,Kizer REBOUND (Off:0 Def:1),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,167,5,45,2,8:41 PM,2:13,,,Bentley Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,168,9,1,2,8:41 PM,2:13,,,Sun Timeout: Regular (Reg.1 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,170,8,0,2,8:44 PM,2:13,,,SUB: J. Thomas FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,171,8,0,2,8:44 PM,2:13,,,SUB: J. Jones FOR Kizer,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,172,8,0,2,8:44 PM,2:13,SUB: Moore FOR Perkins,,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,173,2,1,2,8:45 PM,1:54,MISS Moore 24' 3PT Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,174,4,0,2,8:45 PM,1:53,Howard REBOUND (Off:2 Def:0),,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,175,1,72,2,8:45 PM,1:52,Howard 2' Putback Layup (2 PTS),,,33 - 33,TIE,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,176,1,5,2,8:45 PM,1:38,,,A. Thomas 1' Layup (4 PTS) (J. Thomas 1 AST),35 - 33,-2,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,177,5,11,2,8:45 PM,1:12,LYNX Turnover: Shot Clock (T#12),,,,,2.0,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,178,8,0,2,8:45 PM,1:12,SUB: Fowles FOR Howard,,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,179,2,1,2,8:46 PM,1:00,,,MISS J. Thomas 20' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,180,4,0,2,8:46 PM,0:59,Augustus REBOUND (Off:0 Def:3),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,181,5,1,2,8:46 PM,0:44,Moore Bad Pass Turnover (P3.T13),,A. Thomas STEAL (1 STL),,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,182,1,42,2,8:46 PM,0:39,,,J. Jones 2' Driving Layup (8 PTS) (A. Thomas 5 AST),37 - 33,-4,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,183,9,1,2,8:46 PM,0:39,LYNX Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,185,8,0,2,8:48 PM,0:39,,,SUB: Kizer FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,186,6,1,2,8:48 PM,0:27,,,Kizer P.FOUL (P3.T3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,187,1,42,2,8:49 PM,0:20,Fowles 1' Driving Layup (10 PTS) (Montgomery 1 AST),,,37 - 35,-2,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,188,2,1,2,8:49 PM,0:00,,,MISS Bentley 17' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,189,4,0,2,8:49 PM,0:00,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,190,13,0,2,8:49 PM,0:00,,End of 2nd Period (8:49 PM EST),,37 - 35,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,192,12,0,3,9:05 PM,10:00,,Start of 3rd Period (9:05 PM EST),,37 - 35,-2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,193,2,3,3,9:06 PM,9:40,MISS Fowles 3' Hook Shot,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,194,4,0,3,9:06 PM,9:38,,,J. Jones REBOUND (Off:0 Def:2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,195,2,1,3,9:06 PM,9:21,,,MISS A. Thomas 4' Jump Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,196,4,0,3,9:06 PM,9:20,,,A. Thomas REBOUND (Off:2 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,197,2,5,3,9:06 PM,9:19,,,MISS A. Thomas 2' Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,198,4,0,3,9:06 PM,9:15,Fowles REBOUND (Off:0 Def:6),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,199,2,1,3,9:06 PM,9:07,MISS Brunson 15' Jump Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,200,4,0,3,9:06 PM,9:05,Brunson REBOUND (Off:2 Def:2),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,201,2,79,3,9:06 PM,8:57,MISS Whalen 15' Pullup Jump Shot,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,202,4,0,3,9:06 PM,8:56,,,A. Thomas REBOUND (Off:2 Def:2),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,203,6,2,3,9:06 PM,8:52,Brunson S.FOUL (P1.T1),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,204,3,11,3,9:07 PM,8:52,,,MISS J. Thomas Free Throw 1 of 2,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700017,205,4,1,3,9:07 PM,8:52,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,206,3,12,3,9:07 PM,8:52,,,J. Thomas Free Throw 2 of 2 (10 PTS),38 - 35,-3,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700017,208,6,1,3,9:07 PM,8:38,,,Bentley P.FOUL (P2.T1),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,209,2,79,3,9:08 PM,8:29,MISS Moore 20' Pullup Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,210,4,0,3,9:08 PM,8:26,,,Tuck REBOUND (Off:1 Def:2),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,211,5,2,3,9:08 PM,8:11,Brunson STEAL (1 STL),,Tuck Lost Ball Turnover (P1.T7),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,213,1,3,3,9:08 PM,8:00,Augustus 5' Hook Shot (7 PTS) (Whalen 2 AST),,,38 - 37,-1,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,214,1,5,3,9:09 PM,7:44,,,J. Jones 2' Layup (10 PTS) (J. Thomas 2 AST),40 - 37,-3,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,215,1,5,3,9:09 PM,7:27,Fowles 1' Layup (12 PTS) (Moore 5 AST),,,40 - 39,-1,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,216,1,1,3,9:09 PM,7:11,,,J. Thomas 3PT Jump Shot (13 PTS) (Bentley 4 AST),43 - 39,-4,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,217,1,1,3,9:10 PM,6:55,Whalen 16' Jump Shot (2 PTS) (Fowles 1 AST),,,43 - 41,-2,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,218,2,1,3,9:10 PM,6:44,,,MISS Tuck 3PT Jump Shot,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,219,4,0,3,9:10 PM,6:43,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,220,2,5,3,9:10 PM,6:28,MISS Augustus 3' Layup,,J. Jones BLOCK (1 BLK),,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700017,221,4,0,3,9:10 PM,6:25,,,Tuck REBOUND (Off:1 Def:3),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,222,2,1,3,9:10 PM,6:20,,,MISS Bentley 6' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,223,4,0,3,9:10 PM,6:20,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,226,6,3,3,9:11 PM,6:20,,,J. Jones L.B.FOUL (P3.T2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1021700017,227,8,0,3,9:11 PM,6:20,,,SUB: Kizer FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,228,2,1,3,9:11 PM,6:07,MISS Moore 14' Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,229,4,0,3,9:11 PM,6:06,,,Tuck REBOUND (Off:1 Def:4),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,230,5,1,3,9:11 PM,6:04,Whalen STEAL (1 STL),,Tuck Bad Pass Turnover (P2.T8),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,231,5,45,3,9:11 PM,5:59,Whalen Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,232,6,1,3,9:11 PM,5:50,Fowles P.FOUL (P3.T2),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,233,8,0,3,9:12 PM,5:50,,,SUB: Adams FOR Tuck,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,234,1,1,3,9:12 PM,5:43,,,Adams 3PT Jump Shot (3 PTS) (Bentley 5 AST),46 - 41,-5,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,235,6,2,3,9:12 PM,5:23,,,Adams S.FOUL (P1.T3),,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,236,3,11,3,9:12 PM,5:23,Brunson Free Throw 1 of 2 (4 PTS),,,46 - 42,-4,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,238,3,12,3,9:13 PM,5:23,Brunson Free Throw 2 of 2 (5 PTS),,,46 - 43,-3,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,240,2,1,3,9:13 PM,5:08,,,MISS A. Thomas 3' Jump Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,241,4,0,3,9:13 PM,5:07,Brunson REBOUND (Off:2 Def:3),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,242,6,2,3,9:13 PM,5:01,,,Kizer S.FOUL (P4.T4),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,243,3,11,3,9:14 PM,5:01,Fowles Free Throw 1 of 2 (13 PTS),,,46 - 44,-2,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,245,3,12,3,9:14 PM,5:01,MISS Fowles Free Throw 2 of 2,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,247,4,0,3,9:14 PM,5:00,Moore REBOUND (Off:1 Def:2),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,248,1,79,3,9:14 PM,4:49,Augustus 3PT Pullup Jump Shot (10 PTS),,,46 - 47,1,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,249,2,5,3,9:14 PM,4:33,,,MISS J. Thomas 2' Layup,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,250,4,0,3,9:14 PM,4:32,Moore REBOUND (Off:1 Def:3),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,251,1,79,3,9:15 PM,4:17,Augustus 21' Pullup Jump Shot (12 PTS),,,46 - 49,3,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,252,6,1,3,9:15 PM,4:11,Whalen P.FOUL (P1.T3),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,253,9,1,3,9:15 PM,4:11,,Timeout: Regular,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,255,18,0,3,9:16 PM,4:11,,Support Ruling,,,,,251,Sean Elliott,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,257,8,0,3,9:18 PM,4:11,,,SUB: Williams FOR Bentley,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,258,8,0,3,9:18 PM,4:11,,,SUB: Tuck FOR Kizer,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,259,8,0,3,9:18 PM,4:11,,,SUB: J. Jones FOR Adams,,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,260,5,1,3,9:19 PM,3:56,Fowles STEAL (2 STL),,J. Thomas Bad Pass Turnover (P2.T9),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,261,2,79,3,9:19 PM,3:48,MISS Whalen 17' Pullup Jump Shot,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,262,4,0,3,9:19 PM,3:46,,,Tuck REBOUND (Off:1 Def:5),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,263,2,1,3,9:19 PM,3:39,Brunson BLOCK (1 BLK),,MISS Williams 4' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,1
+1021700017,264,4,0,3,9:19 PM,3:37,Moore REBOUND (Off:1 Def:4),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,265,2,5,3,9:19 PM,3:28,MISS Fowles 3' Layup,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,266,4,0,3,9:19 PM,3:27,,,J. Jones REBOUND (Off:0 Def:3),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,267,2,1,3,9:19 PM,3:17,,,MISS J. Thomas 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,268,4,0,3,9:19 PM,3:15,Fowles REBOUND (Off:0 Def:7),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,269,1,1,3,9:20 PM,2:53,Augustus 15' Jump Shot (14 PTS) (Brunson 1 AST),,,46 - 51,5,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,270,2,1,3,9:20 PM,2:35,,,MISS Tuck 24' 3PT Jump Shot,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,271,4,0,3,9:20 PM,2:35,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,272,6,3,3,9:20 PM,2:35,Whalen L.B.FOUL (P2.T4),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,273,8,0,3,9:20 PM,2:35,SUB: Montgomery FOR Whalen,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,274,8,0,3,9:20 PM,2:35,SUB: Perkins FOR Augustus,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,275,5,1,3,9:21 PM,2:28,Fowles STEAL (3 STL),,A. Thomas Bad Pass Turnover (P2.T10),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,276,1,79,3,9:21 PM,2:22,Moore 13' Pullup Jump Shot (7 PTS),,,46 - 53,7,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,277,9,2,3,9:21 PM,2:21,,,Sun Timeout: Short (Reg.1 Short 1),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,279,8,0,3,9:22 PM,2:21,,,SUB: Stricklen FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,280,2,42,3,9:23 PM,2:08,Fowles BLOCK (3 BLK),,MISS Tuck 2' Driving Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1021700017,281,4,0,3,9:23 PM,2:07,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,282,6,1,3,9:23 PM,1:59,Moore P.FOUL (P1.PN),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,283,3,11,3,9:23 PM,1:59,,,J. Jones Free Throw 1 of 2 (11 PTS),47 - 53,6,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700017,285,3,12,3,9:24 PM,1:59,,,J. Jones Free Throw 2 of 2 (12 PTS),48 - 53,5,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700017,287,5,2,3,9:24 PM,1:47,Perkins Lost Ball Turnover (P1.T15),,Williams STEAL (1 STL),,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,288,1,79,3,9:24 PM,1:42,,,Williams 14' Pullup Jump Shot (4 PTS),50 - 53,3,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,289,2,5,3,9:24 PM,1:15,MISS Brunson 2' Layup,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,290,4,0,3,9:24 PM,1:14,Fowles REBOUND (Off:1 Def:7),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,291,6,2,3,9:25 PM,1:14,,,Tuck S.FOUL (P1.PN),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,292,3,11,3,9:25 PM,1:14,Fowles Free Throw 1 of 2 (14 PTS),,,50 - 54,4,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,294,8,0,3,9:25 PM,1:14,,,SUB: Banham FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,295,3,12,3,9:25 PM,1:14,Fowles Free Throw 2 of 2 (15 PTS),,,50 - 55,5,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,297,2,1,3,9:25 PM,1:03,,,MISS Banham 13' Jump Shot,,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,298,4,0,3,9:25 PM,1:02,Fowles REBOUND (Off:1 Def:8),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,299,1,76,3,9:26 PM,0:58,Moore 3' Running Finger Roll Layup (9 PTS) (Fowles 2 AST),,,50 - 57,7,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,300,1,1,3,9:26 PM,0:45,,,Stricklen 24' 3PT Jump Shot (3 PTS) (Banham 1 AST),53 - 57,4,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,301,1,1,3,9:26 PM,0:28,Perkins 3PT Jump Shot (7 PTS) (Fowles 3 AST),,,53 - 60,7,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,302,6,1,3,9:27 PM,0:18,Moore P.FOUL (P2.PN),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,303,3,11,3,9:27 PM,0:18,,,Tuck Free Throw 1 of 2 (3 PTS),54 - 60,6,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700017,305,3,12,3,9:27 PM,0:18,,,MISS Tuck Free Throw 2 of 2,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700017,307,4,0,3,9:27 PM,0:17,Brunson REBOUND (Off:2 Def:4),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,308,1,44,3,9:27 PM,0:00,Fowles 3' Reverse Layup (17 PTS) (Montgomery 2 AST),,,54 - 62,8,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,309,13,0,3,9:27 PM,0:00,,End of 3rd Period (9:27 PM EST),,54 - 62,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,311,12,0,4,9:31 PM,10:00,,Start of 4th Period (9:31 PM EST),,54 - 62,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,312,2,1,4,9:31 PM,9:44,,,MISS Banham 24' 3PT Jump Shot,,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,313,4,0,4,9:31 PM,9:43,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1021700017,314,6,3,4,9:31 PM,9:43,Montgomery L.B.FOUL (P1.T1),,,,,4.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,316,2,5,4,9:32 PM,9:33,,,MISS Tuck 2' Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,318,4,0,4,9:32 PM,9:30,,,J. Jones REBOUND (Off:1 Def:3),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,317,2,72,4,9:32 PM,9:29,,,MISS J. Jones 4' Putback Layup,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,319,4,0,4,9:32 PM,9:28,Brunson REBOUND (Off:2 Def:5),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,320,6,1,4,9:32 PM,9:17,,,J. Jones P.FOUL (P4.T1),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,321,1,75,4,9:33 PM,9:07,Moore 2' Driving Finger Roll Layup (11 PTS),,,54 - 64,10,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,322,5,1,4,9:33 PM,9:01,Perkins STEAL (2 STL),,Banham Bad Pass Turnover (P1.T11),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,323,1,79,4,9:33 PM,8:54,Montgomery 24' 3PT Pullup Jump Shot (6 PTS),,,54 - 67,13,4.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,324,2,1,4,9:33 PM,8:34,,,MISS Stricklen 24' 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,325,4,0,4,9:33 PM,8:33,,,Tuck REBOUND (Off:2 Def:5),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,326,1,5,4,9:33 PM,8:28,,,Tuck 2' Layup (5 PTS),56 - 67,11,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,327,1,1,4,9:34 PM,8:11,Fowles 4' Jump Shot (19 PTS) (Montgomery 3 AST),,,56 - 69,13,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,328,6,2,4,9:34 PM,8:11,,,J. Jones S.FOUL (P5.T2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,329,8,0,4,9:34 PM,8:11,SUB: Augustus FOR Moore,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,330,8,0,4,9:34 PM,8:11,,,SUB: J. Thomas FOR Banham,,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,331,8,0,4,9:34 PM,8:11,,,SUB: Kizer FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,332,8,0,4,9:34 PM,8:11,,,SUB: Bentley FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,333,8,0,4,9:34 PM,8:11,,,SUB: A. Thomas FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,334,3,10,4,9:34 PM,8:11,MISS Fowles Free Throw 1 of 1,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,336,4,0,4,9:34 PM,8:09,,,A. Thomas REBOUND (Off:2 Def:3),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,337,2,1,4,9:35 PM,7:53,,,MISS Kizer 3PT Jump Shot,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,338,4,0,4,9:35 PM,7:51,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,339,5,11,4,9:35 PM,7:47,,,Sun Turnover: Shot Clock (T#12),,,3.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,340,2,5,4,9:35 PM,7:32,MISS Fowles 2' Layup,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,342,4,0,4,9:35 PM,7:30,,,Tuck REBOUND (Off:2 Def:6),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,343,1,5,4,9:35 PM,7:25,,,Kizer 2' Layup (6 PTS) (J. Thomas 3 AST),58 - 69,11,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,344,5,1,4,9:36 PM,7:05,Brunson Bad Pass Turnover (P1.T16),,Kizer STEAL (3 STL),,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,345,1,5,4,9:36 PM,6:58,,,Tuck 2' Layup (7 PTS) (A. Thomas 6 AST),60 - 69,9,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,346,9,1,4,9:36 PM,6:50,LYNX Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,348,8,0,4,9:38 PM,6:50,SUB: Whalen FOR Montgomery,,,,,4.0,201904,Renee Montgomery,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,349,8,0,4,9:38 PM,6:50,SUB: Moore FOR Perkins,,,,,4.0,100952,Jia Perkins,1611661324.0,Minnesota,Lynx,MIN,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,350,2,1,4,9:39 PM,6:37,MISS Fowles 4' Jump Shot,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,351,4,0,4,9:39 PM,6:35,,,Tuck REBOUND (Off:2 Def:7),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,352,2,1,4,9:40 PM,6:22,,,MISS Kizer 3' Jump Shot,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,353,4,0,4,9:40 PM,6:21,Fowles REBOUND (Off:1 Def:9),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,355,8,0,4,9:40 PM,6:10,SUB: Howard FOR Brunson,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,4,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,356,2,1,4,9:40 PM,6:03,MISS Augustus 17' Jump Shot,,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,357,4,0,4,9:40 PM,6:01,,,Tuck REBOUND (Off:2 Def:8),,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,358,2,41,4,9:40 PM,5:52,,,MISS Tuck 1' Running Layup,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,359,4,0,4,9:40 PM,5:51,Fowles REBOUND (Off:1 Def:10),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,360,2,5,4,9:41 PM,5:39,MISS Howard 2' Layup,,Kizer BLOCK (1 BLK),,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,1
+1021700017,361,4,0,4,9:41 PM,5:36,,,J. Thomas REBOUND (Off:0 Def:1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,362,1,1,4,9:41 PM,5:30,,,J. Thomas 8' Jump Shot (15 PTS),62 - 69,7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,363,5,1,4,9:41 PM,5:17,Augustus Bad Pass Turnover (P3.T17),,J. Thomas STEAL (2 STL),,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,364,1,5,4,9:41 PM,5:11,,,A. Thomas 2' Layup (6 PTS) (J. Thomas 4 AST),64 - 69,5,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,366,6,2,4,9:42 PM,4:53,,,Kizer S.FOUL (P5.T3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,367,3,11,4,9:42 PM,4:53,Moore Free Throw 1 of 2 (12 PTS),,,64 - 70,6,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,369,3,12,4,9:42 PM,4:53,MISS Moore Free Throw 2 of 2,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021700017,371,4,0,4,9:42 PM,4:52,Howard REBOUND (Off:3 Def:0),,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,372,1,72,4,9:42 PM,4:50,Howard 3' Putback Layup (4 PTS),,,64 - 72,8,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,373,2,63,4,9:43 PM,4:34,,,MISS Bentley 16' Fadeaway Jumper,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,374,4,0,4,9:43 PM,4:33,Moore REBOUND (Off:1 Def:5),,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,375,5,1,4,9:43 PM,4:25,Moore Bad Pass Turnover (P4.T18),,Tuck STEAL (2 STL),,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,376,2,79,4,9:43 PM,4:21,,,MISS Bentley 14' Pullup Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,377,4,0,4,9:43 PM,4:20,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,378,6,3,4,9:43 PM,4:20,Augustus L.B.FOUL (P1.T2),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,379,1,1,4,9:43 PM,4:09,,,Tuck 18' Jump Shot (9 PTS) (J. Thomas 5 AST),66 - 72,6,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,380,1,5,4,9:44 PM,3:44,Fowles 2' Layup (21 PTS) (Whalen 3 AST),,,66 - 74,8,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,381,6,4,4,9:44 PM,3:30,,,A. Thomas OFF.Foul (P2),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,382,5,5,4,9:44 PM,3:30,,,A. Thomas Foul Turnover (P3.T13),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700017,383,8,0,4,9:44 PM,3:30,SUB: Brunson FOR Howard,,,,,4.0,203827,Natasha Howard,1611661324.0,Minnesota,Lynx,MIN,4,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021700017,384,6,4,4,9:45 PM,3:22,Whalen OFF.Foul (P3),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,385,5,5,4,9:45 PM,3:22,Whalen Foul Turnover (P3.T19),,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1021700017,386,2,41,4,9:45 PM,3:15,Fowles BLOCK (4 BLK),,MISS J. Thomas 2' Running Layup,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0
+1021700017,387,4,0,4,9:45 PM,3:14,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,388,8,0,4,9:45 PM,3:14,,,SUB: J. Jones FOR Kizer,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,389,2,1,4,9:46 PM,3:10,,,MISS Bentley 11' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,390,4,0,4,9:46 PM,3:09,Augustus REBOUND (Off:0 Def:4),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,391,5,1,4,9:46 PM,3:04,Augustus Bad Pass Turnover (P4.T20),,,,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,392,6,3,4,9:46 PM,3:03,Brunson L.B.FOUL (P2.T3),,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700017,393,1,1,4,9:46 PM,2:46,,,J. Thomas 3PT Jump Shot (18 PTS) (Tuck 3 AST),69 - 74,5,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,394,1,42,4,9:47 PM,2:23,Brunson 2' Driving Layup (7 PTS),,,69 - 76,7,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,395,2,46,4,9:47 PM,2:11,,,MISS J. Thomas 7' Running Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,396,4,0,4,9:47 PM,2:10,Fowles REBOUND (Off:1 Def:11),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,397,2,1,4,9:47 PM,2:03,MISS Moore 3PT Jump Shot,,,,,4.0,202632,Maya Moore,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,398,4,0,4,9:47 PM,2:01,Fowles REBOUND (Off:2 Def:11),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,399,1,5,4,9:47 PM,1:59,Whalen 2' Layup (4 PTS) (Fowles 4 AST),,,69 - 78,9,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,400,5,2,4,9:47 PM,1:45,Whalen STEAL (2 STL),,A. Thomas Lost Ball Turnover (P4.T14),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021700017,401,5,2,4,9:47 PM,1:39,Whalen Lost Ball Turnover (P4.T21),,Tuck STEAL (3 STL),,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,402,2,1,4,9:48 PM,1:35,,,MISS Bentley 24' 3PT Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,403,4,0,4,9:48 PM,1:33,,,A. Thomas REBOUND (Off:3 Def:3),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,404,2,72,4,9:48 PM,1:31,,,MISS A. Thomas 2' Putback Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,406,4,0,4,9:48 PM,1:30,,,J. Jones REBOUND (Off:2 Def:3),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,405,1,72,4,9:48 PM,1:29,,,J. Jones 2' Putback Layup (14 PTS),71 - 78,7,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,407,9,1,4,9:48 PM,1:28,LYNX Timeout: Regular (Full 4 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,409,8,0,4,9:50 PM,1:28,,,SUB: Williams FOR Tuck,,,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,410,5,1,4,9:51 PM,1:06,Augustus Bad Pass Turnover (P5.T22),,A. Thomas STEAL (2 STL),,,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,411,1,42,4,9:52 PM,1:02,,,A. Thomas 2' Driving Layup (8 PTS),73 - 78,5,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,412,2,1,4,9:52 PM,0:38,MISS Brunson 3' Jump Shot,,,,,4.0,100944,Rebekkah Brunson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,413,4,0,4,9:52 PM,0:36,,,J. Thomas REBOUND (Off:0 Def:2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,414,2,1,4,9:52 PM,0:29,,,MISS J. Thomas 18' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,415,4,0,4,9:52 PM,0:28,,,J. Jones REBOUND (Off:3 Def:3),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,416,1,72,4,9:52 PM,0:27,,,J. Jones 2' Putback Layup (16 PTS),75 - 78,3,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,417,9,2,4,9:52 PM,0:27,LYNX Timeout: Short (Full 4 Short 1),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,419,6,28,4,9:54 PM,0:27,,,J. Thomas Personal Take Foul (P1.T4),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1021700017,420,6,28,4,9:54 PM,0:26,,,Bentley Personal Take Foul (P3.PN),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,421,3,11,4,9:54 PM,0:26,Augustus Free Throw 1 of 2 (15 PTS),,,75 - 79,4,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,423,3,12,4,9:55 PM,0:26,Augustus Free Throw 2 of 2 (16 PTS),,,75 - 80,5,4.0,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,425,9,1,4,9:55 PM,0:26,,,Sun Timeout: Regular (Reg.2 Short 1),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,427,8,0,4,9:56 PM,0:26,,,SUB: Tuck FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700017,428,7,1,4,9:56 PM,0:26,LYNX Violation: Delay of game Violation,,,,,2.0,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,429,1,1,4,9:57 PM,0:19,,,Tuck 3PT Jump Shot (12 PTS) (Bentley 6 AST),78 - 80,2,5.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700017,431,18,0,4,9:57 PM,0:19,,Support Ruling,,,,,430,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700017,432,9,2,4,9:59 PM,0:19,LYNX Timeout: Short (Full 4 Short 2),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,434,6,28,4,10:00 PM,0:18,,,J. Thomas Personal Take Foul (P2.PN),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021700017,435,3,11,4,10:00 PM,0:18,MISS Whalen Free Throw 1 of 2,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,436,4,1,4,10:00 PM,0:18,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,437,3,12,4,10:00 PM,0:18,MISS Whalen Free Throw 2 of 2,,,,,4.0,100915,Lindsay Whalen,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021700017,439,4,0,4,10:01 PM,0:17,,,J. Thomas REBOUND (Off:0 Def:3),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700017,440,9,1,4,10:01 PM,0:17,,,Sun Timeout: Regular (Reg.3 Short 1),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,441,2,45,4,10:01 PM,0:03,Fowles BLOCK (5 BLK),,MISS J. Jones 5' Jump Shot,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1021700017,442,9,2,4,10:03 PM,0:02,,,Sun Timeout: Short (Reg.3 Short 2),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,443,10,0,4,10:03 PM,0:02,Jump Ball Fowles vs. J. Jones: Tip to J. Thomas,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700017,447,4,0,4,10:03 PM,0:02,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700017,444,13,0,4,10:04 PM,0:00,,End of 4th Period (10:04 PM EST),,78 - 80,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

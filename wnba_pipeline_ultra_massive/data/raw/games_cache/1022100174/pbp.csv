@@ -1,0 +1,363 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022100174,2,12,0,1,8:09 PM,10:00,,Start of 1st Period (8:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,4,10,0,1,8:09 PM,10:00,Jump Ball Fowles vs. McCowan: Tip to Allen,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,1
+1022100174,8,1,5,1,8:10 PM,9:47,,,Breland 3' Layup (2 PTS) (T. Mitchell 1 AST),2 - 0,-2,5,202638,Jessica Breland,1611661325.0,Indiana,Fever,IND,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,10,2,1,1,8:10 PM,9:25,MISS McBride 7' Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,11,4,0,1,8:10 PM,9:25,,,Breland REBOUND (Off:0 Def:1),,,5,202638,Jessica Breland,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,12,5,1,1,8:10 PM,9:11,Powers STEAL (1 STL),,T. Mitchell Bad Pass Turnover (P1.T1),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,14,2,5,1,8:10 PM,8:59,MISS Fowles 3' Layup,,McCowan BLOCK (1 BLK),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,1
+1022100174,16,4,0,1,8:11 PM,8:55,,,Allen REBOUND (Off:0 Def:1),,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,17,2,5,1,8:11 PM,8:46,,,MISS McCowan 2' Layup,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,18,4,0,1,8:11 PM,8:43,,,McCowan REBOUND (Off:1 Def:0),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,19,2,5,1,8:11 PM,8:42,Fowles BLOCK (1 BLK),,MISS McCowan 1' Layup,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,21,4,0,1,8:11 PM,8:39,Collier REBOUND (Off:0 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,22,1,1,1,8:11 PM,8:33,Powers 15' Jump Shot (2 PTS),,,2 - 2,TIE,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,23,5,1,1,8:11 PM,8:12,Fowles STEAL (1 STL),,McCowan Bad Pass Turnover (P1.T2),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,25,1,5,1,8:11 PM,8:09,Fowles 1' Layup (2 PTS),,,2 - 4,2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,26,1,5,1,8:12 PM,7:50,,,McCowan 1' Layup (2 PTS) (Allen 1 AST),4 - 4,TIE,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,28,6,4,1,8:12 PM,7:43,Collier OFF.Foul (P1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,30,5,37,1,8:12 PM,7:43,Collier Offensive Foul Turnover (P1.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100174,31,2,5,1,8:12 PM,7:29,Fowles BLOCK (2 BLK),,MISS K. Mitchell 3' Layup,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,33,4,0,1,8:12 PM,7:29,Powers REBOUND (Off:0 Def:1),,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,34,1,5,1,8:12 PM,7:16,Dangerfield 3' Layup (2 PTS),,,4 - 6,2,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,35,6,2,1,8:13 PM,7:09,Fowles S.FOUL (P1.T1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,37,3,11,1,8:13 PM,7:09,,,K. Mitchell Free Throw 1 of 2 (1 PTS),5 - 6,1,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,38,3,12,1,8:14 PM,7:09,,,K. Mitchell Free Throw 2 of 2 (2 PTS),6 - 6,TIE,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,39,2,1,1,8:14 PM,6:59,MISS Collier 8' Jump Shot,,Breland BLOCK (1 BLK),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,202638,Jessica Breland,1611661325.0,Indiana,Fever,IND,1
+1022100174,41,4,0,1,8:14 PM,6:59,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,43,2,1,1,8:14 PM,6:52,MISS Collier 26' 3PT Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,44,4,0,1,8:14 PM,6:47,,,T. Mitchell REBOUND (Off:0 Def:1),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,45,1,6,1,8:14 PM,6:42,,,T. Mitchell 2' Driving Layup (2 PTS),8 - 6,-2,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,46,1,79,1,8:15 PM,6:26,Powers 16' Pullup Jump Shot (4 PTS),,,8 - 8,TIE,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,47,6,1,1,8:15 PM,6:06,Dangerfield P.FOUL (P1.T2),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,49,8,0,1,8:15 PM,6:06,,,SUB: Vivians FOR Breland,,,5,202638,Jessica Breland,1611661325.0,Indiana,Fever,IND,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,51,5,2,1,8:16 PM,5:57,Collier STEAL (1 STL),,T. Mitchell Lost Ball Turnover (P2.T3),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,53,7,4,1,8:17 PM,5:55,,,T. Mitchell Violation:Jump Ball,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1022100174,54,1,47,1,8:17 PM,5:40,Powers 13' Turnaround Jump Shot (6 PTS),,,8 - 10,2,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,55,2,1,1,8:17 PM,5:21,,,MISS K. Mitchell 25' 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,56,4,0,1,8:17 PM,5:17,Fowles REBOUND (Off:0 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,57,5,45,1,8:17 PM,5:10,Fowles Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100174,58,2,1,1,8:18 PM,4:56,,,MISS McCowan 15' Jump Shot,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,59,4,0,1,8:18 PM,4:53,Powers REBOUND (Off:0 Def:2),,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,60,2,80,1,8:18 PM,4:47,MISS Powers 25' 3PT Step Back Jump Shot,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,61,4,0,1,8:18 PM,4:45,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,63,9,4,1,8:18 PM,4:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,64,8,0,1,8:21 PM,4:45,,,SUB: Wilson FOR K. Mitchell,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,66,2,6,1,8:21 PM,4:26,Fowles BLOCK (3 BLK),,MISS T. Mitchell 2' Driving Layup,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,67,4,0,1,8:21 PM,4:22,Collier REBOUND (Off:0 Def:2),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,68,2,1,1,8:21 PM,4:18,MISS McBride 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,69,4,0,1,8:21 PM,4:14,,,McCowan REBOUND (Off:1 Def:1),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,70,2,78,1,8:21 PM,4:04,,,MISS Wilson 15' Floating Jump Shot,,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,71,4,0,1,8:22 PM,4:02,Fowles REBOUND (Off:0 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,72,2,79,1,8:22 PM,3:46,MISS Powers 10' Pullup Jump Shot,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,73,4,0,1,8:22 PM,3:43,,,McCowan REBOUND (Off:1 Def:2),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,74,2,5,1,8:22 PM,3:25,,,MISS McCowan 2' Layup,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,75,4,0,1,8:22 PM,3:24,Powers REBOUND (Off:0 Def:3),,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,76,6,1,1,8:22 PM,3:19,,,Wilson P.FOUL (P1.T1),,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,78,8,0,1,8:22 PM,3:19,SUB: Carleton FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,79,8,0,1,8:22 PM,3:19,SUB: Achonwa FOR Powers,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,80,8,0,1,8:22 PM,3:19,SUB: Banham FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,81,8,0,1,8:22 PM,3:19,,,SUB: Lavender FOR McCowan,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,82,8,0,1,8:22 PM,3:19,,,SUB: Cannon FOR T. Mitchell,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,88,2,1,1,8:23 PM,3:08,MISS McBride 25' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,89,4,0,1,8:23 PM,3:05,Collier REBOUND (Off:1 Def:2),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,90,2,1,1,8:23 PM,3:03,MISS Banham 24' 3PT Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,91,4,0,1,8:23 PM,3:03,,,Cannon REBOUND (Off:0 Def:1),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,92,1,1,1,8:23 PM,2:50,,,Vivians 24' 3PT Jump Shot (3 PTS) (Allen 2 AST),11 - 10,-1,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,94,2,1,1,8:24 PM,2:38,MISS Collier 14' Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,95,4,0,1,8:24 PM,2:38,,,Cannon REBOUND (Off:0 Def:2),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,96,5,8,1,8:24 PM,2:23,,,Cannon 3 Second Violation Turnover (P1.T4),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,97,1,1,1,8:24 PM,2:10,McBride 24' 3PT Jump Shot (3 PTS) (Banham 1 AST),,,11 - 13,2,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,99,2,1,1,8:25 PM,1:46,,,MISS Vivians 25' 3PT Jump Shot,,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,100,4,0,1,8:25 PM,1:45,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,101,6,3,1,8:25 PM,1:45,Collier L.B.FOUL (P2.T3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,103,8,0,1,8:25 PM,1:45,SUB: Shepard FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,105,1,1,1,8:25 PM,1:32,,,Cannon 24' 3PT Jump Shot (3 PTS) (Allen 3 AST),14 - 13,-1,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,107,5,45,1,8:26 PM,1:20,Carleton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100174,108,8,0,1,8:26 PM,1:20,,,SUB: K. Mitchell FOR Allen,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,110,1,1,1,8:26 PM,1:09,,,Lavender 20' Jump Shot (2 PTS) (K. Mitchell 1 AST),16 - 13,-3,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,112,2,1,1,8:27 PM,0:43,MISS Banham 20' Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,113,4,0,1,8:27 PM,0:39,,,Vivians REBOUND (Off:0 Def:1),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,114,2,1,1,8:27 PM,0:32,,,MISS Vivians 26' 3PT Jump Shot,,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,115,4,0,1,8:27 PM,0:29,Banham REBOUND (Off:0 Def:1),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,116,1,5,1,8:27 PM,0:24,Achonwa 2' Layup (2 PTS) (Banham 2 AST),,,16 - 15,-1,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,118,2,1,1,8:27 PM,0:02,,,MISS Cannon 3PT Jump Shot,,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,119,4,0,1,8:27 PM,0:02,Achonwa REBOUND (Off:0 Def:1),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,120,13,0,1,8:27 PM,0:00,,End of 1st Period (8:27 PM EST),,16 - 15,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100174,124,12,0,2,8:30 PM,10:00,,Start of 2nd Period (8:30 PM EST),,16 - 15,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,125,1,79,2,8:30 PM,9:42,Powers 14' Pullup Jump Shot (8 PTS) (Banham 3 AST),,,16 - 17,1,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,126,5,45,2,8:30 PM,9:31,,,Lavender Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,127,2,1,2,8:31 PM,9:23,MISS Powers 15' Jump Shot,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,128,4,0,2,8:31 PM,9:19,,,Cannon REBOUND (Off:0 Def:3),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,129,1,1,2,8:31 PM,9:10,,,K. Mitchell 3PT Jump Shot (5 PTS) (Wilson 1 AST),19 - 17,-2,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,131,2,1,2,8:31 PM,8:55,MISS Banham 3PT Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,132,4,0,2,8:31 PM,8:52,Carleton REBOUND (Off:1 Def:0),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,134,2,47,2,8:31 PM,8:41,MISS Powers 13' Turnaround Jump Shot,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,135,4,0,2,8:31 PM,8:41,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,136,6,3,2,8:32 PM,8:41,Shepard L.B.FOUL (P1.T1),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,138,8,0,2,8:32 PM,8:41,,,SUB: T. Mitchell FOR Wilson,,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,139,8,0,2,8:32 PM,8:41,,,SUB: McCowan FOR Cannon,,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,142,2,1,2,8:32 PM,8:32,,,MISS K. Mitchell 15' Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,143,4,0,2,8:32 PM,8:29,Shepard REBOUND (Off:0 Def:1),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,144,6,2,2,8:32 PM,8:24,,,Vivians S.FOUL (P1.T1),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,146,3,11,2,8:33 PM,8:24,Carleton Free Throw 1 of 2 (1 PTS),,,19 - 18,-1,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,147,3,12,2,8:33 PM,8:24,Carleton Free Throw 2 of 2 (2 PTS),,,19 - 19,TIE,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,148,1,6,2,8:33 PM,8:06,,,T. Mitchell 1' Driving Layup (4 PTS) (Vivians 1 AST),21 - 19,-2,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,149,1,98,2,8:33 PM,7:53,Shepard 2' Cutting Layup Shot (2 PTS) (Carleton 1 AST),,,21 - 21,TIE,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,151,1,98,2,8:33 PM,7:41,,,Lavender 2' Cutting Layup Shot (4 PTS) (K. Mitchell 2 AST),23 - 21,-2,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,153,2,1,2,8:34 PM,7:26,MISS Achonwa 18' Jump Shot,,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,154,4,0,2,8:34 PM,7:20,,,T. Mitchell REBOUND (Off:0 Def:2),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,155,2,6,2,8:34 PM,7:16,,,MISS T. Mitchell 2' Driving Layup,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,156,4,0,2,8:34 PM,7:13,Shepard REBOUND (Off:0 Def:2),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,157,2,1,2,8:34 PM,7:09,MISS Carleton 5' Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,158,4,0,2,8:34 PM,7:04,,,Lavender REBOUND (Off:0 Def:1),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,159,1,1,2,8:34 PM,6:54,,,Lavender 24' 3PT Jump Shot (7 PTS) (K. Mitchell 3 AST),26 - 21,-5,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,161,1,1,2,8:35 PM,6:35,Powers 24' 3PT Jump Shot (11 PTS),,,26 - 24,-2,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,164,8,0,2,8:35 PM,6:16,SUB: Dangerfield FOR Powers,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,165,8,0,2,8:35 PM,6:16,SUB: Collier FOR Achonwa,,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,166,8,0,2,8:35 PM,6:16,SUB: Fowles FOR Banham,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,167,8,0,2,8:35 PM,6:16,,,SUB: Allen FOR Lavender,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,172,2,79,2,8:36 PM,6:09,,,MISS Vivians 19' Pullup Jump Shot,,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,173,4,0,2,8:36 PM,6:06,,,McCowan REBOUND (Off:2 Def:2),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,174,1,72,2,8:36 PM,6:04,,,McCowan 1' Putback Layup (4 PTS),28 - 24,-4,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,175,1,5,2,8:36 PM,5:54,Collier 2' Layup (2 PTS) (Shepard 1 AST),,,28 - 26,-2,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,177,2,1,2,8:36 PM,5:36,,,MISS K. Mitchell 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,178,4,0,2,8:36 PM,5:33,Fowles REBOUND (Off:0 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,179,1,79,2,8:36 PM,5:25,Dangerfield 15' Pullup Jump Shot (4 PTS) (Fowles 1 AST),,,28 - 28,TIE,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,181,9,1,2,8:36 PM,5:23,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,182,2,6,2,8:40 PM,5:00,Fowles BLOCK (4 BLK),,MISS Allen 4' Driving Layup,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,184,4,0,2,8:40 PM,5:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,187,2,5,2,8:40 PM,4:36,MISS Shepard 3' Layup,,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,188,4,0,2,8:40 PM,4:35,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,189,5,11,2,8:40 PM,4:35,LYNX Turnover: Shot Clock (T#4),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,190,5,1,2,8:41 PM,4:12,Fowles STEAL (2 STL),,Vivians Bad Pass Turnover (P1.T6),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,192,5,2,2,8:41 PM,4:03,Fowles Lost Ball Turnover (P2.T5),,Vivians STEAL (1 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,194,1,41,2,8:41 PM,3:59,,,T. Mitchell 2' Running Layup (6 PTS) (K. Mitchell 4 AST),30 - 28,-2,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,196,1,1,2,8:41 PM,3:45,Carleton 26' 3PT Jump Shot (5 PTS) (Shepard 2 AST),,,30 - 31,1,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,198,2,1,2,8:42 PM,3:16,,,MISS Allen 3PT Jump Shot,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,199,4,0,2,8:42 PM,3:13,Fowles REBOUND (Off:0 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,200,5,1,2,8:42 PM,3:07,Dangerfield Bad Pass Turnover (P1.T6),,K. Mitchell STEAL (1 STL),,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,202,6,28,2,8:42 PM,3:07,Dangerfield Personal Take Foul (P2.T2),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,204,8,0,2,8:42 PM,3:07,SUB: McBride FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,206,5,45,2,8:43 PM,2:52,,,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,207,9,1,2,8:43 PM,2:52,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,208,1,98,2,8:45 PM,2:41,Fowles 2' Cutting Layup Shot (4 PTS) (McBride 1 AST),,,30 - 33,3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,210,5,4,2,8:46 PM,2:16,,,T. Mitchell Traveling Turnover (P3.T8),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,211,1,1,2,8:46 PM,2:03,McBride 15' Jump Shot (5 PTS) (Fowles 2 AST),,,30 - 35,5,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,213,1,44,2,8:47 PM,1:46,,,Allen 1' Reverse Layup (2 PTS) (T. Mitchell 2 AST),32 - 35,3,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,215,6,1,2,8:47 PM,1:30,,,K. Mitchell P.FOUL (P1.T2),,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,217,2,1,2,8:47 PM,1:26,MISS McBride 19' Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,218,4,0,2,8:47 PM,1:22,,,Allen REBOUND (Off:0 Def:2),,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,219,6,1,2,8:47 PM,1:21,McBride P.FOUL (P1.T3),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,221,5,1,2,8:48 PM,1:15,Fowles STEAL (3 STL),,K. Mitchell Bad Pass Turnover (P1.T9),,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,224,2,6,2,8:48 PM,1:04,MISS Dangerfield 4' Driving Layup,,McCowan BLOCK (2 BLK),,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,1
+1022100174,226,4,0,2,8:48 PM,1:04,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,228,1,5,2,8:49 PM,0:59,Fowles Layup (6 PTS) (Dangerfield 1 AST),,,32 - 37,5,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,230,1,6,2,8:49 PM,0:41,,,T. Mitchell 2' Driving Layup (8 PTS),34 - 37,3,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,231,6,2,2,8:49 PM,0:41,Dangerfield S.FOUL (P3.PN),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,233,3,10,2,8:49 PM,0:41,,,MISS T. Mitchell Free Throw 1 of 1,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,234,4,0,2,8:49 PM,0:38,,,McCowan REBOUND (Off:3 Def:2),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,235,2,1,2,8:49 PM,0:37,,,MISS K. Mitchell 24' 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,236,4,0,2,8:49 PM,0:33,Shepard REBOUND (Off:0 Def:3),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,237,6,2,2,8:50 PM,0:27,,,McCowan S.FOUL (P1.PN),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,240,3,11,2,8:50 PM,0:27,Collier Free Throw 1 of 2 (3 PTS),,,34 - 38,4,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,241,8,0,2,8:50 PM,0:27,SUB: Banham FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,243,3,12,2,8:50 PM,0:27,Collier Free Throw 2 of 2 (4 PTS),,,34 - 39,5,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,244,5,4,2,8:51 PM,0:11,,,Allen Traveling Turnover (P2.T10),,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,245,6,1,2,8:51 PM,0:03,,,T. Mitchell P.FOUL (P1.PN),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,247,3,11,2,8:51 PM,0:03,MISS McBride Free Throw 1 of 2,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,248,4,1,2,8:51 PM,0:03,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,249,8,0,2,8:51 PM,0:03,SUB: Carleton FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,251,3,12,2,8:51 PM,0:03,MISS McBride Free Throw 2 of 2,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,252,4,0,2,8:51 PM,0:01,,,McCowan REBOUND (Off:3 Def:3),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,253,13,0,2,8:52 PM,0:00,,End of 2nd Period (8:52 PM EST),,34 - 39,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100174,260,12,0,3,9:07 PM,10:00,,Start of 3rd Period (9:07 PM EST),,34 - 39,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,261,1,98,3,9:07 PM,9:41,Fowles 1' Cutting Layup Shot (8 PTS) (Collier 1 AST),,,34 - 41,7,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,263,2,1,3,9:08 PM,9:16,,,MISS Allen 25' 3PT Jump Shot,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,264,4,0,3,9:08 PM,9:13,,,McCowan REBOUND (Off:4 Def:3),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,265,1,97,3,9:08 PM,9:13,,,McCowan 1' Tip Layup Shot (6 PTS),36 - 41,5,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,266,6,1,3,9:08 PM,9:07,,,Vivians P.FOUL (P2.T1),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,268,2,78,3,9:08 PM,9:02,MISS McBride 10' Floating Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,269,4,0,3,9:08 PM,8:57,,,K. Mitchell REBOUND (Off:0 Def:1),,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,270,1,66,3,9:09 PM,8:49,,,Vivians 25' 3PT Jump Bank Shot (6 PTS) (Allen 4 AST),39 - 41,2,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,272,2,79,3,9:09 PM,8:38,MISS Powers 14' Pullup Jump Shot,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,273,4,0,3,9:09 PM,8:34,,,McCowan REBOUND (Off:4 Def:4),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,274,2,5,3,9:09 PM,8:27,,,MISS T. Mitchell 2' Layup,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,275,4,0,3,9:09 PM,8:23,,,T. Mitchell REBOUND (Off:1 Def:2),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,276,1,72,3,9:09 PM,8:21,,,T. Mitchell 1' Putback Layup (10 PTS),41 - 41,TIE,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,277,2,5,3,9:09 PM,8:13,MISS McBride 1' Layup,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,278,4,0,3,9:09 PM,8:13,Fowles REBOUND (Off:1 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,279,1,72,3,9:09 PM,8:13,Fowles 2' Putback Layup (10 PTS),,,41 - 43,2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,280,6,2,3,9:09 PM,8:13,,,T. Mitchell S.FOUL (P2.T2),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,282,3,10,3,9:10 PM,8:13,Fowles Free Throw 1 of 1 (11 PTS),,,41 - 44,3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,283,1,6,3,9:10 PM,8:00,,,K. Mitchell 2' Driving Layup (7 PTS) (Allen 5 AST),43 - 44,1,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,285,1,6,3,9:10 PM,7:40,Fowles 1' Driving Layup (13 PTS) (Dangerfield 2 AST),,,43 - 46,3,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,287,2,5,3,9:11 PM,7:20,Fowles BLOCK (5 BLK),,MISS McCowan 2' Layup,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,289,4,0,3,9:11 PM,7:16,,,McCowan REBOUND (Off:5 Def:4),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,290,1,72,3,9:11 PM,7:15,,,McCowan 1' Putback Layup (8 PTS),45 - 46,1,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,292,1,79,3,9:12 PM,7:07,Powers 17' Pullup Jump Shot (13 PTS) (Dangerfield 3 AST),,,45 - 48,3,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,294,2,1,3,9:12 PM,6:41,,,MISS Vivians 25' 3PT Jump Shot,,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,295,4,0,3,9:12 PM,6:37,Powers REBOUND (Off:0 Def:4),,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,296,1,5,3,9:12 PM,6:25,Collier 1' Layup (6 PTS) (McBride 2 AST),,,45 - 50,5,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,298,6,1,3,9:13 PM,6:04,Fowles P.FOUL (P2.T1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,300,5,1,3,9:13 PM,6:02,Fowles STEAL (4 STL),,T. Mitchell Bad Pass Turnover (P4.T11),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,302,1,1,3,9:13 PM,5:52,McBride 3PT Jump Shot (8 PTS) (Fowles 3 AST),,,45 - 53,8,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,304,9,1,3,9:14 PM,5:44,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,305,2,1,3,9:16 PM,5:31,,,MISS K. Mitchell 25' 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,306,4,0,3,9:16 PM,5:27,,,Vivians REBOUND (Off:1 Def:1),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,307,2,1,3,9:17 PM,5:20,,,MISS Allen 25' 3PT Jump Shot,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,308,4,0,3,9:17 PM,5:15,McBride REBOUND (Off:0 Def:1),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,309,2,6,3,9:17 PM,5:08,MISS Fowles 2' Driving Layup,,McCowan BLOCK (3 BLK),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,1
+1022100174,311,4,0,3,9:17 PM,5:08,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,313,8,0,3,9:17 PM,5:08,SUB: Banham FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,315,2,1,3,9:17 PM,4:55,MISS Banham 25' 3PT Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,316,4,0,3,9:17 PM,4:51,Fowles REBOUND (Off:2 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,317,6,2,3,9:17 PM,4:50,,,Vivians S.FOUL (P3.T3),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,319,3,11,3,9:18 PM,4:50,Powers Free Throw 1 of 2 (14 PTS),,,45 - 54,9,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,324,3,12,3,9:18 PM,4:50,Powers Free Throw 2 of 2 (15 PTS),,,45 - 55,10,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,320,8,0,3,9:18 PM,4:50,,,SUB: Lavender FOR Allen,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,321,8,0,3,9:18 PM,4:50,,,SUB: Cannon FOR McCowan,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,325,2,1,3,9:19 PM,4:31,,,MISS K. Mitchell 26' 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,326,4,0,3,9:19 PM,4:25,Fowles REBOUND (Off:2 Def:5),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,327,1,98,3,9:19 PM,4:18,Collier 1' Cutting Layup Shot (8 PTS) (Banham 4 AST),,,45 - 57,12,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,329,2,1,3,9:19 PM,4:07,,,MISS Lavender 19' Jump Shot,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,330,4,0,3,9:19 PM,4:03,Collier REBOUND (Off:1 Def:3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,332,2,79,3,9:20 PM,3:50,MISS Banham 15' Pullup Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,333,4,0,3,9:20 PM,3:47,,,Lavender REBOUND (Off:0 Def:2),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,334,6,1,3,9:20 PM,3:47,Banham P.FOUL (P1.T2),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,336,8,0,3,9:20 PM,3:47,SUB: Achonwa FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,338,1,5,3,9:20 PM,3:33,,,Lavender 2' Layup (9 PTS) (Vivians 2 AST),47 - 57,10,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,340,1,79,3,9:21 PM,3:20,Powers 15' Pullup Jump Shot (17 PTS),,,47 - 59,12,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,341,2,80,3,9:21 PM,3:11,,,MISS K. Mitchell 24' 3PT Step Back Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,342,4,0,3,9:21 PM,3:08,,,Vivians REBOUND (Off:2 Def:1),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,343,2,1,3,9:21 PM,3:05,,,MISS K. Mitchell 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,344,4,0,3,9:21 PM,3:02,Achonwa REBOUND (Off:0 Def:2),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,345,2,1,3,9:21 PM,2:51,MISS Powers 6' Jump Shot,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,346,4,0,3,9:21 PM,2:49,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,348,8,0,3,9:21 PM,2:49,SUB: Carleton FOR Powers,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,360,5,11,3,9:22 PM,2:25,,,Fever Turnover: Shot Clock (T#12),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100174,352,18,1,3,9:22 PM,2:25,,Instant Replay3rd Period (9:22 PM EST),,47 - 59,12,0,350,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100174,353,6,1,3,9:24 PM,2:18,,,Vivians P.FOUL (P4.T4),,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,356,8,0,3,9:25 PM,2:18,,,SUB: Wilson FOR Vivians,,,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,358,2,5,3,9:25 PM,2:10,MISS Collier 2' Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,359,4,0,3,9:25 PM,2:06,,,Lavender REBOUND (Off:0 Def:3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,361,5,1,3,9:25 PM,2:02,Banham STEAL (1 STL),,Wilson Bad Pass Turnover (P1.T13),,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,363,1,1,3,9:25 PM,1:58,Carleton 3PT Jump Shot (8 PTS) (Achonwa 1 AST),,,47 - 62,15,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,365,2,1,3,9:25 PM,1:30,,,MISS Wilson 24' 3PT Jump Shot,,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,366,4,0,3,9:26 PM,1:26,McBride REBOUND (Off:0 Def:2),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,367,1,1,3,9:26 PM,1:21,Achonwa 15' Jump Shot (4 PTS) (Collier 2 AST),,,47 - 64,17,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,369,1,1,3,9:26 PM,1:07,,,Lavender 20' Jump Shot (11 PTS) (Wilson 2 AST),49 - 64,15,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,371,2,80,3,9:26 PM,0:57,MISS Collier 24' 3PT Step Back Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,372,4,0,3,9:26 PM,0:53,Achonwa REBOUND (Off:1 Def:2),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,373,1,1,3,9:26 PM,0:50,Banham 24' 3PT Jump Shot (3 PTS) (McBride 3 AST),,,49 - 67,18,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,375,1,6,3,9:26 PM,0:39,,,K. Mitchell 2' Driving Layup (9 PTS),51 - 67,16,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,376,1,79,3,9:27 PM,0:31,Banham 18' Pullup Jump Shot (5 PTS),,,51 - 69,18,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,377,2,79,3,9:27 PM,0:17,,,MISS Wilson 16' Pullup Jump Shot,,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,378,4,0,3,9:27 PM,0:14,McBride REBOUND (Off:0 Def:3),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,379,5,1,3,9:27 PM,0:03,Banham Bad Pass Turnover (P1.T7),,T. Mitchell STEAL (1 STL),,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,381,1,41,3,9:27 PM,0:00,,,T. Mitchell 1' Running Layup (12 PTS),53 - 69,16,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,382,13,0,3,9:27 PM,0:00,,End of 3rd Period (9:27 PM EST),,53 - 69,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100174,385,12,0,4,9:30 PM,10:00,,Start of 4th Period (9:30 PM EST),,53 - 69,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,386,5,45,4,9:30 PM,9:46,,,Cannon Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,387,1,1,4,9:31 PM,9:26,McBride 3' Jump Shot (10 PTS) (Achonwa 2 AST),,,53 - 71,18,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,389,6,2,4,9:31 PM,9:26,,,Wilson S.FOUL (P2.T1),,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,391,3,10,4,9:31 PM,9:26,McBride Free Throw 1 of 1 (11 PTS),,,53 - 72,19,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,392,2,80,4,9:32 PM,9:11,,,MISS K. Mitchell 21' Step Back Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,393,4,0,4,9:32 PM,9:08,Banham REBOUND (Off:0 Def:2),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,394,1,1,4,9:32 PM,9:05,McBride 20' Jump Shot (13 PTS) (Banham 5 AST),,,53 - 74,21,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,396,2,1,4,9:32 PM,8:47,,,MISS Wilson 24' 3PT Jump Shot,,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,397,4,0,4,9:32 PM,8:43,Collier REBOUND (Off:1 Def:4),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,398,1,41,4,9:32 PM,8:41,McBride 1' Running Layup (15 PTS) (Collier 3 AST),,,53 - 76,23,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,400,6,2,4,9:32 PM,8:41,,,Wilson S.FOUL (P3.T2),,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,402,8,0,4,9:32 PM,8:41,,,SUB: T. Mitchell FOR Wilson,,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,404,3,10,4,9:33 PM,8:41,MISS McBride Free Throw 1 of 1,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,405,4,0,4,9:33 PM,8:38,,,Cannon REBOUND (Off:0 Def:4),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,406,5,45,4,9:33 PM,8:33,,,K. Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T15),,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,1
+1022100174,407,2,1,4,9:33 PM,8:26,MISS Achonwa 15' Jump Shot,,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,408,4,0,4,9:33 PM,8:22,,,Cannon REBOUND (Off:0 Def:5),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,409,8,0,4,9:34 PM,8:09,SUB: Dangerfield FOR Banham,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,411,10,0,4,9:35 PM,8:06,Jump Ball Achonwa vs. Lavender: Tip to Carleton,,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,414,5,2,4,9:35 PM,8:06,Achonwa STEAL (1 STL),,Lavender Lost Ball Turnover (P2.T16),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,416,2,1,4,9:35 PM,8:02,MISS Dangerfield 24' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,417,4,0,4,9:35 PM,8:01,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,419,2,1,4,9:35 PM,7:40,,,MISS K. Mitchell 24' 3PT Jump Shot,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,420,4,0,4,9:35 PM,7:36,,,T. Mitchell REBOUND (Off:2 Def:2),,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,421,1,1,4,9:35 PM,7:33,,,Allen 3PT Jump Shot (5 PTS) (T. Mitchell 3 AST),56 - 76,20,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,423,2,98,4,9:35 PM,7:17,MISS Collier 2' Cutting Layup Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,424,4,0,4,9:36 PM,7:15,,,Cannon REBOUND (Off:0 Def:6),,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,425,1,5,4,9:36 PM,7:03,,,K. Mitchell 2' Layup (11 PTS),58 - 76,18,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,428,6,2,4,9:36 PM,6:51,,,Lavender S.FOUL (P1.T3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100174,430,3,11,4,9:36 PM,6:51,Achonwa Free Throw 1 of 2 (5 PTS),,,58 - 77,19,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,431,8,0,4,9:36 PM,6:51,SUB: Fowles FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,432,8,0,4,9:36 PM,6:51,SUB: Powers FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,433,8,0,4,9:36 PM,6:51,,,SUB: McCowan FOR Cannon,,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,437,3,12,4,9:37 PM,6:51,Achonwa Free Throw 2 of 2 (6 PTS),,,58 - 78,20,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100174,438,6,1,4,9:37 PM,6:33,Carleton P.FOUL (P1.T1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,440,2,79,4,9:38 PM,6:28,,,MISS T. Mitchell 18' Pullup Jump Shot,,,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,441,4,0,4,9:38 PM,6:25,,,Lavender REBOUND (Off:1 Def:3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,442,2,1,4,9:38 PM,6:20,,,MISS Allen 25' 3PT Jump Shot,,,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,443,4,0,4,9:38 PM,6:18,Carleton REBOUND (Off:1 Def:1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,444,5,40,4,9:38 PM,6:15,Powers Out of Bounds Lost Ball Turnover (P1.T8),,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100174,445,5,1,4,9:38 PM,5:59,Dangerfield STEAL (1 STL),,McCowan Bad Pass Turnover (P2.T17),,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,447,1,1,4,9:39 PM,5:51,Powers 26' 3PT Jump Shot (20 PTS) (Dangerfield 4 AST),,,58 - 81,23,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,449,6,1,4,9:39 PM,5:44,Carleton P.FOUL (P2.T2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1022100174,451,9,4,4,9:39 PM,5:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,452,8,0,4,9:41 PM,5:44,SUB: Shepard FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,454,2,5,4,9:42 PM,5:37,,,MISS Lavender 4' Layup,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,455,4,0,4,9:42 PM,5:35,,,Lavender REBOUND (Off:2 Def:3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,456,2,5,4,9:42 PM,5:33,,,MISS Lavender 4' Layup,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,457,4,0,4,9:42 PM,5:32,,,Lavender REBOUND (Off:3 Def:3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,458,1,1,4,9:42 PM,5:30,,,Lavender 13' Jump Shot (13 PTS),60 - 81,21,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,459,9,2,4,9:42 PM,5:15,LYNX Timeout: Short (Full 1 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,460,1,5,4,9:43 PM,5:12,Shepard 1' Layup (4 PTS) (Carleton 2 AST),,,60 - 83,23,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,462,1,47,4,9:44 PM,4:44,,,Lavender 12' Turnaround Jump Shot (15 PTS) (K. Mitchell 5 AST),62 - 83,21,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,464,2,1,4,9:44 PM,4:34,MISS Achonwa 17' Jump Shot,,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,465,4,0,4,9:44 PM,4:32,Shepard REBOUND (Off:1 Def:3),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,466,2,1,4,9:44 PM,4:19,MISS Dangerfield 19' Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,467,4,0,4,9:44 PM,4:19,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,468,5,11,4,9:44 PM,4:19,LYNX Turnover: Shot Clock (T#9),,,,,2,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100174,469,8,0,4,9:44 PM,4:19,SUB: Banham FOR Powers,,,,,4,1627672,Aerial Powers,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100174,471,5,1,4,9:45 PM,4:03,Achonwa STEAL (2 STL),,Lavender Bad Pass Turnover (P3.T18),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,473,5,1,4,9:45 PM,3:58,Banham Bad Pass Turnover (P2.T10),,T. Mitchell STEAL (2 STL),,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,475,2,5,4,9:45 PM,3:44,,,MISS Lavender 2' Layup,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,476,4,0,4,9:45 PM,3:41,,,Lavender REBOUND (Off:4 Def:3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,477,2,5,4,9:45 PM,3:40,Achonwa BLOCK (1 BLK),,MISS Lavender 2' Layup,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,1
+1022100174,479,4,0,4,9:45 PM,3:40,,,Lavender REBOUND (Off:5 Def:3),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,480,6,2,4,9:45 PM,3:33,Achonwa S.FOUL (P1.T3),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,482,3,11,4,9:46 PM,3:33,,,T. Mitchell Free Throw 1 of 2 (13 PTS),63 - 83,20,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,483,3,12,4,9:46 PM,3:33,,,T. Mitchell Free Throw 2 of 2 (14 PTS),64 - 83,19,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,484,2,1,4,9:46 PM,3:19,MISS Banham 12' Jump Shot,,K. Mitchell BLOCK (1 BLK),,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,1
+1022100174,486,4,0,4,9:46 PM,3:19,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,488,8,0,4,9:46 PM,3:19,,,SUB: Cannon FOR McCowan,,,5,1629479,Teaira McCowan,1611661325.0,Indiana,Fever,IND,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,490,2,1,4,9:46 PM,3:12,MISS Dangerfield 27' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,491,4,0,4,9:47 PM,3:07,Shepard REBOUND (Off:2 Def:3),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,492,2,1,4,9:47 PM,3:05,MISS Shepard 3PT Jump Shot,,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,493,4,0,4,9:47 PM,3:01,,,Lavender REBOUND (Off:5 Def:4),,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,494,1,5,4,9:47 PM,2:54,,,Cannon 2' Layup (5 PTS) (Lavender 1 AST),66 - 83,17,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,496,1,98,4,9:47 PM,2:33,Achonwa 2' Cutting Layup Shot (8 PTS) (Carleton 3 AST),,,66 - 85,19,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,498,2,5,4,9:47 PM,2:20,,,MISS Lavender 3' Layup,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,499,4,0,4,9:47 PM,2:17,Achonwa REBOUND (Off:1 Def:3),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,500,6,4,4,9:48 PM,2:08,Carleton OFF.Foul (P3),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,502,5,37,4,9:48 PM,2:08,Carleton Offensive Foul Turnover (P2.T11),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100174,503,9,1,4,9:48 PM,2:08,LYNX Timeout: Regular (Full 2 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,504,8,0,4,9:50 PM,2:08,,,SUB: Wilson FOR K. Mitchell,,,5,1628909,Kelsey Mitchell,1611661325.0,Indiana,Fever,IND,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,505,8,0,4,9:50 PM,2:08,,,SUB: Vivians FOR Lavender,,,5,202650,Jantel Lavender,1611661325.0,Indiana,Fever,IND,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1022100174,508,1,41,4,9:50 PM,1:58,,,Vivians 5' Running Layup (8 PTS) (Allen 6 AST),68 - 85,17,5,1628927,Victoria Vivians,1611661325.0,Indiana,Fever,IND,5,1628263,Lindsay Allen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1
+1022100174,509,1,6,4,9:50 PM,1:43,Dangerfield 1' Driving Layup (6 PTS),,,68 - 87,19,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,510,6,2,4,9:51 PM,1:29,Carleton S.FOUL (P4.T4),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,512,3,11,4,9:51 PM,1:29,,,T. Mitchell Free Throw 1 of 2 (15 PTS),69 - 87,18,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,513,3,12,4,9:52 PM,1:29,,,T. Mitchell Free Throw 2 of 2 (16 PTS),70 - 87,17,5,1627676,Tiffany Mitchell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,514,2,2,4,9:52 PM,1:05,MISS Banham 7' Running Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,515,4,0,4,9:52 PM,1:02,Shepard REBOUND (Off:3 Def:3),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,516,2,1,4,9:52 PM,0:57,MISS Dangerfield 24' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,517,4,0,4,9:52 PM,0:54,,,Wilson REBOUND (Off:0 Def:1),,,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,1
+1022100174,518,6,1,4,9:52 PM,0:54,Achonwa P.FOUL (P2.PN),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,520,3,11,4,9:53 PM,0:54,,,Wilson Free Throw 1 of 2 (1 PTS),71 - 87,16,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,521,3,12,4,9:53 PM,0:54,,,Wilson Free Throw 2 of 2 (2 PTS),72 - 87,15,5,1630458,Aaliyah Wilson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,522,1,5,4,9:53 PM,0:34,Achonwa 1' Layup (10 PTS) (Dangerfield 5 AST),,,72 - 89,17,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100174,524,6,2,4,9:54 PM,0:17,Achonwa S.FOUL (P3.PN),,,,,4,203831,Natalie Achonwa,1611661324.0,Minnesota,Lynx,MIN,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,1,0,,,,,,1
+1022100174,526,3,11,4,9:54 PM,0:17,,,MISS Cannon Free Throw 1 of 2,,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,527,4,1,4,9:54 PM,0:17,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100174,528,3,12,4,9:54 PM,0:17,,,MISS Cannon Free Throw 2 of 2,,,5,1628242,Emma Cannon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1022100174,529,4,0,4,9:54 PM,0:15,Shepard REBOUND (Off:3 Def:4),,,,,4,1629491,Jessica Shepard,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100174,530,13,0,4,9:55 PM,0:00,,End of 4th Period (9:55 PM EST),,72 - 89,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

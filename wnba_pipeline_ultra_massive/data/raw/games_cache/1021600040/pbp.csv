@@ -1,0 +1,372 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021600040,0,12,0,1,10:08 PM,10:00,,Start of 1st Period (10:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,1,10,0,1,10:09 PM,10:00,Jump Ball Stewart vs. Griner: Tip to Bird,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1
+1021600040,2,2,40,1,10:09 PM,9:36,MISS Stewart 2' Layup,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,3,4,0,1,10:10 PM,9:33,Stewart REBOUND (Off:1 Def:0),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,4,2,97,1,10:10 PM,9:30,MISS Stewart 1' Tip Layup Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,5,4,0,1,10:10 PM,9:29,,,Griner REBOUND (Off:0 Def:1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,6,1,5,1,10:10 PM,9:23,,,Griner 2' Layup (2 PTS) (Bonner 1 AST),2 - 0,-2,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,7,1,42,1,10:10 PM,9:12,Langhorne 1' Driving Layup (2 PTS) (O'Hea 1 AST),,,2 - 2,TIE,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,8,6,2,1,10:10 PM,9:12,,,Griner S.FOUL (P1.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,9,3,10,1,10:10 PM,9:12,MISS Langhorne Free Throw 1 of 1,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,11,4,0,1,10:10 PM,9:11,,,Griner REBOUND (Off:0 Def:2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,13,2,1,1,10:11 PM,8:47,,,MISS Bonner 24' 3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,14,4,0,1,10:11 PM,8:45,Loyd REBOUND (Off:0 Def:1),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,15,1,1,1,10:11 PM,8:27,O'Hea  3PT Jump Shot (3 PTS) (Langhorne 1 AST),,,2 - 5,3,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,16,2,1,1,10:11 PM,8:04,,,MISS Dupree 12' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,17,4,0,1,10:11 PM,8:03,Stewart REBOUND (Off:1 Def:1),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,18,1,1,1,10:12 PM,7:53,Stewart 24' 3PT Jump Shot (3 PTS) (Bird 1 AST),,,2 - 8,6,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,19,1,1,1,10:12 PM,7:42,,,Taylor  3PT Jump Shot (3 PTS) (Dupree 1 AST),5 - 8,3,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,20,2,5,1,10:12 PM,7:26,MISS Loyd 2' Layup,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,21,4,0,1,10:12 PM,7:24,,,Taylor REBOUND (Off:0 Def:1),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,22,2,5,1,10:12 PM,7:18,,,MISS Bonner 2' Layup,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,23,4,0,1,10:12 PM,7:17,,,Bonner REBOUND (Off:1 Def:0),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,24,2,1,1,10:12 PM,7:15,Stewart BLOCK (1 BLK),,MISS Bonner 4' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1021600040,25,4,0,1,10:12 PM,7:15,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,26,2,1,1,10:13 PM,7:08,,,MISS Taurasi 18' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,27,4,0,1,10:13 PM,7:07,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,28,1,5,1,10:13 PM,7:05,,,Bonner 2' Layup (2 PTS) (Dupree 2 AST),7 - 8,1,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,29,2,1,1,10:13 PM,6:47,MISS Stewart 3' Jump Shot,,Griner BLOCK (1 BLK),,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1021600040,30,4,0,1,10:13 PM,6:47,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,31,1,66,1,10:14 PM,6:32,,,Dupree 5' Jump Bank Shot (2 PTS),9 - 8,-1,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,32,2,1,1,10:14 PM,6:13,MISS O'Hea  3PT Jump Shot,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,33,4,0,1,10:14 PM,6:11,Stewart REBOUND (Off:2 Def:1),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,34,2,1,1,10:14 PM,6:09,MISS Stewart 5' Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,35,4,0,1,10:14 PM,6:08,,,Dupree REBOUND (Off:0 Def:1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,36,5,1,1,10:14 PM,6:05,Bird STEAL (1 STL),,Taurasi Bad Pass Turnover (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,37,1,5,1,10:14 PM,6:00,Loyd 2' Layup (2 PTS) (Bird 2 AST),,,9 - 10,1,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,38,1,45,1,10:15 PM,5:39,,,Griner 5' Jump Shot (4 PTS) (Taylor 1 AST),11 - 10,-1,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,39,2,1,1,10:15 PM,5:22,MISS Bird 21' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,40,4,0,1,10:15 PM,5:20,,,Taylor REBOUND (Off:0 Def:2),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,43,2,1,1,10:15 PM,5:03,,,MISS Taurasi 16' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,44,4,0,1,10:16 PM,5:02,Loyd REBOUND (Off:0 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,45,1,5,1,10:16 PM,4:58,Loyd 1' Layup (4 PTS) (Stewart 1 AST),,,11 - 12,1,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,47,2,1,1,10:16 PM,4:40,,,MISS Dupree 17' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,48,4,0,1,10:16 PM,4:38,Langhorne REBOUND (Off:0 Def:1),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,49,1,5,1,10:16 PM,4:25,Langhorne 3' Layup (4 PTS) (O'Hea 2 AST),,,11 - 14,3,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,50,1,5,1,10:16 PM,4:05,,,Griner 2' Layup (6 PTS) (Taylor 2 AST),13 - 14,1,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,52,1,1,1,10:17 PM,3:43,O'Hea 24' 3PT Jump Shot (6 PTS) (Stewart 2 AST),,,13 - 17,4,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,53,2,1,1,10:17 PM,3:25,,,MISS Dupree 16' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,54,4,0,1,10:17 PM,3:24,Stewart REBOUND (Off:2 Def:2),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,55,1,98,1,10:17 PM,3:10,Loyd 2' Cutting Layup Shot (6 PTS) (O'Hea 3 AST),,,13 - 19,6,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,56,9,1,1,10:18 PM,3:02,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,58,8,0,1,10:20 PM,3:02,,,SUB: Petrovic FOR Dupree,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,59,8,0,1,10:20 PM,3:02,,,SUB: Bass FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,60,8,0,1,10:20 PM,3:02,SUB: Gatling FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,61,1,86,1,10:20 PM,2:53,,,Taurasi 8' Turnaround Fadeaway (2 PTS),15 - 19,4,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,62,6,1,1,10:21 PM,2:32,,,Bass P.FOUL (P1.T2),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,63,8,0,1,10:21 PM,2:32,,,SUB: Harden FOR Bonner,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,204336,Alex Harden,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,64,2,1,1,10:21 PM,2:24,MISS Stewart 14' Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,65,4,0,1,10:21 PM,2:23,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,66,2,1,1,10:21 PM,2:17,MISS Loyd 24' 3PT Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,67,4,0,1,10:21 PM,2:16,O'Hea REBOUND (Off:1 Def:0),,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,68,1,43,1,10:22 PM,2:11,Loyd 2' Alley Oop Layup (8 PTS) (Stewart 3 AST),,,15 - 21,6,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,69,1,5,1,10:22 PM,1:56,,,Petrovic 2' Layup (2 PTS),17 - 21,4,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,70,6,2,1,10:22 PM,1:43,,,Bass S.FOUL (P2.T3),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,71,3,11,1,10:22 PM,1:43,Gatling Free Throw 1 of 2 (1 PTS),,,17 - 22,5,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,73,8,0,1,10:23 PM,1:43,SUB: Clark FOR O'Hea,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,74,8,0,1,10:23 PM,1:43,SUB: Mosqueda-Lewis FOR Loyd,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,75,3,12,1,10:23 PM,1:43,Gatling Free Throw 2 of 2 (2 PTS),,,17 - 23,6,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,78,1,1,1,10:23 PM,1:26,,,Bass 16' Jump Shot (2 PTS) (Taurasi 1 AST),19 - 23,4,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,79,2,1,1,10:23 PM,1:06,MISS Mosqueda-Lewis 24' 3PT Jump Shot,,Petrovic BLOCK (1 BLK),,,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,1
+1021600040,80,4,0,1,10:23 PM,1:03,,,Petrovic REBOUND (Off:0 Def:1),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,81,2,1,1,10:24 PM,0:54,,,MISS Taurasi 25' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,82,4,0,1,10:24 PM,0:53,,,Bass REBOUND (Off:1 Def:0),,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,83,2,1,1,10:24 PM,0:43,,,MISS Griner 4' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,84,4,0,1,10:24 PM,0:42,Clark REBOUND (Off:0 Def:1),,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,87,7,1,1,10:24 PM,0:29,,,Mercury Violation: Delay of game Violation,,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,86,8,0,1,10:24 PM,0:29,,,SUB: Quinn FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,147,5,11,1,10:28 PM,0:14,STORM Turnover: Shot Clock (T#1),,,,,2,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,89,2,1,1,10:28 PM,0:01,,,MISS Petrovic 18' Jump Shot,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,90,4,0,1,10:28 PM,0:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,93,18,1,1,10:30 PM,0:00,,Overturn Ruling,,,,0,147,Jalen Rose,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,94,13,0,1,10:31 PM,0:00,,End of 1st Period (10:31 PM EST),,19 - 23,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,95,12,0,2,10:31 PM,10:00,,Start of 2nd Period (10:31 PM EST),,19 - 23,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,96,5,2,2,10:31 PM,9:47,Loyd STEAL (1 STL),,Petrovic Lost Ball Turnover (P1.T2),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,97,2,1,2,10:31 PM,9:37,MISS Tokashiki 18' Jump Shot,,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,98,4,0,2,10:32 PM,9:35,,,Quinn REBOUND (Off:0 Def:1),,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,99,2,1,2,10:32 PM,9:21,,,MISS Petrovic 24' 3PT Jump Shot,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,100,4,0,2,10:32 PM,9:21,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,101,6,14,2,10:32 PM,9:21,,,Harrison FLAGRANT.FOUL.TYPE1 (P1.T1),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,103,18,0,2,10:32 PM,9:21,,Support Ruling,,,,0,101,Scott Skiles,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,104,3,18,2,10:34 PM,9:21,MISS Tokashiki Free Throw Flagrant 1 of 2,,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,105,4,1,2,10:34 PM,9:21,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,106,3,19,2,10:34 PM,9:21,MISS Tokashiki Free Throw Flagrant 2 of 2,,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,109,4,0,2,10:34 PM,9:07,Mosqueda-Lewis REBOUND (Off:1 Def:0),,,,,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,108,1,1,2,10:34 PM,9:07,Mosqueda-Lewis 24' 3PT Jump Shot (3 PTS) (Tokashiki 1 AST),,,19 - 26,7,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,110,6,1,2,10:34 PM,8:58,Gatling P.FOUL (P1.T1),,,,,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,111,8,0,2,10:35 PM,8:58,,,SUB: Bonner FOR Harden,,,5,204336,Alex Harden,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,113,1,5,2,10:35 PM,8:52,,,Harrison 2' Layup (2 PTS) (Quinn 1 AST),21 - 26,5,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,114,6,2,2,10:35 PM,8:52,Gatling S.FOUL (P2.T2),,,,,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,115,8,0,2,10:35 PM,8:52,SUB: Bird FOR Loyd,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,116,8,0,2,10:35 PM,8:52,SUB: Langhorne FOR Gatling,,,,,4,203832,Markeisha Gatling,1611661328.0,Seattle,Storm,SEA,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,118,3,10,2,10:36 PM,8:52,,,MISS Harrison Free Throw 1 of 1,,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,120,4,0,2,10:36 PM,8:45,Bird REBOUND (Off:0 Def:1),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,121,5,1,2,10:36 PM,8:30,Langhorne Bad Pass Turnover (P1.T2),,Quinn STEAL (1 STL),,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,122,1,79,2,10:36 PM,8:22,,,Quinn 16' Pullup Jump Shot (2 PTS),23 - 26,3,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,123,1,79,2,10:36 PM,7:57,Bird 16' Pullup Jump Shot (2 PTS),,,23 - 28,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,124,6,2,2,10:37 PM,7:46,Tokashiki S.FOUL (P1.T3),,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,126,3,11,2,10:37 PM,7:46,,,Bonner Free Throw 1 of 2 (3 PTS),24 - 28,4,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,128,8,0,2,10:37 PM,7:46,,,SUB: Griner FOR Bass,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,129,8,0,2,10:37 PM,7:46,,,SUB: Taylor FOR Petrovic,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,130,8,0,2,10:37 PM,7:46,SUB: Stewart FOR Tokashiki,,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,131,3,12,2,10:37 PM,7:46,,,MISS Bonner Free Throw 2 of 2,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,133,4,0,2,10:38 PM,7:44,Langhorne REBOUND (Off:0 Def:2),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,135,5,1,2,10:38 PM,7:34,Langhorne Bad Pass Turnover (P2.T3),,Harrison STEAL (1 STL),,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,136,1,47,2,10:38 PM,7:18,,,Harrison 6' Turnaround Jump Shot (4 PTS) (Bonner 2 AST),26 - 28,2,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,137,1,1,2,10:38 PM,7:05,Bird 24' 3PT Jump Shot (5 PTS) (Stewart 4 AST),,,26 - 31,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,139,2,1,2,10:39 PM,6:50,Stewart BLOCK (2 BLK),,MISS Griner 3' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1021600040,140,4,0,2,10:39 PM,6:47,Bird REBOUND (Off:0 Def:2),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,141,5,2,2,10:39 PM,6:39,Mosqueda-Lewis Lost Ball Turnover (P1.T4),,Quinn STEAL (2 STL),,,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,142,5,1,2,10:39 PM,6:34,Bird STEAL (2 STL),,Quinn Bad Pass Turnover (P1.T3),,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,143,1,1,2,10:39 PM,6:23,Langhorne 7' Jump Shot (6 PTS),,,26 - 33,7,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,145,9,1,2,10:39 PM,6:14,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,148,8,0,2,10:41 PM,6:14,,,SUB: Taurasi FOR Quinn,,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,149,8,0,2,10:41 PM,6:14,SUB: O'Hea FOR Clark,,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,150,8,0,2,10:41 PM,6:14,SUB: Loyd FOR Mosqueda-Lewis,,,,,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,152,2,5,2,10:42 PM,6:07,Stewart BLOCK (3 BLK),,MISS Bonner 2' Layup,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1
+1021600040,153,4,0,2,10:42 PM,6:05,Langhorne REBOUND (Off:0 Def:3),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,154,1,1,2,10:42 PM,6:01,Bird 14' Jump Shot (7 PTS),,,26 - 35,9,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,155,1,1,2,10:42 PM,5:43,,,Harrison 5' Jump Shot (6 PTS) (Taylor 3 AST),28 - 35,7,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,156,6,1,2,10:42 PM,5:34,,,Harrison P.FOUL (P2.T2),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,158,2,1,2,10:43 PM,5:22,MISS Stewart 4' Jump Shot,,Griner BLOCK (2 BLK),,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1
+1021600040,159,4,0,2,10:43 PM,5:19,,,Griner REBOUND (Off:0 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,160,2,1,2,10:43 PM,5:14,,,MISS Taurasi 13' Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,161,4,0,2,10:43 PM,5:12,Langhorne REBOUND (Off:0 Def:4),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,162,6,2,2,10:43 PM,5:07,,,Taurasi S.FOUL (P1.T3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,163,3,11,2,10:43 PM,5:07,O'Hea Free Throw 1 of 2 (7 PTS),,,28 - 36,8,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,165,8,0,2,10:43 PM,5:07,,,SUB: Dupree FOR Harrison,,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,166,3,12,2,10:44 PM,5:07,O'Hea Free Throw 2 of 2 (8 PTS),,,28 - 37,9,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,168,6,2,2,10:44 PM,4:51,Langhorne S.FOUL (P1.T4),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,170,3,11,2,10:44 PM,4:51,,,Griner Free Throw 1 of 2 (7 PTS),29 - 37,8,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,172,3,12,2,10:45 PM,4:51,,,MISS Griner Free Throw 2 of 2,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,174,4,0,2,10:45 PM,4:50,Stewart REBOUND (Off:2 Def:3),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,176,2,5,2,10:45 PM,4:32,MISS Langhorne 2' Layup,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,178,4,0,2,10:45 PM,4:27,Loyd REBOUND (Off:1 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,177,1,97,2,10:45 PM,4:27,Loyd 2' Tip Layup Shot (10 PTS),,,29 - 39,10,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,179,1,1,2,10:45 PM,4:18,,,Taylor 24' 3PT Jump Shot (6 PTS),32 - 39,7,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,180,1,1,2,10:45 PM,4:02,Loyd  3PT Jump Shot (13 PTS) (Stewart 5 AST),,,32 - 42,10,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,181,1,1,2,10:46 PM,3:54,,,Taylor 24' 3PT Jump Shot (9 PTS),35 - 42,7,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,182,5,1,2,10:46 PM,3:48,Bird Bad Pass Turnover (P1.T5),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,183,1,105,2,10:46 PM,3:28,,,Griner 4' Turnaround Fadeaway Bank Jump Shot (9 PTS),37 - 42,5,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,184,9,1,2,10:46 PM,3:21,STORM Timeout: Regular (Full 1 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,186,18,0,2,10:48 PM,3:21,,Support Ruling,,,,0,179,Bryant Stith,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,187,2,1,2,10:49 PM,3:05,MISS Loyd 7' Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,188,4,0,2,10:49 PM,3:03,,,Taurasi REBOUND (Off:0 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,189,2,1,2,10:50 PM,2:49,,,MISS Griner 11' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,190,4,0,2,10:50 PM,2:48,Stewart REBOUND (Off:2 Def:4),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,191,6,2,2,10:50 PM,2:35,,,Griner S.FOUL (P2.T4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,192,3,11,2,10:50 PM,2:35,MISS Langhorne Free Throw 1 of 2,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,193,4,1,2,10:50 PM,2:35,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,194,3,12,2,10:50 PM,2:35,Langhorne Free Throw 2 of 2 (7 PTS),,,37 - 43,6,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,196,1,1,2,10:51 PM,2:24,,,Dupree 18' Jump Shot (4 PTS) (Taurasi 2 AST),39 - 43,4,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,197,2,1,2,10:51 PM,2:05,MISS Stewart 24' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,198,4,0,2,10:51 PM,2:04,,,Dupree REBOUND (Off:0 Def:2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,199,1,42,2,10:51 PM,1:47,,,Taurasi 3' Driving Layup (4 PTS),41 - 43,2,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,200,6,2,2,10:51 PM,1:47,Stewart S.FOUL (P1.PN),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,201,8,0,2,10:52 PM,1:47,SUB: Clark FOR O'Hea,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,202,3,10,2,10:52 PM,1:47,,,Taurasi Free Throw 1 of 1 (5 PTS),42 - 43,1,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,205,1,1,2,10:52 PM,1:27,Loyd 24' 3PT Jump Shot (16 PTS) (Clark 1 AST),,,42 - 46,4,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,206,2,5,2,10:52 PM,1:13,,,MISS Griner 2' Layup,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,207,4,0,2,10:52 PM,1:11,Langhorne REBOUND (Off:0 Def:5),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,208,2,1,2,10:53 PM,1:03,MISS Bird  3PT Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,209,4,0,2,10:53 PM,1:01,Bird REBOUND (Off:1 Def:2),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,210,2,1,2,10:53 PM,0:53,MISS Bird  3PT Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,211,4,0,2,10:53 PM,0:52,,,Bonner REBOUND (Off:1 Def:1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,212,1,1,2,10:53 PM,0:43,,,Dupree 19' Jump Shot (6 PTS) (Bonner 3 AST),44 - 46,2,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,214,1,1,2,10:53 PM,0:29,Loyd 24' 3PT Jump Shot (19 PTS) (Stewart 6 AST),,,44 - 49,5,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,215,5,1,2,10:54 PM,0:02,Langhorne STEAL (1 STL),,Taurasi Bad Pass Turnover (P2.T4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,216,5,1,2,10:54 PM,0:00,Loyd Bad Pass Turnover (P1.T6),,Bonner STEAL (1 STL),,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,217,13,0,2,10:54 PM,0:00,,End of 2nd Period (10:54 PM EST),,44 - 49,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,219,12,0,3,11:10 PM,10:00,,Start of 3rd Period (11:10 PM EST),,44 - 49,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,220,2,1,3,11:10 PM,9:38,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,221,4,0,3,11:10 PM,9:37,Stewart REBOUND (Off:2 Def:5),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,222,6,1,3,11:10 PM,9:29,,,Taurasi P.FOUL (P2.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,223,6,2,3,11:11 PM,9:18,,,Griner S.FOUL (P3.T2),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,224,3,11,3,11:11 PM,9:18,Loyd Free Throw 1 of 2 (20 PTS),,,44 - 50,6,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,226,3,12,3,11:11 PM,9:18,Loyd Free Throw 2 of 2 (21 PTS),,,44 - 51,7,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,228,1,1,3,11:11 PM,9:06,,,Taylor  3PT Jump Shot (12 PTS) (Dupree 3 AST),47 - 51,4,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,229,2,1,3,11:12 PM,8:51,MISS Bird 20' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,230,4,0,3,11:12 PM,8:50,Loyd REBOUND (Off:2 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,231,1,5,3,11:12 PM,8:46,Loyd 2' Layup (23 PTS),,,47 - 53,6,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,232,10,0,3,11:12 PM,8:34,Jump Ball O'Hea vs. Bonner: Tip to Loyd,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1
+1021600040,233,5,1,3,11:12 PM,8:34,O'Hea STEAL (1 STL),,Bonner Bad Pass Turnover (P1.T5),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,234,1,1,3,11:13 PM,8:27,Bird 7' Jump Shot (9 PTS) (Loyd 1 AST),,,47 - 55,8,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,235,6,1,3,11:13 PM,8:10,O'Hea P.FOUL (P1.T1),,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,236,18,0,3,11:13 PM,8:10,,Support Ruling,,,,0,235,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,238,1,5,3,11:15 PM,7:59,,,Griner 2' Layup (11 PTS) (Taylor 4 AST),49 - 55,6,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,239,5,2,3,11:15 PM,7:48,O'Hea Lost Ball Turnover (P1.T7),,Taylor STEAL (1 STL),,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,240,6,1,3,11:15 PM,7:48,O'Hea P.FOUL (P2.T2),,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,241,6,4,3,11:16 PM,7:39,,,Dupree OFF.Foul (P1),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,242,5,5,3,11:16 PM,7:39,,,Dupree Foul Turnover (P1.T6),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021600040,243,2,1,3,11:16 PM,7:20,MISS Langhorne 16' Jump Shot,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,244,4,0,3,11:16 PM,7:19,Loyd REBOUND (Off:3 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,245,1,1,3,11:16 PM,7:13,O'Hea  3PT Jump Shot (11 PTS) (Bird 3 AST),,,49 - 58,9,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,246,2,1,3,11:17 PM,6:59,,,MISS Griner 5' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,247,4,0,3,11:17 PM,6:58,Stewart REBOUND (Off:2 Def:6),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,248,6,2,3,11:17 PM,6:53,,,Griner S.FOUL (P4.T3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,250,6,11,3,11:17 PM,6:53,,,Griner T.FOUL (P4.T3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021600040,251,3,16,3,11:17 PM,6:53,Stewart Free Throw Technical (4 PTS),,,49 - 59,10,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,253,8,0,3,11:17 PM,6:53,,,SUB: Harrison FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,254,3,11,3,11:18 PM,6:53,Stewart Free Throw 1 of 2 (5 PTS),,,49 - 60,11,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,257,3,12,3,11:18 PM,6:53,Stewart Free Throw 2 of 2 (6 PTS),,,49 - 61,12,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,260,1,1,3,11:18 PM,6:32,,,Taylor 24' 3PT Jump Shot (15 PTS) (Taurasi 3 AST),52 - 61,9,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,261,1,41,3,11:18 PM,6:11,Stewart 1' Running Layup (8 PTS) (Bird 4 AST),,,52 - 63,11,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,262,2,1,3,11:19 PM,6:00,,,MISS Dupree 5' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,263,4,0,3,11:19 PM,5:58,,,Dupree REBOUND (Off:1 Def:2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,264,1,1,3,11:19 PM,5:53,,,Dupree 8' Jump Shot (8 PTS),54 - 63,9,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,265,2,1,3,11:19 PM,5:42,MISS Loyd  3PT Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,266,4,0,3,11:19 PM,5:41,,,Harrison REBOUND (Off:0 Def:1),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,267,1,66,3,11:19 PM,5:25,,,Harrison 5' Jump Bank Shot (8 PTS),56 - 63,7,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,268,6,2,3,11:20 PM,5:07,,,Harrison S.FOUL (P3.T4),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,269,3,11,3,11:20 PM,5:07,Bird Free Throw 1 of 2 (10 PTS),,,56 - 64,8,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,271,8,0,3,11:20 PM,5:07,,,SUB: Petrovic FOR Bonner,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,272,8,0,3,11:20 PM,5:07,SUB: Clark FOR O'Hea,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,273,8,0,3,11:20 PM,5:07,SUB: Tokashiki FOR Stewart,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,274,3,12,3,11:20 PM,5:07,Bird Free Throw 2 of 2 (11 PTS),,,56 - 65,9,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,276,5,1,3,11:21 PM,4:56,Bird STEAL (3 STL),,Taylor Bad Pass Turnover (P1.T7),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,277,6,1,3,11:21 PM,4:55,,,Petrovic P.FOUL (P1.PN),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,279,9,4,3,11:23 PM,4:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,281,3,11,3,11:23 PM,4:55,Loyd Free Throw 1 of 2 (24 PTS),,,56 - 66,10,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,283,3,12,3,11:23 PM,4:55,Loyd Free Throw 2 of 2 (25 PTS),,,56 - 67,11,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,285,5,1,3,11:24 PM,4:33,Loyd STEAL (2 STL),,Harrison Bad Pass Turnover (P1.T8),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,286,1,1,3,11:24 PM,4:12,Clark 24' 3PT Jump Shot (3 PTS) (Loyd 2 AST),,,56 - 70,14,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,287,6,1,3,11:25 PM,3:59,Clark P.FOUL (P1.T3),,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,288,8,0,3,11:25 PM,3:59,,,SUB: Bass FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,289,8,0,3,11:25 PM,3:59,,,SUB: Quinn FOR Harrison,,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,290,8,0,3,11:25 PM,3:59,SUB: Mosqueda-Lewis FOR Loyd,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,291,2,1,3,11:25 PM,3:44,,,MISS Petrovic 24' 3PT Jump Shot,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,292,4,0,3,11:25 PM,3:42,Clark REBOUND (Off:0 Def:2),,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,293,1,1,3,11:25 PM,3:29,Tokashiki 15' Jump Shot (2 PTS) (Bird 5 AST),,,56 - 72,16,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,294,2,1,3,11:26 PM,3:12,,,MISS Quinn  3PT Jump Shot,,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,295,4,0,3,11:26 PM,3:12,,,Dupree REBOUND (Off:2 Def:2),,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,296,6,1,3,11:26 PM,3:12,Tokashiki P.FOUL (P2.T4),,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,297,9,1,3,11:26 PM,3:12,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,299,2,1,3,11:28 PM,3:05,,,MISS Dupree 9' Jump Shot,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,300,4,0,3,11:28 PM,3:05,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,301,6,3,3,11:28 PM,3:05,Mosqueda-Lewis L.B.FOUL (P1.PN),,,,,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,302,3,11,3,11:28 PM,3:05,,,Petrovic Free Throw 1 of 2 (3 PTS),57 - 72,15,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,304,3,12,3,11:28 PM,3:05,,,Petrovic Free Throw 2 of 2 (4 PTS),58 - 72,14,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,307,2,5,3,11:29 PM,2:51,MISS Clark 1' Layup,,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,308,4,0,3,11:29 PM,2:50,,,Taylor REBOUND (Off:0 Def:3),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,309,1,1,3,11:29 PM,2:42,,,Taylor  3PT Jump Shot (18 PTS) (Petrovic 1 AST),61 - 72,11,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,310,5,1,3,11:29 PM,2:18,Clark Bad Pass Turnover (P1.T8),,Taylor STEAL (2 STL),,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,311,1,5,3,11:29 PM,2:13,,,Dupree 2' Layup (10 PTS) (Quinn 2 AST),63 - 72,9,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,312,9,1,3,11:29 PM,2:13,STORM Timeout: Regular (Full 2 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,314,8,0,3,11:31 PM,2:13,SUB: Stewart FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,315,8,0,3,11:31 PM,2:13,SUB: O'Hea FOR Mosqueda-Lewis,,,,,4,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,316,8,0,3,11:31 PM,2:13,SUB: Loyd FOR Bird,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,317,2,1,3,11:31 PM,1:52,MISS Loyd 20' Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,318,4,0,3,11:31 PM,1:51,Clark REBOUND (Off:1 Def:2),,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,319,2,1,3,11:32 PM,1:38,MISS O'Hea 26' 3PT Jump Shot,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,320,4,0,3,11:32 PM,1:36,Clark REBOUND (Off:2 Def:2),,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,321,6,4,3,11:32 PM,1:30,Stewart OFF.Foul (P2),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,322,5,5,3,11:32 PM,1:30,Stewart Foul Turnover (P1.T9),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021600040,323,8,0,3,11:32 PM,1:30,,,SUB: Griner FOR Dupree,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,324,8,0,3,11:32 PM,1:30,,,SUB: Bonner FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,325,6,2,3,11:33 PM,1:16,Tokashiki S.FOUL (P3.PN),,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,326,3,11,3,11:33 PM,1:16,,,Petrovic Free Throw 1 of 2 (5 PTS),64 - 72,8,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,328,3,12,3,11:33 PM,1:16,,,Petrovic Free Throw 2 of 2 (6 PTS),65 - 72,7,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,331,1,5,3,11:33 PM,1:05,Stewart 1' Layup (10 PTS) (Clark 2 AST),,,65 - 74,9,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,332,2,1,3,11:34 PM,0:38,,,MISS Quinn 24' 3PT Jump Shot,,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,333,4,0,3,11:34 PM,0:36,O'Hea REBOUND (Off:1 Def:1),,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,334,2,5,3,11:34 PM,0:31,MISS Stewart 1' Layup,,Quinn BLOCK (1 BLK),,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,1
+1021600040,335,4,0,3,11:34 PM,0:28,Loyd REBOUND (Off:4 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,336,6,1,3,11:34 PM,0:24,,,Quinn P.FOUL (P1.PN),,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,337,3,11,3,11:35 PM,0:24,Clark Free Throw 1 of 2 (4 PTS),,,65 - 75,10,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,339,3,12,3,11:35 PM,0:24,Clark Free Throw 2 of 2 (5 PTS),,,65 - 76,11,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,342,2,1,3,11:35 PM,0:04,,,MISS Bonner 10' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,343,4,0,3,11:35 PM,0:02,,,Griner REBOUND (Off:1 Def:3),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,344,2,1,3,11:35 PM,0:01,,,MISS Griner 3' Jump Shot,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,345,4,0,3,11:35 PM,0:00,Tokashiki REBOUND (Off:0 Def:1),,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,346,13,0,3,11:35 PM,0:00,,End of 3rd Period (11:35 PM EST),,65 - 76,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,348,12,0,4,11:38 PM,10:00,,Start of 4th Period (11:38 PM EST),,65 - 76,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,349,1,79,4,11:38 PM,9:47,Loyd  3PT Pullup Jump Shot (28 PTS),,,65 - 79,14,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,350,5,1,4,11:38 PM,9:34,Tokashiki STEAL (1 STL),,Petrovic Bad Pass Turnover (P2.T9),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,351,1,5,4,11:39 PM,9:19,Loyd 2' Layup (30 PTS) (Stewart 7 AST),,,65 - 81,16,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,352,2,1,4,11:39 PM,8:58,,,MISS Bass 19' Jump Shot,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,353,4,0,4,11:39 PM,8:57,,,Petrovic REBOUND (Off:1 Def:1),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,354,1,1,4,11:39 PM,8:53,,,Taurasi 24' 3PT Jump Shot (8 PTS) (Petrovic 2 AST),68 - 81,13,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,355,2,1,4,11:39 PM,8:32,MISS Clark 16' Jump Shot,,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,356,4,0,4,11:39 PM,8:30,,,Griner REBOUND (Off:1 Def:4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,358,6,1,4,11:40 PM,8:16,Tokashiki P.FOUL (P4.T1),,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,359,8,0,4,11:40 PM,8:16,SUB: Bird FOR Clark,,,,,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,360,1,46,4,11:40 PM,8:09,,,Petrovic 7' Running Jump Shot (8 PTS),70 - 81,11,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,361,6,1,4,11:40 PM,8:00,,,Griner P.FOUL (P5.T1),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,362,8,0,4,11:41 PM,8:00,,,SUB: Dupree FOR Griner,,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,363,1,5,4,11:41 PM,7:47,Stewart 2' Layup (12 PTS) (Loyd 3 AST),,,70 - 83,13,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,366,8,0,4,11:41 PM,7:34,,,SUB: Taylor FOR Petrovic,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,367,8,0,4,11:42 PM,7:34,,,SUB: Harrison FOR Bass,,,5,200691,Mistie Bass,1611661317.0,Phoenix,Mercury,PHO,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,368,8,0,4,11:42 PM,7:34,SUB: Langhorne FOR Tokashiki,,,,,4,204317,Ramu Tokashiki,1611661328.0,Seattle,Storm,SEA,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,369,2,5,4,11:42 PM,7:25,,,MISS Taylor 3' Layup,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,370,4,0,4,11:42 PM,7:23,Loyd REBOUND (Off:4 Def:3),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,371,6,2,4,11:42 PM,7:17,,,Taurasi S.FOUL (P3.T2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,372,3,11,4,11:42 PM,7:17,MISS Bird Free Throw 1 of 2,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,373,4,1,4,11:42 PM,7:17,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,374,3,12,4,11:42 PM,7:17,Bird Free Throw 2 of 2 (12 PTS),,,70 - 84,14,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,376,6,17,4,11:43 PM,7:04,STORM T.Foul (Def. 3 Sec Stewart ),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021600040,377,3,16,4,11:43 PM,7:04,,,Taylor Free Throw Technical (19 PTS),71 - 84,13,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,379,2,1,4,11:44 PM,6:57,,,MISS Taurasi  3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,380,4,0,4,11:44 PM,6:55,Loyd REBOUND (Off:4 Def:4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,382,1,100,4,11:44 PM,6:51,Loyd 2' Running Alley Oop Layup Shot (32 PTS) (Stewart 8 AST),,,71 - 86,15,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,383,6,1,4,11:44 PM,6:42,O'Hea P.FOUL (P3.T2),,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,384,2,1,4,11:44 PM,6:36,,,MISS Taylor 25' 3PT Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,385,4,0,4,11:44 PM,6:34,,,Harrison REBOUND (Off:1 Def:1),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,386,1,66,4,11:44 PM,6:31,,,Harrison 5' Jump Bank Shot (10 PTS),73 - 86,13,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,387,2,1,4,11:45 PM,6:12,MISS Stewart 24' 3PT Jump Shot,,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,388,4,0,4,11:45 PM,6:12,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,389,6,3,4,11:45 PM,6:12,,,Harrison L.B.FOUL (P4.T3),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,390,8,0,4,11:45 PM,6:12,,,SUB: Petrovic FOR Bonner,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,391,5,1,4,11:45 PM,6:05,Stewart Bad Pass Turnover (P2.T10),,Harrison STEAL (2 STL),,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,392,2,1,4,11:45 PM,5:59,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,393,4,0,4,11:45 PM,5:58,,,Petrovic REBOUND (Off:2 Def:1),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,394,6,2,4,11:46 PM,5:50,Loyd S.FOUL (P1.T3),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1021600040,395,9,1,4,11:46 PM,5:50,STORM Timeout: Regular (Full 3 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,397,18,0,4,11:47 PM,5:50,,Support Ruling,,,,0,349,Mark Jackson,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,398,3,11,4,11:48 PM,5:50,,,Harrison Free Throw 1 of 2 (11 PTS),74 - 86,12,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,400,3,12,4,11:48 PM,5:50,,,Harrison Free Throw 2 of 2 (12 PTS),75 - 86,11,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021600040,403,1,5,4,11:49 PM,5:32,Langhorne 2' Layup (9 PTS) (Stewart 9 AST),,,75 - 88,13,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,404,2,1,4,11:49 PM,5:13,,,MISS Petrovic 14' Jump Shot,,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,405,4,0,4,11:49 PM,5:11,Stewart REBOUND (Off:2 Def:7),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,406,2,1,4,11:49 PM,4:50,MISS O'Hea 26' 3PT Jump Shot,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,407,4,0,4,11:49 PM,4:49,Loyd REBOUND (Off:5 Def:4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,408,5,11,4,11:49 PM,4:48,STORM Turnover: Shot Clock (T#11),,,,,2,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,409,8,0,4,11:50 PM,4:48,,,SUB: Quinn FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,410,2,1,4,11:50 PM,4:37,,,MISS Taylor  3PT Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,411,4,0,4,11:50 PM,4:36,,,Quinn REBOUND (Off:1 Def:1),,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,412,2,1,4,11:50 PM,4:32,,,MISS Taylor 12' Jump Shot,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,413,4,0,4,11:50 PM,4:30,Bird REBOUND (Off:1 Def:3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,414,1,1,4,11:50 PM,4:19,O'Hea 25' 3PT Jump Shot (14 PTS) (Bird 6 AST),,,75 - 91,16,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,416,9,1,4,11:50 PM,4:13,,,Mercury Timeout: Regular (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,417,8,0,4,11:52 PM,4:13,,,SUB: Griner FOR Harrison,,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,418,8,0,4,11:53 PM,4:13,SUB: Clark FOR O'Hea,,,,,4,202626,Jenna O'Hea,1611661328.0,Seattle,Storm,SEA,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021600040,419,1,42,4,11:53 PM,4:03,,,Petrovic 2' Driving Layup (10 PTS),77 - 91,14,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,420,6,1,4,11:53 PM,3:50,,,Petrovic P.FOUL (P2.T4),,,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,421,2,1,4,11:54 PM,3:35,MISS Langhorne 7' Jump Shot,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,422,4,0,4,11:54 PM,3:34,,,Taylor REBOUND (Off:0 Def:4),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,423,1,5,4,11:54 PM,3:24,,,Griner 3' Layup (13 PTS) (Dupree 4 AST),79 - 91,12,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,425,6,1,4,11:54 PM,3:06,,,Taylor P.FOUL (P1.PN),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,426,3,11,4,11:54 PM,3:06,Stewart Free Throw 1 of 2 (13 PTS),,,79 - 92,13,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,428,3,12,4,11:55 PM,3:06,Stewart Free Throw 2 of 2 (14 PTS),,,79 - 93,14,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021600040,430,1,79,4,11:55 PM,2:54,,,Petrovic 6' Pullup Jump Shot (12 PTS) (Taylor 5 AST),81 - 93,12,5,201909,Sonja Petrovic,1611661317.0,Phoenix,Mercury,PHO,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1021600040,431,2,1,4,11:55 PM,2:28,MISS Loyd 25' 3PT Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,432,4,0,4,11:55 PM,2:27,Langhorne REBOUND (Off:1 Def:5),,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,433,2,1,4,11:56 PM,2:15,MISS Bird 25' 3PT Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,434,4,0,4,11:56 PM,2:14,Stewart REBOUND (Off:3 Def:7),,,,,4,1627668,Breanna Stewart,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,435,1,79,4,11:56 PM,2:04,Bird 15' Pullup Jump Shot (14 PTS),,,81 - 95,14,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,436,6,4,4,11:56 PM,1:51,,,Taylor OFF.Foul (P2),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021600040,437,5,5,4,11:56 PM,1:51,,,Taylor Foul Turnover (P2.T10),,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1021600040,438,8,0,4,11:57 PM,1:51,,,SUB: Harrison FOR Dupree,,,5,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,439,8,0,4,11:57 PM,1:51,,,SUB: Harden FOR Taylor,,,5,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,204336,Alex Harden,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021600040,440,18,0,4,11:57 PM,1:51,,Support Ruling,,,,0,436,Juwan Howard,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,442,5,11,4,11:58 PM,1:26,STORM Turnover: Shot Clock (T#12),,,,,2,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1021600040,443,5,1,4,11:59 PM,1:14,Clark STEAL (1 STL),,Griner Bad Pass Turnover (P1.T11),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,4,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,445,2,1,4,11:59 PM,0:52,MISS Langhorne 4' Jump Shot,,,,,4,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,446,4,0,4,11:59 PM,0:51,,,Harrison REBOUND (Off:1 Def:2),,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,447,2,1,4,11:59 PM,0:43,,,MISS Harrison 6' Jump Shot,,,5,204330,Isabelle Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,448,4,0,4,11:59 PM,0:41,,,Griner REBOUND (Off:2 Def:4),,,5,203398,Brittney Griner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,449,5,2,4,11:59 PM,0:37,Bird STEAL (4 STL),,Harden Lost Ball Turnover (P1.T12),,,5,204336,Alex Harden,1611661317.0,Phoenix,Mercury,PHO,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021600040,450,5,1,4,12:00 AM,0:19,Loyd Bad Pass Turnover (P2.T13),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021600040,452,2,1,4,12:00 AM,0:01,,,MISS Quinn 24' 3PT Jump Shot,,,5,201049,Noelle Quinn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1021600040,453,4,0,4,12:00 AM,0:00,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600040,454,13,0,4,12:00 AM,0:00,,End of 4th Period (12:00 AM EST),,81 - 95,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

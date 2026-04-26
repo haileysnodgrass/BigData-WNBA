@@ -1,0 +1,376 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000252,1,12,0,1,11:07 AM,20:00,,Start of 1st Half (11:07 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,2,10,0,1,11:07 AM,20:00,Jump Ball Wolters vs. Smith: Tip to Williams,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0
+1020000252,3,2,1,1,11:07 AM,19:37,MISS Thompson 17' Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,4,4,0,1,11:07 AM,19:35,Maxwell REBOUND (Off:1 Def:0),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,5,2,1,1,11:07 AM,19:33,MISS Maxwell 3PT Jump Shot,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,6,4,0,1,11:08 AM,19:31,,,Smith REBOUND (Off:0 Def:1),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,7,5,1,1,11:08 AM,19:27,,,Staley Bad Pass Turnover (P1.T1),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,8,2,1,1,11:08 AM,19:06,MISS Grubin 3PT Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,9,4,0,1,11:08 AM,19:04,,,Stinson REBOUND (Off:0 Def:1),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,10,5,1,1,11:08 AM,18:59,,,Stinson Bad Pass Turnover (P1.T2),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,11,1,1,1,11:09 AM,18:44,Williams 3PT Jump Shot (3 PTS) (Maxwell 1 AST),,,0 - 3,3,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,12,2,1,1,11:09 AM,18:16,,,MISS Bauer-Bilodeau 16' Jump Shot,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,13,4,0,1,11:09 AM,18:13,,,Smith REBOUND (Off:1 Def:1),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,14,2,1,1,11:09 AM,18:04,,,MISS Reid 4' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,15,4,0,1,11:09 AM,18:00,Wolters REBOUND (Off:0 Def:1),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,16,2,1,1,11:09 AM,17:57,MISS Grubin 6' Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,17,4,0,1,11:09 AM,17:55,,,Smith REBOUND (Off:1 Def:2),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,18,2,1,1,11:10 AM,17:46,,,MISS Stinson 17' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,19,4,0,1,11:10 AM,17:44,Grubin REBOUND (Off:0 Def:1),,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,20,1,1,1,11:10 AM,17:39,Thompson 5' Jump Shot (2 PTS) (Grubin 1 AST),,,0 - 5,5,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,21,1,1,1,11:10 AM,17:16,,,Staley 3PT Jump Shot (3 PTS) (Reid 1 AST),3 - 5,2,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,22,6,1,1,11:10 AM,16:57,,,Bauer-Bilodeau P.FOUL (P1.T1),,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,23,1,1,1,11:11 AM,16:50,Wolters 6' Jump Shot (2 PTS) (Maxwell 2 AST),,,3 - 7,4,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,24,2,1,1,11:11 AM,16:33,,,MISS Stinson 3' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,25,4,0,1,11:11 AM,16:30,Wolters REBOUND (Off:0 Def:2),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,26,5,2,1,11:11 AM,16:25,Grubin Lost Ball Turnover (P1.T1),,Staley STEAL (1 STL),,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,27,6,3,1,11:11 AM,16:25,Grubin L.B.FOUL (P1.T1),,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,28,2,1,1,11:12 AM,16:06,,,MISS Reid 8' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,29,4,0,1,11:12 AM,16:03,Williams REBOUND (Off:0 Def:1),,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,30,6,2,1,11:12 AM,15:48,,,Smith S.FOUL (P1.T2),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,31,9,4,1,11:12 AM,15:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,33,3,11,1,11:15 AM,15:48,MISS Thompson Free Throw 1 of 2,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,34,4,1,1,11:15 AM,15:48,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,35,3,12,1,11:15 AM,15:48,Thompson Free Throw 2 of 2 (3 PTS),,,3 - 8,5,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,36,2,1,1,11:16 AM,15:20,,,MISS Stinson 3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,37,4,0,1,11:16 AM,15:16,Williams REBOUND (Off:0 Def:2),,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,38,1,1,1,11:16 AM,15:06,Maxwell 3PT Jump Shot (3 PTS) (Wolters 1 AST),,,3 - 11,8,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,39,2,1,1,11:16 AM,14:34,,,MISS Bauer-Bilodeau 14' Jump Shot,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,40,4,0,1,11:16 AM,14:32,Thompson REBOUND (Off:0 Def:1),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,41,2,1,1,11:17 AM,14:23,MISS Grubin 3PT Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,42,4,0,1,11:17 AM,14:21,Wolters REBOUND (Off:1 Def:2),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,43,6,2,1,11:17 AM,14:21,,,Stinson S.FOUL (P1.T3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,44,3,11,1,11:17 AM,14:21,Wolters Free Throw 1 of 2 (3 PTS),,,3 - 12,9,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,45,8,0,1,11:17 AM,14:21,,,SUB: Braziel FOR Bauer-Bilodeau,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,46,3,12,1,11:17 AM,14:21,MISS Wolters Free Throw 2 of 2,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,47,4,0,1,11:18 AM,14:19,,,Reid REBOUND (Off:0 Def:1),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,48,1,5,1,11:18 AM,14:15,,,Stinson 5' Layup (2 PTS),5 - 12,7,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,49,2,5,1,11:18 AM,14:03,MISS Williams 3' Layup,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,50,4,0,1,11:18 AM,14:02,Thompson REBOUND (Off:1 Def:1),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,51,2,1,1,11:18 AM,14:01,MISS Thompson 4' Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,55,4,0,1,11:18 AM,13:59,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,56,6,3,1,11:18 AM,13:59,Wolters L.B.FOUL (P1.T2),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,57,6,2,1,11:18 AM,13:46,Grubin S.FOUL (P2.T3),,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,58,3,11,1,11:19 AM,13:46,,,Reid Free Throw 1 of 2 (1 PTS),6 - 12,6,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,59,3,12,1,11:19 AM,13:46,,,Reid Free Throw 2 of 2 (2 PTS),7 - 12,5,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,60,2,1,1,11:19 AM,13:35,MISS Thompson 3PT Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,61,4,0,1,11:19 AM,13:32,,,Staley REBOUND (Off:0 Def:1),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,62,5,1,1,11:19 AM,13:21,Wolters STEAL (1 STL),,Smith Bad Pass Turnover (P1.T3),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,63,2,1,1,11:19 AM,13:16,MISS Grubin 12' Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,64,4,0,1,11:19 AM,13:15,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,65,6,4,1,11:20 AM,13:14,Wolters OFF.Foul (P2),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,66,5,5,1,11:20 AM,13:14,Wolters Foul Turnover (P1.T2),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,67,8,0,1,11:20 AM,13:14,SUB: McCulley FOR Wolters,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,68,8,0,1,11:20 AM,13:14,SUB: Tremitiere FOR Williams,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,69,2,1,1,11:21 AM,12:59,,,MISS Stinson 3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,70,4,0,1,11:21 AM,12:59,Thompson REBOUND (Off:1 Def:2),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,71,6,3,1,11:21 AM,12:59,,,Smith L.B.FOUL (P2.T4),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,72,2,1,1,11:21 AM,12:45,MISS Thompson 3PT Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,73,4,0,1,11:21 AM,12:44,McCulley REBOUND (Off:1 Def:0),,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,74,8,0,1,11:21 AM,12:43,,,SUB: Travis FOR Smith,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,75,8,0,1,11:21 AM,12:43,SUB: White FOR Grubin,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,76,1,5,1,11:22 AM,12:29,Thompson 3' Layup (5 PTS) (Tremitiere 1 AST),,,7 - 14,7,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,77,5,2,1,11:22 AM,12:06,Thompson STEAL (1 STL),,Reid Lost Ball Turnover (P1.T4),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,78,2,1,1,11:22 AM,11:59,MISS Thompson 16' Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,79,4,0,1,11:22 AM,11:56,,,Braziel REBOUND (Off:0 Def:1),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,80,1,1,1,11:22 AM,11:48,,,Reid 4' Jump Shot (4 PTS) (Staley 1 AST),9 - 14,5,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,81,1,1,1,11:23 AM,11:33,White 3PT Jump Shot (3 PTS) (Maxwell 3 AST),,,9 - 17,8,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,82,9,4,1,11:23 AM,11:08,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,84,8,0,1,11:25 AM,11:08,SUB: Streimikyte FOR Thompson,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,85,8,0,1,11:25 AM,11:08,,,SUB: Jones FOR Reid,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,86,5,11,1,11:26 AM,10:57,,,Sting Turnover: Shot Clock (T#5),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,87,6,2,1,11:26 AM,10:46,,,Stinson S.FOUL (P2.PN),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,88,8,0,1,11:26 AM,10:46,SUB: Williams FOR Maxwell,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,89,3,11,1,11:27 AM,10:46,McCulley Free Throw 1 of 2 (1 PTS),,,9 - 18,9,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,90,3,12,1,11:27 AM,10:46,MISS McCulley Free Throw 2 of 2,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,91,4,0,1,11:27 AM,10:45,,,Braziel REBOUND (Off:0 Def:2),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,92,2,1,1,11:27 AM,10:22,,,MISS Stinson 15' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,93,4,0,1,11:27 AM,10:17,Streimikyte REBOUND (Off:0 Def:1),,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,94,5,1,1,11:28 AM,10:09,Williams Bad Pass Turnover (P1.T3),,Travis STEAL (1 STL),,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,95,2,1,1,11:28 AM,9:59,,,MISS Braziel 7' Jump Shot,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,96,4,0,1,11:28 AM,9:57,,,Braziel REBOUND (Off:1 Def:2),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,97,5,1,1,11:28 AM,9:54,,,Braziel Bad Pass Turnover (P1.T6),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,98,8,0,1,11:28 AM,9:54,,,SUB: Hill FOR Staley,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,99,2,1,1,11:28 AM,9:37,MISS McCulley 17' Jump Shot,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,100,4,0,1,11:28 AM,9:35,,,Hill REBOUND (Off:0 Def:1),,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,101,1,5,1,11:29 AM,9:28,,,Jones 4' Layup (2 PTS) (Hill 1 AST),11 - 18,7,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,102,2,1,1,11:29 AM,9:06,MISS Streimikyte 7' Jump Shot,,Jones BLOCK (1 BLK),,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0
+1020000252,103,4,0,1,11:29 AM,9:04,Streimikyte REBOUND (Off:1 Def:1),,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,104,6,2,1,11:29 AM,9:04,,,Braziel S.FOUL (P1.PN),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,105,3,11,1,11:30 AM,9:04,Streimikyte Free Throw 1 of 2 (1 PTS),,,11 - 19,8,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,106,3,12,1,11:30 AM,9:04,Streimikyte Free Throw 2 of 2 (2 PTS),,,11 - 20,9,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,107,1,5,1,11:30 AM,8:58,,,Stinson 2' Layup (4 PTS),13 - 20,7,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,108,2,1,1,11:30 AM,8:42,MISS Streimikyte 16' Jump Shot,,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,109,4,0,1,11:30 AM,8:40,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,110,5,4,1,11:31 AM,8:34,Williams Traveling Turnover (P2.T4),,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,111,8,0,1,11:31 AM,8:34,,,SUB: Staley FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,113,2,1,1,11:31 AM,8:19,,,MISS Travis 4' Jump Shot,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,114,4,0,1,11:31 AM,8:16,McCulley REBOUND (Off:1 Def:1),,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,115,6,2,1,11:32 AM,8:12,,,Staley S.FOUL (P1.PN),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,116,8,0,1,11:32 AM,8:12,SUB: Thompson FOR Streimikyte,,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,117,8,0,1,11:32 AM,8:12,SUB: Wolters FOR McCulley,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,118,8,0,1,11:32 AM,8:12,SUB: Maxwell FOR White,,,,,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,119,3,11,1,11:32 AM,8:12,MISS Williams Free Throw 1 of 2,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,120,4,1,1,11:32 AM,8:12,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,121,3,12,1,11:32 AM,8:12,Williams Free Throw 2 of 2 (4 PTS),,,13 - 21,8,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,122,9,4,1,11:32 AM,7:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,124,8,0,1,11:35 AM,7:57,,,SUB: Erb FOR Braziel,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,125,1,3,1,11:35 AM,7:52,,,Erb 5' Hook Shot (2 PTS) (Hill 2 AST),15 - 21,6,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,126,2,1,1,11:35 AM,7:24,MISS Williams 3PT Jump Shot,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,127,4,0,1,11:36 AM,7:22,,,Hill REBOUND (Off:0 Def:2),,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,128,5,2,1,11:36 AM,7:20,Tremitiere STEAL (1 STL),,Hill Lost Ball Turnover (P1.T7),,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,129,6,3,1,11:36 AM,7:20,,,Hill L.B.FOUL (P1.PN),,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,130,3,11,1,11:36 AM,7:20,Tremitiere Free Throw 1 of 2 (1 PTS),,,15 - 22,7,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,207,8,0,1,11:36 AM,7:20,SUB: Grubin FOR Williams,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,131,3,12,1,11:36 AM,7:20,Tremitiere Free Throw 2 of 2 (2 PTS),,,15 - 23,8,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,181,2,1,1,11:37 AM,7:06,,,MISS Hill 13' Jump Shot,,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,182,4,0,1,11:37 AM,7:01,Maxwell REBOUND (Off:1 Def:1),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,135,1,1,1,11:37 AM,7:00,Maxwell 3PT Jump Shot (6 PTS) (Tremitiere 2 AST),,,15 - 26,11,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,136,2,1,1,11:37 AM,6:32,,,MISS Erb 17' Jump Shot,,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,137,4,0,1,11:37 AM,6:30,Maxwell REBOUND (Off:1 Def:2),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,138,2,1,1,11:37 AM,6:24,MISS Thompson 5' Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,139,4,0,1,11:37 AM,6:22,Maxwell REBOUND (Off:2 Def:2),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,140,2,1,1,11:37 AM,6:21,MISS Maxwell 4' Jump Shot,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,141,4,0,1,11:37 AM,6:21,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,142,8,0,1,11:38 AM,6:21,,,SUB: Stinson FOR Hill,,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,143,8,0,1,11:38 AM,6:21,,,SUB: Smith FOR Jones,,,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,144,5,1,1,11:38 AM,6:19,Grubin Bad Pass Turnover (P2.T5),,Erb STEAL (1 STL),,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,145,1,1,1,11:38 AM,6:12,,,Travis 14' Jump Shot (2 PTS) (Stinson 1 AST),17 - 26,9,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,146,5,3,1,11:38 AM,5:57,Tremitiere Out Of Bounds Turnover (P1.T6),,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,148,1,5,1,11:39 AM,5:46,,,Travis 3' Layup (4 PTS) (Erb 1 AST),19 - 26,7,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,149,1,5,1,11:39 AM,5:36,Thompson 3' Layup (7 PTS) (Grubin 2 AST),,,19 - 28,9,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,150,6,2,1,11:39 AM,5:36,,,Smith S.FOUL (P3.PN),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,151,3,10,1,11:39 AM,5:36,Thompson Free Throw 1 of 1 (8 PTS),,,19 - 29,10,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,152,6,2,1,11:40 AM,5:27,Maxwell S.FOUL (P1.T4),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,153,8,0,1,11:40 AM,5:27,,,SUB: Reid FOR Smith,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,155,3,11,1,11:40 AM,5:27,,,Erb Free Throw 1 of 2 (3 PTS),20 - 29,9,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,156,3,12,1,11:40 AM,5:27,,,MISS Erb Free Throw 2 of 2,,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,158,4,0,1,11:40 AM,5:26,,,Reid REBOUND (Off:1 Def:1),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,159,1,1,1,11:40 AM,5:23,,,Reid 6' Jump Shot (6 PTS),22 - 29,7,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,160,2,1,1,11:41 AM,5:01,MISS Wolters 5' Jump Shot,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,161,4,0,1,11:41 AM,4:58,,,Travis REBOUND (Off:0 Def:1),,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,162,1,1,1,11:41 AM,4:54,,,Reid 4' Jump Shot (8 PTS),24 - 29,5,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,163,9,2,1,11:41 AM,4:47,FEVER Timeout: Short (Full 0 Short 1),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,165,2,1,1,11:42 AM,4:38,MISS Grubin 3PT Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,166,4,0,1,11:42 AM,4:35,,,Stinson REBOUND (Off:0 Def:2),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,167,2,5,1,11:42 AM,4:32,,,MISS Travis 3' Layup,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,168,4,0,1,11:42 AM,4:30,Tremitiere REBOUND (Off:0 Def:1),,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,169,2,5,1,11:43 AM,4:11,MISS Wolters 3' Layup,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,170,4,0,1,11:43 AM,4:07,,,Staley REBOUND (Off:0 Def:2),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,171,5,1,1,11:43 AM,3:56,Grubin STEAL (1 STL),,Staley Bad Pass Turnover (P2.T8),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,172,1,5,1,11:43 AM,3:51,Maxwell 3' Layup (8 PTS) (Grubin 3 AST),,,24 - 31,7,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,173,1,1,1,11:43 AM,3:30,,,Stinson 16' Jump Shot (6 PTS) (Travis 1 AST),26 - 31,5,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,174,1,1,1,11:43 AM,3:19,Grubin 4' Jump Shot (2 PTS) (Tremitiere 3 AST),,,26 - 33,7,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,175,2,1,1,11:44 AM,2:54,,,MISS Travis 14' Jump Shot,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,176,4,0,1,11:44 AM,2:51,Maxwell REBOUND (Off:2 Def:3),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,177,1,1,1,11:44 AM,2:32,Thompson 4' Jump Shot (10 PTS) (Grubin 4 AST),,,26 - 35,9,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,178,1,3,1,11:45 AM,2:13,,,Stinson 5' Hook Shot (8 PTS),28 - 35,7,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,179,6,1,1,11:45 AM,1:53,,,Erb P.FOUL (P1.PN),,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,183,8,0,1,11:47 AM,1:53,SUB: Williams FOR Tremitiere,,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,184,8,0,1,11:47 AM,1:53,,,SUB: Bauer-Bilodeau FOR Erb,,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,185,3,11,1,11:48 AM,1:53,MISS Wolters Free Throw 1 of 2,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,186,4,1,1,11:48 AM,1:53,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,187,3,12,1,11:48 AM,1:53,MISS Wolters Free Throw 2 of 2,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,188,4,0,1,11:48 AM,1:51,,,Reid REBOUND (Off:1 Def:2),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,189,1,1,1,11:48 AM,1:31,,,Reid 4' Jump Shot (10 PTS) (Stinson 2 AST),30 - 35,5,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,190,6,2,1,11:49 AM,1:31,Thompson S.FOUL (P1.PN),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,191,3,10,1,11:49 AM,1:31,,,Reid Free Throw 1 of 1 (11 PTS),31 - 35,4,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,192,8,0,1,11:49 AM,1:25,SUB: McCulley FOR Wolters,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,194,5,1,1,11:49 AM,1:19,Maxwell Bad Pass Turnover (P1.T7),,Staley STEAL (2 STL),,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,195,5,1,1,11:49 AM,1:15,Maxwell STEAL (1 STL),,Stinson Bad Pass Turnover (P2.T9),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,196,1,5,1,11:49 AM,1:09,Thompson 3' Layup (12 PTS) (Maxwell 4 AST),,,31 - 37,6,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,197,2,1,1,11:50 AM,0:49,,,MISS Stinson 3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,198,4,0,1,11:50 AM,0:47,,,Reid REBOUND (Off:2 Def:2),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,199,2,1,1,11:50 AM,0:25,,,MISS Travis 3PT Jump Shot,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,200,4,0,1,11:50 AM,0:22,,,Staley REBOUND (Off:1 Def:2),,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,201,2,5,1,11:50 AM,0:21,McCulley BLOCK (1 BLK),,MISS Travis 2' Layup,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0
+1020000252,202,4,0,1,11:50 AM,0:21,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,203,2,1,1,11:51 AM,0:03,Thompson BLOCK (1 BLK),,MISS Stinson 6' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0
+1020000252,204,4,0,1,11:51 AM,0:00,Maxwell REBOUND (Off:2 Def:4),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,205,13,0,1,11:51 AM,0:00,,End of 1st Half (11:51 AM EST),,31 - 37,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,208,12,0,2,12:07 PM,20:00,,Start of 2nd Half (12:07 PM EST),,31 - 37,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,209,10,0,2,12:07 PM,20:00,Jump Ball Wolters vs. Smith: Tip to Stinson,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0
+1020000252,210,2,1,2,12:07 PM,19:47,,,MISS Stinson 3PT Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,211,4,0,2,12:07 PM,19:44,,,Reid REBOUND (Off:3 Def:2),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,212,5,2,2,12:07 PM,19:42,Grubin STEAL (2 STL),,Reid Lost Ball Turnover (P2.T10),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,213,1,1,2,12:07 PM,19:34,Williams 3PT Jump Shot (7 PTS) (Maxwell 5 AST),,,31 - 40,9,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,214,2,1,2,12:08 PM,19:08,,,MISS Bauer-Bilodeau 14' Jump Shot,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,215,4,0,2,12:08 PM,19:06,Thompson REBOUND (Off:1 Def:3),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,216,2,1,2,12:08 PM,18:58,MISS Wolters 4' Jump Shot,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,217,4,0,2,12:08 PM,18:55,,,Smith REBOUND (Off:1 Def:3),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,218,2,1,2,12:08 PM,18:44,,,MISS Reid 4' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,219,4,0,2,12:08 PM,18:43,,,Bauer-Bilodeau REBOUND (Off:1 Def:0),,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,220,1,1,2,12:09 PM,18:34,,,Stinson 10' Jump Shot (10 PTS) (Smith 1 AST),33 - 40,7,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,221,2,1,2,12:09 PM,18:26,MISS Grubin 9' Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,222,4,0,2,12:09 PM,18:23,,,Smith REBOUND (Off:1 Def:4),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,223,1,1,2,12:09 PM,18:19,,,Stinson 4' Jump Shot (12 PTS) (Smith 2 AST),35 - 40,5,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,224,2,1,2,12:10 PM,17:53,MISS Williams 10' Jump Shot,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,225,4,0,2,12:10 PM,17:51,,,Stinson REBOUND (Off:0 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,226,2,1,2,12:10 PM,17:48,Williams BLOCK (1 BLK),,MISS Stinson 5' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0
+1020000252,227,4,0,2,12:10 PM,17:48,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,228,8,0,2,12:10 PM,17:48,SUB: White FOR Grubin,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,229,6,4,2,12:10 PM,17:46,,,Smith OFF.Foul (P4),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,230,5,5,2,12:10 PM,17:46,,,Smith Foul Turnover (P2.T11),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,231,6,4,2,12:11 PM,17:32,Wolters OFF.Foul (P3),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,232,5,5,2,12:11 PM,17:32,Wolters Foul Turnover (P2.T8),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,233,2,1,2,12:11 PM,17:15,,,MISS Reid 4' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,234,4,0,2,12:11 PM,17:13,Wolters REBOUND (Off:1 Def:3),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,235,5,1,2,12:11 PM,17:00,Thompson Bad Pass Turnover (P1.T9),,Staley STEAL (3 STL),,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,236,1,1,2,12:11 PM,16:57,,,Staley 4' Jump Shot (5 PTS),37 - 40,3,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,237,9,2,2,12:11 PM,16:52,FEVER Timeout: Short (Full 0 Short 2),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,239,1,5,2,12:13 PM,16:35,White 3' Layup (5 PTS),,,37 - 42,5,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,240,2,1,2,12:13 PM,16:16,,,MISS Reid 4' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,241,4,0,2,12:13 PM,16:14,,,Bauer-Bilodeau REBOUND (Off:2 Def:0),,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,242,2,1,2,12:13 PM,16:06,Wolters BLOCK (1 BLK),,MISS Bauer-Bilodeau 6' Jump Shot,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0
+1020000252,243,4,0,2,12:13 PM,16:06,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,244,6,2,2,12:14 PM,16:03,Thompson S.FOUL (P2.T1),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,245,3,11,2,12:14 PM,16:03,,,Stinson Free Throw 1 of 2 (13 PTS),38 - 42,4,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,246,3,12,2,12:15 PM,16:03,,,Stinson Free Throw 2 of 2 (14 PTS),39 - 42,3,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,247,9,4,2,12:15 PM,15:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,249,1,5,2,12:18 PM,15:36,Wolters 4' Layup (5 PTS) (Thompson 1 AST),,,39 - 44,5,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,250,1,1,2,12:18 PM,15:11,,,Bauer-Bilodeau 17' Jump Shot (2 PTS) (Smith 3 AST),41 - 44,3,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,251,1,5,2,12:18 PM,15:01,Wolters 5' Layup (7 PTS) (Thompson 2 AST),,,41 - 46,5,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,252,5,1,2,12:19 PM,14:41,Williams STEAL (1 STL),,Stinson Bad Pass Turnover (P3.T12),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,253,1,1,2,12:19 PM,14:27,Thompson 3PT Jump Shot (15 PTS) (Williams 1 AST),,,41 - 49,8,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,254,6,2,2,12:19 PM,14:01,White S.FOUL (P1.T2),,,,,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,255,3,11,2,12:20 PM,14:01,,,MISS Reid Free Throw 1 of 2,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,256,4,1,2,12:20 PM,14:01,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,257,3,12,2,12:20 PM,14:01,,,Reid Free Throw 2 of 2 (12 PTS),42 - 49,7,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,258,5,8,2,12:21 PM,13:45,Wolters 3 Second Violation Turnover (P3.T10),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,259,2,1,2,12:21 PM,13:20,,,MISS Staley 17' Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,260,4,0,2,12:21 PM,13:17,,,Bauer-Bilodeau REBOUND (Off:3 Def:0),,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,261,5,4,2,12:21 PM,13:15,,,Reid Traveling Turnover (P3.T13),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,262,8,0,2,12:21 PM,13:15,,,SUB: Braziel FOR Bauer-Bilodeau,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,263,2,1,2,12:22 PM,12:59,MISS Williams 3PT Jump Shot,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,264,4,0,2,12:22 PM,12:57,,,Smith REBOUND (Off:1 Def:5),,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,265,2,1,2,12:22 PM,12:34,,,MISS Braziel 5' Jump Shot,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,266,4,0,2,12:22 PM,12:33,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,267,8,0,2,12:22 PM,12:33,,,SUB: Travis FOR Smith,,,5,100371,Charlotte Smith,1611661314.0,Charlotte,Sting,CHA,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,268,2,1,2,12:23 PM,12:19,MISS Wolters 5' Jump Shot,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,269,4,0,2,12:23 PM,12:18,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,270,8,0,2,12:23 PM,12:18,,,SUB: Hill FOR Staley,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,271,2,1,2,12:23 PM,11:58,,,MISS Reid 8' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,272,4,0,2,12:23 PM,11:55,Wolters REBOUND (Off:1 Def:4),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,273,2,1,2,12:24 PM,11:33,MISS Maxwell 3PT Jump Shot,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,274,4,0,2,12:24 PM,11:31,,,Travis REBOUND (Off:0 Def:2),,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,275,5,1,2,12:24 PM,11:29,Williams STEAL (2 STL),,Reid Bad Pass Turnover (P4.T14),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,276,2,5,2,12:24 PM,11:23,MISS Williams 3' Layup,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,277,4,0,2,12:24 PM,11:20,Williams REBOUND (Off:1 Def:2),,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,278,2,5,2,12:24 PM,11:09,MISS Wolters 3' Layup,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,279,4,0,2,12:24 PM,11:07,,,Braziel REBOUND (Off:1 Def:3),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,280,2,1,2,12:24 PM,11:00,,,MISS Travis 18' Jump Shot,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,281,4,0,2,12:24 PM,10:58,,,Stinson REBOUND (Off:1 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,282,9,2,2,12:24 PM,10:55,,,Sting Timeout: Short (Reg.0 Short 1),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,284,6,2,2,12:26 PM,10:40,Maxwell S.FOUL (P2.T3),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,285,9,4,2,12:26 PM,10:40,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,287,8,0,2,12:28 PM,10:40,SUB: McCulley FOR Wolters,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,288,8,0,2,12:28 PM,10:40,,,SUB: Jones FOR Reid,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,289,3,11,2,12:28 PM,10:40,,,Stinson Free Throw 1 of 2 (15 PTS),43 - 49,6,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,290,3,12,2,12:29 PM,10:40,,,MISS Stinson Free Throw 2 of 2,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,291,4,0,2,12:29 PM,10:38,Thompson REBOUND (Off:1 Def:4),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,292,6,2,2,12:29 PM,10:15,,,Hill S.FOUL (P2.T1),,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,293,3,11,2,12:29 PM,10:15,White Free Throw 1 of 2 (6 PTS),,,43 - 50,7,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,294,3,12,2,12:30 PM,10:15,White Free Throw 2 of 2 (7 PTS),,,43 - 51,8,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,295,6,2,2,12:30 PM,10:01,McCulley S.FOUL (P1.T4),,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,296,3,11,2,12:30 PM,10:01,,,Braziel Free Throw 1 of 2 (1 PTS),44 - 51,7,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,297,3,12,2,12:30 PM,10:01,,,Braziel Free Throw 2 of 2 (2 PTS),45 - 51,6,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,298,1,5,2,12:31 PM,9:39,McCulley 3' Layup (3 PTS),,,45 - 53,8,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,299,2,1,2,12:31 PM,9:23,,,MISS Hill 10' Jump Shot,,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,300,4,0,2,12:31 PM,9:21,Maxwell REBOUND (Off:2 Def:5),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,301,2,1,2,12:31 PM,9:13,MISS Maxwell 3PT Jump Shot,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,302,4,0,2,12:31 PM,9:11,,,Hill REBOUND (Off:0 Def:3),,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,303,2,1,2,12:32 PM,8:58,,,MISS Jones 5' Jump Shot,,,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,304,4,0,2,12:32 PM,8:56,Williams REBOUND (Off:1 Def:3),,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,305,5,1,2,12:32 PM,8:48,Maxwell Bad Pass Turnover (P2.T11),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,306,8,0,2,12:32 PM,8:48,,,SUB: Staley FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,307,2,1,2,12:32 PM,8:26,,,MISS Braziel 8' Jump Shot,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,308,4,0,2,12:32 PM,8:23,Thompson REBOUND (Off:1 Def:5),,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,309,2,1,2,12:33 PM,8:16,MISS Thompson 3PT Jump Shot,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,310,4,0,2,12:33 PM,8:14,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,311,2,1,2,12:33 PM,8:00,,,MISS Staley 13' Jump Shot,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,312,4,0,2,12:33 PM,7:58,,,Sting Rebound,,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,313,9,4,2,12:33 PM,7:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,315,5,1,2,12:36 PM,7:35,,,Braziel Bad Pass Turnover (P2.T15),,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,316,8,0,2,12:36 PM,7:35,SUB: Grubin FOR Maxwell,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,318,6,4,2,12:37 PM,7:20,McCulley OFF.Foul (P2),,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,319,5,5,2,12:37 PM,7:20,McCulley Foul Turnover (P1.T12),,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,320,8,0,2,12:37 PM,7:20,,,SUB: Reid FOR Jones,,,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,321,8,0,2,12:37 PM,7:20,,,SUB: Erb FOR Braziel,,,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,322,8,0,2,12:37 PM,7:20,SUB: Streimikyte FOR Thompson,,,,,4,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,323,2,1,2,12:37 PM,7:05,,,MISS Erb 5' Jump Shot,,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,324,4,0,2,12:37 PM,7:03,,,Reid REBOUND (Off:4 Def:2),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,325,2,1,2,12:37 PM,7:02,,,MISS Reid 3' Jump Shot,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,326,4,0,2,12:38 PM,7:00,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,327,8,0,2,12:38 PM,7:00,,,SUB: Stinson FOR Hill,,,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,328,6,1,2,12:38 PM,6:47,,,Erb P.FOUL (P2.T2),,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,329,6,2,2,12:38 PM,6:40,,,Stinson S.FOUL (P3.T3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,330,3,11,2,12:39 PM,6:40,MISS McCulley Free Throw 1 of 2,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,331,4,1,2,12:39 PM,6:40,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,332,3,12,2,12:39 PM,6:40,MISS McCulley Free Throw 2 of 2,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,333,4,0,2,12:39 PM,6:38,,,Travis REBOUND (Off:0 Def:3),,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,334,9,2,2,12:39 PM,6:38,,,Sting Timeout: Short (Reg.0 Short 2),,,3,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,336,2,1,2,12:40 PM,6:24,,,MISS Stinson 11' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,337,4,0,2,12:40 PM,6:22,,,Stinson REBOUND (Off:2 Def:3),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,338,2,1,2,12:40 PM,6:19,Streimikyte BLOCK (1 BLK),,MISS Stinson 9' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0
+1020000252,339,4,0,2,12:40 PM,6:15,Grubin REBOUND (Off:0 Def:2),,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,340,6,2,2,12:40 PM,6:08,,,Erb S.FOUL (P3.T4),,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,341,8,0,2,12:41 PM,6:08,SUB: Maxwell FOR White,,,,,4,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,342,8,0,2,12:41 PM,6:08,SUB: Wolters FOR McCulley,,,,,4,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,343,3,11,2,12:41 PM,6:08,Williams Free Throw 1 of 2 (8 PTS),,,45 - 54,9,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,344,3,12,2,12:41 PM,6:08,Williams Free Throw 2 of 2 (9 PTS),,,45 - 55,10,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,345,2,1,2,12:42 PM,5:42,,,MISS Stinson 15' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,346,4,0,2,12:42 PM,5:39,Maxwell REBOUND (Off:2 Def:6),,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,347,2,5,2,12:42 PM,5:34,MISS Streimikyte 3' Layup,,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,348,4,0,2,12:42 PM,5:32,Streimikyte REBOUND (Off:2 Def:1),,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,349,5,1,2,12:42 PM,5:26,Streimikyte Bad Pass Turnover (P1.T13),,Travis STEAL (2 STL),,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,350,2,5,2,12:42 PM,5:18,,,MISS Travis 2' Layup,,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,351,4,0,2,12:42 PM,5:14,Streimikyte REBOUND (Off:2 Def:2),,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,352,1,1,2,12:43 PM,4:49,Wolters 16' Jump Shot (9 PTS) (Grubin 5 AST),,,45 - 57,12,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,354,6,1,2,12:43 PM,4:25,Wolters P.FOUL (P4.PN),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,355,8,0,2,12:43 PM,4:25,,,SUB: Bauer-Bilodeau FOR Erb,,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,356,8,0,2,12:43 PM,4:25,SUB: Quinney FOR Maxwell,,,,,4,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,357,5,2,2,12:44 PM,4:10,Quinney STEAL (1 STL),,Stinson Lost Ball Turnover (P4.T16),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,4,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,358,6,3,2,12:44 PM,4:10,,,Reid L.B.FOUL (P1.PN),,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,359,6,1,2,12:45 PM,3:41,,,Stinson P.FOUL (P4.PN),,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,360,9,4,2,12:45 PM,3:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,362,8,0,2,12:47 PM,3:41,SUB: Tremitiere FOR Williams,,,,,4,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,363,2,1,2,12:47 PM,3:34,MISS Grubin 3PT Jump Shot,,,,,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,364,4,0,2,12:47 PM,3:31,Tremitiere REBOUND (Off:1 Def:1),,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,365,6,1,2,12:48 PM,3:22,,,Bauer-Bilodeau P.FOUL (P2.PN),,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,366,6,2,2,12:48 PM,3:20,,,Bauer-Bilodeau S.FOUL (P3.PN),,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,367,3,11,2,12:48 PM,3:20,Wolters Free Throw 1 of 2 (10 PTS),,,45 - 58,13,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,368,3,12,2,12:48 PM,3:20,Wolters Free Throw 2 of 2 (11 PTS),,,45 - 59,14,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,369,2,1,2,12:49 PM,2:59,,,MISS Stinson 16' Jump Shot,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,370,4,0,2,12:49 PM,2:55,Wolters REBOUND (Off:1 Def:5),,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,371,1,1,2,12:49 PM,2:38,Streimikyte 16' Jump Shot (4 PTS) (Grubin 6 AST),,,45 - 61,16,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,372,6,2,2,12:50 PM,2:04,Tremitiere S.FOUL (P1.PN),,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,373,8,0,2,12:50 PM,2:04,SUB: Gaither FOR Wolters,,,,,4,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000252,374,8,0,2,12:50 PM,2:04,,,SUB: Erb FOR Reid,,,5,100182,Tracy Reid,1611661314.0,Charlotte,Sting,CHA,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,375,8,0,2,12:50 PM,2:04,,,SUB: Hill FOR Bauer-Bilodeau,,,5,100294,Cass Bauer-Bilodeau,1611661314.0,Charlotte,Sting,CHA,5,100452,E.C. Hill,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,376,8,0,2,12:50 PM,2:04,,,SUB: Jones FOR Staley,,,5,100372,Dawn Staley,1611661314.0,Charlotte,Sting,CHA,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,377,3,11,2,12:50 PM,2:04,,,Stinson Free Throw 1 of 2 (16 PTS),46 - 61,15,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,378,3,12,2,12:51 PM,2:04,,,Stinson Free Throw 2 of 2 (17 PTS),47 - 61,14,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,379,2,5,2,12:51 PM,1:51,MISS Gaither 3' Layup,,Erb BLOCK (1 BLK),,,4,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0
+1020000252,380,4,0,2,12:51 PM,1:51,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,381,8,0,2,12:51 PM,1:51,,,SUB: Braziel FOR Stinson,,,5,100059,Andrea Stinson,1611661314.0,Charlotte,Sting,CHA,5,100368,Angie Braziel,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020000252,382,2,1,2,12:52 PM,1:35,MISS Streimikyte 4' Jump Shot,,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,383,4,0,2,12:52 PM,1:33,Streimikyte REBOUND (Off:3 Def:2),,,,,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,384,1,5,2,12:52 PM,1:27,Streimikyte 2' Layup (6 PTS),,,47 - 63,16,4,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,385,2,1,2,12:52 PM,1:15,,,MISS Jones 3PT Jump Shot,,,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,386,4,0,2,12:52 PM,1:14,,,Erb REBOUND (Off:1 Def:0),,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,387,1,5,2,12:52 PM,1:12,,,Erb 3' Layup (5 PTS),49 - 63,14,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,388,6,2,2,12:53 PM,0:41,,,Erb S.FOUL (P4.PN),,,5,100446,Summer Erb,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,389,3,13,2,12:53 PM,0:41,Grubin Free Throw 1 of 3 (3 PTS),,,49 - 64,15,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,390,3,14,2,12:53 PM,0:41,Grubin Free Throw 2 of 3 (4 PTS),,,49 - 65,16,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,391,3,15,2,12:53 PM,0:41,Grubin Free Throw 3 of 3 (5 PTS),,,49 - 66,17,4,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,392,1,1,2,12:54 PM,0:28,,,Travis 17' Jump Shot (6 PTS),51 - 66,15,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,393,6,1,2,12:54 PM,0:12,,,Travis P.FOUL (P1.PN),,,5,100447,Tiffany Travis,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,394,3,11,2,12:54 PM,0:12,MISS Tremitiere Free Throw 1 of 2,,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,395,4,1,2,12:54 PM,0:12,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,396,3,12,2,12:55 PM,0:12,Tremitiere Free Throw 2 of 2 (3 PTS),,,51 - 67,16,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,397,2,1,2,12:55 PM,0:04,,,MISS Jones 3PT Jump Shot,,,5,100454,Larecha Jones,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020000252,398,4,0,2,12:55 PM,0:02,Tremitiere REBOUND (Off:1 Def:2),,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,399,2,5,2,12:56 PM,0:00,MISS Tremitiere 2' Layup,,,,,4,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000252,400,4,0,2,12:56 PM,0:00,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000252,401,13,0,2,12:56 PM,0:00,,End of 2nd Half (12:56 PM EST),,51 - 67,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

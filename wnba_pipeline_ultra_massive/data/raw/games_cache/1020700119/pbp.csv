@@ -1,0 +1,461 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020700119,0,12,0,1,7:00 PM,10:00,,Start of 1st Period (7:00 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,1,10,0,1,7:00 PM,10:00,Jump Ball Sanford vs. Ohlde: Tip to Teasley,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0
+1020700119,2,6,2,1,7:01 PM,9:47,,,Stansbury S.FOUL (P1.T1),,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,3,3,11,1,7:01 PM,9:47,Milton-Jones Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,4,3,12,1,7:01 PM,9:47,Milton-Jones Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,5,6,1,1,7:02 PM,9:28,Beard P.FOUL (P1.T1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,6,2,1,1,7:02 PM,9:19,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,7,4,0,1,7:02 PM,9:18,Milton-Jones REBOUND (Off:0 Def:1),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,8,6,1,1,7:02 PM,9:07,,,Stansbury P.FOUL (P2.T2),,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,9,8,0,1,7:03 PM,9:07,,,SUB: Mann FOR Stansbury,,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,10,1,1,1,7:03 PM,9:02,Currie 4' Jump Shot (2 PTS) (Milton-Jones 1 AST),,,0 - 4,4,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,11,6,2,1,7:03 PM,9:02,,,Abrosimova S.FOUL (P1.T3),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,12,3,10,1,7:03 PM,9:02,Currie Free Throw 1 of 1 (3 PTS),,,0 - 5,5,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,13,6,1,1,7:04 PM,8:47,Teasley P.FOUL (P1.T2),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,14,2,1,1,7:04 PM,8:40,,,MISS Augustus 24' 3PT Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,15,4,0,1,7:04 PM,8:38,Sanford REBOUND (Off:0 Def:1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,16,2,1,1,7:04 PM,8:31,MISS Beard 16' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,17,4,0,1,7:04 PM,8:29,Sanford REBOUND (Off:1 Def:1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,18,1,1,1,7:04 PM,8:28,Sanford 6' Jump Shot (2 PTS),,,0 - 7,7,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,20,5,2,1,7:05 PM,8:05,Teasley STEAL (1 STL),,Harding Lost Ball Turnover (P1.T1),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,21,2,1,1,7:05 PM,7:54,MISS Milton-Jones 17' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,22,4,0,1,7:05 PM,7:53,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,23,5,1,1,7:05 PM,7:43,,,Augustus Bad Pass Turnover (P1.T2),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020700119,24,2,1,1,7:05 PM,7:33,MISS Currie 15' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,25,4,0,1,7:05 PM,7:31,,,Augustus REBOUND (Off:0 Def:1),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,26,5,1,1,7:06 PM,7:13,Sanford STEAL (1 STL),,Mann Bad Pass Turnover (P1.T3),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,27,6,2,1,7:06 PM,7:07,,,Ohlde S.FOUL (P1.T4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,28,3,11,1,7:06 PM,7:07,Milton-Jones Free Throw 1 of 2 (3 PTS),,,0 - 8,8,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,29,8,0,1,7:06 PM,7:07,,,SUB: Ress FOR Ohlde,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,30,3,12,1,7:06 PM,7:07,Milton-Jones Free Throw 2 of 2 (4 PTS),,,0 - 9,9,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,32,1,47,1,7:07 PM,6:52,,,Augustus 6' Turnaround Jump Shot (2 PTS),2 - 9,7,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,33,1,65,1,7:07 PM,6:37,Sanford 4' Jump Hook Shot (4 PTS) (Teasley 1 AST),,,2 - 11,9,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,34,6,1,1,7:07 PM,6:25,Teasley P.FOUL (P2.T3),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,35,8,0,1,7:07 PM,6:25,SUB: Blue FOR Teasley,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,36,2,1,1,7:08 PM,6:19,,,MISS Harding 16' Jump Shot,,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,37,4,0,1,7:08 PM,6:17,Beard REBOUND (Off:0 Def:1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,38,1,46,1,7:08 PM,6:09,Blue 15' Running Jump Shot (2 PTS),,,2 - 13,11,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,39,2,5,1,7:08 PM,5:49,Sanford BLOCK (1 BLK),,MISS Ress 3' Layup,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0
+1020700119,40,4,0,1,7:08 PM,5:48,,,Ress REBOUND (Off:1 Def:0),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,41,5,2,1,7:08 PM,5:46,Milton-Jones STEAL (1 STL),,Ress Lost Ball Turnover (P1.T4),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,42,5,1,1,7:09 PM,5:27,Blue Bad Pass Turnover (P1.T1),,Ress STEAL (1 STL),,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,43,2,5,1,7:09 PM,5:22,,,MISS Abrosimova 2' Layup,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,44,4,0,1,7:09 PM,5:20,,,Abrosimova REBOUND (Off:1 Def:0),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,45,1,5,1,7:09 PM,5:19,,,Abrosimova 2' Layup (2 PTS),4 - 13,9,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,47,2,1,1,7:09 PM,4:56,MISS Milton-Jones 19' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,48,4,0,1,7:09 PM,4:54,,,Ress REBOUND (Off:1 Def:1),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,49,1,1,1,7:09 PM,4:38,,,Augustus 12' Jump Shot (4 PTS) (Mann 1 AST),6 - 13,7,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,50,2,1,1,7:10 PM,4:18,MISS Milton-Jones  3PT Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,51,4,0,1,7:10 PM,4:16,,,Harding REBOUND (Off:0 Def:1),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,52,2,5,1,7:10 PM,4:11,Blue BLOCK (1 BLK),,MISS Ress 2' Layup,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0
+1020700119,53,4,0,1,7:10 PM,4:09,Milton-Jones REBOUND (Off:0 Def:2),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,54,1,42,1,7:10 PM,4:05,Currie 1' Driving Layup (5 PTS) (Blue 1 AST),,,6 - 15,9,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,55,9,1,1,7:10 PM,3:56,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,57,6,2,1,7:13 PM,3:45,Currie S.FOUL (P1.T4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,58,3,11,1,7:13 PM,3:45,,,Abrosimova Free Throw 1 of 2 (3 PTS),7 - 15,8,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,59,3,12,1,7:13 PM,3:45,,,Abrosimova Free Throw 2 of 2 (4 PTS),8 - 15,7,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,60,2,1,1,7:14 PM,3:31,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,61,4,0,1,7:14 PM,3:30,Beard REBOUND (Off:1 Def:1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,62,2,1,1,7:14 PM,3:24,MISS Currie 6' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,63,4,0,1,7:14 PM,3:22,,,Abrosimova REBOUND (Off:1 Def:1),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,64,1,3,1,7:14 PM,3:14,,,Ress 5' Hook Shot (2 PTS) (Harding 1 AST),10 - 15,5,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,65,2,5,1,7:14 PM,2:59,MISS Milton-Jones 1' Layup,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,66,4,0,1,7:14 PM,2:57,,,Abrosimova REBOUND (Off:1 Def:2),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,67,1,5,1,7:15 PM,2:43,,,Mann  Layup (2 PTS) (Augustus 1 AST),12 - 15,3,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,69,2,1,1,7:15 PM,2:19,MISS Blue 4' Jump Shot,,Mann BLOCK (1 BLK),,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0
+1020700119,70,4,0,1,7:15 PM,2:19,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,71,8,0,1,7:15 PM,2:19,,,SUB: Murphy FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,72,1,5,1,7:15 PM,2:10,,,Ress 2' Layup (4 PTS) (Abrosimova 1 AST),14 - 15,1,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,73,6,2,1,7:15 PM,2:10,Blue S.FOUL (P1.PN),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,74,8,0,1,7:16 PM,2:10,SUB: James FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,75,3,10,1,7:16 PM,2:10,,,MISS Ress Free Throw 1 of 1,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,76,4,0,1,7:16 PM,2:09,Sanford REBOUND (Off:1 Def:2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,78,2,1,1,7:16 PM,1:49,MISS Milton-Jones 13' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,79,4,0,1,7:16 PM,1:47,,,Abrosimova REBOUND (Off:1 Def:3),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,80,5,1,1,7:16 PM,1:44,Milton-Jones STEAL (2 STL),,Abrosimova Bad Pass Turnover (P1.T5),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,81,6,2,1,7:16 PM,1:38,,,Ress S.FOUL (P1.PN),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,82,3,11,1,7:17 PM,1:38,Milton-Jones Free Throw 1 of 2 (5 PTS),,,14 - 16,2,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,83,3,12,1,7:17 PM,1:38,Milton-Jones Free Throw 2 of 2 (6 PTS),,,14 - 17,3,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,85,5,2,1,7:17 PM,1:18,Beard STEAL (1 STL),,Harding Lost Ball Turnover (P2.T6),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,86,5,2,1,7:18 PM,1:01,Milton-Jones Lost Ball Turnover (P1.T2),,Mann STEAL (1 STL),,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,87,1,42,1,7:18 PM,0:57,,,Harding 2' Driving Layup (2 PTS),16 - 17,1,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,88,2,1,1,7:18 PM,0:39,MISS Blue  3PT Jump Shot,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,89,4,0,1,7:18 PM,0:39,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,90,6,3,1,7:18 PM,0:39,,,Ress L.B.FOUL (P2.PN),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,91,8,0,1,7:18 PM,0:39,,,SUB: Ohlde FOR Ress,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,92,3,11,1,7:19 PM,0:39,Sanford Free Throw 1 of 2 (5 PTS),,,16 - 18,2,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,93,3,12,1,7:19 PM,0:39,Sanford Free Throw 2 of 2 (6 PTS),,,16 - 19,3,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,94,1,1,1,7:19 PM,0:31,,,Harding  3PT Jump Shot (5 PTS),19 - 19,TIE,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,95,1,1,1,7:19 PM,0:14,James  3PT Jump Shot (3 PTS) (Beard 1 AST),,,19 - 22,3,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,96,2,1,1,7:20 PM,0:00,,,MISS Murphy 24' 3PT Jump Shot,,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,97,4,0,1,7:20 PM,0:00,Sanford REBOUND (Off:1 Def:3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,98,13,0,1,7:20 PM,0:00,,End of 1st Period (7:20 PM EST),,19 - 22,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,101,12,0,2,7:23 PM,10:00,,Start of 2nd Period (7:23 PM EST),,19 - 22,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,102,2,1,2,7:23 PM,9:43,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,103,4,0,2,7:23 PM,9:41,Blue REBOUND (Off:0 Def:1),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,104,6,4,2,7:23 PM,9:38,Beard OFF.Foul (P2),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,105,5,5,2,7:23 PM,9:38,Beard Foul Turnover (P1.T3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,106,6,1,2,7:24 PM,9:32,Sanford P.FOUL (P1.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,108,1,1,2,7:24 PM,9:21,,,Abrosimova  3PT Jump Shot (7 PTS) (Harding 2 AST),22 - 22,TIE,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,109,2,1,2,7:25 PM,8:56,MISS Sanford 5' Jump Shot,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,110,4,0,2,7:25 PM,8:54,Blue REBOUND (Off:1 Def:1),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,111,1,5,2,7:25 PM,8:53,Blue 1' Layup (4 PTS),,,22 - 24,2,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,112,1,47,2,7:25 PM,8:36,,,Abrosimova 15' Turnaround Jump Shot (9 PTS) (Harding 3 AST),24 - 24,TIE,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,113,2,1,2,7:25 PM,8:16,MISS James 16' Jump Shot,,,,,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,114,4,0,2,7:25 PM,8:13,Sanford REBOUND (Off:2 Def:3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,115,5,1,2,7:26 PM,8:11,Sanford Bad Pass Turnover (P1.T4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,117,8,0,2,7:26 PM,8:11,SUB: Currie FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,171,8,0,2,7:26 PM,8:11,,,SUB: Quinn FOR Murphy,,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,118,8,0,2,7:26 PM,8:11,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,119,1,42,2,7:26 PM,8:01,,,Abrosimova 1' Driving Layup (11 PTS),26 - 24,-2,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,120,6,1,2,7:26 PM,7:44,,,Harding P.FOUL (P1.T1),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,121,1,1,2,7:27 PM,7:39,Blue 18' Jump Shot (6 PTS) (James 1 AST),,,26 - 26,TIE,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,122,1,1,2,7:27 PM,7:22,,,Mann  3PT Jump Shot (5 PTS) (Harding 4 AST),29 - 26,-3,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,123,1,42,2,7:27 PM,7:03,Milton-Jones 1' Driving Layup (8 PTS) (Blue 2 AST),,,29 - 28,-1,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,124,2,1,2,7:28 PM,6:43,,,MISS Mann 18' Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,125,4,0,2,7:28 PM,6:42,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,126,8,0,2,7:28 PM,6:42,,,SUB: Ress FOR Ohlde,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,128,6,1,2,7:28 PM,6:23,,,Ress P.FOUL (P3.T2),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,129,8,0,2,7:28 PM,6:23,,,SUB: Augustus FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,130,8,0,2,7:28 PM,6:23,,,SUB: Ohlde FOR Ress,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,131,1,56,2,7:29 PM,6:12,Mosby 3' Running Hook Shot (2 PTS),,,29 - 30,1,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,132,6,2,2,7:29 PM,5:49,Mosby S.FOUL (P1.T2),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,134,9,4,2,7:29 PM,5:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,136,8,0,2,7:32 PM,5:49,SUB: Teasley FOR James,,,,,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,137,8,0,2,7:32 PM,5:49,,,SUB: Jacobs FOR Harding,,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,139,3,11,2,7:32 PM,5:49,,,Augustus Free Throw 1 of 2 (5 PTS),30 - 30,TIE,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,140,3,12,2,7:32 PM,5:49,,,Augustus Free Throw 2 of 2 (6 PTS),31 - 30,-1,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,141,2,1,2,7:33 PM,5:30,MISS Teasley  3PT Jump Shot,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,142,4,0,2,7:33 PM,5:28,,,Quinn REBOUND (Off:0 Def:1),,,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,143,1,1,2,7:33 PM,5:15,,,Mann 17' Jump Shot (7 PTS) (Ohlde 1 AST),33 - 30,-3,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,144,2,1,2,7:33 PM,4:48,MISS Blue 17' Jump Shot,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,145,4,0,2,7:33 PM,4:45,Teasley REBOUND (Off:1 Def:0),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,146,2,1,2,7:34 PM,4:40,MISS Currie  3PT Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,147,4,0,2,7:34 PM,4:39,,,Quinn REBOUND (Off:0 Def:2),,,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,148,6,2,2,7:34 PM,4:35,Blue S.FOUL (P2.T3),,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,149,8,0,2,7:34 PM,4:35,SUB: Sanford FOR Milton-Jones,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,150,8,0,2,7:34 PM,4:35,SUB: Beard FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,151,3,11,2,7:34 PM,4:35,,,MISS Jacobs Free Throw 1 of 2,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,152,4,1,2,7:34 PM,4:35,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,153,3,12,2,7:34 PM,4:35,,,Jacobs Free Throw 2 of 2 (1 PTS),34 - 30,-4,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,155,1,46,2,7:35 PM,4:18,Beard 4' Running Jump Shot (2 PTS),,,34 - 32,-2,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,156,1,1,2,7:35 PM,3:54,,,Mann 14' Jump Shot (9 PTS) (Augustus 2 AST),36 - 32,-4,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,157,2,1,2,7:36 PM,3:34,MISS Sanford 10' Jump Shot,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,158,4,0,2,7:36 PM,3:33,,,Augustus REBOUND (Off:0 Def:2),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,159,5,1,2,7:36 PM,3:20,Currie STEAL (1 STL),,Jacobs Bad Pass Turnover (P1.T7),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,160,1,5,2,7:36 PM,3:16,Beard  Layup (4 PTS) (Currie 1 AST),,,36 - 34,-2,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,161,6,2,2,7:36 PM,3:16,,,Augustus S.FOUL (P1.T3),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,162,8,0,2,7:36 PM,3:16,SUB: Milton-Jones FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,164,3,10,2,7:36 PM,3:16,Beard Free Throw 1 of 1 (5 PTS),,,36 - 35,-1,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,166,5,4,2,7:37 PM,3:04,,,Ohlde Traveling Turnover (P1.T8),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020700119,169,9,1,2,7:38 PM,2:51,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,172,1,1,2,7:40 PM,2:45,Beard 17' Jump Shot (7 PTS) (Currie 2 AST),,,36 - 37,1,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,174,8,0,2,7:40 PM,2:30,SUB: Koehn FOR Teasley,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,176,8,0,2,7:41 PM,2:30,,,SUB: Harding FOR Jacobs,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,177,10,0,2,7:41 PM,2:30,Jump Ball Sanford vs. Ohlde: Tip to Augustus,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0
+1020700119,179,2,1,2,7:41 PM,2:20,,,MISS Ohlde 12' Jump Shot,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,180,4,0,2,7:41 PM,2:18,Koehn REBOUND (Off:0 Def:1),,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,181,2,1,2,7:41 PM,2:06,MISS Koehn  3PT Jump Shot,,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,182,4,0,2,7:41 PM,2:04,,,Harding REBOUND (Off:0 Def:2),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,184,1,46,2,7:41 PM,1:56,,,Augustus 12' Running Jump Shot (8 PTS) (Harding 5 AST),38 - 37,-1,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,185,2,1,2,7:42 PM,1:38,MISS Milton-Jones 16' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,186,4,0,2,7:42 PM,1:36,,,Harding REBOUND (Off:0 Def:3),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,188,1,3,2,7:42 PM,1:16,,,Mann 7' Hook Shot (11 PTS),40 - 37,-3,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,189,2,1,2,7:42 PM,1:01,MISS Currie 4' Jump Shot,,Augustus BLOCK (1 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0
+1020700119,190,4,0,2,7:42 PM,0:59,,,Ohlde REBOUND (Off:0 Def:1),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,191,2,1,2,7:43 PM,0:51,,,MISS Augustus 14' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,192,4,0,2,7:43 PM,0:49,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,194,2,1,2,7:43 PM,0:32,MISS Milton-Jones 20' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,195,4,0,2,7:43 PM,0:32,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,196,6,1,2,7:43 PM,0:32,,,Ohlde P.FOUL (P2.T4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,198,6,4,2,7:44 PM,0:28,Sanford OFF.Foul (P2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,199,5,5,2,7:44 PM,0:28,Sanford Foul Turnover (P2.T5),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,200,6,11,2,7:44 PM,0:28,Sanford T.FOUL (P2.T3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,201,3,16,2,7:44 PM,0:28,,,Augustus Free Throw Technical (9 PTS),41 - 37,-4,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,202,8,0,2,7:44 PM,0:28,SUB: Lovelace FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100470,Stacey Lovelace,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,205,2,1,2,7:45 PM,0:05,,,MISS Harding 8' Jump Shot,,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,206,4,0,2,7:45 PM,0:04,,,Harding REBOUND (Off:1 Def:3),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,207,2,5,2,7:45 PM,0:02,,,MISS Harding 2' Layup,,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,208,4,0,2,7:45 PM,0:02,,,Ohlde REBOUND (Off:1 Def:1),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,209,1,5,2,7:45 PM,0:02,,,Ohlde 2' Layup (2 PTS),43 - 37,-6,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,211,13,0,2,7:45 PM,0:00,,End of 2nd Period (7:45 PM EST),,43 - 37,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,213,12,0,3,8:00 PM,10:00,,Start of 3rd Period (8:00 PM EST),,43 - 37,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,214,1,1,3,8:01 PM,9:44,,,Harding 15' Jump Shot (7 PTS),45 - 37,-8,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,215,1,5,3,8:01 PM,9:29,Sanford 2' Layup (8 PTS) (Milton-Jones 2 AST),,,45 - 39,-6,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,216,6,4,3,8:01 PM,9:07,,,Ohlde OFF.Foul (P3),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,217,5,5,3,8:01 PM,9:07,,,Ohlde Foul Turnover (P2.T9),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020700119,218,6,2,3,8:02 PM,8:48,,,Harding S.FOUL (P2.T1),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,219,3,11,3,8:02 PM,8:48,Teasley Free Throw 1 of 2 (1 PTS),,,45 - 40,-5,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,220,3,12,3,8:02 PM,8:48,Teasley Free Throw 2 of 2 (2 PTS),,,45 - 41,-4,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,221,2,1,3,8:03 PM,8:36,,,MISS Augustus  3PT Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,222,4,0,3,8:03 PM,8:35,Currie REBOUND (Off:0 Def:1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,223,2,1,3,8:03 PM,8:27,MISS Teasley  3PT Jump Shot,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,224,4,0,3,8:03 PM,8:25,,,Harding REBOUND (Off:1 Def:4),,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,225,6,2,3,8:03 PM,8:20,Beard S.FOUL (P3.T1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,227,9,2,3,8:03 PM,8:20,,,Lynx Timeout: Short (Reg.1 Short 1),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,229,8,0,3,8:06 PM,8:20,,,SUB: Jacobs FOR Harding,,,5,201046,Lindsey Harding,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,230,3,11,3,8:07 PM,8:20,,,MISS Stansbury Free Throw 1 of 2,,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,231,4,1,3,8:07 PM,8:20,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,232,3,12,3,8:07 PM,8:20,,,Stansbury Free Throw 2 of 2 (1 PTS),46 - 41,-5,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,234,6,2,3,8:08 PM,8:08,,,Abrosimova S.FOUL (P2.T2),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,235,3,11,3,8:08 PM,8:08,Currie Free Throw 1 of 2 (6 PTS),,,46 - 42,-4,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,236,3,12,3,8:08 PM,8:08,Currie Free Throw 2 of 2 (7 PTS),,,46 - 43,-3,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,238,5,1,3,8:08 PM,8:01,Beard STEAL (2 STL),,Augustus Bad Pass Turnover (P2.T10),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,239,6,9,3,8:09 PM,8:01,,,Ohlde C.P.FOUL (P4.T3),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,240,3,25,3,8:09 PM,8:01,Sanford Free Throw Clear Path 1 of 2 (9 PTS),,,46 - 44,-2,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,241,3,26,3,8:09 PM,8:01,Sanford Free Throw Clear Path 2 of 2 (10 PTS),,,46 - 45,-1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,242,8,0,3,8:09 PM,8:01,,,SUB: Ress FOR Ohlde,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,243,8,0,3,8:09 PM,8:01,,,SUB: Mann FOR Stansbury,,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,245,1,5,3,8:10 PM,7:51,Sanford 1' Layup (12 PTS) (Currie 3 AST),,,46 - 47,1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,246,1,1,3,8:10 PM,7:29,,,Abrosimova 9' Jump Shot (13 PTS),48 - 47,-1,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,247,6,2,3,8:10 PM,7:22,,,Augustus S.FOUL (P2.T4),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,248,3,11,3,8:11 PM,7:22,Beard Free Throw 1 of 2 (8 PTS),,,48 - 48,TIE,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,249,3,12,3,8:11 PM,7:22,Beard Free Throw 2 of 2 (9 PTS),,,48 - 49,1,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,250,6,2,3,8:11 PM,7:07,Teasley S.FOUL (P3.T2),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,251,3,11,3,8:11 PM,7:07,,,Augustus Free Throw 1 of 2 (10 PTS),49 - 49,TIE,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,252,3,12,3,8:12 PM,7:07,,,Augustus Free Throw 2 of 2 (11 PTS),50 - 49,-1,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,254,1,5,3,8:12 PM,6:58,Sanford 1' Layup (14 PTS) (Beard 2 AST),,,50 - 51,1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,255,5,1,3,8:12 PM,6:50,Milton-Jones STEAL (3 STL),,Jacobs Bad Pass Turnover (P2.T11),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,256,6,1,3,8:13 PM,6:49,,,Jacobs P.FOUL (P1.PN),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,257,6,11,3,8:13 PM,6:49,Milton-Jones T.FOUL (P0.T2),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,258,3,16,3,8:13 PM,6:49,,,Augustus Free Throw Technical (12 PTS),51 - 51,TIE,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,259,3,11,3,8:13 PM,6:49,Milton-Jones Free Throw 1 of 2 (9 PTS),,,51 - 52,1,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,260,3,12,3,8:14 PM,6:49,Milton-Jones Free Throw 2 of 2 (10 PTS),,,51 - 53,2,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,262,2,1,3,8:14 PM,6:35,,,MISS Augustus 17' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,263,4,0,3,8:14 PM,6:34,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,264,5,1,3,8:15 PM,6:15,Currie Bad Pass Turnover (P1.T6),,Jacobs STEAL (1 STL),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,265,2,5,3,8:15 PM,6:11,,,MISS Jacobs  Layup,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,266,4,0,3,8:15 PM,6:10,Sanford REBOUND (Off:2 Def:4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,267,5,2,3,8:15 PM,6:06,Sanford Lost Ball Turnover (P3.T7),,Abrosimova STEAL (1 STL),,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,268,2,1,3,8:16 PM,6:01,,,MISS Abrosimova 14' Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,269,4,0,3,8:16 PM,5:59,Beard REBOUND (Off:1 Def:2),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,271,2,1,3,8:16 PM,5:51,MISS Milton-Jones  3PT Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,272,4,0,3,8:16 PM,5:49,,,Augustus REBOUND (Off:0 Def:3),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,273,2,1,3,8:16 PM,5:36,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,274,4,0,3,8:16 PM,5:33,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,275,2,1,3,8:16 PM,5:18,MISS Milton-Jones 8' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,276,4,0,3,8:16 PM,5:17,Sanford REBOUND (Off:3 Def:4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,277,1,5,3,8:17 PM,5:11,Sanford 2' Layup (16 PTS),,,51 - 55,4,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,278,2,1,3,8:17 PM,4:55,,,MISS Jacobs  3PT Jump Shot,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,279,4,0,3,8:17 PM,4:53,Teasley REBOUND (Off:1 Def:1),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,280,2,1,3,8:17 PM,4:48,MISS Beard 3' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,281,4,0,3,8:17 PM,4:47,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,283,9,4,3,8:17 PM,4:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,284,2,1,3,8:20 PM,4:42,MISS Beard 17' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,285,4,0,3,8:20 PM,4:40,,,Ress REBOUND (Off:1 Def:2),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,286,5,1,3,8:20 PM,4:23,Milton-Jones STEAL (4 STL),,Jacobs Bad Pass Turnover (P3.T12),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,287,2,5,3,8:20 PM,4:19,MISS Teasley 1' Layup,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,289,4,0,3,8:20 PM,4:18,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,290,2,1,3,8:20 PM,4:14,MISS Beard 16' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,291,4,0,3,8:20 PM,4:12,,,Ress REBOUND (Off:1 Def:3),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,292,2,1,3,8:21 PM,3:51,,,MISS Abrosimova 11' Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,293,4,0,3,8:21 PM,3:50,Beard REBOUND (Off:1 Def:3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,294,2,1,3,8:21 PM,3:34,MISS Milton-Jones 13' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,295,4,0,3,8:21 PM,3:34,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,296,6,1,3,8:21 PM,3:34,,,Ress P.FOUL (P4.PN),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,297,3,11,3,8:21 PM,3:34,Sanford Free Throw 1 of 2 (17 PTS),,,51 - 56,5,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,298,3,12,3,8:22 PM,3:34,Sanford Free Throw 2 of 2 (18 PTS),,,51 - 57,6,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,299,1,46,3,8:22 PM,3:08,,,Jacobs 13' Running Jump Shot (3 PTS),53 - 57,4,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,301,6,2,3,8:23 PM,2:50,,,Mann S.FOUL (P1.PN),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,302,8,0,3,8:23 PM,2:50,SUB: Mosby FOR Milton-Jones,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,303,8,0,3,8:23 PM,2:50,,,SUB: Stansbury FOR Ress,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,304,3,11,3,8:23 PM,2:50,Sanford Free Throw 1 of 2 (19 PTS),,,53 - 58,5,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,305,3,12,3,8:23 PM,2:50,Sanford Free Throw 2 of 2 (20 PTS),,,53 - 59,6,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,306,2,1,3,8:24 PM,2:37,,,MISS Augustus 8' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,307,4,0,3,8:24 PM,2:36,,,Stansbury REBOUND (Off:1 Def:0),,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,308,2,5,3,8:24 PM,2:32,,,MISS Stansbury 1' Layup,,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,309,4,0,3,8:24 PM,2:31,Mosby REBOUND (Off:0 Def:1),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,310,2,1,3,8:24 PM,2:19,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,311,4,0,3,8:24 PM,2:17,Currie REBOUND (Off:1 Def:1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,312,2,1,3,8:24 PM,2:04,MISS Mosby 7' Jump Shot,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,313,4,0,3,8:24 PM,2:03,Sanford REBOUND (Off:4 Def:4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,314,1,5,3,8:24 PM,2:03,Sanford 2' Layup (22 PTS),,,53 - 61,8,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,315,6,2,3,8:24 PM,2:03,,,Stansbury S.FOUL (P3.PN),,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,316,8,0,3,8:25 PM,2:03,SUB: Blue FOR Teasley,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,317,8,0,3,8:25 PM,2:03,SUB: James FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,318,3,10,3,8:25 PM,2:03,Sanford Free Throw 1 of 1 (23 PTS),,,53 - 62,9,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,320,2,1,3,8:25 PM,1:49,,,MISS Augustus 4' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,321,4,0,3,8:25 PM,1:47,,,Stansbury REBOUND (Off:2 Def:0),,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,322,2,5,3,8:25 PM,1:46,,,MISS Stansbury 2' Layup,,,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,323,4,0,3,8:25 PM,1:44,,,Augustus REBOUND (Off:1 Def:3),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,324,2,5,3,8:25 PM,1:43,,,MISS Augustus 2' Layup,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,325,4,0,3,8:25 PM,1:42,James REBOUND (Off:0 Def:1),,,,,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,327,1,1,3,8:26 PM,1:24,James  3PT Jump Shot (6 PTS) (Beard 3 AST),,,53 - 65,12,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,328,9,1,3,8:26 PM,1:16,,,Lynx Timeout: Regular (Reg.2 Short 1),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,330,8,0,3,8:27 PM,1:16,SUB: Leuchanka FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,200715,Yelena Leuchanka,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,331,1,1,3,8:28 PM,1:04,,,Abrosimova 14' Jump Shot (15 PTS),55 - 65,10,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,332,6,2,3,8:28 PM,0:51,,,Jacobs S.FOUL (P2.PN),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,333,8,0,3,8:28 PM,0:51,,,SUB: Quinn FOR Jacobs,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,334,3,11,3,8:28 PM,0:51,Blue Free Throw 1 of 2 (7 PTS),,,55 - 66,11,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,335,3,12,3,8:28 PM,0:51,Blue Free Throw 2 of 2 (8 PTS),,,55 - 67,12,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,336,1,5,3,8:29 PM,0:39,,,Stansbury  Layup (3 PTS) (Quinn 1 AST),57 - 67,10,5,200699,Tiffany Stansbury,1611661324.0,Minnesota,Lynx,MIN,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,337,5,40,3,8:29 PM,0:33,James Out of Bounds Lost Ball Turnover (P1.T8),,,,,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,339,5,2,3,8:30 PM,0:18,Blue STEAL (1 STL),,Abrosimova Lost Ball Turnover (P2.T13),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,340,6,1,3,8:30 PM,0:13,,,Abrosimova P.FOUL (P3.PN),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,341,3,11,3,8:30 PM,0:13,MISS Blue Free Throw 1 of 2,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,342,4,1,3,8:30 PM,0:13,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,343,8,0,3,8:30 PM,0:13,SUB: Koehn FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,344,3,12,3,8:30 PM,0:13,MISS Blue Free Throw 2 of 2,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,345,4,0,3,8:30 PM,0:11,Mosby REBOUND (Off:1 Def:1),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,346,1,42,3,8:31 PM,0:01,Leuchanka  Driving Layup (2 PTS),,,57 - 69,12,4,200715,Yelena Leuchanka,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,347,13,0,3,8:31 PM,0:00,,End of 3rd Period (8:31 PM EST),,57 - 69,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,349,12,0,4,8:33 PM,10:00,,Start of 4th Period (8:33 PM EST),,57 - 69,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,350,1,1,4,8:34 PM,9:42,Koehn  3PT Jump Shot (3 PTS),,,57 - 72,15,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,351,6,2,4,8:34 PM,9:26,Leuchanka S.FOUL (P1.T1),,,,,4,200715,Yelena Leuchanka,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,352,3,11,4,8:34 PM,9:26,,,Ohlde Free Throw 1 of 2 (3 PTS),58 - 72,14,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,353,3,12,4,8:34 PM,9:26,,,Ohlde Free Throw 2 of 2 (4 PTS),59 - 72,13,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,354,5,4,4,8:35 PM,9:17,Koehn Traveling Turnover (P1.T9),,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,355,6,1,4,8:35 PM,9:11,Leuchanka P.FOUL (P2.T2),,,,,4,200715,Yelena Leuchanka,1611661322.0,Washington,Mystics,WAS,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,356,8,0,4,8:35 PM,9:11,,,SUB: Raymond FOR Mann,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,357,8,0,4,8:35 PM,9:11,SUB: Sanford FOR Leuchanka,,,,,4,200715,Yelena Leuchanka,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,358,8,0,4,8:35 PM,9:11,SUB: Milton-Jones FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,360,2,1,4,8:36 PM,9:00,,,MISS Ohlde 6' Jump Shot,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,361,4,0,4,8:36 PM,8:58,,,Raymond REBOUND (Off:1 Def:0),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,362,1,5,4,8:36 PM,8:57,,,Raymond 2' Layup (2 PTS),61 - 72,11,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,363,2,1,4,8:36 PM,8:46,MISS James  3PT Jump Shot,,,,,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,364,4,0,4,8:36 PM,8:44,,,Augustus REBOUND (Off:1 Def:4),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,365,1,1,4,8:36 PM,8:30,,,Ohlde 15' Jump Shot (6 PTS) (Abrosimova 2 AST),63 - 72,9,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,366,9,2,4,8:36 PM,8:22,MYSTICS Timeout: Short (Full 1 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,368,8,0,4,8:37 PM,8:22,SUB: Beard FOR Blue,,,,,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,369,8,0,4,8:37 PM,8:22,SUB: Currie FOR James,,,,,4,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,370,8,0,4,8:37 PM,8:22,SUB: Teasley FOR Koehn,,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,371,8,0,4,8:37 PM,8:22,,,SUB: Murphy FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,372,6,2,4,8:37 PM,8:15,,,Ohlde S.FOUL (P5.T1),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,373,3,11,4,8:37 PM,8:15,MISS Sanford Free Throw 1 of 2,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,374,4,1,4,8:37 PM,8:15,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,375,8,0,4,8:38 PM,8:15,,,SUB: Ress FOR Ohlde,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,376,3,12,4,8:38 PM,8:15,MISS Sanford Free Throw 2 of 2,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,377,4,0,4,8:38 PM,8:14,,,Murphy REBOUND (Off:0 Def:1),,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,378,5,1,4,8:38 PM,8:08,Sanford STEAL (2 STL),,Quinn Bad Pass Turnover (P1.T14),,,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,379,5,1,4,8:38 PM,8:00,Beard Bad Pass Turnover (P2.T10),,Augustus STEAL (1 STL),,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,380,1,42,4,8:38 PM,7:56,,,Augustus 1' Driving Layup (14 PTS),65 - 72,7,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,381,6,2,4,8:39 PM,7:47,,,Murphy S.FOUL (P1.T2),,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,382,3,11,4,8:39 PM,7:47,MISS Currie Free Throw 1 of 2,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,383,4,1,4,8:39 PM,7:47,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,384,3,12,4,8:39 PM,7:47,Currie Free Throw 2 of 2 (8 PTS),,,65 - 73,8,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,385,6,4,4,8:40 PM,7:31,,,Ress OFF.Foul (P5),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,386,5,5,4,8:40 PM,7:31,,,Ress Foul Turnover (P2.T15),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020700119,387,2,1,4,8:40 PM,7:18,MISS Milton-Jones 20' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,388,4,0,4,8:40 PM,7:16,,,Murphy REBOUND (Off:0 Def:2),,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,389,5,2,4,8:40 PM,7:11,Milton-Jones STEAL (5 STL),,Murphy Lost Ball Turnover (P1.T16),,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,390,1,5,4,8:40 PM,7:08,Teasley 1' Layup (4 PTS),,,65 - 75,10,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,391,8,0,4,8:40 PM,7:05,,,SUB: Jacobs FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,393,1,1,4,8:41 PM,6:51,,,Jacobs  3PT Jump Shot (6 PTS) (Ress 1 AST),68 - 75,7,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,394,5,1,4,8:41 PM,6:46,Teasley Bad Pass Turnover (P1.T11),,Murphy STEAL (1 STL),,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,395,1,1,4,8:41 PM,6:39,,,Quinn 16' Jump Shot (2 PTS) (Murphy 1 AST),70 - 75,5,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,397,10,0,4,8:42 PM,6:24,Jump Ball Currie vs. Jacobs: Tip to,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,2,1611661322,,,,,,0
+1020700119,398,7,4,4,8:42 PM,6:24,,,Ress Violation:Jump Ball,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020700119,399,6,2,4,8:43 PM,6:15,,,Raymond S.FOUL (P1.T3),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,400,3,11,4,8:43 PM,6:15,Currie Free Throw 1 of 2 (9 PTS),,,70 - 76,6,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,401,3,12,4,8:43 PM,6:15,Currie Free Throw 2 of 2 (10 PTS),,,70 - 77,7,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,403,2,5,4,8:43 PM,6:05,Sanford BLOCK (2 BLK),,MISS Murphy 3' Layup,,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0
+1020700119,404,4,0,4,8:43 PM,6:03,Currie REBOUND (Off:1 Def:2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,405,2,1,4,8:44 PM,5:56,MISS Beard 14' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,406,4,0,4,8:44 PM,5:55,,,Murphy REBOUND (Off:0 Def:3),,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,407,2,1,4,8:44 PM,5:42,,,MISS Quinn 10' Jump Shot,,,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,408,4,0,4,8:44 PM,5:40,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,409,9,1,4,8:44 PM,5:40,MYSTICS Timeout: Regular (Full 2 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,411,1,1,4,8:47 PM,5:32,,,Raymond 3' Jump Shot (4 PTS) (Jacobs 1 AST),72 - 77,5,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,413,6,1,4,8:47 PM,5:15,,,Ress P.FOUL (P6.T4),,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,414,8,0,4,8:47 PM,5:15,,,SUB: Ohlde FOR Ress,,,5,201085,Kathrin Ress,1611661324.0,Minnesota,Lynx,MIN,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,417,6,4,4,8:48 PM,5:08,Milton-Jones OFF.Foul (P1),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,418,5,5,4,8:48 PM,5:08,Milton-Jones Foul Turnover (P2.T12),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700119,420,2,1,4,8:48 PM,4:52,,,MISS Murphy  3PT Jump Shot,,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,421,4,0,4,8:48 PM,4:50,Milton-Jones REBOUND (Off:0 Def:3),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,422,2,1,4,8:49 PM,4:28,MISS Currie 8' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,423,4,0,4,8:49 PM,4:27,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,424,5,11,4,8:49 PM,4:26,MYSTICS Turnover: Shot Clock (T#13),,,,,2,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1020700119,425,8,0,4,8:49 PM,4:26,,,SUB: Augustus FOR Quinn,,,5,201049,Noelle Quinn,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,426,8,0,4,8:49 PM,4:26,,,SUB: Abrosimova FOR Raymond,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,427,8,0,4,8:49 PM,4:26,,,SUB: Mann FOR Murphy,,,5,201062,Shay Murphy,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,428,2,1,4,8:49 PM,4:13,Beard BLOCK (1 BLK),,MISS Jacobs 7' Jump Shot,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020700119,429,4,0,4,8:49 PM,4:11,,,Jacobs REBOUND (Off:1 Def:0),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,430,2,1,4,8:50 PM,4:05,,,MISS Augustus 17' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,431,4,0,4,8:50 PM,4:03,Milton-Jones REBOUND (Off:0 Def:4),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,433,2,1,4,8:50 PM,3:51,MISS Milton-Jones 18' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,434,4,0,4,8:50 PM,3:49,,,Jacobs REBOUND (Off:1 Def:1),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,435,9,1,4,8:50 PM,3:43,,,Lynx Timeout: Regular (Reg.3 Short 1),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,437,6,1,4,8:53 PM,3:39,Currie P.FOUL (P2.T3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,438,2,1,4,8:53 PM,3:32,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,439,4,0,4,8:53 PM,3:30,,,Jacobs REBOUND (Off:2 Def:1),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,440,2,1,4,8:53 PM,3:17,,,MISS Augustus 15' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,441,4,0,4,8:53 PM,3:15,Milton-Jones REBOUND (Off:0 Def:5),,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,442,2,1,4,8:54 PM,2:56,MISS Beard 5' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,443,4,0,4,8:54 PM,2:55,,,Ohlde REBOUND (Off:1 Def:2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,444,6,3,4,8:54 PM,2:55,Sanford L.B.FOUL (P3.T4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,446,1,1,4,8:54 PM,2:46,,,Abrosimova  3PT Jump Shot (18 PTS) (Jacobs 2 AST),75 - 77,2,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,448,1,1,4,8:55 PM,2:18,Milton-Jones 18' Jump Shot (12 PTS) (Beard 4 AST),,,75 - 79,4,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,449,1,47,4,8:55 PM,1:59,,,Abrosimova 14' Turnaround Jump Shot (20 PTS),77 - 79,2,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,450,2,1,4,8:55 PM,1:33,MISS Teasley  3PT Jump Shot,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,451,4,0,4,8:55 PM,1:31,,,Augustus REBOUND (Off:1 Def:5),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,452,2,1,4,8:56 PM,1:26,Milton-Jones BLOCK (1 BLK),,MISS Mann 17' Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0
+1020700119,453,4,0,4,8:56 PM,1:26,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,454,5,41,4,8:56 PM,1:24,,,Abrosimova Poss Lost Ball Turnover (P3.T17),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020700119,456,2,1,4,8:56 PM,1:06,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,457,4,0,4,8:56 PM,1:04,,,Abrosimova REBOUND (Off:1 Def:4),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,458,1,46,4,8:57 PM,0:45,,,Augustus 8' Running Jump Shot (16 PTS),79 - 79,TIE,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,459,2,1,4,8:57 PM,0:23,MISS Beard 6' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,460,4,0,4,8:57 PM,0:21,Sanford REBOUND (Off:5 Def:4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,461,2,5,4,8:57 PM,0:20,MISS Sanford 1' Layup,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,462,4,0,4,8:57 PM,0:19,,,Mann REBOUND (Off:0 Def:1),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,464,9,2,4,8:57 PM,0:18,,,Lynx Timeout: Short (Reg.3 Short 2),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,465,8,0,4,9:00 PM,0:17,SUB: Blue FOR Teasley,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,4,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,466,2,1,4,9:00 PM,0:01,,,MISS Augustus  3PT Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,467,4,0,4,9:00 PM,0:00,Currie REBOUND (Off:1 Def:3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,468,13,0,4,9:00 PM,0:00,,End of 4th Period (9:00 PM EST),,79 - 79,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,470,12,0,5,9:03 PM,5:00,,Start of 1st OT (9:03 PM EST),,79 - 79,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,471,10,0,5,9:03 PM,5:00,Jump Ball Sanford vs. Ohlde: Tip to Augustus,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0
+1020700119,472,2,1,5,9:03 PM,4:44,,,MISS Ohlde 8' Jump Shot,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,473,4,0,5,9:03 PM,4:42,Currie REBOUND (Off:1 Def:4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,474,2,1,5,9:03 PM,4:31,MISS Milton-Jones 18' Jump Shot,,,,,4,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,475,4,0,5,9:03 PM,4:29,,,Abrosimova REBOUND (Off:1 Def:5),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,476,5,41,5,9:04 PM,4:25,Teasley STEAL (2 STL),,Ohlde Poss Lost Ball Turnover (P3.T18),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,477,6,2,5,9:04 PM,4:21,,,Abrosimova S.FOUL (P4.T1),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,478,3,11,5,9:04 PM,4:21,Currie Free Throw 1 of 2 (11 PTS),,,79 - 80,1,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,479,3,12,5,9:04 PM,4:21,Currie Free Throw 2 of 2 (12 PTS),,,79 - 81,2,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,481,2,5,5,9:05 PM,4:09,,,MISS Augustus 3' Layup,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,482,4,0,5,9:05 PM,4:07,,,Ohlde REBOUND (Off:2 Def:2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,483,2,5,5,9:05 PM,4:04,,,MISS Ohlde 2' Layup,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,484,4,0,5,9:05 PM,4:03,Teasley REBOUND (Off:1 Def:2),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,485,1,42,5,9:05 PM,4:00,Beard 1' Driving Layup (11 PTS) (Currie 4 AST),,,79 - 83,4,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700119,486,6,2,5,9:05 PM,3:44,Sanford S.FOUL (P4.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,487,3,11,5,9:05 PM,3:44,,,Ohlde Free Throw 1 of 2 (7 PTS),80 - 83,3,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,488,3,12,5,9:05 PM,3:44,,,Ohlde Free Throw 2 of 2 (8 PTS),81 - 83,2,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,490,2,1,5,9:06 PM,3:23,MISS Beard 5' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,491,4,0,5,9:06 PM,3:21,Beard REBOUND (Off:2 Def:3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,492,2,5,5,9:06 PM,3:20,MISS Beard 3' Layup,,Ohlde BLOCK (1 BLK),,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0
+1020700119,493,4,0,5,9:06 PM,3:18,Sanford REBOUND (Off:6 Def:4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,494,1,5,5,9:06 PM,3:17,Sanford 1' Layup (25 PTS),,,81 - 85,4,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,495,2,1,5,9:06 PM,3:00,,,MISS Augustus 14' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,496,4,0,5,9:06 PM,2:58,Teasley REBOUND (Off:1 Def:3),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,497,1,42,5,9:07 PM,2:37,Beard 1' Driving Layup (13 PTS),,,81 - 87,6,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,498,9,2,5,9:07 PM,2:27,,,Lynx Timeout: Short (Reg.3 Short 3),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700119,500,2,1,5,9:08 PM,2:18,Currie BLOCK (1 BLK),,MISS Abrosimova 12' Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0
+1020700119,501,4,0,5,9:08 PM,2:16,,,Abrosimova REBOUND (Off:2 Def:5),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,502,1,5,5,9:08 PM,2:12,,,Ohlde 1' Layup (10 PTS) (Abrosimova 3 AST),83 - 87,4,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020700119,503,2,1,5,9:09 PM,1:53,MISS Beard 4' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,504,4,0,5,9:09 PM,1:51,,,Augustus REBOUND (Off:1 Def:6),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,505,2,1,5,9:09 PM,1:46,Teasley BLOCK (1 BLK),,MISS Jacobs 6' Jump Shot,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0
+1020700119,506,4,0,5,9:09 PM,1:44,Teasley REBOUND (Off:1 Def:4),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,508,2,5,5,9:09 PM,1:25,MISS Sanford 2' Layup,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,509,4,0,5,9:09 PM,1:23,,,Mann REBOUND (Off:0 Def:2),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,510,6,1,5,9:10 PM,1:08,Teasley P.FOUL (P4.T2),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020700119,511,2,1,5,9:10 PM,0:59,,,MISS Augustus 4' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,512,4,0,5,9:10 PM,0:58,Teasley REBOUND (Off:1 Def:5),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,513,2,1,5,9:11 PM,0:36,MISS Teasley 16' Jump Shot,,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,514,4,0,5,9:11 PM,0:35,,,Mann REBOUND (Off:0 Def:3),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,515,2,1,5,9:11 PM,0:25,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,516,4,0,5,9:11 PM,0:24,Beard REBOUND (Off:2 Def:4),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,517,6,1,5,9:11 PM,0:23,,,Mann P.FOUL (P2.T2),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,518,6,1,5,9:11 PM,0:21,,,Jacobs P.FOUL (P3.PN),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,519,3,11,5,9:11 PM,0:21,Teasley Free Throw 1 of 2 (5 PTS),,,83 - 88,5,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,520,3,12,5,9:12 PM,0:21,Teasley Free Throw 2 of 2 (6 PTS),,,83 - 89,6,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,521,2,1,5,9:12 PM,0:10,,,MISS Mann 24' 3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020700119,522,4,0,5,9:12 PM,0:08,Teasley REBOUND (Off:1 Def:6),,,,,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,523,6,1,5,9:12 PM,0:08,,,Abrosimova P.FOUL (P5.PN),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700119,524,3,11,5,9:12 PM,0:08,Teasley Free Throw 1 of 2 (7 PTS),,,83 - 90,7,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,525,3,12,5,9:12 PM,0:08,Teasley Free Throw 2 of 2 (8 PTS),,,83 - 91,8,4,100724,Nikki Teasley,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,526,2,1,5,9:13 PM,0:04,Beard BLOCK (2 BLK),,MISS Jacobs  3PT Jump Shot,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020700119,527,4,0,5,9:13 PM,0:01,Currie REBOUND (Off:1 Def:5),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700119,528,13,0,5,9:13 PM,0:00,,End of 1st OT (9:13 PM EST),,83 - 91,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,396 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100256,0,12,0,1,2:17 PM,20:00,,Start of 1st Half (2:17 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,1,10,0,1,2:17 PM,20:00,Jump Ball Edwards vs. Griffith: Tip to Marciniak,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0
+1020100256,2,2,5,1,2:17 PM,19:55,MISS Marciniak  Layup,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,3,4,0,1,2:17 PM,19:55,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,4,5,3,1,2:18 PM,19:50,,,Campbell Out Of Bounds Turnover (P1.T1),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,5,2,5,1,2:18 PM,19:38,MISS Redd  Layup,,Smith BLOCK (1 BLK),,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,6,4,0,1,2:18 PM,19:34,,,Holland-Corn REBOUND (Off:0 Def:1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,7,2,5,1,2:18 PM,19:30,,,MISS Holland-Corn  Layup,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,8,4,0,1,2:18 PM,19:29,,,Griffith REBOUND (Off:1 Def:0),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,9,5,2,1,2:18 PM,19:29,,,Griffith Lost Ball Turnover (P1.T2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,11,2,1,1,2:19 PM,19:14,MISS Edwards 10' Jump Shot,,Smith BLOCK (2 BLK),,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,12,4,0,1,2:19 PM,19:11,,,Penicheiro REBOUND (Off:0 Def:1),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,13,2,1,1,2:19 PM,19:07,,,MISS Penicheiro 9' Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,14,4,0,1,2:19 PM,19:04,Marciniak REBOUND (Off:0 Def:1),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,15,1,1,1,2:19 PM,18:59,Redd 6' Jump Shot (2 PTS) (Marciniak 1 AST),,,0 - 2,2,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,16,2,1,1,2:19 PM,18:43,,,MISS Campbell  3PT Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,17,4,0,1,2:19 PM,18:40,,,Holland-Corn REBOUND (Off:1 Def:1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,18,1,1,1,2:19 PM,18:35,,,Holland-Corn  3PT Jump Shot (3 PTS),3 - 2,-1,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,19,1,1,1,2:20 PM,18:09,Marciniak 17' Jump Shot (2 PTS) (Barnes 1 AST),,,3 - 4,1,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,20,1,1,1,2:20 PM,17:57,,,Holland-Corn  3PT Jump Shot (6 PTS) (Penicheiro 1 AST),6 - 4,-2,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,21,1,47,1,2:20 PM,17:34,Barnes 11' Turnaround Jump Shot (2 PTS),,,6 - 6,TIE,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,22,1,5,1,2:21 PM,17:18,,,Griffith  Layup (2 PTS) (Campbell 1 AST),8 - 6,-2,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,23,2,46,1,2:21 PM,16:53,MISS Marciniak 10' Running Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,24,4,0,1,2:21 PM,16:51,Edwards REBOUND (Off:1 Def:0),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,25,5,2,1,2:22 PM,16:30,Barnes Lost Ball Turnover (P1.T1),,Smith STEAL (1 STL),,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,26,2,1,1,2:22 PM,16:24,,,MISS Smith 10' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,27,4,0,1,2:22 PM,16:23,,,Griffith REBOUND (Off:2 Def:0),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,28,6,2,1,2:22 PM,16:23,Edwards S.FOUL (P1.T1),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,29,3,11,1,2:22 PM,16:23,,,MISS Griffith Free Throw 1 of 2,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,30,4,1,1,2:22 PM,16:23,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,31,3,12,1,2:22 PM,16:23,,,Griffith Free Throw 2 of 2 (3 PTS),9 - 6,-3,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,32,2,46,1,2:23 PM,16:06,MISS Redd 4' Running Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,33,4,0,1,2:23 PM,16:03,Redd REBOUND (Off:1 Def:0),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,34,2,5,1,2:23 PM,16:03,MISS Redd  Layup,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,35,4,0,1,2:23 PM,16:03,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,38,2,45,1,2:23 PM,15:53,MISS Edwards 6' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,36,4,0,1,2:23 PM,15:53,,,Campbell REBOUND (Off:0 Def:1),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,37,5,1,1,2:23 PM,15:48,,,Penicheiro Bad Pass Turnover (P1.T3),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,39,9,4,1,2:24 PM,15:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,41,2,1,1,2:26 PM,15:29,MISS Barnes 6' Jump Shot,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,42,4,0,1,2:26 PM,15:26,,,Griffith REBOUND (Off:2 Def:1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,43,1,46,1,2:26 PM,15:20,,,Holland-Corn 6' Running Jump Shot (8 PTS),11 - 6,-5,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,44,2,1,1,2:27 PM,15:10,MISS Redd  3PT Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,45,4,0,1,2:27 PM,15:09,Edwards REBOUND (Off:2 Def:0),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,46,2,1,1,2:27 PM,15:04,MISS Smith 13' Jump Shot,,,,,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,47,4,0,1,2:27 PM,15:02,Edwards REBOUND (Off:3 Def:0),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,48,2,1,1,2:27 PM,14:58,MISS Marciniak 16' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,49,4,0,1,2:27 PM,14:57,Redd REBOUND (Off:2 Def:0),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,50,2,1,1,2:27 PM,14:38,MISS Barnes 5' Jump Shot,,Griffith BLOCK (1 BLK),,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,51,4,0,1,2:27 PM,14:36,,,Campbell REBOUND (Off:0 Def:2),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,52,1,1,1,2:27 PM,14:28,,,Griffith 5' Jump Shot (5 PTS) (Campbell 2 AST),13 - 6,-7,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,53,5,2,1,2:28 PM,14:02,Marciniak Lost Ball Turnover (P1.T2),,Penicheiro STEAL (1 STL),,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,54,6,1,1,2:28 PM,14:00,Smith P.FOUL (P1.T2),,,,,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,55,5,1,1,2:28 PM,13:46,Smith STEAL (1 STL),,Holland-Corn Bad Pass Turnover (P1.T4),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,56,5,2,1,2:29 PM,13:35,Marciniak Lost Ball Turnover (P2.T3),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,57,2,1,1,2:29 PM,13:17,,,MISS Holland-Corn 8' Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,58,4,0,1,2:29 PM,13:15,,,Holland-Corn REBOUND (Off:2 Def:1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,59,1,1,1,2:29 PM,13:09,,,Smith 15' Jump Shot (2 PTS) (Holland-Corn 1 AST),15 - 6,-9,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,60,1,1,1,2:29 PM,12:53,Barnes 6' Jump Shot (4 PTS) (Smith 1 AST),,,15 - 8,-7,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,61,6,2,1,2:29 PM,12:53,,,Griffith S.FOUL (P1.T1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,62,8,0,1,2:30 PM,12:53,SUB: Henning FOR Redd,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,63,8,0,1,2:30 PM,12:53,SUB: Lovelace FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,64,8,0,1,2:30 PM,12:53,SUB: Steding FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,65,8,0,1,2:30 PM,12:53,SUB: Randall FOR Smith,,,,,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,66,3,10,1,2:30 PM,12:53,Barnes Free Throw 1 of 1 (5 PTS),,,15 - 9,-6,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,68,2,1,1,2:30 PM,12:44,,,MISS Smith 11' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,69,4,0,1,2:30 PM,12:42,Lovelace REBOUND (Off:0 Def:1),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,70,2,1,1,2:30 PM,12:29,MISS Henning 18' Jump Shot,,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,71,4,0,1,2:31 PM,12:27,,,Griffith REBOUND (Off:2 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,72,1,1,1,2:31 PM,12:11,,,Campbell  3PT Jump Shot (3 PTS) (Holland-Corn 2 AST),18 - 9,-9,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,73,5,2,1,2:31 PM,11:48,Randall Lost Ball Turnover (P1.T4),,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,75,9,4,1,2:31 PM,11:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,76,8,0,1,2:33 PM,11:48,SUB: Santos de Olive FOR Barnes,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,77,1,46,1,2:34 PM,11:30,,,Griffith 8' Running Jump Shot (7 PTS),20 - 9,-11,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,78,6,1,1,2:34 PM,11:12,,,Holland-Corn P.FOUL (P1.T2),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,79,8,0,1,2:34 PM,11:12,,,SUB: Grooms FOR Campbell,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,80,8,0,1,2:34 PM,11:12,,,SUB: Bolton FOR Holland-Corn,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,81,2,1,1,2:35 PM,11:08,MISS Randall 15' Jump Shot,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,82,4,0,1,2:35 PM,11:07,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,83,2,1,1,2:35 PM,11:01,MISS Lovelace 5' Jump Shot,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,84,4,0,1,2:35 PM,11:00,,,Penicheiro REBOUND (Off:0 Def:2),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,85,6,1,1,2:35 PM,10:38,Santos de Olive P.FOUL (P1.T3),,,,,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,86,2,1,1,2:36 PM,10:23,,,MISS Smith 5' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,87,4,0,1,2:36 PM,10:21,,,Griffith REBOUND (Off:3 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,88,1,1,1,2:36 PM,10:10,,,Smith 6' Jump Shot (4 PTS) (Bolton 1 AST),22 - 9,-13,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,89,2,1,1,2:36 PM,9:57,MISS Lovelace  3PT Jump Shot,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,90,4,0,1,2:36 PM,9:54,Santos de Olive REBOUND (Off:1 Def:0),,,,,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,91,1,1,1,2:37 PM,9:37,Lovelace 16' Jump Shot (2 PTS) (Steding 1 AST),,,22 - 11,-11,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,92,1,1,1,2:37 PM,9:12,,,Smith 5' Jump Shot (6 PTS) (Penicheiro 2 AST),24 - 11,-13,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,93,1,1,1,2:37 PM,8:56,Randall 5' Jump Shot (2 PTS) (Henning 1 AST),,,24 - 13,-11,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,94,2,42,1,2:38 PM,8:35,,,MISS Smith  Driving Layup,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,95,4,0,1,2:38 PM,8:33,,,Griffith REBOUND (Off:4 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,96,2,1,1,2:38 PM,8:28,,,MISS Penicheiro 17' Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,97,4,0,1,2:38 PM,8:24,,,Bolton REBOUND (Off:1 Def:0),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,98,1,5,1,2:38 PM,8:22,,,Griffith  Layup (9 PTS) (Bolton 2 AST),26 - 13,-13,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,99,6,1,1,2:38 PM,8:12,,,Griffith P.FOUL (P2.T3),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,100,8,0,1,2:38 PM,8:12,,,SUB: Wolters FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,101,8,0,1,2:38 PM,8:12,SUB: Barnes FOR Santos de Olive,,,,,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,103,5,2,1,2:39 PM,8:11,Henning Lost Ball Turnover (P1.T5),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,104,6,1,1,2:39 PM,8:04,Steding P.FOUL (P1.T4),,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,105,1,3,1,2:39 PM,7:53,,,Wolters 8' Hook Shot (2 PTS),28 - 13,-15,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,106,2,1,1,2:39 PM,7:40,MISS Steding  3PT Jump Shot,,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,107,4,0,1,2:40 PM,7:38,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,108,6,3,1,2:40 PM,7:38,,,Smith L.B.FOUL (P1.T4),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,110,9,4,1,2:40 PM,7:38,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,111,1,1,1,2:43 PM,7:28,Lovelace  3PT Jump Shot (5 PTS) (Steding 2 AST),,,28 - 16,-12,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,112,5,1,1,2:43 PM,7:09,,,Smith Bad Pass Turnover (P1.T5),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,113,8,0,1,2:43 PM,7:09,SUB: Marciniak FOR Randall,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,114,8,0,1,2:43 PM,7:09,SUB: Redd FOR Steding,,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,116,1,1,1,2:43 PM,6:52,Barnes 6' Jump Shot (7 PTS),,,28 - 18,-10,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,117,2,1,1,2:44 PM,6:37,,,MISS Wolters 8' Jump Shot,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,118,4,0,1,2:44 PM,6:35,Lovelace REBOUND (Off:0 Def:2),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,119,5,1,1,2:44 PM,6:27,Henning Bad Pass Turnover (P2.T6),,Smith STEAL (2 STL),,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,120,1,42,1,2:44 PM,6:21,,,Grooms  Driving Layup (2 PTS) (Smith 1 AST),30 - 18,-12,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,121,2,1,1,2:44 PM,6:02,MISS Henning 16' Jump Shot,,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,122,4,0,1,2:44 PM,6:00,Henning REBOUND (Off:1 Def:0),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,123,1,1,1,2:44 PM,5:57,Henning 7' Jump Shot (2 PTS),,,30 - 20,-10,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,124,6,1,1,2:45 PM,5:48,Henning P.FOUL (P1.PN),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,126,5,2,1,2:45 PM,5:34,Barnes STEAL (1 STL),,Smith Lost Ball Turnover (P2.T6),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,127,6,1,1,2:45 PM,5:33,,,Bolton P.FOUL (P1.PN),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,128,8,0,1,2:46 PM,5:33,,,SUB: Griffith FOR Smith,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,129,5,1,1,2:46 PM,5:24,Henning Bad Pass Turnover (P3.T7),,Penicheiro STEAL (2 STL),,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,130,1,42,1,2:46 PM,5:19,,,Bolton  Driving Layup (2 PTS) (Penicheiro 3 AST),32 - 20,-12,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,131,2,1,1,2:46 PM,5:00,MISS Marciniak 13' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,132,4,0,1,2:46 PM,4:58,,,Wolters REBOUND (Off:0 Def:1),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,133,2,1,1,2:46 PM,4:51,,,MISS Grooms 6' Jump Shot,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,134,4,0,1,2:47 PM,4:50,,,Griffith REBOUND (Off:5 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,135,6,2,1,2:47 PM,4:50,Barnes S.FOUL (P1.PN),,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,136,9,2,1,2:47 PM,4:50,STORM Timeout: Short (Full 0 Short 1),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,138,3,11,1,2:47 PM,4:50,,,MISS Griffith Free Throw 1 of 2,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,139,4,1,1,2:47 PM,4:50,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,140,3,12,1,2:48 PM,4:50,,,Griffith Free Throw 2 of 2 (10 PTS),33 - 20,-13,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,141,1,1,1,2:48 PM,4:26,Barnes 7' Jump Shot (9 PTS),,,33 - 22,-11,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,142,6,2,1,2:48 PM,4:26,,,Bolton S.FOUL (P2.PN),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,143,3,10,1,2:49 PM,4:26,MISS Barnes Free Throw 1 of 1,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,144,4,0,1,2:49 PM,4:26,,,Penicheiro REBOUND (Off:0 Def:3),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,145,2,1,1,2:49 PM,4:12,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,146,4,0,1,2:49 PM,4:11,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,147,8,0,1,2:49 PM,4:11,,,SUB: Frett FOR Wolters,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,148,6,1,1,2:50 PM,3:56,,,Penicheiro P.FOUL (P1.PN),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,149,9,4,1,2:50 PM,3:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,151,8,0,1,2:52 PM,3:56,,,SUB: Campbell FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,152,8,0,1,2:52 PM,3:56,,,SUB: Holland-Corn FOR Bolton,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,153,1,1,1,2:52 PM,3:46,Lovelace  3PT Jump Shot (8 PTS) (Redd 1 AST),,,33 - 25,-8,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,154,5,11,1,2:53 PM,3:14,,,Monarchs Turnover: Shot Clock (T#7),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,156,5,1,1,2:53 PM,3:05,Henning Bad Pass Turnover (P4.T8),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,158,2,1,1,2:54 PM,2:42,,,MISS Campbell 18' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,159,4,0,1,2:54 PM,2:37,,,Holland-Corn REBOUND (Off:3 Def:1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,160,1,47,1,2:54 PM,2:19,,,Griffith 8' Turnaround Jump Shot (12 PTS) (Holland-Corn 3 AST),35 - 25,-10,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,161,2,42,1,2:54 PM,2:12,MISS Marciniak  Driving Layup,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,162,4,0,1,2:54 PM,2:09,,,Griffith REBOUND (Off:5 Def:3),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,163,6,1,1,2:55 PM,2:01,Redd P.FOUL (P1.PN),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,164,2,1,1,2:55 PM,1:56,,,MISS Campbell 15' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,165,4,0,1,2:55 PM,1:55,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,166,2,1,1,2:55 PM,1:41,MISS Redd 9' Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,167,4,0,1,2:55 PM,1:39,Henning REBOUND (Off:2 Def:0),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,168,1,5,1,2:55 PM,1:37,Redd  Layup (4 PTS) (Henning 2 AST),,,35 - 27,-8,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,169,2,1,1,2:56 PM,1:27,,,MISS Holland-Corn  3PT Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,170,4,0,1,2:56 PM,1:26,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,171,6,3,1,2:56 PM,1:26,,,Grooms L.B.FOUL (P1.PN),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,172,9,2,1,2:56 PM,1:26,,,Monarchs Timeout: Short (Reg.0 Short 1),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,173,3,11,1,2:57 PM,1:26,Redd Free Throw 1 of 2 (5 PTS),,,35 - 28,-7,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,175,8,0,1,2:57 PM,1:26,SUB: Smith FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,176,3,12,1,2:57 PM,1:26,MISS Redd Free Throw 2 of 2,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,177,4,0,1,2:57 PM,1:26,,,Griffith REBOUND (Off:5 Def:4),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,178,5,2,1,2:58 PM,1:08,Barnes STEAL (2 STL),,Frett Lost Ball Turnover (P1.T8),,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,179,2,1,1,2:58 PM,1:03,MISS Lovelace 17' Jump Shot,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,180,4,0,1,2:58 PM,1:00,Redd REBOUND (Off:3 Def:0),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,181,1,5,1,2:58 PM,0:59,Redd  Layup (7 PTS),,,35 - 30,-5,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,182,9,1,1,2:58 PM,0:55,,,Monarchs Timeout: Regular (Reg.1 Short 1),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,184,8,0,1,3:00 PM,0:55,,,SUB: Smith FOR Campbell,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,185,8,0,1,3:00 PM,0:55,,,SUB: Penicheiro FOR Frett,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,186,2,1,1,3:00 PM,0:30,,,MISS Smith 11' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,187,4,0,1,3:00 PM,0:27,,,Griffith REBOUND (Off:6 Def:4),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,188,1,5,1,3:00 PM,0:26,,,Griffith  Layup (14 PTS),37 - 30,-7,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,189,2,1,1,3:01 PM,0:13,MISS Barnes 6' Jump Shot,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,190,4,0,1,3:01 PM,0:11,,,Penicheiro REBOUND (Off:0 Def:4),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,191,2,1,1,3:01 PM,0:04,Barnes BLOCK (1 BLK),,MISS Smith 5' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0
+1020100256,192,4,0,1,3:01 PM,0:02,Henning REBOUND (Off:2 Def:1),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,193,2,1,1,3:01 PM,0:00,MISS Redd 40' 3PT Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,194,4,0,1,3:01 PM,0:00,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,195,13,0,1,3:01 PM,0:00,,End of 1st Half (3:01 PM EST),,37 - 30,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,197,12,0,2,3:16 PM,20:00,,Start of 2nd Half (3:16 PM EST),,37 - 30,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,198,10,0,2,3:17 PM,20:00,Jump Ball Barnes vs. Griffith: Tip to Holland-Corn,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,199,5,1,2,3:17 PM,19:32,,,Griffith Bad Pass Turnover (P2.T9),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,200,2,1,2,3:18 PM,19:07,MISS Barnes 6' Jump Shot,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,201,4,0,2,3:18 PM,19:05,,,Griffith REBOUND (Off:6 Def:5),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,202,5,1,2,3:18 PM,18:57,Lovelace STEAL (1 STL),,Campbell Bad Pass Turnover (P2.T10),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,203,5,1,2,3:18 PM,18:54,Lovelace Bad Pass Turnover (P1.T9),,Holland-Corn STEAL (1 STL),,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,204,2,1,2,3:18 PM,18:44,,,MISS Penicheiro  3PT Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,205,4,0,2,3:18 PM,18:41,,,Holland-Corn REBOUND (Off:4 Def:1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,206,6,4,2,3:19 PM,18:23,,,Holland-Corn OFF.Foul (P2),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,207,5,5,2,3:19 PM,18:23,,,Holland-Corn Foul Turnover (P2.T11),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,208,2,1,2,3:20 PM,18:00,MISS Smith  3PT Jump Shot,,,,,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,209,4,0,2,3:20 PM,17:58,,,Penicheiro REBOUND (Off:0 Def:5),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,210,6,2,2,3:20 PM,17:53,Marciniak S.FOUL (P1.T1),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,211,3,11,2,3:20 PM,17:53,,,Holland-Corn Free Throw 1 of 2 (9 PTS),38 - 30,-8,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,212,8,0,2,3:20 PM,17:53,SUB: Randall FOR Smith,,,,,4,100179,Charmin Smith,1611661328.0,Seattle,Storm,SEA,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,213,3,12,2,3:20 PM,17:53,,,Holland-Corn Free Throw 2 of 2 (10 PTS),39 - 30,-9,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,214,2,1,2,3:21 PM,17:40,MISS Redd 6' Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,215,4,0,2,3:21 PM,17:37,Randall REBOUND (Off:1 Def:0),,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,216,1,5,2,3:21 PM,17:36,Randall  Layup (4 PTS),,,39 - 32,-7,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,217,1,42,2,3:21 PM,17:23,,,Griffith  Driving Layup (16 PTS),41 - 32,-9,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,218,2,1,2,3:21 PM,16:58,MISS Randall 14' Jump Shot,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,219,4,0,2,3:21 PM,16:55,Marciniak REBOUND (Off:1 Def:1),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,220,2,1,2,3:21 PM,16:54,MISS Marciniak 6' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,221,4,0,2,3:21 PM,16:50,,,Griffith REBOUND (Off:6 Def:6),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,223,6,4,2,3:22 PM,16:36,,,Griffith OFF.Foul (P3),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,224,5,5,2,3:22 PM,16:36,,,Griffith Foul Turnover (P3.T12),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,225,2,5,2,3:22 PM,16:15,MISS Randall 3' Layup,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,226,4,0,2,3:22 PM,16:12,,,Griffith REBOUND (Off:6 Def:7),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,227,1,1,2,3:22 PM,16:08,,,Holland-Corn  3PT Jump Shot (13 PTS) (Penicheiro 4 AST),44 - 32,-12,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,228,6,2,2,3:23 PM,15:41,,,Griffith S.FOUL (P4.T1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,230,9,4,2,3:23 PM,15:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,231,8,0,2,3:26 PM,15:41,,,SUB: Bolton FOR Campbell,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,232,8,0,2,3:26 PM,15:41,,,SUB: Wolters FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,233,3,11,2,3:26 PM,15:41,MISS Barnes Free Throw 1 of 2,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,234,4,1,2,3:26 PM,15:41,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,235,8,0,2,3:26 PM,15:41,SUB: Edwards FOR Lovelace,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,236,3,12,2,3:27 PM,15:41,Barnes Free Throw 2 of 2 (10 PTS),,,44 - 33,-11,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,237,6,2,2,3:27 PM,15:31,Redd S.FOUL (P2.T2),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,238,8,0,2,3:27 PM,15:31,SUB: Santos de Olive FOR Barnes,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,239,3,11,2,3:27 PM,15:31,,,Wolters Free Throw 1 of 2 (3 PTS),45 - 33,-12,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,240,3,12,2,3:27 PM,15:31,,,Wolters Free Throw 2 of 2 (4 PTS),46 - 33,-13,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,241,2,1,2,3:28 PM,15:12,MISS Santos de Olive 6' Jump Shot,,,,,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,242,4,0,2,3:28 PM,15:10,,,Smith REBOUND (Off:0 Def:1),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,243,2,1,2,3:28 PM,14:53,,,MISS Wolters 8' Jump Shot,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,244,4,0,2,3:28 PM,14:50,Randall REBOUND (Off:1 Def:1),,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,245,1,5,2,3:28 PM,14:45,Redd  Layup (9 PTS) (Randall 1 AST),,,46 - 35,-11,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,246,6,1,2,3:29 PM,14:33,Santos de Olive P.FOUL (P2.T3),,,,,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,247,8,0,2,3:29 PM,14:33,SUB: Steding FOR Redd,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,248,2,1,2,3:29 PM,14:13,,,MISS Smith 7' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,249,4,0,2,3:29 PM,14:11,,,Wolters REBOUND (Off:1 Def:1),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,250,2,5,2,3:29 PM,14:10,,,MISS Wolters  Layup,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,251,4,0,2,3:29 PM,14:08,Steding REBOUND (Off:0 Def:1),,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,252,1,5,2,3:29 PM,14:01,Edwards  Layup (2 PTS) (Marciniak 2 AST),,,46 - 37,-9,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,253,5,2,2,3:30 PM,13:50,,,Wolters Lost Ball Turnover (P1.T13),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,254,9,2,2,3:30 PM,13:50,,,Monarchs Timeout: Short (Reg.1 Short 2),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,256,8,0,2,3:30 PM,13:50,,,SUB: Frett FOR Wolters,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,257,6,1,2,3:31 PM,13:34,,,Smith P.FOUL (P2.T2),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,258,8,0,2,3:31 PM,13:34,SUB: Lovelace FOR Santos de Olive,,,,,4,100201,Alessandra Santos de Olive,1611661328.0,Seattle,Storm,SEA,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,259,2,42,2,3:32 PM,13:19,MISS Marciniak  Driving Layup,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,260,4,0,2,3:32 PM,13:18,,,Bolton REBOUND (Off:1 Def:1),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,261,2,1,2,3:32 PM,12:57,,,MISS Smith 11' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,262,4,0,2,3:32 PM,12:55,Steding REBOUND (Off:0 Def:2),,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,263,2,1,2,3:32 PM,12:49,MISS Marciniak 8' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,264,4,0,2,3:32 PM,12:46,Edwards REBOUND (Off:4 Def:0),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,265,6,2,2,3:32 PM,12:35,,,Penicheiro S.FOUL (P2.T3),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,266,8,0,2,3:32 PM,12:35,SUB: Henning FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,267,3,11,2,3:33 PM,12:35,Randall Free Throw 1 of 2 (5 PTS),,,46 - 38,-8,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,268,8,0,2,3:33 PM,12:35,,,SUB: Grooms FOR Holland-Corn,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,269,3,12,2,3:33 PM,12:35,MISS Randall Free Throw 2 of 2,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,270,4,0,2,3:33 PM,12:35,Edwards REBOUND (Off:5 Def:0),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,271,1,5,2,3:33 PM,12:31,Edwards  Layup (4 PTS),,,46 - 40,-6,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,272,6,2,2,3:34 PM,12:11,Lovelace S.FOUL (P1.T4),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,273,3,11,2,3:34 PM,12:11,,,Smith Free Throw 1 of 2 (7 PTS),47 - 40,-7,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,274,3,12,2,3:34 PM,12:11,,,Smith Free Throw 2 of 2 (8 PTS),48 - 40,-8,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,275,2,1,2,3:35 PM,11:50,MISS Edwards 6' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,276,4,0,2,3:35 PM,11:47,,,Penicheiro REBOUND (Off:0 Def:6),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,277,2,1,2,3:35 PM,11:27,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,278,4,0,2,3:35 PM,11:26,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,279,9,4,2,3:35 PM,11:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,281,2,1,2,3:38 PM,11:11,MISS Lovelace 10' Jump Shot,,Frett BLOCK (1 BLK),,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,282,4,0,2,3:38 PM,11:08,Henning REBOUND (Off:3 Def:1),,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,283,6,1,2,3:38 PM,11:06,,,Smith P.FOUL (P3.T4),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,284,1,42,2,3:39 PM,10:56,Randall  Driving Layup (7 PTS),,,48 - 42,-6,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,285,1,46,2,3:39 PM,10:41,,,Penicheiro 6' Running Jump Shot (2 PTS),50 - 42,-8,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,286,2,1,2,3:39 PM,10:18,MISS Randall 4' Jump Shot,,Grooms BLOCK (1 BLK),,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,287,4,0,2,3:39 PM,10:17,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,288,10,0,2,3:40 PM,10:17,Jump Ball Randall vs. Smith: Tip to Penicheiro,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,290,2,1,2,3:40 PM,10:06,,,MISS Bolton 18' Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,291,4,0,2,3:40 PM,10:03,Randall REBOUND (Off:1 Def:2),,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,292,1,1,2,3:40 PM,9:56,Edwards 11' Jump Shot (6 PTS) (Henning 3 AST),,,50 - 44,-6,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,294,8,0,2,3:41 PM,9:44,SUB: Redd FOR Steding,,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,295,8,0,2,3:41 PM,9:44,SUB: Marciniak FOR Henning,,,,,4,100336,Sonja Henning,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,296,2,1,2,3:41 PM,9:36,,,MISS Frett 5' Jump Shot,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,297,4,0,2,3:41 PM,9:35,Edwards REBOUND (Off:5 Def:1),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,298,2,1,2,3:41 PM,9:34,MISS Redd 18' Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,299,4,0,2,3:41 PM,9:34,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,301,1,5,2,3:42 PM,9:22,Redd  Layup (11 PTS) (Lovelace 1 AST),,,50 - 46,-4,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,302,6,2,2,3:42 PM,9:22,,,Penicheiro S.FOUL (P3.PN),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,304,8,0,2,3:42 PM,9:22,,,SUB: Griffith FOR Frett,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,306,3,10,2,3:42 PM,9:22,Redd Free Throw 1 of 1 (12 PTS),,,50 - 47,-3,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,308,1,42,2,3:43 PM,9:06,,,Smith  Driving Layup (10 PTS),52 - 47,-5,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,309,1,1,2,3:43 PM,8:55,Edwards 6' Jump Shot (8 PTS) (Marciniak 3 AST),,,52 - 49,-3,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,310,2,1,2,3:43 PM,8:28,Lovelace BLOCK (1 BLK),,MISS Smith 5' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0
+1020100256,311,4,0,2,3:43 PM,8:25,,,Grooms REBOUND (Off:1 Def:0),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,312,1,5,2,3:43 PM,8:24,,,Grooms  Layup (4 PTS),54 - 49,-5,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,313,2,1,2,3:44 PM,8:10,MISS Lovelace 13' Jump Shot,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,314,4,0,2,3:44 PM,8:08,Randall REBOUND (Off:2 Def:2),,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,315,2,1,2,3:44 PM,8:04,MISS Lovelace 6' Jump Shot,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,316,4,0,2,3:44 PM,8:03,,,Grooms REBOUND (Off:1 Def:1),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,317,5,1,2,3:44 PM,7:56,Edwards STEAL (1 STL),,Penicheiro Bad Pass Turnover (P2.T14),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,318,1,42,2,3:44 PM,7:34,Lovelace  Driving Layup (10 PTS),,,54 - 51,-3,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,319,1,42,2,3:45 PM,7:11,,,Bolton  Driving Layup (4 PTS),56 - 51,-5,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,320,2,1,2,3:45 PM,6:44,MISS Redd 6' Jump Shot,,Griffith BLOCK (2 BLK),,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,321,4,0,2,3:45 PM,6:44,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,322,9,4,2,3:45 PM,6:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,324,8,0,2,3:47 PM,6:44,SUB: Barnes FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,325,6,1,2,3:48 PM,6:44,,,Penicheiro P.FOUL (P4.PN),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,326,2,1,2,3:48 PM,6:34,MISS Randall 13' Jump Shot,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,327,4,0,2,3:48 PM,6:31,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,328,2,1,2,3:49 PM,6:17,MISS Randall 15' Jump Shot,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,329,4,0,2,3:49 PM,6:15,,,Penicheiro REBOUND (Off:0 Def:7),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,330,2,1,2,3:49 PM,6:08,,,MISS Smith 12' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,331,4,0,2,3:49 PM,6:07,Redd REBOUND (Off:3 Def:1),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,332,5,4,2,3:49 PM,6:06,Redd Traveling Turnover (P1.T10),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,333,5,1,2,3:49 PM,5:53,,,Bolton Bad Pass Turnover (P1.T15),,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,334,2,1,2,3:50 PM,5:27,MISS Redd  3PT Jump Shot,,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,335,4,0,2,3:50 PM,5:27,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,336,6,3,2,3:50 PM,5:27,Lovelace L.B.FOUL (P2.PN),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,337,6,2,2,3:51 PM,5:11,Lovelace S.FOUL (P3.PN),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,338,3,11,2,3:51 PM,5:11,,,Grooms Free Throw 1 of 2 (5 PTS),57 - 51,-6,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,339,8,0,2,3:51 PM,5:11,SUB: Edwards FOR Lovelace,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,340,8,0,2,3:51 PM,5:11,SUB: Steding FOR Randall,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,341,3,12,2,3:51 PM,5:11,,,Grooms Free Throw 2 of 2 (6 PTS),58 - 51,-7,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,342,2,1,2,3:52 PM,4:49,MISS Edwards 6' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,343,4,0,2,3:52 PM,4:48,,,Smith REBOUND (Off:0 Def:2),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,344,5,1,2,3:52 PM,4:21,Barnes STEAL (3 STL),,Penicheiro Bad Pass Turnover (P3.T16),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,345,6,1,2,3:52 PM,4:20,,,Grooms P.FOUL (P2.PN),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,347,9,2,2,3:53 PM,4:17,STORM Timeout: Short (Full 0 Short 2),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,348,5,1,2,3:54 PM,4:03,Redd Bad Pass Turnover (P2.T11),,Penicheiro STEAL (3 STL),,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,349,1,42,2,3:54 PM,3:47,,,Griffith  Driving Layup (18 PTS),60 - 51,-9,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,350,6,2,2,3:54 PM,3:47,Barnes S.FOUL (P2.PN),,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,351,9,4,2,3:54 PM,3:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,353,8,0,2,3:57 PM,3:47,SUB: Randall FOR Steding,,,,,4,100536,Katy Steding,1611661328.0,Seattle,Storm,SEA,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,354,3,10,2,3:57 PM,3:47,,,Griffith Free Throw 1 of 1 (19 PTS),61 - 51,-10,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,355,2,1,2,3:58 PM,3:34,MISS Marciniak  3PT Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,356,4,0,2,3:58 PM,3:32,Redd REBOUND (Off:4 Def:1),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,357,1,3,2,3:58 PM,3:23,Edwards 5' Hook Shot (10 PTS) (Barnes 2 AST),,,61 - 53,-8,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,358,2,1,2,3:58 PM,3:04,,,MISS Bolton  3PT Jump Shot,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,359,4,0,2,3:58 PM,3:02,Marciniak REBOUND (Off:1 Def:2),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,360,6,1,2,3:58 PM,2:53,,,Smith P.FOUL (P4.PN),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,361,8,0,2,3:59 PM,2:53,SUB: Lovelace FOR Barnes,,,,,4,100230,Quacy Barnes,1611661328.0,Seattle,Storm,SEA,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,362,3,11,2,3:59 PM,2:53,MISS Edwards Free Throw 1 of 2,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,363,4,1,2,3:59 PM,2:53,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,364,3,12,2,3:59 PM,2:53,Edwards Free Throw 2 of 2 (11 PTS),,,61 - 54,-7,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,365,2,1,2,4:00 PM,2:28,,,MISS Penicheiro  3PT Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,366,4,0,2,4:00 PM,2:26,Edwards REBOUND (Off:5 Def:2),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,367,2,1,2,4:00 PM,2:15,MISS Redd 4' Jump Shot,,Griffith BLOCK (3 BLK),,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,368,4,0,2,4:00 PM,2:14,,,Griffith REBOUND (Off:6 Def:8),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,369,5,2,2,4:00 PM,2:14,,,Griffith Lost Ball Turnover (P4.T17),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,370,9,2,2,4:00 PM,2:14,STORM Timeout: Short (Full 0 Short 3),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,372,2,1,2,4:01 PM,2:11,MISS Edwards 6' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,373,4,0,2,4:01 PM,2:09,,,Penicheiro REBOUND (Off:0 Def:8),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,374,2,1,2,4:01 PM,1:58,,,MISS Griffith 8' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,375,4,0,2,4:01 PM,1:56,Redd REBOUND (Off:4 Def:2),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,376,2,1,2,4:02 PM,1:50,MISS Edwards 11' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,377,4,0,2,4:02 PM,1:48,Lovelace REBOUND (Off:1 Def:2),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,378,2,4,2,4:02 PM,1:46,MISS Lovelace 5' Tip Shot,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,379,4,0,2,4:02 PM,1:45,,,Griffith REBOUND (Off:6 Def:9),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,380,1,5,2,4:02 PM,1:37,,,Grooms  Layup (8 PTS) (Bolton 3 AST),63 - 54,-9,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100256,381,1,1,2,4:02 PM,1:24,Edwards 9' Jump Shot (13 PTS) (Marciniak 4 AST),,,63 - 56,-7,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,382,6,1,2,4:02 PM,1:19,Redd P.FOUL (P3.PN),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,383,3,11,2,4:02 PM,1:19,,,Penicheiro Free Throw 1 of 2 (3 PTS),64 - 56,-8,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,384,3,12,2,4:03 PM,1:19,,,Penicheiro Free Throw 2 of 2 (4 PTS),65 - 56,-9,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,385,1,42,2,4:03 PM,1:08,Redd  Driving Layup (14 PTS),,,65 - 58,-7,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,386,6,1,2,4:03 PM,0:53,Redd P.FOUL (P4.PN),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,387,3,11,2,4:04 PM,0:53,,,MISS Bolton Free Throw 1 of 2,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,388,4,1,2,4:04 PM,0:53,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,389,3,12,2,4:04 PM,0:53,,,MISS Bolton Free Throw 2 of 2,,,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,390,4,0,2,4:04 PM,0:53,Marciniak REBOUND (Off:1 Def:3),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,391,2,1,2,4:04 PM,0:45,MISS Lovelace  3PT Jump Shot,,Smith BLOCK (3 BLK),,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100256,392,4,0,2,4:04 PM,0:42,Lovelace REBOUND (Off:2 Def:2),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,393,6,2,2,4:04 PM,0:41,,,Smith S.FOUL (P5.PN),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100256,394,3,11,2,4:04 PM,0:41,Lovelace Free Throw 1 of 2 (11 PTS),,,65 - 59,-6,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,396,9,1,2,4:05 PM,0:41,STORM Timeout: Regular (Full 1 Short 3),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,398,3,12,2,4:07 PM,0:41,MISS Lovelace Free Throw 2 of 2,,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,399,4,0,2,4:07 PM,0:41,,,Smith REBOUND (Off:0 Def:3),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,400,6,1,2,4:07 PM,0:40,Edwards P.FOUL (P2.PN),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,401,3,11,2,4:07 PM,0:40,,,MISS Smith Free Throw 1 of 2,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,402,4,1,2,4:07 PM,0:40,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,403,3,12,2,4:08 PM,0:40,,,MISS Smith Free Throw 2 of 2,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,404,4,0,2,4:08 PM,0:40,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,405,9,2,2,4:08 PM,0:40,,,Monarchs Timeout: Short (Reg.1 Short 3),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100256,407,2,1,2,4:09 PM,0:30,MISS Randall 17' Jump Shot,,,,,4,100683,Semeka Randall,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,408,4,0,2,4:09 PM,0:29,,,Smith REBOUND (Off:0 Def:4),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,409,6,1,2,4:09 PM,0:28,Marciniak P.FOUL (P2.PN),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,410,3,11,2,4:09 PM,0:28,,,Smith Free Throw 1 of 2 (11 PTS),66 - 59,-7,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,411,3,12,2,4:10 PM,0:28,,,MISS Smith Free Throw 2 of 2,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,412,4,0,2,4:10 PM,0:28,,,Griffith REBOUND (Off:7 Def:9),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,413,6,1,2,4:10 PM,0:24,Lovelace P.FOUL (P4.PN),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,414,3,11,2,4:10 PM,0:24,,,Bolton Free Throw 1 of 2 (5 PTS),67 - 59,-8,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,415,3,12,2,4:10 PM,0:24,,,Bolton Free Throw 2 of 2 (6 PTS),68 - 59,-9,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,416,1,1,2,4:11 PM,0:15,Lovelace  3PT Jump Shot (14 PTS) (Redd 2 AST),,,68 - 62,-6,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020100256,417,6,1,2,4:11 PM,0:14,Lovelace P.FOUL (P5.PN),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,418,3,11,2,4:11 PM,0:14,,,Smith Free Throw 1 of 2 (12 PTS),69 - 62,-7,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,419,3,12,2,4:11 PM,0:14,,,Smith Free Throw 2 of 2 (13 PTS),70 - 62,-8,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,420,2,1,2,4:12 PM,0:10,MISS Marciniak 7' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,421,4,0,2,4:12 PM,0:08,,,Smith REBOUND (Off:0 Def:5),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,422,6,1,2,4:12 PM,0:07,Redd P.FOUL (P5.PN),,,,,4,100541,Jamie Redd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020100256,423,3,11,2,4:12 PM,0:07,,,Bolton Free Throw 1 of 2 (7 PTS),71 - 62,-9,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,424,3,12,2,4:12 PM,0:07,,,Bolton Free Throw 2 of 2 (8 PTS),72 - 62,-10,5,100016,Ruthie Bolton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100256,425,5,2,2,4:12 PM,0:01,Lovelace Lost Ball Turnover (P2.T12),,,,,4,100470,Stacey Lovelace,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020100256,426,13,0,2,4:13 PM,0:00,,End of 2nd Half (4:13 PM EST),,72 - 62,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

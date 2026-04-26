@@ -1,0 +1,388 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700090,0,12,0,1,8:10 PM,10:00,,Start of 1st Period (8:10 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,1,10,0,1,8:10 PM,10:00,Jump Ball Harrison vs. J. Jones: Tip to de Souza,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,1
+1021700090,2,2,1,1,8:10 PM,9:37,MISS McBride 26' 3PT Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,3,4,0,1,8:10 PM,9:36,de Souza REBOUND (Off:1 Def:0),,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,4,1,1,1,8:10 PM,9:24,Jefferson 16' Jump Shot (2 PTS),,,0 - 2,2,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,5,2,66,1,8:11 PM,9:06,,,MISS A. Thomas 5' Jump Bank Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,6,4,0,1,8:11 PM,9:05,de Souza REBOUND (Off:1 Def:1),,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,7,5,45,1,8:11 PM,9:00,McBride Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,8,5,1,1,8:11 PM,8:49,Harrison STEAL (1 STL),,J. Thomas Bad Pass Turnover (P1.T1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,9,2,47,1,8:11 PM,8:38,MISS de Souza 11' Turnaround Jump Shot,,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,10,4,0,1,8:11 PM,8:37,,,J. Thomas REBOUND (Off:0 Def:1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,11,2,1,1,8:11 PM,8:28,,,MISS J. Thomas 25' 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,12,4,0,1,8:11 PM,8:27,,,J. Jones REBOUND (Off:1 Def:0),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,13,1,1,1,8:11 PM,8:23,,,Williams 10' Jump Shot (2 PTS) (J. Jones 1 AST),2 - 2,TIE,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,14,5,2,1,8:12 PM,7:57,Jefferson Lost Ball Turnover (P1.T2),,A. Thomas STEAL (1 STL),,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,15,2,1,1,8:12 PM,7:51,,,MISS Stricklen 16' Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,16,4,0,1,8:12 PM,7:50,McBride REBOUND (Off:0 Def:1),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,17,2,79,1,8:12 PM,7:44,MISS McBride 15' Pullup Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,18,4,0,1,8:12 PM,7:43,,,J. Jones REBOUND (Off:1 Def:1),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,19,2,1,1,8:12 PM,7:35,,,MISS Williams 14' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,20,4,0,1,8:12 PM,7:34,,,Williams REBOUND (Off:1 Def:0),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,21,1,1,1,8:12 PM,7:32,,,Williams 7' Jump Shot (4 PTS),4 - 2,-2,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,22,2,1,1,8:13 PM,7:12,MISS Montgomery 24' 3PT Jump Shot,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,23,4,0,1,8:13 PM,7:11,,,J. Thomas REBOUND (Off:0 Def:2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,24,1,5,1,8:13 PM,7:05,,,A. Thomas 1' Layup (2 PTS) (J. Thomas 1 AST),6 - 2,-4,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,25,5,2,1,8:13 PM,6:46,Harrison Lost Ball Turnover (P1.T3),,A. Thomas STEAL (2 STL),,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,26,1,5,1,8:13 PM,6:40,,,Williams 1' Layup (6 PTS) (J. Thomas 2 AST),8 - 2,-6,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,27,9,1,1,8:13 PM,6:27,STARS Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,29,8,0,1,8:15 PM,6:27,SUB: Hamby FOR de Souza,,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,30,5,4,1,8:16 PM,6:17,Harrison Traveling Turnover (P2.T4),,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021700090,31,2,5,1,8:16 PM,6:06,,,MISS A. Thomas 2' Layup,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,32,4,0,1,8:16 PM,6:05,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,33,6,3,1,8:17 PM,6:05,,,J. Jones L.B.FOUL (P1.T1),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,34,1,1,1,8:17 PM,5:53,McBride 24' 3PT Jump Shot (3 PTS) (Jefferson 1 AST),,,8 - 5,-3,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,35,6,2,1,8:17 PM,5:53,,,Williams S.FOUL (P1.T2),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,36,3,10,1,8:18 PM,5:53,MISS McBride Free Throw 1 of 1,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,38,4,0,1,8:18 PM,5:52,,,A. Thomas REBOUND (Off:0 Def:1),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,40,2,1,1,8:18 PM,5:28,,,MISS J. Thomas 16' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,41,4,0,1,8:18 PM,5:27,McBride REBOUND (Off:0 Def:2),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,42,1,42,1,8:19 PM,5:13,Harrison 2' Driving Layup (2 PTS) (McBride 1 AST),,,8 - 7,-1,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,43,5,1,1,8:19 PM,4:57,Montgomery STEAL (1 STL),,Williams Bad Pass Turnover (P1.T2),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,44,1,1,1,8:19 PM,4:52,Jefferson 3' Jump Shot (4 PTS) (McBride 2 AST),,,8 - 9,1,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,45,1,5,1,8:19 PM,4:38,,,J. Jones 1' Layup (2 PTS) (J. Thomas 3 AST),10 - 9,-1,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,46,2,5,1,8:19 PM,4:18,MISS Hamby 2' Layup,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,47,4,0,1,8:20 PM,4:17,,,A. Thomas REBOUND (Off:0 Def:2),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,48,5,1,1,8:20 PM,4:12,Hamby STEAL (1 STL),,A. Thomas Bad Pass Turnover (P1.T3),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,49,2,1,1,8:20 PM,4:00,MISS Jefferson 8' Jump Shot,,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,50,4,0,1,8:20 PM,3:59,Hamby REBOUND (Off:1 Def:0),,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,51,2,1,1,8:20 PM,3:57,MISS Hamby 5' Jump Shot,,J. Jones BLOCK (1 BLK),,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700090,52,4,0,1,8:20 PM,3:55,Montgomery REBOUND (Off:1 Def:0),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,53,2,78,1,8:20 PM,3:53,MISS Montgomery 6' Floating Jump Shot,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,54,4,0,1,8:20 PM,3:52,,,J. Jones REBOUND (Off:1 Def:2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,55,1,1,1,8:20 PM,3:44,,,Williams 17' Jump Shot (8 PTS) (J. Thomas 4 AST),12 - 9,-3,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,56,9,2,1,8:20 PM,3:40,STARS Timeout: Short (Full 1 Short 1),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,57,8,0,1,8:21 PM,3:40,SUB: Plum FOR Jefferson,,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,58,8,0,1,8:21 PM,3:40,,,SUB: Bentley FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,59,1,1,1,8:21 PM,3:22,McBride 19' Jump Shot (5 PTS) (Hamby 1 AST),,,12 - 11,-1,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,60,1,1,1,8:22 PM,3:00,,,J. Thomas 24' 3PT Jump Shot (3 PTS) (A. Thomas 1 AST),15 - 11,-4,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,61,5,1,1,8:22 PM,2:44,Montgomery Bad Pass Turnover (P1.T5),,A. Thomas STEAL (3 STL),,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,62,2,1,1,8:22 PM,2:36,,,MISS J. Jones 25' 3PT Jump Shot,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,63,4,0,1,8:22 PM,2:35,Harrison REBOUND (Off:0 Def:1),,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,64,5,2,1,8:23 PM,2:12,McBride Lost Ball Turnover (P2.T6),,Stricklen STEAL (1 STL),,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,65,1,5,1,8:23 PM,2:08,,,J. Thomas 1' Layup (5 PTS) (Stricklen 1 AST),17 - 11,-6,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,66,5,41,1,8:23 PM,1:57,Plum Poss Lost Ball Turnover (P1.T7),,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,67,8,0,1,8:23 PM,1:57,SUB: Jefferson FOR Plum,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,4,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,68,8,0,1,8:23 PM,1:57,SUB: Murphy FOR Montgomery,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,69,8,0,1,8:23 PM,1:57,SUB: Alexander FOR Harrison,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,70,8,0,1,8:24 PM,1:57,,,SUB: Pedersen FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,89,8,0,1,8:24 PM,1:57,,,SUB: Kizer FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,71,6,2,1,8:24 PM,1:46,Murphy S.FOUL (P1.T1),,,,,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,72,3,11,1,8:24 PM,1:46,,,J. Thomas Free Throw 1 of 2 (6 PTS),18 - 11,-7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,75,3,12,1,8:24 PM,1:46,,,MISS J. Thomas Free Throw 2 of 2,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,77,4,0,1,8:24 PM,1:45,Alexander REBOUND (Off:0 Def:1),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,78,2,1,1,8:25 PM,1:30,MISS Murphy 3PT Jump Shot,,,,,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,79,4,0,1,8:25 PM,1:29,,,A. Thomas REBOUND (Off:0 Def:3),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,80,5,45,1,8:25 PM,1:24,,,A. Thomas Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,81,2,1,1,8:25 PM,1:04,MISS McBride 24' 3PT Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,82,4,0,1,8:25 PM,0:58,,,A. Thomas REBOUND (Off:0 Def:4),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,83,1,5,1,8:25 PM,0:56,,,Bentley 1' Layup (2 PTS) (A. Thomas 2 AST),20 - 11,-9,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,84,5,11,1,8:26 PM,0:32,STARS Turnover: Shot Clock (T#8),,,,,2.0,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700090,85,2,1,1,8:26 PM,0:17,Alexander BLOCK (1 BLK),,MISS Kizer 3' Jump Shot,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1
+1021700090,86,4,0,1,8:26 PM,0:14,Alexander REBOUND (Off:0 Def:2),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,87,1,1,1,8:26 PM,0:01,Jefferson 19' Jump Shot (6 PTS),,,20 - 13,-7,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,88,13,0,1,8:27 PM,0:00,,End of 1st Period (8:27 PM EST),,20 - 13,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,91,12,0,2,8:29 PM,10:00,,Start of 2nd Period (8:29 PM EST),,20 - 13,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,92,2,1,2,8:29 PM,9:47,,,MISS A. Thomas 4' Jump Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,93,4,0,2,8:29 PM,9:46,,,A. Thomas REBOUND (Off:1 Def:4),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,94,1,72,2,8:29 PM,9:45,,,A. Thomas 2' Putback Layup (4 PTS),22 - 13,-9,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,95,2,1,2,8:30 PM,9:18,MISS Hamby 4' Jump Shot,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,96,4,0,2,8:30 PM,9:17,,,Kizer REBOUND (Off:0 Def:1),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,97,2,1,2,8:30 PM,9:08,,,MISS Bentley 17' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,98,4,0,2,8:30 PM,9:07,Jefferson REBOUND (Off:0 Def:1),,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,99,5,2,2,8:30 PM,8:56,McBride Lost Ball Turnover (P3.T9),,A. Thomas STEAL (4 STL),,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,100,1,5,2,8:30 PM,8:50,,,Bentley 1' Layup (4 PTS) (A. Thomas 3 AST),24 - 13,-11,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,101,5,2,2,8:31 PM,8:29,Hamby Lost Ball Turnover (P1.T10),,Pedersen STEAL (1 STL),,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,102,1,5,2,8:31 PM,8:22,,,Pedersen 2' Layup (2 PTS) (A. Thomas 4 AST),26 - 13,-13,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,103,6,2,2,8:31 PM,8:03,,,Bentley S.FOUL (P1.T1),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,104,3,13,2,8:31 PM,8:03,McBride Free Throw 1 of 3 (6 PTS),,,26 - 14,-12,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,106,3,14,2,8:32 PM,8:03,McBride Free Throw 2 of 3 (7 PTS),,,26 - 15,-11,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,108,8,0,2,8:32 PM,8:03,,,SUB: Stricklen FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,109,8,0,2,8:32 PM,8:03,,,SUB: Banham FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,110,8,0,2,8:32 PM,8:03,,,SUB: J. Jones FOR Kizer,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,111,8,0,2,8:32 PM,8:03,SUB: Coffey FOR Alexander,,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,112,8,0,2,8:32 PM,8:03,SUB: Harrison FOR Hamby,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,113,8,0,2,8:32 PM,8:03,SUB: Plum FOR Murphy,,,,,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,114,3,15,2,8:32 PM,8:03,McBride Free Throw 3 of 3 (8 PTS),,,26 - 16,-10,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,116,2,1,2,8:33 PM,7:37,,,MISS Pedersen 15' Jump Shot,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,117,4,0,2,8:33 PM,7:36,,,J. Jones REBOUND (Off:2 Def:2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,118,1,5,2,8:33 PM,7:34,,,J. Jones 3' Layup (4 PTS),28 - 16,-12,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,119,2,1,2,8:33 PM,7:20,MISS Harrison 18' Jump Shot,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,120,4,0,2,8:33 PM,7:19,,,J. Jones REBOUND (Off:2 Def:3),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,121,6,26,2,8:33 PM,7:07,,,J. Jones Offensive Charge Foul (P2),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,122,5,5,2,8:33 PM,7:07,,,J. Jones Foul Turnover (P1.T5),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700090,123,8,0,2,8:33 PM,7:07,SUB: Montgomery FOR McBride,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,124,8,0,2,8:33 PM,7:07,SUB: de Souza FOR Harrison,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,125,1,1,2,8:34 PM,6:53,Montgomery 24' 3PT Jump Shot (3 PTS) (Jefferson 2 AST),,,28 - 19,-9,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,126,2,1,2,8:34 PM,6:33,,,MISS Bentley 18' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,127,4,0,2,8:34 PM,6:32,Montgomery REBOUND (Off:1 Def:1),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,128,5,1,2,8:34 PM,6:13,Plum Bad Pass Turnover (P2.T11),,Bentley STEAL (1 STL),,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,129,5,4,2,8:35 PM,6:09,,,Stricklen Traveling Turnover (P1.T6),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700090,130,6,2,2,8:35 PM,5:53,,,Banham S.FOUL (P1.T2),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,131,9,4,2,8:35 PM,5:53,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,133,8,0,2,8:38 PM,5:53,,,SUB: Williams FOR Banham,,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,134,3,11,2,8:38 PM,5:53,Plum Free Throw 1 of 2 (1 PTS),,,28 - 20,-8,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,136,3,12,2,8:38 PM,5:53,Plum Free Throw 2 of 2 (2 PTS),,,28 - 21,-7,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,138,2,1,2,8:38 PM,5:34,,,MISS Stricklen 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,139,4,0,2,8:38 PM,5:33,Coffey REBOUND (Off:0 Def:1),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,140,2,79,2,8:38 PM,5:23,MISS Jefferson 11' Pullup Jump Shot,,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,141,4,0,2,8:38 PM,5:21,,,Bentley REBOUND (Off:0 Def:1),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,142,2,1,2,8:39 PM,5:12,,,MISS Stricklen 25' 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,143,4,0,2,8:39 PM,5:06,,,Pedersen REBOUND (Off:1 Def:0),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,144,1,42,2,8:39 PM,5:05,,,Williams 2' Driving Layup (10 PTS),30 - 21,-9,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,145,6,2,2,8:39 PM,5:05,Plum S.FOUL (P1.T1),,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,146,8,0,2,8:39 PM,5:05,,,SUB: A. Thomas FOR Pedersen,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,147,3,10,2,8:39 PM,5:05,,,Williams Free Throw 1 of 1 (11 PTS),31 - 21,-10,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,149,2,63,2,8:40 PM,4:39,MISS Plum 9' Fadeaway Jumper,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,150,4,0,2,8:40 PM,4:32,,,Stricklen REBOUND (Off:0 Def:1),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,151,2,1,2,8:40 PM,4:29,,,MISS Williams 7' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,152,4,0,2,8:40 PM,4:27,Jefferson REBOUND (Off:0 Def:2),,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,153,1,99,2,8:40 PM,4:06,Plum 3' Cutting Finger Roll Layup Shot (4 PTS),,,31 - 23,-8,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,154,1,71,2,8:41 PM,3:47,,,J. Jones 3' Finger Roll Layup (6 PTS) (Stricklen 2 AST),33 - 23,-10,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,155,2,1,2,8:41 PM,3:30,MISS Plum 20' Jump Shot,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,156,4,0,2,8:41 PM,3:29,,,J. Jones REBOUND (Off:2 Def:4),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,157,6,2,2,8:41 PM,3:23,de Souza S.FOUL (P1.T2),,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,158,3,11,2,8:41 PM,3:23,,,A. Thomas Free Throw 1 of 2 (5 PTS),34 - 23,-11,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,160,8,0,2,8:41 PM,3:23,SUB: Harrison FOR Coffey,,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,4,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,161,8,0,2,8:41 PM,3:23,SUB: Hamby FOR de Souza,,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,162,8,0,2,8:42 PM,3:23,SUB: McBride FOR Plum,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,163,3,12,2,8:42 PM,3:23,,,Free Throw 2 of 2,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,164,4,1,2,8:42 PM,3:23,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,165,8,0,2,8:42 PM,3:23,,,SUB: J. Thomas FOR Bentley,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,166,6,2,2,8:42 PM,3:04,,,A. Thomas S.FOUL (P1.T3),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,167,3,11,2,8:43 PM,3:04,Harrison Free Throw 1 of 2 (3 PTS),,,34 - 24,-10,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,169,3,12,2,8:43 PM,3:04,MISS Harrison Free Throw 2 of 2,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,171,4,0,2,8:43 PM,3:04,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,172,1,79,2,8:43 PM,2:48,,,Williams 16' Pullup Jump Shot (13 PTS) (J. Jones 2 AST),36 - 24,-12,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,173,6,2,2,8:44 PM,2:33,,,J. Thomas S.FOUL (P1.T4),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,174,9,1,2,8:44 PM,2:33,,,Sun Timeout: Regular (Reg.1 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,176,3,11,2,8:46 PM,2:33,MISS Jefferson Free Throw 1 of 2,,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,177,4,1,2,8:46 PM,2:33,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,178,3,12,2,8:46 PM,2:33,MISS Jefferson Free Throw 2 of 2,,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,180,4,0,2,8:46 PM,2:32,,,A. Thomas REBOUND (Off:1 Def:5),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,181,2,79,2,8:47 PM,2:22,,,MISS Williams 18' Pullup Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,182,4,0,2,8:47 PM,2:19,Hamby REBOUND (Off:1 Def:1),,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,184,2,78,2,8:47 PM,2:01,MISS McBride 15' Floating Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,185,4,0,2,8:47 PM,1:59,,,J. Jones REBOUND (Off:2 Def:5),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,186,1,71,2,8:47 PM,1:51,,,Stricklen 4' Finger Roll Layup (2 PTS) (A. Thomas 5 AST),38 - 24,-14,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,187,5,1,2,8:48 PM,1:37,McBride Bad Pass Turnover (P4.T12),,A. Thomas STEAL (5 STL),,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,188,6,2,2,8:48 PM,1:35,Harrison S.FOUL (P1.T3),,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,189,3,11,2,8:48 PM,1:35,,,A. Thomas Free Throw 1 of 2 (6 PTS),39 - 24,-15,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,191,8,0,2,8:48 PM,1:35,SUB: Coffey FOR Harrison,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,192,8,0,2,8:48 PM,1:35,,,SUB: Pedersen FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,193,8,0,2,8:48 PM,1:35,SUB: Colson FOR McBride,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,194,3,12,2,8:48 PM,1:35,,,A. Thomas Free Throw 2 of 2 (7 PTS),40 - 24,-16,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,196,6,2,2,8:49 PM,1:20,,,Pedersen S.FOUL (P1.PN),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,197,3,11,2,8:49 PM,1:20,MISS Hamby Free Throw 1 of 2,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,198,4,1,2,8:49 PM,1:20,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,199,3,12,2,8:49 PM,1:20,MISS Hamby Free Throw 2 of 2,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,201,4,0,2,8:50 PM,1:18,,,J. Thomas REBOUND (Off:0 Def:3),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,202,2,1,2,8:50 PM,0:58,,,MISS A. Thomas 9' Jump Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,203,4,0,2,8:50 PM,0:55,Jefferson REBOUND (Off:0 Def:3),,,,,4.0,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,204,5,4,2,8:50 PM,0:44,Coffey Traveling Turnover (P1.T13),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021700090,205,2,78,2,8:51 PM,0:28,,,MISS Williams 12' Floating Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,206,4,0,2,8:51 PM,0:26,Montgomery REBOUND (Off:1 Def:2),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,207,9,1,2,8:51 PM,0:23,STARS Timeout: Regular (Full 2 Short 1),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,209,8,0,2,8:52 PM,0:22,SUB: McBride FOR Montgomery,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,211,2,1,2,8:53 PM,0:02,MISS McBride 25' 3PT Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,212,4,0,2,8:53 PM,0:01,,,Williams REBOUND (Off:1 Def:1),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,213,2,1,2,8:53 PM,0:00,,,MISS Williams 40' 3PT Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,214,4,0,2,8:53 PM,0:00,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,216,13,0,2,8:53 PM,0:00,,End of 2nd Period (8:53 PM EST),,40 - 24,-16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,218,12,0,3,9:08 PM,10:00,,Start of 3rd Period (9:08 PM EST),,40 - 24,-16,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,219,2,1,3,9:08 PM,9:44,,,MISS Williams 16' Jump Shot,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,220,4,0,3,9:08 PM,9:42,Montgomery REBOUND (Off:1 Def:3),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,221,1,98,3,9:08 PM,9:21,Harrison Cutting Layup Shot (5 PTS) (Plum 1 AST),,,40 - 26,-14,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,222,1,98,3,9:09 PM,9:08,,,J. Jones 2' Cutting Layup Shot (8 PTS) (J. Thomas 5 AST),42 - 26,-16,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,223,2,5,3,9:09 PM,8:55,MISS Harrison 1' Layup,,J. Jones BLOCK (2 BLK),,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700090,224,4,0,3,9:09 PM,8:54,,,A. Thomas REBOUND (Off:1 Def:6),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,225,6,1,3,9:09 PM,8:54,Montgomery P.FOUL (P1.T1),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,226,2,3,3,9:09 PM,8:41,,,MISS A. Thomas 5' Hook Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,227,4,0,3,9:09 PM,8:39,Montgomery REBOUND (Off:1 Def:4),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,228,5,1,3,9:09 PM,8:35,McBride Bad Pass Turnover (P5.T14),,A. Thomas STEAL (6 STL),,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,229,1,41,3,9:10 PM,8:28,,,A. Thomas 1' Running Layup (9 PTS),44 - 26,-18,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,230,6,1,3,9:10 PM,8:12,,,J. Jones P.FOUL (P3.T1),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,231,2,71,3,9:10 PM,8:00,MISS Harrison 1' Finger Roll Layup,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,232,4,0,3,9:10 PM,7:58,,,J. Jones REBOUND (Off:2 Def:6),,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,233,1,79,3,9:10 PM,7:51,,,J. Thomas 18' Pullup Jump Shot (8 PTS),46 - 26,-20,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,234,5,1,3,9:11 PM,7:36,Harrison Bad Pass Turnover (P3.T15),,Stricklen STEAL (2 STL),,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,235,1,41,3,9:11 PM,7:30,,,Stricklen 1' Running Layup (4 PTS),48 - 26,-22,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,236,9,1,3,9:11 PM,7:23,STARS Timeout: Regular (Full 3 Short 1),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,237,18,0,3,9:12 PM,7:23,,Support Ruling,,,,,233,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700090,238,8,0,3,9:13 PM,7:23,SUB: Alexander FOR Harrison,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,239,8,0,3,9:13 PM,7:23,SUB: Colson FOR McBride,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,240,8,0,3,9:13 PM,7:23,,,SUB: Bentley FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,241,8,0,3,9:13 PM,7:18,,,SUB: Kizer FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,242,2,5,3,9:14 PM,7:13,MISS Montgomery 2' Layup,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,243,4,0,3,9:14 PM,7:06,,,A. Thomas REBOUND (Off:1 Def:7),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,244,2,1,3,9:14 PM,7:06,Montgomery BLOCK (1 BLK),,MISS Kizer 10' Jump Shot,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,1
+1021700090,245,4,0,3,9:14 PM,7:06,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,246,2,1,3,9:14 PM,6:49,MISS Hamby 7' Jump Shot,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,247,4,0,3,9:14 PM,6:48,,,Kizer REBOUND (Off:0 Def:2),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,248,1,75,3,9:14 PM,6:36,,,J. Thomas 1' Driving Finger Roll Layup (10 PTS),50 - 26,-24,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,249,5,1,3,9:14 PM,6:27,Plum Bad Pass Turnover (P3.T16),,A. Thomas STEAL (7 STL),,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,250,1,5,3,9:15 PM,6:20,,,Williams Layup (15 PTS) (J. Thomas 6 AST),52 - 26,-26,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,251,2,1,3,9:15 PM,6:06,MISS Plum 20' Jump Shot,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,252,4,0,3,9:15 PM,6:06,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,253,6,3,3,9:15 PM,6:06,Hamby L.B.FOUL (P1.T2),,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,254,2,1,3,9:15 PM,5:54,,,MISS A. Thomas 12' Jump Shot,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,255,4,0,3,9:15 PM,5:54,Alexander REBOUND (Off:0 Def:3),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,256,6,3,3,9:15 PM,5:54,,,Kizer L.B.FOUL (P1.T2),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,257,1,79,3,9:16 PM,5:42,Colson 18' Pullup Jump Shot (2 PTS),,,52 - 28,-24,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,258,1,1,3,9:16 PM,5:29,,,A. Thomas 16' Jump Shot (11 PTS) (J. Thomas 7 AST),54 - 28,-26,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,259,6,4,3,9:16 PM,5:17,Alexander OFF.Foul (P1),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,260,5,5,3,9:16 PM,5:17,Alexander Foul Turnover (P1.T17),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021700090,261,1,1,3,9:17 PM,4:57,,,Kizer 16' Jump Shot (2 PTS) (Williams 1 AST),56 - 28,-28,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,262,5,11,3,9:17 PM,4:33,STARS Turnover: Shot Clock (T#18),,,,,2.0,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700090,263,1,1,3,9:18 PM,4:23,,,Kizer 17' Jump Shot (4 PTS) (J. Thomas 8 AST),58 - 28,-30,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,264,1,75,3,9:18 PM,4:05,Colson 1' Driving Finger Roll Layup (4 PTS),,,58 - 30,-28,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,265,6,2,3,9:18 PM,3:48,Colson S.FOUL (P1.T3),,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,266,3,11,3,9:19 PM,3:48,,,MISS Bentley Free Throw 1 of 2,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,267,4,1,3,9:19 PM,3:48,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,268,8,0,3,9:19 PM,3:48,,,SUB: Banham FOR Williams,,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,269,8,0,3,9:19 PM,3:48,SUB: de Souza FOR Alexander,,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,270,8,0,3,9:19 PM,3:48,SUB: Coffey FOR Hamby,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,271,8,0,3,9:19 PM,3:48,SUB: McBride FOR Plum,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,272,3,12,3,9:19 PM,3:48,,,Bentley Free Throw 2 of 2 (5 PTS),59 - 30,-29,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,274,2,79,3,9:19 PM,3:22,MISS Colson 14' Pullup Jump Shot,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,275,4,0,3,9:19 PM,3:20,,,Banham REBOUND (Off:0 Def:1),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,276,1,42,3,9:20 PM,3:08,,,A. Thomas 1' Driving Layup (13 PTS) (Banham 1 AST),61 - 30,-31,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,277,2,1,3,9:20 PM,2:47,MISS Montgomery 24' 3PT Jump Shot,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,278,4,0,3,9:20 PM,2:46,,,Kizer REBOUND (Off:0 Def:3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,279,6,26,3,9:20 PM,2:35,,,A. Thomas Offensive Charge Foul (P2),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,280,5,5,3,9:20 PM,2:35,,,A. Thomas Foul Turnover (P3.T7),,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700090,281,8,0,3,9:20 PM,2:35,SUB: Harrison FOR de Souza,,,,,4.0,100812,Erika de Souza,1611661319.0,San Antonio,Stars,SAN,4,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,282,8,0,3,9:20 PM,2:35,,,SUB: Pedersen FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,283,8,0,3,9:20 PM,2:35,,,SUB: Stricklen FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,285,2,1,3,9:21 PM,2:17,MISS McBride 21' Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,286,4,0,3,9:21 PM,2:17,,,Bentley REBOUND (Off:0 Def:2),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,287,5,1,3,9:21 PM,2:09,McBride STEAL (1 STL),,Pedersen Bad Pass Turnover (P1.T8),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,288,1,98,3,9:21 PM,2:03,McBride 1' Cutting Layup Shot (10 PTS) (Montgomery 1 AST),,,61 - 32,-29,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,289,6,4,3,9:22 PM,1:53,,,Pedersen OFF.Foul (P2),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,290,5,5,3,9:22 PM,1:53,,,Pedersen Foul Turnover (P2.T9),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700090,291,2,1,3,9:22 PM,1:39,MISS McBride 21' Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,292,4,0,3,9:22 PM,1:39,Coffey REBOUND (Off:1 Def:1),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,293,6,3,3,9:22 PM,1:39,,,Pedersen L.B.FOUL (P3.T3),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,294,1,1,3,9:22 PM,1:32,Colson 18' Jump Shot (6 PTS),,,61 - 34,-27,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,295,6,6,3,9:22 PM,1:32,,,Kizer AWAY.FROM.PLAY.FOUL (P2.PN),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,296,3,10,3,9:23 PM,1:32,Harrison Free Throw 1 of 1 (6 PTS),,,61 - 35,-26,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,318,2,45,3,9:23 PM,1:16,,,MISS Bentley 8' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,298,4,0,3,9:23 PM,1:16,Montgomery REBOUND (Off:1 Def:5),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,299,2,1,3,9:23 PM,1:06,MISS Colson 15' Jump Shot,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,300,4,0,3,9:23 PM,1:06,,,Pedersen REBOUND (Off:1 Def:1),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,301,6,1,3,9:24 PM,1:06,Harrison P.FOUL (P2.T4),,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,302,2,5,3,9:24 PM,0:51,,,MISS Bentley 1' Layup,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,303,4,0,3,9:24 PM,0:50,Harrison REBOUND (Off:0 Def:2),,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,304,6,26,3,9:24 PM,0:46,Colson Offensive Charge Foul (P2),,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,305,5,5,3,9:24 PM,0:46,Colson Foul Turnover (P1.T19),,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021700090,306,2,1,3,9:24 PM,0:25,,,MISS Banham 25' 3PT Jump Shot,,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,307,4,0,3,9:25 PM,0:24,,,Kizer REBOUND (Off:1 Def:3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,308,2,80,3,9:25 PM,0:08,,,MISS Bentley 15' Step Back Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,309,4,0,3,9:25 PM,0:07,,,Kizer REBOUND (Off:2 Def:3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,310,1,72,3,9:25 PM,0:06,,,Kizer 2' Putback Layup (6 PTS),63 - 35,-28,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,311,6,1,3,9:25 PM,0:02,,,Bentley P.FOUL (P2.PN),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,312,3,11,3,9:25 PM,0:02,Colson Free Throw 1 of 2 (7 PTS),,,63 - 36,-27,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,314,3,12,3,9:26 PM,0:02,MISS Colson Free Throw 2 of 2,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,316,4,0,3,9:26 PM,0:00,,,Pedersen REBOUND (Off:1 Def:2),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,317,13,0,3,9:26 PM,0:00,,End of 3rd Period (9:26 PM EST),,63 - 36,-27,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,320,12,0,4,9:28 PM,10:00,,Start of 4th Period (9:28 PM EST),,63 - 36,-27,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,321,2,78,4,9:28 PM,9:43,MISS Colson 10' Floating Jump Shot,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,322,4,0,4,9:28 PM,9:39,,,Bentley REBOUND (Off:0 Def:3),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,323,5,1,4,9:29 PM,9:35,Colson STEAL (1 STL),,Stricklen Bad Pass Turnover (P2.T10),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,324,1,44,4,9:29 PM,9:30,Plum 2' Reverse Layup (6 PTS) (Colson 1 AST),,,63 - 38,-25,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,325,6,1,4,9:29 PM,9:13,Colson P.FOUL (P3.T1),,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,326,1,5,4,9:29 PM,8:59,,,Kizer 1' Layup (8 PTS),65 - 38,-27,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,327,6,1,4,9:30 PM,8:51,,,Banham P.FOUL (P2.T1),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,328,8,0,4,9:30 PM,8:51,,,SUB: B. Jones FOR Pedersen,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,329,8,0,4,9:30 PM,8:51,SUB: Hamby FOR Harrison,,,,,4.0,204330,Isabelle Harrison,1611661319.0,San Antonio,Stars,SAN,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,331,2,1,4,9:30 PM,8:37,MISS McBride 24' 3PT Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,332,4,0,4,9:30 PM,8:36,,,Banham REBOUND (Off:0 Def:2),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,333,2,1,4,9:31 PM,8:27,,,MISS Stricklen 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,334,4,0,4,9:31 PM,8:26,,,Bentley REBOUND (Off:1 Def:3),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,335,2,1,4,9:31 PM,8:17,,,MISS Kizer 17' Jump Shot,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,336,4,0,4,9:31 PM,8:16,Plum REBOUND (Off:0 Def:1),,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,337,2,1,4,9:31 PM,8:05,MISS McBride 20' Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,338,4,0,4,9:31 PM,8:04,Coffey REBOUND (Off:2 Def:1),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,339,6,3,4,9:31 PM,8:04,,,B. Jones L.B.FOUL (P1.T2),,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,340,8,0,4,9:31 PM,8:04,SUB: Alexander FOR Hamby,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,341,6,1,4,9:32 PM,7:53,,,Kizer P.FOUL (P3.T3),,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,342,2,1,4,9:32 PM,7:49,MISS Colson 25' 3PT Jump Shot,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,343,4,0,4,9:32 PM,7:49,,,Stricklen REBOUND (Off:0 Def:2),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,344,2,79,4,9:32 PM,7:40,,,MISS Banham 19' Pullup Jump Shot,,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,345,4,0,4,9:32 PM,7:37,Coffey REBOUND (Off:2 Def:2),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,346,1,98,4,9:32 PM,7:28,Coffey 1' Cutting Layup Shot (2 PTS) (Colson 2 AST),,,65 - 40,-25,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,348,2,3,4,9:33 PM,7:04,,,MISS B. Jones 4' Hook Shot,,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,349,4,0,4,9:33 PM,7:02,Coffey REBOUND (Off:2 Def:3),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,350,2,42,4,9:33 PM,6:53,MISS Colson 1' Driving Layup,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,351,4,0,4,9:33 PM,6:53,Coffey REBOUND (Off:3 Def:3),,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,352,6,3,4,9:33 PM,6:53,,,B. Jones L.B.FOUL (P2.T4),,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,353,8,0,4,9:33 PM,6:53,,,SUB: J. Jones FOR Kizer,,,5.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,354,8,0,4,9:34 PM,6:53,,,SUB: A. Thomas FOR B. Jones,,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,355,8,0,4,9:34 PM,6:53,SUB: Brunner FOR Coffey,,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,4,1628265,Sophie Brunner,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,356,7,1,4,9:34 PM,6:53,STARS Violation: Delay of game Violation,,,,,2.0,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700090,357,1,78,4,9:34 PM,6:46,Colson 12' Floating Jump Shot (9 PTS),,,65 - 42,-23,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,358,1,1,4,9:34 PM,6:31,,,Banham 24' 3PT Jump Shot (3 PTS) (Bentley 1 AST),68 - 42,-26,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,359,6,1,4,9:34 PM,6:19,,,Stricklen P.FOUL (P1.PN),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,360,3,11,4,9:35 PM,6:19,McBride Free Throw 1 of 2 (11 PTS),,,68 - 43,-25,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,362,8,0,4,9:35 PM,6:19,,,SUB: B. Jones FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,363,8,0,4,9:35 PM,6:19,,,SUB: Williams FOR Bentley,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,364,3,12,4,9:35 PM,6:19,McBride Free Throw 2 of 2 (12 PTS),,,68 - 44,-24,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021700090,366,1,98,4,9:36 PM,6:05,,,B. Jones Cutting Layup Shot (2 PTS) (Banham 2 AST),70 - 44,-26,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,367,2,66,4,9:36 PM,5:39,MISS Plum 15' Jump Bank Shot,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,368,4,0,4,9:36 PM,5:39,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,369,5,11,4,9:36 PM,5:39,STARS Turnover: Shot Clock (T#20),,,,,2.0,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700090,370,9,4,4,9:36 PM,5:39,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,371,8,0,4,9:38 PM,5:39,,,SUB: Bentley FOR J. Jones,,,5.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,372,8,0,4,9:39 PM,5:39,,,SUB: Adams FOR A. Thomas,,,5.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700090,373,8,0,4,9:39 PM,5:39,SUB: Murphy FOR McBride,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,374,6,4,4,9:39 PM,5:32,,,Adams OFF.Foul (P1),,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,375,5,5,4,9:39 PM,5:32,,,Adams Foul Turnover (P1.T11),,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700090,376,1,1,4,9:39 PM,5:17,Colson 19' Jump Shot (11 PTS),,,70 - 46,-24,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,377,1,1,4,9:39 PM,5:01,,,Adams 3PT Jump Shot (3 PTS) (Bentley 2 AST),73 - 46,-27,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,378,1,1,4,9:40 PM,4:52,Murphy 24' 3PT Jump Shot (3 PTS) (Plum 2 AST),,,73 - 49,-24,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,379,1,5,4,9:40 PM,4:33,,,B. Jones 1' Layup (4 PTS) (Adams 1 AST),75 - 49,-26,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,380,6,2,4,9:40 PM,4:33,Brunner S.FOUL (P1.T2),,,,,4.0,1628265,Sophie Brunner,1611661319.0,San Antonio,Stars,SAN,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,381,8,0,4,9:40 PM,4:33,SUB: Coffey FOR Brunner,,,,,4.0,1628265,Sophie Brunner,1611661319.0,San Antonio,Stars,SAN,4,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021700090,382,3,10,4,9:40 PM,4:33,,,B. Jones Free Throw 1 of 1 (5 PTS),76 - 49,-27,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,384,2,1,4,9:41 PM,4:16,MISS Coffey 18' Jump Shot,,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,385,4,0,4,9:41 PM,4:15,,,Banham REBOUND (Off:0 Def:3),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,386,2,1,4,9:41 PM,4:06,,,MISS Adams 24' 3PT Jump Shot,,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,387,4,0,4,9:41 PM,4:05,Plum REBOUND (Off:0 Def:2),,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,388,2,1,4,9:41 PM,3:59,MISS Colson 25' 3PT Jump Shot,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,389,4,0,4,9:41 PM,3:58,Alexander REBOUND (Off:1 Def:3),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,390,2,1,4,9:41 PM,3:50,MISS Plum 17' Jump Shot,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,391,4,0,4,9:41 PM,3:50,,,Bentley REBOUND (Off:1 Def:4),,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,392,2,1,4,9:41 PM,3:39,,,MISS Adams 3PT Jump Shot,,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,393,4,0,4,9:41 PM,3:39,,,B. Jones REBOUND (Off:1 Def:0),,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,394,6,4,4,9:41 PM,3:39,,,B. Jones OFF.Foul (P3),,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021700090,395,5,5,4,9:41 PM,3:39,,,B. Jones Foul Turnover (P1.T12),,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700090,396,2,1,4,9:42 PM,3:13,MISS Murphy 20' Jump Shot,,,,,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,397,4,0,4,9:42 PM,3:12,,,Williams REBOUND (Off:1 Def:2),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,398,1,79,4,9:42 PM,3:04,,,Williams 16' Pullup Jump Shot (17 PTS),78 - 49,-29,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,400,9,1,4,9:43 PM,2:52,,,Sun Timeout: Regular (Reg.2 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,401,2,1,4,9:45 PM,2:46,MISS Coffey 17' Jump Shot,,,,,4.0,1628269,Nia Coffey,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,402,4,0,4,9:45 PM,2:46,,,Banham REBOUND (Off:0 Def:4),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,403,1,1,4,9:45 PM,2:31,,,Banham 24' 3PT Jump Shot (6 PTS) (Williams 2 AST),81 - 49,-32,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,404,2,1,4,9:45 PM,2:19,MISS Plum 3PT Jump Shot,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,405,4,0,4,9:45 PM,2:18,,,Williams REBOUND (Off:1 Def:3),,,5.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,406,10,0,4,9:46 PM,2:09,Jump Ball Colson vs. B. Jones: Tip to Bentley,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1
+1021700090,407,1,1,4,9:46 PM,2:01,,,Adams 24' 3PT Jump Shot (6 PTS) (Bentley 3 AST),84 - 49,-35,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,5,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,408,1,1,4,9:47 PM,1:48,Plum 3PT Jump Shot (9 PTS) (Colson 3 AST),,,84 - 52,-32,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,409,5,1,4,9:47 PM,1:35,Murphy STEAL (1 STL),,Banham Bad Pass Turnover (P1.T13),,,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,4,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021700090,410,1,76,4,9:47 PM,1:32,Murphy Running Finger Roll Layup (5 PTS),,,84 - 54,-30,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,411,6,2,4,9:47 PM,1:15,Alexander S.FOUL (P2.T3),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,5,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700090,412,3,11,4,9:47 PM,1:15,,,B. Jones Free Throw 1 of 2 (6 PTS),85 - 54,-31,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,414,3,12,4,9:48 PM,1:15,,,B. Jones Free Throw 2 of 2 (7 PTS),86 - 54,-32,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700090,416,2,1,4,9:48 PM,0:59,MISS Plum 18' Jump Shot,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,417,4,0,4,9:48 PM,0:58,,,B. Jones REBOUND (Off:1 Def:1),,,5.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,418,2,63,4,9:48 PM,0:42,,,MISS Adams 14' Fadeaway Jumper,,,5.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,419,4,0,4,9:48 PM,0:40,Murphy REBOUND (Off:0 Def:1),,,,,4.0,201062,Shay Murphy,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,420,2,5,4,9:48 PM,0:34,MISS Plum 1' Layup,,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,422,4,0,4,9:49 PM,0:32,Plum REBOUND (Off:1 Def:2),,,,,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,421,1,72,4,9:49 PM,0:32,Plum 2' Putback Layup (11 PTS),,,86 - 56,-30,4.0,1628276,Kelsey Plum,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021700090,423,1,1,4,9:49 PM,0:16,,,Banham 3PT Jump Shot (9 PTS) (Adams 2 AST),89 - 56,-33,5.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,5,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,424,5,1,4,9:49 PM,0:01,Colson Bad Pass Turnover (P2.T21),,Williams STEAL (1 STL),,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700090,425,2,1,4,9:49 PM,0:01,,,MISS Bentley 15' Jump Shot,,,5.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700090,426,4,0,4,9:49 PM,0:00,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700090,427,13,0,4,9:49 PM,0:00,,End of 4th Period (9:49 PM EST),,89 - 56,-33,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

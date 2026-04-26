@@ -1,0 +1,358 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021900103,2,12,0,1,8:10 PM,10:00,,Start of 1st Period (8:10 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,4,10,0,1,8:10 PM,10:00,Jump Ball Fowles vs. Howard: Tip to Sims,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1
+1021900103,7,5,1,1,8:10 PM,9:45,Sims Bad Pass Turnover (P1.T1),,Clark STEAL (1 STL),,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,9,1,1,1,8:10 PM,9:38,,,Howard 24' 3PT Jump Shot (3 PTS) (Clark 1 AST),3 - 0,-3,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,11,1,1,1,8:10 PM,9:23,Robinson 16' Jump Shot (2 PTS) (Collier 1 AST),,,3 - 2,-1,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,13,1,79,1,8:11 PM,9:07,,,Whitcomb 26' 3PT Pullup Jump Shot (3 PTS) (Russell 1 AST),6 - 2,-4,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,15,1,5,1,8:11 PM,8:48,Fowles 1' Layup (2 PTS) (Collier 2 AST),,,6 - 4,-2,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,17,1,79,1,8:11 PM,8:26,,,Whitcomb 25' 3PT Pullup Jump Shot (6 PTS),9 - 4,-5,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,18,2,1,1,8:12 PM,8:06,MISS Robinson 16' Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,19,4,0,1,8:12 PM,8:02,,,Clark REBOUND (Off:0 Def:1),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,20,1,79,1,8:12 PM,7:53,,,Clark 19' Pullup Jump Shot (2 PTS),11 - 4,-7,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,21,9,1,1,8:12 PM,7:43,LYNX Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,22,6,1,1,8:15 PM,7:36,,,Russell P.FOUL (P1.T1),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1021900103,24,2,6,1,8:15 PM,7:32,MISS Robinson 2' Driving Layup,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,25,4,0,1,8:15 PM,7:29,Fowles REBOUND (Off:1 Def:0),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,26,2,5,1,8:15 PM,7:27,MISS Fowles 1' Layup,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,27,4,0,1,8:15 PM,7:25,Collier REBOUND (Off:1 Def:0),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,28,10,0,1,8:15 PM,7:22,Jump Ball Collier vs. Canada: Tip to Clark,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1
+1021900103,31,5,2,1,8:15 PM,7:22,Collier Lost Ball Turnover (P1.T2),,Canada STEAL (1 STL),,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,33,1,98,1,8:15 PM,7:17,,,Howard 2' Cutting Layup Shot (5 PTS) (Whitcomb 1 AST),13 - 4,-9,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,35,2,78,1,8:16 PM,7:06,MISS Sims 6' Floating Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,36,4,0,1,8:16 PM,7:03,,,Russell REBOUND (Off:0 Def:1),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,37,2,79,1,8:16 PM,6:57,,,MISS Canada 19' Pullup Jump Shot,,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,38,4,0,1,8:16 PM,6:55,Collier REBOUND (Off:1 Def:1),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,39,2,1,1,8:16 PM,6:51,MISS Collier 7' Jump Shot,,Howard BLOCK (1 BLK),,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1
+1021900103,40,4,0,1,8:16 PM,6:48,,,Storm Rebound,,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,42,8,0,1,8:16 PM,6:48,SUB: Fagbenle FOR Talbot,,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,4,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,44,1,6,1,8:16 PM,6:40,,,Howard 1' Driving Layup (7 PTS),15 - 4,-11,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,45,2,1,1,8:17 PM,6:18,MISS Sims 3PT Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,46,4,0,1,8:17 PM,6:15,Fagbenle REBOUND (Off:1 Def:0),,,,,4.0,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,47,1,1,1,8:17 PM,6:10,Fowles 15' Jump Shot (4 PTS) (Sims 1 AST),,,15 - 6,-9,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,49,1,5,1,8:17 PM,5:58,,,Russell 3' Layup (2 PTS) (Canada 1 AST),17 - 6,-11,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,51,8,0,1,8:18 PM,5:36,SUB: Brown FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,4,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,53,10,0,1,8:18 PM,5:33,Jump Ball Sims vs. Howard: Tip to Clark,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1
+1021900103,56,5,2,1,8:18 PM,5:33,Sims Lost Ball Turnover (P2.T3),,Howard STEAL (1 STL),,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,58,2,1,1,8:18 PM,5:31,,,MISS Whitcomb 24' 3PT Jump Shot,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,59,4,0,1,8:18 PM,5:26,Brown REBOUND (Off:0 Def:1),,,,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,60,6,2,1,8:18 PM,5:20,,,Clark S.FOUL (P1.T2),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,62,3,11,1,8:19 PM,5:20,Collier Free Throw 1 of 2 (1 PTS),,,17 - 7,-10,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,63,3,12,1,8:19 PM,5:20,Collier Free Throw 2 of 2 (2 PTS),,,17 - 8,-9,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,64,1,5,1,8:19 PM,5:03,,,Clark 2' Layup (4 PTS),19 - 8,-11,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,65,2,105,1,8:19 PM,4:40,MISS Collier 10' Turnaround Fadeaway Bank Jump Shot,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,66,4,0,1,8:20 PM,4:38,,,Storm Rebound,,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,68,2,5,1,8:20 PM,4:25,,,MISS Howard 9' Layup,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,69,4,0,1,8:20 PM,4:21,Fowles REBOUND (Off:1 Def:1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,70,2,6,1,8:20 PM,4:16,MISS Sims 8' Driving Layup,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,71,4,0,1,8:20 PM,4:13,,,Canada REBOUND (Off:0 Def:1),,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,72,2,1,1,8:20 PM,4:08,,,MISS Howard 25' 3PT Jump Shot,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,73,4,0,1,8:20 PM,4:07,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,75,8,0,1,8:20 PM,4:07,SUB: Robinson FOR Sims,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,77,2,1,1,8:21 PM,3:58,MISS Brown 3PT Jump Shot,,,,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,78,4,0,1,8:21 PM,3:56,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,80,2,1,1,8:21 PM,3:53,MISS Collier 3PT Jump Shot,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,81,4,0,1,8:21 PM,3:49,,,Howard REBOUND (Off:0 Def:1),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,82,2,1,1,8:21 PM,3:43,,,MISS Howard 25' 3PT Jump Shot,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,83,4,0,1,8:21 PM,3:39,Robinson REBOUND (Off:0 Def:1),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,85,2,1,1,8:22 PM,3:27,MISS Collier 10' Jump Shot,,Russell BLOCK (1 BLK),,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1
+1021900103,87,4,0,1,8:22 PM,3:24,,,Russell REBOUND (Off:0 Def:2),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,88,2,5,1,8:22 PM,3:13,,,MISS Clark 2' Layup,,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,89,4,0,1,8:22 PM,3:10,,,Howard REBOUND (Off:1 Def:1),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,90,6,2,1,8:22 PM,3:10,Collier S.FOUL (P1.T1),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,92,3,11,1,8:22 PM,3:10,,,Howard Free Throw 1 of 2 (8 PTS),20 - 8,-12,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,93,8,0,1,8:22 PM,3:10,SUB: Taylor FOR Collier,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,94,8,0,1,8:22 PM,3:10,SUB: Talbot FOR Fowles,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,95,8,0,1,8:22 PM,3:10,,,SUB: Mosqueda-Lewis FOR Whitcomb,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,5,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,99,3,12,1,8:23 PM,3:10,,,Howard Free Throw 2 of 2 (9 PTS),21 - 8,-13,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,100,1,6,1,8:23 PM,2:55,Robinson 1' Driving Layup (4 PTS),,,21 - 10,-11,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,101,5,4,1,8:23 PM,2:45,,,Clark Traveling Turnover (P1.T1),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,102,8,0,1,8:23 PM,2:45,,,SUB: Langhorne FOR Russell,,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,104,2,1,1,8:24 PM,2:31,MISS Brown 27' 3PT Jump Shot,,,,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,105,4,0,1,8:24 PM,2:28,Taylor REBOUND (Off:1 Def:0),,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,106,1,6,1,8:24 PM,2:23,Robinson 2' Driving Layup (6 PTS),,,21 - 12,-9,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,107,6,1,1,8:24 PM,2:14,Taylor P.FOUL (P1.T2),,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,109,8,0,1,8:24 PM,2:14,,,SUB: Zellous FOR Clark,,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,111,2,79,1,8:25 PM,2:03,,,MISS Mosqueda-Lewis 15' Pullup Jump Shot,,,5.0,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,112,4,0,1,8:25 PM,2:02,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,114,1,1,1,8:25 PM,1:49,Brown 17' Jump Shot (2 PTS) (Taylor 1 AST),,,21 - 14,-7,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,116,1,79,1,8:25 PM,1:38,,,Canada 18' Pullup Jump Shot (2 PTS),23 - 14,-9,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,117,2,1,1,8:26 PM,1:08,MISS Robinson 14' Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,118,4,0,1,8:26 PM,1:05,,,Canada REBOUND (Off:0 Def:2),,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,119,2,5,1,8:26 PM,1:02,,,MISS Zellous 2' Layup,,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,120,4,0,1,8:26 PM,1:00,Taylor REBOUND (Off:1 Def:1),,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,121,6,2,1,8:26 PM,0:57,,,Mosqueda-Lewis S.FOUL (P1.T3),,,5.0,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,4,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,123,3,11,1,8:26 PM,0:57,Taylor Free Throw 1 of 2 (1 PTS),,,23 - 15,-8,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,124,8,0,1,8:26 PM,0:57,SUB: Sims FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,125,8,0,1,8:26 PM,0:57,,,SUB: Dietrick FOR Mosqueda-Lewis,,,5.0,204321,Kaleena Mosqueda-Lewis,1611661328.0,Seattle,Storm,SEA,5,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,128,3,12,1,8:27 PM,0:57,Taylor Free Throw 2 of 2 (2 PTS),,,23 - 16,-7,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,129,2,1,1,8:27 PM,0:35,,,MISS Dietrick 24' 3PT Jump Shot,,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,130,4,0,1,8:27 PM,0:32,Talbot REBOUND (Off:0 Def:1),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,131,2,1,1,8:27 PM,0:22,MISS Sims 3PT Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,132,4,0,1,8:27 PM,0:19,,,Howard REBOUND (Off:1 Def:2),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,133,1,1,1,8:28 PM,0:01,,,Zellous 25' 3PT Jump Shot (3 PTS) (Langhorne 1 AST),26 - 16,-10,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,135,13,0,1,8:28 PM,0:00,,End of 1st Period (8:28 PM EST),,26 - 16,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1021900103,142,12,0,2,8:30 PM,10:00,,Start of 2nd Period (8:30 PM EST),,26 - 16,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,143,5,2,2,8:30 PM,9:38,Talbot STEAL (1 STL),,Langhorne Lost Ball Turnover (P1.T2),,,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,4,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,145,1,1,2,8:31 PM,9:32,Talbot 24' 3PT Jump Shot (3 PTS) (Sims 2 AST),,,26 - 19,-7,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,147,1,79,2,8:31 PM,9:05,,,Zellous 19' Pullup Jump Shot (5 PTS),28 - 19,-9,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,148,6,1,2,8:31 PM,8:50,,,Paris P.FOUL (P1.T1),,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,150,2,1,2,8:32 PM,8:43,MISS Taylor 17' Jump Shot,,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,151,4,0,2,8:32 PM,8:39,,,Zellous REBOUND (Off:0 Def:1),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,152,2,1,2,8:32 PM,8:30,,,MISS Langhorne 25' 3PT Jump Shot,,,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,153,4,0,2,8:32 PM,8:26,Talbot REBOUND (Off:0 Def:2),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,154,2,47,2,8:32 PM,8:21,MISS Sims 7' Turnaround Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,155,4,0,2,8:32 PM,8:17,,,Dietrick REBOUND (Off:0 Def:1),,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,156,5,1,2,8:32 PM,8:10,Taylor STEAL (1 STL),,Whitcomb Bad Pass Turnover (P1.T3),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,4,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,158,5,1,2,8:32 PM,8:06,Taylor Bad Pass Turnover (P1.T4),,Langhorne STEAL (1 STL),,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,160,1,5,2,8:33 PM,8:01,,,Langhorne 2' Layup (2 PTS),30 - 19,-11,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,161,5,1,2,8:33 PM,7:52,Taylor Bad Pass Turnover (P2.T5),,Paris STEAL (1 STL),,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,5,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,163,1,1,2,8:33 PM,7:45,,,Whitcomb 24' 3PT Jump Shot (9 PTS) (Zellous 1 AST),33 - 19,-14,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,164,9,1,2,8:33 PM,7:35,LYNX Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,166,8,0,2,8:35 PM,7:35,SUB: Robinson FOR Brown,,,,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,167,8,0,2,8:35 PM,7:35,SUB: Collier FOR Taylor,,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,170,6,1,2,8:36 PM,7:22,,,Paris P.FOUL (P2.T2),,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,172,2,1,2,8:36 PM,7:15,MISS Talbot 3PT Jump Shot,,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,173,4,0,2,8:36 PM,7:12,,,Paris REBOUND (Off:0 Def:1),,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,174,5,40,2,8:36 PM,6:59,,,Zellous Out of Bounds Lost Ball Turnover (P1.T4),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,175,1,79,2,8:36 PM,6:53,Sims 10' Pullup Jump Shot (2 PTS) (Robinson 1 AST),,,33 - 21,-12,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,177,5,1,2,8:37 PM,6:36,Sims STEAL (1 STL),,Whitcomb Bad Pass Turnover (P2.T5),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,179,6,1,2,8:37 PM,6:36,,,Zellous P.FOUL (P1.T3),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,181,8,0,2,8:37 PM,6:36,,,SUB: Clark FOR Paris,,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,182,8,0,2,8:37 PM,6:36,,,SUB: Howard FOR Dietrick,,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,185,1,5,2,8:37 PM,6:26,Fowles Layup (6 PTS) (Sims 3 AST),,,33 - 23,-10,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,187,9,1,2,8:37 PM,6:20,,,Storm Timeout: Regular (Reg.1 Short 0),,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,188,8,0,2,8:39 PM,6:20,,,SUB: Russell FOR Langhorne,,,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,189,8,0,2,8:39 PM,6:20,,,SUB: Canada FOR Zellous,,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,192,6,1,2,8:40 PM,6:07,Fowles P.FOUL (P1.T1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,194,1,98,2,8:40 PM,6:00,,,Russell 2' Cutting Layup Shot (4 PTS) (Clark 2 AST),35 - 23,-12,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,196,2,1,2,8:41 PM,5:38,MISS Robinson 3' Jump Shot,,Canada BLOCK (1 BLK),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,1
+1021900103,198,4,0,2,8:41 PM,5:34,Robinson REBOUND (Off:1 Def:1),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,199,2,63,2,8:41 PM,5:32,MISS Fowles 6' Fadeaway Jumper,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,200,4,0,2,8:41 PM,5:32,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,201,5,11,2,8:41 PM,5:32,LYNX Turnover: Shot Clock (T#6),,,,,2.0,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,202,2,1,2,8:41 PM,5:17,,,MISS Whitcomb 24' 3PT Jump Shot,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,203,4,0,2,8:41 PM,5:13,Robinson REBOUND (Off:1 Def:2),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,204,1,5,2,8:41 PM,5:10,Robinson 1' Layup (8 PTS),,,35 - 25,-10,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,205,5,45,2,8:42 PM,4:51,,,Whitcomb Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,206,2,1,2,8:42 PM,4:39,MISS Robinson 16' Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,207,4,0,2,8:42 PM,4:36,Collier REBOUND (Off:2 Def:1),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,208,2,1,2,8:42 PM,4:32,MISS Collier 13' Jump Shot,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,209,4,0,2,8:42 PM,4:30,,,Howard REBOUND (Off:1 Def:3),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,210,6,2,2,8:42 PM,4:29,Talbot S.FOUL (P1.T2),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,212,3,11,2,8:43 PM,4:29,,,Russell Free Throw 1 of 2 (5 PTS),36 - 25,-11,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,213,3,12,2,8:43 PM,4:29,,,Russell Free Throw 2 of 2 (6 PTS),37 - 25,-12,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,214,5,1,2,8:43 PM,4:17,Collier Bad Pass Turnover (P2.T7),,Clark STEAL (2 STL),,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,216,1,1,2,8:43 PM,4:09,,,Clark 25' 3PT Jump Shot (7 PTS) (Whitcomb 2 AST),40 - 25,-15,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,218,1,98,2,8:44 PM,3:55,Robinson 1' Cutting Layup Shot (10 PTS) (Fowles 1 AST),,,40 - 27,-13,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,220,2,5,2,8:44 PM,3:39,,,MISS Howard 2' Layup,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,221,4,0,2,8:44 PM,3:36,Collier REBOUND (Off:2 Def:2),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,222,2,1,2,8:44 PM,3:32,MISS Sims 12' Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,223,4,0,2,8:44 PM,3:32,Fowles REBOUND (Off:2 Def:1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,224,1,72,2,8:44 PM,3:31,Fowles 1' Putback Layup (8 PTS),,,40 - 29,-11,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,225,6,2,2,8:44 PM,3:31,,,Whitcomb S.FOUL (P1.T4),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,227,8,0,2,8:44 PM,3:31,SUB: Fagbenle FOR Collier,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,229,3,10,2,8:44 PM,3:31,Fowles Free Throw 1 of 1 (9 PTS),,,40 - 30,-10,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,230,1,78,2,8:45 PM,3:17,,,Howard 12' Floating Jump Shot (11 PTS) (Whitcomb 3 AST),42 - 30,-12,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,232,6,1,2,8:45 PM,3:08,,,Russell P.FOUL (P2.PN),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,234,3,11,2,8:45 PM,3:08,MISS Fowles Free Throw 1 of 2,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,235,4,1,2,8:45 PM,3:08,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,236,3,12,2,8:46 PM,3:08,Fowles Free Throw 2 of 2 (10 PTS),,,42 - 31,-11,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,237,2,47,2,8:46 PM,3:01,,,MISS Canada 7' Turnaround Jump Shot,,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,238,4,0,2,8:46 PM,2:59,,,Howard REBOUND (Off:2 Def:3),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,239,5,45,2,8:46 PM,2:59,,,Howard Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,240,1,1,2,8:46 PM,2:44,Talbot 3PT Jump Shot (6 PTS) (Fowles 2 AST),,,42 - 34,-8,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,242,9,1,2,8:47 PM,2:34,,,Storm Timeout: Regular (Reg.2 Short 0),,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,243,5,9,2,8:48 PM,2:34,,,Storm Turnover: 5 Second Violation (T#8),,,3.0,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,244,1,5,2,8:49 PM,2:24,Fowles 3' Layup (12 PTS) (Robinson 2 AST),,,42 - 36,-6,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,246,1,75,2,8:49 PM,2:15,,,Canada 2' Driving Finger Roll Layup (4 PTS),44 - 36,-8,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,247,5,1,2,8:49 PM,2:08,Robinson Bad Pass Turnover (P1.T8),,Clark STEAL (3 STL),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,249,2,1,2,8:49 PM,1:54,,,MISS Howard 20' Jump Shot,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,250,4,0,2,8:49 PM,1:51,Sims REBOUND (Off:0 Def:1),,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,251,2,6,2,8:49 PM,1:47,MISS Sims 2' Driving Layup,,Whitcomb BLOCK (1 BLK),,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,1
+1021900103,253,4,0,2,8:49 PM,1:47,LYNX Rebound,,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,255,2,1,2,8:50 PM,1:43,MISS Sims 24' 3PT Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,256,4,0,2,8:50 PM,1:41,,,Canada REBOUND (Off:0 Def:3),,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,257,6,1,2,8:50 PM,1:34,Talbot P.FOUL (P2.T3),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,259,8,0,2,8:50 PM,1:34,SUB: Brown FOR Sims,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,261,2,98,2,8:51 PM,1:26,,,MISS Russell 2' Cutting Layup Shot,,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,262,4,0,2,8:51 PM,1:23,Fagbenle REBOUND (Off:1 Def:1),,,,,4.0,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,263,5,1,2,8:51 PM,1:17,Robinson Bad Pass Turnover (P2.T9),,Howard STEAL (2 STL),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,265,1,5,2,8:51 PM,1:09,,,Howard 1' Layup (13 PTS) (Canada 2 AST),46 - 36,-10,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,267,1,79,2,8:51 PM,0:55,Brown 20' Pullup Jump Shot (4 PTS) (Fagbenle 1 AST),,,46 - 38,-8,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,268,1,79,2,8:51 PM,0:47,,,Whitcomb 25' 3PT Pullup Jump Shot (12 PTS),49 - 38,-11,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,270,1,79,2,8:52 PM,0:31,Talbot 21' Pullup Jump Shot (8 PTS),,,49 - 40,-9,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,271,6,1,2,8:52 PM,0:13,Fowles P.FOUL (P2.PN),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,273,3,11,2,8:52 PM,0:13,,,MISS Russell Free Throw 1 of 2,,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,274,4,1,2,8:52 PM,0:13,,,Storm Rebound,,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,275,8,0,2,8:52 PM,0:13,,,SUB: Dietrick FOR Canada,,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,277,3,12,2,8:53 PM,0:13,,,Russell Free Throw 2 of 2 (7 PTS),50 - 40,-10,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,278,2,5,2,8:53 PM,0:06,MISS Robinson 1' Layup,,Russell BLOCK (2 BLK),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1
+1021900103,280,4,0,2,8:53 PM,0:02,,,Clark REBOUND (Off:0 Def:2),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,281,2,1,2,8:53 PM,0:00,,,MISS Whitcomb 48' 3PT Jump Shot,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,282,4,0,2,8:53 PM,0:00,,,Storm Rebound,,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,283,13,0,2,8:54 PM,0:00,,End of 2nd Period (8:54 PM EST),,50 - 40,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1021900103,291,12,0,3,9:08 PM,10:00,,Start of 3rd Period (9:08 PM EST),,50 - 40,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,292,6,1,3,9:08 PM,9:43,Fowles P.FOUL (P3.T1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,294,2,5,3,9:09 PM,9:31,,,MISS Russell 4' Layup,,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,295,4,0,3,9:09 PM,9:28,Talbot REBOUND (Off:0 Def:3),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,296,1,98,3,9:09 PM,9:10,Collier 3' Cutting Layup Shot (4 PTS) (Fowles 3 AST),,,50 - 42,-8,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,298,1,6,3,9:09 PM,8:58,,,Howard 1' Driving Layup (15 PTS),52 - 42,-10,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,299,2,1,3,9:10 PM,8:45,MISS Collier 24' 3PT Jump Shot,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,300,4,0,3,9:10 PM,8:43,Robinson REBOUND (Off:2 Def:2),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,302,2,1,3,9:10 PM,8:29,MISS Talbot 5' Jump Shot,,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,303,4,0,3,9:10 PM,8:25,,,Russell REBOUND (Off:0 Def:3),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,304,1,98,3,9:10 PM,8:18,,,Howard 1' Cutting Layup Shot (17 PTS) (Canada 3 AST),54 - 42,-12,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,306,2,1,3,9:10 PM,8:02,MISS Collier 18' Jump Shot,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,307,4,0,3,9:11 PM,7:58,,,Russell REBOUND (Off:0 Def:4),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,308,2,1,3,9:11 PM,7:50,,,MISS Clark 3PT Jump Shot,,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,309,4,0,3,9:11 PM,7:47,Robinson REBOUND (Off:2 Def:3),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,310,2,6,3,9:11 PM,7:41,MISS Robinson 1' Driving Layup,,Howard BLOCK (2 BLK),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1
+1021900103,312,4,0,3,9:11 PM,7:38,,,Russell REBOUND (Off:0 Def:5),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,313,2,6,3,9:11 PM,7:34,,,MISS Canada 3' Driving Layup,,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,314,4,0,3,9:11 PM,7:32,,,Clark REBOUND (Off:1 Def:2),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,315,2,41,3,9:11 PM,7:19,,,MISS Howard 11' Running Layup,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,316,4,0,3,9:11 PM,7:18,Talbot REBOUND (Off:0 Def:4),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,317,2,1,3,9:12 PM,7:01,MISS Collier 24' 3PT Jump Shot,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,318,4,0,3,9:12 PM,6:59,,,Russell REBOUND (Off:0 Def:6),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,319,2,1,3,9:12 PM,6:52,,,MISS Clark 3PT Jump Shot,,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,320,4,0,3,9:12 PM,6:49,,,Howard REBOUND (Off:3 Def:3),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,321,1,5,3,9:12 PM,6:39,,,Howard 1' Layup (19 PTS) (Whitcomb 4 AST),56 - 42,-14,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,322,6,2,3,9:12 PM,6:39,Robinson S.FOUL (P1.T2),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,324,9,1,3,9:12 PM,6:39,LYNX Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,326,8,0,3,9:14 PM,6:39,SUB: Brown FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,4,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,327,8,0,3,9:14 PM,6:39,SUB: Fagbenle FOR Collier,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,330,3,10,3,9:15 PM,6:39,,,Howard Free Throw 1 of 1 (20 PTS),57 - 42,-15,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,331,2,1,3,9:15 PM,6:18,MISS Fagbenle 24' 3PT Jump Shot,,,,,4.0,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,332,4,0,3,9:15 PM,6:15,,,Clark REBOUND (Off:1 Def:3),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,333,1,1,3,9:15 PM,6:00,,,Canada 3PT Jump Shot (7 PTS) (Clark 3 AST),60 - 42,-18,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,335,1,5,3,9:16 PM,5:42,Fowles 2' Layup (14 PTS) (Sims 4 AST),,,60 - 44,-16,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,337,6,26,3,9:16 PM,5:31,,,Russell Offensive Charge Foul (P3.T1),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,339,5,37,3,9:16 PM,5:31,,,Russell Offensive Foul Turnover (P1.T9),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,340,5,1,3,9:16 PM,5:19,Sims Bad Pass Turnover (P3.T10),,Whitcomb STEAL (1 STL),,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,342,6,26,3,9:17 PM,5:16,,,Howard Offensive Charge Foul (P1.T2),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,344,5,37,3,9:17 PM,5:16,,,Howard Offensive Foul Turnover (P2.T10),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,345,1,1,3,9:17 PM,4:57,Brown 24' 3PT Jump Shot (7 PTS) (Fowles 4 AST),,,60 - 47,-13,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,347,1,1,3,9:17 PM,4:43,,,Canada 25' 3PT Jump Shot (10 PTS) (Whitcomb 5 AST),63 - 47,-16,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,349,2,6,3,9:18 PM,4:31,MISS Sims 3' Driving Layup,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,350,4,0,3,9:18 PM,4:28,Fowles REBOUND (Off:3 Def:1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,351,2,72,3,9:18 PM,4:28,MISS Fowles 1' Putback Layup,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,352,4,0,3,9:18 PM,4:26,Fowles REBOUND (Off:4 Def:1),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,353,2,72,3,9:18 PM,4:25,MISS Fowles 1' Putback Layup,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,354,4,0,3,9:18 PM,4:23,,,Clark REBOUND (Off:1 Def:4),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,355,1,6,3,9:18 PM,4:17,,,Howard 1' Driving Layup (22 PTS) (Whitcomb 6 AST),65 - 47,-18,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,356,2,1,3,9:18 PM,3:56,MISS Fagbenle 17' Jump Shot,,,,,4.0,1627701,Temi Fagbenle,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,357,4,0,3,9:18 PM,3:54,,,Russell REBOUND (Off:0 Def:7),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,358,2,1,3,9:18 PM,3:44,,,MISS Whitcomb 3PT Jump Shot,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,359,4,0,3,9:18 PM,3:41,Fowles REBOUND (Off:4 Def:2),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,360,2,6,3,9:19 PM,3:21,MISS Talbot 10' Driving Layup,,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,361,4,0,3,9:19 PM,3:18,,,Russell REBOUND (Off:0 Def:8),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,362,1,1,3,9:19 PM,3:07,,,Clark 3PT Jump Shot (10 PTS) (Howard 1 AST),68 - 47,-21,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,364,9,2,3,9:19 PM,3:07,LYNX Timeout: Short (Full 3 Short 1),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,366,8,0,3,9:20 PM,3:07,SUB: Robinson FOR Sims,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,367,8,0,3,9:20 PM,3:07,SUB: Taylor FOR Fowles,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,370,1,1,3,9:20 PM,2:56,Talbot 11' Jump Shot (10 PTS) (Robinson 3 AST),,,68 - 49,-19,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,372,5,40,3,9:21 PM,2:48,,,Canada Out of Bounds Lost Ball Turnover (P1.T11),,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,373,8,0,3,9:21 PM,2:48,,,SUB: Langhorne FOR Russell,,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,375,5,1,3,9:21 PM,2:44,Robinson Bad Pass Turnover (P3.T11),,Whitcomb STEAL (2 STL),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,397,5,1,3,9:21 PM,2:40,Robinson STEAL (1 STL),,Whitcomb Bad Pass Turnover (P4.T12),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,380,1,1,3,9:21 PM,2:22,Brown 25' 3PT Jump Shot (10 PTS) (Robinson 4 AST),,,68 - 52,-16,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,382,5,1,3,9:22 PM,2:04,Robinson STEAL (2 STL),,Whitcomb Bad Pass Turnover (P5.T13),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,384,2,1,3,9:22 PM,1:59,MISS Talbot 26' 3PT Jump Shot,,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,385,4,0,3,9:22 PM,1:55,Taylor REBOUND (Off:2 Def:1),,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,386,2,5,3,9:22 PM,1:47,MISS Taylor 2' Layup,,Howard BLOCK (3 BLK),,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1
+1021900103,388,4,0,3,9:22 PM,1:47,,,Clark REBOUND (Off:1 Def:5),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,389,6,1,3,9:22 PM,1:32,Talbot P.FOUL (P3.T3),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,391,8,0,3,9:22 PM,1:32,,,SUB: Zellous FOR Canada,,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,392,8,0,3,9:22 PM,1:32,,,SUB: Dietrick FOR Whitcomb,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,5,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,395,5,39,3,9:23 PM,1:19,,,Langhorne Step Out of Bounds Turnover (P2.T14),,,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,399,5,11,3,9:23 PM,0:54,LYNX Turnover: Shot Clock (T#12),,,,,2.0,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,400,2,1,3,9:24 PM,0:43,,,MISS Dietrick 18' Jump Shot,,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,401,4,0,3,9:24 PM,0:40,,,Clark REBOUND (Off:2 Def:5),,,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,402,2,5,3,9:24 PM,0:35,,,MISS Langhorne 4' Layup,,,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,403,4,0,3,9:24 PM,0:33,Taylor REBOUND (Off:2 Def:2),,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,404,1,1,3,9:24 PM,0:25,Taylor 19' Jump Shot (4 PTS) (Robinson 5 AST),,,68 - 54,-14,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,406,1,80,3,9:25 PM,0:01,,,Howard 3PT Step Back Jump Shot (25 PTS),71 - 54,-17,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,407,13,0,3,9:25 PM,0:00,,End of 3rd Period (9:25 PM EST),,71 - 54,-17,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1021900103,416,12,0,4,9:27 PM,10:00,,Start of 4th Period (9:27 PM EST),,71 - 54,-17,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,417,6,1,4,9:27 PM,9:47,,,Paris P.FOUL (P3.T1),,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,419,1,79,4,9:28 PM,9:37,Brown 19' Pullup Jump Shot (12 PTS) (Taylor 2 AST),,,71 - 56,-15,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,420,1,1,4,9:28 PM,9:13,,,Zellous 18' Jump Shot (7 PTS) (Dietrick 1 AST),73 - 56,-17,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,5,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,422,1,47,4,9:29 PM,8:56,Collier 13' Turnaround Jump Shot (6 PTS),,,73 - 58,-15,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,423,2,79,4,9:29 PM,8:32,,,MISS Whitcomb 24' 3PT Pullup Jump Shot,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,424,4,0,4,9:29 PM,8:28,Taylor REBOUND (Off:2 Def:3),,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,425,1,5,4,9:29 PM,8:22,Taylor 2' Layup (6 PTS) (Robinson 6 AST),,,73 - 60,-13,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,427,1,1,4,9:29 PM,8:05,,,Whitcomb 3PT Jump Shot (15 PTS) (Paris 1 AST),76 - 60,-16,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,5,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,429,2,1,4,9:30 PM,7:46,MISS Taylor 24' 3PT Jump Shot,,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,430,4,0,4,9:30 PM,7:43,,,Paris REBOUND (Off:0 Def:2),,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,432,5,2,4,9:30 PM,7:38,Robinson STEAL (3 STL),,Dietrick Lost Ball Turnover (P1.T15),,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,434,1,5,4,9:30 PM,7:35,Brown 1' Layup (14 PTS) (Robinson 7 AST),,,76 - 62,-14,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,436,5,2,4,9:30 PM,7:27,Robinson STEAL (4 STL),,Dietrick Lost Ball Turnover (P2.T16),,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,438,6,14,4,9:30 PM,7:27,,,Dietrick FLAGRANT.FOUL.TYPE1 (P1.T2),,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,440,18,1,4,9:31 PM,7:27,,Instant Replay4th Period (9:31 PM EST),,76 - 62,-14,0.0,438,Robert Werdann,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,441,3,18,4,9:32 PM,7:27,Robinson Free Throw Flagrant 1 of 2 (11 PTS),,,76 - 63,-13,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,442,3,19,4,9:33 PM,7:27,Robinson Free Throw Flagrant 2 of 2 (12 PTS),,,76 - 64,-12,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1021900103,443,8,0,4,9:33 PM,7:27,SUB: Sims FOR Taylor,,,,,4.0,203859,Asia Taylor,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,444,8,0,4,9:33 PM,7:27,,,SUB: Howard FOR Dietrick,,,5.0,204355,Blake Dietrick,1611661328.0,Seattle,Storm,SEA,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,445,8,0,4,9:33 PM,7:27,,,SUB: Canada FOR Paris,,,5.0,201907,Courtney Paris,1611661328.0,Seattle,Storm,SEA,5,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,449,1,5,4,9:33 PM,7:12,Fowles 1' Layup (16 PTS) (Robinson 8 AST),,,76 - 66,-10,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,451,5,1,4,9:34 PM,6:50,Fowles STEAL (1 STL),,Howard Bad Pass Turnover (P3.T17),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,453,2,5,4,9:34 PM,6:38,MISS Fowles 2' Layup,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,454,4,0,4,9:34 PM,6:38,,,Storm Rebound,,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,455,6,3,4,9:34 PM,6:36,Collier L.B.FOUL (P2.T1),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,457,8,0,4,9:34 PM,6:36,,,SUB: Russell FOR Langhorne,,,5.0,201518,Crystal Langhorne,1611661328.0,Seattle,Storm,SEA,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,459,9,1,4,9:34 PM,6:36,,,Storm Timeout: Regular (Reg.3 Short 0),,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,460,8,0,4,9:36 PM,6:36,,,SUB: Clark FOR Zellous,,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,5,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,462,1,6,4,9:37 PM,6:25,,,Canada 2' Driving Layup (12 PTS) (Howard 2 AST),78 - 66,-12,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,464,1,1,4,9:37 PM,6:07,Brown 25' 3PT Jump Shot (17 PTS) (Robinson 9 AST),,,78 - 69,-9,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,466,5,1,4,9:37 PM,5:49,Collier STEAL (1 STL),,Canada Bad Pass Turnover (P2.T18),,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,468,1,1,4,9:37 PM,5:43,Brown 24' 3PT Jump Shot (20 PTS) (Sims 5 AST),,,78 - 72,-6,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,470,9,1,4,9:37 PM,5:40,,,Storm Timeout: Regular (Reg.4 Short 0),,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,471,8,0,4,9:39 PM,5:40,,,SUB: Zellous FOR Canada,,,5.0,1628886,Jordin Canada,1611661328.0,Seattle,Storm,SEA,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1021900103,473,6,26,4,9:40 PM,5:34,,,Zellous Offensive Charge Foul (P2.T3),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,475,5,37,4,9:40 PM,5:34,,,Zellous Offensive Foul Turnover (P2.T19),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,476,1,1,4,9:40 PM,5:19,Sims 24' 3PT Jump Shot (5 PTS) (Collier 3 AST),,,78 - 75,-3,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,480,6,26,4,9:41 PM,5:06,,,Zellous Offensive Charge Foul (P3.T4),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1021900103,482,5,37,4,9:41 PM,5:06,,,Zellous Offensive Foul Turnover (P3.T20),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1021900103,484,6,26,4,9:42 PM,4:50,Fowles Offensive Charge Foul (P4.T2),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,486,5,37,4,9:42 PM,4:50,Fowles Offensive Foul Turnover (P1.T13),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1021900103,487,2,1,4,9:42 PM,4:27,,,MISS Whitcomb 26' 3PT Jump Shot,,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,488,4,0,4,9:42 PM,4:26,,,Storm Rebound,,,3.0,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,489,5,11,4,9:42 PM,4:26,,,Storm Turnover: Shot Clock (T#21),,,3.0,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,490,1,79,4,9:43 PM,4:12,Collier 19' Pullup Jump Shot (8 PTS) (Robinson 10 AST),,,78 - 77,-1,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,492,1,3,4,9:43 PM,3:53,,,Howard 2' Hook Shot (27 PTS),80 - 77,-3,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,493,1,1,4,9:43 PM,3:33,Robinson 16' Jump Shot (14 PTS) (Sims 6 AST),,,80 - 79,-1,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,4,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1021900103,495,2,80,4,9:44 PM,3:15,,,MISS Howard 12' Step Back Jump Shot,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,496,4,0,4,9:44 PM,3:12,Fowles REBOUND (Off:4 Def:3),,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,497,2,79,4,9:44 PM,3:08,MISS Robinson 16' Pullup Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,498,4,0,4,9:44 PM,3:06,,,Zellous REBOUND (Off:0 Def:2),,,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,499,1,58,4,9:44 PM,2:48,,,Howard 1' Turnaround Hook Shot (29 PTS) (Whitcomb 7 AST),82 - 79,-3,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,501,2,6,4,9:45 PM,2:23,MISS Brown 7' Driving Layup,,Russell BLOCK (3 BLK),,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1
+1021900103,503,4,0,4,9:45 PM,2:21,,,Whitcomb REBOUND (Off:0 Def:1),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,504,1,5,4,9:45 PM,2:00,,,Clark 2' Layup (12 PTS) (Whitcomb 8 AST),84 - 79,-5,5.0,202252,Alysha Clark,1611661328.0,Seattle,Storm,SEA,5,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,506,9,1,4,9:45 PM,2:00,LYNX Timeout: Regular (Full 4 Short 1),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,507,8,0,4,9:46 PM,2:00,SUB: Talbot FOR Collier,,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,509,2,47,4,9:47 PM,1:40,MISS Fowles 2' Turnaround Jump Shot,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,510,4,0,4,9:47 PM,1:37,,,Howard REBOUND (Off:3 Def:4),,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,513,6,2,4,9:48 PM,1:28,Brown S.FOUL (P1.T3),,,,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,515,3,11,4,9:48 PM,1:28,,,Howard Free Throw 1 of 2 (30 PTS),85 - 79,-6,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,516,3,12,4,9:48 PM,1:28,,,Howard Free Throw 2 of 2 (31 PTS),86 - 79,-7,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,517,2,1,4,9:48 PM,1:09,MISS Sims 24' 3PT Jump Shot,,,,,4.0,203824,Odyssey Sims,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,518,4,0,4,9:48 PM,1:05,,,Whitcomb REBOUND (Off:0 Def:2),,,5.0,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,519,6,28,4,9:48 PM,1:02,Brown Personal Take Foul (P2.PN),,,,,4.0,1628882,Lexie Brown,1611661324.0,Minnesota,Lynx,MIN,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,521,3,11,4,9:49 PM,1:02,,,Zellous Free Throw 1 of 2 (8 PTS),87 - 79,-8,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,522,3,12,4,9:49 PM,1:02,,,Zellous Free Throw 2 of 2 (9 PTS),88 - 79,-9,5.0,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,523,9,2,4,9:49 PM,1:02,LYNX Timeout: Short (Full 4 Short 2),,,,,2.0,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1021900103,524,7,1,4,9:50 PM,1:02,,Delay Of Game,,,,,1611661324,,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,525,8,0,4,9:50 PM,1:02,SUB: Collier FOR Fowles,,,,,4.0,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1021900103,528,18,1,4,9:51 PM,1:00,,Instant Replay4th Period (9:51 PM EST),,88 - 79,-9,0.0,527,,,,,,0,0,,,,,,1,0,,,,,,0
+1021900103,529,5,45,4,9:53 PM,1:00,Robinson Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,530,6,28,4,9:53 PM,0:57,Collier Personal Take Foul (P3.PN),,,,,4.0,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1021900103,532,3,11,4,9:53 PM,0:57,,,Howard Free Throw 1 of 2 (32 PTS),89 - 79,-10,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,533,3,12,4,9:54 PM,0:57,,,Howard Free Throw 2 of 2 (33 PTS),90 - 79,-11,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1021900103,534,5,1,4,9:54 PM,0:49,Robinson Bad Pass Turnover (P5.T15),,Zellous STEAL (1 STL),,,4.0,202658,Danielle Robinson,1611661324.0,Minnesota,Lynx,MIN,5,201919,Shavonte Zellous,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1021900103,536,2,1,4,9:54 PM,0:26,,,MISS Howard 3PT Jump Shot,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,537,4,0,4,9:54 PM,0:24,,,Russell REBOUND (Off:1 Def:8),,,5.0,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,538,2,47,4,9:55 PM,0:11,,,MISS Howard 8' Turnaround Jump Shot,,,5.0,203827,Natasha Howard,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1021900103,539,4,0,4,9:55 PM,0:08,Talbot REBOUND (Off:0 Def:5),,,,,4.0,203855,Stephanie Talbot,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1021900103,540,13,0,4,9:55 PM,0:00,,End of 4th Period (9:55 PM EST),,90 - 79,-11,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

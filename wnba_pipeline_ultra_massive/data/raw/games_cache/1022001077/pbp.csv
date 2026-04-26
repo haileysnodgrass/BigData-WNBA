@@ -1,0 +1,363 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022001077,2,12,0,1,7:04 PM,10:00,,Start of 1st Period (7:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,4,10,0,1,7:04 PM,10:00,Jump Ball Jones vs. Stokes: Tip to Zahui B,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1
+1022001077,7,2,1,1,7:04 PM,9:36,,,MISS Clarendon 25' 3PT Jump Shot,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,8,4,0,1,7:04 PM,9:36,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,14,5,11,1,7:04 PM,9:36,,,Liberty Turnover: Shot Clock (T#1),,,3,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001077,9,8,0,1,7:04 PM,9:36,,,SUB: Jones FOR Clarendon,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,12,1,1,1,7:05 PM,9:22,A. Thomas 13' Jump Shot (2 PTS) (Bonner 1 AST),,,0 - 2,2,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,15,6,1,1,7:05 PM,9:04,January P.FOUL (P1.T1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,17,2,1,1,7:05 PM,8:56,,,MISS Zahui B 26' 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,18,4,0,1,7:05 PM,8:52,Bonner REBOUND (Off:0 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,19,1,5,1,7:06 PM,8:41,A. Thomas 4' Layup (4 PTS) (January 1 AST),,,0 - 4,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,21,5,45,1,7:06 PM,8:36,,,Zahui B Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001077,22,2,1,1,7:06 PM,8:28,MISS Bonner 25' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,23,4,0,1,7:06 PM,8:24,,,Stokes REBOUND (Off:0 Def:1),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,24,5,45,1,7:06 PM,8:15,,,Stokes Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001077,25,5,2,1,7:07 PM,8:09,J. Thomas Lost Ball Turnover (P1.T1),,Jones STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,27,1,5,1,7:07 PM,8:05,,,Nurse 4' Layup (2 PTS) (Jones 1 AST),2 - 4,2,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,29,6,2,1,7:07 PM,8:05,A. Thomas S.FOUL (P1.T2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,31,3,10,1,7:07 PM,8:05,,,Nurse Free Throw 1 of 1 (3 PTS),3 - 4,1,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,32,1,1,1,7:08 PM,7:46,A. Thomas 8' Jump Shot (6 PTS) (January 2 AST),,,3 - 6,3,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,34,5,2,1,7:08 PM,7:35,Jones STEAL (1 STL),,Jones Lost Ball Turnover (P1.T4),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,36,1,1,1,7:08 PM,7:29,A. Thomas 12' Jump Shot (8 PTS) (Jones 1 AST),,,3 - 8,5,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,38,5,1,1,7:08 PM,7:20,January STEAL (1 STL),,Jones Bad Pass Turnover (P2.T5),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,40,1,5,1,7:08 PM,7:11,A. Thomas 3' Layup (10 PTS) (January 3 AST),,,3 - 10,7,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,42,2,6,1,7:09 PM,6:58,,,MISS Nurse 6' Driving Layup,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,43,4,0,1,7:09 PM,6:56,Bonner REBOUND (Off:0 Def:2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,44,6,2,1,7:09 PM,6:54,,,Stokes S.FOUL (P1.T1),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,46,3,11,1,7:09 PM,6:54,MISS A. Thomas Free Throw 1 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,47,4,1,1,7:09 PM,6:54,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,50,3,12,1,7:09 PM,6:54,MISS A. Thomas Free Throw 2 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,48,8,0,1,7:09 PM,6:54,,,SUB: Clarendon FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,51,4,0,1,7:09 PM,6:52,,,Clarendon REBOUND (Off:0 Def:1),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,52,1,98,1,7:10 PM,6:33,,,Clarendon 3' Cutting Layup Shot (2 PTS) (Zahui B 1 AST),5 - 10,5,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,54,1,1,1,7:10 PM,6:18,January 25' 3PT Jump Shot (3 PTS),,,5 - 13,8,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,55,1,1,1,7:10 PM,6:01,,,Stokes 26' 3PT Jump Shot (3 PTS) (Nurse 1 AST),8 - 13,5,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,57,2,1,1,7:11 PM,5:43,MISS A. Thomas 11' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,58,4,0,1,7:11 PM,5:41,,,Zahui B REBOUND (Off:0 Def:1),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,60,2,5,1,7:11 PM,5:22,,,MISS Zahui B 9' Layup,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,61,4,0,1,7:11 PM,5:20,Bonner REBOUND (Off:0 Def:3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,62,2,1,1,7:11 PM,5:09,MISS J. Thomas 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,63,4,0,1,7:11 PM,5:06,,,Stokes REBOUND (Off:0 Def:2),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,64,1,1,1,7:12 PM,4:46,,,Stokes 25' 3PT Jump Shot (6 PTS) (Odom 1 AST),11 - 13,2,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,66,1,6,1,7:12 PM,4:32,Bonner 4' Driving Layup (2 PTS) (A. Thomas 1 AST),,,11 - 15,4,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,68,2,79,1,7:12 PM,4:22,,,MISS Clarendon 25' 3PT Pullup Jump Shot,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,69,4,0,1,7:12 PM,4:20,Bonner REBOUND (Off:0 Def:4),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,70,1,6,1,7:12 PM,4:08,J. Thomas 2' Driving Layup (2 PTS),,,11 - 17,6,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,71,2,1,1,7:13 PM,3:49,,,MISS Stokes 24' 3PT Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,72,4,0,1,7:13 PM,3:46,A. Thomas REBOUND (Off:0 Def:1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,73,2,1,1,7:13 PM,3:41,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,74,4,0,1,7:13 PM,3:38,January REBOUND (Off:1 Def:0),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,75,2,1,1,7:13 PM,3:36,MISS J. Thomas 24' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,76,4,0,1,7:13 PM,3:32,Jones REBOUND (Off:1 Def:0),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,77,2,1,1,7:13 PM,3:21,MISS Bonner 13' Jump Shot,,Stokes BLOCK (1 BLK),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1022001077,79,4,0,1,7:13 PM,3:19,,,Zahui B REBOUND (Off:0 Def:2),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,80,2,5,1,7:13 PM,3:15,,,MISS Nurse 2' Layup,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,81,4,0,1,7:13 PM,3:12,,,Odom REBOUND (Off:1 Def:0),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,82,2,72,1,7:13 PM,3:12,,,MISS Odom 1' Putback Layup,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,83,4,0,1,7:13 PM,3:11,J. Thomas REBOUND (Off:0 Def:1),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,84,2,1,1,7:14 PM,2:55,MISS Bonner 24' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,85,4,0,1,7:14 PM,2:51,,,Clarendon REBOUND (Off:0 Def:2),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,86,2,5,1,7:14 PM,2:47,Bonner BLOCK (1 BLK),,MISS Zahui B 2' Layup,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1022001077,88,4,0,1,7:14 PM,2:44,Bonner REBOUND (Off:0 Def:5),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,89,6,1,1,7:14 PM,2:35,,,Odom P.FOUL (P1.T2),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,91,9,4,1,7:14 PM,2:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,92,8,0,1,7:16 PM,2:35,SUB: Carson FOR January,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,93,8,0,1,7:16 PM,2:35,SUB: Plaisance FOR A. Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,94,8,0,1,7:16 PM,2:35,SUB: Charles FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,95,8,0,1,7:16 PM,2:35,,,SUB: Shook FOR Odom,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,96,8,0,1,7:16 PM,2:35,,,SUB: Walker FOR Nurse,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,97,8,0,1,7:16 PM,2:35,,,SUB: Jones FOR Zahui B,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,104,5,11,1,7:18 PM,2:20,SUN Turnover: Shot Clock (T#2),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001077,106,2,1,1,7:18 PM,2:04,,,MISS Stokes 24' 3PT Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,107,4,0,1,7:18 PM,2:01,Carson REBOUND (Off:0 Def:1),,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,108,1,5,1,7:18 PM,1:55,J. Thomas 2' Layup (4 PTS) (Bonner 2 AST),,,11 - 19,8,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,110,6,2,1,7:18 PM,1:55,,,Jones S.FOUL (P1.T3),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,112,3,10,1,7:19 PM,1:55,J. Thomas Free Throw 1 of 1 (5 PTS),,,11 - 20,9,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,113,1,1,1,7:19 PM,1:42,,,Clarendon 25' 3PT Jump Shot (5 PTS) (Jones 2 AST),14 - 20,6,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,115,2,1,1,7:19 PM,1:29,MISS Bonner 24' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,116,4,0,1,7:19 PM,1:28,,,Clarendon REBOUND (Off:0 Def:3),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,117,6,1,1,7:20 PM,1:28,Plaisance P.FOUL (P1.T3),,,,,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,119,6,4,1,7:20 PM,1:12,,,Shook OFF.Foul (P1),,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,121,5,37,1,7:20 PM,1:12,,,Shook Offensive Foul Turnover (P1.T6),,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001077,122,1,1,1,7:20 PM,1:00,Carson 18' Jump Shot (2 PTS) (J. Thomas 1 AST),,,14 - 22,8,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,124,2,1,1,7:21 PM,0:35,,,MISS Jones 25' 3PT Jump Shot,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,125,4,0,1,7:21 PM,0:33,Carson REBOUND (Off:0 Def:2),,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,126,5,2,1,7:21 PM,0:29,Carson Lost Ball Turnover (P1.T3),,Clarendon STEAL (1 STL),,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,128,6,2,1,7:21 PM,0:25,Plaisance S.FOUL (P2.PN),,,,,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,130,3,11,1,7:22 PM,0:25,,,Jones Free Throw 1 of 2 (1 PTS),15 - 22,7,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,131,3,12,1,7:22 PM,0:25,,,Jones Free Throw 2 of 2 (2 PTS),16 - 22,6,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,132,1,1,1,7:22 PM,0:01,J. Thomas 17' Jump Shot (7 PTS),,,16 - 24,8,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,133,13,0,1,7:22 PM,0:00,,End of 1st Period (7:22 PM EST),,16 - 24,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001077,144,12,0,2,7:26 PM,10:00,,Start of 2nd Period (7:26 PM EST),,16 - 24,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,151,5,13,2,7:26 PM,9:43,Charles Backcourt Turnover (P1.T4),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022001077,145,1,5,2,7:26 PM,9:32,,,Odom 3' Layup (2 PTS) (Clarendon 1 AST),18 - 24,6,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,147,2,1,2,7:27 PM,9:17,MISS Charles 18' Jump Shot,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,148,4,0,2,7:27 PM,9:17,,,Zahui B REBOUND (Off:0 Def:3),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,149,2,1,2,7:27 PM,8:53,,,MISS Shook 25' 3PT Jump Shot,,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,150,4,0,2,7:27 PM,8:50,A. Thomas REBOUND (Off:0 Def:2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,152,2,1,2,7:27 PM,8:35,MISS Charles 24' 3PT Jump Shot,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,153,4,0,2,7:27 PM,8:31,,,Shook REBOUND (Off:0 Def:1),,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,154,2,5,2,7:28 PM,8:19,,,MISS Clarendon 6' Layup,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,155,4,0,2,7:28 PM,8:16,Jones REBOUND (Off:1 Def:1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,156,1,79,2,7:28 PM,8:07,J. Thomas 18' Pullup Jump Shot (9 PTS),,,18 - 26,8,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,157,5,1,2,7:28 PM,7:50,Charles STEAL (1 STL),,Clarendon Bad Pass Turnover (P1.T7),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,159,1,5,2,7:28 PM,7:45,A. Thomas 3' Layup (12 PTS) (Charles 1 AST),,,18 - 28,10,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,161,6,2,2,7:29 PM,7:28,Charles S.FOUL (P1.T1),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,163,3,11,2,7:29 PM,7:28,,,Nurse Free Throw 1 of 2 (4 PTS),19 - 28,9,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,164,8,0,2,7:29 PM,7:28,SUB: January FOR Charles,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,165,8,0,2,7:29 PM,7:28,,,SUB: Jones FOR Clarendon,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,168,3,12,2,7:29 PM,7:28,,,Nurse Free Throw 2 of 2 (5 PTS),20 - 28,8,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,169,2,5,2,7:29 PM,7:10,MISS Jones 3' Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,170,4,0,2,7:30 PM,7:07,,,Zahui B REBOUND (Off:0 Def:4),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,171,1,98,2,7:30 PM,7:00,,,Jones 3' Cutting Layup Shot (4 PTS) (Zahui B 2 AST),22 - 28,6,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,173,1,1,2,7:30 PM,6:46,January 18' Jump Shot (5 PTS),,,22 - 30,8,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,174,2,1,2,7:30 PM,6:28,,,MISS Nurse 24' 3PT Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,175,4,0,2,7:30 PM,6:26,,,Odom REBOUND (Off:2 Def:0),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,176,1,1,2,7:30 PM,6:25,,,Zahui B 26' 3PT Jump Shot (3 PTS) (Jones 3 AST),25 - 30,5,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,178,6,1,2,7:30 PM,6:25,,,Nurse P.FOUL (P1.T1),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,180,8,0,2,7:31 PM,6:25,SUB: Bonner FOR Carson,,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,181,8,0,2,7:31 PM,6:25,,,SUB: Holmes FOR Shook,,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,184,2,1,2,7:31 PM,6:14,MISS January 24' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,185,4,0,2,7:31 PM,6:14,,,Jones REBOUND (Off:0 Def:1),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,186,6,2,2,7:31 PM,6:05,Bonner S.FOUL (P1.T2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,188,3,11,2,7:32 PM,6:05,,,Holmes Free Throw 1 of 2 (1 PTS),26 - 30,4,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,189,3,12,2,7:32 PM,6:05,,,Holmes Free Throw 2 of 2 (2 PTS),27 - 30,3,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,190,1,1,2,7:32 PM,5:52,J. Thomas 14' Jump Shot (11 PTS) (A. Thomas 2 AST),,,27 - 32,5,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,192,5,2,2,7:32 PM,5:35,J. Thomas STEAL (1 STL),,Holmes Lost Ball Turnover (P1.T8),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,194,2,5,2,7:32 PM,5:31,MISS J. Thomas 5' Layup,,Zahui B BLOCK (1 BLK),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1
+1022001077,196,4,0,2,7:32 PM,5:31,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,197,9,1,2,7:33 PM,5:31,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,198,1,1,2,7:36 PM,5:21,J. Thomas 18' Jump Shot (13 PTS),,,27 - 34,7,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,199,5,1,2,7:36 PM,5:05,J. Thomas STEAL (2 STL),,Odom Bad Pass Turnover (P1.T9),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,201,6,1,2,7:36 PM,5:05,,,Odom P.FOUL (P2.T2),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,203,1,78,2,7:37 PM,4:51,A. Thomas 13' Floating Jump Shot (14 PTS) (January 4 AST),,,27 - 36,9,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,205,2,1,2,7:37 PM,4:31,,,MISS Nurse 27' 3PT Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,206,4,0,2,7:37 PM,4:28,Jones REBOUND (Off:1 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,207,2,5,2,7:37 PM,4:25,MISS A. Thomas 4' Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,208,4,0,2,7:37 PM,4:21,,,Holmes REBOUND (Off:0 Def:1),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,209,2,1,2,7:38 PM,4:03,,,MISS Zahui B 27' 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,210,4,0,2,7:38 PM,4:01,January REBOUND (Off:1 Def:1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,211,2,1,2,7:38 PM,3:56,MISS J. Thomas 17' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,212,4,0,2,7:38 PM,3:53,,,Zahui B REBOUND (Off:0 Def:5),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,213,1,5,2,7:38 PM,3:49,,,Odom 2' Layup (4 PTS) (Zahui B 3 AST),29 - 36,7,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,215,9,1,2,7:38 PM,3:47,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,216,8,0,2,7:40 PM,3:47,,,SUB: Clarendon FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,217,8,0,2,7:40 PM,3:47,,,SUB: Stokes FOR Holmes,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,220,2,1,2,7:41 PM,3:33,MISS Bonner 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,221,4,0,2,7:42 PM,3:29,,,Nurse REBOUND (Off:0 Def:1),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,222,2,1,2,7:42 PM,3:17,,,MISS Clarendon 26' 3PT Jump Shot,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,223,4,0,2,7:42 PM,3:14,A. Thomas REBOUND (Off:0 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,224,6,1,2,7:42 PM,3:11,,,Zahui B P.FOUL (P1.T3),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,226,2,5,2,7:42 PM,2:57,MISS J. Thomas 3' Layup,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,227,4,0,2,7:42 PM,2:55,,,Zahui B REBOUND (Off:0 Def:6),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,228,10,0,2,7:43 PM,2:39,Jump Ball Bonner vs. Odom: Tip to Stokes,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1022001077,231,6,2,2,7:43 PM,2:35,J. Thomas S.FOUL (P1.T3),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,233,3,11,2,7:44 PM,2:35,,,Clarendon Free Throw 1 of 2 (6 PTS),30 - 36,6,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,234,3,12,2,7:44 PM,2:35,,,Clarendon Free Throw 2 of 2 (7 PTS),31 - 36,5,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,235,1,98,2,7:44 PM,2:23,Jones 3' Cutting Layup Shot (2 PTS) (Bonner 3 AST),,,31 - 38,7,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,237,6,2,2,7:44 PM,2:23,,,Zahui B S.FOUL (P2.T4),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,239,3,10,2,7:45 PM,2:23,Jones Free Throw 1 of 1 (3 PTS),,,31 - 39,8,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,240,1,98,2,7:45 PM,2:06,,,Clarendon 2' Cutting Layup Shot (9 PTS) (Zahui B 4 AST),33 - 39,6,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,242,2,1,2,7:45 PM,1:41,MISS Bonner 19' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,243,4,0,2,7:45 PM,1:37,,,Stokes REBOUND (Off:0 Def:3),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,244,6,2,2,7:46 PM,1:26,A. Thomas S.FOUL (P2.T4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,246,3,11,2,7:46 PM,1:26,,,Nurse Free Throw 1 of 2 (6 PTS),34 - 39,5,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,247,3,12,2,7:46 PM,1:26,,,Nurse Free Throw 2 of 2 (7 PTS),35 - 39,4,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,248,1,5,2,7:46 PM,1:12,A. Thomas 3' Layup (16 PTS) (J. Thomas 2 AST),,,35 - 41,6,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,250,5,1,2,7:47 PM,1:03,A. Thomas STEAL (1 STL),,Nurse Bad Pass Turnover (P1.T10),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,252,6,1,2,7:47 PM,1:03,,,Clarendon P.FOUL (P1.PN),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,254,3,11,2,7:47 PM,1:03,A. Thomas Free Throw 1 of 2 (17 PTS),,,35 - 42,7,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,255,3,12,2,7:47 PM,1:03,A. Thomas Free Throw 2 of 2 (18 PTS),,,35 - 43,8,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,256,9,1,2,7:48 PM,1:02,,,Liberty Timeout: Regular (Reg.1 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,257,6,26,2,7:50 PM,0:53,,,Zahui B Offensive Charge Foul (P3),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,259,5,37,2,7:50 PM,0:53,,,Zahui B Offensive Foul Turnover (P2.T11),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001077,260,8,0,2,7:50 PM,0:53,,,SUB: Holmes FOR Zahui B,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,262,6,2,2,7:50 PM,0:36,,,Nurse S.FOUL (P2.PN),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,264,3,11,2,7:51 PM,0:36,January Free Throw 1 of 2 (6 PTS),,,35 - 44,9,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,265,3,12,2,7:51 PM,0:36,January Free Throw 2 of 2 (7 PTS),,,35 - 45,10,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,266,1,103,2,7:51 PM,0:14,,,Nurse 25' 3PT Running Pull-Up Jump Shot (10 PTS) (Clarendon 2 AST),38 - 45,7,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,268,5,1,2,7:52 PM,0:00,J. Thomas Bad Pass Turnover (P2.T5),,Stokes STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,270,13,0,2,7:52 PM,0:00,,End of 2nd Period (7:52 PM EST),,38 - 45,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001077,275,12,0,3,8:07 PM,10:00,,Start of 3rd Period (8:07 PM EST),,38 - 45,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,276,5,45,3,8:08 PM,9:45,J. Thomas Out of Bounds - Bad Pass Turnover Turnover (P3.T6),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022001077,277,5,2,3,8:08 PM,9:35,J. Thomas STEAL (3 STL),,Jones Lost Ball Turnover (P3.T12),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,279,1,80,3,8:08 PM,9:25,Bonner 25' 3PT Step Back Jump Shot (5 PTS),,,38 - 48,10,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,280,1,80,3,8:08 PM,9:14,,,Jones 24' 3PT Step Back Jump Shot (7 PTS) (Nurse 2 AST),41 - 48,7,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,282,2,1,3,8:09 PM,8:48,MISS Bonner 28' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,283,4,0,3,8:09 PM,8:45,,,Odom REBOUND (Off:2 Def:1),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,284,2,1,3,8:09 PM,8:39,,,MISS Zahui B 27' 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,285,4,0,3,8:09 PM,8:36,Bonner REBOUND (Off:0 Def:6),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,286,1,5,3,8:09 PM,8:22,A. Thomas 3' Layup (20 PTS) (J. Thomas 3 AST),,,41 - 50,9,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,288,6,2,3,8:09 PM,8:22,,,Nurse S.FOUL (P3.T1),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,290,3,10,3,8:10 PM,8:22,A. Thomas Free Throw 1 of 1 (21 PTS),,,41 - 51,10,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,291,6,1,3,8:10 PM,8:05,January P.FOUL (P2.T1),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,293,2,79,3,8:11 PM,7:50,,,MISS Jones 16' Pullup Jump Shot,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,294,4,0,3,8:11 PM,7:48,,,Odom REBOUND (Off:3 Def:1),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,295,6,1,3,8:11 PM,7:46,A. Thomas P.FOUL (P3.T2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,297,1,5,3,8:11 PM,7:37,,,Stokes 2' Layup (8 PTS) (Zahui B 5 AST),43 - 51,8,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,299,2,5,3,8:11 PM,7:21,MISS Bonner 3' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,300,4,0,3,8:11 PM,7:20,,,Zahui B REBOUND (Off:0 Def:7),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,301,5,45,3,8:12 PM,7:16,,,Jones Out of Bounds - Bad Pass Turnover Turnover (P4.T13),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001077,302,2,79,3,8:12 PM,6:54,MISS J. Thomas 19' Pullup Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,303,4,0,3,8:12 PM,6:52,,,Stokes REBOUND (Off:0 Def:4),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,304,5,4,3,8:12 PM,6:42,,,Zahui B Traveling Turnover (P3.T14),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001077,305,1,5,3,8:13 PM,6:26,Jones 3' Layup (5 PTS) (J. Thomas 4 AST),,,43 - 53,10,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,307,2,1,3,8:13 PM,6:14,,,MISS Zahui B 25' 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,308,4,0,3,8:13 PM,6:11,Bonner REBOUND (Off:0 Def:7),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,309,6,2,3,8:13 PM,6:00,,,Stokes S.FOUL (P2.T2),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,311,3,11,3,8:14 PM,6:00,A. Thomas Free Throw 1 of 2 (22 PTS),,,43 - 54,11,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,312,8,0,3,8:14 PM,6:00,SUB: Plaisance FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,314,3,12,3,8:14 PM,6:00,A. Thomas Free Throw 2 of 2 (23 PTS),,,43 - 55,12,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,315,6,1,3,8:14 PM,5:50,Plaisance P.FOUL (P3.T3),,,,,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,317,6,2,3,8:15 PM,5:37,J. Thomas S.FOUL (P2.T4),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,319,3,11,3,8:15 PM,5:37,,,Nurse Free Throw 1 of 2 (11 PTS),44 - 55,11,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,320,8,0,3,8:15 PM,5:37,,,SUB: Clarendon FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,322,3,12,3,8:16 PM,5:37,,,Nurse Free Throw 2 of 2 (12 PTS),45 - 55,10,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,323,1,79,3,8:16 PM,5:27,January 21' Pullup Jump Shot (9 PTS) (Bonner 4 AST),,,45 - 57,12,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,325,2,1,3,8:16 PM,5:05,,,MISS Zahui B 20' Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,326,4,0,3,8:16 PM,5:00,J. Thomas REBOUND (Off:0 Def:2),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,327,2,5,3,8:16 PM,4:48,MISS A. Thomas 6' Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,328,4,0,3,8:16 PM,4:48,J. Thomas REBOUND (Off:1 Def:2),,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,329,9,4,3,8:17 PM,4:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,330,8,0,3,8:18 PM,4:48,,,SUB: Willoughby FOR Nurse,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,332,10,0,3,8:20 PM,4:47,Jump Ball J. Thomas vs. Odom: Tip to Clarendon,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1
+1022001077,335,5,2,3,8:20 PM,4:47,J. Thomas Lost Ball Turnover (P4.T7),,Odom STEAL (1 STL),,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,337,5,2,3,8:20 PM,4:35,January STEAL (2 STL),,Odom Lost Ball Turnover (P2.T15),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,339,1,1,3,8:20 PM,4:22,Plaisance 25' 3PT Jump Shot (3 PTS) (J. Thomas 5 AST),,,45 - 60,15,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,341,1,101,3,8:21 PM,3:57,,,Zahui B 5' Driving Floating Jump Shot (5 PTS) (Clarendon 3 AST),47 - 60,13,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,343,2,1,3,8:21 PM,3:45,MISS J. Thomas 19' Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,344,4,0,3,8:21 PM,3:42,,,Willoughby REBOUND (Off:0 Def:1),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,345,2,1,3,8:21 PM,3:30,,,MISS Willoughby 24' 3PT Jump Shot,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,346,4,0,3,8:21 PM,3:26,Bonner REBOUND (Off:0 Def:8),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,347,1,98,3,8:21 PM,3:10,A. Thomas 2' Cutting Layup Shot (25 PTS) (Bonner 5 AST),,,47 - 62,15,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,349,5,2,3,8:22 PM,2:51,A. Thomas STEAL (2 STL),,Willoughby Lost Ball Turnover (P1.T16),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,351,6,1,3,8:22 PM,2:51,,,Clarendon P.FOUL (P2.T3),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,353,8,0,3,8:22 PM,2:51,SUB: Hiedeman FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,355,2,1,3,8:22 PM,2:37,MISS Bonner 17' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,356,4,0,3,8:22 PM,2:37,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,357,6,1,3,8:22 PM,2:37,Plaisance P.FOUL (P4.PN),,,,,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,359,3,11,3,8:23 PM,2:37,,,MISS Zahui B Free Throw 1 of 2,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,360,4,1,3,8:23 PM,2:37,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,361,8,0,3,8:23 PM,2:37,,,SUB: Nurse FOR Willoughby,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,363,3,12,3,8:24 PM,2:37,,,Zahui B Free Throw 2 of 2 (6 PTS),48 - 62,14,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,364,2,1,3,8:24 PM,2:21,MISS January 26' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,365,4,0,3,8:24 PM,2:17,,,Stokes REBOUND (Off:0 Def:5),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,366,2,79,3,8:24 PM,2:02,,,MISS Nurse 14' Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,367,4,0,3,8:24 PM,1:59,Bonner REBOUND (Off:0 Def:9),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,368,2,1,3,8:25 PM,1:40,MISS January 25' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,369,4,0,3,8:25 PM,1:37,A. Thomas REBOUND (Off:1 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,370,6,2,3,8:25 PM,1:32,,,Clarendon S.FOUL (P3.T4),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,372,3,11,3,8:25 PM,1:32,January Free Throw 1 of 2 (10 PTS),,,48 - 63,15,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,373,8,0,3,8:25 PM,1:32,,,SUB: Shook FOR Zahui B,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,375,3,12,3,8:26 PM,1:32,January Free Throw 2 of 2 (11 PTS),,,48 - 64,16,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,376,6,2,3,8:26 PM,1:15,Plaisance S.FOUL (P5.PN),,,,,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,378,3,11,3,8:26 PM,1:15,,,MISS Odom Free Throw 1 of 2,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,379,4,1,3,8:26 PM,1:15,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,380,8,0,3,8:26 PM,1:15,SUB: Jones FOR Plaisance,,,,,4,203849,Theresa Plaisance,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,382,3,12,3,8:27 PM,1:15,,,Odom Free Throw 2 of 2 (5 PTS),49 - 64,15,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,383,2,1,3,8:27 PM,1:02,MISS January 18' Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,384,4,0,3,8:27 PM,1:00,,,Nurse REBOUND (Off:0 Def:2),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,385,2,1,3,8:27 PM,0:43,,,MISS Stokes 24' 3PT Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,386,4,0,3,8:27 PM,0:41,Hiedeman REBOUND (Off:0 Def:1),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,387,1,1,3,8:28 PM,0:27,Bonner 12' Jump Shot (7 PTS),,,49 - 66,17,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,388,2,1,3,8:28 PM,0:04,,,MISS Nurse 3PT Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,389,4,0,3,8:28 PM,0:02,,,Odom REBOUND (Off:4 Def:1),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,390,2,72,3,8:28 PM,0:01,Jones BLOCK (1 BLK),,MISS Odom 8' Putback Layup,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1
+1022001077,392,4,0,3,8:28 PM,0:01,A. Thomas REBOUND (Off:1 Def:4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,393,2,1,3,8:28 PM,0:00,MISS A. Thomas 40' 3PT Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,394,4,0,3,8:28 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,395,13,0,3,8:28 PM,0:00,,End of 3rd Period (8:28 PM EST),,49 - 66,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001077,402,12,0,4,8:31 PM,10:00,,Start of 4th Period (8:31 PM EST),,49 - 66,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,403,2,5,4,8:32 PM,9:48,,,MISS Shook 4' Layup,,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,404,4,0,4,8:32 PM,9:46,Hiedeman REBOUND (Off:0 Def:2),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,405,1,1,4,8:32 PM,9:36,Bonner 26' 3PT Jump Shot (10 PTS) (Hiedeman 1 AST),,,49 - 69,20,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,407,1,1,4,8:32 PM,9:20,,,Clarendon 25' 3PT Jump Shot (12 PTS) (Nurse 3 AST),52 - 69,17,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,409,5,2,4,8:32 PM,8:55,Charles Lost Ball Turnover (P2.T8),,Nurse STEAL (1 STL),,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,411,2,1,4,8:33 PM,8:44,,,MISS Nurse 26' 3PT Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,412,4,0,4,8:33 PM,8:40,Charles REBOUND (Off:0 Def:1),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,413,1,5,4,8:33 PM,8:24,Hiedeman 4' Layup (2 PTS),,,52 - 71,19,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,414,6,1,4,8:33 PM,8:10,Charles P.FOUL (P2.T1),,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,416,2,1,4,8:34 PM,8:00,Bonner BLOCK (2 BLK),,MISS Shook 5' Jump Shot,,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1022001077,418,4,0,4,8:34 PM,7:58,Bonner REBOUND (Off:0 Def:10),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,419,2,1,4,8:34 PM,7:47,MISS Jones 11' Jump Shot,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,420,4,0,4,8:34 PM,7:46,Hiedeman REBOUND (Off:1 Def:2),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,421,2,1,4,8:34 PM,7:36,MISS Bonner 26' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,422,4,0,4,8:34 PM,7:34,,,Nurse REBOUND (Off:0 Def:3),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,423,6,1,4,8:34 PM,7:28,Carson P.FOUL (P1.T2),,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,425,2,1,4,8:35 PM,7:15,,,MISS Stokes 24' 3PT Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,426,4,0,4,8:35 PM,7:11,Bonner REBOUND (Off:0 Def:11),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,427,2,79,4,8:35 PM,7:04,MISS Hiedeman 16' Pullup Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,428,4,0,4,8:35 PM,7:02,,,Stokes REBOUND (Off:0 Def:6),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,429,8,0,4,8:35 PM,6:55,,,SUB: Jones FOR Clarendon,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,431,10,0,4,8:36 PM,6:52,Jump Ball Jones vs. Walker: Tip to Bonner,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1
+1022001077,434,5,2,4,8:36 PM,6:52,Jones STEAL (2 STL),,Walker Lost Ball Turnover (P1.T17),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,437,1,2,4,8:37 PM,6:30,Bonner 21' Running Jump Shot (12 PTS) (Hiedeman 2 AST),,,52 - 73,21,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,439,1,98,4,8:37 PM,6:17,,,Stokes 3' Cutting Layup Shot (10 PTS) (Nurse 4 AST),54 - 73,19,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,441,2,1,4,8:37 PM,5:59,MISS Bonner 17' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,442,4,0,4,8:37 PM,5:57,Jones REBOUND (Off:2 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,443,1,72,4,8:37 PM,5:57,Jones 2' Putback Layup (7 PTS),,,54 - 75,21,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,444,6,2,4,8:37 PM,5:57,,,Jones S.FOUL (P2.T1),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,446,9,1,4,8:38 PM,5:57,SUN Timeout: Regular (Full 3 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,447,8,0,4,8:39 PM,5:57,,,SUB: Holmes FOR Stokes,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,449,3,10,4,8:41 PM,5:57,MISS Jones Free Throw 1 of 1,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,450,4,0,4,8:41 PM,5:54,Carson REBOUND (Off:1 Def:2),,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,451,2,1,4,8:41 PM,5:50,MISS Carson 24' 3PT Jump Shot,,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,452,4,0,4,8:41 PM,5:47,,,Walker REBOUND (Off:0 Def:1),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,453,1,1,4,8:41 PM,5:36,,,Nurse 25' 3PT Jump Shot (15 PTS) (Jones 4 AST),57 - 75,18,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,455,2,98,4,8:41 PM,5:17,MISS Charles 5' Cutting Layup Shot,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,456,4,0,4,8:41 PM,5:17,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,457,8,0,4,8:41 PM,5:17,,,SUB: Zahui B FOR Shook,,,5,1630131,Kylee Shook,1611661313.0,New York,Liberty,NYL,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,459,1,5,4,8:42 PM,5:06,Jones 4' Layup (9 PTS) (Hiedeman 3 AST),,,57 - 77,20,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,461,6,2,4,8:42 PM,5:06,,,Zahui B S.FOUL (P4.T2),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,463,3,10,4,8:42 PM,5:06,MISS Jones Free Throw 1 of 1,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022001077,464,4,0,4,8:42 PM,5:03,,,Jones REBOUND (Off:0 Def:2),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,465,6,1,4,8:42 PM,4:57,Carson P.FOUL (P2.T3),,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,467,1,5,4,8:43 PM,4:50,,,Nurse 2' Layup (17 PTS) (Holmes 1 AST),59 - 77,18,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,469,5,1,4,8:43 PM,4:37,Bonner Bad Pass Turnover (P1.T9),,Jones STEAL (2 STL),,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,471,1,75,4,8:43 PM,4:34,,,Jones 3' Driving Finger Roll Layup (9 PTS),61 - 77,16,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,472,9,1,4,8:43 PM,4:34,SUN Timeout: Regular (Full 4 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,473,8,0,4,8:45 PM,4:34,SUB: January FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,474,8,0,4,8:45 PM,4:34,SUB: J. Thomas FOR Charles,,,,,4,1630097,Kaila Charles,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,477,2,1,4,8:47 PM,4:07,MISS January 19' Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,478,4,0,4,8:47 PM,4:05,,,Zahui B REBOUND (Off:0 Def:8),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,479,2,5,4,8:47 PM,4:01,,,MISS Jones 1' Layup,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,480,4,0,4,8:47 PM,3:59,Carson REBOUND (Off:1 Def:3),,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,481,2,1,4,8:47 PM,3:43,MISS Bonner 9' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,482,4,0,4,8:47 PM,3:43,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,483,2,1,4,8:47 PM,3:37,MISS J. Thomas 24' 3PT Jump Shot,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,484,4,0,4,8:47 PM,3:34,,,Zahui B REBOUND (Off:0 Def:9),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,485,2,1,4,8:48 PM,3:16,,,MISS Zahui B 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,486,4,0,4,8:48 PM,3:14,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001077,487,6,3,4,8:48 PM,3:14,,,Holmes L.B.FOUL (P1.T3),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,490,2,1,4,8:49 PM,2:51,MISS Carson 20' Jump Shot,,,,,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,491,4,0,4,8:49 PM,2:47,,,Zahui B REBOUND (Off:0 Def:10),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,492,5,2,4,8:49 PM,2:40,Carson STEAL (1 STL),,Zahui B Lost Ball Turnover (P4.T18),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,201502,Essence Carson,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,494,1,5,4,8:49 PM,2:37,Bonner 3' Layup (14 PTS) (Jones 2 AST),,,61 - 79,18,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,496,5,2,4,8:49 PM,2:15,Bonner STEAL (1 STL),,Zahui B Lost Ball Turnover (P5.T19),,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,498,1,1,4,8:49 PM,2:05,J. Thomas 25' 3PT Jump Shot (16 PTS) (Bonner 6 AST),,,61 - 82,21,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022001077,500,2,1,4,8:50 PM,1:50,,,MISS Walker 24' 3PT Jump Shot,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,501,4,0,4,8:50 PM,1:48,Bonner REBOUND (Off:0 Def:12),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,502,9,2,4,8:50 PM,1:48,SUN Timeout: Short (Full 4 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,503,8,0,4,8:50 PM,1:48,SUB: Hiedeman FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,504,8,0,4,8:50 PM,1:48,SUB: Mosqueda-Lewis FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,204321,Kaleena Mosqueda-Lewis,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,505,8,0,4,8:50 PM,1:48,SUB: Mompremier FOR J. Thomas,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022001077,506,8,0,4,8:50 PM,1:48,,,SUB: Willoughby FOR Zahui B,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001077,511,2,1,4,8:51 PM,1:22,MISS January 25' 3PT Jump Shot,,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,512,4,0,4,8:51 PM,1:22,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001077,513,6,3,4,8:51 PM,1:22,,,Holmes L.B.FOUL (P2.T4),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022001077,515,2,1,4,8:52 PM,1:14,MISS Hiedeman 25' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,516,4,0,4,8:52 PM,1:11,,,Jones REBOUND (Off:0 Def:3),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,517,2,1,4,8:52 PM,1:07,,,MISS Nurse 26' 3PT Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,518,4,0,4,8:52 PM,1:03,Mompremier REBOUND (Off:0 Def:1),,,,,4,1629492,Beatrice Mompremier,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022001077,519,2,1,4,8:52 PM,0:50,MISS Mosqueda-Lewis 14' Jump Shot,,Willoughby BLOCK (1 BLK),,,4,204321,Kaleena Mosqueda-Lewis,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1
+1022001077,520,4,0,4,8:52 PM,0:47,,,Jones REBOUND (Off:0 Def:4),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001077,521,6,2,4,8:52 PM,0:44,January S.FOUL (P3.T4),,,,,4,201896,Briann January,1611661323.0,Connecticut,Sun,CON,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,523,3,11,4,8:53 PM,0:44,,,Jones Free Throw 1 of 2 (10 PTS),62 - 82,20,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,525,3,12,4,8:53 PM,0:44,,,Jones Free Throw 2 of 2 (11 PTS),63 - 82,19,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001077,526,6,26,4,8:53 PM,0:35,Mosqueda-Lewis Offensive Charge Foul (P1),,,,,4,204321,Kaleena Mosqueda-Lewis,1611661323.0,Connecticut,Sun,CON,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001077,528,5,37,4,8:53 PM,0:35,Mosqueda-Lewis Offensive Foul Turnover (P1.T10),,,,,4,204321,Kaleena Mosqueda-Lewis,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022001077,529,1,5,4,8:53 PM,0:25,,,Walker 3' Layup (2 PTS) (Jones 5 AST),65 - 82,17,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001077,531,5,11,4,8:54 PM,0:01,SUN Turnover: Shot Clock (T#11),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001077,533,13,0,4,8:54 PM,0:00,,End of 4th Period (8:54 PM EST),,65 - 82,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

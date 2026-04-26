@@ -1,0 +1,439 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020200240,0,12,0,1,9:15 PM,20:00,,Start of 1st Half (9:15 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,1,10,0,1,10:16 PM,20:00,Jump Ball Jackson vs. Crawley: Tip to Vodichkova,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0
+1020200240,2,5,4,1,10:17 PM,19:32,Vodichkova Traveling Turnover (P1.T1),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,3,2,5,1,10:17 PM,19:16,,,MISS Burras 3' Layup,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,4,4,0,1,10:17 PM,19:14,,,Crawley REBOUND (Off:1 Def:0),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,5,5,1,1,10:18 PM,18:58,,,Bevilaqua Bad Pass Turnover (P1.T1),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,6,1,1,1,10:18 PM,18:44,Jackson 12' Jump Shot (2 PTS) (Lassiter 1 AST),,,0 - 2,2,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,7,2,1,1,10:19 PM,18:15,,,MISS Figgs  3PT Jump Shot,,,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,8,4,0,1,10:19 PM,18:13,Lassiter REBOUND (Off:0 Def:1),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,9,1,1,1,10:19 PM,18:08,Bird 14' Jump Shot (2 PTS) (Lassiter 2 AST),,,0 - 4,4,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,10,1,1,1,10:19 PM,17:58,,,Crawley 13' Jump Shot (2 PTS) (Walker 1 AST),2 - 4,2,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,11,2,1,1,10:20 PM,17:30,MISS Bird 10' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,12,4,0,1,10:20 PM,17:28,,,Burras REBOUND (Off:0 Def:1),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,13,10,0,1,10:20 PM,17:18,Jump Ball Barnes vs. Walker: Tip to Bevilaqua,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020200240,14,2,1,1,10:20 PM,17:07,,,MISS Walker 18' Jump Shot,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,15,4,0,1,10:20 PM,17:04,Barnes REBOUND (Off:0 Def:1),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,16,1,5,1,10:21 PM,16:55,Barnes  Layup (2 PTS) (Bird 1 AST),,,2 - 6,4,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,17,1,5,1,10:21 PM,16:29,,,Burras  Layup (2 PTS) (Walker 2 AST),4 - 6,2,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,18,2,1,1,10:22 PM,16:17,MISS Jackson 4' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,19,4,0,1,10:22 PM,16:16,Vodichkova REBOUND (Off:1 Def:0),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,20,2,5,1,10:22 PM,16:14,MISS Vodichkova 2' Layup,,Crawley BLOCK (1 BLK),,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0
+1020200240,21,4,0,1,10:22 PM,16:12,Barnes REBOUND (Off:1 Def:1),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,22,2,5,1,10:22 PM,16:11,MISS Barnes  Layup,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,23,4,0,1,10:22 PM,16:10,,,Burras REBOUND (Off:0 Def:2),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,24,6,1,1,10:22 PM,16:10,Jackson P.FOUL (P1.T1),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,25,6,1,1,10:23 PM,15:54,Barnes P.FOUL (P1.T2),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,26,9,4,1,10:23 PM,15:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,28,5,1,1,10:25 PM,15:33,Barnes STEAL (1 STL),,Walker Bad Pass Turnover (P1.T2),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,29,5,1,1,10:26 PM,15:12,Bird Bad Pass Turnover (P1.T2),,Figgs STEAL (1 STL),,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,30,2,1,1,10:26 PM,15:07,Jackson BLOCK (1 BLK),,MISS Figgs 3' Jump Shot,,,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020200240,31,4,0,1,10:26 PM,15:07,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,32,2,1,1,10:26 PM,15:04,Lassiter BLOCK (1 BLK),,MISS Figgs  Jump Shot,,,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0
+1020200240,45,4,0,1,10:26 PM,15:04,Bird REBOUND (Off:0 Def:1),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,33,2,1,1,10:26 PM,14:58,MISS Bird 7' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,34,4,0,1,10:26 PM,14:56,,,Crawley REBOUND (Off:1 Def:1),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,35,2,1,1,10:26 PM,14:45,,,MISS Crawley 19' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,36,4,0,1,10:26 PM,14:42,,,Walker REBOUND (Off:1 Def:0),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,37,2,1,1,10:27 PM,14:37,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,38,4,0,1,10:27 PM,14:35,Vodichkova REBOUND (Off:1 Def:1),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,39,5,1,1,10:27 PM,14:30,Bird Bad Pass Turnover (P2.T3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,40,8,0,1,10:27 PM,14:30,SUB: Edwards FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,41,6,2,1,10:27 PM,14:13,Barnes S.FOUL (P2.T3),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,43,8,0,1,10:28 PM,14:13,SUB: Starbird FOR Barnes,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,44,8,0,1,10:28 PM,14:13,,,SUB: Thomas FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,46,8,0,1,10:28 PM,14:13,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,47,3,11,1,10:28 PM,14:13,,,Burras Free Throw 1 of 2 (3 PTS),5 - 6,1,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,48,3,12,1,10:28 PM,14:13,,,Burras Free Throw 2 of 2 (4 PTS),6 - 6,TIE,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,49,2,1,1,10:28 PM,13:59,MISS Jackson  3PT Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,50,4,0,1,10:28 PM,13:57,Bird REBOUND (Off:1 Def:1),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,51,2,1,1,10:29 PM,13:53,MISS Edwards 8' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,52,4,0,1,10:29 PM,13:52,,,Thomas REBOUND (Off:0 Def:1),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,53,5,2,1,10:29 PM,13:40,Lassiter STEAL (1 STL),,Burras Lost Ball Turnover (P1.T3),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,54,6,2,1,10:29 PM,13:31,,,Burras S.FOUL (P1.T1),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,55,3,11,1,10:29 PM,13:31,Edwards Free Throw 1 of 2 (1 PTS),,,6 - 7,1,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,57,3,12,1,10:29 PM,13:31,Edwards Free Throw 2 of 2 (2 PTS),,,6 - 8,2,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,59,2,1,1,10:30 PM,13:11,,,MISS Burras 4' Jump Shot,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,60,4,0,1,10:30 PM,13:10,Jackson REBOUND (Off:0 Def:1),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,61,5,2,1,10:30 PM,13:05,Edwards Lost Ball Turnover (P1.T4),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,62,2,1,1,10:30 PM,12:45,Lassiter BLOCK (2 BLK),,MISS Burras 4' Jump Shot,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0
+1020200240,63,4,0,1,10:31 PM,12:45,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,64,8,0,1,10:31 PM,12:45,,,SUB: Stiles FOR Figgs,,,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,65,6,2,1,10:31 PM,12:37,Starbird S.FOUL (P1.T4),,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,66,3,11,1,10:31 PM,12:37,,,MISS Thomas Free Throw 1 of 2,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,67,4,1,1,10:31 PM,12:37,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,68,8,0,1,10:32 PM,12:37,SUB: Marciniak FOR Bird,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,69,8,0,1,10:32 PM,12:37,,,SUB: Folkl FOR Burras,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,70,3,12,1,10:32 PM,12:37,,,MISS Thomas Free Throw 2 of 2,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,71,4,0,1,10:32 PM,12:36,Jackson REBOUND (Off:0 Def:2),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,72,1,1,1,10:32 PM,12:21,Lassiter 10' Jump Shot (2 PTS) (Starbird 1 AST),,,6 - 10,4,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,73,1,42,1,10:32 PM,12:12,,,Jackson  Driving Layup (2 PTS),8 - 10,2,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,74,6,2,1,10:33 PM,11:53,,,Stiles S.FOUL (P1.T2),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,75,9,4,1,10:33 PM,11:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,77,3,11,1,10:35 PM,11:53,Lassiter Free Throw 1 of 2 (3 PTS),,,8 - 11,3,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,78,3,12,1,10:35 PM,11:53,Lassiter Free Throw 2 of 2 (4 PTS),,,8 - 12,4,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,79,1,1,1,10:36 PM,11:46,,,Stiles  3PT Jump Shot (3 PTS) (Jackson 1 AST),11 - 12,1,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,80,1,1,1,10:36 PM,11:22,Jackson  3PT Jump Shot (5 PTS) (Marciniak 1 AST),,,11 - 15,4,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,81,1,42,1,10:36 PM,11:13,,,Jackson  Driving Layup (4 PTS),13 - 15,2,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,82,6,2,1,10:36 PM,11:13,Starbird S.FOUL (P2.PN),,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,83,8,0,1,10:37 PM,11:13,SUB: Bird FOR Lassiter,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,84,8,0,1,10:37 PM,11:13,,,SUB: Walker FOR Crawley,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,85,3,10,1,10:37 PM,11:13,,,MISS Jackson Free Throw 1 of 1,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,86,4,0,1,10:37 PM,11:12,Starbird REBOUND (Off:0 Def:1),,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,87,5,1,1,10:37 PM,10:59,Marciniak Bad Pass Turnover (P1.T5),,Jackson STEAL (1 STL),,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,88,2,1,1,10:37 PM,10:48,,,MISS Folkl 15' Jump Shot,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,89,4,0,1,10:37 PM,10:45,Marciniak REBOUND (Off:0 Def:1),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,90,1,1,1,10:38 PM,10:32,Bird 24' 3PT Jump Shot (5 PTS) (Starbird 2 AST),,,13 - 18,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,91,2,1,1,10:38 PM,10:21,,,MISS Stiles  3PT Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,92,4,0,1,10:38 PM,10:20,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,93,2,1,1,10:38 PM,10:06,MISS Bird  3PT Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,94,4,0,1,10:38 PM,10:05,,,Folkl REBOUND (Off:0 Def:1),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,95,8,0,1,10:38 PM,10:05,SUB: Vodichkova FOR Jackson,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,96,6,1,1,10:38 PM,10:05,Marciniak P.FOUL (P1.PN),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,97,2,1,1,10:39 PM,9:57,,,MISS Jackson 18' Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,98,4,0,1,10:39 PM,9:55,Marciniak REBOUND (Off:0 Def:2),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,99,1,1,1,10:39 PM,9:41,Starbird 4' Jump Shot (2 PTS) (Bird 2 AST),,,13 - 20,7,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,100,2,1,1,10:39 PM,9:33,,,MISS Thomas 4' Jump Shot,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,101,4,0,1,10:39 PM,9:31,Vodichkova REBOUND (Off:1 Def:2),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,102,6,2,1,10:40 PM,9:21,,,Folkl S.FOUL (P1.T3),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,103,3,11,1,10:40 PM,9:21,MISS Marciniak Free Throw 1 of 2,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,104,4,1,1,10:40 PM,9:21,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,105,8,0,1,10:40 PM,9:21,SUB: Ragland FOR Starbird,,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,4,100748,Felicia Ragland,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,106,3,12,1,10:40 PM,9:21,Marciniak Free Throw 2 of 2 (1 PTS),,,13 - 21,8,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,107,2,1,1,10:41 PM,9:03,,,MISS Stiles 11' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,108,4,0,1,10:41 PM,9:01,Marciniak REBOUND (Off:0 Def:3),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,109,5,2,1,10:41 PM,8:58,Marciniak Lost Ball Turnover (P2.T6),,Thomas STEAL (1 STL),,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,110,1,42,1,10:41 PM,8:54,,,Thomas  Driving Layup (2 PTS),15 - 21,6,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,111,8,0,1,10:41 PM,8:41,,,SUB: Young FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,112,1,1,1,10:41 PM,8:35,Bird  3PT Jump Shot (8 PTS) (Ragland 1 AST),,,15 - 24,9,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100748,Felicia Ragland,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,113,1,1,1,10:42 PM,8:25,,,Walker 4' Jump Shot (2 PTS) (Jackson 2 AST),17 - 24,7,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,114,5,1,1,10:42 PM,7:58,Ragland Bad Pass Turnover (P1.T7),,Jackson STEAL (2 STL),,,4,100748,Felicia Ragland,1611661328.0,Seattle,Storm,SEA,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,115,1,5,1,10:42 PM,7:53,,,Stiles 1' Layup (5 PTS) (Jackson 3 AST),19 - 24,5,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,116,2,1,1,10:42 PM,7:38,MISS Vodichkova  3PT Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,117,4,0,1,10:42 PM,7:35,,,Walker REBOUND (Off:1 Def:1),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,118,2,1,1,10:43 PM,7:28,,,MISS Jackson  3PT Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,119,4,0,1,10:43 PM,7:26,Marciniak REBOUND (Off:0 Def:4),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,120,1,1,1,10:43 PM,7:21,Marciniak 15' Jump Shot (3 PTS),,,19 - 26,7,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,121,1,46,1,10:43 PM,7:13,,,Stiles 4' Running Jump Shot (7 PTS),21 - 26,5,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,122,1,46,1,10:43 PM,7:00,Bird 11' Running Jump Shot (10 PTS),,,21 - 28,7,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,123,6,2,1,10:43 PM,7:00,,,Jackson S.FOUL (P1.T4),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,124,9,4,1,10:43 PM,7:00,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,126,8,0,1,10:46 PM,7:00,,,SUB: Bevilaqua FOR Jackson,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,127,8,0,1,10:46 PM,7:00,,,SUB: Burras FOR Folkl,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,128,8,0,1,10:46 PM,7:00,SUB: Jackson FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,129,8,0,1,10:46 PM,7:00,SUB: Lassiter FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,130,8,0,1,10:46 PM,7:00,SUB: Starbird FOR Ragland,,,,,4,100748,Felicia Ragland,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,131,3,10,1,10:46 PM,7:00,MISS Bird Free Throw 1 of 1,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,132,4,0,1,10:46 PM,6:58,,,Walker REBOUND (Off:1 Def:2),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,133,2,1,1,10:46 PM,6:50,,,MISS Young 18' Jump Shot,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,134,4,0,1,10:46 PM,6:47,Jackson REBOUND (Off:0 Def:3),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,135,2,1,1,10:47 PM,6:26,MISS Bird 17' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,136,4,0,1,10:47 PM,6:25,Jackson REBOUND (Off:1 Def:3),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,137,1,1,1,10:47 PM,6:22,Jackson 5' Jump Shot (7 PTS),,,21 - 30,9,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,138,2,1,1,10:47 PM,5:54,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,139,4,0,1,10:47 PM,5:52,Lassiter REBOUND (Off:0 Def:2),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,140,6,4,1,10:47 PM,5:47,Jackson OFF.Foul (P2),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,141,5,5,1,10:47 PM,5:47,Jackson Foul Turnover (P1.T8),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,142,1,1,1,10:48 PM,5:33,,,Young 12' Jump Shot (2 PTS),23 - 30,7,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,144,8,0,1,10:49 PM,5:15,,,SUB: Figgs FOR Stiles,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,145,10,0,1,10:49 PM,5:15,Jump Ball Vodichkova vs. Young: Tip to Figgs,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0
+1020200240,146,5,2,1,10:49 PM,5:15,Vodichkova Lost Ball Turnover (P2.T9),,Young STEAL (1 STL),,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,147,1,42,1,10:49 PM,5:09,,,Bevilaqua  Driving Layup (2 PTS) (Figgs 1 AST),25 - 30,5,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,148,1,1,1,10:49 PM,4:55,Jackson 8' Jump Shot (9 PTS) (Lassiter 3 AST),,,25 - 32,7,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,149,2,1,1,10:49 PM,4:43,,,MISS Young 8' Jump Shot,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,150,4,0,1,10:49 PM,4:41,Bird REBOUND (Off:1 Def:2),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,151,2,5,1,10:49 PM,4:36,MISS Bird 2' Layup,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,152,4,0,1,10:49 PM,4:35,,,Walker REBOUND (Off:1 Def:3),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,153,2,1,1,10:50 PM,4:21,,,MISS Walker 15' Jump Shot,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,154,4,0,1,10:50 PM,4:19,Vodichkova REBOUND (Off:1 Def:3),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,155,6,1,1,10:50 PM,4:13,,,Walker P.FOUL (P1.PN),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,156,9,2,1,10:50 PM,4:13,STORM Timeout: Short (Full 0 Short 1),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,158,2,5,1,10:51 PM,4:11,MISS Jackson 1' Layup,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,159,4,0,1,10:51 PM,4:10,Jackson REBOUND (Off:2 Def:3),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,160,6,1,1,10:51 PM,4:10,,,Bevilaqua P.FOUL (P1.PN),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,161,8,0,1,10:51 PM,4:10,,,SUB: Crawley FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,162,3,11,1,10:51 PM,4:10,Jackson Free Throw 1 of 2 (10 PTS),,,25 - 33,8,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,163,3,12,1,10:52 PM,4:10,Jackson Free Throw 2 of 2 (11 PTS),,,25 - 34,9,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,164,5,1,1,10:52 PM,4:09,Lassiter STEAL (2 STL),,Burras Bad Pass Turnover (P2.T4),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,165,2,1,1,10:52 PM,4:06,MISS Lassiter 9' Jump Shot,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,166,4,0,1,10:52 PM,4:04,,,Young REBOUND (Off:0 Def:1),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,167,1,42,1,10:52 PM,3:57,,,Young  Driving Layup (4 PTS),27 - 34,7,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,168,2,1,1,10:52 PM,3:39,MISS Vodichkova 4' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,169,4,0,1,10:52 PM,3:38,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,170,9,4,1,10:52 PM,3:38,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,172,8,0,1,10:55 PM,3:38,SUB: Edwards FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,173,1,1,1,10:55 PM,3:10,,,Crawley 7' Jump Shot (4 PTS) (Figgs 2 AST),29 - 34,5,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,174,2,1,1,10:56 PM,2:52,MISS Edwards 3' Jump Shot,,Crawley BLOCK (2 BLK),,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0
+1020200240,175,4,0,1,10:56 PM,2:49,,,Young REBOUND (Off:0 Def:2),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,176,2,5,1,10:56 PM,2:45,Bird BLOCK (1 BLK),,MISS Bevilaqua 3' Layup,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1020200240,177,4,0,1,10:56 PM,2:42,,,Bevilaqua REBOUND (Off:1 Def:0),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,178,1,5,1,10:56 PM,2:41,,,Bevilaqua  Layup (4 PTS),31 - 34,3,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,179,6,1,1,10:56 PM,2:20,,,Bevilaqua P.FOUL (P2.PN),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,180,8,0,1,10:57 PM,2:20,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,181,1,1,1,10:57 PM,2:12,Edwards 4' Jump Shot (4 PTS) (Lassiter 4 AST),,,31 - 36,5,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,182,6,4,1,10:57 PM,1:58,,,Crawley OFF.Foul (P1),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,183,5,14,1,10:57 PM,1:58,,,Crawley Illegal Pick Turnover (P1.T5),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,184,8,0,1,10:57 PM,1:58,SUB: Marciniak FOR Starbird,,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,185,8,0,1,10:58 PM,1:58,,,SUB: Stiles FOR Young,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,186,1,46,1,10:58 PM,1:49,Bird 6' Running Jump Shot (12 PTS),,,31 - 38,7,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,187,5,2,1,10:58 PM,1:37,Bird STEAL (1 STL),,Stiles Lost Ball Turnover (P1.T6),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,188,2,1,1,10:58 PM,1:26,MISS Edwards 3' Jump Shot,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,189,4,0,1,10:58 PM,1:25,,,Burras REBOUND (Off:0 Def:3),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,190,6,2,1,10:58 PM,1:17,Edwards S.FOUL (P1.PN),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,191,3,11,1,10:59 PM,1:17,,,Crawley Free Throw 1 of 2 (5 PTS),32 - 38,6,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,192,3,12,1,10:59 PM,1:17,,,Crawley Free Throw 2 of 2 (6 PTS),33 - 38,5,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,193,5,1,1,10:59 PM,0:59,Edwards Bad Pass Turnover (P2.T10),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,194,8,0,1,10:59 PM,0:59,SUB: Vodichkova FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,195,1,1,1,11:00 PM,0:47,,,Jackson 7' Jump Shot (6 PTS),35 - 38,3,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,196,1,1,1,11:00 PM,0:33,Lassiter  3PT Jump Shot (7 PTS),,,35 - 41,6,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,197,1,1,1,11:00 PM,0:21,,,Jackson 14' Jump Shot (8 PTS),37 - 41,4,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,198,6,1,1,11:01 PM,0:10,,,Jackson P.FOUL (P2.PN),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,199,3,11,1,11:01 PM,0:10,Bird Free Throw 1 of 2 (13 PTS),,,37 - 42,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,200,3,12,1,11:01 PM,0:10,Bird Free Throw 2 of 2 (14 PTS),,,37 - 43,6,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,201,9,1,1,11:01 PM,0:10,,,Fire Timeout: Regular (Reg.1 Short 0),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,203,8,0,1,11:03 PM,0:10,,,SUB: Walker FOR Figgs,,,5,100392,Ukari Figgs,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,204,8,0,1,11:03 PM,0:10,SUB: Edwards FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,205,8,0,1,11:03 PM,0:10,SUB: Barnes FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,206,5,1,1,11:04 PM,0:04,,,Jackson Bad Pass Turnover (P1.T7),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,207,9,1,1,11:04 PM,0:04,STORM Timeout: Regular (Full 1 Short 1),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,209,8,0,1,11:06 PM,0:04,SUB: Vodichkova FOR Barnes,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,210,8,0,1,11:06 PM,0:04,SUB: Starbird FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,211,8,0,1,11:06 PM,0:04,,,SUB: Folkl FOR Burras,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,212,8,0,1,11:06 PM,0:04,,,SUB: Thomas FOR Stiles,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,213,2,1,1,11:06 PM,0:00,MISS Vodichkova 54' 3PT Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,214,4,0,1,11:06 PM,0:00,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,215,13,0,1,11:06 PM,0:00,,End of 1st Half (11:06 PM EST),,37 - 43,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,217,12,0,2,11:20 PM,20:00,,Start of 2nd Half (11:20 PM EST),,37 - 43,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,218,10,0,2,11:21 PM,20:00,Jump Ball Jackson vs. Crawley: Tip to Bevilaqua,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020200240,219,5,3,2,11:21 PM,19:46,,,Walker Out Of Bounds Turnover (P2.T8),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,220,2,3,2,11:22 PM,19:31,MISS Vodichkova 4' Hook Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,221,4,0,2,11:22 PM,19:29,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,222,1,5,2,11:22 PM,19:21,,,Burras 2' Layup (6 PTS) (Crawley 1 AST),39 - 43,4,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,223,2,1,2,11:23 PM,18:58,MISS Jackson  3PT Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,224,4,0,2,11:23 PM,18:56,,,Walker REBOUND (Off:1 Def:4),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,225,5,2,2,11:23 PM,18:50,,,Burras Lost Ball Turnover (P3.T9),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,226,2,1,2,11:23 PM,18:25,MISS Vodichkova 4' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,227,4,0,2,11:23 PM,18:24,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,228,2,1,2,11:24 PM,18:03,,,MISS Stiles 4' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,229,4,0,2,11:24 PM,18:02,Jackson REBOUND (Off:2 Def:4),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,230,2,1,2,11:24 PM,17:40,MISS Lassiter  3PT Jump Shot,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,231,4,0,2,11:24 PM,17:38,,,Crawley REBOUND (Off:1 Def:2),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,232,5,2,2,11:24 PM,17:37,Vodichkova STEAL (1 STL),,Crawley Lost Ball Turnover (P2.T10),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,233,1,5,2,11:25 PM,17:27,Jackson 3' Layup (13 PTS) (Bird 3 AST),,,39 - 45,6,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,234,2,1,2,11:25 PM,17:13,,,MISS Burras 4' Jump Shot,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,235,4,0,2,11:25 PM,17:10,Bird REBOUND (Off:1 Def:3),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,236,2,1,2,11:25 PM,17:03,MISS Bird 15' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,237,4,0,2,11:25 PM,17:01,,,Bevilaqua REBOUND (Off:1 Def:1),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,238,2,1,2,11:25 PM,16:48,Jackson BLOCK (2 BLK),,MISS Burras 3' Jump Shot,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020200240,239,4,0,2,11:25 PM,16:44,Jackson REBOUND (Off:2 Def:5),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,240,2,1,2,11:26 PM,16:39,MISS Lassiter 6' Jump Shot,,Walker BLOCK (1 BLK),,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0
+1020200240,241,4,0,2,11:26 PM,16:37,,,Walker REBOUND (Off:1 Def:5),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,242,1,1,2,11:26 PM,16:29,,,Stiles  3PT Jump Shot (10 PTS) (Crawley 2 AST),42 - 45,3,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,243,2,1,2,11:26 PM,16:06,MISS Vodichkova 5' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,244,8,0,2,11:26 PM,16:03,SUB: Edwards FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,246,8,0,2,11:26 PM,16:03,,,SUB: Folkl FOR Burras,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,247,10,0,2,11:27 PM,16:03,Jump Ball Barnes vs. Walker: Tip to Jackson,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020200240,248,4,0,2,11:27 PM,16:03,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,249,1,1,2,11:27 PM,15:57,Jackson 7' Jump Shot (15 PTS) (Lassiter 5 AST),,,42 - 47,5,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,250,1,5,2,11:27 PM,15:51,,,Walker  Layup (4 PTS) (Bevilaqua 1 AST),44 - 47,3,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,252,6,1,2,11:27 PM,15:34,,,Walker P.FOUL (P2.T1),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,253,9,4,2,11:27 PM,15:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,255,8,0,2,11:30 PM,15:34,SUB: Starbird FOR Barnes,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,256,2,1,2,11:30 PM,15:27,MISS Starbird 3' Jump Shot,,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,257,4,0,2,11:30 PM,15:25,,,Walker REBOUND (Off:1 Def:6),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,258,1,1,2,11:30 PM,15:19,,,Walker 11' Jump Shot (6 PTS) (Folkl 1 AST),46 - 47,1,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,260,2,1,2,11:30 PM,14:59,MISS Jackson  3PT Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,261,4,0,2,11:30 PM,14:57,,,Folkl REBOUND (Off:0 Def:2),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,262,2,1,2,11:30 PM,14:53,,,MISS Crawley 15' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,263,4,0,2,11:30 PM,14:50,Lassiter REBOUND (Off:0 Def:3),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,264,1,5,2,11:30 PM,14:46,Starbird  Layup (4 PTS) (Bird 4 AST),,,46 - 49,3,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,265,5,1,2,11:31 PM,14:31,Jackson STEAL (1 STL),,Crawley Bad Pass Turnover (P3.T11),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,266,1,1,2,11:31 PM,14:21,Bird 15' Jump Shot (16 PTS),,,46 - 51,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,267,8,0,2,11:31 PM,14:11,SUB: Vodichkova FOR Jackson,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,268,8,0,2,11:31 PM,14:11,,,SUB: Young FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,270,8,0,2,11:32 PM,14:11,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,271,1,1,2,11:32 PM,13:57,,,Stiles  3PT Jump Shot (13 PTS) (Jackson 4 AST),49 - 51,2,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,272,5,1,2,11:32 PM,13:36,Bird Bad Pass Turnover (P3.T11),,Crawley STEAL (1 STL),,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,273,2,1,2,11:32 PM,13:23,,,MISS Jackson  3PT Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,274,4,0,2,11:32 PM,13:22,Lassiter REBOUND (Off:0 Def:4),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,275,5,1,2,11:33 PM,13:08,Edwards Bad Pass Turnover (P3.T12),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,276,8,0,2,11:33 PM,13:08,SUB: Marciniak FOR Lassiter,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,277,1,42,2,11:33 PM,12:55,,,Jackson  Driving Layup (10 PTS),51 - 51,TIE,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,278,1,1,2,11:33 PM,12:40,Bird  3PT Jump Shot (19 PTS),,,51 - 54,3,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,279,2,1,2,11:33 PM,12:28,,,MISS Crawley 13' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,280,4,0,2,11:33 PM,12:26,Vodichkova REBOUND (Off:1 Def:4),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,281,1,42,2,11:33 PM,12:20,Bird  Driving Layup (21 PTS) (Marciniak 2 AST),,,51 - 56,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,282,6,2,2,11:33 PM,12:20,,,Young S.FOUL (P1.T2),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,283,8,0,2,11:34 PM,12:20,,,SUB: Walker FOR Crawley,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,284,3,10,2,11:34 PM,12:20,Bird Free Throw 1 of 1 (22 PTS),,,51 - 57,6,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,286,1,1,2,11:34 PM,12:09,,,Stiles  3PT Jump Shot (16 PTS) (Jackson 5 AST),54 - 57,3,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,287,2,5,2,11:35 PM,11:51,MISS Vodichkova 3' Layup,,Folkl BLOCK (1 BLK),,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0
+1020200240,288,4,0,2,11:35 PM,11:51,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,289,9,4,2,11:35 PM,11:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,291,8,0,2,11:37 PM,11:51,SUB: Jackson FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,292,2,1,2,11:37 PM,11:48,MISS Starbird 9' Jump Shot,,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,293,4,0,2,11:37 PM,11:46,,,Walker REBOUND (Off:1 Def:7),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,294,6,1,2,11:37 PM,11:39,Starbird P.FOUL (P3.T1),,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,295,8,0,2,11:38 PM,11:39,SUB: Lassiter FOR Starbird,,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,296,1,5,2,11:38 PM,11:35,,,Walker  Layup (8 PTS) (Stiles 1 AST),56 - 57,1,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,297,1,1,2,11:38 PM,11:14,Bird 6' Jump Shot (24 PTS),,,56 - 59,3,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,298,1,1,2,11:38 PM,11:05,,,Jackson 14' Jump Shot (12 PTS),58 - 59,1,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,299,1,5,2,11:39 PM,10:44,Jackson 2' Layup (17 PTS) (Lassiter 6 AST),,,58 - 61,3,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,300,1,5,2,11:39 PM,10:29,,,Young  Layup (6 PTS) (Stiles 2 AST),60 - 61,1,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,301,6,2,2,11:39 PM,10:29,Jackson S.FOUL (P3.T2),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,302,3,10,2,11:39 PM,10:29,,,Young Free Throw 1 of 1 (7 PTS),61 - 61,TIE,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,304,6,1,2,11:40 PM,10:16,,,Young P.FOUL (P2.T3),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,305,8,0,2,11:40 PM,10:05,,,SUB: Thomas FOR Stiles,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,306,1,42,2,11:41 PM,9:51,Lassiter  Driving Layup (9 PTS),,,61 - 63,2,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,307,5,2,2,11:42 PM,9:42,Jackson STEAL (2 STL),,Walker Lost Ball Turnover (P3.T12),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,308,2,1,2,11:42 PM,9:36,MISS Jackson 3' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,309,4,0,2,11:42 PM,9:35,Jackson REBOUND (Off:3 Def:5),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,310,2,5,2,11:42 PM,9:33,MISS Jackson 3' Layup,,Walker BLOCK (2 BLK),,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0
+1020200240,311,4,0,2,11:42 PM,9:30,Jackson REBOUND (Off:4 Def:5),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,312,6,2,2,11:42 PM,9:27,,,Walker S.FOUL (P3.T4),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,313,3,11,2,11:42 PM,9:27,MISS Marciniak Free Throw 1 of 2,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,314,4,1,2,11:42 PM,9:27,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,315,8,0,2,11:42 PM,9:27,,,SUB: Crawley FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,316,3,12,2,11:42 PM,9:27,MISS Marciniak Free Throw 2 of 2,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,317,4,0,2,11:43 PM,9:26,,,Folkl REBOUND (Off:0 Def:3),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,318,1,1,2,11:43 PM,9:17,,,Jackson 10' Jump Shot (14 PTS) (Folkl 2 AST),63 - 63,TIE,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,319,6,1,2,11:43 PM,9:06,,,Jackson P.FOUL (P3.PN),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,320,8,0,2,11:44 PM,9:04,,,SUB: Stiles FOR Young,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,321,8,0,2,11:44 PM,9:04,SUB: Barnes FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,322,1,1,2,11:44 PM,9:01,Jackson 5' Jump Shot (19 PTS) (Bird 5 AST),,,63 - 65,2,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,323,6,2,2,11:44 PM,8:53,Barnes S.FOUL (P3.T3),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,324,3,11,2,11:44 PM,8:53,,,Jackson Free Throw 1 of 2 (15 PTS),64 - 65,1,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,325,3,12,2,11:44 PM,8:53,,,Jackson Free Throw 2 of 2 (16 PTS),65 - 65,TIE,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,326,6,2,2,11:45 PM,8:38,,,Thomas S.FOUL (P1.PN),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,327,8,0,2,11:45 PM,8:38,SUB: Vodichkova FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,328,3,11,2,11:45 PM,8:38,Bird Free Throw 1 of 2 (25 PTS),,,65 - 66,1,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,329,3,12,2,11:45 PM,8:38,Bird Free Throw 2 of 2 (26 PTS),,,65 - 67,2,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,330,2,1,2,11:46 PM,8:19,,,MISS Jackson 5' Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,331,4,0,2,11:46 PM,8:18,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,332,6,3,2,11:46 PM,8:18,Vodichkova L.B.FOUL (P1.T4),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,333,2,1,2,11:46 PM,8:11,,,MISS Folkl 12' Jump Shot,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,334,4,0,2,11:46 PM,8:11,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,335,6,3,2,11:46 PM,8:11,,,Crawley L.B.FOUL (P2.PN),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,336,2,1,2,11:47 PM,7:59,MISS Jackson 12' Jump Shot,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,337,4,0,2,11:47 PM,7:57,Lassiter REBOUND (Off:1 Def:4),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,338,6,2,2,11:47 PM,7:51,,,Crawley S.FOUL (P3.PN),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,339,9,4,2,11:47 PM,7:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,341,8,0,2,11:49 PM,7:51,,,SUB: Burras FOR Folkl,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,343,3,11,2,11:49 PM,7:51,Jackson Free Throw 1 of 2 (20 PTS),,,65 - 68,3,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,344,3,12,2,11:50 PM,7:51,Jackson Free Throw 2 of 2 (21 PTS),,,65 - 69,4,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,345,2,1,2,11:50 PM,7:39,Lassiter BLOCK (3 BLK),,MISS Stiles 4' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0
+1020200240,346,4,0,2,11:50 PM,7:36,Barnes REBOUND (Off:1 Def:2),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,347,5,1,2,11:51 PM,7:13,Lassiter Bad Pass Turnover (P1.T13),,Thomas STEAL (2 STL),,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,348,2,1,2,11:51 PM,7:06,,,MISS Jackson 7' Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,349,4,0,2,11:51 PM,7:04,Vodichkova REBOUND (Off:1 Def:5),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,350,5,2,2,11:51 PM,6:53,Bird Lost Ball Turnover (P4.T14),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,351,2,1,2,11:52 PM,6:35,,,MISS Stiles  3PT Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,352,4,0,2,11:52 PM,6:34,Bird REBOUND (Off:1 Def:4),,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,353,2,1,2,11:52 PM,6:13,MISS Vodichkova 3' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,354,4,0,2,11:52 PM,6:11,Barnes REBOUND (Off:2 Def:2),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,355,2,5,2,11:52 PM,6:06,MISS Barnes 1' Layup,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,356,4,0,2,11:52 PM,6:04,Jackson REBOUND (Off:5 Def:5),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,357,2,5,2,11:52 PM,6:02,MISS Jackson 2' Layup,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,358,4,0,2,11:52 PM,6:02,,,Thomas REBOUND (Off:0 Def:2),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,359,6,1,2,11:52 PM,6:02,Vodichkova P.FOUL (P2.PN),,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,360,8,0,2,11:52 PM,6:02,SUB: Marciniak FOR Bird,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,361,2,1,2,11:53 PM,5:52,,,MISS Jackson 14' Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,362,4,0,2,11:53 PM,5:50,Jackson REBOUND (Off:5 Def:6),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,363,2,1,2,11:53 PM,5:33,MISS Vodichkova 4' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,364,4,0,2,11:53 PM,5:30,Lassiter REBOUND (Off:2 Def:4),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,365,5,2,2,11:53 PM,5:29,Lassiter Lost Ball Turnover (P2.T15),,Jackson STEAL (3 STL),,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,367,9,2,2,11:55 PM,5:27,,,Fire Timeout: Short (Reg.1 Short 1),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,368,10,0,2,11:56 PM,5:27,Jump Ball Vodichkova vs. Jackson: Tip to Barnes,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0
+1020200240,369,5,2,2,11:56 PM,5:27,Vodichkova STEAL (2 STL),,Jackson Lost Ball Turnover (P2.T13),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,370,2,1,2,11:57 PM,5:12,MISS Vodichkova 3' Jump Shot,,Crawley BLOCK (3 BLK),,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0
+1020200240,371,4,0,2,11:57 PM,5:11,,,Thomas REBOUND (Off:0 Def:3),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,372,6,1,2,11:57 PM,5:11,Marciniak P.FOUL (P2.PN),,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,373,8,0,2,11:57 PM,5:11,,,SUB: Bevilaqua FOR Jackson,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,374,5,1,2,11:58 PM,4:56,Jackson STEAL (3 STL),,Crawley Bad Pass Turnover (P4.T14),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,375,2,1,2,11:58 PM,4:34,MISS Marciniak 11' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,376,4,0,2,11:58 PM,4:31,,,Thomas REBOUND (Off:0 Def:4),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,377,2,1,2,11:58 PM,4:25,,,MISS Crawley 6' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,378,4,0,2,11:58 PM,4:23,Barnes REBOUND (Off:2 Def:3),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,379,9,2,2,11:58 PM,4:15,STORM Timeout: Short (Full 1 Short 2),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,381,8,0,2,11:59 PM,4:15,SUB: Edwards FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,382,8,0,2,11:59 PM,4:15,SUB: Bird FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,383,2,1,2,11:59 PM,4:12,MISS Barnes 13' Jump Shot,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,384,4,0,2,11:59 PM,4:10,,,Thomas REBOUND (Off:0 Def:5),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,385,2,5,2,11:59 PM,4:04,,,MISS Crawley 2' Layup,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,386,4,0,2,12:00 AM,4:02,Barnes REBOUND (Off:2 Def:4),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,387,2,1,2,12:00 AM,3:57,MISS Barnes 4' Jump Shot,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,388,4,0,2,12:00 AM,3:55,Barnes REBOUND (Off:3 Def:4),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,389,6,2,2,12:00 AM,3:55,,,Bevilaqua S.FOUL (P3.PN),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,390,9,4,2,12:00 AM,3:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,392,3,11,2,12:02 AM,3:55,MISS Barnes Free Throw 1 of 2,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,393,4,1,2,12:02 AM,3:55,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,394,3,12,2,12:02 AM,3:55,Barnes Free Throw 2 of 2 (3 PTS),,,65 - 70,5,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,395,2,1,2,12:03 AM,3:46,,,MISS Thomas 4' Jump Shot,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,396,4,0,2,12:03 AM,3:45,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,397,6,3,2,12:03 AM,3:45,Barnes L.B.FOUL (P4.PN),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,398,8,0,2,12:03 AM,3:45,,,SUB: Young FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,399,1,1,2,12:03 AM,3:38,,,Young 17' Jump Shot (9 PTS) (Bevilaqua 2 AST),67 - 70,3,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,400,1,5,2,12:04 AM,3:18,Jackson  Layup (23 PTS) (Lassiter 7 AST),,,67 - 72,5,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,401,6,2,2,12:04 AM,3:18,,,Crawley S.FOUL (P4.PN),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,402,3,10,2,12:04 AM,3:18,MISS Jackson Free Throw 1 of 1,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,403,4,0,2,12:04 AM,3:17,,,Crawley REBOUND (Off:1 Def:3),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,404,1,1,2,12:04 AM,3:08,,,Bevilaqua  3PT Jump Shot (7 PTS) (Stiles 3 AST),70 - 72,2,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,405,2,1,2,12:05 AM,2:43,MISS Bird 8' Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,406,4,0,2,12:05 AM,2:41,Barnes REBOUND (Off:4 Def:4),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,407,2,1,2,12:05 AM,2:39,MISS Lassiter  3PT Jump Shot,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,408,4,0,2,12:05 AM,2:37,,,Young REBOUND (Off:0 Def:3),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,409,5,1,2,12:05 AM,2:34,Bird STEAL (2 STL),,Young Bad Pass Turnover (P1.T15),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,410,2,46,2,12:05 AM,2:28,MISS Bird 4' Running Jump Shot,,,,,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,411,4,0,2,12:05 AM,2:23,Barnes REBOUND (Off:5 Def:4),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,412,1,42,2,12:06 AM,2:04,Bird 4' Driving Layup (28 PTS),,,70 - 74,4,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,413,6,2,2,12:06 AM,2:04,,,Stiles S.FOUL (P2.PN),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,415,8,0,2,12:06 AM,2:04,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,417,9,2,2,12:06 AM,2:04,,,Fire Timeout: Short (Reg.1 Short 2),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,419,8,0,2,12:07 AM,2:04,,,SUB: Walker FOR Burras,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,420,3,10,2,12:07 AM,2:04,Bird Free Throw 1 of 1 (29 PTS),,,70 - 75,5,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,421,2,41,2,12:08 AM,1:56,,,MISS Jackson 3' Running Layup,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,422,4,0,2,12:08 AM,1:54,Edwards REBOUND (Off:0 Def:1),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,424,8,0,2,12:08 AM,1:54,,,SUB: Thomas FOR Young,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,425,10,0,2,12:08 AM,1:54,Jump Ball Edwards vs. Jackson: Tip to Walker,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0
+1020200240,426,5,2,2,12:08 AM,1:54,Edwards Lost Ball Turnover (P4.T16),,Jackson STEAL (4 STL),,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,427,2,1,2,12:08 AM,1:50,Jackson BLOCK (3 BLK),,MISS Walker 4' Jump Shot,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020200240,428,4,0,2,12:09 AM,1:48,Jackson REBOUND (Off:5 Def:7),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,429,1,1,2,12:09 AM,1:37,Edwards 3' Jump Shot (6 PTS) (Bird 6 AST),,,70 - 77,7,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,430,2,5,2,12:09 AM,1:24,,,MISS Walker 3' Layup,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,431,4,0,2,12:09 AM,1:23,Jackson REBOUND (Off:5 Def:8),,,,,4,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,432,6,1,2,12:09 AM,1:08,,,Walker P.FOUL (P4.PN),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,433,8,0,2,12:10 AM,1:08,,,SUB: Young FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,434,3,11,2,12:10 AM,1:08,Bird Free Throw 1 of 2 (30 PTS),,,70 - 78,8,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,435,3,12,2,12:10 AM,1:08,Bird Free Throw 2 of 2 (31 PTS),,,70 - 79,9,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,436,2,1,2,12:10 AM,0:56,,,MISS Crawley 3' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,437,4,0,2,12:10 AM,0:53,Barnes REBOUND (Off:5 Def:5),,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,438,5,4,2,12:10 AM,0:48,Lassiter Traveling Turnover (P3.T17),,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020200240,439,2,1,2,12:11 AM,0:43,,,MISS Jackson  3PT Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,440,4,0,2,12:11 AM,0:41,Edwards REBOUND (Off:0 Def:2),,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,441,6,1,2,12:11 AM,0:39,,,Young P.FOUL (P3.PN),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,442,3,11,2,12:11 AM,0:39,MISS Lassiter Free Throw 1 of 2,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,443,4,1,2,12:11 AM,0:39,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,444,8,0,2,12:11 AM,0:39,,,SUB: Folkl FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,445,3,12,2,12:11 AM,0:39,MISS Lassiter Free Throw 2 of 2,,,,,4,100642,Amanda Lassiter,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,446,4,0,2,12:12 AM,0:39,,,Folkl REBOUND (Off:0 Def:4),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,447,9,1,2,12:12 AM,0:35,,,Fire Timeout: Regular (Reg.2 Short 2),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,453,1,42,2,12:14 AM,0:30,,,Stiles 2' Driving Layup (18 PTS),72 - 79,7,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,454,9,1,2,12:14 AM,0:30,STORM Timeout: Regular (Full 2 Short 2),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200240,455,8,0,2,12:15 AM,0:30,,,SUB: Thomas FOR Young,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,456,8,0,2,12:15 AM,0:30,SUB: Vodichkova FOR Edwards,,,,,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,457,8,0,2,12:15 AM,0:30,SUB: Starbird FOR Barnes,,,,,4,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,458,6,1,2,12:16 AM,0:21,,,Folkl P.FOUL (P2.PN),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,459,3,11,2,12:16 AM,0:21,Bird Free Throw 1 of 2 (32 PTS),,,72 - 80,8,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,460,8,0,2,12:16 AM,0:21,SUB: Edwards FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020200240,461,8,0,2,12:16 AM,0:21,,,SUB: Young FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020200240,462,3,12,2,12:16 AM,0:21,Bird Free Throw 2 of 2 (33 PTS),,,72 - 81,9,4,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,463,2,1,2,12:16 AM,0:12,,,MISS Stiles 4' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,464,4,0,2,12:16 AM,0:10,Starbird REBOUND (Off:0 Def:2),,,,,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,465,6,1,2,12:16 AM,0:10,,,Young P.FOUL (P4.PN),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020200240,466,3,11,2,12:16 AM,0:10,Starbird Free Throw 1 of 2 (5 PTS),,,72 - 82,10,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,468,3,12,2,12:17 AM,0:10,Starbird Free Throw 2 of 2 (6 PTS),,,72 - 83,11,4,100422,Kate Starbird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020200240,469,2,1,2,12:17 AM,0:02,,,MISS Jackson  3PT Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,470,4,0,2,12:17 AM,0:00,,,Stiles REBOUND (Off:1 Def:0),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,471,1,1,2,12:17 AM,0:00,,,Young 17' Jump Shot (11 PTS),74 - 83,9,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020200240,472,13,0,2,12:18 AM,0:00,,End of 2nd Half (12:18 AM EST),,74 - 83,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

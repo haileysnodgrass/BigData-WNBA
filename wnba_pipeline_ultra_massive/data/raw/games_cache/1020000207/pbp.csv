@@ -1,0 +1,359 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000207,0,12,0,1,2:06 PM,20:00,,Start of 1st Half (2:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,1,10,0,1,2:07 PM,20:00,Jump Ball Crawley vs. Wolters: Tip to Bevilaqua,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020000207,2,5,2,1,2:07 PM,19:44,Crawley Lost Ball Turnover (P1.T1),,Wolters STEAL (1 STL),,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,3,5,2,1,2:07 PM,19:28,Nygaard STEAL (1 STL),,Grubin Lost Ball Turnover (P1.T1),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,4,1,5,1,2:07 PM,19:22,Nygaard Layup (2 PTS) (Thomas 1 AST),,,0 - 2,2,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,5,1,1,1,2:08 PM,19:06,,,Wolters 5' Jump Shot (2 PTS) (Maxwell 1 AST),2 - 2,TIE,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,6,6,1,1,2:08 PM,19:01,,,Grubin P.FOUL (P1.T1),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,7,5,1,1,2:08 PM,18:50,Thomas Bad Pass Turnover (P1.T2),,Williams STEAL (1 STL),,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,8,1,6,1,2:08 PM,18:46,,,Williams Driving Layup (2 PTS),4 - 2,-2,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,9,1,1,1,2:08 PM,18:31,Crawley 10' Jump Shot (2 PTS),,,4 - 4,TIE,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,10,6,1,1,2:09 PM,18:06,Bevilaqua P.FOUL (P1.T1),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,11,1,1,1,2:10 PM,17:45,,,Wolters 5' Jump Shot (4 PTS) (Maxwell 2 AST),6 - 4,-2,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,12,1,1,1,2:10 PM,17:32,Witherspoon 3PT Jump Shot (3 PTS) (Bevilaqua 1 AST),,,6 - 7,1,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,13,2,1,1,2:10 PM,17:12,,,MISS Grubin 3PT Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,14,4,0,1,2:10 PM,17:12,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,15,6,3,1,2:10 PM,17:12,,,Wolters L.B.FOUL (P1.T2),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,16,1,2,1,2:11 PM,16:53,Thomas 7' Running Jump Shot (2 PTS),,,6 - 9,3,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,17,6,1,1,2:11 PM,16:46,Bevilaqua P.FOUL (P2.T2),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,18,8,0,1,2:11 PM,16:46,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,19,1,1,1,2:11 PM,16:43,,,Wolters 9' Jump Shot (6 PTS) (Maxwell 3 AST),8 - 9,1,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,20,2,1,1,2:12 PM,16:26,MISS Witherspoon 7' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,21,4,0,1,2:12 PM,16:24,,,Wolters REBOUND (Off:0 Def:1),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,22,5,2,1,2:12 PM,16:17,Marciniak STEAL (1 STL),,Grubin Lost Ball Turnover (P2.T2),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,23,1,5,1,2:12 PM,16:14,Marciniak Layup (2 PTS) (Nygaard 1 AST),,,8 - 11,3,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,24,5,1,1,2:12 PM,15:56,Thomas STEAL (1 STL),,Wolters Bad Pass Turnover (P1.T3),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,25,5,1,1,2:12 PM,15:52,Marciniak Bad Pass Turnover (P1.T3),,Thompson STEAL (1 STL),,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,26,1,1,1,2:12 PM,15:40,,,Thompson 13' Jump Shot (2 PTS),10 - 11,1,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,27,1,1,1,2:13 PM,15:19,Nygaard 3PT Jump Shot (5 PTS) (Crawley 1 AST),,,10 - 14,4,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,28,2,1,1,2:13 PM,15:00,,,MISS Thompson 3PT Jump Shot,,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,29,4,0,1,2:13 PM,14:58,Marciniak REBOUND (Off:0 Def:1),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,30,1,5,1,2:13 PM,14:49,Crawley Layup (4 PTS) (Nygaard 2 AST),,,10 - 16,6,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,31,9,2,1,2:13 PM,14:46,,,Fever Timeout: Short (Reg.0 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,33,1,2,1,2:15 PM,14:36,,,Grubin 9' Running Jump Shot (2 PTS),12 - 16,4,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,34,2,1,1,2:15 PM,14:20,MISS Crawley 15' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,35,4,0,1,2:15 PM,14:17,,,Williams REBOUND (Off:0 Def:1),,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,36,1,1,1,2:15 PM,14:08,,,Wolters 5' Jump Shot (8 PTS) (Thompson 1 AST),14 - 16,2,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,37,2,1,1,2:15 PM,13:53,MISS Marciniak 3PT Jump Shot,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,38,4,0,1,2:15 PM,13:50,,,Maxwell REBOUND (Off:0 Def:1),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,39,2,5,1,2:16 PM,13:43,Nygaard BLOCK (1 BLK),,MISS Williams Layup,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0
+1020000207,40,4,0,1,2:16 PM,13:43,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,41,9,4,1,2:16 PM,13:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,43,8,0,1,2:18 PM,13:43,SUB: Burras FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,44,5,4,1,2:18 PM,13:41,,,Williams Traveling Turnover (P1.T4),,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,45,5,2,1,2:19 PM,13:30,Burras Lost Ball Turnover (P1.T4),,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,46,2,1,1,2:19 PM,13:14,,,MISS Grubin 3PT Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,47,4,0,1,2:19 PM,13:11,Witherspoon REBOUND (Off:0 Def:1),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,48,7,6,1,2:19 PM,13:08,,,Maxwell Violation:Double Lane,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,49,8,0,1,2:19 PM,13:08,,,SUB: Tremitiere FOR Williams,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,50,2,1,1,2:20 PM,12:56,MISS Burras 12' Jump Shot,,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,51,4,0,1,2:20 PM,12:52,,,Thompson REBOUND (Off:0 Def:1),,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,52,5,4,1,2:20 PM,12:47,,,Thompson Traveling Turnover (P1.T5),,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,53,2,1,1,2:20 PM,12:28,MISS Burras 9' Jump Shot,,Wolters BLOCK (1 BLK),,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0
+1020000207,54,4,0,1,2:20 PM,12:26,,,Wolters REBOUND (Off:0 Def:2),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,55,6,1,1,2:20 PM,12:20,Thomas P.FOUL (P1.T3),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,56,2,1,1,2:21 PM,12:09,,,MISS Grubin 3PT Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,57,4,0,1,2:21 PM,12:07,Nygaard REBOUND (Off:0 Def:1),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,58,1,1,1,2:21 PM,11:56,Burras 5' Jump Shot (2 PTS) (Thomas 2 AST),,,14 - 18,4,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,59,2,1,1,2:21 PM,11:37,,,MISS Maxwell 3PT Jump Shot,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,60,4,0,1,2:21 PM,11:36,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,61,9,4,1,2:22 PM,11:36,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,62,8,0,1,2:22 PM,11:36,,,SUB: White FOR Maxwell,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,64,8,0,1,2:24 PM,11:36,SUB: Crawley FOR Burras,,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,65,2,1,1,2:24 PM,11:25,MISS Crawley 9' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,66,4,0,1,2:24 PM,11:23,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,67,1,1,1,2:24 PM,11:18,Witherspoon 16' Jump Shot (5 PTS),,,14 - 20,6,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,68,1,1,1,2:25 PM,10:54,,,Thompson 14' Jump Shot (4 PTS) (Tremitiere 1 AST),16 - 20,4,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,69,2,1,1,2:25 PM,10:42,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,70,4,0,1,2:25 PM,10:38,,,Wolters REBOUND (Off:0 Def:3),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,71,2,2,1,2:25 PM,10:17,,,MISS Grubin 11' Running Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,72,4,0,1,2:25 PM,10:13,Marciniak REBOUND (Off:0 Def:2),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,73,6,2,1,2:26 PM,10:08,,,White S.FOUL (P1.T3),,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,74,3,11,1,2:26 PM,10:08,MISS Witherspoon Free Throw 1 of 2,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,75,4,1,1,2:26 PM,10:08,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,76,8,0,1,2:26 PM,10:08,,,SUB: Maxwell FOR Grubin,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,77,8,0,1,2:26 PM,10:08,,,SUB: Williams FOR Tremitiere,,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,78,8,0,1,2:26 PM,10:08,SUB: Pride FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,80,8,0,1,2:26 PM,10:08,,,SUB: Streimikyte FOR Thompson,,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,81,3,12,1,2:26 PM,10:08,Witherspoon Free Throw 2 of 2 (6 PTS),,,16 - 21,5,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,82,2,1,1,2:27 PM,9:58,,,MISS Streimikyte 10' Jump Shot,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,83,4,0,1,2:27 PM,9:55,Nygaard REBOUND (Off:0 Def:2),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,84,6,2,1,2:27 PM,9:48,,,Williams S.FOUL (P1.T4),,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,85,3,11,1,2:27 PM,9:48,MISS Marciniak Free Throw 1 of 2,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,86,4,1,1,2:27 PM,9:48,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,87,3,12,1,2:27 PM,9:48,MISS Marciniak Free Throw 2 of 2,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,88,4,0,1,2:28 PM,9:48,,,Wolters REBOUND (Off:0 Def:4),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,89,2,6,1,2:28 PM,9:28,,,MISS Williams Driving Layup,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,90,4,0,1,2:28 PM,9:28,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,91,6,3,1,2:28 PM,9:28,,,Wolters L.B.FOUL (P2.PN),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,92,7,1,1,2:28 PM,9:28,,,Fever Violation: Delay of game Violation,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,93,1,1,1,2:29 PM,9:08,Nygaard 3PT Jump Shot (8 PTS) (Pride 1 AST),,,16 - 24,8,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,94,6,1,1,2:29 PM,8:51,Crawley P.FOUL (P1.T4),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,95,5,2,1,2:30 PM,8:50,Marciniak STEAL (2 STL),,Williams Lost Ball Turnover (P2.T6),,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,96,5,6,1,2:30 PM,8:46,Marciniak Double Dribble Turnover (P2.T5),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,97,1,1,1,2:30 PM,8:31,,,White 6' Jump Shot (2 PTS),18 - 24,6,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,98,6,2,1,2:30 PM,8:31,Pride S.FOUL (P1.PN),,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,99,8,0,1,2:30 PM,8:31,SUB: Williams FOR Witherspoon,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,100,8,0,1,2:30 PM,8:31,,,SUB: Tremitiere FOR Williams,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,101,3,10,1,2:31 PM,8:31,,,White Free Throw 1 of 1 (3 PTS),19 - 24,5,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,102,8,0,1,2:31 PM,8:11,,,SUB: McCulley FOR Wolters,,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,103,2,1,1,2:32 PM,8:06,MISS Williams 9' Jump Shot,,,,,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,104,4,0,1,2:32 PM,8:04,,,Maxwell REBOUND (Off:0 Def:2),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,105,2,1,1,2:32 PM,7:39,,,MISS McCulley 8' Jump Shot,,,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,106,4,0,1,2:32 PM,7:37,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,107,9,4,1,2:32 PM,7:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,109,6,1,1,2:35 PM,7:14,,,White P.FOUL (P2.PN),,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,110,2,1,1,2:35 PM,7:04,MISS Crawley 16' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,112,4,0,1,2:35 PM,7:02,Nygaard REBOUND (Off:1 Def:2),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,111,1,5,1,2:35 PM,7:02,Nygaard Layup (10 PTS),,,19 - 26,7,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,113,2,1,1,2:36 PM,6:38,,,MISS Tremitiere 4' Jump Shot,,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,114,4,0,1,2:36 PM,6:35,Nygaard REBOUND (Off:1 Def:3),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,115,2,1,1,2:36 PM,6:29,MISS Williams 3PT Jump Shot,,,,,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,116,4,0,1,2:36 PM,6:27,,,Tremitiere REBOUND (Off:0 Def:1),,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,117,1,1,1,2:36 PM,6:07,,,Streimikyte 15' Jump Shot (2 PTS),21 - 26,5,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,118,6,1,1,2:37 PM,5:57,,,Maxwell P.FOUL (P1.PN),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,119,8,0,1,2:37 PM,5:57,SUB: Bevilaqua FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,120,8,0,1,2:37 PM,5:57,SUB: Thomas FOR Pride,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,121,8,0,1,2:37 PM,5:57,SUB: Witherspoon FOR Williams,,,,,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,122,8,0,1,2:37 PM,5:57,,,SUB: Grubin FOR White,,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,123,8,0,1,2:37 PM,5:57,,,SUB: Wolters FOR Streimikyte,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,124,8,0,1,2:37 PM,5:57,,,SUB: Thompson FOR McCulley,,,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,125,2,1,1,2:37 PM,5:44,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,126,4,0,1,2:37 PM,5:42,,,Tremitiere REBOUND (Off:0 Def:2),,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,127,1,1,1,2:38 PM,5:20,,,Thompson 3PT Jump Shot (7 PTS),24 - 26,2,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,128,1,1,1,2:38 PM,5:05,Nygaard 3PT Jump Shot (13 PTS) (Crawley 2 AST),,,24 - 29,5,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,129,1,5,1,2:38 PM,4:27,,,Wolters Layup (10 PTS) (Tremitiere 2 AST),26 - 29,3,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,130,8,0,1,2:39 PM,4:02,,,SUB: Williams FOR Tremitiere,,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,131,8,0,1,2:39 PM,4:02,SUB: Walker FOR Nygaard,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,132,10,0,1,2:39 PM,4:02,Jump Ball Witherspoon vs. Maxwell: Tip to Bevilaqua,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020000207,133,2,1,1,2:40 PM,3:47,MISS Crawley 4' Jump Shot,,Wolters BLOCK (2 BLK),,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0
+1020000207,134,4,0,1,2:40 PM,3:46,Walker REBOUND (Off:1 Def:0),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,135,6,2,1,2:40 PM,3:46,,,Wolters S.FOUL (P3.PN),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,136,9,4,1,2:40 PM,3:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,137,8,0,1,2:42 PM,3:46,,,SUB: McCulley FOR Wolters,,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,138,3,11,1,2:42 PM,3:46,Walker Free Throw 1 of 2 (1 PTS),,,26 - 30,4,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,139,3,12,1,2:42 PM,3:46,MISS Walker Free Throw 2 of 2,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,140,4,0,1,2:43 PM,3:45,Crawley REBOUND (Off:1 Def:0),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,141,2,1,1,2:43 PM,3:37,MISS Thomas 19' Jump Shot,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,142,4,0,1,2:43 PM,3:36,,,Maxwell REBOUND (Off:0 Def:3),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,143,6,1,1,2:43 PM,3:19,Bevilaqua P.FOUL (P3.PN),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,144,8,0,1,2:43 PM,3:19,SUB: Nygaard FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,145,8,0,1,2:43 PM,3:19,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,146,6,1,1,2:44 PM,3:17,Marciniak P.FOUL (P1.PN),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,147,1,5,1,2:44 PM,3:16,,,McCulley Layup (2 PTS) (Maxwell 4 AST),28 - 30,2,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,148,2,6,1,2:44 PM,2:57,MISS Witherspoon Driving Layup,,Maxwell BLOCK (1 BLK),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0
+1020000207,149,4,0,1,2:44 PM,2:56,,,Williams REBOUND (Off:0 Def:2),,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,150,6,1,1,2:44 PM,2:56,Witherspoon P.FOUL (P1.PN),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,151,3,11,1,2:45 PM,2:56,,,Williams Free Throw 1 of 2 (3 PTS),29 - 30,1,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,152,8,0,1,2:45 PM,2:56,SUB: Burras FOR Walker,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,153,3,12,1,2:45 PM,2:56,,,Williams Free Throw 2 of 2 (4 PTS),30 - 30,TIE,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,154,2,1,1,2:45 PM,2:46,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,155,4,0,1,2:45 PM,2:43,,,Williams REBOUND (Off:0 Def:3),,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,156,2,1,1,2:46 PM,2:20,,,MISS Williams 12' Jump Shot,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,157,4,0,1,2:46 PM,2:18,Witherspoon REBOUND (Off:0 Def:2),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,158,2,1,1,2:46 PM,2:06,MISS Burras 6' Jump Shot,,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,159,4,0,1,2:46 PM,2:04,,,Grubin REBOUND (Off:0 Def:1),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,160,1,1,1,2:47 PM,1:46,,,McCulley 8' Jump Shot (4 PTS),32 - 30,-2,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,161,2,5,1,2:47 PM,1:23,MISS Burras Layup,,Maxwell BLOCK (2 BLK),,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0
+1020000207,162,4,0,1,2:47 PM,1:21,,,Grubin REBOUND (Off:0 Def:2),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,163,8,0,1,2:47 PM,1:15,SUB: Walker FOR Burras,,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,164,1,6,1,2:47 PM,1:12,,,Williams Driving Layup (6 PTS),34 - 30,-4,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,165,5,1,1,2:48 PM,0:49,Walker Bad Pass Turnover (P1.T6),,Thompson STEAL (2 STL),,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,166,2,1,1,2:48 PM,0:36,,,MISS Thompson 14' Jump Shot,,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,167,4,0,1,2:48 PM,0:34,Witherspoon REBOUND (Off:0 Def:3),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,168,1,5,1,2:49 PM,0:20,Witherspoon 6' Layup (8 PTS),,,34 - 32,-2,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,169,2,1,1,2:49 PM,0:06,,,MISS Williams 3PT Jump Shot,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,170,4,0,1,2:49 PM,0:04,Witherspoon REBOUND (Off:0 Def:4),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,171,1,5,1,2:49 PM,0:00,Marciniak Layup (4 PTS) (Witherspoon 1 AST),,,34 - 34,TIE,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,173,13,0,1,2:49 PM,0:00,,End of 1st Half (2:49 PM EST),,34 - 34,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,175,12,0,2,3:04 PM,20:00,,Start of 2nd Half (3:04 PM EST),,34 - 34,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,176,10,0,2,3:04 PM,20:00,,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,3,1611661325,,,,,,0
+1020000207,177,1,3,2,3:05 PM,19:48,,,Wolters 3' Hook Shot (12 PTS) (Maxwell 5 AST),36 - 34,-2,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,178,2,1,2,3:05 PM,19:25,MISS Crawley 6' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,179,4,0,2,3:05 PM,19:22,,,Maxwell REBOUND (Off:0 Def:4),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,180,1,5,2,3:06 PM,19:09,,,Wolters Layup (14 PTS) (Maxwell 6 AST),38 - 34,-4,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,181,5,1,2,3:06 PM,18:48,Thomas Bad Pass Turnover (P2.T7),,Williams STEAL (2 STL),,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,182,5,1,2,3:07 PM,18:27,,,Thompson Bad Pass Turnover (P2.T7),,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,183,8,0,2,3:07 PM,18:27,SUB: Walker FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,184,6,4,2,3:07 PM,18:08,Walker OFF.Foul (P1),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,185,5,5,2,3:07 PM,18:08,Walker Foul Turnover (P2.T8),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,186,2,1,2,3:08 PM,17:51,,,MISS Grubin 16' Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,187,4,0,2,3:08 PM,17:49,Bevilaqua REBOUND (Off:0 Def:1),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,188,6,1,2,3:08 PM,17:36,,,Grubin P.FOUL (P2.T1),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,189,1,1,2,3:09 PM,17:33,Walker 2' Jump Shot (3 PTS),,,38 - 36,-2,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,190,2,1,2,3:09 PM,17:15,,,MISS Maxwell 3PT Jump Shot,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,191,4,0,2,3:09 PM,17:13,Walker REBOUND (Off:1 Def:1),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,192,2,1,2,3:09 PM,17:03,MISS Nygaard 3PT Jump Shot,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,193,4,0,2,3:09 PM,16:58,,,Thompson REBOUND (Off:0 Def:2),,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,194,2,6,2,3:09 PM,16:51,,,MISS Williams Driving Layup,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,195,4,0,2,3:09 PM,16:49,Witherspoon REBOUND (Off:0 Def:5),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,196,5,7,2,3:09 PM,16:45,Witherspoon Discontinue Dribble Turnover (P1.T9),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,197,1,5,2,3:10 PM,16:21,,,Thompson Layup (9 PTS) (Grubin 1 AST),40 - 36,-4,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,198,5,1,2,3:10 PM,16:09,Walker Bad Pass Turnover (P3.T10),,Maxwell STEAL (1 STL),,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,199,1,1,2,3:11 PM,15:49,,,Maxwell 3PT Jump Shot (3 PTS) (Grubin 2 AST),43 - 36,-7,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,200,9,2,2,3:11 PM,15:43,FIRE Timeout: Short (Full 0 Short 1),,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,202,6,2,2,3:12 PM,15:26,,,Wolters S.FOUL (P4.T2),,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,203,9,4,2,3:12 PM,15:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,205,8,0,2,3:14 PM,15:26,,,SUB: Tremitiere FOR Williams,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,206,8,0,2,3:14 PM,15:26,,,SUB: McCulley FOR Wolters,,,5,100340,Kara Wolters,1611661325.0,Indiana,Fever,IND,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,207,3,11,2,3:15 PM,15:26,Walker Free Throw 1 of 2 (4 PTS),,,43 - 37,-6,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,208,3,12,2,3:15 PM,15:26,MISS Walker Free Throw 2 of 2,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,209,4,0,2,3:15 PM,15:24,,,Grubin REBOUND (Off:0 Def:3),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,210,2,1,2,3:16 PM,14:55,Walker BLOCK (1 BLK),,MISS Thompson 4' Jump Shot,,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0
+1020000207,211,4,0,2,3:16 PM,14:54,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,212,5,1,2,3:16 PM,14:52,Thomas STEAL (2 STL),,Grubin Bad Pass Turnover (P3.T8),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,213,2,1,2,3:16 PM,14:32,MISS Walker 4' Jump Shot,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,214,4,0,2,3:16 PM,14:30,,,Maxwell REBOUND (Off:0 Def:5),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,215,1,1,2,3:17 PM,14:14,,,McCulley 9' Jump Shot (6 PTS) (Maxwell 7 AST),45 - 37,-8,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,216,2,1,2,3:17 PM,13:49,MISS Nygaard 3PT Jump Shot,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,217,4,0,2,3:17 PM,13:47,,,McCulley REBOUND (Off:0 Def:1),,,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,218,1,1,2,3:17 PM,13:32,,,Maxwell 3PT Jump Shot (6 PTS) (Tremitiere 3 AST),48 - 37,-11,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,219,5,2,2,3:18 PM,13:11,Thomas Lost Ball Turnover (P3.T11),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,220,8,0,2,3:18 PM,13:11,SUB: Crawley FOR Walker,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,221,8,0,2,3:18 PM,13:11,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,222,8,0,2,3:18 PM,13:11,SUB: Pride FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,223,6,2,2,3:18 PM,12:56,Crawley S.FOUL (P2.T1),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,224,3,11,2,3:18 PM,12:56,,,MISS McCulley Free Throw 1 of 2,,,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,225,4,1,2,3:18 PM,12:56,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,226,3,12,2,3:19 PM,12:56,,,McCulley Free Throw 2 of 2 (7 PTS),49 - 37,-12,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,227,9,2,2,3:19 PM,12:41,FIRE Timeout: Short (Full 0 Short 2),,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,229,2,1,2,3:20 PM,12:39,MISS Witherspoon 18' Jump Shot,,Maxwell BLOCK (3 BLK),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0
+1020000207,230,4,0,2,3:20 PM,12:39,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,231,2,1,2,3:20 PM,12:37,MISS Crawley 11' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,232,4,0,2,3:20 PM,12:35,,,Tremitiere REBOUND (Off:0 Def:3),,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,233,6,1,2,3:21 PM,12:22,Witherspoon P.FOUL (P2.T2),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,234,2,6,2,3:21 PM,12:15,,,MISS Grubin Driving Layup,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,235,4,0,2,3:21 PM,12:13,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,236,2,1,2,3:22 PM,11:56,MISS Nygaard 17' Jump Shot,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,237,4,0,2,3:22 PM,11:54,Witherspoon REBOUND (Off:1 Def:5),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,238,2,5,2,3:22 PM,11:53,MISS Witherspoon Layup,,McCulley BLOCK (1 BLK),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,0
+1020000207,239,4,0,2,3:22 PM,11:53,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,240,9,4,2,3:22 PM,11:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,241,2,1,2,3:25 PM,11:47,MISS Witherspoon 6' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,243,4,0,2,3:25 PM,11:45,Witherspoon REBOUND (Off:2 Def:5),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,242,1,5,2,3:25 PM,11:45,Witherspoon Layup (10 PTS),,,49 - 39,-10,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,244,7,1,2,3:25 PM,11:39,FIRE Violation: Delay of game Violation,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,245,6,1,2,3:25 PM,11:39,Witherspoon P.FOUL (P3.T3),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,246,1,1,2,3:26 PM,11:13,,,Maxwell 3PT Jump Shot (9 PTS) (Thompson 2 AST),52 - 39,-13,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,247,5,2,2,3:26 PM,11:02,Witherspoon Lost Ball Turnover (P2.T12),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,248,6,2,2,3:27 PM,10:48,Nygaard S.FOUL (P1.T4),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,249,8,0,2,3:27 PM,10:48,SUB: Walker FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,250,3,11,2,3:27 PM,10:48,,,Maxwell Free Throw 1 of 2 (10 PTS),53 - 39,-14,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,251,8,0,2,3:27 PM,10:48,,,SUB: Streimikyte FOR Thompson,,,5,100216,Alicia Thompson,1611661325.0,Indiana,Fever,IND,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,252,8,0,2,3:27 PM,10:48,SUB: Thomas FOR Witherspoon,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,253,3,12,2,3:27 PM,10:48,,,Maxwell Free Throw 2 of 2 (11 PTS),54 - 39,-15,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,254,6,1,2,3:27 PM,10:44,,,Streimikyte P.FOUL (P1.T3),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,255,2,1,2,3:28 PM,10:26,MISS Nygaard 17' Jump Shot,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,256,4,0,2,3:28 PM,10:22,,,Tremitiere REBOUND (Off:0 Def:4),,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,257,1,6,2,3:28 PM,10:18,,,McCulley Driving Layup (9 PTS) (Tremitiere 4 AST),56 - 39,-17,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,258,8,0,2,3:29 PM,9:52,,,SUB: White FOR Maxwell,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,259,10,0,2,3:29 PM,9:52,Jump Ball Marciniak vs. Streimikyte: Tip to Pride,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0
+1020000207,260,2,2,2,3:29 PM,9:36,MISS Pride 11' Running Jump Shot,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,261,4,0,2,3:29 PM,9:32,,,Streimikyte REBOUND (Off:0 Def:1),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,262,1,6,2,3:29 PM,9:29,,,Grubin Driving Layup (4 PTS) (Streimikyte 1 AST),58 - 39,-19,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,263,5,1,2,3:30 PM,9:07,Walker Bad Pass Turnover (P4.T13),,Tremitiere STEAL (1 STL),,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,264,2,1,2,3:30 PM,9:02,,,MISS Grubin 6' Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,265,4,0,2,3:30 PM,9:01,Nygaard REBOUND (Off:1 Def:4),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,266,1,1,2,3:30 PM,8:52,Marciniak 5' Jump Shot (6 PTS),,,58 - 41,-17,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,267,2,1,2,3:31 PM,8:20,,,MISS Grubin 3PT Jump Shot,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,268,4,0,2,3:31 PM,8:18,Nygaard REBOUND (Off:1 Def:5),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,269,6,1,2,3:31 PM,8:15,,,Grubin P.FOUL (P3.T4),,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,270,8,0,2,3:31 PM,8:15,SUB: Witherspoon FOR Pride,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,271,8,0,2,3:31 PM,8:15,,,SUB: Williams FOR Tremitiere,,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,272,8,0,2,3:31 PM,8:15,SUB: Bevilaqua FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,273,8,0,2,3:31 PM,8:15,,,SUB: Maxwell FOR Grubin,,,5,100394,Gordana Grubin,1611661325.0,Indiana,Fever,IND,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,274,2,1,2,3:32 PM,8:02,MISS Witherspoon 4' Jump Shot,,Maxwell BLOCK (4 BLK),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0
+1020000207,275,4,0,2,3:32 PM,8:00,Walker REBOUND (Off:2 Def:1),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,276,2,5,2,3:32 PM,7:59,MISS Walker Layup,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,277,4,0,2,3:32 PM,7:56,Nygaard REBOUND (Off:2 Def:5),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,278,2,1,2,3:32 PM,7:51,MISS Walker 10' Jump Shot,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,279,4,0,2,3:32 PM,7:49,,,White REBOUND (Off:0 Def:1),,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,280,2,1,2,3:32 PM,7:19,,,MISS White 3PT Jump Shot,,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,281,4,0,2,3:32 PM,7:15,Bevilaqua REBOUND (Off:0 Def:2),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,282,5,4,2,3:32 PM,7:12,Thomas Traveling Turnover (P4.T14),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,283,9,4,2,3:32 PM,7:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,285,8,0,2,3:35 PM,7:12,,,SUB: Gaither FOR McCulley,,,5,100471,Danielle McCulley,1611661325.0,Indiana,Fever,IND,5,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,286,8,0,2,3:35 PM,7:12,SUB: Burras FOR Walker,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,287,1,1,2,3:35 PM,6:57,,,Williams 3PT Jump Shot (9 PTS) (Streimikyte 2 AST),61 - 41,-20,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,288,2,1,2,3:36 PM,6:28,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,289,4,0,2,3:36 PM,6:26,Bevilaqua REBOUND (Off:1 Def:2),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,290,8,0,2,3:36 PM,6:17,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,291,8,0,2,3:36 PM,6:17,SUB: Williams FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,292,2,1,2,3:36 PM,6:16,MISS Witherspoon 16' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,293,4,0,2,3:36 PM,6:15,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,294,6,3,2,3:36 PM,6:15,Nygaard L.B.FOUL (P2.PN),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,295,1,6,2,3:37 PM,5:58,,,Williams Driving Layup (11 PTS),63 - 41,-22,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,296,5,1,2,3:37 PM,5:51,Marciniak Bad Pass Turnover (P3.T15),,Streimikyte STEAL (1 STL),,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,297,1,1,2,3:38 PM,5:33,,,Streimikyte 16' Jump Shot (4 PTS) (White 1 AST),65 - 41,-24,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,298,2,1,2,3:38 PM,5:13,MISS Nygaard 8' Jump Shot,,Streimikyte BLOCK (1 BLK),,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0
+1020000207,299,4,0,2,3:38 PM,5:10,,,Maxwell REBOUND (Off:0 Def:6),,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,300,2,6,2,3:38 PM,4:57,,,MISS Maxwell Driving Layup,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,301,4,0,2,3:38 PM,4:55,Nygaard REBOUND (Off:2 Def:6),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,302,6,1,2,3:38 PM,4:52,,,Streimikyte P.FOUL (P2.PN),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,303,8,0,2,3:38 PM,4:52,SUB: Crawley FOR Burras,,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,304,8,0,2,3:38 PM,4:52,,,SUB: Tremitiere FOR Williams,,,5,100204,Rita Williams,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,305,8,0,2,3:39 PM,4:52,,,SUB: Quinney FOR Maxwell,,,5,100357,Monica Maxwell,1611661325.0,Indiana,Fever,IND,5,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,306,1,1,2,3:39 PM,4:38,Williams 3PT Jump Shot (3 PTS) (Crawley 3 AST),,,65 - 44,-21,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,307,2,6,2,3:39 PM,4:11,,,MISS White Driving Layup,,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,308,4,0,2,3:39 PM,4:07,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,309,5,4,2,3:40 PM,3:54,Witherspoon Traveling Turnover (P3.T16),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,310,9,4,2,3:40 PM,3:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,312,5,1,2,3:43 PM,3:50,Crawley STEAL (1 STL),,Quinney Bad Pass Turnover (P1.T9),,,5,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,313,2,1,2,3:43 PM,3:46,MISS Williams 3PT Jump Shot,,,,,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,314,4,0,2,3:43 PM,3:43,Crawley REBOUND (Off:2 Def:0),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,315,6,2,2,3:43 PM,3:41,,,Streimikyte S.FOUL (P3.PN),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,316,3,11,2,3:43 PM,3:41,MISS Crawley Free Throw 1 of 2,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,317,4,1,2,3:43 PM,3:41,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,318,3,12,2,3:43 PM,3:41,Crawley Free Throw 2 of 2 (5 PTS),,,65 - 45,-20,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,319,1,1,2,3:44 PM,3:28,,,Gaither 4' Jump Shot (2 PTS) (Streimikyte 3 AST),67 - 45,-22,5,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,320,6,2,2,3:44 PM,3:00,,,Gaither S.FOUL (P1.PN),,,5,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,321,3,11,2,3:44 PM,3:00,Marciniak Free Throw 1 of 2 (7 PTS),,,67 - 46,-21,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,322,8,0,2,3:45 PM,3:00,SUB: Walker FOR Williams,,,,,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,323,3,12,2,3:45 PM,3:00,Marciniak Free Throw 2 of 2 (8 PTS),,,67 - 47,-20,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,324,6,2,2,3:45 PM,2:49,Marciniak S.FOUL (P2.PN),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,325,3,11,2,3:45 PM,2:49,,,MISS Tremitiere Free Throw 1 of 2,,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,326,4,1,2,3:45 PM,2:49,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,327,3,12,2,3:46 PM,2:49,,,MISS Tremitiere Free Throw 2 of 2,,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,328,4,0,2,3:46 PM,2:49,,,Streimikyte REBOUND (Off:1 Def:1),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,329,5,1,2,3:46 PM,2:37,Walker STEAL (1 STL),,White Bad Pass Turnover (P1.T10),,,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,330,6,1,2,3:46 PM,2:33,,,Quinney P.FOUL (P1.PN),,,5,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,331,9,2,2,3:46 PM,2:33,,,Fever Timeout: Short (Reg.0 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,332,3,11,2,3:47 PM,2:33,MISS Marciniak Free Throw 1 of 2,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,333,4,1,2,3:47 PM,2:33,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,334,3,12,2,3:47 PM,2:33,Marciniak Free Throw 2 of 2 (9 PTS),,,67 - 48,-19,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,335,2,6,2,3:48 PM,2:18,,,MISS Quinney Driving Layup,,,5,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,336,4,0,2,3:48 PM,2:16,Nygaard REBOUND (Off:2 Def:7),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,337,1,1,2,3:48 PM,2:09,Nygaard 12' Jump Shot (15 PTS) (Marciniak 1 AST),,,67 - 50,-17,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,338,1,1,2,3:48 PM,1:52,,,Streimikyte 12' Jump Shot (6 PTS) (Tremitiere 5 AST),69 - 50,-19,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,339,6,2,2,3:48 PM,1:41,,,Streimikyte S.FOUL (P4.PN),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,340,3,11,2,3:49 PM,1:41,Nygaard Free Throw 1 of 2 (16 PTS),,,69 - 51,-18,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,341,3,12,2,3:49 PM,1:41,Nygaard Free Throw 2 of 2 (17 PTS),,,69 - 52,-17,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,342,6,1,2,3:49 PM,1:37,Witherspoon P.FOUL (P4.PN),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,343,8,0,2,3:49 PM,1:37,SUB: Williams FOR Walker,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,344,2,1,2,3:50 PM,1:20,,,MISS Streimikyte 10' Jump Shot,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,345,4,0,2,3:50 PM,1:19,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,347,6,3,2,3:51 PM,1:19,,,Streimikyte L.B.FOUL (P5.PN),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,352,8,0,2,3:51 PM,1:19,SUB: Walker FOR Williams,,,,,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,348,3,11,2,3:51 PM,1:19,Crawley Free Throw 1 of 2 (6 PTS),,,69 - 53,-16,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,349,3,12,2,3:51 PM,1:19,Crawley Free Throw 2 of 2 (7 PTS),,,69 - 54,-15,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,350,9,1,2,3:52 PM,1:07,FIRE Timeout: Regular (Full 1 Short 2),,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,353,10,0,2,3:53 PM,1:07,Jump Ball Walker vs. White: Tip to Witherspoon,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0
+1020000207,354,5,2,2,3:53 PM,1:07,Walker STEAL (2 STL),,Tremitiere Lost Ball Turnover (P1.T11),,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000207,355,2,1,2,3:54 PM,1:01,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,356,4,0,2,3:54 PM,0:59,,,Gaither REBOUND (Off:0 Def:1),,,5,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,357,1,5,2,3:54 PM,0:39,,,Quinney Layup (2 PTS) (Tremitiere 6 AST),71 - 54,-17,5,100472,Texlin Quinney,1611661325.0,Indiana,Fever,IND,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,358,1,6,2,3:54 PM,0:33,Marciniak Driving Layup (11 PTS),,,71 - 56,-15,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,359,6,1,2,3:54 PM,0:32,Crawley P.FOUL (P3.PN),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,360,3,11,2,3:55 PM,0:32,,,MISS Streimikyte Free Throw 1 of 2,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,361,4,1,2,3:55 PM,0:32,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,362,3,12,2,3:55 PM,0:32,,,MISS Streimikyte Free Throw 2 of 2,,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,363,4,0,2,3:55 PM,0:32,Crawley REBOUND (Off:2 Def:1),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,364,2,1,2,3:55 PM,0:25,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,365,4,0,2,3:55 PM,0:24,,,Streimikyte REBOUND (Off:1 Def:2),,,5,101006,Jurgita Streimikyte,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,366,5,2,2,3:55 PM,0:17,,,Tremitiere Lost Ball Turnover (P2.T12),,,5,100022,Chantel Tremitiere,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020000207,367,1,6,2,3:56 PM,0:11,Marciniak Driving Layup (13 PTS),,,71 - 58,-13,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,368,1,6,2,3:56 PM,0:07,,,Gaither Driving Layup (4 PTS) (White 2 AST),73 - 58,-15,5,100548,Katryna Gaither,1611661325.0,Indiana,Fever,IND,5,100370,Stephanie White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020000207,369,2,1,2,3:56 PM,0:00,MISS Nygaard 3PT Jump Shot,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000207,370,4,0,2,3:56 PM,0:00,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000207,371,13,0,2,3:56 PM,0:00,,End of 2nd Half (3:56 PM EST),,73 - 58,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

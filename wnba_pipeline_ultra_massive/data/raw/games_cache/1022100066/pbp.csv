@@ -1,0 +1,396 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022100066,2,12,0,1,9:03 PM,10:00,,Start of 1st Period (9:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,4,10,0,1,9:03 PM,10:00,Jump Ball Fowles vs. Dolson: Tip to Collier,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1
+1022100066,7,1,5,1,9:03 PM,9:36,Fowles 1' Layup (2 PTS),,,0 - 2,2,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,8,1,1,1,9:04 PM,9:21,,,Dolson 3PT Jump Shot (3 PTS) (DeShields 1 AST),3 - 2,-1,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,10,2,5,1,9:04 PM,9:05,MISS Collier 2' Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,11,4,0,1,9:04 PM,9:01,,,Dolson REBOUND (Off:0 Def:1),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,12,1,6,1,9:04 PM,8:53,,,Parker 2' Driving Layup (2 PTS),5 - 2,-3,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,13,1,1,1,9:04 PM,8:45,Collier 3PT Jump Shot (3 PTS) (Clarendon 1 AST),,,5 - 5,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,15,1,80,1,9:05 PM,8:24,,,Parker 18' Step Back Jump Shot (4 PTS),7 - 5,-2,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,17,1,5,1,9:05 PM,8:12,Collier 1' Layup (5 PTS),,,7 - 7,TIE,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,19,1,1,1,9:05 PM,7:54,,,Dolson 25' 3PT Jump Shot (6 PTS) (Parker 1 AST),10 - 7,-3,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,21,2,1,1,9:05 PM,7:35,MISS Collier 11' Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,22,4,0,1,9:06 PM,7:31,,,Dolson REBOUND (Off:0 Def:2),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,23,2,1,1,9:06 PM,7:22,,,MISS Parker 25' 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,24,4,0,1,9:06 PM,7:18,Fowles REBOUND (Off:0 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,25,2,1,1,9:06 PM,7:12,MISS Fowles 16' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,26,4,0,1,9:06 PM,7:09,,,Parker REBOUND (Off:0 Def:1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,27,1,6,1,9:06 PM,7:04,,,Copper 2' Driving Layup (2 PTS) (Parker 2 AST),12 - 7,-5,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,29,6,2,1,9:06 PM,6:45,,,DeShields S.FOUL (P1.T1),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,31,3,11,1,9:07 PM,6:45,Collier Free Throw 1 of 2 (6 PTS),,,12 - 8,-4,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,32,8,0,1,9:07 PM,6:45,SUB: Dantas FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,34,3,12,1,9:07 PM,6:45,Collier Free Throw 2 of 2 (7 PTS),,,12 - 9,-3,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,35,1,1,1,9:07 PM,6:31,,,DeShields 25' 3PT Jump Shot (3 PTS),15 - 9,-6,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,36,5,4,1,9:07 PM,6:19,Collier Traveling Turnover (P1.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,37,1,1,1,9:08 PM,6:04,,,DeShields 24' 3PT Jump Shot (6 PTS) (Parker 3 AST),18 - 9,-9,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,39,9,1,1,9:08 PM,5:57,LYNX Timeout: Regular (Full 1 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,40,2,1,1,9:11 PM,5:49,MISS McBride 19' Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,41,4,0,1,9:11 PM,5:48,Collier REBOUND (Off:1 Def:0),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,42,1,72,1,9:12 PM,5:47,Collier 1' Putback Layup (9 PTS),,,18 - 11,-7,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,43,1,5,1,9:12 PM,5:33,,,Dolson 2' Layup (8 PTS) (Vandersloot 1 AST),20 - 11,-9,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,45,2,5,1,9:12 PM,5:17,MISS Clarendon 3' Layup,,,,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,46,4,0,1,9:12 PM,5:15,Dantas REBOUND (Off:1 Def:0),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,47,2,72,1,9:12 PM,5:13,MISS Dantas 1' Putback Layup,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,48,4,0,1,9:12 PM,5:10,,,DeShields REBOUND (Off:0 Def:1),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,49,2,1,1,9:12 PM,5:06,,,MISS DeShields 25' 3PT Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,50,4,0,1,9:12 PM,5:06,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,52,8,0,1,9:12 PM,5:06,SUB: Dangerfield FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,53,8,0,1,9:12 PM,5:06,SUB: Fowles FOR Clarendon,,,,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,56,2,98,1,9:13 PM,4:50,MISS Collier 1' Cutting Layup Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,57,4,0,1,9:13 PM,4:44,Fowles REBOUND (Off:1 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,58,1,97,1,9:13 PM,4:44,Fowles 1' Tip Layup Shot (4 PTS),,,20 - 13,-7,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,59,1,1,1,9:13 PM,4:33,,,DeShields 15' Jump Shot (8 PTS),22 - 13,-9,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,60,2,1,1,9:13 PM,4:18,MISS Dantas 25' 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,61,4,0,1,9:13 PM,4:15,,,Parker REBOUND (Off:0 Def:2),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,62,2,1,1,9:13 PM,4:04,,,MISS DeShields 24' 3PT Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,63,4,0,1,9:14 PM,4:01,McBride REBOUND (Off:0 Def:1),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,64,1,6,1,9:14 PM,3:54,Collier 1' Driving Layup (11 PTS) (McBride 1 AST),,,22 - 15,-7,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,66,1,5,1,9:14 PM,3:48,,,DeShields 2' Layup (10 PTS) (Vandersloot 2 AST),24 - 15,-9,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,68,5,1,1,9:14 PM,3:40,Fowles Bad Pass Turnover (P1.T2),,Dolson STEAL (1 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,70,6,1,1,9:14 PM,3:39,Fowles P.FOUL (P1.T1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,72,8,0,1,9:14 PM,3:39,,,SUB: Quigley FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,73,8,0,1,9:14 PM,3:39,,,SUB: Stevens FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,80,8,0,1,9:14 PM,3:39,SUB: Banham FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,76,1,1,1,9:14 PM,3:32,,,Quigley 19' Jump Shot (2 PTS) (Vandersloot 3 AST),26 - 15,-11,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,77,6,2,1,9:15 PM,3:32,Banham S.FOUL (P1.T2),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,79,3,10,1,9:15 PM,3:32,,,Quigley Free Throw 1 of 1 (3 PTS),27 - 15,-12,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,82,1,58,1,9:15 PM,3:12,Fowles 4' Turnaround Hook Shot (6 PTS) (Dangerfield 1 AST),,,27 - 17,-10,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,84,1,1,1,9:15 PM,2:53,,,Parker 27' 3PT Jump Shot (7 PTS) (Quigley 1 AST),30 - 17,-13,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,86,5,1,1,9:16 PM,2:43,Dangerfield Bad Pass Turnover (P1.T3),,Vandersloot STEAL (1 STL),,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,88,1,76,1,9:16 PM,2:39,,,Vandersloot 1' Running Finger Roll Layup (2 PTS),32 - 17,-15,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,89,5,1,1,9:16 PM,2:22,Dantas Bad Pass Turnover (P1.T4),,Vandersloot STEAL (2 STL),,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,91,2,76,1,9:16 PM,2:16,,,MISS Vandersloot 4' Running Finger Roll Layup,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,92,4,0,1,9:16 PM,2:11,Dantas REBOUND (Off:1 Def:1),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,93,5,1,1,9:16 PM,2:05,Collier Bad Pass Turnover (P2.T5),,Vandersloot STEAL (3 STL),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,95,1,41,1,9:16 PM,2:02,,,Vandersloot 4' Running Layup (4 PTS),34 - 17,-17,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,96,9,1,1,9:16 PM,1:55,LYNX Timeout: Regular (Full 2 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,98,8,0,1,9:18 PM,1:55,SUB: Burdick FOR Dantas,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,99,8,0,1,9:18 PM,1:55,,,SUB: Dolson FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,100,8,0,1,9:18 PM,1:55,,,SUB: DeShields FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,101,8,0,1,9:18 PM,1:55,,,SUB: Evans FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,106,1,79,1,9:19 PM,1:44,Collier 16' Pullup Jump Shot (13 PTS),,,34 - 19,-15,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,107,5,1,1,9:19 PM,1:27,Dangerfield STEAL (1 STL),,Stevens Bad Pass Turnover (P1.T1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,109,1,5,1,9:19 PM,1:23,Dangerfield 3' Layup (2 PTS),,,34 - 21,-13,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,110,2,1,1,9:19 PM,1:08,,,MISS Dolson 26' 3PT Jump Shot,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,111,4,0,1,9:19 PM,1:05,,,Stevens REBOUND (Off:1 Def:0),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,112,1,78,1,9:20 PM,1:00,,,Quigley 15' Floating Jump Shot (5 PTS) (Stevens 1 AST),36 - 21,-15,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,114,2,1,1,9:20 PM,0:47,MISS Burdick 14' Jump Shot,,,,,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,115,4,0,1,9:20 PM,0:43,,,Dolson REBOUND (Off:0 Def:3),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,116,2,101,1,9:20 PM,0:33,,,MISS Quigley 19' Driving Floating Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,117,4,0,1,9:20 PM,0:33,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,119,6,1,1,9:20 PM,0:20,,,DeShields P.FOUL (P2.T2),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,121,1,5,1,9:21 PM,0:10,Fowles 2' Layup (8 PTS) (Dangerfield 2 AST),,,36 - 23,-13,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,123,1,1,1,9:21 PM,0:03,,,Evans 26' 3PT Jump Shot (3 PTS),39 - 23,-16,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,124,2,1,1,9:21 PM,0:00,MISS Collier 48' 3PT Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,125,4,0,1,9:21 PM,0:00,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,126,13,0,1,9:21 PM,0:00,,End of 1st Period (9:21 PM EST),,39 - 23,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100066,129,12,0,2,9:24 PM,10:00,,Start of 2nd Period (9:24 PM EST),,39 - 23,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,130,2,101,2,9:25 PM,9:40,,,MISS DeShields 6' Driving Floating Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,131,4,0,2,9:25 PM,9:37,Dantas REBOUND (Off:1 Def:2),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,132,1,6,2,9:25 PM,9:24,Collier 7' Driving Layup (15 PTS) (Dangerfield 3 AST),,,39 - 25,-14,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,134,2,79,2,9:25 PM,9:04,,,MISS DeShields 17' Pullup Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,135,4,0,2,9:25 PM,9:01,Collier REBOUND (Off:1 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,136,6,2,2,9:26 PM,8:57,,,DeShields S.FOUL (P3.T1),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,138,3,11,2,9:26 PM,8:57,Collier Free Throw 1 of 2 (16 PTS),,,39 - 26,-13,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,139,8,0,2,9:26 PM,8:57,,,SUB: Parker FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,140,8,0,2,9:26 PM,8:57,,,SUB: Vandersloot FOR Evans,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,141,8,0,2,9:26 PM,8:57,,,SUB: Copper FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,145,3,12,2,9:26 PM,8:57,Collier Free Throw 2 of 2 (17 PTS),,,39 - 27,-12,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,146,5,1,2,9:26 PM,8:46,Fowles STEAL (1 STL),,Vandersloot Bad Pass Turnover (P1.T2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,148,2,6,2,9:27 PM,8:42,MISS Dangerfield 7' Driving Layup,,Vandersloot BLOCK (1 BLK),,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1
+1022100066,150,4,0,2,9:27 PM,8:42,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,152,6,2,2,9:27 PM,8:37,,,Copper S.FOUL (P1.T2),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,154,3,11,2,9:27 PM,8:37,Collier Free Throw 1 of 2 (18 PTS),,,39 - 28,-11,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,155,3,12,2,9:28 PM,8:37,Collier Free Throw 2 of 2 (19 PTS),,,39 - 29,-10,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,156,2,1,2,9:28 PM,8:19,,,MISS Copper 18' Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,157,4,0,2,9:28 PM,8:13,Dantas REBOUND (Off:1 Def:3),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,158,2,79,2,9:28 PM,8:10,MISS Banham 17' Pullup Jump Shot,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,159,4,0,2,9:28 PM,8:07,Fowles REBOUND (Off:2 Def:1),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,187,5,2,2,9:28 PM,8:06,Fowles Lost Ball Turnover (P2.T6),,Copper STEAL (1 STL),,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,160,6,1,2,9:28 PM,8:05,Collier P.FOUL (P1.T1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,163,8,0,2,9:29 PM,7:46,SUB: Carleton FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,165,8,0,2,9:29 PM,7:46,,,SUB: Hebard FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,167,2,1,2,9:29 PM,7:43,Dantas BLOCK (1 BLK),,MISS Parker 19' Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1
+1022100066,169,4,0,2,9:29 PM,7:38,Dangerfield REBOUND (Off:0 Def:1),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,170,6,2,2,9:29 PM,7:31,,,Hebard S.FOUL (P1.T3),,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,172,3,11,2,9:30 PM,7:31,MISS Fowles Free Throw 1 of 2,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,173,4,1,2,9:30 PM,7:31,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,174,3,12,2,9:30 PM,7:31,MISS Fowles Free Throw 2 of 2,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,175,4,0,2,9:30 PM,7:30,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,177,5,1,2,9:31 PM,7:25,Dantas Bad Pass Turnover (P2.T7),,Hebard STEAL (1 STL),,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,179,2,1,2,9:31 PM,7:11,,,MISS Copper 24' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,180,4,0,2,9:31 PM,7:07,Fowles REBOUND (Off:2 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,181,1,1,2,9:31 PM,7:02,Dantas 24' 3PT Jump Shot (3 PTS) (Dangerfield 4 AST),,,39 - 32,-7,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,183,9,1,2,9:31 PM,6:55,,,Sky Timeout: Regular (Reg.1 Short 0),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,184,8,0,2,9:34 PM,6:55,SUB: McBride FOR Banham,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,186,5,45,2,9:35 PM,6:43,,,Copper Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1022100066,189,2,74,2,9:35 PM,6:27,MISS Fowles 4' Running Reverse Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,190,4,0,2,9:35 PM,6:24,,,Copper REBOUND (Off:0 Def:1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,192,8,0,2,9:35 PM,6:22,SUB: Clarendon FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,193,8,0,2,9:35 PM,6:22,,,SUB: Dolson FOR Hebard,,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,196,1,98,2,9:36 PM,6:20,,,Copper 2' Cutting Layup Shot (4 PTS) (Vandersloot 4 AST),41 - 32,-9,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,198,1,6,2,9:36 PM,6:13,Carleton 1' Driving Layup (2 PTS) (Clarendon 2 AST),,,41 - 34,-7,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,200,1,6,2,9:36 PM,6:06,,,Copper 1' Driving Layup (6 PTS) (Vandersloot 5 AST),43 - 34,-9,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,202,2,80,2,9:36 PM,5:52,MISS Dantas 19' Step Back Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,203,4,0,2,9:36 PM,5:48,Fowles REBOUND (Off:3 Def:2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,204,2,3,2,9:36 PM,5:47,MISS Fowles 4' Hook Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,205,4,0,2,9:36 PM,5:44,,,Dolson REBOUND (Off:0 Def:4),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,206,2,1,2,9:36 PM,5:37,,,MISS Vandersloot 25' 3PT Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,207,4,0,2,9:36 PM,5:33,Fowles REBOUND (Off:3 Def:3),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,208,5,1,2,9:36 PM,5:26,Clarendon Bad Pass Turnover (P1.T8),,Vandersloot STEAL (4 STL),,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,210,1,5,2,9:37 PM,5:21,,,Dolson 2' Layup (10 PTS) (Vandersloot 6 AST),45 - 34,-11,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,212,6,17,2,9:37 PM,4:59,,,Sky T.Foul (Def. 3 Sec Dolson ),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1022100066,213,3,16,2,9:37 PM,4:59,McBride Free Throw Technical (1 PTS),,,45 - 35,-10,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,214,8,0,2,9:37 PM,4:59,SUB: Collier FOR Dantas,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,215,8,0,2,9:37 PM,4:59,,,SUB: DeShields FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,218,1,47,2,9:38 PM,4:45,Collier 10' Turnaround Jump Shot (21 PTS),,,45 - 37,-8,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,219,2,1,2,9:38 PM,4:33,,,MISS DeShields 22' Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,220,4,0,2,9:38 PM,4:29,McBride REBOUND (Off:0 Def:2),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,221,2,5,2,9:38 PM,4:23,MISS Fowles 2' Layup,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,222,4,0,2,9:38 PM,4:19,,,Dolson REBOUND (Off:0 Def:5),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,223,2,6,2,9:38 PM,4:13,,,MISS Copper 2' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,224,4,0,2,9:38 PM,4:11,,,DeShields REBOUND (Off:1 Def:1),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,225,2,5,2,9:38 PM,4:10,,,MISS DeShields 4' Layup,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,226,4,0,2,9:38 PM,4:09,Fowles REBOUND (Off:3 Def:4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,227,6,2,2,9:39 PM,4:07,,,Vandersloot S.FOUL (P1.T4),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,229,3,11,2,9:39 PM,4:07,McBride Free Throw 1 of 2 (2 PTS),,,45 - 38,-7,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,230,3,12,2,9:39 PM,4:07,McBride Free Throw 2 of 2 (3 PTS),,,45 - 39,-6,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,231,2,1,2,9:40 PM,3:48,,,MISS Parker 3PT Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,232,4,0,2,9:40 PM,3:45,Fowles REBOUND (Off:3 Def:5),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,233,2,1,2,9:40 PM,3:38,MISS McBride 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,234,4,0,2,9:40 PM,3:35,,,Vandersloot REBOUND (Off:0 Def:1),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,235,2,5,2,9:40 PM,3:23,Fowles BLOCK (1 BLK),,MISS DeShields 9' Layup,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1
+1022100066,237,4,0,2,9:40 PM,3:21,Carleton REBOUND (Off:0 Def:1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,238,1,6,2,9:40 PM,3:17,Carleton 1' Driving Layup (4 PTS),,,45 - 41,-4,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,239,5,45,2,9:41 PM,3:11,,,Parker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1022100066,240,8,0,2,9:41 PM,3:11,,,SUB: Quigley FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,241,8,0,2,9:41 PM,3:11,,,SUB: Stevens FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,244,1,98,2,9:41 PM,3:08,Clarendon 2' Cutting Layup Shot (2 PTS) (McBride 2 AST),,,45 - 43,-2,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,246,6,2,2,9:41 PM,2:53,McBride S.FOUL (P1.T2),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,248,9,4,2,9:42 PM,2:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,249,3,11,2,9:45 PM,2:53,,,Quigley Free Throw 1 of 2 (6 PTS),46 - 43,-3,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,250,3,12,2,9:46 PM,2:53,,,Quigley Free Throw 2 of 2 (7 PTS),47 - 43,-4,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,251,2,5,2,9:46 PM,2:38,MISS Collier 1' Layup,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,252,4,0,2,9:46 PM,2:35,Collier REBOUND (Off:2 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,253,1,97,2,9:46 PM,2:35,Collier 1' Tip Layup Shot (23 PTS),,,47 - 45,-2,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,254,1,1,2,9:46 PM,2:20,,,Vandersloot 24' 3PT Jump Shot (7 PTS) (DeShields 2 AST),50 - 45,-5,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,256,2,1,2,9:46 PM,2:06,MISS Collier 14' Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,257,4,0,2,9:46 PM,2:04,Carleton REBOUND (Off:1 Def:1),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,283,5,45,2,9:46 PM,2:03,Carleton Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,259,8,0,2,9:47 PM,2:03,,,SUB: Copper FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,261,6,1,2,9:47 PM,1:45,Collier P.FOUL (P2.T3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,263,6,2,2,9:47 PM,1:38,Fowles S.FOUL (P2.PN),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,265,3,11,2,9:48 PM,1:38,,,Copper Free Throw 1 of 2 (7 PTS),51 - 45,-6,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,266,3,12,2,9:48 PM,1:38,,,Copper Free Throw 2 of 2 (8 PTS),52 - 45,-7,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,267,5,39,2,9:48 PM,1:24,Carleton Step Out of Bounds Turnover (P2.T10),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,268,1,1,2,9:49 PM,1:14,,,Quigley 19' Jump Shot (9 PTS) (Vandersloot 7 AST),54 - 45,-9,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,270,2,5,2,9:49 PM,1:02,MISS Clarendon 6' Layup,,Quigley BLOCK (1 BLK),,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1
+1022100066,272,4,0,2,9:49 PM,1:02,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,274,5,2,2,9:49 PM,0:58,Collier Lost Ball Turnover (P3.T11),,Quigley STEAL (1 STL),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,276,1,41,2,9:49 PM,0:54,,,Stevens 1' Running Layup (2 PTS) (Quigley 2 AST),56 - 45,-11,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,278,5,2,2,9:49 PM,0:45,Carleton Lost Ball Turnover (P3.T12),,Quigley STEAL (2 STL),,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,280,1,41,2,9:50 PM,0:41,,,Quigley 3' Running Layup (11 PTS) (Parker 4 AST),58 - 45,-13,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,282,6,1,2,9:50 PM,0:40,,,Copper P.FOUL (P2.PN),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,285,3,11,2,9:50 PM,0:40,Clarendon Free Throw 1 of 2 (3 PTS),,,58 - 46,-12,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,286,3,12,2,9:51 PM,0:40,Clarendon Free Throw 2 of 2 (4 PTS),,,58 - 47,-11,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,287,2,5,2,9:51 PM,0:32,,,MISS Quigley 3' Layup,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,288,4,0,2,9:51 PM,0:30,Carleton REBOUND (Off:1 Def:2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,289,1,5,2,9:51 PM,0:23,Fowles 2' Layup (10 PTS) (Clarendon 3 AST),,,58 - 49,-9,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,291,2,1,2,9:51 PM,0:03,,,MISS Quigley 23' Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,292,4,0,2,9:51 PM,0:01,,,Parker REBOUND (Off:1 Def:2),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,293,2,80,2,9:51 PM,0:00,,,MISS Parker 25' 3PT Step Back Jump Shot,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,294,4,0,2,9:51 PM,0:00,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,295,13,0,2,9:51 PM,0:00,,End of 2nd Period (9:51 PM EST),,58 - 49,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100066,300,12,0,3,10:08 PM,10:00,,Start of 3rd Period (10:08 PM EST),,58 - 49,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,301,2,1,3,10:08 PM,9:40,,,MISS DeShields 3PT Jump Shot,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,302,4,0,3,10:08 PM,9:36,McBride REBOUND (Off:0 Def:3),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,303,2,79,3,10:08 PM,9:27,MISS Carleton 14' Pullup Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,304,4,0,3,10:08 PM,9:23,,,Vandersloot REBOUND (Off:0 Def:2),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,305,1,1,3,10:08 PM,9:17,,,Dolson 3PT Jump Shot (13 PTS) (Vandersloot 8 AST),61 - 49,-12,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,307,2,1,3,10:09 PM,8:59,MISS McBride 25' 3PT Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,308,4,0,3,10:09 PM,8:57,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,310,8,0,3,10:09 PM,8:57,SUB: Dangerfield FOR Clarendon,,,,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,312,5,1,3,10:09 PM,8:40,McBride STEAL (1 STL),,Copper Bad Pass Turnover (P2.T5),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,314,5,1,3,10:09 PM,8:32,Collier Bad Pass Turnover (P4.T13),,Copper STEAL (2 STL),,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,316,1,78,3,10:10 PM,8:22,,,Dolson 7' Floating Jump Shot (15 PTS) (Vandersloot 9 AST),63 - 49,-14,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,318,1,47,3,10:10 PM,8:06,Collier 6' Turnaround Jump Shot (25 PTS) (Fowles 1 AST),,,63 - 51,-12,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,320,5,1,3,10:10 PM,7:57,Fowles STEAL (2 STL),,Vandersloot Bad Pass Turnover (P2.T6),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,322,6,1,3,10:10 PM,7:56,,,Parker P.FOUL (P1.T1),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,324,1,47,3,10:11 PM,7:36,Fowles 7' Turnaround Jump Shot (12 PTS),,,63 - 53,-10,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,325,6,1,3,10:11 PM,7:28,Dangerfield P.FOUL (P1.T1),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,327,6,2,3,10:11 PM,7:13,Fowles S.FOUL (P3.T2),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,329,3,11,3,10:12 PM,7:13,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,330,4,1,3,10:12 PM,7:13,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,331,3,12,3,10:12 PM,7:13,,,Copper Free Throw 2 of 2 (9 PTS),64 - 53,-11,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,332,6,1,3,10:12 PM,7:00,,,Dolson P.FOUL (P1.T2),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,334,2,1,3,10:13 PM,6:48,MISS Fowles 18' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,335,4,0,3,10:13 PM,6:45,,,Parker REBOUND (Off:1 Def:3),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,336,1,98,3,10:13 PM,6:34,,,Parker 4' Cutting Layup Shot (9 PTS) (Vandersloot 10 AST),66 - 53,-13,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,338,2,1,3,10:13 PM,6:20,MISS Dangerfield 29' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,339,4,0,3,10:13 PM,6:15,Collier REBOUND (Off:3 Def:1),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,340,1,1,3,10:14 PM,6:05,Collier 2' Jump Shot (27 PTS),,,66 - 55,-11,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,341,1,6,3,10:14 PM,5:51,,,Copper 3' Driving Layup (11 PTS) (Parker 5 AST),68 - 55,-13,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,343,2,1,3,10:14 PM,5:42,MISS Collier 28' 3PT Jump Shot,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,344,4,0,3,10:14 PM,5:38,,,Dolson REBOUND (Off:0 Def:6),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,345,2,6,3,10:14 PM,5:27,,,MISS DeShields 1' Driving Layup,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,346,4,0,3,10:14 PM,5:25,Fowles REBOUND (Off:3 Def:6),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,347,2,79,3,10:14 PM,5:11,MISS McBride 11' Pullup Jump Shot,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,348,4,0,3,10:15 PM,5:06,,,Parker REBOUND (Off:1 Def:4),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,349,1,5,3,10:15 PM,5:04,,,Copper 2' Layup (13 PTS) (Parker 6 AST),70 - 55,-15,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,351,9,1,3,10:15 PM,5:03,LYNX Timeout: Regular (Full 3 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,352,8,0,3,10:17 PM,5:03,SUB: Dantas FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,353,8,0,3,10:17 PM,5:03,SUB: Banham FOR McBride,,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,354,8,0,3,10:17 PM,5:03,,,SUB: Quigley FOR Copper,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,355,8,0,3,10:17 PM,5:03,,,SUB: Stevens FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,360,2,98,3,10:19 PM,4:48,MISS Dantas 2' Cutting Layup Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,361,4,0,3,10:19 PM,4:45,,,Stevens REBOUND (Off:1 Def:1),,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,362,1,6,3,10:19 PM,4:26,,,DeShields 1' Driving Layup (12 PTS),72 - 55,-17,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,364,6,4,3,10:19 PM,4:18,Collier OFF.Foul (P3),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,366,5,37,3,10:19 PM,4:18,Collier Offensive Foul Turnover (P5.T14),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,367,2,1,3,10:20 PM,4:06,,,MISS Stevens 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,368,4,0,3,10:20 PM,4:03,Collier REBOUND (Off:3 Def:2),,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,369,2,1,3,10:20 PM,3:55,MISS Dantas 26' 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,370,4,0,3,10:20 PM,3:52,,,DeShields REBOUND (Off:1 Def:2),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,371,2,1,3,10:20 PM,3:45,,,MISS Stevens 24' 3PT Jump Shot,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,372,4,0,3,10:20 PM,3:43,Dantas REBOUND (Off:1 Def:4),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,373,6,2,3,10:20 PM,3:29,,,Quigley S.FOUL (P1.T3),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,375,3,11,3,10:21 PM,3:29,Dantas Free Throw 1 of 2 (4 PTS),,,72 - 56,-16,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,376,8,0,3,10:21 PM,3:29,,,SUB: Brown FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,378,3,12,3,10:21 PM,3:29,Dantas Free Throw 2 of 2 (5 PTS),,,72 - 57,-15,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,379,1,1,3,10:21 PM,3:11,,,Quigley 24' 3PT Jump Shot (14 PTS) (Parker 7 AST),75 - 57,-18,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,381,5,1,3,10:22 PM,2:57,Dantas Bad Pass Turnover (P3.T15),,DeShields STEAL (1 STL),,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,383,1,1,3,10:22 PM,2:50,,,Quigley 3PT Jump Shot (17 PTS) (Brown 1 AST),78 - 57,-21,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,385,9,1,3,10:22 PM,2:50,LYNX Timeout: Regular (Full 4 Short 0),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,386,8,0,3,10:24 PM,2:50,SUB: Carleton FOR Dantas,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,387,8,0,3,10:24 PM,2:50,,,SUB: Dolson FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,390,1,102,3,10:24 PM,2:32,Dangerfield 7' Driving Floating Bank Jump Shot (4 PTS),,,78 - 59,-19,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,391,5,4,3,10:24 PM,2:17,,,DeShields Traveling Turnover (P1.T7),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1022100066,392,1,44,3,10:25 PM,2:01,Fowles 2' Reverse Layup (14 PTS) (Dangerfield 5 AST),,,78 - 61,-17,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,394,6,4,3,10:25 PM,1:43,,,Dolson OFF.Foul (P2),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,396,5,37,3,10:25 PM,1:43,,,Dolson Offensive Foul Turnover (P1.T8),,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1022100066,397,2,1,3,10:26 PM,1:33,MISS Dangerfield 14' Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,398,4,0,3,10:26 PM,1:28,,,Brown REBOUND (Off:0 Def:1),,,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,399,5,1,3,10:26 PM,1:25,Carleton STEAL (1 STL),,Brown Bad Pass Turnover (P1.T9),,,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,401,2,5,3,10:26 PM,1:18,MISS Dangerfield 2' Layup,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,402,4,0,3,10:26 PM,1:12,,,Brown REBOUND (Off:0 Def:2),,,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,403,6,1,3,10:26 PM,1:05,Banham P.FOUL (P2.T3),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,405,1,1,3,10:26 PM,1:00,,,Quigley 11' Jump Shot (19 PTS) (Dolson 1 AST),80 - 61,-19,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,407,6,4,3,10:27 PM,0:54,Fowles OFF.Foul (P4),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,409,5,37,3,10:27 PM,0:54,Fowles Offensive Foul Turnover (P3.T16),,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,410,1,6,3,10:27 PM,0:46,,,DeShields 4' Driving Layup (14 PTS) (Brown 2 AST),82 - 61,-21,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,412,1,73,3,10:27 PM,0:24,Carleton 4' Driving Reverse Layup (6 PTS),,,82 - 63,-19,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,413,2,1,3,10:28 PM,0:00,,,MISS Quigley 3' Jump Shot,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,414,4,0,3,10:28 PM,0:00,,,Quigley REBOUND (Off:1 Def:0),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,415,13,0,3,10:28 PM,0:00,,End of 3rd Period (10:28 PM EST),,82 - 63,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022100066,418,12,0,4,10:31 PM,10:00,,Start of 4th Period (10:31 PM EST),,82 - 63,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,419,2,1,4,10:31 PM,9:50,MISS Dangerfield 24' 3PT Jump Shot,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,420,4,0,4,10:31 PM,9:46,,,DeShields REBOUND (Off:1 Def:3),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,422,5,1,4,10:32 PM,9:40,Collier STEAL (1 STL),,Vandersloot Bad Pass Turnover (P3.T10),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,424,2,47,4,10:32 PM,9:32,MISS Carleton 6' Turnaround Jump Shot,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,425,4,0,4,10:32 PM,9:28,,,DeShields REBOUND (Off:1 Def:4),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,426,9,2,4,10:32 PM,9:28,,,Sky Timeout: Short (Reg.1 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,427,1,1,4,10:35 PM,9:15,,,Dolson 16' Jump Shot (17 PTS) (Quigley 3 AST),84 - 63,-21,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,429,2,6,4,10:35 PM,8:57,MISS Banham 2' Driving Layup,,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,430,4,0,4,10:35 PM,8:55,,,Vandersloot REBOUND (Off:0 Def:3),,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,431,1,1,4,10:35 PM,8:43,,,Quigley 3PT Jump Shot (22 PTS) (Vandersloot 11 AST),87 - 63,-24,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,433,9,2,4,10:36 PM,8:42,LYNX Timeout: Short (Full 4 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,434,6,11,4,10:36 PM,8:42,Banham T.FOUL (P2.T0),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,435,8,0,4,10:37 PM,8:42,SUB: Dantas FOR Collier,,,,,4,1629483,Napheesa Collier,1611661324.0,Minnesota,Lynx,MIN,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,436,8,0,4,10:37 PM,8:42,SUB: McBride FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661324.0,Minnesota,Lynx,MIN,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,437,8,0,4,10:37 PM,8:42,,,SUB: Copper FOR DeShields,,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,438,8,0,4,10:37 PM,8:42,,,SUB: Parker FOR Stevens,,,5,1628922,Azurá Stevens,1611661329.0,Chicago,Sky,CHI,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,443,3,16,4,10:37 PM,8:42,,,Quigley Free Throw Technical (23 PTS),88 - 63,-25,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,444,2,1,4,10:38 PM,8:27,MISS Dantas 26' 3PT Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,445,4,0,4,10:38 PM,8:23,,,Quigley REBOUND (Off:1 Def:1),,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,446,2,1,4,10:38 PM,8:13,,,MISS Vandersloot 19' Jump Shot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,447,4,0,4,10:38 PM,8:10,Banham REBOUND (Off:0 Def:1),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,448,6,1,4,10:38 PM,8:03,,,Copper P.FOUL (P3.T1),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,450,5,40,4,10:39 PM,7:51,Dangerfield Out of Bounds Lost Ball Turnover (P2.T17),,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,451,1,98,4,10:39 PM,7:34,,,Parker 2' Cutting Layup Shot (11 PTS) (Quigley 4 AST),90 - 63,-27,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,453,1,78,4,10:39 PM,7:20,Dantas 12' Floating Jump Shot (7 PTS),,,90 - 65,-25,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,455,6,14,4,10:40 PM,7:02,,,Parker FLAGRANT.FOUL.TYPE1 (P2.T2),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,574,5,0,4,10:40 PM,7:02,,,Parker No Turnover (P2.T11),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1022100066,458,18,1,4,10:41 PM,7:02,,Instant Replay4th Period (10:41 PM EST),,90 - 65,-25,0,455,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100066,459,3,18,4,10:43 PM,7:02,MISS Dangerfield Free Throw Flagrant 1 of 2,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,460,4,1,4,10:43 PM,7:02,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,461,3,19,4,10:43 PM,7:02,MISS Dangerfield Free Throw Flagrant 2 of 2,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,464,4,0,4,10:43 PM,7:02,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,462,8,0,4,10:43 PM,7:02,,,SUB: Hebard FOR Dolson,,,5,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,465,2,5,4,10:44 PM,6:42,MISS Dangerfield 2' Layup,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,466,4,0,4,10:44 PM,6:39,Carleton REBOUND (Off:2 Def:2),,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,467,1,5,4,10:44 PM,6:38,Carleton 1' Layup (8 PTS),,,90 - 67,-23,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,468,6,2,4,10:44 PM,6:22,Banham S.FOUL (P3.T1),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,470,3,11,4,10:45 PM,6:22,,,MISS Parker Free Throw 1 of 2,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,471,4,1,4,10:45 PM,6:22,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,472,8,0,4,10:45 PM,6:22,SUB: Clarendon FOR Dangerfield,,,,,4,1630101,Crystal Dangerfield,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,474,3,12,4,10:45 PM,6:22,,,Parker Free Throw 2 of 2 (12 PTS),91 - 67,-24,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,475,6,2,4,10:45 PM,6:11,,,Copper S.FOUL (P4.T3),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,477,3,11,4,10:45 PM,6:11,MISS Dantas Free Throw 1 of 2,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,478,4,1,4,10:45 PM,6:11,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,479,3,12,4,10:45 PM,6:11,MISS Dantas Free Throw 2 of 2,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,480,4,0,4,10:46 PM,6:07,,,Parker REBOUND (Off:1 Def:5),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,481,5,2,4,10:46 PM,6:04,Carleton STEAL (2 STL),,Parker Lost Ball Turnover (P3.T12),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,483,2,5,4,10:46 PM,6:00,MISS Carleton 8' Layup,,Vandersloot BLOCK (2 BLK),,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1
+1022100066,485,4,0,4,10:46 PM,5:57,,,Parker REBOUND (Off:1 Def:6),,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,486,1,1,4,10:46 PM,5:47,,,Vandersloot 24' 3PT Jump Shot (10 PTS) (Copper 1 AST),94 - 67,-27,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,488,9,2,4,10:46 PM,5:46,LYNX Timeout: Short (Full 4 Short 2),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,491,9,4,4,10:47 PM,5:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,492,8,0,4,10:49 PM,5:46,,,SUB: DeShields FOR Parker,,,5,201496,Candace Parker,1611661329.0,Chicago,Sky,CHI,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,494,8,0,4,10:49 PM,5:46,SUB: Burdick FOR Carleton,,,,,4,1629524,Bridget Carleton,1611661324.0,Minnesota,Lynx,MIN,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1022100066,496,1,1,4,10:50 PM,5:35,McBride 26' 3PT Jump Shot (6 PTS) (Banham 1 AST),,,94 - 70,-24,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,498,1,6,4,10:50 PM,5:08,,,DeShields 3' Driving Layup (16 PTS) (Vandersloot 12 AST),96 - 70,-26,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,500,1,1,4,10:50 PM,5:01,Banham 27' 3PT Jump Shot (3 PTS) (Clarendon 4 AST),,,96 - 73,-23,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,502,6,2,4,10:51 PM,4:47,Dantas S.FOUL (P1.T2),,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,504,18,0,4,10:51 PM,4:47,,Instant Replay4th Period (10:51 PM EST),,96 - 73,-23,0,502,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,506,6,14,4,10:55 PM,4:47,,,Copper FLAGRANT.FOUL.TYPE1 (P5.T4),,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,509,3,18,4,10:55 PM,4:47,Dantas Free Throw Flagrant 1 of 2 (8 PTS),,,96 - 74,-22,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,510,3,19,4,10:55 PM,4:47,Dantas Free Throw Flagrant 2 of 2 (9 PTS),,,96 - 75,-21,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,511,3,11,4,10:55 PM,4:47,,,Copper Free Throw 1 of 2 (14 PTS),97 - 75,-22,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,512,3,12,4,10:55 PM,4:47,,,Copper Free Throw 2 of 2 (15 PTS),98 - 75,-23,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,513,6,4,4,10:56 PM,4:35,McBride OFF.Foul (P2),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,515,5,37,4,10:56 PM,4:35,McBride Offensive Foul Turnover (P1.T18),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,1
+1022100066,516,1,5,4,10:56 PM,4:16,,,Hebard 2' Layup (2 PTS) (Vandersloot 13 AST),100 - 75,-25,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,518,2,1,4,10:56 PM,4:04,MISS Dantas 9' Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,519,4,0,4,10:56 PM,4:04,,,DeShields REBOUND (Off:1 Def:5),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,520,5,40,4,10:56 PM,3:59,,,DeShields Out of Bounds Lost Ball Turnover (P2.T13),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1022100066,521,8,0,4,10:56 PM,3:59,,,SUB: Evans FOR Vandersloot,,,5,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,523,1,5,4,10:57 PM,3:43,Burdick 3' Layup (2 PTS),,,100 - 77,-23,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,524,6,2,4,10:57 PM,3:43,,,Evans S.FOUL (P1.PN),,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,526,3,10,4,10:57 PM,3:43,Burdick Free Throw 1 of 1 (3 PTS),,,100 - 78,-22,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,527,2,1,4,10:58 PM,3:25,,,MISS Evans 25' 3PT Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,528,4,0,4,10:58 PM,3:20,Burdick REBOUND (Off:0 Def:1),,,,,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,529,5,2,4,10:58 PM,3:11,McBride Lost Ball Turnover (P2.T19),,Copper STEAL (3 STL),,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,531,6,2,4,10:58 PM,3:09,McBride S.FOUL (P3.T3),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,533,3,11,4,10:58 PM,3:09,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,534,4,1,4,10:58 PM,3:09,,,Sky Rebound,,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,535,8,0,4,10:58 PM,3:09,,,SUB: Brown FOR Quigley,,,5,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022100066,537,3,12,4,10:59 PM,3:09,,,Copper Free Throw 2 of 2 (16 PTS),101 - 78,-23,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,538,6,1,4,10:59 PM,3:02,,,DeShields P.FOUL (P4.PN),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,540,3,11,4,10:59 PM,3:02,MISS Burdick Free Throw 1 of 2,,,,,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,541,4,1,4,10:59 PM,3:02,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,542,3,12,4,10:59 PM,3:02,Burdick Free Throw 2 of 2 (4 PTS),,,101 - 79,-22,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,543,6,1,4,11:00 PM,2:47,Clarendon P.FOUL (P1.T4),,,,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,545,9,1,4,11:00 PM,2:47,,,Sky Timeout: Regular (Reg.2 Short 1),,,3,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022100066,546,5,11,4,11:03 PM,2:32,,,Sky Turnover: Shot Clock (T#14),,,3,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1022100066,547,2,47,4,11:03 PM,2:16,MISS Dantas 15' Turnaround Jump Shot,,,,,4,203024,Damiris Dantas,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,548,4,0,4,11:03 PM,2:13,,,Hebard REBOUND (Off:0 Def:1),,,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,549,1,98,4,11:04 PM,1:54,,,Hebard 1' Cutting Layup Shot (4 PTS) (Evans 1 AST),103 - 79,-24,5,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022100066,551,1,98,4,11:04 PM,1:44,Burdick 2' Cutting Layup Shot (6 PTS) (Clarendon 5 AST),,,103 - 81,-22,4,204332,Cierra Burdick,1611661324.0,Minnesota,Lynx,MIN,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,553,6,1,4,11:04 PM,1:37,Clarendon P.FOUL (P2.PN),,,,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022100066,555,3,11,4,11:05 PM,1:37,,,Evans Free Throw 1 of 2 (4 PTS),104 - 81,-23,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,556,3,12,4,11:05 PM,1:37,,,Evans Free Throw 2 of 2 (5 PTS),105 - 81,-24,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022100066,557,5,6,4,11:05 PM,1:34,Clarendon Double Dribble Turnover (P2.T20),,,,,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1022100066,558,2,1,4,11:05 PM,1:22,,,MISS Evans 3PT Jump Shot,,,5,1630389,Dana Evans,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,559,4,0,4,11:05 PM,1:19,Banham REBOUND (Off:0 Def:2),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,560,1,66,4,11:05 PM,1:16,Banham 28' 3PT Jump Bank Shot (6 PTS),,,105 - 84,-21,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,561,2,6,4,11:06 PM,0:54,,,MISS Copper 3' Driving Layup,,,5,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,562,4,0,4,11:06 PM,0:52,Banham REBOUND (Off:0 Def:3),,,,,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,563,1,1,4,11:06 PM,0:47,Clarendon 17' Jump Shot (6 PTS) (Banham 2 AST),,,105 - 86,-19,4,203406,Layshia Clarendon,1611661324.0,Minnesota,Lynx,MIN,4,1627671,Rachel Banham,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1
+1022100066,565,2,1,4,11:06 PM,0:26,,,MISS Brown 3PT Jump Shot,,,5,1628882,Lexie Brown,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022100066,566,4,0,4,11:06 PM,0:23,McBride REBOUND (Off:0 Def:4),,,,,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,1
+1022100066,567,6,2,4,11:07 PM,0:21,,,DeShields S.FOUL (P5.PN),,,5,1628890,Diamond DeShields,1611661329.0,Chicago,Sky,CHI,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,1
+1022100066,569,3,13,4,11:07 PM,0:21,McBride Free Throw 1 of 3 (7 PTS),,,105 - 87,-18,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,570,3,14,4,11:07 PM,0:21,McBride Free Throw 2 of 3 (8 PTS),,,105 - 88,-17,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,571,3,15,4,11:08 PM,0:21,McBride Free Throw 3 of 3 (9 PTS),,,105 - 89,-16,4,203825,Kayla McBride,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1022100066,572,13,0,4,11:08 PM,0:00,,End of 4th Period (11:08 PM EST),,105 - 89,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

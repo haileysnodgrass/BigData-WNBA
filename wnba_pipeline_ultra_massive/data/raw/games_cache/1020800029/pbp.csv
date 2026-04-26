@@ -1,0 +1,390 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020800029,0,12,0,1,3:27 PM,10:00,,Start of 1st Period (3:27 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,1,10,0,1,3:27 PM,10:00,Jump Ball Sanford vs. Leslie: Tip to Ferdinand-Harris,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,2,5,40,1,3:28 PM,9:41,,,Ferdinand-Harris Out of Bounds Lost Ball Turnover (P1.T1),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020800029,3,6,1,1,3:28 PM,9:26,,,Ferdinand-Harris P.FOUL (P1.T1),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,4,1,1,1,3:28 PM,9:21,Beard 24' 3PT Jump Shot (3 PTS),,,0 - 3,3,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,5,2,1,1,3:29 PM,9:03,,,MISS Milton-Jones 4' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,6,4,0,1,3:29 PM,9:02,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,8,2,1,1,3:29 PM,8:55,,,MISS Milton-Jones 15' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,9,4,0,1,3:29 PM,8:54,,,Parker REBOUND (Off:1 Def:0),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,10,1,5,1,3:29 PM,8:51,,,Parker  Layup (2 PTS),2 - 3,1,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,11,1,1,1,3:29 PM,8:40,Currie 18' Jump Shot (2 PTS) (Jacobs 1 AST),,,2 - 5,3,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,12,6,1,1,3:30 PM,8:27,Sanford P.FOUL (P1.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,13,1,63,1,3:30 PM,8:14,,,Parker 18' Fadeaway Jumper (4 PTS),4 - 5,1,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,14,6,1,1,3:30 PM,8:05,,,Ferdinand-Harris P.FOUL (P2.T2),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,15,2,1,1,3:31 PM,7:55,MISS Sanford 13' Jump Shot,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,16,4,0,1,3:31 PM,7:54,,,Leslie REBOUND (Off:0 Def:1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,17,1,5,1,3:31 PM,7:37,,,Milton-Jones 3' Layup (2 PTS) (Parker 1 AST),6 - 5,-1,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,18,2,1,1,3:31 PM,7:29,MISS Currie 4' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,19,4,0,1,3:31 PM,7:29,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,20,1,79,1,3:32 PM,7:21,Beard 16' Pullup Jump Shot (5 PTS) (Jacobs 2 AST),,,6 - 7,1,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,22,6,2,1,3:32 PM,7:09,Beard S.FOUL (P1.T2),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,23,3,11,1,3:32 PM,7:09,,,Ferdinand-Harris Free Throw 1 of 2 (1 PTS),7 - 7,TIE,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,24,3,12,1,3:33 PM,7:09,,,Ferdinand-Harris Free Throw 2 of 2 (2 PTS),8 - 7,-1,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,25,2,1,1,3:33 PM,6:56,MISS Beard 16' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,26,4,0,1,3:33 PM,6:55,Sanford REBOUND (Off:1 Def:0),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,27,1,5,1,3:33 PM,6:53,Sanford 3' Layup (2 PTS),,,8 - 9,1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,28,1,1,1,3:33 PM,6:40,,,Milton-Jones 14' Jump Shot (4 PTS) (Johnson 1 AST),10 - 9,-1,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,29,2,1,1,3:34 PM,6:20,MISS Beard 16' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,30,4,0,1,3:34 PM,6:19,,,Parker REBOUND (Off:1 Def:1),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,31,2,1,1,3:34 PM,6:09,,,MISS Ferdinand-Harris  3PT Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,32,4,0,1,3:34 PM,6:08,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,33,8,0,1,3:34 PM,6:07,,,SUB: Masciadri FOR Ferdinand-Harris,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,34,1,5,1,3:34 PM,6:04,,,Leslie 3' Layup (2 PTS) (Johnson 2 AST),12 - 9,-3,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,35,6,1,1,3:35 PM,5:47,,,Milton-Jones P.FOUL (P1.T3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,36,2,1,1,3:35 PM,5:38,MISS Sanford 4' Jump Shot,,Leslie BLOCK (1 BLK),,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,37,4,0,1,3:35 PM,5:38,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,38,2,1,1,3:35 PM,5:36,MISS Currie 17' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,39,4,0,1,3:35 PM,5:35,,,Milton-Jones REBOUND (Off:0 Def:1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,40,5,1,1,3:35 PM,5:32,Jacobs STEAL (1 STL),,Milton-Jones Bad Pass Turnover (P1.T2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,41,2,1,1,3:36 PM,5:26,MISS Currie 14' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,42,4,0,1,3:36 PM,5:25,,,Masciadri REBOUND (Off:0 Def:1),,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,43,6,1,1,3:36 PM,5:15,Currie P.FOUL (P1.T3),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,44,8,0,1,3:36 PM,5:15,SUB: Vaughn FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201520,Krystal Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,45,2,1,1,3:36 PM,5:07,,,MISS Masciadri 14' Jump Shot,,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,46,4,0,1,3:36 PM,5:06,McWilliams-Franklin REBOUND (Off:0 Def:1),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,48,6,1,1,3:37 PM,4:52,,,Milton-Jones P.FOUL (P2.T4),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,49,9,4,1,3:37 PM,4:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,51,8,0,1,3:39 PM,4:52,SUB: Miller FOR Jacobs,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,52,2,1,1,3:40 PM,4:36,MISS Miller  3PT Jump Shot,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,53,4,0,1,3:40 PM,4:35,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,54,6,4,1,3:41 PM,4:20,,,Leslie OFF.Foul (P1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,55,5,5,1,3:41 PM,4:20,,,Leslie Foul Turnover (P1.T3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020800029,57,2,1,1,3:41 PM,3:58,MISS McWilliams-Franklin 12' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,58,4,0,1,3:41 PM,3:57,Vaughn REBOUND (Off:1 Def:0),,,,,4,201520,Krystal Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,59,2,1,1,3:41 PM,3:54,MISS Vaughn 12' Jump Shot,,,,,4,201520,Krystal Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,60,4,0,1,3:41 PM,3:53,Miller REBOUND (Off:1 Def:0),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,62,2,1,1,3:42 PM,3:39,MISS McWilliams-Franklin 17' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,63,4,0,1,3:42 PM,3:38,,,Parker REBOUND (Off:1 Def:2),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,65,5,1,1,3:42 PM,3:29,Sanford STEAL (1 STL),,Parker Bad Pass Turnover (P1.T4),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,66,2,5,1,3:42 PM,3:22,MISS McWilliams-Franklin 2' Layup,,Parker BLOCK (1 BLK),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,67,4,0,1,3:42 PM,3:21,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,68,8,0,1,3:42 PM,3:21,,,SUB: Moore FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,69,2,1,1,3:42 PM,3:14,MISS Sanford 8' Jump Shot,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,70,4,0,1,3:42 PM,3:13,,,Parker REBOUND (Off:1 Def:3),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,71,2,1,1,3:42 PM,3:04,,,MISS Parker 8' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,72,4,0,1,3:42 PM,3:03,,,Parker REBOUND (Off:2 Def:3),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,73,1,58,1,3:43 PM,2:57,,,Leslie 3' Turnaround Hook Shot (4 PTS) (Parker 2 AST),14 - 9,-5,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,74,2,1,1,3:43 PM,2:41,MISS Vaughn 12' Jump Shot,,,,,4,201520,Krystal Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,75,4,0,1,3:43 PM,2:40,,,Johnson REBOUND (Off:0 Def:1),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,76,2,1,1,3:43 PM,2:33,,,MISS Johnson 10' Jump Shot,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,77,4,0,1,3:43 PM,2:32,,,Johnson REBOUND (Off:1 Def:1),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,78,2,1,1,3:43 PM,2:24,,,MISS Leslie 6' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,79,4,0,1,3:43 PM,2:23,Sanford REBOUND (Off:1 Def:1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,80,2,1,1,3:43 PM,2:11,MISS Miller 16' Jump Shot,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,81,4,0,1,3:43 PM,2:10,,,Johnson REBOUND (Off:1 Def:2),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,82,2,1,1,3:43 PM,2:04,,,MISS Johnson 12' Jump Shot,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,83,4,0,1,3:43 PM,2:03,Sanford REBOUND (Off:1 Def:2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,84,2,1,1,3:44 PM,1:42,MISS Vaughn 18' Jump Shot,,,,,4,201520,Krystal Vaughn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,85,4,0,1,3:44 PM,1:41,,,Johnson REBOUND (Off:1 Def:3),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,86,2,5,1,3:44 PM,1:34,,,MISS Parker 3' Layup,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,87,4,0,1,3:44 PM,1:34,McWilliams-Franklin REBOUND (Off:0 Def:2),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,88,6,1,1,3:44 PM,1:34,,,Parker P.FOUL (P1.PN),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,89,8,0,1,3:44 PM,1:34,,,SUB: Brown FOR Johnson,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,90,3,11,1,3:45 PM,1:34,MISS McWilliams-Franklin Free Throw 1 of 2,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,91,4,1,1,3:45 PM,1:34,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,92,8,0,1,3:45 PM,1:34,SUB: Jacobs FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,93,3,12,1,3:45 PM,1:34,McWilliams-Franklin Free Throw 2 of 2 (1 PTS),,,14 - 10,-4,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,95,2,1,1,3:45 PM,1:11,,,MISS Brown 17' Jump Shot,,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,96,4,0,1,3:46 PM,1:10,Sanford REBOUND (Off:1 Def:3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,97,5,40,1,3:46 PM,1:02,Sanford Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,98,8,0,1,3:46 PM,1:02,SUB: Langhorne FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,99,8,0,1,3:46 PM,1:02,,,SUB: Page FOR Parker,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,100199,Murriel Page,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,101,1,42,1,3:46 PM,0:45,,,Masciadri 2' Driving Layup (2 PTS),16 - 10,-6,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,102,6,2,1,3:46 PM,0:45,Miller S.FOUL (P1.T4),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,103,8,0,1,3:47 PM,0:45,,,SUB: Thomas FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,104,8,0,1,3:47 PM,0:45,SUB: Gardner FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100747,Andrea Gardner,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,105,3,10,1,3:47 PM,0:45,,,Masciadri Free Throw 1 of 1 (3 PTS),17 - 10,-7,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,106,6,1,1,3:47 PM,0:32,,,Thomas P.FOUL (P1.PN),,,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,4,100747,Andrea Gardner,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,107,3,11,1,3:47 PM,0:32,MISS Gardner Free Throw 1 of 2,,,,,4,100747,Andrea Gardner,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,108,4,1,1,3:47 PM,0:32,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,109,3,12,1,3:48 PM,0:32,MISS Gardner Free Throw 2 of 2,,,,,4,100747,Andrea Gardner,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,110,4,0,1,3:48 PM,0:31,Langhorne REBOUND (Off:1 Def:0),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,111,9,2,1,3:48 PM,0:30,MYSTICS Timeout: Short (Full 0 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,112,5,1,1,3:49 PM,0:28,Vaughn Bad Pass Turnover (P1.T2),,Page STEAL (1 STL),,,4,201520,Krystal Vaughn,1611661322.0,Washington,Mystics,WAS,5,100199,Murriel Page,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,113,5,1,1,3:49 PM,0:13,,,Thomas Bad Pass Turnover (P1.T5),,,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020800029,114,2,1,1,3:50 PM,0:00,MISS Miller 11' Jump Shot,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,115,4,0,1,3:50 PM,0:00,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,116,13,0,1,3:50 PM,0:00,,End of 1st Period (3:50 PM EST),,17 - 10,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,118,12,0,2,3:54 PM,10:00,,Start of 2nd Period (3:54 PM EST),,17 - 10,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,119,2,1,2,3:55 PM,9:49,MISS Beard 24' 3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,120,4,0,2,3:55 PM,9:49,,,Thomas REBOUND (Off:0 Def:1),,,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,121,5,1,2,3:55 PM,9:49,Miller STEAL (1 STL),,Brown Bad Pass Turnover (P1.T6),,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,122,1,1,2,3:55 PM,9:49,Miller 5' Jump Shot (2 PTS),,,17 - 12,-5,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,123,2,1,2,3:55 PM,9:32,,,MISS Thomas 11' Jump Shot,,,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,124,4,0,2,3:55 PM,9:31,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,126,5,41,2,3:56 PM,9:16,Langhorne Poss Lost Ball Turnover (P1.T3),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,127,8,0,2,3:56 PM,9:16,,,SUB: Leslie FOR Thomas,,,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,128,6,1,2,3:56 PM,9:04,Sanford P.FOUL (P2.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,129,8,0,2,3:56 PM,9:04,SUB: Koehn FOR Miller,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,130,8,0,2,3:56 PM,9:04,SUB: McWilliams-Franklin FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,131,2,1,2,3:56 PM,9:00,,,MISS Leslie 12' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,132,4,0,2,3:57 PM,8:57,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,133,8,0,2,3:57 PM,8:57,SUB: Langhorne FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,134,2,1,2,3:57 PM,8:44,MISS Currie 8' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,135,4,0,2,3:57 PM,8:42,,,Leslie REBOUND (Off:0 Def:2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,136,1,1,2,3:57 PM,8:22,,,Leslie 7' Jump Shot (6 PTS),19 - 12,-7,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,137,6,4,2,3:58 PM,8:11,Currie OFF.Foul (P2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,138,5,5,2,3:58 PM,8:11,Currie Foul Turnover (P1.T4),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,139,8,0,2,3:58 PM,8:11,,,SUB: Parker FOR Page,,,5,100199,Murriel Page,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,140,2,1,2,3:58 PM,7:54,,,MISS Parker 12' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,141,4,0,2,3:58 PM,7:53,Beard REBOUND (Off:0 Def:1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,142,5,1,2,3:58 PM,7:39,McWilliams-Franklin Bad Pass Turnover (P1.T5),,Masciadri STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,143,1,86,2,3:59 PM,7:20,,,Leslie 12' Turnaround Fadeaway (8 PTS),21 - 12,-9,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,145,6,2,2,3:59 PM,7:01,,,Parker S.FOUL (P2.T1),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,146,8,0,2,3:59 PM,7:01,,,SUB: Milton-Jones FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,147,3,11,2,3:59 PM,7:01,MISS Beard Free Throw 1 of 2,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,148,4,1,2,3:59 PM,7:01,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,149,3,12,2,4:00 PM,7:01,Beard Free Throw 2 of 2 (6 PTS),,,21 - 13,-8,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,150,1,1,2,4:01 PM,6:35,,,Masciadri 18' Jump Shot (5 PTS),23 - 13,-10,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,151,2,1,2,4:01 PM,6:11,MISS McWilliams-Franklin 9' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,152,4,0,2,4:01 PM,6:09,,,Parker REBOUND (Off:2 Def:4),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,153,1,1,2,4:01 PM,6:00,,,Milton-Jones 18' Jump Shot (6 PTS) (Parker 3 AST),25 - 13,-12,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,154,9,1,2,4:02 PM,5:59,MYSTICS Timeout: Regular (Full 1 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,156,1,1,2,4:05 PM,5:36,Koehn 24' 3PT Jump Shot (3 PTS) (Beard 1 AST),,,25 - 16,-9,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,157,2,1,2,4:06 PM,5:21,,,MISS Milton-Jones 13' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,158,4,0,2,4:06 PM,5:21,Beard REBOUND (Off:0 Def:2),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,159,6,1,2,4:06 PM,5:21,,,Milton-Jones P.FOUL (P3.T2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,160,8,0,2,4:06 PM,5:21,,,SUB: Leslie FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,161,2,1,2,4:06 PM,5:03,MISS Currie 5' Jump Shot,,Parker BLOCK (2 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,162,4,0,2,4:06 PM,4:57,,,Brown REBOUND (Off:0 Def:1),,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,163,1,1,2,4:07 PM,4:48,,,Brown 17' Jump Shot (2 PTS),27 - 16,-11,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,164,2,1,2,4:07 PM,4:31,MISS Koehn 24' 3PT Jump Shot,,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,165,4,0,2,4:07 PM,4:30,,,Moore REBOUND (Off:0 Def:1),,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,166,2,1,2,4:07 PM,4:20,,,MISS Brown 18' Jump Shot,,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,167,4,0,2,4:07 PM,4:19,McWilliams-Franklin REBOUND (Off:0 Def:3),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,168,8,0,2,4:07 PM,4:12,,,SUB: Johnson FOR Brown,,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,169,8,0,2,4:07 PM,4:12,SUB: Jacobs FOR Koehn,,,,,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,170,2,1,2,4:08 PM,3:59,MISS Jacobs  3PT Jump Shot,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,171,4,0,2,4:08 PM,3:58,,,Parker REBOUND (Off:2 Def:5),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,172,6,2,2,4:08 PM,3:52,Jacobs S.FOUL (P1.T2),,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,174,3,11,2,4:08 PM,3:52,,,MISS Leslie Free Throw 1 of 2,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,175,4,1,2,4:08 PM,3:52,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,176,3,12,2,4:08 PM,3:52,,,Leslie Free Throw 2 of 2 (9 PTS),28 - 16,-12,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,180,6,1,2,4:09 PM,3:38,,,Moore P.FOUL (P1.T3),,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,182,1,1,2,4:10 PM,3:22,McWilliams-Franklin 15' Jump Shot (3 PTS),,,28 - 18,-10,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,184,2,1,2,4:10 PM,3:07,,,MISS Leslie 18' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,185,4,0,2,4:10 PM,3:06,Beard REBOUND (Off:0 Def:3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,186,1,1,2,4:10 PM,2:55,McWilliams-Franklin 11' Jump Shot (5 PTS),,,28 - 20,-8,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,187,9,1,2,4:10 PM,2:50,,,Sparks Timeout: Regular (Reg.1 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,189,1,1,2,4:14 PM,2:37,,,Masciadri 24' 3PT Jump Shot (8 PTS) (Parker 4 AST),31 - 20,-11,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,190,2,1,2,4:14 PM,2:17,MISS Langhorne 6' Jump Shot,,Parker BLOCK (3 BLK),,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,191,4,0,2,4:15 PM,2:13,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,192,2,1,2,4:15 PM,1:51,,,MISS Parker 11' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,193,4,0,2,4:15 PM,1:50,Currie REBOUND (Off:0 Def:1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,194,1,1,2,4:15 PM,1:27,McWilliams-Franklin 5' Jump Shot (7 PTS),,,31 - 22,-9,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,195,6,1,2,4:16 PM,1:16,McWilliams-Franklin P.FOUL (P1.T3),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,197,1,1,2,4:16 PM,1:05,,,Leslie 11' Jump Shot (11 PTS) (Parker 5 AST),33 - 22,-11,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,198,2,1,2,4:16 PM,0:54,MISS Beard 11' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,199,4,0,2,4:16 PM,0:53,,,Johnson REBOUND (Off:1 Def:4),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,200,6,2,2,4:16 PM,0:50,Jacobs S.FOUL (P2.PN),,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,201,3,11,2,4:17 PM,0:50,,,Parker Free Throw 1 of 2 (5 PTS),34 - 22,-12,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,202,8,0,2,4:17 PM,0:50,,,SUB: Thomas FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,203,3,12,2,4:17 PM,0:50,,,Parker Free Throw 2 of 2 (6 PTS),35 - 22,-13,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,205,2,1,2,4:18 PM,0:35,MISS Beard 19' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,206,4,0,2,4:18 PM,0:34,,,Thomas REBOUND (Off:0 Def:2),,,5,100930,Christi Thomas,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,207,1,1,2,4:18 PM,0:19,,,Parker 12' Jump Shot (8 PTS) (Masciadri 1 AST),37 - 22,-15,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,208,5,40,2,4:18 PM,0:18,Jacobs Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,209,8,0,2,4:18 PM,0:18,,,SUB: Page FOR Parker,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,100199,Murriel Page,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,210,2,1,2,4:19 PM,0:07,,,MISS Masciadri 24' 3PT Jump Shot,,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,211,4,0,2,4:19 PM,0:06,Langhorne REBOUND (Off:1 Def:1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,212,2,1,2,4:19 PM,0:00,MISS Jacobs 25' 3PT Jump Shot,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,213,4,0,2,4:19 PM,0:00,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,214,13,0,2,4:19 PM,0:00,,End of 2nd Period (4:19 PM EST),,37 - 22,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,216,12,0,3,4:37 PM,10:00,,Start of 3rd Period (4:37 PM EST),,37 - 22,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,217,1,1,3,4:37 PM,9:35,Currie  3PT Jump Shot (5 PTS) (Beard 2 AST),,,37 - 25,-12,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,218,6,1,3,4:38 PM,9:20,Currie P.FOUL (P3.T1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,219,2,1,3,4:38 PM,9:10,,,MISS Leslie 18' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,220,4,0,3,4:38 PM,9:08,McWilliams-Franklin REBOUND (Off:0 Def:4),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,221,6,1,3,4:38 PM,8:58,,,Leslie P.FOUL (P2.T1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,222,1,5,3,4:39 PM,8:50,Sanford 3' Layup (4 PTS) (McWilliams-Franklin 1 AST),,,37 - 27,-10,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,223,9,1,3,4:39 PM,8:47,,,Sparks Timeout: Regular (Reg.2 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,224,1,1,3,4:42 PM,8:38,,,Ferdinand-Harris  3PT Jump Shot (5 PTS) (Johnson 3 AST),40 - 27,-13,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,225,6,1,3,4:43 PM,8:16,,,Leslie P.FOUL (P3.T2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,226,2,5,3,4:43 PM,8:06,MISS Sanford 1' Layup,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,227,4,0,3,4:43 PM,8:05,,,Milton-Jones REBOUND (Off:0 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,228,1,80,3,4:43 PM,7:44,,,Leslie 13' Step Back Jump Shot (13 PTS),42 - 27,-15,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,229,1,5,3,4:44 PM,7:36,McWilliams-Franklin 2' Layup (9 PTS) (Beard 3 AST),,,42 - 29,-13,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,230,2,1,3,4:44 PM,7:10,,,MISS Parker 15' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,231,4,0,3,4:44 PM,7:09,,,Johnson REBOUND (Off:2 Def:4),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,232,5,1,3,4:44 PM,7:03,Beard STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T7),,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,233,9,2,3,4:44 PM,7:02,MYSTICS Timeout: Short (Full 1 Short 2),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,235,8,0,3,4:44 PM,7:02,,,SUB: Moore FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,236,1,1,3,4:46 PM,6:49,Currie 12' Jump Shot (7 PTS),,,42 - 31,-11,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,237,1,1,3,4:46 PM,6:35,,,Ferdinand-Harris 15' Jump Shot (7 PTS) (Johnson 4 AST),44 - 31,-13,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,238,6,1,3,4:46 PM,6:26,,,Moore P.FOUL (P2.T3),,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,239,5,1,3,4:46 PM,6:24,McWilliams-Franklin Bad Pass Turnover (P2.T7),,Milton-Jones STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,240,6,2,3,4:47 PM,6:20,Sanford S.FOUL (P3.T2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,241,3,11,3,4:47 PM,6:20,,,Ferdinand-Harris Free Throw 1 of 2 (8 PTS),45 - 31,-14,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,242,8,0,3,4:47 PM,6:20,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,243,3,12,3,4:47 PM,6:20,,,MISS Ferdinand-Harris Free Throw 2 of 2,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,244,4,0,3,4:47 PM,6:19,Beard REBOUND (Off:0 Def:4),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,245,5,1,3,4:48 PM,6:07,Beard Bad Pass Turnover (P1.T8),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,246,9,2,3,4:48 PM,6:02,,,Sparks Timeout: Short (Reg.2 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,248,8,0,3,4:49 PM,6:02,,,SUB: Brown FOR Johnson,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,249,6,2,3,4:50 PM,5:51,Beard S.FOUL (P2.T3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,250,3,11,3,4:50 PM,5:51,,,Ferdinand-Harris Free Throw 1 of 2 (9 PTS),46 - 31,-15,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,251,3,12,3,4:50 PM,5:51,,,Ferdinand-Harris Free Throw 2 of 2 (10 PTS),47 - 31,-16,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,252,6,2,3,4:51 PM,5:37,,,Moore S.FOUL (P3.T4),,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,253,3,11,3,4:51 PM,5:37,MISS McWilliams-Franklin Free Throw 1 of 2,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,254,4,1,3,4:51 PM,5:37,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,255,3,12,3,4:51 PM,5:37,McWilliams-Franklin Free Throw 2 of 2 (10 PTS),,,47 - 32,-15,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,256,2,1,3,4:52 PM,5:17,,,MISS Ferdinand-Harris 14' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,257,4,0,3,4:52 PM,5:16,,,Milton-Jones REBOUND (Off:1 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,258,2,1,3,4:53 PM,4:54,,,MISS Brown  3PT Jump Shot,,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,259,4,0,3,4:53 PM,4:53,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,260,2,1,3,4:53 PM,4:48,,,MISS Milton-Jones 18' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,261,4,0,3,4:53 PM,4:47,Currie REBOUND (Off:0 Def:2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,262,1,1,3,4:53 PM,4:25,Beard 24' 3PT Jump Shot (9 PTS),,,47 - 35,-12,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,263,2,1,3,4:53 PM,4:18,,,MISS Milton-Jones 3' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,264,4,0,3,4:53 PM,4:17,McWilliams-Franklin REBOUND (Off:0 Def:5),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,265,1,66,3,4:54 PM,4:07,McWilliams-Franklin 4' Jump Bank Shot (12 PTS) (Jacobs 3 AST),,,47 - 37,-10,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,266,2,5,3,4:54 PM,3:50,,,MISS Moore 3' Layup,,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,267,4,0,3,4:54 PM,3:49,McWilliams-Franklin REBOUND (Off:0 Def:6),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,268,1,1,3,4:54 PM,3:29,Currie  3PT Jump Shot (10 PTS) (Beard 4 AST),,,47 - 40,-7,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,269,1,44,3,4:55 PM,3:09,,,Milton-Jones 3' Reverse Layup (8 PTS) (Parker 6 AST),49 - 40,-9,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,270,1,1,3,4:55 PM,2:48,McWilliams-Franklin 18' Jump Shot (14 PTS) (Currie 1 AST),,,49 - 42,-7,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,271,2,1,3,4:55 PM,2:29,,,MISS Milton-Jones 17' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,272,4,0,3,4:55 PM,2:28,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,273,6,3,3,4:55 PM,2:28,,,Parker L.B.FOUL (P3.PN),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,274,8,0,3,4:55 PM,2:28,,,SUB: Masciadri FOR Ferdinand-Harris,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,275,8,0,3,4:55 PM,2:28,,,SUB: Leslie FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,276,8,0,3,4:56 PM,2:28,SUB: Sanford FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,277,3,11,3,4:56 PM,2:28,Currie Free Throw 1 of 2 (11 PTS),,,49 - 43,-6,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,278,3,12,3,4:56 PM,2:28,Currie Free Throw 2 of 2 (12 PTS),,,49 - 44,-5,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,280,2,1,3,4:57 PM,2:07,,,MISS Parker 15' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,281,4,0,3,4:57 PM,2:06,Beard REBOUND (Off:0 Def:5),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,282,2,1,3,4:57 PM,1:58,MISS Currie 7' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,283,4,0,3,4:57 PM,1:57,Currie REBOUND (Off:1 Def:2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,284,6,1,3,4:57 PM,1:55,,,Brown P.FOUL (P1.PN),,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,285,3,11,3,4:57 PM,1:55,MISS Jacobs Free Throw 1 of 2,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,286,4,1,3,4:57 PM,1:55,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,287,3,12,3,4:57 PM,1:55,Jacobs Free Throw 2 of 2 (1 PTS),,,49 - 45,-4,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,288,2,1,3,4:58 PM,1:39,,,MISS Moore 12' Jump Shot,,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,289,4,0,3,4:58 PM,1:38,Sanford REBOUND (Off:1 Def:4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,290,1,1,3,4:58 PM,1:29,Jacobs  3PT Jump Shot (4 PTS) (Currie 2 AST),,,49 - 48,-1,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,291,6,1,3,4:58 PM,1:10,Mosby P.FOUL (P1.T4),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,292,8,0,3,4:59 PM,1:10,SUB: McWilliams-Franklin FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,293,5,2,3,4:59 PM,0:57,McWilliams-Franklin STEAL (1 STL),,Leslie Lost Ball Turnover (P2.T8),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,294,6,4,3,4:59 PM,0:48,Beard OFF.Foul (P3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,295,5,5,3,4:59 PM,0:48,Beard Foul Turnover (P2.T9),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,296,2,1,3,5:00 PM,0:30,,,MISS Parker 10' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,297,4,0,3,5:00 PM,0:29,,,Parker REBOUND (Off:3 Def:5),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,298,1,5,3,5:00 PM,0:29,,,Parker 1' Layup (10 PTS),51 - 48,-3,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,299,6,2,3,5:00 PM,0:29,Currie S.FOUL (P4.PN),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,300,8,0,3,5:00 PM,0:29,SUB: Miller FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,301,3,10,3,5:00 PM,0:29,,,Parker Free Throw 1 of 1 (11 PTS),52 - 48,-4,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,303,2,5,3,5:02 PM,0:05,MISS McWilliams-Franklin 1' Layup,,Leslie BLOCK (2 BLK),,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,304,4,0,3,5:02 PM,0:03,McWilliams-Franklin REBOUND (Off:1 Def:6),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,305,2,5,3,5:02 PM,0:01,MISS McWilliams-Franklin  Layup,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,306,4,0,3,5:02 PM,0:01,,,Brown REBOUND (Off:0 Def:2),,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,307,2,1,3,5:02 PM,0:00,,,MISS Brown 38' 3PT Jump Shot,,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,308,4,0,3,5:02 PM,0:00,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,309,13,0,3,5:02 PM,0:00,,End of 3rd Period (5:02 PM EST),,52 - 48,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,311,12,0,4,5:06 PM,10:00,,Start of 4th Period (5:06 PM EST),,52 - 48,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,312,5,1,4,5:06 PM,9:41,McWilliams-Franklin STEAL (2 STL),,Leslie Bad Pass Turnover (P3.T9),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,313,2,1,4,5:07 PM,9:21,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,314,4,0,4,5:07 PM,9:20,,,Leslie REBOUND (Off:0 Def:3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,315,6,4,4,5:07 PM,9:16,,,Masciadri OFF.Foul (P1),,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,316,5,5,4,5:07 PM,9:16,,,Masciadri Foul Turnover (P1.T10),,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020800029,317,5,8,4,5:07 PM,9:03,Miller 3 Second Violation Turnover (P1.T10),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020800029,319,6,2,4,5:08 PM,8:47,Beard S.FOUL (P4.T1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,320,3,11,4,5:08 PM,8:47,,,MISS Leslie Free Throw 1 of 2,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,321,4,1,4,5:08 PM,8:47,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,322,8,0,4,5:08 PM,8:47,SUB: Currie FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,323,3,12,4,5:08 PM,8:47,,,MISS Leslie Free Throw 2 of 2,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,324,4,0,4,5:09 PM,8:46,Sanford REBOUND (Off:1 Def:5),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,325,2,1,4,5:09 PM,8:30,MISS McWilliams-Franklin 14' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,326,4,0,4,5:09 PM,8:29,Currie REBOUND (Off:2 Def:2),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,327,1,1,4,5:09 PM,8:17,Currie  3PT Jump Shot (15 PTS) (Jacobs 4 AST),,,52 - 51,-1,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,328,5,1,4,5:09 PM,8:04,Currie STEAL (1 STL),,Brown Bad Pass Turnover (P2.T11),,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,329,8,0,4,5:10 PM,7:57,,,SUB: Johnson FOR Brown,,,5,100651,Kiesha Brown,1611661320.0,Los Angeles,Sparks,LAS,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,330,2,1,4,5:10 PM,7:44,MISS McWilliams-Franklin 6' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,331,4,0,4,5:10 PM,7:43,Sanford REBOUND (Off:2 Def:5),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,332,2,5,4,5:10 PM,7:40,MISS Sanford 3' Layup,,Leslie BLOCK (3 BLK),,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,333,4,0,4,5:10 PM,7:38,,,Masciadri REBOUND (Off:0 Def:2),,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,334,2,1,4,5:10 PM,7:23,,,MISS Johnson 9' Jump Shot,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,335,4,0,4,5:10 PM,7:22,Sanford REBOUND (Off:2 Def:6),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,336,2,1,4,5:10 PM,7:13,MISS Currie 4' Jump Shot,,Parker BLOCK (4 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,337,4,0,4,5:10 PM,7:12,,,Parker REBOUND (Off:3 Def:6),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,338,6,1,4,5:10 PM,7:11,McWilliams-Franklin P.FOUL (P2.T2),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,339,8,0,4,5:11 PM,7:11,,,SUB: Milton-Jones FOR Moore,,,5,101042,Jessica Moore,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,341,2,1,4,5:11 PM,6:55,,,MISS Johnson 9' Jump Shot,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,342,4,0,4,5:11 PM,6:55,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,343,6,4,4,5:11 PM,6:55,,,Leslie OFF.Foul (P4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,344,5,5,4,5:11 PM,6:55,,,Leslie Foul Turnover (P4.T12),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020800029,346,6,1,4,5:12 PM,6:46,,,Milton-Jones P.FOUL (P4.T1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,348,8,0,4,5:12 PM,6:46,,,SUB: Ferdinand-Harris FOR Johnson,,,5,101024,Temeka Johnson,1611661320.0,Los Angeles,Sparks,LAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,349,8,0,4,5:12 PM,6:46,SUB: Beard FOR Jacobs,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,350,2,45,4,5:12 PM,6:46,MISS Currie 12' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,351,4,0,4,5:13 PM,6:30,,,Parker REBOUND (Off:3 Def:7),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,352,5,40,4,5:13 PM,6:28,,,Leslie Out of Bounds Lost Ball Turnover (P5.T13),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020800029,354,2,1,4,5:13 PM,6:14,MISS Beard 5' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,355,4,0,4,5:13 PM,6:12,Sanford REBOUND (Off:3 Def:6),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,356,1,5,4,5:13 PM,6:11,Sanford  Layup (6 PTS),,,52 - 53,1,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,357,1,86,4,5:13 PM,5:43,,,Parker 3' Turnaround Fadeaway (13 PTS),54 - 53,-1,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,358,2,1,4,5:14 PM,5:25,MISS Beard 14' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,359,4,0,4,5:14 PM,5:24,,,Parker REBOUND (Off:3 Def:8),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,360,6,1,4,5:14 PM,5:22,Sanford P.FOUL (P4.T3),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,362,9,4,4,5:14 PM,5:22,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,364,6,2,4,5:18 PM,5:06,Sanford S.FOUL (P5.T4),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,365,3,11,4,5:19 PM,5:06,,,Ferdinand-Harris Free Throw 1 of 2 (11 PTS),55 - 53,-2,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,366,8,0,4,5:19 PM,5:06,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,367,3,12,4,5:19 PM,5:06,,,Ferdinand-Harris Free Throw 2 of 2 (12 PTS),56 - 53,-3,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,369,2,1,4,5:20 PM,4:49,MISS Currie 14' Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,370,4,0,4,5:20 PM,4:48,Miller REBOUND (Off:2 Def:0),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,371,1,72,4,5:20 PM,4:45,Miller  Putback Layup (4 PTS),,,56 - 55,-1,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,372,2,1,4,5:20 PM,4:25,,,MISS Ferdinand-Harris 15' Jump Shot,,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,373,4,0,4,5:20 PM,4:24,,,Milton-Jones REBOUND (Off:2 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,374,6,1,4,5:20 PM,4:23,Beard P.FOUL (P5.PN),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,375,3,11,4,5:20 PM,4:23,,,Milton-Jones Free Throw 1 of 2 (9 PTS),57 - 55,-2,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,376,8,0,4,5:20 PM,4:23,SUB: Jacobs FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,377,3,12,4,5:21 PM,4:23,,,Milton-Jones Free Throw 2 of 2 (10 PTS),58 - 55,-3,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,378,2,1,4,5:21 PM,4:02,MISS Jacobs  3PT Jump Shot,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,379,4,0,4,5:21 PM,4:01,Mosby REBOUND (Off:1 Def:0),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,380,6,1,4,5:21 PM,4:01,,,Masciadri P.FOUL (P2.T2),,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,381,2,1,4,5:23 PM,3:46,MISS Miller 6' Jump Shot,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,382,4,0,4,5:23 PM,3:45,,,Masciadri REBOUND (Off:0 Def:3),,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,383,1,66,4,5:23 PM,3:21,,,Milton-Jones 5' Jump Bank Shot (12 PTS),60 - 55,-5,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,384,2,1,4,5:23 PM,3:02,MISS Mosby 5' Jump Shot,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,385,4,0,4,5:23 PM,3:02,,,Leslie REBOUND (Off:0 Def:4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,386,1,71,4,5:23 PM,2:54,,,Parker 3' Finger Roll Layup (15 PTS) (Leslie 1 AST),62 - 55,-7,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,387,9,1,4,5:24 PM,2:44,MYSTICS Timeout: Regular (Full 2 Short 2),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,389,8,0,4,5:26 PM,2:44,SUB: Beard FOR Miller,,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,390,8,0,4,5:27 PM,2:44,SUB: Sanford FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,391,2,1,4,5:28 PM,2:28,MISS McWilliams-Franklin 11' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,392,4,0,4,5:28 PM,2:27,Jacobs REBOUND (Off:1 Def:0),,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,393,2,5,4,5:28 PM,2:07,MISS Jacobs 1' Layup,,Milton-Jones BLOCK (1 BLK),,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0
+1020800029,394,4,0,4,5:28 PM,2:07,,,Leslie REBOUND (Off:0 Def:5),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,395,6,3,4,5:28 PM,2:07,McWilliams-Franklin L.B.FOUL (P3.PN),,,,,4,100412,Taj McWilliams-Franklin,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,396,3,11,4,5:28 PM,2:07,,,Leslie Free Throw 1 of 2 (14 PTS),63 - 55,-8,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,397,8,0,4,5:29 PM,2:07,SUB: Miller FOR Jacobs,,,,,4,100935,Amber Jacobs,1611661322.0,Washington,Mystics,WAS,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,398,3,12,4,5:29 PM,2:07,,,Leslie Free Throw 2 of 2 (15 PTS),64 - 55,-9,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,399,2,1,4,5:30 PM,1:50,MISS Beard 3' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,400,4,0,4,5:30 PM,1:49,Sanford REBOUND (Off:4 Def:6),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,401,6,2,4,5:30 PM,1:48,,,Ferdinand-Harris S.FOUL (P3.T3),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,402,3,11,4,5:30 PM,1:48,MISS Sanford Free Throw 1 of 2,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,403,4,1,4,5:30 PM,1:48,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,404,3,12,4,5:31 PM,1:48,Sanford Free Throw 2 of 2 (7 PTS),,,64 - 56,-8,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,405,1,63,4,5:31 PM,1:31,,,Masciadri 10' Fadeaway Jumper (10 PTS),66 - 56,-10,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,406,6,1,4,5:31 PM,1:17,,,Ferdinand-Harris P.FOUL (P4.PN),,,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,407,1,71,4,5:32 PM,1:08,Sanford 3' Finger Roll Layup (9 PTS),,,66 - 58,-8,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,408,6,2,4,5:32 PM,1:08,,,Parker S.FOUL (P4.PN),,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020800029,409,3,10,4,5:32 PM,1:08,Sanford Free Throw 1 of 1 (10 PTS),,,66 - 59,-7,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,410,2,1,4,5:33 PM,0:52,,,MISS Masciadri 24' 3PT Jump Shot,,,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,411,4,0,4,5:33 PM,0:51,,,Milton-Jones REBOUND (Off:3 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,412,9,1,4,5:33 PM,0:48,,,Sparks Timeout: Regular (Reg.3 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,414,2,1,4,5:35 PM,0:35,,,MISS Parker 4' Jump Shot,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,415,4,0,4,5:35 PM,0:34,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,416,9,2,4,5:36 PM,0:34,,,Sparks Timeout: Short (Reg.3 Short 2),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,418,6,1,4,5:37 PM,0:33,Miller P.FOUL (P2.PN),,,,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020800029,419,3,11,4,5:37 PM,0:33,,,Masciadri Free Throw 1 of 2 (11 PTS),67 - 59,-8,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,420,3,12,4,5:37 PM,0:33,,,Masciadri Free Throw 2 of 2 (12 PTS),68 - 59,-9,5,100988,Raffaella Masciadri,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,421,9,1,4,5:37 PM,0:33,MYSTICS Timeout: Regular (Full 3 Short 2),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800029,423,8,0,4,5:39 PM,0:33,SUB: Koehn FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020800029,424,5,1,4,5:40 PM,0:26,Miller Bad Pass Turnover (P2.T11),,Leslie STEAL (1 STL),,,4,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,425,1,5,4,5:40 PM,0:22,,,Leslie 1' Layup (17 PTS) (Ferdinand-Harris 1 AST),70 - 59,-11,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100685,Marie Ferdinand-Harris,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020800029,426,2,5,4,5:40 PM,0:15,MISS Beard 1' Layup,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020800029,427,4,0,4,5:40 PM,0:14,,,Milton-Jones REBOUND (Off:3 Def:3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020800029,428,13,0,4,5:40 PM,0:00,,End of 4th Period (5:40 PM EST),,70 - 59,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

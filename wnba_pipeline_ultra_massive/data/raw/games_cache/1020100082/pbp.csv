@@ -1,0 +1,377 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100082,0,12,0,1,9:06 AM,20:00,,Start of 1st Half (9:06 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,1,10,0,1,9:08 AM,20:00,Jump Ball Askamp vs. Melvin: Tip to Sam,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0
+1020100082,2,2,1,1,9:09 AM,19:28,MISS Sam  3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,3,4,0,1,9:09 AM,19:28,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,4,5,11,1,9:09 AM,19:28,SOL Turnover: Shot Clock (T#1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,5,2,1,1,9:09 AM,19:05,,,MISS Darling 19' Jump Shot,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,6,4,0,1,9:09 AM,19:04,,,Melvin REBOUND (Off:1 Def:0),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,7,5,2,1,9:09 AM,18:52,Black STEAL (1 STL),,Brown Lost Ball Turnover (P1.T1),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,8,2,1,1,9:10 AM,18:40,MISS Baranova 14' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,9,4,0,1,9:10 AM,18:38,,,Jones REBOUND (Off:0 Def:1),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,10,1,42,1,9:10 AM,18:18,,,Melvin  Driving Layup (2 PTS),2 - 0,-2,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,11,6,2,1,9:10 AM,18:05,,,Jones S.FOUL (P1.T1),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,12,3,11,1,9:11 AM,18:05,Brondello Free Throw 1 of 2 (1 PTS),,,2 - 1,-1,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,13,3,12,1,9:11 AM,18:05,MISS Brondello Free Throw 2 of 2,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,14,4,0,1,9:11 AM,18:04,,,Andrade REBOUND (Off:0 Def:1),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,15,2,1,1,9:11 AM,17:45,,,MISS Andrade 19' Jump Shot,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,16,4,0,1,9:11 AM,17:43,Black REBOUND (Off:0 Def:1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,17,2,1,1,9:12 AM,17:37,MISS Brondello  3PT Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,18,4,0,1,9:12 AM,17:35,Black REBOUND (Off:1 Def:1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,19,2,1,1,9:12 AM,17:30,MISS Baranova  3PT Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,20,4,0,1,9:12 AM,17:28,,,Darling REBOUND (Off:0 Def:1),,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,21,6,1,1,9:12 AM,17:25,Black P.FOUL (P1.T1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,22,2,1,1,9:12 AM,17:13,,,MISS Jones 19' Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,23,4,0,1,9:12 AM,17:11,Baranova REBOUND (Off:0 Def:1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,24,5,2,1,9:13 AM,16:47,Askamp Lost Ball Turnover (P1.T2),,Brown STEAL (1 STL),,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,25,1,5,1,9:13 AM,16:31,,,Brown  Layup (2 PTS) (Melvin 1 AST),4 - 1,-3,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,27,6,4,1,9:14 AM,16:15,Baranova OFF.Foul (P1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,28,5,5,1,9:14 AM,16:15,Baranova Foul Turnover (P1.T3),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,29,2,1,1,9:14 AM,16:03,Baranova BLOCK (1 BLK),,MISS Andrade 15' Jump Shot,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0
+1020100082,30,4,0,1,9:14 AM,15:58,Black REBOUND (Off:1 Def:2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,31,5,1,1,9:14 AM,15:57,Black Bad Pass Turnover (P1.T4),,Andrade STEAL (1 STL),,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,32,5,1,1,9:14 AM,15:54,Brondello STEAL (1 STL),,Andrade Bad Pass Turnover (P1.T2),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,33,2,1,1,9:14 AM,15:47,MISS Sam 17' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,34,4,0,1,9:14 AM,15:47,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,35,6,1,1,9:14 AM,15:47,,,Brown P.FOUL (P1.T2),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,36,9,4,1,9:15 AM,15:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,38,5,1,1,9:17 AM,15:36,Brondello Bad Pass Turnover (P1.T5),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,39,6,1,1,9:18 AM,15:21,Baranova P.FOUL (P2.T2),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,40,2,1,1,9:18 AM,15:03,,,MISS Darling 9' Jump Shot,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,41,4,0,1,9:18 AM,15:01,,,Brown REBOUND (Off:1 Def:0),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,42,2,1,1,9:18 AM,15:00,Baranova BLOCK (2 BLK),,MISS Brown 5' Jump Shot,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0
+1020100082,43,4,0,1,9:18 AM,15:00,,,Brown REBOUND (Off:2 Def:0),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,45,1,1,1,9:19 AM,15:00,,,Brown 4' Jump Shot (4 PTS),6 - 1,-5,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,46,6,2,1,9:19 AM,15:00,Askamp S.FOUL (P1.T3),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,51,8,0,1,9:19 AM,15:00,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,48,3,10,1,9:19 AM,15:00,,,MISS Brown Free Throw 1 of 1,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,57,8,0,1,9:19 AM,15:00,SUB: Riley FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,50,4,0,1,9:19 AM,14:52,Rasmussen REBOUND (Off:0 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,52,5,1,1,9:19 AM,14:38,Black Bad Pass Turnover (P2.T6),,Brown STEAL (2 STL),,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,53,5,1,1,9:19 AM,14:33,Rasmussen STEAL (1 STL),,Darling Bad Pass Turnover (P1.T3),,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,54,2,3,1,9:20 AM,14:11,MISS Black 6' Hook Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,55,4,0,1,9:20 AM,14:11,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,56,6,3,1,9:20 AM,14:11,Riley L.B.FOUL (P1.T4),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,58,1,1,1,9:20 AM,13:46,,,Melvin 19' Jump Shot (4 PTS),8 - 1,-7,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,59,9,2,1,9:21 AM,13:36,SOL Timeout: Short (Full 0 Short 1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,61,2,1,1,9:22 AM,13:14,MISS Sam 17' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,62,4,0,1,9:22 AM,13:12,,,Jones REBOUND (Off:0 Def:2),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,64,2,1,1,9:22 AM,12:54,,,MISS Darling 13' Jump Shot,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,65,4,0,1,9:22 AM,12:52,Sam REBOUND (Off:0 Def:1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,66,5,2,1,9:23 AM,12:35,Riley Lost Ball Turnover (P1.T7),,Jones STEAL (1 STL),,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,67,6,2,1,9:23 AM,12:31,Rasmussen S.FOUL (P1.PN),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,68,8,0,1,9:23 AM,12:31,SUB: Ford FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,69,8,0,1,9:23 AM,12:31,SUB: Brumfield FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,71,3,11,1,9:23 AM,12:31,,,Brown Free Throw 1 of 2 (5 PTS),9 - 1,-8,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,72,3,12,1,9:23 AM,12:31,,,MISS Brown Free Throw 2 of 2,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,73,4,0,1,9:24 AM,12:30,Ford REBOUND (Off:0 Def:1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,74,6,1,1,9:24 AM,12:18,,,Andrade P.FOUL (P1.T3),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,75,2,1,1,9:24 AM,12:03,MISS Ford 17' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,76,4,0,1,9:24 AM,12:01,Rasmussen REBOUND (Off:1 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,77,2,1,1,9:24 AM,11:59,MISS Rasmussen 15' Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,78,4,0,1,9:24 AM,11:57,Rasmussen REBOUND (Off:2 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,79,2,1,1,9:25 AM,11:44,MISS Brumfield 15' Jump Shot,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,80,4,0,1,9:25 AM,11:42,,,Melvin REBOUND (Off:1 Def:1),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,81,6,1,1,9:25 AM,11:35,Rasmussen P.FOUL (P2.PN),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,82,9,4,1,9:25 AM,11:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,84,8,0,1,9:27 AM,11:35,,,SUB: Taylor FOR Andrade,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,85,8,0,1,9:27 AM,11:35,,,SUB: Rizzotti FOR Brown,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,86,8,0,1,9:27 AM,11:35,,,SUB: Wauters FOR Darling,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,87,8,0,1,9:27 AM,11:35,SUB: Reid FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,88,5,1,1,9:28 AM,11:24,,,Rizzotti Bad Pass Turnover (P1.T4),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,89,2,1,1,9:28 AM,11:07,MISS Riley 6' Jump Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,90,4,0,1,9:28 AM,11:05,Ford REBOUND (Off:1 Def:1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,91,6,1,1,9:28 AM,11:05,,,Melvin P.FOUL (P1.T4),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,92,6,1,1,9:28 AM,10:59,,,Wauters P.FOUL (P1.PN),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,93,5,1,1,9:29 AM,10:49,Brumfield Bad Pass Turnover (P1.T8),,Melvin STEAL (1 STL),,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,94,2,42,1,9:29 AM,10:34,,,MISS Taylor  Driving Layup,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,95,4,0,1,9:29 AM,10:33,,,Melvin REBOUND (Off:2 Def:1),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,96,10,0,1,9:29 AM,10:27,Jump Ball Ford vs. Rizzotti: Tip to Reid,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0
+1020100082,97,5,2,1,9:29 AM,10:27,Ford STEAL (1 STL),,Rizzotti Lost Ball Turnover (P2.T5),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,98,2,1,1,9:30 AM,10:10,MISS Ford 14' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,99,4,0,1,9:30 AM,10:08,,,Taylor REBOUND (Off:0 Def:1),,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,100,1,1,1,9:30 AM,9:43,,,Jones 16' Jump Shot (2 PTS),11 - 1,-10,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,101,6,2,1,9:31 AM,9:26,,,Rizzotti S.FOUL (P1.PN),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,102,8,0,1,9:31 AM,9:26,,,SUB: Hall FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,103,3,11,1,9:31 AM,9:26,Brumfield Free Throw 1 of 2 (1 PTS),,,11 - 2,-9,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,104,3,12,1,9:31 AM,9:26,Brumfield Free Throw 2 of 2 (2 PTS),,,11 - 3,-8,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,105,2,1,1,9:33 AM,9:05,,,MISS Rizzotti 24' 3PT Jump Shot,,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,106,4,0,1,9:33 AM,9:03,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,107,2,1,1,9:33 AM,8:51,MISS Ford 5' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,108,4,0,1,9:33 AM,8:48,Ford REBOUND (Off:2 Def:1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,109,2,1,1,9:33 AM,8:43,MISS Reid 12' Jump Shot,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,110,4,0,1,9:33 AM,8:41,,,Hall REBOUND (Off:0 Def:1),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,111,9,2,1,9:33 AM,8:40,,,Rockers Timeout: Short (Reg.0 Short 1),,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,113,8,0,1,9:34 AM,8:40,,,SUB: Andrade FOR Taylor,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,115,2,42,1,9:35 AM,8:29,Rasmussen BLOCK (1 BLK),,MISS Wauters  Driving Layup,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0
+1020100082,116,4,0,1,9:35 AM,8:28,Brumfield REBOUND (Off:0 Def:1),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,117,1,5,1,9:35 AM,8:24,Reid  Layup (2 PTS) (Brumfield 1 AST),,,11 - 5,-6,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,118,2,1,1,9:35 AM,7:55,,,MISS Jones  3PT Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,119,4,0,1,9:35 AM,7:53,Reid REBOUND (Off:0 Def:1),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,120,1,1,1,9:35 AM,7:44,Riley 5' Jump Shot (2 PTS) (Brumfield 2 AST),,,11 - 7,-4,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,121,2,1,1,9:36 AM,7:17,,,MISS Hall 19' Jump Shot,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,122,4,0,1,9:36 AM,7:16,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,123,6,3,1,9:36 AM,7:16,,,Jones L.B.FOUL (P2.PN),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,124,9,4,1,9:36 AM,7:16,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,126,8,0,1,9:38 AM,7:16,,,SUB: Brown FOR Wauters,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,127,8,0,1,9:39 AM,7:16,SUB: Brondello FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,128,2,1,1,9:39 AM,6:57,MISS Rasmussen 15' Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,129,4,0,1,9:39 AM,6:55,,,Jones REBOUND (Off:0 Def:3),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,130,2,1,1,9:39 AM,6:34,,,MISS Brown 17' Jump Shot,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,131,4,0,1,9:40 AM,6:32,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,132,8,0,1,9:40 AM,6:32,,,SUB: Taylor FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,133,8,0,1,9:40 AM,6:19,,,SUB: Melvin FOR Hall,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,134,6,2,1,9:41 AM,6:13,,,Melvin S.FOUL (P2.PN),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,135,3,11,1,9:41 AM,6:13,Brondello Free Throw 1 of 2 (2 PTS),,,11 - 8,-3,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,136,3,12,1,9:41 AM,6:13,MISS Brondello Free Throw 2 of 2,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,137,4,0,1,9:41 AM,6:12,,,Taylor REBOUND (Off:0 Def:2),,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,138,2,5,1,9:42 AM,5:53,,,MISS Brown  Layup,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,139,4,0,1,9:42 AM,5:52,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,140,8,0,1,9:42 AM,5:52,SUB: Ford FOR Reid,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,141,2,1,1,9:42 AM,5:42,MISS Riley 6' Jump Shot,,Melvin BLOCK (1 BLK),,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0
+1020100082,142,4,0,1,9:42 AM,5:40,,,Melvin REBOUND (Off:2 Def:2),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,143,1,1,1,9:42 AM,5:23,,,Andrade 14' Jump Shot (2 PTS) (Rizzotti 1 AST),13 - 8,-5,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,144,2,1,1,9:43 AM,5:06,MISS Brondello 15' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,145,4,0,1,9:43 AM,5:04,,,Melvin REBOUND (Off:2 Def:3),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,146,1,42,1,9:43 AM,4:59,,,Melvin  Driving Layup (6 PTS),15 - 8,-7,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,147,10,0,1,9:43 AM,4:39,Jump Ball Ford vs. Melvin: Tip to Rizzotti,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0
+1020100082,148,5,2,1,9:43 AM,4:39,Ford Lost Ball Turnover (P1.T9),,Melvin STEAL (2 STL),,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,149,2,3,1,9:44 AM,4:33,,,MISS Melvin 4' Hook Shot,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,150,4,0,1,9:44 AM,4:31,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,151,8,0,1,9:44 AM,4:31,SUB: Black FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,152,8,0,1,9:44 AM,4:31,SUB: Askamp FOR Riley,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,153,2,1,1,9:44 AM,4:22,,,MISS Taylor  3PT Jump Shot,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,154,4,0,1,9:44 AM,4:20,Askamp REBOUND (Off:0 Def:1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,155,5,1,1,9:44 AM,4:10,Ford Bad Pass Turnover (P2.T10),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,156,9,4,1,9:45 AM,3:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,158,8,0,1,9:47 AM,3:51,,,SUB: Darling FOR Rizzotti,,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,159,8,0,1,9:47 AM,3:51,,,SUB: Jones FOR Taylor,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,160,8,0,1,9:47 AM,3:51,SUB: Sam FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,161,2,5,1,9:48 AM,3:42,,,MISS Brown  Layup,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,162,4,0,1,9:48 AM,3:41,,,Brown REBOUND (Off:3 Def:0),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,163,6,2,1,9:48 AM,3:41,Askamp S.FOUL (P2.PN),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,164,3,11,1,9:48 AM,3:41,,,MISS Brown Free Throw 1 of 2,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,165,4,1,1,9:48 AM,3:41,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,166,8,0,1,9:48 AM,3:41,SUB: Baranova FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,167,8,0,1,9:48 AM,3:41,SUB: Riley FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,168,3,12,1,9:48 AM,3:41,,,Brown Free Throw 2 of 2 (6 PTS),16 - 8,-8,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,169,2,1,1,9:49 AM,3:31,MISS Brondello 19' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,170,4,0,1,9:49 AM,3:28,Riley REBOUND (Off:1 Def:0),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,171,5,1,1,9:49 AM,3:24,Brondello Bad Pass Turnover (P2.T11),,Darling STEAL (1 STL),,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,172,2,42,1,9:49 AM,3:19,Black BLOCK (1 BLK),,MISS Andrade  Driving Layup,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0
+1020100082,173,4,0,1,9:49 AM,3:17,Baranova REBOUND (Off:0 Def:2),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,174,2,1,1,9:49 AM,3:06,MISS Sam 7' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,175,4,0,1,9:49 AM,3:04,Sam REBOUND (Off:1 Def:1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,176,2,1,1,9:49 AM,3:02,MISS Sam 4' Jump Shot,,Melvin BLOCK (2 BLK),,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0
+1020100082,177,4,0,1,9:49 AM,3:01,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,178,8,0,1,9:49 AM,3:01,,,SUB: Wauters FOR Brown,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,179,8,0,1,9:50 AM,3:01,SUB: Brumfield FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,180,6,2,1,9:50 AM,2:59,,,Wauters S.FOUL (P2.PN),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,181,3,11,1,9:50 AM,2:59,Baranova Free Throw 1 of 2 (1 PTS),,,16 - 9,-7,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,182,8,0,1,9:50 AM,2:59,SUB: Black FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,183,3,12,1,9:50 AM,2:59,Baranova Free Throw 2 of 2 (2 PTS),,,16 - 10,-6,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,184,1,5,1,9:51 AM,2:40,,,Wauters  Layup (2 PTS) (Andrade 1 AST),18 - 10,-8,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,185,5,4,1,9:51 AM,2:22,Sam Traveling Turnover (P1.T12),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,186,5,4,1,9:52 AM,2:09,,,Wauters Traveling Turnover (P1.T6),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,187,2,46,1,9:52 AM,1:56,MISS Black 5' Running Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,188,4,0,1,9:52 AM,1:54,Black REBOUND (Off:2 Def:2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,189,6,1,1,9:52 AM,1:50,,,Wauters P.FOUL (P3.PN),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,190,3,11,1,9:53 AM,1:50,Baranova Free Throw 1 of 2 (3 PTS),,,18 - 11,-7,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,191,8,0,1,9:53 AM,1:50,,,SUB: Brown FOR Wauters,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,192,8,0,1,9:53 AM,1:50,SUB: Ford FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,193,3,12,1,9:53 AM,1:50,Baranova Free Throw 2 of 2 (4 PTS),,,18 - 12,-6,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,194,2,42,1,9:53 AM,1:31,Riley BLOCK (1 BLK),,MISS Andrade  Driving Layup,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0
+1020100082,195,4,0,1,9:54 AM,1:28,Sam REBOUND (Off:1 Def:2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,196,2,1,1,9:54 AM,1:21,MISS Baranova  3PT Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,197,4,0,1,9:54 AM,1:20,,,Jones REBOUND (Off:0 Def:4),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,198,2,1,1,9:54 AM,1:06,,,MISS Melvin 9' Jump Shot,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,199,4,0,1,9:54 AM,1:04,Sam REBOUND (Off:1 Def:3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,200,2,1,1,9:54 AM,0:46,MISS Riley 6' Jump Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,201,4,0,1,9:54 AM,0:44,,,Brown REBOUND (Off:3 Def:1),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,202,6,1,1,9:55 AM,0:30,Ford P.FOUL (P1.PN),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,203,8,0,1,9:55 AM,0:30,,,SUB: Hall FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,204,3,11,1,9:55 AM,0:30,,,Darling Free Throw 1 of 2 (1 PTS),19 - 12,-7,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,205,8,0,1,9:55 AM,0:30,,,SUB: Bader Binford FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,206,3,12,1,9:55 AM,0:30,,,MISS Darling Free Throw 2 of 2,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,207,4,0,1,9:56 AM,0:28,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,208,9,1,1,9:56 AM,0:28,,,Rockers Timeout: Regular (Reg.1 Short 1),,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,210,8,0,1,9:58 AM,0:28,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,211,1,1,1,9:59 AM,0:00,,,Andrade 18' Jump Shot (4 PTS),21 - 12,-9,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,212,13,0,1,9:59 AM,0:00,,End of 1st Half (9:59 AM EST),,21 - 12,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,216,12,0,2,10:16 AM,20:00,,Start of 2nd Half (10:16 AM EST),,21 - 12,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,217,10,0,2,10:16 AM,20:00,Jump Ball Askamp vs. Melvin: Tip to Baranova,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0
+1020100082,218,2,1,2,10:16 AM,19:38,MISS Brondello 14' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,219,10,0,2,10:16 AM,19:34,Jump Ball Askamp vs. Andrade: Tip to Brondello,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0
+1020100082,220,4,0,2,10:16 AM,19:34,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,221,1,5,2,10:17 AM,19:19,Baranova  Layup (6 PTS),,,21 - 14,-7,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,222,1,1,2,10:17 AM,19:01,,,Melvin 3' Jump Shot (8 PTS) (Brown 1 AST),23 - 14,-9,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,223,6,2,2,10:17 AM,19:01,Askamp S.FOUL (P3.T1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,224,3,10,2,10:18 AM,19:01,,,Melvin Free Throw 1 of 1 (9 PTS),24 - 14,-10,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,225,2,1,2,10:18 AM,18:43,MISS Brondello 16' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,226,4,0,2,10:18 AM,18:41,Sam REBOUND (Off:2 Def:3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,227,2,1,2,10:18 AM,18:38,MISS Baranova 15' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,228,4,0,2,10:18 AM,18:36,Black REBOUND (Off:3 Def:2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,229,2,1,2,10:18 AM,18:33,MISS Black 18' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,230,4,0,2,10:18 AM,18:31,,,Jones REBOUND (Off:0 Def:5),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,231,2,1,2,10:18 AM,18:14,,,MISS Jones 17' Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,232,4,0,2,10:18 AM,18:12,Sam REBOUND (Off:2 Def:4),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,233,2,1,2,10:18 AM,18:07,MISS Brondello 16' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,234,4,0,2,10:19 AM,18:05,Black REBOUND (Off:4 Def:2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,235,2,1,2,10:19 AM,18:00,MISS Brondello 19' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,236,4,0,2,10:19 AM,17:58,,,Jones REBOUND (Off:0 Def:6),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,237,1,1,2,10:19 AM,17:38,,,Melvin 10' Jump Shot (11 PTS),26 - 14,-12,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,238,2,46,2,10:19 AM,17:23,MISS Baranova 3' Running Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,239,4,0,2,10:19 AM,17:21,,,Andrade REBOUND (Off:0 Def:2),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,240,5,1,2,10:19 AM,17:12,Askamp STEAL (1 STL),,Melvin Bad Pass Turnover (P1.T7),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,241,5,1,2,10:20 AM,17:03,Brondello Bad Pass Turnover (P3.T13),,Andrade STEAL (2 STL),,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,242,2,1,2,10:20 AM,16:56,,,MISS Brown 11' Jump Shot,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,243,4,0,2,10:20 AM,16:55,,,Melvin REBOUND (Off:3 Def:3),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,244,2,5,2,10:20 AM,16:54,,,MISS Melvin  Layup,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,245,4,0,2,10:20 AM,16:53,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,246,6,1,2,10:20 AM,16:53,Askamp P.FOUL (P4.T2),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,247,8,0,2,10:20 AM,16:53,SUB: Riley FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,248,6,1,2,10:20 AM,16:39,Brondello P.FOUL (P1.T3),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,249,1,1,2,10:21 AM,16:26,,,Brown 11' Jump Shot (8 PTS),28 - 14,-14,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,250,9,2,2,10:21 AM,16:17,SOL Timeout: Short (Full 0 Short 2),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,252,2,1,2,10:22 AM,16:08,MISS Black 19' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,253,4,0,2,10:22 AM,16:06,,,Brown REBOUND (Off:3 Def:2),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,254,2,1,2,10:22 AM,15:56,,,MISS Melvin 12' Jump Shot,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,255,4,0,2,10:23 AM,15:54,,,Jones REBOUND (Off:1 Def:6),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,256,1,42,2,10:23 AM,15:43,,,Andrade  Driving Layup (6 PTS),30 - 14,-16,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,257,9,4,2,10:23 AM,15:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,259,8,0,2,10:25 AM,15:26,SUB: Brumfield FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,260,8,0,2,10:25 AM,15:26,SUB: Ford FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,262,2,1,2,10:25 AM,15:24,MISS Ford 18' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,263,4,0,2,10:26 AM,15:22,Riley REBOUND (Off:2 Def:0),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,264,2,3,2,10:26 AM,15:10,MISS Riley 8' Hook Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,265,4,0,2,10:26 AM,15:08,,,Jones REBOUND (Off:1 Def:7),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,266,1,1,2,10:26 AM,14:53,,,Andrade 12' Jump Shot (8 PTS),32 - 14,-18,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,267,1,1,2,10:27 AM,14:32,Baranova 5' Jump Shot (8 PTS),,,32 - 16,-16,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,268,6,2,2,10:27 AM,14:32,,,Melvin S.FOUL (P3.T1),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,269,8,0,2,10:27 AM,14:32,SUB: Reid FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,270,3,10,2,10:27 AM,14:32,Baranova Free Throw 1 of 1 (9 PTS),,,32 - 17,-15,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,271,5,2,2,10:27 AM,14:24,Ford STEAL (2 STL),,Darling Lost Ball Turnover (P2.T8),,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,272,5,1,2,10:27 AM,14:22,Reid Bad Pass Turnover (P1.T14),,Brown STEAL (3 STL),,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,273,5,1,2,10:28 AM,14:04,,,Andrade Bad Pass Turnover (P2.T9),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,274,6,1,2,10:28 AM,13:56,,,Darling P.FOUL (P1.T2),,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,275,5,1,2,10:29 AM,13:40,Riley Bad Pass Turnover (P2.T15),,Jones STEAL (2 STL),,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,276,2,42,2,10:29 AM,13:18,,,MISS Melvin  Driving Layup,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,277,4,0,2,10:29 AM,13:15,,,Jones REBOUND (Off:2 Def:7),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,278,1,1,2,10:29 AM,13:15,,,Jones 8' Jump Shot (4 PTS),34 - 17,-17,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,279,6,1,2,10:29 AM,13:00,,,Melvin P.FOUL (P4.T3),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,280,8,0,2,10:29 AM,13:00,,,SUB: Rizzotti FOR Darling,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,281,8,0,2,10:29 AM,13:00,,,SUB: Wauters FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,282,2,1,2,10:30 AM,12:50,MISS Brumfield  3PT Jump Shot,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,283,4,0,2,10:30 AM,12:49,,,Brown REBOUND (Off:3 Def:3),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,284,1,1,2,10:30 AM,12:35,,,Jones 14' Jump Shot (6 PTS),36 - 17,-19,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,285,1,1,2,10:31 AM,12:08,Brumfield 14' Jump Shot (4 PTS),,,36 - 19,-17,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,286,1,1,2,10:31 AM,11:47,,,Jones 19' Jump Shot (8 PTS) (Andrade 2 AST),38 - 19,-19,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,287,2,1,2,10:31 AM,11:17,MISS Ford 18' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,288,4,0,2,10:31 AM,11:15,,,Andrade REBOUND (Off:0 Def:3),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,289,1,3,2,10:32 AM,10:54,,,Wauters 8' Hook Shot (4 PTS) (Andrade 3 AST),40 - 19,-21,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,290,9,1,2,10:32 AM,10:43,SOL Timeout: Regular (Full 1 Short 2),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,292,8,0,2,10:34 AM,10:43,,,SUB: Taylor FOR Andrade,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,293,8,0,2,10:34 AM,10:43,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,294,8,0,2,10:34 AM,10:43,SUB: Black FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,295,8,0,2,10:34 AM,10:43,SUB: Brondello FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,296,2,1,2,10:35 AM,10:33,MISS Rasmussen 18' Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,297,4,0,2,10:35 AM,10:31,,,Brown REBOUND (Off:3 Def:4),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,298,1,1,2,10:35 AM,10:12,,,Jones 15' Jump Shot (10 PTS),42 - 19,-23,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,299,8,0,2,10:35 AM,9:54,,,SUB: Hall FOR Brown,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,300,2,42,2,10:36 AM,9:46,MISS Rasmussen  Driving Layup,,Hall BLOCK (1 BLK),,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0
+1020100082,301,4,0,2,10:36 AM,9:44,Rasmussen REBOUND (Off:3 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,302,2,1,2,10:36 AM,9:41,MISS Brondello 16' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,303,4,0,2,10:36 AM,9:41,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,304,6,3,2,10:36 AM,9:41,Riley L.B.FOUL (P2.T4),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,305,2,1,2,10:36 AM,9:29,,,MISS Rizzotti  3PT Jump Shot,,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,306,4,0,2,10:37 AM,9:28,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,307,6,3,2,10:37 AM,9:28,Brondello L.B.FOUL (P2.PN),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,308,5,1,2,10:37 AM,9:18,Black STEAL (2 STL),,Wauters Bad Pass Turnover (P2.T10),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,309,6,2,2,10:37 AM,9:11,,,Wauters S.FOUL (P4.T4),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,310,3,11,2,10:37 AM,9:11,MISS Reid Free Throw 1 of 2,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,311,4,1,2,10:37 AM,9:11,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,312,3,12,2,10:38 AM,9:11,Reid Free Throw 2 of 2 (3 PTS),,,42 - 20,-22,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,313,6,1,2,10:38 AM,8:58,Reid P.FOUL (P1.PN),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,314,2,1,2,10:38 AM,8:51,,,MISS Taylor 13' Jump Shot,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,315,4,0,2,10:38 AM,8:49,,,Hall REBOUND (Off:1 Def:1),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,316,1,5,2,10:38 AM,8:47,,,Taylor  Layup (2 PTS) (Rizzotti 2 AST),44 - 20,-24,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,317,1,1,2,10:39 AM,8:28,Black 16' Jump Shot (2 PTS) (Reid 1 AST),,,44 - 22,-22,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,318,2,1,2,10:39 AM,8:08,,,MISS Taylor 18' Jump Shot,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,319,4,0,2,10:39 AM,8:06,Black REBOUND (Off:4 Def:3),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,320,8,0,2,10:40 AM,8:00,,,SUB: Andrade FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,321,6,2,2,10:40 AM,7:59,,,Rizzotti S.FOUL (P2.PN),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,322,9,4,2,10:40 AM,7:59,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,326,3,11,2,10:42 AM,7:59,Brondello Free Throw 1 of 2 (3 PTS),,,44 - 23,-21,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,327,3,12,2,10:43 AM,7:59,Brondello Free Throw 2 of 2 (4 PTS),,,44 - 24,-20,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,328,1,1,2,10:43 AM,7:38,,,Hall 18' Jump Shot (2 PTS) (Rizzotti 3 AST),46 - 24,-22,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,329,1,5,2,10:43 AM,7:21,Riley  Layup (4 PTS),,,46 - 26,-20,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,330,2,42,2,10:44 AM,6:57,,,MISS Rizzotti  Driving Layup,,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,331,4,0,2,10:44 AM,6:56,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,332,2,5,2,10:44 AM,6:40,,,MISS Taylor  Layup,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,333,4,0,2,10:44 AM,6:38,Black REBOUND (Off:4 Def:4),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,334,2,1,2,10:44 AM,6:35,MISS Brondello  3PT Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,335,10,0,2,10:45 AM,6:32,Jump Ball Rasmussen vs. Hall: Tip to Reid,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0
+1020100082,336,4,0,2,10:45 AM,6:32,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,337,6,4,2,10:45 AM,6:18,Riley OFF.Foul (P3),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,338,5,5,2,10:45 AM,6:18,Riley Foul Turnover (P3.T16),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,339,2,3,2,10:46 AM,6:06,,,MISS Hall 6' Hook Shot,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,340,4,0,2,10:46 AM,6:03,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,341,6,1,2,10:47 AM,5:50,,,Rizzotti P.FOUL (P3.PN),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,342,2,46,2,10:47 AM,5:35,MISS Brondello 6' Running Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,343,4,0,2,10:47 AM,5:34,,,Andrade REBOUND (Off:0 Def:4),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,344,6,1,2,10:47 AM,5:34,Brondello P.FOUL (P3.PN),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,345,2,1,2,10:48 AM,5:09,,,MISS Rizzotti  3PT Jump Shot,,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,346,4,0,2,10:48 AM,5:08,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,347,8,0,2,10:48 AM,5:08,SUB: Torres FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100657,Levys Torres,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,348,5,2,2,10:49 AM,4:54,Riley Lost Ball Turnover (P4.T17),,Wauters STEAL (1 STL),,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,349,5,1,2,10:49 AM,4:50,,,Rizzotti Bad Pass Turnover (P3.T11),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,350,2,1,2,10:49 AM,4:32,MISS Riley 6' Jump Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,351,4,0,2,10:49 AM,4:30,Riley REBOUND (Off:3 Def:0),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,352,6,2,2,10:49 AM,4:30,,,Wauters S.FOUL (P5.PN),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,353,8,0,2,10:49 AM,4:30,SUB: Brumfield FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,354,8,0,2,10:49 AM,4:30,SUB: Ford FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,355,3,11,2,10:50 AM,4:30,Riley Free Throw 1 of 2 (5 PTS),,,46 - 27,-19,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,356,3,12,2,10:50 AM,4:30,Riley Free Throw 2 of 2 (6 PTS),,,46 - 28,-18,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,357,6,2,2,10:50 AM,4:07,Reid S.FOUL (P2.PN),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,358,3,11,2,10:51 AM,4:07,,,MISS Wauters Free Throw 1 of 2,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,359,4,1,2,10:51 AM,4:07,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,360,8,0,2,10:51 AM,4:07,,,SUB: Bader Binford FOR Andrade,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,361,3,12,2,10:51 AM,4:07,,,MISS Wauters Free Throw 2 of 2,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,362,4,0,2,10:51 AM,4:06,Reid REBOUND (Off:0 Def:2),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,363,1,1,2,10:51 AM,3:50,Reid 16' Jump Shot (5 PTS) (Brumfield 3 AST),,,46 - 30,-16,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,364,6,1,2,10:52 AM,3:26,Riley P.FOUL (P4.PN),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,365,8,0,2,10:52 AM,3:26,,,SUB: Johns Kimbrough FOR Wauters,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100180,Pollyanna Johns Kimbrough,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,366,9,4,2,10:52 AM,3:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,370,3,11,2,10:55 AM,3:26,,,MISS Taylor Free Throw 1 of 2,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,371,4,1,2,10:55 AM,3:26,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,372,3,12,2,10:55 AM,3:26,,,MISS Taylor Free Throw 2 of 2,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,373,4,0,2,10:55 AM,3:25,Reid REBOUND (Off:0 Def:3),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,374,1,42,2,10:55 AM,3:07,Ford  Driving Layup (2 PTS),,,46 - 32,-14,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,375,6,2,2,10:55 AM,3:07,,,Rizzotti S.FOUL (P4.PN),,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,1,0,,,,,,0
+1020100082,376,3,10,2,10:55 AM,3:07,Ford Free Throw 1 of 1 (3 PTS),,,46 - 33,-13,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,377,1,42,2,10:56 AM,3:00,,,Rizzotti  Driving Layup (2 PTS) (Bader Binford 1 AST),48 - 33,-15,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,378,2,1,2,10:56 AM,2:48,MISS Riley 12' Jump Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,379,4,0,2,10:56 AM,2:47,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,380,5,2,2,10:57 AM,2:43,,,Bader Binford Lost Ball Turnover (P1.T12),,,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,381,5,1,2,10:57 AM,2:24,Torres Bad Pass Turnover (P1.T18),,Taylor STEAL (1 STL),,,4,100657,Levys Torres,1611661326.0,Miami,Sol,MIA,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,382,1,1,2,10:58 AM,2:03,,,Hall 17' Jump Shot (4 PTS),50 - 33,-17,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,383,5,1,2,10:58 AM,1:44,Reid Bad Pass Turnover (P2.T19),,Taylor STEAL (2 STL),,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,384,1,1,2,10:58 AM,1:21,,,Bader Binford  3PT Jump Shot (3 PTS) (Rizzotti 4 AST),53 - 33,-20,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020100082,385,2,1,2,10:59 AM,0:54,MISS Reid 17' Jump Shot,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,386,4,0,2,10:59 AM,0:50,Ford REBOUND (Off:3 Def:1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,387,2,5,2,10:59 AM,0:49,MISS Ford  Layup,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,388,4,0,2,10:59 AM,0:47,,,Bader Binford REBOUND (Off:0 Def:1),,,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,389,2,1,2,10:59 AM,0:44,Reid BLOCK (1 BLK),,MISS Taylor 4' Jump Shot,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0
+1020100082,390,4,0,2,10:59 AM,0:43,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,391,2,1,2,10:59 AM,0:39,,,MISS Taylor  3PT Jump Shot,,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,392,4,0,2,10:59 AM,0:36,Ford REBOUND (Off:3 Def:2),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,393,2,1,2,10:59 AM,0:25,MISS Ford 17' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,394,4,0,2,10:59 AM,0:23,,,Taylor REBOUND (Off:0 Def:3),,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,395,5,1,2,11:00 AM,0:20,Ford STEAL (3 STL),,Taylor Bad Pass Turnover (P1.T13),,,5,100634,Penny Taylor,1611661315.0,Cleveland,Rockers,CLE,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,396,5,1,2,11:00 AM,0:14,Brumfield Bad Pass Turnover (P2.T20),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100082,397,6,1,2,11:00 AM,0:06,Brumfield P.FOUL (P1.PN),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100082,398,3,11,2,11:00 AM,0:06,,,MISS Rizzotti Free Throw 1 of 2,,,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,399,4,1,2,11:00 AM,0:06,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100082,400,3,12,2,11:00 AM,0:06,,,Rizzotti Free Throw 2 of 2 (3 PTS),54 - 33,-21,5,100338,Jennifer Rizzotti,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020100082,401,1,5,2,11:01 AM,0:00,Ford  Layup (5 PTS) (Brumfield 4 AST),,,54 - 35,-19,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100082,402,13,0,2,11:01 AM,0:00,,End of 2nd Half (11:01 AM EST),,54 - 35,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

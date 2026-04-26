@@ -1,0 +1,328 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100113,0,12,0,1,2:10 PM,20:00,,Start of 1st Half (2:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,1,10,0,1,2:10 PM,20:00,Jump Ball Stepanova vs. Riley: Tip to Timms,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0
+1020100113,2,2,5,1,2:11 PM,19:44,MISS Stepanova  Layup,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,3,4,0,1,2:11 PM,19:42,Stepanova REBOUND (Off:1 Def:0),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,4,1,5,1,2:11 PM,19:40,Stepanova  Layup (2 PTS),,,0 - 2,2,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,5,1,1,1,2:11 PM,19:14,,,Brondello 17' Jump Shot (2 PTS) (Baranova 1 AST),2 - 2,TIE,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,6,2,5,1,2:12 PM,18:45,MISS Fallon  Layup,,Riley BLOCK (1 BLK),,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0
+1020100113,7,4,0,1,2:12 PM,18:43,,,Baranova REBOUND (Off:0 Def:1),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,8,5,1,1,2:12 PM,18:33,Stepanova STEAL (1 STL),,Baranova Bad Pass Turnover (P1.T1),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,9,6,4,1,2:12 PM,18:27,Stepanova OFF.Foul (P1),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,10,5,5,1,2:12 PM,18:27,Stepanova Foul Turnover (P1.T1),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,11,2,1,1,2:12 PM,18:14,,,MISS Brondello 14' Jump Shot,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,12,4,0,1,2:12 PM,18:12,Gillom REBOUND (Off:0 Def:1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,13,2,1,1,2:12 PM,18:07,MISS Harrison 16' Jump Shot,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,14,4,0,1,2:12 PM,18:05,,,Sam REBOUND (Off:0 Def:1),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,15,1,1,1,2:13 PM,17:44,,,Brondello 16' Jump Shot (4 PTS) (Sam 1 AST),4 - 2,-2,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,16,6,1,1,2:13 PM,17:24,,,Riley P.FOUL (P1.T1),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,17,6,4,1,2:14 PM,17:16,Timms OFF.Foul (P1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,18,5,5,1,2:14 PM,17:16,Timms Foul Turnover (P1.T2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,19,1,1,1,2:14 PM,17:03,,,Brondello 15' Jump Shot (6 PTS) (Black 1 AST),6 - 2,-4,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,20,5,1,1,2:14 PM,16:40,Harrison Bad Pass Turnover (P1.T3),,Brondello STEAL (1 STL),,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,21,2,1,1,2:14 PM,16:35,,,MISS Brondello 15' Jump Shot,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,22,4,0,1,2:14 PM,16:33,Stepanova REBOUND (Off:1 Def:1),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,23,9,2,1,2:15 PM,16:23,MERCURY Timeout: Short (Full 0 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,24,6,1,1,2:16 PM,16:20,,,Baranova P.FOUL (P1.T2),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,25,2,1,1,2:16 PM,16:14,MISS Stepanova 7' Jump Shot,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,26,4,0,1,2:16 PM,16:12,,,Sam REBOUND (Off:0 Def:2),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,27,1,1,1,2:16 PM,16:07,,,Baranova 12' Jump Shot (2 PTS) (Black 2 AST),8 - 2,-6,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,28,6,1,1,2:16 PM,15:48,,,Brondello P.FOUL (P1.T3),,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,29,9,4,1,2:16 PM,15:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,31,1,1,1,2:19 PM,15:37,Timms  3PT Jump Shot (3 PTS) (Gillom 1 AST),,,8 - 5,-3,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,32,5,2,1,2:19 PM,15:21,Stepanova STEAL (2 STL),,Black Lost Ball Turnover (P1.T2),,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,33,5,2,1,2:20 PM,15:13,Stepanova Lost Ball Turnover (P2.T4),,Black STEAL (1 STL),,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,34,2,1,1,2:20 PM,14:56,,,MISS Sam 13' Jump Shot,,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,35,4,0,1,2:20 PM,14:54,Stepanova REBOUND (Off:1 Def:2),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,36,1,5,1,2:20 PM,14:46,Gillom  Layup (2 PTS) (Timms 1 AST),,,8 - 7,-1,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,37,2,1,1,2:20 PM,14:28,,,MISS Brondello 14' Jump Shot,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,38,4,0,1,2:20 PM,14:27,Gillom REBOUND (Off:0 Def:2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,39,5,1,1,2:20 PM,14:23,Timms Bad Pass Turnover (P2.T5),,Brondello STEAL (2 STL),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,40,5,2,1,2:21 PM,14:10,Gillom STEAL (1 STL),,Riley Lost Ball Turnover (P1.T3),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,41,5,4,1,2:21 PM,13:45,Timms Traveling Turnover (P3.T6),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,42,2,1,1,2:22 PM,13:27,,,MISS Brondello 14' Jump Shot,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,43,4,0,1,2:22 PM,13:26,,,Riley REBOUND (Off:1 Def:0),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,44,6,1,1,2:22 PM,13:26,Harrison P.FOUL (P1.T1),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,45,8,0,1,2:22 PM,13:26,SUB: Veal FOR Timms,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,46,8,0,1,2:22 PM,13:26,SUB: Pettis FOR Harrison,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,47,1,5,1,2:22 PM,13:14,,,Riley  Layup (2 PTS) (Sam 2 AST),10 - 7,-3,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,48,6,2,1,2:23 PM,13:03,,,Riley S.FOUL (P2.T4),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,49,3,11,1,2:23 PM,13:03,MISS Stepanova Free Throw 1 of 2,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,50,4,1,1,2:23 PM,13:03,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,51,8,0,1,2:23 PM,13:03,,,SUB: Askamp FOR Riley,,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,52,3,12,1,2:23 PM,13:03,Stepanova Free Throw 2 of 2 (3 PTS),,,10 - 8,-2,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,53,2,1,1,2:24 PM,12:41,,,MISS Baranova 7' Jump Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,54,4,0,1,2:24 PM,12:39,Pettis REBOUND (Off:0 Def:1),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,55,2,1,1,2:24 PM,12:23,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,56,4,0,1,2:24 PM,12:21,,,Brondello REBOUND (Off:0 Def:1),,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,57,2,1,1,2:24 PM,11:50,,,MISS Black 13' Jump Shot,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,58,4,0,1,2:24 PM,11:49,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,59,5,11,1,2:25 PM,11:49,,,Sol Turnover: Shot Clock (T#4),,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,60,9,4,1,2:25 PM,11:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,62,8,0,1,2:27 PM,11:49,,,SUB: Colleton FOR Brondello,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,63,1,47,1,2:27 PM,11:32,Stepanova 9' Turnaround Jump Shot (5 PTS) (Veal 1 AST),,,10 - 10,TIE,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,64,5,1,1,2:28 PM,11:06,,,Baranova Bad Pass Turnover (P2.T5),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,65,2,1,1,2:28 PM,10:51,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,66,4,0,1,2:28 PM,10:48,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,67,8,0,1,2:28 PM,10:48,SUB: Williams-Strong FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,68,8,0,1,2:28 PM,10:48,SUB: Harrison FOR Fallon,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,69,8,0,1,2:28 PM,10:48,,,SUB: Rasmussen FOR Baranova,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,70,6,1,1,2:29 PM,10:33,Stepanova P.FOUL (P2.T2),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,71,2,1,1,2:29 PM,10:23,,,MISS Colleton 13' Jump Shot,,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,72,4,0,1,2:29 PM,10:22,Harrison REBOUND (Off:0 Def:1),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,73,6,1,1,2:29 PM,10:08,,,Black P.FOUL (P1.PN),,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,74,5,2,1,2:30 PM,9:54,Harrison Lost Ball Turnover (P2.T7),,Black STEAL (2 STL),,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,75,6,2,1,2:30 PM,9:49,Williams-Strong S.FOUL (P1.T3),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,76,8,0,1,2:30 PM,9:49,,,SUB: Brumfield FOR Black,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,77,3,11,1,2:30 PM,9:49,,,MISS Colleton Free Throw 1 of 2,,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,78,4,1,1,2:30 PM,9:49,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,80,8,0,1,2:31 PM,9:49,SUB: Tuvic FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,81,3,12,1,2:31 PM,9:49,,,MISS Colleton Free Throw 2 of 2,,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,82,4,0,1,2:31 PM,9:47,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,83,6,1,1,2:31 PM,9:31,,,Brumfield P.FOUL (P1.PN),,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,84,1,1,1,2:32 PM,9:23,Williams-Strong 9' Jump Shot (2 PTS),,,10 - 12,2,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,85,1,1,1,2:32 PM,9:02,,,Sam 12' Jump Shot (2 PTS),12 - 12,TIE,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,86,2,5,1,2:32 PM,8:48,MISS Harrison  Layup,,Askamp BLOCK (1 BLK),,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0
+1020100113,87,4,0,1,2:32 PM,8:48,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,88,2,1,1,2:33 PM,8:45,MISS Williams-Strong 5' Jump Shot,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,89,4,0,1,2:33 PM,8:43,,,Askamp REBOUND (Off:0 Def:1),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,90,2,1,1,2:33 PM,8:20,,,MISS Colleton 7' Jump Shot,,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,91,4,0,1,2:33 PM,8:18,Williams-Strong REBOUND (Off:0 Def:1),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,92,2,1,1,2:34 PM,7:57,MISS Williams-Strong 15' Jump Shot,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,93,4,0,1,2:34 PM,7:56,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,94,6,3,1,2:34 PM,7:56,,,Askamp L.B.FOUL (P1.PN),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,95,9,4,1,2:34 PM,7:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,97,8,0,1,2:36 PM,7:56,,,SUB: Ford FOR Sam,,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,98,8,0,1,2:36 PM,7:56,,,SUB: Brondello FOR Colleton,,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,99,1,46,1,2:37 PM,7:41,Veal 7' Running Jump Shot (2 PTS) (Harrison 1 AST),,,12 - 14,2,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,100,6,2,1,2:37 PM,7:41,,,Brondello S.FOUL (P2.PN),,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,101,3,10,1,2:37 PM,7:41,MISS Veal Free Throw 1 of 1,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,102,4,0,1,2:37 PM,7:39,,,Rasmussen REBOUND (Off:0 Def:1),,,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,103,2,1,1,2:37 PM,7:22,,,MISS Brumfield 14' Jump Shot,,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,104,4,0,1,2:37 PM,7:20,Williams-Strong REBOUND (Off:0 Def:2),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,105,2,1,1,2:38 PM,7:06,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,107,4,0,1,2:38 PM,7:02,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,106,8,0,1,2:38 PM,7:02,,,SUB: Sam FOR Rasmussen,,,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,108,8,0,1,2:38 PM,7:02,,,SUB: Baranova FOR Brondello,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,109,8,0,1,2:38 PM,7:02,SUB: Saunders FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,110,10,0,1,2:38 PM,7:02,Jump Ball Tuvic vs. Askamp: Tip to Williams-Strong,,,,,4,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0
+1020100113,111,2,1,1,2:38 PM,6:51,MISS Williams-Strong 15' Jump Shot,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,112,4,0,1,2:38 PM,6:49,,,Ford REBOUND (Off:0 Def:1),,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,113,5,4,1,2:38 PM,6:47,,,Ford Traveling Turnover (P1.T6),,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,114,8,0,1,2:39 PM,6:47,SUB: Fallon FOR Tuvic,,,,,4,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,115,2,44,1,2:39 PM,6:31,MISS Fallon  Reverse Layup,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,116,4,0,1,2:39 PM,6:30,,,Askamp REBOUND (Off:0 Def:2),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,117,1,44,1,2:39 PM,6:12,,,Baranova  Reverse Layup (4 PTS),14 - 14,TIE,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,118,1,1,1,2:40 PM,5:53,Harrison 19' Jump Shot (2 PTS),,,14 - 16,2,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,119,9,2,1,2:40 PM,5:46,,,Sol Timeout: Short (Reg.0 Short 1),,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,121,6,4,1,2:41 PM,5:37,,,Sam OFF.Foul (P1),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,122,5,5,1,2:41 PM,5:37,,,Sam Foul Turnover (P1.T7),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,123,8,0,1,2:41 PM,5:37,SUB: Stepanova FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,124,1,1,1,2:42 PM,5:18,Veal 11' Jump Shot (4 PTS),,,14 - 18,4,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,125,1,5,1,2:42 PM,4:59,,,Askamp  Layup (2 PTS) (Brumfield 1 AST),16 - 18,2,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,126,2,1,1,2:43 PM,4:43,MISS Stepanova 8' Jump Shot,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,127,10,0,1,2:43 PM,4:39,Jump Ball Harrison vs. Brumfield: Tip to Veal,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100113,128,4,0,1,2:43 PM,4:39,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,129,5,1,1,2:43 PM,4:29,Veal Bad Pass Turnover (P1.T8),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,130,2,1,1,2:44 PM,4:04,,,MISS Askamp 18' Jump Shot,,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,131,4,0,1,2:44 PM,4:02,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,132,9,4,1,2:44 PM,3:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,134,8,0,1,2:47 PM,3:50,,,SUB: Black FOR Brumfield,,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,135,8,0,1,2:47 PM,3:50,SUB: Gillom FOR Fallon,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,136,2,3,1,2:47 PM,3:33,,,MISS Baranova 6' Hook Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,137,4,0,1,2:47 PM,3:30,,,Black REBOUND (Off:1 Def:0),,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,138,2,1,1,2:48 PM,3:08,,,MISS Black 14' Jump Shot,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,139,4,0,1,2:48 PM,3:02,,,Sam REBOUND (Off:1 Def:2),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,140,2,1,1,2:48 PM,2:58,,,MISS Baranova  3PT Jump Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,141,4,0,1,2:48 PM,2:56,Veal REBOUND (Off:0 Def:1),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,142,1,1,1,2:48 PM,2:48,Gillom  3PT Jump Shot (5 PTS) (Veal 2 AST),,,16 - 21,5,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,143,2,1,1,2:48 PM,2:16,,,MISS Ford 12' Jump Shot,,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,144,4,0,1,2:48 PM,2:14,Gillom REBOUND (Off:0 Def:3),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,145,1,1,1,2:49 PM,1:51,Veal  3PT Jump Shot (7 PTS),,,16 - 24,8,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,146,9,1,1,2:49 PM,1:41,,,Sol Timeout: Regular (Reg.1 Short 1),,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,148,8,0,1,2:51 PM,1:41,,,SUB: Reid FOR Ford,,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,149,8,0,1,2:51 PM,1:41,SUB: Fallon FOR Harrison,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,150,1,5,1,2:52 PM,1:28,,,Baranova  Layup (6 PTS) (Black 3 AST),18 - 24,6,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,151,2,1,1,2:52 PM,1:22,MISS Fallon 6' Jump Shot,,Reid BLOCK (1 BLK),,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0
+1020100113,152,4,0,1,2:52 PM,1:20,,,Askamp REBOUND (Off:0 Def:3),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,153,5,4,1,2:52 PM,1:20,,,Askamp Traveling Turnover (P1.T8),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,154,2,1,1,2:52 PM,1:16,MISS Gillom 3' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,155,4,0,1,2:52 PM,1:11,,,Baranova REBOUND (Off:0 Def:2),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,156,1,5,1,2:52 PM,1:00,,,Reid  Layup (2 PTS),20 - 24,4,5,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,157,1,47,1,2:53 PM,0:38,Veal 8' Turnaround Jump Shot (9 PTS),,,20 - 26,6,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,158,2,46,1,2:54 PM,0:13,,,MISS Baranova 6' Running Jump Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,159,4,0,1,2:54 PM,0:12,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,160,1,1,1,2:54 PM,0:00,,,Sam 15' Jump Shot (4 PTS) (Black 4 AST),22 - 26,4,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,161,5,1,1,2:54 PM,0:00,Gillom Bad Pass Turnover (P1.T9),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,162,2,1,1,2:55 PM,0:00,,,MISS Baranova 15' Jump Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,164,4,0,1,2:55 PM,0:00,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,163,13,0,1,2:55 PM,0:00,,End of 1st Half (2:55 PM EST),,22 - 26,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,166,12,0,2,3:10 PM,20:00,,Start of 2nd Half (3:10 PM EST),,22 - 26,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,167,10,0,2,3:10 PM,20:00,Jump Ball Stepanova vs. Riley: Tip to Gillom,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0
+1020100113,168,1,5,2,3:11 PM,19:56,Gillom  Layup (7 PTS),,,22 - 28,6,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,169,2,1,2,3:11 PM,19:36,,,MISS Baranova 12' Jump Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,170,4,0,2,3:11 PM,19:33,Gillom REBOUND (Off:0 Def:4),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,171,10,0,2,3:11 PM,19:32,Jump Ball Gillom vs. Baranova: Tip to Black,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0
+1020100113,172,5,2,2,3:11 PM,19:32,Gillom Lost Ball Turnover (P2.T10),,Baranova STEAL (1 STL),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,173,10,0,2,3:12 PM,19:13,Jump Ball Timms vs. Brondello: Tip to Riley,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0
+1020100113,174,1,5,2,3:12 PM,19:02,,,Riley  Layup (4 PTS) (Black 5 AST),24 - 28,4,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,175,2,1,2,3:13 PM,18:47,MISS Timms  3PT Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,176,4,0,2,3:13 PM,18:44,Stepanova REBOUND (Off:2 Def:2),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,177,1,46,2,3:13 PM,18:32,Gillom 5' Running Jump Shot (9 PTS) (Timms 2 AST),,,24 - 30,6,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,178,1,1,2,3:13 PM,18:18,,,Sam 19' Jump Shot (6 PTS) (Black 6 AST),26 - 30,4,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,179,6,4,2,3:13 PM,18:02,Fallon OFF.Foul (P1),,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,180,5,5,2,3:13 PM,18:02,Fallon Foul Turnover (P1.T11),,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,181,2,1,2,3:14 PM,17:45,,,MISS Black 16' Jump Shot,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,182,10,0,2,3:14 PM,17:41,Jump Ball Gillom vs. Riley: Tip to Fallon,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0
+1020100113,183,4,0,2,3:14 PM,17:41,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,184,1,1,2,3:15 PM,17:26,Harrison 12' Jump Shot (4 PTS),,,26 - 32,6,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,185,5,2,2,3:15 PM,16:59,Harrison STEAL (1 STL),,Riley Lost Ball Turnover (P2.T9),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,186,1,1,2,3:15 PM,16:51,Fallon 12' Jump Shot (2 PTS) (Stepanova 1 AST),,,26 - 34,8,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,187,9,2,2,3:15 PM,16:40,,,Sol Timeout: Short (Reg.1 Short 2),,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,189,1,1,2,3:17 PM,16:28,,,Riley 5' Jump Shot (6 PTS) (Baranova 2 AST),28 - 34,6,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,190,5,13,2,3:17 PM,16:18,Gillom Backcourt Turnover (P3.T12),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,191,1,1,2,3:18 PM,16:00,,,Baranova 15' Jump Shot (8 PTS),30 - 34,4,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,192,1,5,2,3:18 PM,15:33,Stepanova  Layup (7 PTS) (Gillom 2 AST),,,30 - 36,6,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,193,2,5,2,3:18 PM,15:16,,,MISS Black  Layup,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,194,4,0,2,3:18 PM,15:15,,,Riley REBOUND (Off:2 Def:0),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,195,2,1,2,3:19 PM,15:08,,,MISS Riley 15' Jump Shot,,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,196,4,0,2,3:19 PM,15:06,,,Black REBOUND (Off:2 Def:0),,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,197,2,1,2,3:19 PM,15:04,,,MISS Sam  3PT Jump Shot,,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,198,4,0,2,3:19 PM,15:01,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,199,9,4,2,3:19 PM,15:01,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,201,8,0,2,3:21 PM,15:01,SUB: Veal FOR Timms,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,202,1,5,2,3:21 PM,14:44,Stepanova  Layup (9 PTS) (Veal 3 AST),,,30 - 38,8,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,203,2,1,2,3:22 PM,14:24,,,MISS Brondello 15' Jump Shot,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,204,4,0,2,3:22 PM,14:22,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,205,8,0,2,3:22 PM,14:22,,,SUB: Askamp FOR Riley,,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,206,6,1,2,3:22 PM,14:11,,,Black P.FOUL (P2.T1),,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,207,8,0,2,3:22 PM,14:11,SUB: Pettis FOR Harrison,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,208,1,42,2,3:23 PM,14:06,Gillom  Driving Layup (11 PTS),,,30 - 40,10,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,209,2,1,2,3:23 PM,13:45,Stepanova BLOCK (1 BLK),,MISS Askamp 5' Jump Shot,,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0
+1020100113,210,4,0,2,3:23 PM,13:43,Stepanova REBOUND (Off:2 Def:3),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,211,1,1,2,3:23 PM,13:26,Veal 7' Jump Shot (11 PTS) (Pettis 1 AST),,,30 - 42,12,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,212,9,2,2,3:24 PM,13:17,,,Sol Timeout: Short (Reg.1 Short 3),,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,214,8,0,2,3:24 PM,13:17,SUB: Williams-Strong FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,215,1,1,2,3:25 PM,13:02,,,Black 18' Jump Shot (2 PTS) (Sam 3 AST),32 - 42,10,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,216,2,1,2,3:25 PM,12:39,MISS Williams-Strong 6' Jump Shot,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,217,4,0,2,3:25 PM,12:35,,,Sam REBOUND (Off:1 Def:3),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,218,5,4,2,3:26 PM,12:07,,,Baranova Traveling Turnover (P3.T10),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,219,2,1,2,3:26 PM,11:48,MISS Fallon 13' Jump Shot,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,220,4,0,2,3:26 PM,11:45,,,Baranova REBOUND (Off:0 Def:3),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,221,2,1,2,3:26 PM,11:40,,,MISS Sam  3PT Jump Shot,,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,222,4,0,2,3:26 PM,11:38,,,Baranova REBOUND (Off:1 Def:3),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,223,9,4,2,3:27 PM,11:36,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,225,8,0,2,3:29 PM,11:36,,,SUB: Reid FOR Brondello,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,226,8,0,2,3:29 PM,11:36,SUB: Gillom FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,227,10,0,2,3:30 PM,11:15,Jump Ball Williams-Strong vs. Black: Tip to,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,2,1611661317,,,,,,0
+1020100113,228,7,5,2,3:30 PM,11:15,,,Black Violation:Kicked Ball,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,229,5,18,2,3:30 PM,11:15,,,Black Jump Ball Violation Turnover (P2.T11),,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,230,6,1,2,3:31 PM,10:58,,,Baranova P.FOUL (P2.T2),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,231,8,0,2,3:31 PM,10:58,,,SUB: Rasmussen FOR Baranova,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,232,2,1,2,3:31 PM,10:54,MISS Fallon  3PT Jump Shot,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,233,4,0,2,3:31 PM,10:50,Williams-Strong REBOUND (Off:1 Def:2),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,234,1,1,2,3:32 PM,10:27,Veal 12' Jump Shot (13 PTS),,,32 - 44,12,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,235,1,1,2,3:32 PM,10:09,,,Rasmussen 15' Jump Shot (2 PTS) (Sam 4 AST),34 - 44,10,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,236,6,2,2,3:32 PM,10:02,,,Askamp S.FOUL (P2.T3),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,237,8,0,2,3:32 PM,10:02,,,SUB: Brondello FOR Black,,,5,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,238,3,11,2,3:32 PM,10:02,MISS Gillom Free Throw 1 of 2,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,239,4,1,2,3:32 PM,10:02,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,240,8,0,2,3:32 PM,10:02,SUB: Harrison FOR Fallon,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,241,3,12,2,3:33 PM,10:02,Gillom Free Throw 2 of 2 (12 PTS),,,34 - 45,11,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,242,2,1,2,3:33 PM,9:53,,,MISS Brondello 7' Jump Shot,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,243,4,0,2,3:33 PM,9:51,Williams-Strong REBOUND (Off:1 Def:3),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,244,5,1,2,3:33 PM,9:46,Veal Bad Pass Turnover (P2.T13),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,245,5,1,2,3:33 PM,9:29,Pettis STEAL (1 STL),,Rasmussen Bad Pass Turnover (P1.T12),,,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,246,1,5,2,3:34 PM,9:24,Pettis  Layup (2 PTS),,,34 - 47,13,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,247,6,1,2,3:34 PM,9:04,Harrison P.FOUL (P2.T1),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,248,1,1,2,3:35 PM,8:41,,,Askamp 6' Jump Shot (4 PTS) (Rasmussen 1 AST),36 - 47,11,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,249,1,5,2,3:35 PM,8:22,Williams-Strong  Layup (4 PTS) (Veal 4 AST),,,36 - 49,13,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,250,2,1,2,3:35 PM,7:58,,,MISS Reid 7' Jump Shot,,,5,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,251,4,0,2,3:35 PM,7:56,Pettis REBOUND (Off:0 Def:2),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,252,6,1,2,3:35 PM,7:54,,,Askamp P.FOUL (P3.T4),,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,253,9,4,2,3:35 PM,7:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,255,8,0,2,3:38 PM,7:54,,,SUB: Brumfield FOR Sam,,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,256,8,0,2,3:38 PM,7:54,,,SUB: Colleton FOR Brondello,,,5,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,257,8,0,2,3:38 PM,7:54,,,SUB: Ford FOR Reid,,,5,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,258,2,5,2,3:39 PM,7:31,MISS Williams-Strong  Layup,,Rasmussen BLOCK (1 BLK),,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0
+1020100113,259,4,0,2,3:39 PM,7:30,,,Rasmussen REBOUND (Off:0 Def:2),,,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,260,6,1,2,3:39 PM,7:21,Harrison P.FOUL (P3.T2),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,261,1,1,2,3:39 PM,7:02,,,Brumfield 13' Jump Shot (2 PTS),38 - 49,11,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,262,6,1,2,3:40 PM,6:43,,,Ford P.FOUL (P1.PN),,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,263,8,0,2,3:40 PM,6:43,SUB: Stepanova FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,264,8,0,2,3:40 PM,6:43,SUB: Fallon FOR Harrison,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,265,2,1,2,3:40 PM,6:39,MISS Fallon  3PT Jump Shot,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,267,4,0,2,3:40 PM,6:35,Gillom REBOUND (Off:1 Def:4),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,266,1,1,2,3:40 PM,6:35,Gillom 4' Jump Shot (14 PTS),,,38 - 51,13,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,268,9,1,2,3:40 PM,6:22,,,Sol Timeout: Regular (Reg.2 Short 3),,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,270,8,0,2,3:41 PM,6:22,,,SUB: Riley FOR Askamp,,,5,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,271,8,0,2,3:43 PM,6:22,,,SUB: Baranova FOR Rasmussen,,,5,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,272,5,1,2,3:43 PM,6:20,,,Ford Bad Pass Turnover (P2.T13),,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,273,5,1,2,3:43 PM,6:06,Veal Bad Pass Turnover (P3.T14),,Ford STEAL (1 STL),,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,274,2,1,2,3:43 PM,5:59,,,MISS Brumfield 14' Jump Shot,,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,275,4,0,2,3:43 PM,5:56,Fallon REBOUND (Off:0 Def:1),,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,276,5,2,2,3:44 PM,5:39,Stepanova Lost Ball Turnover (P3.T15),,Brumfield STEAL (1 STL),,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,277,6,1,2,3:44 PM,5:36,Veal P.FOUL (P1.T3),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,279,9,2,2,3:44 PM,5:36,MERCURY Timeout: Short (Full 0 Short 2),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,280,8,0,2,3:45 PM,5:36,,,SUB: Sam FOR Ford,,,5,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,281,2,1,2,3:45 PM,5:31,,,MISS Baranova  3PT Jump Shot,,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,282,4,0,2,3:45 PM,5:29,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,283,6,1,2,3:45 PM,5:19,,,Sam P.FOUL (P2.PN),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,284,8,0,2,3:45 PM,5:19,SUB: Hill FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100452,E.C. Hill,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,285,2,1,2,3:46 PM,5:09,MISS Veal  3PT Jump Shot,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,286,4,0,2,3:46 PM,5:06,Fallon REBOUND (Off:1 Def:1),,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,287,2,1,2,3:50 PM,4:52,MISS Gillom 5' Jump Shot,,Riley BLOCK (2 BLK),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0
+1020100113,288,4,0,2,3:50 PM,4:50,,,Brumfield REBOUND (Off:0 Def:1),,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,289,6,1,2,3:50 PM,4:50,Hill P.FOUL (P1.T4),,,,,4,100452,E.C. Hill,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,290,6,1,2,3:50 PM,4:42,Gillom P.FOUL (P1.PN),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,291,5,4,2,3:51 PM,4:36,,,Brumfield Traveling Turnover (P1.T14),,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,292,2,1,2,3:51 PM,4:11,MISS Gillom 17' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,293,4,0,2,3:51 PM,4:09,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,294,6,3,2,3:51 PM,4:09,Stepanova L.B.FOUL (P3.PN),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,295,1,1,2,3:51 PM,3:58,,,Sam 12' Jump Shot (8 PTS) (Brumfield 2 AST),40 - 51,11,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,296,2,1,2,3:52 PM,3:36,MISS Stepanova 17' Jump Shot,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,297,4,0,2,3:52 PM,3:34,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,298,6,3,2,3:52 PM,3:34,Stepanova L.B.FOUL (P4.PN),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,299,8,0,2,3:52 PM,3:34,SUB: Harrison FOR Hill,,,,,4,100452,E.C. Hill,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,300,8,0,2,3:52 PM,3:34,SUB: Timms FOR Veal,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,301,6,1,2,3:53 PM,3:23,Timms P.FOUL (P2.PN),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,302,3,11,2,3:53 PM,3:23,,,Sam Free Throw 1 of 2 (9 PTS),41 - 51,10,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,303,3,12,2,3:53 PM,3:23,,,MISS Sam Free Throw 2 of 2,,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,304,4,0,2,3:53 PM,3:23,Timms REBOUND (Off:0 Def:1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,305,5,1,2,3:54 PM,3:14,Timms Bad Pass Turnover (P4.T16),,Sam STEAL (1 STL),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,306,1,1,2,3:54 PM,2:55,,,Baranova 4' Jump Shot (10 PTS) (Riley 1 AST),43 - 51,8,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,307,6,1,2,3:54 PM,2:46,,,Brumfield P.FOUL (P2.PN),,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,308,8,0,2,3:54 PM,2:46,SUB: Williams-Strong FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,309,5,1,2,3:55 PM,2:26,Timms Bad Pass Turnover (P5.T17),,Baranova STEAL (2 STL),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,310,1,56,2,3:55 PM,2:12,,,Baranova 4' Running Hook Shot (12 PTS),45 - 51,6,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,311,6,2,2,3:56 PM,1:43,,,Riley S.FOUL (P3.PN),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,312,3,11,2,3:56 PM,1:43,Harrison Free Throw 1 of 2 (5 PTS),,,45 - 52,7,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,313,3,12,2,3:56 PM,1:43,Harrison Free Throw 2 of 2 (6 PTS),,,45 - 53,8,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,314,2,1,2,3:57 PM,1:31,,,MISS Riley 6' Jump Shot,,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,315,4,0,2,3:57 PM,1:29,Harrison REBOUND (Off:0 Def:2),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,316,6,1,2,3:57 PM,1:28,,,Riley P.FOUL (P4.PN),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,317,3,11,2,3:57 PM,1:28,Harrison Free Throw 1 of 2 (7 PTS),,,45 - 54,9,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,319,8,0,2,3:58 PM,1:28,SUB: Veal FOR Timms,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,320,3,12,2,3:58 PM,1:28,Harrison Free Throw 2 of 2 (8 PTS),,,45 - 55,10,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,321,2,1,2,3:58 PM,1:15,,,MISS Brumfield  3PT Jump Shot,,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,322,4,0,2,3:58 PM,1:14,,,Sol Rebound,,,3,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,323,2,1,2,3:58 PM,1:10,,,MISS Colleton 18' Jump Shot,,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,324,4,0,2,3:58 PM,1:09,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,325,6,1,2,3:59 PM,1:04,,,Baranova P.FOUL (P3.PN),,,5,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,326,3,11,2,3:59 PM,1:04,Fallon Free Throw 1 of 2 (3 PTS),,,45 - 56,11,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,327,3,12,2,3:59 PM,1:04,Fallon Free Throw 2 of 2 (4 PTS),,,45 - 57,12,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,328,5,1,2,4:00 PM,0:47,Williams-Strong STEAL (1 STL),,Riley Bad Pass Turnover (P3.T15),,,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,329,6,1,2,4:00 PM,0:43,,,Sam P.FOUL (P3.PN),,,5,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,330,3,11,2,4:00 PM,0:43,MISS Veal Free Throw 1 of 2,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,331,4,1,2,4:00 PM,0:43,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,332,3,12,2,4:00 PM,0:43,Veal Free Throw 2 of 2 (14 PTS),,,45 - 58,13,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,333,5,1,2,4:01 PM,0:35,Gillom STEAL (2 STL),,Brumfield Bad Pass Turnover (P2.T16),,,5,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100113,334,9,2,2,4:01 PM,0:28,MERCURY Timeout: Short (Full 0 Short 3),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100113,336,5,1,2,4:02 PM,0:26,Veal Bad Pass Turnover (P4.T18),,Riley STEAL (1 STL),,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100113,337,6,2,2,4:02 PM,0:08,Gillom S.FOUL (P2.PN),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100113,338,3,11,2,4:02 PM,0:08,,,Riley Free Throw 1 of 2 (7 PTS),46 - 58,12,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,339,3,12,2,4:02 PM,0:08,,,Riley Free Throw 2 of 2 (8 PTS),47 - 58,11,5,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100113,340,6,1,2,4:03 PM,0:05,,,Colleton P.FOUL (P1.PN),,,5,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100113,341,3,11,2,4:03 PM,0:05,Veal Free Throw 1 of 2 (15 PTS),,,47 - 59,12,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,342,3,12,2,4:03 PM,0:05,Veal Free Throw 2 of 2 (16 PTS),,,47 - 60,13,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100113,343,13,0,2,4:03 PM,0:00,,End of 2nd Half (4:03 PM EST),,47 - 60,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

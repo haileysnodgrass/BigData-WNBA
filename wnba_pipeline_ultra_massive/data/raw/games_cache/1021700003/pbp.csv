@@ -1,0 +1,417 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700003,0,12,0,1,7:13 PM,10:00,,Start of 1st Period (7:13 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,1,10,0,1,7:13 PM,10:00,Jump Ball J. Jones vs. Williams: Tip to J. Thomas,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700003,2,1,1,1,7:13 PM,9:41,J. Thomas 24' 3PT Jump Shot (3 PTS) (A. Thomas 1 AST),,,0 - 3,3,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,3,2,47,1,7:13 PM,9:21,,,MISS Williams 10' Turnaround Jump Shot,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,4,4,0,1,7:13 PM,9:20,A. Thomas REBOUND (Off:0 Def:1),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,5,6,1,1,7:14 PM,9:16,,,Holmes P.FOUL (P1.T1),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,6,2,1,1,7:14 PM,9:03,MISS J. Jones 13' Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,7,4,0,1,7:14 PM,9:02,,,Williams REBOUND (Off:0 Def:1),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,8,6,2,1,7:14 PM,8:56,Bentley S.FOUL (P1.T1),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,9,3,11,1,7:14 PM,8:56,,,Hayes Free Throw 1 of 2 (1 PTS),1 - 3,2,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,11,3,12,1,7:15 PM,8:56,,,Hayes Free Throw 2 of 2 (2 PTS),2 - 3,1,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,13,2,3,1,7:15 PM,8:42,MISS Tuck 4' Hook Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,14,4,0,1,7:15 PM,8:40,,,Hayes REBOUND (Off:0 Def:1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,15,1,41,1,7:15 PM,8:38,,,Hayes 2' Running Layup (4 PTS),4 - 3,-1,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,16,6,2,1,7:15 PM,8:38,Tuck S.FOUL (P1.T2),,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,17,3,10,1,7:16 PM,8:38,,,Hayes Free Throw 1 of 1 (5 PTS),5 - 3,-2,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,19,6,1,1,7:16 PM,8:15,,,Clarendon P.FOUL (P1.T2),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,21,6,1,1,7:17 PM,8:12,,,Lyttle P.FOUL (P1.T3),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,23,5,45,1,7:17 PM,8:06,J. Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,25,5,2,1,7:18 PM,7:52,A. Thomas STEAL (1 STL),,Clarendon Lost Ball Turnover (P1.T1),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,26,5,40,1,7:18 PM,7:51,A. Thomas Out of Bounds Lost Ball Turnover (P1.T2),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,27,1,41,1,7:18 PM,7:42,,,Clarendon 2' Running Layup (2 PTS),7 - 3,-4,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,29,2,1,1,7:19 PM,7:26,MISS J. Thomas 24' 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,30,4,0,1,7:19 PM,7:25,J. Jones REBOUND (Off:1 Def:0),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,32,2,1,1,7:19 PM,7:16,MISS J. Jones 5' Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,33,4,0,1,7:19 PM,7:15,,,Holmes REBOUND (Off:0 Def:1),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,34,1,5,1,7:19 PM,7:07,,,Williams 2' Layup (2 PTS) (Lyttle 1 AST),9 - 3,-6,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,35,6,29,1,7:19 PM,6:57,,,Hayes Shooting Block Foul (P1.T4),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,36,3,11,1,7:20 PM,6:57,A. Thomas Free Throw 1 of 2 (1 PTS),,,9 - 4,-5,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,38,3,12,1,7:20 PM,6:57,MISS A. Thomas Free Throw 2 of 2,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,40,4,0,1,7:20 PM,6:57,,,Lyttle REBOUND (Off:0 Def:1),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,41,2,1,1,7:20 PM,6:46,,,MISS Holmes 28' 3PT Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,42,4,0,1,7:20 PM,6:45,J. Jones REBOUND (Off:1 Def:1),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,43,2,1,1,7:20 PM,6:38,MISS J. Jones 24' 3PT Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,44,4,0,1,7:20 PM,6:37,,,Holmes REBOUND (Off:0 Def:2),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,45,2,1,1,7:20 PM,6:30,,,MISS Clarendon 18' Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,46,4,0,1,7:20 PM,6:29,J. Jones REBOUND (Off:1 Def:2),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,47,1,79,1,7:21 PM,6:20,J. Thomas 16' Pullup Jump Shot (5 PTS),,,9 - 6,-3,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,48,1,58,1,7:21 PM,6:08,,,Williams 5' Turnaround Hook Shot (4 PTS),11 - 6,-5,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,49,1,42,1,7:21 PM,5:50,Tuck 3' Driving Layup (2 PTS),,,11 - 8,-3,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,50,2,1,1,7:21 PM,5:28,,,MISS Clarendon 24' 3PT Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,51,4,0,1,7:21 PM,5:27,,,Hayes REBOUND (Off:1 Def:1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,52,2,1,1,7:22 PM,5:23,,,MISS Hayes 13' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,53,4,0,1,7:22 PM,5:22,J. Jones REBOUND (Off:1 Def:3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,54,6,2,1,7:22 PM,5:17,,,Hayes S.FOUL (P2.PN),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,55,3,11,1,7:22 PM,5:17,Bentley Free Throw 1 of 2 (1 PTS),,,11 - 9,-2,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,57,8,0,1,7:22 PM,5:17,,,SUB: Dantas FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,58,3,12,1,7:22 PM,5:17,Bentley Free Throw 2 of 2 (2 PTS),,,11 - 10,-1,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,60,1,1,1,7:23 PM,4:58,,,Dantas 16' Jump Shot (2 PTS) (Holmes 1 AST),13 - 10,-3,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,61,2,42,1,7:23 PM,4:37,MISS J. Thomas 1' Driving Layup,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,62,4,0,1,7:23 PM,4:36,,,Williams REBOUND (Off:0 Def:2),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,63,6,2,1,7:23 PM,4:32,J. Jones S.FOUL (P1.T3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,64,9,4,1,7:24 PM,4:32,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,67,7,1,1,7:26 PM,4:32,SUN Violation: Delay of game Violation,,,,,2.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700003,69,3,11,1,7:26 PM,4:32,,,Clarendon Free Throw 1 of 2 (3 PTS),14 - 10,-4,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,71,3,12,1,7:27 PM,4:32,,,Clarendon Free Throw 2 of 2 (4 PTS),15 - 10,-5,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,73,2,1,1,7:27 PM,4:07,MISS Tuck 3' Jump Shot,,Williams BLOCK (1 BLK),,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1021700003,74,4,0,1,7:27 PM,4:06,,,Williams REBOUND (Off:0 Def:3),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,75,1,5,1,7:27 PM,4:04,,,Holmes 3' Layup (2 PTS),17 - 10,-7,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,76,6,2,1,7:27 PM,4:04,Tuck S.FOUL (P2.T4),,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,77,8,0,1,7:27 PM,4:04,,,SUB: Kiesel FOR Clarendon,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,78,3,10,1,7:28 PM,4:04,,,Holmes Free Throw 1 of 1 (3 PTS),18 - 10,-8,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,80,2,79,1,7:28 PM,3:49,MISS J. Thomas 11' Pullup Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,81,4,0,1,7:28 PM,3:49,,,Williams REBOUND (Off:0 Def:4),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,82,2,1,1,7:28 PM,3:42,,,MISS Holmes 24' 3PT Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,83,4,0,1,7:28 PM,3:41,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1021700003,84,8,0,1,7:28 PM,3:41,SUB: Kizer FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,85,1,1,1,7:28 PM,3:28,A. Thomas 15' Jump Shot (3 PTS) (Tuck 1 AST),,,18 - 12,-6,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,86,6,1,1,7:29 PM,3:22,A. Thomas P.FOUL (P1.PN),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,87,3,11,1,7:29 PM,3:22,,,Kiesel Free Throw 1 of 2 (1 PTS),19 - 12,-7,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,89,8,0,1,7:29 PM,3:22,SUB: Williams FOR Bentley,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,90,8,0,1,7:29 PM,3:22,,,SUB: Sykes FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,91,3,12,1,7:29 PM,3:22,,,Kiesel Free Throw 2 of 2 (2 PTS),20 - 12,-8,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,93,6,2,1,7:30 PM,3:04,,,Williams S.FOUL (P1.PN),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,94,3,11,1,7:30 PM,3:04,Tuck Free Throw 1 of 2 (3 PTS),,,20 - 13,-7,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,96,3,12,1,7:30 PM,3:04,Tuck Free Throw 2 of 2 (4 PTS),,,20 - 14,-6,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,98,6,2,1,7:31 PM,2:53,Williams S.FOUL (P1.PN),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,99,3,11,1,7:31 PM,2:53,,,Holmes Free Throw 1 of 2 (4 PTS),21 - 14,-7,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,101,8,0,1,7:31 PM,2:53,,,SUB: Lyttle FOR Williams,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,102,3,12,1,7:31 PM,2:53,,,Holmes Free Throw 2 of 2 (5 PTS),22 - 14,-8,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,104,5,1,1,7:32 PM,2:40,J. Thomas Bad Pass Turnover (P2.T3),,Kiesel STEAL (1 STL),,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,105,2,1,1,7:32 PM,2:26,,,MISS Dantas 5' Jump Shot,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,106,4,0,1,7:32 PM,2:25,Kizer REBOUND (Off:0 Def:1),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,107,6,2,1,7:32 PM,2:19,,,Holmes S.FOUL (P2.PN),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,108,3,11,1,7:32 PM,2:19,A. Thomas Free Throw 1 of 2 (4 PTS),,,22 - 15,-7,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,110,3,12,1,7:32 PM,2:19,A. Thomas Free Throw 2 of 2 (5 PTS),,,22 - 16,-6,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,112,1,1,1,7:33 PM,2:07,,,Lyttle 3PT Jump Shot (3 PTS) (Kiesel 1 AST),25 - 16,-9,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,113,1,5,1,7:33 PM,1:51,Kizer 4' Layup (2 PTS) (Williams 1 AST),,,25 - 18,-7,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,114,1,3,1,7:33 PM,1:31,,,Dantas 3' Hook Shot (4 PTS) (Kiesel 2 AST),27 - 18,-9,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,115,2,5,1,7:34 PM,1:16,MISS Tuck 3' Layup,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,116,4,0,1,7:34 PM,1:16,,,Lyttle REBOUND (Off:0 Def:2),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,117,1,5,1,7:34 PM,1:06,,,Sykes 2' Layup (2 PTS) (Dantas 1 AST),29 - 18,-11,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,118,1,1,1,7:34 PM,0:52,Tuck 25' 3PT Jump Shot (7 PTS) (J. Thomas 1 AST),,,29 - 21,-8,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,119,2,63,1,7:34 PM,0:45,,,MISS Sykes 12' Fadeaway Jumper,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,120,4,0,1,7:34 PM,0:45,A. Thomas REBOUND (Off:0 Def:2),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,121,1,1,1,7:34 PM,0:39,Williams 25' 3PT Jump Shot (3 PTS) (A. Thomas 2 AST),,,29 - 24,-5,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,122,5,11,1,7:35 PM,0:15,,,Dream Turnover: Shot Clock (T#2),,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700003,123,8,0,1,7:35 PM,0:15,SUB: J. Jones FOR Tuck,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,124,6,2,1,7:36 PM,0:03,,,Lyttle S.FOUL (P2.PN),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,125,3,11,1,7:36 PM,0:03,J. Thomas Free Throw 1 of 2 (6 PTS),,,29 - 25,-4,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,127,8,0,1,7:36 PM,0:03,SUB: Tuck FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,128,3,12,1,7:36 PM,0:03,J. Thomas Free Throw 2 of 2 (7 PTS),,,29 - 26,-3,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,130,2,1,1,7:37 PM,0:00,,,MISS Lyttle 46' 3PT Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,132,4,0,1,7:37 PM,0:00,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,131,13,0,1,7:37 PM,0:00,,End of 1st Period (7:37 PM EST),,29 - 26,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,136,12,0,2,7:39 PM,10:00,,Start of 2nd Period (7:39 PM EST),,29 - 26,-3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,137,2,1,2,7:39 PM,9:39,,,MISS Sykes 24' 3PT Jump Shot,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,138,4,0,2,7:39 PM,9:38,Kizer REBOUND (Off:0 Def:2),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,139,2,1,2,7:40 PM,9:22,MISS Tuck 26' 3PT Jump Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,140,4,0,2,7:40 PM,9:21,,,Kiesel REBOUND (Off:0 Def:1),,,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,141,6,1,2,7:40 PM,9:21,A. Thomas P.FOUL (P2.T1),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,142,8,0,2,7:40 PM,9:21,SUB: Stricklen FOR A. Thomas,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,143,8,0,2,7:40 PM,9:21,,,SUB: Clarendon FOR Sykes,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,145,1,79,2,7:40 PM,8:58,,,Holmes 16' Pullup Jump Shot (7 PTS) (Kiesel 3 AST),31 - 26,-5,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,146,1,78,2,7:41 PM,8:41,Williams 9' Floating Jump Shot (5 PTS) (J. Thomas 2 AST),,,31 - 28,-3,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,147,6,2,2,7:41 PM,8:19,Kizer S.FOUL (P1.T2),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,148,3,11,2,7:41 PM,8:19,,,Dantas Free Throw 1 of 2 (5 PTS),32 - 28,-4,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,150,8,0,2,7:42 PM,8:19,,,SUB: Hayes FOR Kiesel,,,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,151,3,12,2,7:42 PM,8:19,,,Dantas Free Throw 2 of 2 (6 PTS),33 - 28,-5,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,153,2,3,2,7:42 PM,8:02,MISS Kizer 5' Hook Shot,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,154,4,0,2,7:42 PM,7:59,,,Dantas REBOUND (Off:0 Def:1),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,155,1,1,2,7:42 PM,7:44,,,Hayes 24' 3PT Jump Shot (8 PTS),36 - 28,-8,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,156,5,45,2,7:43 PM,7:35,Kizer Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,157,9,1,2,7:43 PM,7:35,SUN Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,162,2,1,2,7:45 PM,7:18,Kizer BLOCK (1 BLK),,MISS Hayes 7' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,1
+1021700003,163,4,0,2,7:46 PM,7:18,Kizer REBOUND (Off:0 Def:3),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,166,5,1,2,7:46 PM,7:17,Kizer Bad Pass Turnover (P2.T5),,Lyttle STEAL (1 STL),,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,167,7,5,2,7:46 PM,7:16,Tuck Violation:Kicked Ball,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,168,8,0,2,7:46 PM,7:16,SUB: J. Jones FOR Kizer,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,172,2,45,2,7:46 PM,7:15,,,MISS Holmes 4' Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,179,4,0,2,7:46 PM,7:13,J. Jones REBOUND (Off:1 Def:4),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,182,6,1,2,7:46 PM,7:10,,,Holmes P.FOUL (P3.T1),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,169,1,41,2,7:47 PM,6:45,Williams 2' Running Layup (7 PTS),,,36 - 30,-6,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,170,6,3,2,7:47 PM,6:35,,,Clarendon L.B.FOUL (P2.T2),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,171,5,5,2,7:47 PM,6:35,,,Clarendon Foul Turnover (P2.T3),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021700003,173,2,1,2,7:47 PM,6:27,MISS J. Thomas 11' Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,174,4,0,2,7:47 PM,6:27,,,Dantas REBOUND (Off:0 Def:2),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,175,6,1,2,7:48 PM,6:27,J. Thomas P.FOUL (P1.T3),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,176,2,5,2,7:48 PM,6:14,,,MISS Lyttle 1' Layup,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,177,4,0,2,7:48 PM,6:13,J. Jones REBOUND (Off:1 Def:5),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,178,2,1,2,7:48 PM,6:00,MISS Tuck 8' Jump Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,180,4,0,2,7:48 PM,6:00,,,Hayes REBOUND (Off:1 Def:2),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,181,6,1,2,7:48 PM,5:59,Williams P.FOUL (P2.T4),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,190,8,0,2,7:48 PM,5:59,,,SUB: Williams FOR Holmes,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,183,2,1,2,7:49 PM,5:48,,,MISS Hayes 26' 3PT Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,184,4,0,2,7:49 PM,5:47,J. Thomas REBOUND (Off:0 Def:1),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,185,5,1,2,7:49 PM,5:44,J. Thomas Bad Pass Turnover (P3.T6),,Clarendon STEAL (1 STL),,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,186,1,5,2,7:49 PM,5:38,,,Clarendon 3' Layup (6 PTS),38 - 30,-8,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,187,2,1,2,7:49 PM,5:23,MISS J. Thomas 24' 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,188,4,0,2,7:49 PM,5:22,,,Lyttle REBOUND (Off:0 Def:3),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,191,2,5,2,7:50 PM,4:58,,,MISS Williams 3' Layup,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,192,4,0,2,7:50 PM,4:55,J. Jones REBOUND (Off:1 Def:6),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,193,1,1,2,7:50 PM,4:51,Williams 9' Jump Shot (9 PTS),,,38 - 32,-6,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,194,1,5,2,7:50 PM,4:45,,,Williams 2' Layup (6 PTS) (Clarendon 1 AST),40 - 32,-8,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,195,2,1,2,7:50 PM,4:20,MISS Stricklen 24' 3PT Jump Shot,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,196,4,0,2,7:50 PM,4:19,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,197,8,0,2,7:50 PM,4:19,SUB: A. Thomas FOR J. Thomas,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,198,8,0,2,7:50 PM,4:19,SUB: Bentley FOR Stricklen,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,199,9,1,2,7:50 PM,4:19,,,Dream Timeout: Regular (Reg.1 Short 0),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,204,2,1,2,7:53 PM,4:05,,,MISS Hayes 4' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,205,4,0,2,7:53 PM,4:05,A. Thomas REBOUND (Off:0 Def:3),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,207,1,1,2,7:53 PM,3:54,Williams 24' 3PT Jump Shot (12 PTS) (A. Thomas 3 AST),,,40 - 35,-5,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,209,2,1,2,7:54 PM,3:26,,,MISS Lyttle 24' 3PT Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,210,4,0,2,7:54 PM,3:24,Williams REBOUND (Off:0 Def:1),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,211,1,5,2,7:54 PM,3:19,Tuck 1' Layup (9 PTS),,,40 - 37,-3,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,212,2,1,2,7:54 PM,3:14,,,MISS Dantas 6' Jump Shot,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,213,4,0,2,7:54 PM,3:13,J. Jones REBOUND (Off:1 Def:7),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,214,5,1,2,7:54 PM,3:07,A. Thomas Bad Pass Turnover (P2.T7),,Clarendon STEAL (2 STL),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,215,6,1,2,7:54 PM,3:05,Bentley P.FOUL (P2.PN),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,217,3,11,2,7:55 PM,3:05,,,Clarendon Free Throw 1 of 2 (7 PTS),41 - 37,-4,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,220,8,0,2,7:55 PM,3:05,,,SUB: Simmons FOR Dantas,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,221,3,12,2,7:55 PM,3:05,,,Clarendon Free Throw 2 of 2 (8 PTS),42 - 37,-5,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,223,5,4,2,7:55 PM,2:53,J. Jones Traveling Turnover (P1.T8),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700003,224,6,1,2,7:56 PM,2:34,Williams P.FOUL (P3.PN),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,225,9,2,2,7:56 PM,2:34,,,Dream Timeout: Short (Reg.1 Short 1),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,227,3,11,2,7:57 PM,2:34,,,Hayes Free Throw 1 of 2 (9 PTS),43 - 37,-6,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,229,3,12,2,7:58 PM,2:34,,,Hayes Free Throw 2 of 2 (10 PTS),44 - 37,-7,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,231,2,1,2,7:58 PM,2:22,MISS Bentley 24' 3PT Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,232,4,0,2,7:58 PM,2:21,,,Hayes REBOUND (Off:1 Def:3),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,233,5,13,2,7:58 PM,2:09,,,Clarendon Backcourt Turnover (P3.T4),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021700003,236,8,0,2,7:58 PM,2:09,SUB: J. Thomas FOR Williams,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,235,1,1,2,7:59 PM,1:57,Tuck 24' 3PT Jump Shot (12 PTS),,,44 - 40,-4,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,237,6,2,2,7:59 PM,1:47,J. Jones S.FOUL (P2.PN),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,238,3,11,2,7:59 PM,1:47,,,Hayes Free Throw 1 of 2 (11 PTS),45 - 40,-5,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,240,8,0,2,7:59 PM,1:47,SUB: Kizer FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,241,3,12,2,7:59 PM,1:47,,,Hayes Free Throw 2 of 2 (12 PTS),46 - 40,-6,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,246,5,40,2,8:00 PM,1:33,A. Thomas Out of Bounds Lost Ball Turnover (P3.T9),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,249,2,5,2,8:01 PM,1:12,Kizer BLOCK (2 BLK),,MISS Clarendon 3' Layup,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,1
+1021700003,250,4,0,2,8:01 PM,1:12,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,252,2,1,2,8:01 PM,1:06,,,MISS Simmons 26' 3PT Jump Shot,,,5.0,203848,Meighan Simmons,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,253,4,0,2,8:01 PM,1:06,Kizer REBOUND (Off:0 Def:4),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,254,2,1,2,8:01 PM,0:53,MISS A. Thomas 7' Jump Shot,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,255,4,0,2,8:01 PM,0:53,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,256,5,1,2,8:02 PM,0:51,J. Thomas Bad Pass Turnover (P4.T10),,Lyttle STEAL (2 STL),,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,258,6,6,2,8:03 PM,0:47,Bentley AWAY.FROM.PLAY.FOUL (P3.PN),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,259,3,10,2,8:03 PM,0:47,,,Hayes Free Throw 1 of 1 (13 PTS),47 - 40,-7,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,261,8,0,2,8:03 PM,0:47,SUB: Banham FOR Bentley,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,263,1,1,2,8:03 PM,0:46,,,Clarendon 3' Jump Shot (10 PTS) (Hayes 1 AST),49 - 40,-9,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,264,1,79,2,8:03 PM,0:25,Tuck 17' Pullup Jump Shot (14 PTS),,,49 - 42,-7,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,265,6,2,2,8:04 PM,0:05,Kizer S.FOUL (P2.PN),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,267,3,11,2,8:04 PM,0:05,,,Clarendon Free Throw 1 of 2 (11 PTS),50 - 42,-8,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,269,3,12,2,8:05 PM,0:05,,,Clarendon Free Throw 2 of 2 (12 PTS),51 - 42,-9,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,271,2,1,2,8:05 PM,0:00,MISS J. Thomas 33' 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,274,4,0,2,8:05 PM,0:00,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,273,13,0,2,8:05 PM,0:00,,End of 2nd Period (8:05 PM EST),,51 - 42,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,280,12,0,3,8:20 PM,10:00,,Start of 3rd Period (8:20 PM EST),,51 - 42,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,281,2,1,3,8:20 PM,9:41,,,MISS Clarendon 25' 3PT Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,282,4,0,3,8:21 PM,9:41,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,283,6,3,3,8:21 PM,9:41,,,Hayes L.B.FOUL (P3.T1),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,285,2,5,3,8:21 PM,9:26,MISS Tuck 2' Layup,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,286,4,0,3,8:21 PM,9:25,,,Hayes REBOUND (Off:1 Def:4),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,287,2,1,3,8:22 PM,9:03,J. Jones BLOCK (1 BLK),,MISS Hayes 3' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700003,288,4,0,3,8:22 PM,9:02,J. Jones REBOUND (Off:1 Def:8),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,289,2,1,3,8:22 PM,8:54,MISS Bentley 13' Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,290,4,0,3,8:22 PM,8:53,,,Clarendon REBOUND (Off:0 Def:1),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,291,2,1,3,8:22 PM,8:45,J. Jones BLOCK (2 BLK),,MISS Williams 4' Jump Shot,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700003,292,4,0,3,8:22 PM,8:43,A. Thomas REBOUND (Off:0 Def:4),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,293,5,1,3,8:22 PM,8:39,A. Thomas Bad Pass Turnover (P4.T11),,Lyttle STEAL (3 STL),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,294,1,3,3,8:22 PM,8:30,,,Williams 2' Hook Shot (8 PTS),53 - 42,-11,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,295,1,1,3,8:23 PM,8:11,J. Jones 5' Jump Shot (2 PTS) (Bentley 1 AST),,,53 - 44,-9,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,296,2,1,3,8:23 PM,7:43,A. Thomas BLOCK (1 BLK),,MISS Holmes 5' Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700003,297,4,0,3,8:23 PM,7:42,J. Thomas REBOUND (Off:0 Def:2),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,298,18,0,3,8:23 PM,7:42,,Support Ruling,,,,,297,Alonzo Mourning,,,,,0,0,,,,,,1,0,,,,,,0
+1021700003,300,6,1,3,8:28 PM,7:31,,,Lyttle P.FOUL (P3.T2),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,301,2,1,3,8:28 PM,7:20,MISS J. Thomas 24' 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,302,4,0,3,8:28 PM,7:19,J. Jones REBOUND (Off:2 Def:8),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,303,1,72,3,8:28 PM,7:17,J. Jones 2' Putback Layup (4 PTS),,,53 - 46,-7,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,304,5,45,3,8:28 PM,7:10,,,Hayes Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,306,1,5,3,8:29 PM,6:54,Tuck 1' Layup (16 PTS) (J. Thomas 3 AST),,,53 - 48,-5,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,307,1,79,3,8:29 PM,6:40,,,Holmes 19' Pullup Jump Shot (9 PTS),55 - 48,-7,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,308,2,1,3,8:29 PM,6:26,MISS A. Thomas 4' Jump Shot,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,309,4,0,3,8:29 PM,6:24,,,Lyttle REBOUND (Off:0 Def:4),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,310,2,1,3,8:29 PM,6:16,,,MISS Holmes 24' 3PT Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,311,4,0,3,8:29 PM,6:16,Bentley REBOUND (Off:0 Def:1),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,312,2,1,3,8:30 PM,6:08,MISS A. Thomas 16' Jump Shot,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,313,4,0,3,8:30 PM,6:08,,,Lyttle REBOUND (Off:0 Def:5),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,314,5,2,3,8:30 PM,6:03,J. Jones STEAL (1 STL),,Clarendon Lost Ball Turnover (P4.T6),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,315,5,1,3,8:30 PM,5:55,Tuck Bad Pass Turnover (P1.T12),,Lyttle STEAL (4 STL),,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,316,2,1,3,8:30 PM,5:48,,,MISS Hayes 24' 3PT Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,317,4,0,3,8:30 PM,5:47,J. Jones REBOUND (Off:2 Def:9),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,318,1,5,3,8:30 PM,5:41,A. Thomas 2' Layup (7 PTS),,,55 - 50,-5,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,319,6,2,3,8:30 PM,5:41,,,Lyttle S.FOUL (P4.T3),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,320,8,0,3,8:30 PM,5:41,,,SUB: Sykes FOR Holmes,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,323,7,1,3,8:30 PM,5:41,,,Dream Violation: Delay of game Violation,,,3.0,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700003,321,8,0,3,8:30 PM,5:41,,,SUB: Dantas FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,322,8,0,3,8:30 PM,5:41,SUB: Williams FOR Bentley,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,324,3,10,3,8:31 PM,5:41,MISS A. Thomas Free Throw 1 of 1,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,326,4,0,3,8:31 PM,5:41,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,327,2,1,3,8:31 PM,5:21,,,MISS Clarendon 14' Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,328,4,0,3,8:31 PM,5:21,Williams REBOUND (Off:0 Def:2),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,329,1,79,3,8:31 PM,5:13,Williams 12' Pullup Jump Shot (14 PTS),,,55 - 52,-3,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,331,8,0,3,8:32 PM,5:06,,,SUB: Kiesel FOR Clarendon,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,332,2,1,3,8:32 PM,4:58,,,MISS Hayes 25' 3PT Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,333,4,0,3,8:32 PM,4:57,Tuck REBOUND (Off:0 Def:1),,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,334,6,29,3,8:32 PM,4:50,,,Dantas Shooting Block Foul (P1.T4),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,335,9,4,3,8:33 PM,4:50,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,338,3,11,3,8:35 PM,4:50,Tuck Free Throw 1 of 2 (17 PTS),,,55 - 53,-2,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,340,3,12,3,8:35 PM,4:50,Tuck Free Throw 2 of 2 (18 PTS),,,55 - 54,-1,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,343,2,1,3,8:36 PM,4:25,,,MISS Hayes 9' Jump Shot,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,344,4,0,3,8:36 PM,4:24,J. Jones REBOUND (Off:2 Def:10),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,345,1,42,3,8:36 PM,4:14,J. Thomas 2' Driving Layup (9 PTS),,,55 - 56,1,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,346,2,1,3,8:36 PM,3:49,,,MISS Kiesel 24' 3PT Jump Shot,,,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,347,4,0,3,8:36 PM,3:47,,,Williams REBOUND (Off:1 Def:4),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,348,5,45,3,8:37 PM,3:46,,,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,349,1,80,3,8:37 PM,3:28,Williams 19' Step Back Jump Shot (16 PTS),,,55 - 58,3,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,350,1,42,3,8:37 PM,3:06,,,Dantas 4' Driving Layup (8 PTS),57 - 58,1,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,351,2,1,3,8:38 PM,2:51,MISS Tuck 24' 3PT Jump Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,352,4,0,3,8:38 PM,2:50,J. Jones REBOUND (Off:3 Def:10),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,353,2,5,3,8:38 PM,2:37,MISS J. Jones 1' Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,354,4,0,3,8:38 PM,2:36,,,Hayes REBOUND (Off:1 Def:5),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,355,6,1,3,8:38 PM,2:29,J. Thomas P.FOUL (P2.T1),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,356,8,0,3,8:38 PM,2:29,,,SUB: Holmes FOR Hayes,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,357,8,0,3,8:38 PM,2:29,SUB: Kizer FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,358,1,47,3,8:39 PM,2:21,,,Dantas 14' Turnaround Jump Shot (10 PTS),59 - 58,-1,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,359,2,1,3,8:39 PM,2:09,MISS Kizer 5' Jump Shot,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,360,4,0,3,8:39 PM,2:08,Kizer REBOUND (Off:1 Def:4),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,361,5,2,3,8:39 PM,2:05,Kizer Lost Ball Turnover (P3.T13),,Dantas STEAL (1 STL),,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,362,1,101,3,8:39 PM,1:48,,,Dantas 6' Driving Floating Jump Shot (12 PTS),61 - 58,-3,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,363,2,1,3,8:40 PM,1:20,MISS Kizer 17' Jump Shot,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,364,4,0,3,8:40 PM,1:19,,,Dantas REBOUND (Off:0 Def:3),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,365,2,1,3,8:40 PM,1:01,,,MISS Kiesel 20' Jump Shot,,,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,366,4,0,3,8:40 PM,0:59,A. Thomas REBOUND (Off:0 Def:5),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,367,6,2,3,8:40 PM,0:55,,,Sykes S.FOUL (P1.PN),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,368,3,11,3,8:40 PM,0:55,MISS A. Thomas Free Throw 1 of 2,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,369,4,1,3,8:40 PM,0:55,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,370,3,12,3,8:41 PM,0:55,MISS A. Thomas Free Throw 2 of 2,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,372,4,0,3,8:41 PM,0:54,,,Dantas REBOUND (Off:0 Def:4),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,373,1,1,3,8:41 PM,0:39,,,Sykes 24' 3PT Jump Shot (5 PTS) (Dantas 2 AST),64 - 58,-6,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,374,9,2,3,8:41 PM,0:31,SUN Timeout: Short (Full 1 Short 1),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,376,2,44,3,8:43 PM,0:21,MISS Williams 3' Reverse Layup,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,377,4,0,3,8:43 PM,0:21,,,Holmes REBOUND (Off:0 Def:3),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,378,6,26,3,8:43 PM,0:18,,,Holmes Offensive Charge Foul (P4),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,379,5,5,3,8:43 PM,0:18,,,Holmes Foul Turnover (P1.T8),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1021700003,380,6,26,3,8:43 PM,0:04,J. Thomas Offensive Charge Foul (P3),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,381,5,5,3,8:43 PM,0:04,J. Thomas Foul Turnover (P5.T14),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700003,382,2,1,3,8:44 PM,0:00,J. Thomas BLOCK (1 BLK),,MISS Kiesel 11' Jump Shot,,,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700003,384,4,0,3,8:44 PM,0:00,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,383,13,0,3,8:44 PM,0:00,,End of 3rd Period (8:44 PM EST),,64 - 58,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,386,12,0,4,8:46 PM,10:00,,Start of 4th Period (8:46 PM EST),,64 - 58,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,387,2,1,4,8:46 PM,9:34,MISS Kizer 16' Jump Shot,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,388,4,0,4,8:46 PM,9:33,,,Sykes REBOUND (Off:0 Def:1),,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,389,2,1,4,8:47 PM,9:18,,,MISS Dantas 26' 3PT Jump Shot,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,390,4,0,4,8:47 PM,9:16,Williams REBOUND (Off:0 Def:3),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,391,2,5,4,8:47 PM,8:54,MISS J. Thomas 2' Layup,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,392,4,0,4,8:47 PM,8:53,Kizer REBOUND (Off:2 Def:4),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,393,1,47,4,8:47 PM,8:50,Kizer 5' Turnaround Jump Shot (4 PTS),,,64 - 60,-4,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,394,2,1,4,8:47 PM,8:34,,,MISS Dantas 24' 3PT Jump Shot,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,395,4,0,4,8:47 PM,8:32,Tuck REBOUND (Off:0 Def:2),,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,396,1,1,4,8:48 PM,8:20,J. Thomas 3PT Jump Shot (12 PTS) (Tuck 2 AST),,,64 - 63,-1,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,397,2,63,4,8:48 PM,8:00,,,MISS Dantas 7' Fadeaway Jumper,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,398,4,0,4,8:48 PM,7:59,Kizer REBOUND (Off:2 Def:5),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,399,1,1,4,8:48 PM,7:51,Tuck 24' 3PT Jump Shot (21 PTS),,,64 - 66,2,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,400,1,42,4,8:49 PM,7:24,,,Sykes 2' Driving Layup (7 PTS),66 - 66,TIE,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,401,6,29,4,8:49 PM,7:10,,,Dantas Shooting Block Foul (P2.T1),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,402,3,11,4,8:49 PM,7:10,MISS A. Thomas Free Throw 1 of 2,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,403,4,1,4,8:49 PM,7:10,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,404,8,0,4,8:49 PM,7:10,,,SUB: Williams FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,405,8,0,4,8:49 PM,7:10,,,SUB: Clarendon FOR Kiesel,,,5.0,204331,Brianna Kiesel,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,406,8,0,4,8:49 PM,7:10,,,SUB: Hayes FOR Sykes,,,5.0,1628279,Brittney Sykes,1611661330.0,Atlanta,Dream,ATL,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,407,8,0,4,8:50 PM,7:10,SUB: J. Jones FOR J. Thomas,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,408,8,0,4,8:50 PM,7:10,SUB: Bentley FOR Tuck,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,413,3,12,4,8:50 PM,7:10,MISS A. Thomas Free Throw 2 of 2,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,420,4,0,4,8:50 PM,7:10,,,Williams REBOUND (Off:1 Def:5),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,434,1,45,4,8:50 PM,7:03,,,Holmes 19' Jump Shot (11 PTS) (Dantas 3 AST),68 - 66,-2,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,464,2,45,4,8:50 PM,6:48,MISS Williams 19' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,465,4,0,4,8:50 PM,6:46,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,409,6,4,4,8:50 PM,6:46,J. Jones OFF.Foul (P3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,410,5,5,4,8:50 PM,6:46,J. Jones Foul Turnover (P2.T15),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,418,8,0,4,8:50 PM,6:46,SUB: Stricklen FOR A. Thomas,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,411,2,1,4,8:51 PM,6:34,,,MISS Clarendon 14' Jump Shot,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,412,4,0,4,8:51 PM,6:33,,,Clarendon REBOUND (Off:1 Def:1),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,414,2,5,4,8:51 PM,6:28,,,MISS Clarendon 3' Layup,,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,415,4,0,4,8:51 PM,6:27,J. Jones REBOUND (Off:3 Def:11),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,416,2,5,4,8:51 PM,6:19,MISS Bentley 2' Layup,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,417,4,0,4,8:51 PM,6:18,,,Dantas REBOUND (Off:0 Def:5),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,419,6,1,4,8:51 PM,6:18,Bentley P.FOUL (P4.T1),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,421,1,1,4,8:51 PM,6:07,,,Holmes 19' Jump Shot (13 PTS) (Clarendon 2 AST),70 - 66,-4,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,422,6,1,4,8:52 PM,5:54,,,Dantas P.FOUL (P3.T2),,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,423,9,1,4,8:52 PM,5:54,SUN Timeout: Regular (Full 2 Short 1),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,426,2,1,4,8:55 PM,5:40,MISS Stricklen 3PT Jump Shot,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,427,4,0,4,8:55 PM,5:39,,,Williams REBOUND (Off:1 Def:6),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,428,2,1,4,8:55 PM,5:22,,,MISS Williams 3' Jump Shot,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,429,4,0,4,8:55 PM,5:22,J. Jones REBOUND (Off:3 Def:12),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,430,2,1,4,8:55 PM,5:08,MISS J. Jones 20' Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,432,4,0,4,8:55 PM,5:08,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,431,6,3,4,8:55 PM,5:08,,,Clarendon L.B.FOUL (P3.T3),,,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,433,8,0,4,8:55 PM,5:08,SUB: Tuck FOR Kizer,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,435,2,1,4,8:56 PM,5:02,MISS Williams 14' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,436,4,0,4,8:56 PM,5:02,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,437,8,0,4,8:56 PM,5:02,,,SUB: Lyttle FOR Dantas,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,438,1,1,4,8:56 PM,4:59,Williams 14' Jump Shot (18 PTS) (Bentley 2 AST),,,70 - 68,-2,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,439,5,1,4,8:57 PM,4:39,J. Jones STEAL (2 STL),,Lyttle Bad Pass Turnover (P1.T9),,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700003,440,2,5,4,8:57 PM,4:31,MISS J. Jones 2' Layup,,Lyttle BLOCK (1 BLK),,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1
+1021700003,441,4,0,4,8:57 PM,4:31,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,442,2,1,4,8:57 PM,4:27,MISS Williams 14' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,443,4,0,4,8:57 PM,4:27,J. Jones REBOUND (Off:4 Def:12),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,444,6,2,4,8:57 PM,4:27,,,Williams S.FOUL (P2.T4),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700003,446,3,11,4,8:58 PM,4:27,J. Jones Free Throw 1 of 2 (5 PTS),,,70 - 69,-1,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,448,3,12,4,8:58 PM,4:27,J. Jones Free Throw 2 of 2 (6 PTS),,,70 - 70,TIE,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700003,450,1,1,4,8:58 PM,4:04,,,Holmes 20' Jump Shot (15 PTS),72 - 70,-2,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,451,2,1,4,8:59 PM,3:53,MISS Tuck 24' 3PT Jump Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,452,4,0,4,8:59 PM,3:53,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,453,2,1,4,8:59 PM,3:40,,,MISS Lyttle 3PT Jump Shot,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,454,4,0,4,8:59 PM,3:40,Stricklen REBOUND (Off:0 Def:1),,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,455,5,40,4,8:59 PM,3:31,Williams Out of Bounds Lost Ball Turnover (P1.T16),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,456,2,1,4,9:00 PM,3:14,,,MISS Williams 9' Jump Shot,,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,457,4,0,4,9:00 PM,3:13,J. Jones REBOUND (Off:4 Def:13),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,458,2,1,4,9:00 PM,3:01,MISS Tuck 5' Jump Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,459,4,0,4,9:00 PM,3:01,J. Jones REBOUND (Off:5 Def:13),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,460,1,72,4,9:00 PM,2:59,J. Jones 3' Putback Layup (8 PTS),,,72 - 72,TIE,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,461,6,2,4,9:00 PM,2:34,Williams S.FOUL (P4.T2),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,462,9,1,4,9:01 PM,2:34,,,Dream Timeout: Regular (Reg.2 Short 1),,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,463,18,0,4,9:02 PM,2:34,,Support Ruling,,,,,450,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700003,466,8,0,4,9:03 PM,2:34,SUB: J. Thomas FOR Stricklen,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700003,467,8,0,4,9:03 PM,2:34,,,SUB: Dantas FOR Lyttle,,,5.0,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021700003,468,3,11,4,9:03 PM,2:34,,,Hayes Free Throw 1 of 2 (14 PTS),73 - 72,-1,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,470,3,12,4,9:03 PM,2:34,,,Hayes Free Throw 2 of 2 (15 PTS),74 - 72,-2,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021700003,472,2,47,4,9:04 PM,2:17,MISS Tuck 4' Turnaround Jump Shot,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,473,4,0,4,9:04 PM,2:16,,,Williams REBOUND (Off:1 Def:7),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,475,2,1,4,9:04 PM,2:01,,,MISS Holmes 3PT Jump Shot,,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,476,4,0,4,9:04 PM,2:00,Williams REBOUND (Off:0 Def:4),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,477,2,1,4,9:04 PM,1:55,MISS Bentley 24' 3PT Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,479,4,0,4,9:04 PM,1:54,J. Jones REBOUND (Off:6 Def:13),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,480,2,72,4,9:04 PM,1:49,MISS J. Jones 3' Putback Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,481,4,0,4,9:04 PM,1:49,,,Williams REBOUND (Off:1 Def:8),,,5.0,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,482,1,79,4,9:05 PM,1:38,,,Clarendon 14' Pullup Jump Shot (14 PTS),76 - 72,-4,5.0,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,484,9,1,4,9:05 PM,1:38,SUN Timeout: Regular (Full 3 Short 1),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,490,2,1,4,9:07 PM,1:23,MISS Williams 11' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,491,4,0,4,9:07 PM,1:22,,,Holmes REBOUND (Off:0 Def:4),,,5.0,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,493,10,0,4,9:07 PM,1:04,Jump Ball Tuck vs. Holmes: Tip to Clarendon,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1
+1021700003,494,5,2,4,9:07 PM,1:04,Tuck Lost Ball Turnover (P2.T17),,Holmes STEAL (1 STL),,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,1627678,Bria Holmes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,495,6,1,4,9:08 PM,1:01,Bentley P.FOUL (P5.T3),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203406,Layshia Clarendon,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,496,6,29,4,9:08 PM,0:55,J. Thomas Shooting Block Foul (P4.PN),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,497,18,0,4,9:08 PM,0:55,,Support Ruling,,,,,496,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700003,498,6,11,4,9:12 PM,0:55,,,Hayes T.FOUL (P3.T4),,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021700003,499,3,16,4,9:12 PM,0:55,MISS J. Thomas Free Throw Technical,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,500,4,1,4,9:12 PM,0:55,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,501,3,11,4,9:12 PM,0:55,,,MISS Hayes Free Throw 1 of 2,,,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,502,4,1,4,9:12 PM,0:55,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,503,3,12,4,9:13 PM,0:55,,,Hayes Free Throw 2 of 2 (16 PTS),77 - 72,-5,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,505,1,42,4,9:13 PM,0:46,J. Thomas 2' Driving Layup (14 PTS),,,77 - 74,-3,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,506,1,1,4,9:13 PM,0:24,,,Hayes 27' 3PT Jump Shot (19 PTS) (Williams 1 AST),80 - 74,-6,5.0,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1021700003,507,9,2,4,9:13 PM,0:24,SUN Timeout: Short (Full 3 Short 2),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,509,2,5,4,9:15 PM,0:15,MISS Tuck 3' Layup,,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,510,4,0,4,9:15 PM,0:14,Williams REBOUND (Off:1 Def:4),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,511,2,1,4,9:15 PM,0:11,MISS Bentley 24' 3PT Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,512,4,0,4,9:15 PM,0:10,,,Dream Rebound,,,3.0,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,513,6,28,4,9:15 PM,0:09,Tuck Personal Take Foul (P3.PN),,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,5,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1021700003,514,3,11,4,9:15 PM,0:09,,,Dantas Free Throw 1 of 2 (13 PTS),81 - 74,-7,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,516,3,12,4,9:16 PM,0:09,,,MISS Dantas Free Throw 2 of 2,,,5.0,203024,Damiris Dantas,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1021700003,518,4,0,4,9:16 PM,0:07,Tuck REBOUND (Off:0 Def:3),,,,,4.0,1627670,Morgan Tuck,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,519,2,1,4,9:16 PM,0:00,MISS Williams 24' 3PT Jump Shot,,Hayes BLOCK (1 BLK),,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203026,Tiffany Hayes,1611661330.0,Atlanta,Dream,ATL,1
+1021700003,520,4,0,4,9:16 PM,0:00,J. Jones REBOUND (Off:7 Def:13),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,521,2,5,4,9:16 PM,0:00,MISS J. Jones 3' Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700003,523,4,0,4,9:16 PM,0:00,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700003,522,13,0,4,9:16 PM,0:00,,End of 4th Period (9:16 PM EST),,81 - 74,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

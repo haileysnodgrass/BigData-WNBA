@@ -1,0 +1,412 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020600221,1,12,0,1,9:41 PM,10:00,,Start of 1st Period (9:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,2,10,0,1,9:41 PM,10:00,Jump Ball Vodichkova vs. Ohlde: Tip to Augustus,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0
+1020600221,4,1,5,1,9:41 PM,9:42,,,Ohlde  Layup (2 PTS) (Jacobs 1 AST),2 - 0,-2,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,5,1,1,1,9:42 PM,9:23,Miller  3PT Jump Shot (3 PTS) (Vodichkova 1 AST),,,2 - 3,1,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,6,2,66,1,9:42 PM,9:00,,,MISS Raymond 9' Jump Bank Shot,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,7,4,0,1,9:42 PM,8:59,Vodichkova REBOUND (Off:0 Def:1),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,9,2,1,1,9:42 PM,8:49,MISS Vodichkova  3PT Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,10,4,0,1,9:42 PM,8:48,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,11,2,1,1,9:43 PM,8:28,,,MISS Ohlde 10' Jump Shot,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,12,4,0,1,9:43 PM,8:26,,,Raymond REBOUND (Off:1 Def:0),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,13,1,66,1,9:43 PM,8:25,,,Raymond 8' Jump Bank Shot (2 PTS),4 - 3,-1,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,14,2,1,1,9:43 PM,8:15,MISS Pondexter 19' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,15,4,0,1,9:43 PM,8:14,,,Ohlde REBOUND (Off:0 Def:1),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,16,1,1,1,9:43 PM,8:03,,,Jacobs  3PT Jump Shot (3 PTS) (Mann 1 AST),7 - 3,-4,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,17,2,1,1,9:43 PM,7:44,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,18,4,0,1,9:43 PM,7:42,,,Raymond REBOUND (Off:1 Def:1),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,19,2,1,1,9:44 PM,7:31,,,MISS Augustus 11' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,20,4,0,1,9:44 PM,7:29,Miller REBOUND (Off:0 Def:1),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,21,6,2,1,9:44 PM,7:26,,,Mann S.FOUL (P1.T1),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,22,3,11,1,9:44 PM,7:26,Taurasi Free Throw 1 of 2 (1 PTS),,,7 - 4,-3,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,23,3,12,1,9:44 PM,7:26,Taurasi Free Throw 2 of 2 (2 PTS),,,7 - 5,-2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,24,2,5,1,9:45 PM,7:10,,,MISS Raymond  Layup,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,25,4,0,1,9:45 PM,7:10,Rasmussen REBOUND (Off:0 Def:1),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,26,5,40,1,9:45 PM,6:56,Vodichkova Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,27,9,2,1,9:45 PM,6:56,MERCURY Timeout: Short (Full 0 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,30,8,0,1,9:47 PM,6:56,SUB: Taylor FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,31,6,1,1,9:47 PM,6:44,Miller P.FOUL (P1.T1),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,32,1,42,1,9:48 PM,6:39,,,Augustus  Driving Layup (2 PTS),9 - 5,-4,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,33,1,1,1,9:48 PM,6:20,Miller  3PT Jump Shot (6 PTS) (Taylor 1 AST),,,9 - 8,-1,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,34,1,1,1,9:48 PM,6:01,,,Jacobs  3PT Jump Shot (6 PTS),12 - 8,-4,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,35,5,1,1,9:48 PM,5:48,Miller Bad Pass Turnover (P1.T2),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,36,1,47,1,9:49 PM,5:33,,,Augustus 11' Turnaround Jump Shot (4 PTS),14 - 8,-6,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,37,6,1,1,9:49 PM,5:24,,,Ohlde P.FOUL (P1.T2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,38,1,1,1,9:49 PM,5:21,Taurasi  3PT Jump Shot (5 PTS) (Pondexter 1 AST),,,14 - 11,-3,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,39,1,1,1,9:50 PM,5:13,,,Augustus 19' Jump Shot (6 PTS),16 - 11,-5,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,40,2,1,1,9:50 PM,4:57,MISS Pondexter 14' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,41,4,0,1,9:50 PM,4:56,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,42,9,4,1,9:50 PM,4:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,45,6,1,1,9:54 PM,4:39,Rasmussen P.FOUL (P1.T2),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,46,1,1,1,9:54 PM,4:28,,,Augustus  3PT Jump Shot (9 PTS) (Jacobs 2 AST),19 - 11,-8,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,47,1,5,1,9:55 PM,4:07,Rasmussen  Layup (2 PTS) (Pondexter 2 AST),,,19 - 13,-6,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,48,5,1,1,9:55 PM,3:52,Taurasi STEAL (1 STL),,Augustus Bad Pass Turnover (P1.T1),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,49,1,5,1,9:55 PM,3:47,Pondexter  Layup (2 PTS),,,19 - 15,-4,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,50,2,5,1,9:55 PM,3:32,,,MISS Ohlde  Layup,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,51,4,0,1,9:55 PM,3:31,Taurasi REBOUND (Off:0 Def:1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,52,1,5,1,9:55 PM,3:25,Rasmussen  Layup (4 PTS) (Taurasi 1 AST),,,19 - 17,-2,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,53,5,1,1,9:56 PM,3:05,,,Mann Bad Pass Turnover (P1.T2),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,54,8,0,1,9:56 PM,3:05,,,SUB: Abrosimova FOR Raymond,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,55,2,1,1,9:56 PM,2:52,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,56,4,0,1,9:56 PM,2:50,Taylor REBOUND (Off:1 Def:0),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,57,2,1,1,9:56 PM,2:41,MISS Taylor  3PT Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,58,4,0,1,9:56 PM,2:39,,,Ohlde REBOUND (Off:0 Def:2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,59,1,1,1,9:57 PM,2:33,,,Mann  3PT Jump Shot (3 PTS) (Jacobs 3 AST),22 - 17,-5,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,60,1,47,1,9:57 PM,2:24,Taurasi 9' Turnaround Jump Shot (7 PTS),,,22 - 19,-3,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,61,2,1,1,9:57 PM,2:07,,,MISS Mann 17' Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,62,4,0,1,9:57 PM,2:05,,,Ohlde REBOUND (Off:1 Def:2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,63,2,5,1,9:57 PM,2:04,,,MISS Mann  Layup,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,64,4,0,1,9:57 PM,2:03,,,Ohlde REBOUND (Off:2 Def:2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,65,6,2,1,9:57 PM,2:03,Rasmussen S.FOUL (P2.T3),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,66,3,11,1,9:57 PM,2:03,,,Ohlde Free Throw 1 of 2 (3 PTS),23 - 19,-4,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,67,3,12,1,9:58 PM,2:03,,,MISS Ohlde Free Throw 2 of 2,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,68,4,0,1,9:58 PM,2:02,Rasmussen REBOUND (Off:0 Def:2),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,69,2,5,1,9:58 PM,1:54,MISS Taylor  Layup,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,70,4,0,1,9:58 PM,1:53,,,Mann REBOUND (Off:0 Def:1),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,71,5,1,1,9:58 PM,1:46,,,Augustus Bad Pass Turnover (P2.T3),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,72,8,0,1,9:58 PM,1:46,SUB: Lacy FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,73,2,1,1,9:58 PM,1:34,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,74,4,0,1,9:58 PM,1:33,,,Ohlde REBOUND (Off:2 Def:3),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,75,5,1,1,9:59 PM,1:23,Taurasi STEAL (2 STL),,Ohlde Bad Pass Turnover (P1.T4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,76,2,5,1,9:59 PM,1:18,MISS Pondexter  Layup,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,77,4,0,1,9:59 PM,1:17,,,Mann REBOUND (Off:0 Def:2),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,78,2,46,1,9:59 PM,1:10,,,MISS Augustus 5' Running Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,79,4,0,1,9:59 PM,1:09,,,Jacobs REBOUND (Off:1 Def:0),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,80,1,1,1,9:59 PM,0:55,,,Augustus 9' Jump Shot (11 PTS) (Mann 2 AST),25 - 19,-6,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,81,1,5,1,9:59 PM,0:50,Taylor  Layup (2 PTS) (Taurasi 2 AST),,,25 - 21,-4,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,82,2,1,1,10:00 PM,0:36,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,83,4,0,1,10:00 PM,0:34,Pondexter REBOUND (Off:0 Def:1),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,84,1,5,1,10:00 PM,0:29,Pondexter  Layup (4 PTS),,,25 - 23,-2,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,85,2,1,1,10:00 PM,0:13,,,MISS Augustus 12' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,86,4,0,1,10:00 PM,0:11,Miller REBOUND (Off:0 Def:2),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,87,2,66,1,10:00 PM,0:05,MISS Pondexter 11' Jump Bank Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,88,4,0,1,10:00 PM,0:03,,,Jacobs REBOUND (Off:1 Def:1),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,89,2,1,1,10:00 PM,0:00,,,MISS Jacobs 43' 3PT Jump Shot,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,91,4,0,1,10:00 PM,0:00,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,90,13,0,1,10:00 PM,0:00,,End of 1st Period (10:00 PM EST),,25 - 23,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,93,12,0,2,10:04 PM,10:00,,Start of 2nd Period (10:04 PM EST),,25 - 23,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,94,1,5,2,10:04 PM,9:48,Pondexter  Layup (6 PTS) (Taylor 2 AST),,,25 - 25,TIE,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,95,2,1,2,10:05 PM,9:24,,,MISS Williams-Strong 9' Jump Shot,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,96,4,0,2,10:05 PM,9:23,Lacy REBOUND (Off:0 Def:1),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,97,6,1,2,10:05 PM,9:15,,,Williams-Strong P.FOUL (P1.T1),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,98,6,1,2,10:05 PM,9:05,,,Williams-Strong P.FOUL (P2.T2),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,99,1,42,2,10:06 PM,8:58,Taylor  Driving Layup (4 PTS),,,25 - 27,2,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,100,2,1,2,10:06 PM,8:38,,,MISS Duffy  3PT Jump Shot,,,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,101,4,0,2,10:06 PM,8:36,Miller REBOUND (Off:0 Def:3),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,102,6,1,2,10:06 PM,8:32,,,Abrosimova P.FOUL (P1.T3),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,103,8,0,2,10:06 PM,8:32,,,SUB: Hayden FOR Mann,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,104,6,2,2,10:07 PM,8:28,,,Abrosimova S.FOUL (P2.T4),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,105,3,11,2,10:07 PM,8:28,Taurasi Free Throw 1 of 2 (8 PTS),,,25 - 28,3,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,106,8,0,2,10:07 PM,8:28,SUB: Derevjanik FOR Miller,,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,107,3,12,2,10:07 PM,8:28,MISS Taurasi Free Throw 2 of 2,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,108,4,0,2,10:07 PM,8:28,Taylor REBOUND (Off:2 Def:0),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,109,1,5,2,10:07 PM,8:23,Taurasi  Layup (10 PTS) (Taylor 3 AST),,,25 - 30,5,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,110,2,1,2,10:08 PM,8:00,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,112,4,0,2,10:08 PM,7:56,,,Augustus REBOUND (Off:1 Def:0),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,111,1,5,2,10:08 PM,7:56,,,Augustus  Layup (13 PTS),27 - 30,3,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,113,1,1,2,10:08 PM,7:42,Taurasi 24' 3PT Jump Shot (13 PTS) (Derevjanik 1 AST),,,27 - 33,6,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,114,2,1,2,10:08 PM,7:29,,,MISS Williams-Strong 8' Jump Shot,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,115,4,0,2,10:08 PM,7:27,,,Hayden REBOUND (Off:1 Def:0),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,116,6,2,2,10:08 PM,7:27,Taylor S.FOUL (P1.T1),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,117,3,11,2,10:08 PM,7:27,,,MISS Hayden Free Throw 1 of 2,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,118,4,1,2,10:08 PM,7:27,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,119,8,0,2,10:09 PM,7:27,,,SUB: Raymond FOR Williams-Strong,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,120,3,12,2,10:09 PM,7:27,,,MISS Hayden Free Throw 2 of 2,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,121,4,0,2,10:09 PM,7:26,Taylor REBOUND (Off:2 Def:1),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,122,1,5,2,10:09 PM,7:19,Taylor  Layup (6 PTS) (Derevjanik 2 AST),,,27 - 35,8,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,123,9,1,2,10:09 PM,7:12,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,125,8,0,2,10:12 PM,7:12,SUB: Miller FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,127,2,1,2,10:13 PM,7:01,,,MISS Abrosimova 19' Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,128,4,0,2,10:13 PM,7:01,Taylor REBOUND (Off:2 Def:2),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,129,6,1,2,10:13 PM,7:01,,,Abrosimova P.FOUL (P3.PN),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,130,8,0,2,10:13 PM,7:01,,,SUB: Mann FOR Abrosimova,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,131,3,11,2,10:14 PM,7:01,Taylor Free Throw 1 of 2 (7 PTS),,,27 - 36,9,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,132,3,12,2,10:14 PM,7:01,Taylor Free Throw 2 of 2 (8 PTS),,,27 - 37,10,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,133,1,1,2,10:14 PM,6:47,,,Augustus 13' Jump Shot (15 PTS),29 - 37,8,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,134,1,5,2,10:15 PM,6:28,Lacy  Layup (2 PTS) (Taylor 4 AST),,,29 - 39,10,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,135,5,1,2,10:15 PM,6:11,Miller STEAL (1 STL),,Hayden Bad Pass Turnover (P1.T5),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,136,2,1,2,10:15 PM,6:02,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,137,4,0,2,10:15 PM,6:01,Lacy REBOUND (Off:1 Def:1),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,138,2,1,2,10:15 PM,5:51,MISS Taylor 14' Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,139,4,0,2,10:15 PM,5:50,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,140,6,1,2,10:15 PM,5:50,Lacy P.FOUL (P1.T2),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,141,8,0,2,10:16 PM,5:50,SUB: Rasmussen FOR Taylor,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,142,8,0,2,10:16 PM,5:50,SUB: Snell FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,143,8,0,2,10:16 PM,5:50,,,SUB: Jacobs FOR Duffy,,,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,144,2,1,2,10:16 PM,5:32,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,145,4,0,2,10:16 PM,5:30,,,Jacobs REBOUND (Off:2 Def:1),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,146,2,5,2,10:16 PM,5:20,Lacy BLOCK (1 BLK),,MISS Raymond  Layup,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,147,4,0,2,10:16 PM,5:18,,,Hayden REBOUND (Off:2 Def:0),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,148,2,5,2,10:16 PM,5:16,Rasmussen BLOCK (1 BLK),,MISS Hayden  Layup,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,149,4,0,2,10:16 PM,5:14,Rasmussen REBOUND (Off:0 Def:3),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,150,2,1,2,10:16 PM,5:08,MISS Snell  3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,151,4,0,2,10:17 PM,5:06,Miller REBOUND (Off:1 Def:3),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,152,2,1,2,10:17 PM,4:48,MISS Lacy 15' Jump Shot,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,153,4,0,2,10:17 PM,4:46,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,154,6,2,2,10:17 PM,4:31,Lacy S.FOUL (P2.T3),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,155,8,0,2,10:18 PM,4:31,SUB: Pondexter FOR Derevjanik,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,156,8,0,2,10:18 PM,4:31,SUB: Taylor FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,157,3,11,2,10:18 PM,4:31,,,MISS Hayden Free Throw 1 of 2,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,158,4,1,2,10:18 PM,4:31,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,159,3,12,2,10:18 PM,4:31,,,MISS Hayden Free Throw 2 of 2,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,160,4,0,2,10:18 PM,4:30,Taylor REBOUND (Off:2 Def:3),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,161,2,1,2,10:18 PM,4:19,MISS Miller 16' Jump Shot,,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,162,4,0,2,10:18 PM,4:17,,,Mann REBOUND (Off:0 Def:3),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,163,2,5,2,10:19 PM,4:02,,,MISS Raymond  Layup,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,165,4,0,2,10:19 PM,3:59,,,Raymond REBOUND (Off:2 Def:1),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,164,2,5,2,10:19 PM,3:59,,,MISS Raymond  Layup,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,166,4,0,2,10:19 PM,3:58,Snell REBOUND (Off:0 Def:1),,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,167,6,1,2,10:19 PM,3:56,,,Hayden P.FOUL (P1.PN),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,168,8,0,2,10:19 PM,3:56,,,SUB: Ohlde FOR Hayden,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,169,3,11,2,10:19 PM,3:56,Snell Free Throw 1 of 2 (1 PTS),,,29 - 40,11,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,170,3,12,2,10:19 PM,3:56,Snell Free Throw 2 of 2 (2 PTS),,,29 - 41,12,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,171,2,1,2,10:20 PM,3:43,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,172,4,0,2,10:20 PM,3:41,,,Raymond REBOUND (Off:3 Def:1),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,173,2,5,2,10:20 PM,3:39,,,MISS Raymond  Layup,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,174,4,0,2,10:20 PM,3:38,Miller REBOUND (Off:1 Def:4),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,175,5,7,2,10:20 PM,3:34,Miller Discontinue Dribble Turnover (P2.T3),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600221,176,8,0,2,10:20 PM,3:34,SUB: Taurasi FOR Snell,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,177,5,1,2,10:20 PM,3:21,Pondexter STEAL (1 STL),,Raymond Bad Pass Turnover (P1.T6),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,178,6,2,2,10:20 PM,3:15,,,Raymond S.FOUL (P1.PN),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,179,3,11,2,10:21 PM,3:15,Taylor Free Throw 1 of 2 (9 PTS),,,29 - 42,13,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,180,8,0,2,10:21 PM,3:15,,,SUB: Lewis FOR Raymond,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,181,3,12,2,10:21 PM,3:15,MISS Taylor Free Throw 2 of 2,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,182,4,0,2,10:21 PM,3:14,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,183,1,43,2,10:21 PM,3:12,Taylor  Alley Oop Layup (11 PTS) (Pondexter 3 AST),,,29 - 44,15,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,184,6,4,2,10:22 PM,2:56,,,Ohlde OFF.Foul (P2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,185,5,5,2,10:22 PM,2:56,,,Ohlde Foul Turnover (P2.T7),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020600221,186,9,1,2,10:22 PM,2:56,MERCURY Timeout: Regular (Full 1 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,190,1,5,2,10:25 PM,2:46,Taylor  Layup (13 PTS) (Taurasi 3 AST),,,29 - 46,17,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,191,2,1,2,10:26 PM,2:24,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,192,4,0,2,10:26 PM,2:22,Miller REBOUND (Off:1 Def:5),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,193,1,5,2,10:26 PM,2:15,Rasmussen  Layup (6 PTS) (Pondexter 4 AST),,,29 - 48,19,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,194,6,2,2,10:26 PM,2:00,Taylor S.FOUL (P2.T4),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,195,3,11,2,10:26 PM,2:00,,,MISS Ohlde Free Throw 1 of 2,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,196,4,1,2,10:26 PM,2:00,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,197,3,12,2,10:27 PM,2:00,,,Ohlde Free Throw 2 of 2 (4 PTS),30 - 48,18,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,198,1,5,2,10:27 PM,1:53,Taylor  Layup (15 PTS) (Taurasi 4 AST),,,30 - 50,20,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,199,2,1,2,10:27 PM,1:37,,,MISS Ohlde 8' Jump Shot,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,200,4,0,2,10:27 PM,1:36,Taylor REBOUND (Off:2 Def:4),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,201,2,5,2,10:27 PM,1:27,MISS Pondexter  Layup,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,202,4,0,2,10:27 PM,1:26,,,Jacobs REBOUND (Off:2 Def:2),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,203,2,1,2,10:28 PM,1:15,,,MISS Augustus  3PT Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,204,4,0,2,10:28 PM,1:13,Taylor REBOUND (Off:2 Def:5),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,205,2,5,2,10:28 PM,1:07,MISS Pondexter  Layup,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,206,4,0,2,10:28 PM,1:06,,,Augustus REBOUND (Off:1 Def:1),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,207,1,1,2,10:28 PM,0:48,,,Jacobs 17' Jump Shot (8 PTS),32 - 50,18,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,208,6,2,2,10:28 PM,0:34,,,Lewis S.FOUL (P1.PN),,,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,209,8,0,2,10:29 PM,0:34,SUB: Lacy FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,210,3,11,2,10:29 PM,0:34,Taurasi Free Throw 1 of 2 (14 PTS),,,32 - 51,19,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,211,3,12,2,10:29 PM,0:34,Taurasi Free Throw 2 of 2 (15 PTS),,,32 - 52,20,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,212,5,1,2,10:29 PM,0:31,Taurasi STEAL (3 STL),,Mann Bad Pass Turnover (P2.T8),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,213,6,1,2,10:29 PM,0:29,,,Mann P.FOUL (P2.PN),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,214,3,11,2,10:29 PM,0:29,Taurasi Free Throw 1 of 2 (16 PTS),,,32 - 53,21,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,215,8,0,2,10:30 PM,0:29,SUB: Snell FOR Taylor,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,216,3,12,2,10:30 PM,0:29,Taurasi Free Throw 2 of 2 (17 PTS),,,32 - 54,22,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,217,5,1,2,10:30 PM,0:14,Taurasi STEAL (4 STL),,Lewis Bad Pass Turnover (P1.T9),,,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,218,1,1,2,10:30 PM,0:09,Pondexter 15' Jump Shot (8 PTS),,,32 - 56,24,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,219,2,5,2,10:30 PM,0:01,Lacy BLOCK (2 BLK),,MISS Jacobs  Layup,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,220,4,0,2,10:30 PM,0:00,Lacy REBOUND (Off:1 Def:2),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,221,13,0,2,10:30 PM,0:00,,End of 2nd Period (10:30 PM EST),,32 - 56,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,224,12,0,3,10:47 PM,10:00,,Start of 3rd Period (10:47 PM EST),,32 - 56,24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,225,1,44,3,10:48 PM,9:46,Taurasi  Reverse Layup (19 PTS),,,32 - 58,26,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,226,6,2,3,10:49 PM,9:28,Taurasi S.FOUL (P1.T1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,227,3,11,3,10:49 PM,9:28,,,Ohlde Free Throw 1 of 2 (5 PTS),33 - 58,25,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,228,3,12,3,10:49 PM,9:28,,,Ohlde Free Throw 2 of 2 (6 PTS),34 - 58,24,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,229,2,1,3,10:49 PM,9:13,MISS Miller  3PT Jump Shot,,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,230,4,0,3,10:49 PM,9:12,,,Raymond REBOUND (Off:3 Def:2),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,231,5,1,3,10:50 PM,9:08,Miller STEAL (2 STL),,Raymond Bad Pass Turnover (P2.T10),,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,232,10,0,3,10:50 PM,9:03,Jump Ball Pondexter vs. Raymond: Tip to Rasmussen,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,233,2,1,3,10:50 PM,8:51,MISS Pondexter  3PT Jump Shot,,Ohlde BLOCK (1 BLK),,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0
+1020600221,235,4,0,3,10:50 PM,8:48,,,Ohlde REBOUND (Off:2 Def:4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,234,5,2,3,10:50 PM,8:48,Taurasi STEAL (5 STL),,Ohlde Lost Ball Turnover (P3.T11),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,236,1,5,3,10:51 PM,8:45,Taylor  Layup (17 PTS) (Taurasi 5 AST),,,34 - 60,26,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,237,2,5,3,10:51 PM,8:32,Taurasi BLOCK (1 BLK),,MISS Augustus  Layup,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,238,4,0,3,10:51 PM,8:30,Pondexter REBOUND (Off:0 Def:2),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,239,1,5,3,10:51 PM,8:26,Pondexter  Layup (10 PTS),,,34 - 62,28,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,240,1,1,3,10:51 PM,8:00,,,Jacobs 19' Jump Shot (10 PTS) (Mann 3 AST),36 - 62,26,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,241,1,1,3,10:52 PM,7:38,Miller 16' Jump Shot (8 PTS) (Taurasi 6 AST),,,36 - 64,28,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,242,1,1,3,10:52 PM,7:16,,,Jacobs  3PT Jump Shot (13 PTS) (Mann 4 AST),39 - 64,25,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,243,1,1,3,10:52 PM,7:03,Taylor  3PT Jump Shot (20 PTS) (Rasmussen 1 AST),,,39 - 67,28,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,245,2,1,3,10:52 PM,6:46,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,246,4,0,3,10:52 PM,6:45,,,Ohlde REBOUND (Off:3 Def:4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,248,10,0,3,10:53 PM,6:43,Jump Ball Taurasi vs. Ohlde: Tip to Rasmussen,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,249,5,2,3,10:53 PM,6:43,Taurasi STEAL (6 STL),,Ohlde Lost Ball Turnover (P4.T12),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,250,1,1,3,10:53 PM,6:26,Pondexter 12' Jump Shot (12 PTS) (Rasmussen 2 AST),,,39 - 69,30,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,251,2,1,3,10:53 PM,6:17,,,MISS Augustus 10' Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,252,4,0,3,10:53 PM,6:16,Taylor REBOUND (Off:2 Def:6),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,253,2,1,3,10:54 PM,6:10,MISS Miller 9' Jump Shot,,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,254,4,0,3,10:54 PM,6:09,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,255,8,0,3,10:54 PM,6:09,,,SUB: Hayden FOR Ohlde,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,256,2,3,3,10:54 PM,5:52,,,MISS Hayden 9' Hook Shot,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,257,4,0,3,10:54 PM,5:50,,,Hayden REBOUND (Off:3 Def:0),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,258,2,66,3,10:54 PM,5:48,,,MISS Hayden 6' Jump Bank Shot,,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,259,4,0,3,10:54 PM,5:46,Rasmussen REBOUND (Off:0 Def:4),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,260,8,0,3,10:55 PM,5:30,SUB: Lacy FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,261,2,1,3,10:55 PM,5:24,MISS Taylor  3PT Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,262,4,0,3,10:55 PM,5:22,Miller REBOUND (Off:2 Def:5),,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,263,2,1,3,10:55 PM,5:07,MISS Lacy 14' Jump Shot,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,264,4,0,3,10:55 PM,5:06,,,Augustus REBOUND (Off:1 Def:2),,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,265,2,1,3,10:55 PM,5:00,,,MISS Jacobs  3PT Jump Shot,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,266,4,0,3,10:55 PM,4:58,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,267,9,4,3,10:56 PM,4:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,269,8,0,3,10:58 PM,4:58,SUB: Derevjanik FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,270,8,0,3,10:58 PM,4:58,,,SUB: Williams-Strong FOR Raymond,,,5,100725,Tamika Raymond,1611661324.0,Minnesota,Lynx,MIN,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,271,2,1,3,10:59 PM,4:42,,,MISS Mann  3PT Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,272,4,0,3,10:59 PM,4:40,Derevjanik REBOUND (Off:0 Def:1),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,273,1,5,3,10:59 PM,4:36,Miller  Layup (10 PTS),,,39 - 71,32,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,274,8,0,3,11:00 PM,4:12,SUB: Snell FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,275,10,0,3,11:00 PM,4:12,Jump Ball Lacy vs. Hayden: Tip to Jacobs,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0
+1020600221,276,1,47,3,11:00 PM,4:05,,,Williams-Strong 7' Turnaround Jump Shot (2 PTS),41 - 71,30,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,277,2,1,3,11:01 PM,3:51,MISS Snell  3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,278,4,0,3,11:01 PM,3:49,Lacy REBOUND (Off:2 Def:2),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,279,2,1,3,11:01 PM,3:39,MISS Taylor  3PT Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,280,4,0,3,11:01 PM,3:38,,,Hayden REBOUND (Off:3 Def:1),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,281,1,1,3,11:01 PM,3:23,,,Augustus 16' Jump Shot (17 PTS),43 - 71,28,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,282,1,5,3,11:01 PM,3:04,Lacy  Layup (4 PTS) (Taylor 5 AST),,,43 - 73,30,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,283,6,2,3,11:02 PM,2:49,Derevjanik S.FOUL (P1.T2),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,284,8,0,3,11:02 PM,2:49,SUB: Pondexter FOR Miller,,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,285,8,0,3,11:02 PM,2:49,,,SUB: Abrosimova FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,286,3,11,3,11:02 PM,2:49,,,MISS Jacobs Free Throw 1 of 2,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,287,4,1,3,11:02 PM,2:49,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,288,3,12,3,11:02 PM,2:49,,,Jacobs Free Throw 2 of 2 (14 PTS),44 - 73,29,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,289,2,1,3,11:03 PM,2:36,MISS Snell  3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,290,4,0,3,11:03 PM,2:33,Snell REBOUND (Off:1 Def:1),,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,291,6,2,3,11:03 PM,2:32,,,Hayden S.FOUL (P2.T1),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,292,8,0,3,11:03 PM,2:32,,,SUB: Duffy FOR Jacobs,,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,293,3,11,3,11:03 PM,2:32,Taylor Free Throw 1 of 2 (21 PTS),,,44 - 74,30,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,294,3,12,3,11:03 PM,2:32,Taylor Free Throw 2 of 2 (22 PTS),,,44 - 75,31,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,296,6,2,3,11:04 PM,2:24,Lacy S.FOUL (P3.T3),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,297,8,0,3,11:04 PM,2:24,SUB: Rasmussen FOR Taylor,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,298,3,11,3,11:04 PM,2:24,,,Williams-Strong Free Throw 1 of 2 (3 PTS),45 - 75,30,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,299,3,12,3,11:04 PM,2:24,,,Williams-Strong Free Throw 2 of 2 (4 PTS),46 - 75,29,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,300,2,1,3,11:05 PM,2:10,MISS Snell  3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,301,4,0,3,11:05 PM,2:09,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,302,1,1,3,11:05 PM,1:59,Pondexter  3PT Jump Shot (15 PTS),,,46 - 78,32,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,303,2,1,3,11:05 PM,1:45,,,MISS Duffy  3PT Jump Shot,,,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,304,4,0,3,11:05 PM,1:43,,,Hayden REBOUND (Off:4 Def:1),,,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,305,1,5,3,11:05 PM,1:42,,,Hayden  Layup (2 PTS),48 - 78,30,5,100933,Vanessa Hayden,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,306,1,1,3,11:06 PM,1:25,Pondexter  3PT Jump Shot (18 PTS) (Derevjanik 3 AST),,,48 - 81,33,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,307,2,1,3,11:06 PM,1:00,,,MISS Mann 10' Jump Shot,,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,308,4,0,3,11:06 PM,0:58,Derevjanik REBOUND (Off:0 Def:2),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,309,1,1,3,11:06 PM,0:51,Snell  3PT Jump Shot (5 PTS) (Pondexter 5 AST),,,48 - 84,36,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,310,2,1,3,11:07 PM,0:39,,,MISS Abrosimova 18' Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,311,4,0,3,11:07 PM,0:37,Rasmussen REBOUND (Off:0 Def:5),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,312,1,1,3,11:07 PM,0:20,Pondexter  3PT Jump Shot (21 PTS) (Rasmussen 3 AST),,,48 - 87,39,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,313,2,1,3,11:07 PM,0:02,,,MISS Williams-Strong 13' Jump Shot,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,314,4,0,3,11:07 PM,0:00,Pondexter REBOUND (Off:0 Def:3),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,315,13,0,3,11:07 PM,0:00,,End of 3rd Period (11:07 PM EST),,48 - 87,39,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,317,12,0,4,11:10 PM,10:00,,Start of 4th Period (11:10 PM EST),,48 - 87,39,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,318,2,1,4,11:11 PM,9:44,,,MISS Lewis 14' Jump Shot,,,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,319,4,0,4,11:11 PM,9:43,Pondexter REBOUND (Off:0 Def:4),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,320,5,1,4,11:11 PM,9:40,Pondexter Bad Pass Turnover (P1.T4),,Duffy STEAL (1 STL),,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,321,1,1,4,11:12 PM,9:35,,,Duffy 10' Jump Shot (2 PTS),50 - 87,37,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,322,2,1,4,11:12 PM,9:07,MISS Taylor 14' Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,323,4,0,4,11:12 PM,9:06,,,Williams-Strong REBOUND (Off:0 Def:1),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,324,2,5,4,11:12 PM,8:50,Taurasi BLOCK (2 BLK),,MISS Lewis  Layup,,,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1020600221,325,4,0,4,11:12 PM,8:48,Taylor REBOUND (Off:2 Def:7),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,326,6,1,4,11:12 PM,8:41,,,Abrosimova P.FOUL (P4.T1),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,327,8,0,4,11:13 PM,8:41,SUB: Miller FOR Derevjanik,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,328,1,43,4,11:13 PM,8:38,Taurasi  Alley Oop Layup (21 PTS) (Taylor 6 AST),,,50 - 89,39,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,329,5,1,4,11:13 PM,8:23,Taurasi STEAL (7 STL),,Abrosimova Bad Pass Turnover (P1.T13),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,330,1,5,4,11:13 PM,8:17,Lacy  Layup (6 PTS) (Taylor 7 AST),,,50 - 91,41,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,331,2,1,4,11:13 PM,8:03,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,332,4,0,4,11:13 PM,8:01,Pondexter REBOUND (Off:0 Def:5),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,333,5,1,4,11:14 PM,7:55,Pondexter Bad Pass Turnover (P2.T5),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,334,8,0,4,11:14 PM,7:55,SUB: Snell FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,335,6,2,4,11:14 PM,7:43,Lacy S.FOUL (P4.T1),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,336,3,11,4,11:14 PM,7:43,,,Ohlde Free Throw 1 of 2 (7 PTS),51 - 91,40,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,337,3,12,4,11:14 PM,7:43,,,MISS Ohlde Free Throw 2 of 2,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,338,4,0,4,11:15 PM,7:42,,,Williams-Strong REBOUND (Off:1 Def:1),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,339,1,1,4,11:15 PM,7:39,,,Williams-Strong 7' Jump Shot (6 PTS),53 - 91,38,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,340,2,1,4,11:15 PM,7:22,MISS Taylor  3PT Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,341,4,0,4,11:15 PM,7:20,Snell REBOUND (Off:2 Def:1),,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,342,6,2,4,11:15 PM,7:06,,,Ohlde S.FOUL (P3.T2),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,343,3,11,4,11:15 PM,7:06,Taylor Free Throw 1 of 2 (23 PTS),,,53 - 92,39,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,344,3,12,4,11:16 PM,7:06,Taylor Free Throw 2 of 2 (24 PTS),,,53 - 93,40,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,345,2,1,4,11:16 PM,6:50,,,MISS Williams-Strong 13' Jump Shot,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,346,4,0,4,11:16 PM,6:49,Lacy REBOUND (Off:2 Def:3),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,347,5,39,4,11:16 PM,6:34,Pondexter Step Out of Bounds Turnover (P3.T6),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600221,348,8,0,4,11:17 PM,6:34,SUB: Christensen FOR Taylor,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,349,8,0,4,11:17 PM,6:34,SUB: Derevjanik FOR Miller,,,,,4,100627,Kelly Miller,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,350,2,5,4,11:17 PM,6:19,,,MISS Abrosimova  Layup,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,351,4,0,4,11:17 PM,6:18,Christensen REBOUND (Off:0 Def:1),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,352,2,1,4,11:17 PM,6:10,MISS Snell  3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,353,4,0,4,11:17 PM,6:08,,,Lewis REBOUND (Off:0 Def:1),,,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,354,2,1,4,11:17 PM,6:00,,,MISS Williams-Strong 13' Jump Shot,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,355,4,0,4,11:17 PM,5:59,Christensen REBOUND (Off:0 Def:2),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,356,1,5,4,11:17 PM,5:53,Derevjanik  Layup (2 PTS) (Pondexter 6 AST),,,53 - 95,42,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,358,9,4,4,11:18 PM,5:43,,,Lynx Timeout: Official (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,362,8,0,4,11:20 PM,5:43,,,SUB: Augustus FOR Lewis,,,5,100643,Tynesha Lewis,1611661324.0,Minnesota,Lynx,MIN,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,364,2,5,4,11:21 PM,5:33,,,MISS Ohlde  Layup,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,365,4,0,4,11:21 PM,5:32,Lacy REBOUND (Off:2 Def:4),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,366,1,44,4,11:21 PM,5:18,Pondexter  Reverse Layup (23 PTS) (Christensen 1 AST),,,53 - 97,44,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,367,2,1,4,11:21 PM,5:05,,,MISS Duffy  3PT Jump Shot,,,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,368,4,0,4,11:21 PM,5:03,,,Williams-Strong REBOUND (Off:2 Def:1),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,369,6,2,4,11:22 PM,5:02,Christensen S.FOUL (P1.T2),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,370,3,11,4,11:22 PM,5:02,,,Williams-Strong Free Throw 1 of 2 (7 PTS),54 - 97,43,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,371,8,0,4,11:22 PM,5:02,SUB: Smith FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,372,3,12,4,11:22 PM,5:02,,,MISS Williams-Strong Free Throw 2 of 2,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,373,4,0,4,11:22 PM,5:01,Christensen REBOUND (Off:0 Def:3),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,374,2,5,4,11:23 PM,4:50,MISS Lacy  Layup,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,375,4,0,4,11:23 PM,4:49,,,Williams-Strong REBOUND (Off:2 Def:2),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,376,6,4,4,11:23 PM,4:43,,,Ohlde OFF.Foul (P4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,377,5,5,4,11:23 PM,4:43,,,Ohlde Foul Turnover (P5.T14),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,1,0,,,,,,0
+1020600221,378,2,1,4,11:23 PM,4:18,MISS Lacy  3PT Jump Shot,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,379,4,0,4,11:23 PM,4:17,Smith REBOUND (Off:1 Def:0),,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,380,5,2,4,11:23 PM,4:12,Smith Lost Ball Turnover (P1.T7),,Abrosimova STEAL (1 STL),,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,381,2,1,4,11:23 PM,4:07,,,MISS Ohlde 15' Jump Shot,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,382,4,0,4,11:23 PM,4:05,,,Abrosimova REBOUND (Off:1 Def:0),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,383,2,1,4,11:24 PM,4:01,,,MISS Augustus  3PT Jump Shot,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,384,4,0,4,11:24 PM,3:59,,,Abrosimova REBOUND (Off:2 Def:0),,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,385,6,2,4,11:24 PM,3:57,Christensen S.FOUL (P2.T3),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,386,3,11,4,11:24 PM,3:57,,,MISS Abrosimova Free Throw 1 of 2,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,387,4,1,4,11:24 PM,3:57,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,388,3,12,4,11:24 PM,3:57,,,Abrosimova Free Throw 2 of 2 (1 PTS),55 - 97,42,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,389,2,5,4,11:24 PM,3:43,MISS Christensen  Layup,,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,390,4,0,4,11:24 PM,3:42,,,Williams-Strong REBOUND (Off:2 Def:3),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,391,1,3,4,11:25 PM,3:20,,,Augustus 7' Hook Shot (19 PTS),57 - 97,40,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,392,2,5,4,11:25 PM,2:53,MISS Smith  Layup,,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,393,4,0,4,11:25 PM,2:52,,,Williams-Strong REBOUND (Off:2 Def:4),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,394,2,1,4,11:26 PM,2:39,,,MISS Abrosimova  3PT Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,395,4,0,4,11:26 PM,2:37,,,Ohlde REBOUND (Off:4 Def:4),,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,396,9,1,4,11:26 PM,2:35,MERCURY Timeout: Regular (Full 2 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,399,8,0,4,11:29 PM,2:35,,,SUB: Jacobs FOR Augustus,,,5,200671,Seimone Augustus,1611661324.0,Minnesota,Lynx,MIN,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,400,10,0,4,11:29 PM,2:35,Jump Ball Lacy vs. Ohlde: Tip to Williams-Strong,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0
+1020600221,401,1,1,4,11:29 PM,2:30,,,Williams-Strong 7' Jump Shot (9 PTS),59 - 97,38,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,402,6,1,4,11:30 PM,2:19,,,Williams-Strong P.FOUL (P3.T3),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600221,404,8,0,4,11:30 PM,2:19,,,SUB: Mann FOR Ohlde,,,5,100932,Nicole Ohlde,1611661324.0,Minnesota,Lynx,MIN,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020600221,405,6,4,4,11:30 PM,2:11,Christensen OFF.Foul (P3),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,406,5,5,4,11:30 PM,2:11,Christensen Foul Turnover (P1.T8),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600221,408,2,5,4,11:31 PM,1:57,,,MISS Abrosimova  Layup,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,409,4,0,4,11:31 PM,1:56,Lacy REBOUND (Off:2 Def:5),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,410,2,1,4,11:31 PM,1:46,MISS Smith 10' Jump Shot,,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,411,4,0,4,11:31 PM,1:44,,,Jacobs REBOUND (Off:2 Def:3),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,412,5,2,4,11:31 PM,1:43,Smith STEAL (1 STL),,Jacobs Lost Ball Turnover (P1.T15),,,5,100935,Amber Jacobs,1611661324.0,Minnesota,Lynx,MIN,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,413,2,1,4,11:31 PM,1:36,MISS Derevjanik 14' Jump Shot,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,414,4,0,4,11:31 PM,1:35,Lacy REBOUND (Off:3 Def:5),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,415,2,5,4,11:31 PM,1:33,MISS Lacy  Layup,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,416,4,0,4,11:31 PM,1:32,,,Duffy REBOUND (Off:0 Def:1),,,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,417,2,1,4,11:31 PM,1:24,,,MISS Abrosimova 9' Jump Shot,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,418,4,0,4,11:31 PM,1:23,,,Williams-Strong REBOUND (Off:3 Def:4),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,419,6,2,4,11:31 PM,1:23,Snell S.FOUL (P1.T4),,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,420,3,11,4,11:31 PM,1:23,,,Williams-Strong Free Throw 1 of 2 (10 PTS),60 - 97,37,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,421,3,12,4,11:32 PM,1:23,,,MISS Williams-Strong Free Throw 2 of 2,,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,422,4,0,4,11:32 PM,1:22,,,Mann REBOUND (Off:1 Def:3),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,423,1,5,4,11:32 PM,1:19,,,Abrosimova  Layup (3 PTS),62 - 97,35,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,424,6,2,4,11:32 PM,1:19,Christensen S.FOUL (P4.PN),,,,,4,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,425,3,10,4,11:32 PM,1:19,,,Abrosimova Free Throw 1 of 1 (4 PTS),63 - 97,34,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,426,2,1,4,11:32 PM,1:08,MISS Snell  3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,427,4,0,4,11:32 PM,1:07,,,Williams-Strong REBOUND (Off:3 Def:5),,,5,100526,Adrian Williams-Strong,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,428,6,2,4,11:33 PM,0:58,Lacy S.FOUL (P5.PN),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,1,0,,,,,,0
+1020600221,429,3,11,4,11:33 PM,0:58,,,Abrosimova Free Throw 1 of 2 (5 PTS),64 - 97,33,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,430,3,12,4,11:33 PM,0:58,,,Abrosimova Free Throw 2 of 2 (6 PTS),65 - 97,32,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,431,1,1,4,11:33 PM,0:40,Lacy 14' Jump Shot (8 PTS) (Snell 1 AST),,,65 - 99,34,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600221,432,1,1,4,11:34 PM,0:29,,,Duffy  3PT Jump Shot (5 PTS),68 - 99,31,5,200701,Megan Duffy,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,433,2,5,4,11:34 PM,0:14,MISS Smith  Layup,,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,434,4,0,4,11:34 PM,0:13,,,Mann REBOUND (Off:1 Def:4),,,5,101029,Kristen Mann,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,435,2,5,4,11:34 PM,0:04,,,MISS Abrosimova  Layup,,,5,100658,Svetlana Abrosimova,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020600221,436,4,0,4,11:34 PM,0:03,Snell REBOUND (Off:2 Def:2),,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,437,2,1,4,11:34 PM,0:00,MISS Snell 41' 3PT Jump Shot,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600221,439,4,0,4,11:34 PM,0:00,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600221,438,13,0,4,11:34 PM,0:00,,End of 4th Period (11:34 PM EST),,68 - 99,31,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

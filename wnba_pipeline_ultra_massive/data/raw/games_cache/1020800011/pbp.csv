@@ -1,0 +1,402 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020800011,0,12,0,1,7:18 PM,10:00,,Start of 1st Period (7:18 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,1,10,0,1,7:19 PM,10:00,Jump Ball Ford vs. Sutton-Brown: Tip to Douglas,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0
+1020800011,2,2,1,1,7:20 PM,9:43,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,3,4,0,1,7:20 PM,9:42,Ford REBOUND (Off:0 Def:1),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,4,2,1,1,7:20 PM,9:18,MISS Powell 12' Jump Shot,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,5,4,0,1,7:21 PM,9:17,,,Hoffman REBOUND (Off:0 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,6,5,1,1,7:21 PM,9:10,,,Douglas Bad Pass Turnover (P1.T1),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,7,5,40,1,7:21 PM,8:51,Powell Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,8,2,1,1,7:22 PM,8:28,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,9,4,0,1,7:22 PM,8:26,Ford REBOUND (Off:0 Def:2),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,10,2,1,1,7:22 PM,8:18,MISS Nolan 17' Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,11,4,0,1,7:22 PM,8:17,,,White REBOUND (Off:0 Def:1),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,12,5,1,1,7:22 PM,8:04,Smith STEAL (1 STL),,Hoffman Bad Pass Turnover (P1.T2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,13,1,5,1,7:22 PM,7:58,Smith  Layup (2 PTS),,,0 - 2,2,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,14,6,1,1,7:22 PM,7:48,Sanni P.FOUL (P1.T1),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,15,5,4,1,7:23 PM,7:39,,,Bevilaqua Traveling Turnover (P1.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,16,6,2,1,7:24 PM,7:23,,,Sutton-Brown S.FOUL (P1.T1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,17,3,11,1,7:24 PM,7:23,Sanni Free Throw 1 of 2 (1 PTS),,,0 - 3,3,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,18,3,12,1,7:24 PM,7:23,Sanni Free Throw 2 of 2 (2 PTS),,,0 - 4,4,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,19,6,2,1,7:25 PM,7:08,Powell S.FOUL (P1.T2),,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,20,3,11,1,7:25 PM,7:08,,,MISS Sutton-Brown Free Throw 1 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,21,4,1,1,7:25 PM,7:08,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,22,8,0,1,7:25 PM,7:08,SUB: Hornbuckle FOR Powell,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,23,3,12,1,7:25 PM,7:08,,,MISS Sutton-Brown Free Throw 2 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,24,4,0,1,7:25 PM,7:07,Ford REBOUND (Off:0 Def:3),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,25,1,5,1,7:25 PM,7:02,Sanni  Layup (4 PTS) (Nolan 1 AST),,,0 - 6,6,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,26,5,1,1,7:26 PM,6:47,Ford STEAL (1 STL),,Hoffman Bad Pass Turnover (P2.T4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,27,1,5,1,7:26 PM,6:41,Ford  Layup (2 PTS) (Nolan 2 AST),,,0 - 8,8,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,28,9,1,1,7:26 PM,6:39,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,30,1,42,1,7:29 PM,6:28,,,Douglas  Driving Layup (2 PTS),2 - 8,6,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,31,6,2,1,7:29 PM,6:28,Ford S.FOUL (P1.T3),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,32,3,10,1,7:29 PM,6:28,,,Douglas Free Throw 1 of 1 (3 PTS),3 - 8,5,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,33,2,1,1,7:30 PM,6:05,MISS Smith 15' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,34,4,0,1,7:30 PM,5:57,Hornbuckle REBOUND (Off:1 Def:0),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,35,2,1,1,7:30 PM,5:50,MISS Ford 16' Jump Shot,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,36,4,0,1,7:30 PM,5:50,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,37,8,0,1,7:30 PM,5:50,SUB: Braxton FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,38,1,1,1,7:30 PM,5:48,Braxton 13' Jump Shot (2 PTS) (Nolan 3 AST),,,3 - 10,7,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,39,5,40,1,7:31 PM,5:33,,,Douglas Out of Bounds Lost Ball Turnover (P2.T5),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,40,5,1,1,7:31 PM,5:21,Braxton Bad Pass Turnover (P1.T2),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,41,8,0,1,7:31 PM,5:21,,,SUB: Terry FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,42,8,0,1,7:31 PM,5:21,,,SUB: Whittington FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,43,2,46,1,7:32 PM,5:00,,,MISS White 11' Running Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,44,4,0,1,7:32 PM,4:59,Nolan REBOUND (Off:0 Def:1),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,45,1,1,1,7:32 PM,4:53,Nolan 10' Jump Shot (2 PTS),,,3 - 12,9,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,46,1,1,1,7:32 PM,4:45,,,White  3PT Jump Shot (3 PTS),6 - 12,6,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,47,2,47,1,7:33 PM,4:31,MISS Hornbuckle 14' Turnaround Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,48,4,0,1,7:33 PM,4:30,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,49,8,0,1,7:33 PM,4:30,SUB: Pierson FOR Ford,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,50,2,1,1,7:33 PM,4:13,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,51,4,0,1,7:33 PM,4:12,,,Whittington REBOUND (Off:1 Def:0),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,52,2,4,1,7:33 PM,4:10,,,MISS Whittington  Tip Shot,,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,53,4,0,1,7:33 PM,4:09,Braxton REBOUND (Off:0 Def:1),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,54,1,5,1,7:33 PM,4:00,Braxton  Layup (4 PTS) (Hornbuckle 1 AST),,,6 - 14,8,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,55,8,0,1,7:34 PM,3:34,,,SUB: Bales FOR Terry,,,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,56,8,0,1,7:34 PM,3:34,SUB: Sam FOR Nolan,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,57,10,0,1,7:34 PM,3:34,Jump Ball Hornbuckle vs. Whittington: Tip to,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,2,1611661321,,,,,,0
+1020800011,58,5,2,1,7:34 PM,3:34,Hornbuckle STEAL (1 STL),,Whittington Lost Ball Turnover (P1.T6),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,59,6,1,1,7:35 PM,3:17,,,Whittington P.FOUL (P1.T2),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,60,5,38,1,7:35 PM,3:17,SHOCK Turnover: 5 Second Inbound (T#3),,,,,2,1611661321,,,,,,0,0,,,,,,1,0,,,,,,0
+1020800011,61,5,4,1,7:36 PM,3:04,,,Bevilaqua Traveling Turnover (P2.T7),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,62,2,1,1,7:36 PM,2:52,MISS Braxton 10' Jump Shot,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,63,4,0,1,7:36 PM,2:51,,,Douglas REBOUND (Off:0 Def:1),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,64,5,2,1,7:37 PM,2:42,Sam STEAL (1 STL),,Whittington Lost Ball Turnover (P2.T8),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,65,8,0,1,7:37 PM,2:22,,,SUB: Sutton-Brown FOR Whittington,,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,66,2,1,1,7:37 PM,2:15,MISS Smith  3PT Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,67,4,0,1,7:37 PM,2:14,Braxton REBOUND (Off:1 Def:1),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,68,6,2,1,7:37 PM,2:14,,,Sutton-Brown S.FOUL (P2.T3),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,69,3,11,1,7:38 PM,2:14,Braxton Free Throw 1 of 2 (5 PTS),,,6 - 15,9,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,70,3,12,1,7:38 PM,2:14,Braxton Free Throw 2 of 2 (6 PTS),,,6 - 16,10,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,71,5,1,1,7:38 PM,2:03,Braxton STEAL (1 STL),,Bales Bad Pass Turnover (P1.T9),,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,72,1,5,1,7:38 PM,1:53,Braxton  Layup (8 PTS) (Sam 1 AST),,,6 - 18,12,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,73,5,2,1,7:39 PM,1:28,Pierson STEAL (1 STL),,Sutton-Brown Lost Ball Turnover (P1.T10),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,74,8,0,1,7:39 PM,1:19,,,SUB: Hoffman FOR Bales,,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,75,8,0,1,7:39 PM,1:19,SUB: Ford FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,76,1,1,1,7:39 PM,1:15,Ford 13' Jump Shot (4 PTS) (Sam 2 AST),,,6 - 20,14,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,77,2,5,1,7:40 PM,0:58,,,MISS White  Layup,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,78,4,0,1,7:40 PM,0:58,,,White REBOUND (Off:1 Def:1),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,79,6,2,1,7:40 PM,0:58,Hornbuckle S.FOUL (P1.T4),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,80,3,11,1,7:40 PM,0:58,,,White Free Throw 1 of 2 (4 PTS),7 - 20,13,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,81,8,0,1,7:40 PM,0:58,,,SUB: Bond FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,82,3,12,1,7:40 PM,0:58,,,White Free Throw 2 of 2 (5 PTS),8 - 20,12,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,83,1,1,1,7:41 PM,0:38,Pierson 16' Jump Shot (2 PTS) (Smith 1 AST),,,8 - 22,14,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,84,6,2,1,7:41 PM,0:21,Ford S.FOUL (P2.PN),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,85,3,11,1,7:41 PM,0:21,,,Hoffman Free Throw 1 of 2 (1 PTS),9 - 22,13,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,86,8,0,1,7:42 PM,0:21,SUB: Sanni FOR Ford,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,87,3,12,1,7:42 PM,0:21,,,Hoffman Free Throw 2 of 2 (2 PTS),10 - 22,12,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,88,2,1,1,7:42 PM,0:01,MISS Sam 15' Jump Shot,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,89,4,0,1,7:43 PM,0:00,,,Bond REBOUND (Off:0 Def:1),,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,90,13,0,1,7:43 PM,0:00,,End of 1st Period (7:43 PM EST),,10 - 22,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,92,12,0,2,7:45 PM,10:00,,Start of 2nd Period (7:45 PM EST),,10 - 22,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,93,1,1,2,7:45 PM,9:47,Nolan 16' Jump Shot (4 PTS) (Pierson 1 AST),,,10 - 24,14,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,94,6,4,2,7:46 PM,9:38,,,Hoffman OFF.Foul (P1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,95,5,5,2,7:46 PM,9:38,,,Hoffman Foul Turnover (P3.T11),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,96,5,4,2,7:46 PM,9:24,Sam Traveling Turnover (P1.T4),,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,97,1,1,2,7:47 PM,9:10,,,Sutton-Brown 12' Jump Shot (2 PTS) (White 1 AST),12 - 24,12,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,98,2,1,2,7:47 PM,8:50,MISS Sam 18' Jump Shot,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,99,4,0,2,7:47 PM,8:49,,,White REBOUND (Off:1 Def:2),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,100,1,5,2,7:47 PM,8:43,,,White  Layup (7 PTS),14 - 24,10,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,101,2,1,2,7:48 PM,8:20,MISS Sam  3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,102,4,0,2,7:48 PM,8:20,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,103,6,3,2,7:48 PM,8:20,Powell L.B.FOUL (P2.T1),,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,104,8,0,2,7:48 PM,8:20,,,SUB: Feaster FOR White,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,100170,Allison Feaster,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,105,8,0,2,7:48 PM,8:20,SUB: Smith FOR Sam,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,106,8,0,2,7:48 PM,8:13,SUB: Hornbuckle FOR Nolan,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,107,1,5,2,7:48 PM,8:01,,,Sutton-Brown  Layup (4 PTS) (Douglas 1 AST),16 - 24,8,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,108,5,1,2,7:49 PM,7:47,Pierson Bad Pass Turnover (P1.T5),,Hoffman STEAL (1 STL),,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,109,1,1,2,7:49 PM,7:40,,,Douglas  3PT Jump Shot (6 PTS) (Bond 1 AST),19 - 24,5,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,110,9,1,2,7:49 PM,7:39,SHOCK Timeout: Regular (Full 1 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,112,8,0,2,7:51 PM,7:39,SUB: Braxton FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,113,10,0,2,7:51 PM,7:30,Jump Ball Smith vs. Bond: Tip to Powell,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0
+1020800011,114,5,1,2,7:52 PM,7:19,Pierson Bad Pass Turnover (P2.T6),,Sutton-Brown STEAL (1 STL),,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,115,1,5,2,7:52 PM,7:11,,,Sutton-Brown  Layup (6 PTS) (Hoffman 1 AST),21 - 24,3,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,116,1,5,2,7:52 PM,6:55,Pierson  Layup (4 PTS) (Powell 1 AST),,,21 - 26,5,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,117,5,1,2,7:53 PM,6:40,,,Douglas Bad Pass Turnover (P3.T12),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,118,1,1,2,7:53 PM,6:21,Pierson 11' Jump Shot (6 PTS) (Smith 2 AST),,,21 - 28,7,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,119,6,4,2,7:53 PM,6:14,,,Hoffman OFF.Foul (P2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,120,5,5,2,7:53 PM,6:14,,,Hoffman Foul Turnover (P4.T13),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,121,8,0,2,7:53 PM,6:14,SUB: Nolan FOR Powell,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,122,8,0,2,7:53 PM,6:14,,,SUB: Bevilaqua FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,123,1,42,2,7:54 PM,6:05,Braxton  Driving Layup (10 PTS) (Smith 3 AST),,,21 - 30,9,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,124,6,2,2,7:54 PM,6:05,,,Sutton-Brown S.FOUL (P3.T1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,126,8,0,2,7:54 PM,6:05,,,SUB: Whittington FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,127,3,10,2,7:54 PM,6:05,Braxton Free Throw 1 of 1 (11 PTS),,,21 - 31,10,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,128,6,1,2,7:55 PM,5:56,Pierson P.FOUL (P1.T2),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,129,1,1,2,7:55 PM,5:51,,,Bond 18' Jump Shot (2 PTS),23 - 31,8,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,130,1,1,2,7:55 PM,5:39,Pierson 9' Jump Shot (8 PTS) (Smith 4 AST),,,23 - 33,10,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,131,2,1,2,7:55 PM,5:29,,,MISS Feaster  3PT Jump Shot,,,5,100170,Allison Feaster,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,132,4,0,2,7:55 PM,5:28,Braxton REBOUND (Off:1 Def:2),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,133,5,8,2,7:56 PM,5:18,Braxton 3 Second Violation Turnover (P2.T7),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,134,5,1,2,7:56 PM,5:06,,,Bevilaqua Bad Pass Turnover (P3.T14),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,135,2,1,2,7:56 PM,4:56,MISS Hornbuckle 17' Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,136,4,0,2,7:56 PM,4:54,,,Whittington REBOUND (Off:1 Def:1),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,137,5,2,2,7:57 PM,4:41,Nolan STEAL (1 STL),,Feaster Lost Ball Turnover (P1.T15),,,5,100170,Allison Feaster,1611661325.0,Indiana,Fever,IND,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,138,1,5,2,7:57 PM,4:36,Pierson  Layup (10 PTS) (Nolan 4 AST),,,23 - 35,12,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,139,9,1,2,7:57 PM,4:26,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,141,8,0,2,8:00 PM,4:26,,,SUB: Douglas FOR Bond,,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,145,8,0,2,8:00 PM,4:26,,,SUB: White FOR Feaster,,,5,100170,Allison Feaster,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,142,2,1,2,8:00 PM,4:10,,,MISS White 18' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,143,4,0,2,8:00 PM,4:10,Braxton REBOUND (Off:1 Def:3),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,144,6,3,2,8:00 PM,4:10,,,Hoffman L.B.FOUL (P3.T2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,146,1,42,2,8:00 PM,3:57,Pierson  Driving Layup (12 PTS),,,23 - 37,14,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,147,6,2,2,8:01 PM,3:45,Hornbuckle S.FOUL (P2.T3),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,148,3,11,2,8:01 PM,3:45,,,White Free Throw 1 of 2 (8 PTS),24 - 37,13,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,149,8,0,2,8:01 PM,3:45,,,SUB: Bales FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,150,8,0,2,8:01 PM,3:45,,,SUB: Terry FOR Whittington,,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,153,8,0,2,8:01 PM,3:45,SUB: Powell FOR Hornbuckle,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,151,3,12,2,8:01 PM,3:45,,,White Free Throw 2 of 2 (9 PTS),25 - 37,12,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,152,5,1,2,8:02 PM,3:36,Nolan Bad Pass Turnover (P1.T8),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,154,2,1,2,8:02 PM,3:22,,,MISS Bales 18' Jump Shot,,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,155,4,0,2,8:02 PM,3:20,Powell REBOUND (Off:0 Def:1),,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,156,6,1,2,8:02 PM,3:18,,,Bevilaqua P.FOUL (P1.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,157,1,1,2,8:03 PM,3:00,Nolan 15' Jump Shot (6 PTS),,,25 - 39,14,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,158,1,1,2,8:03 PM,2:46,,,Douglas 24' 3PT Jump Shot (9 PTS) (Bevilaqua 1 AST),28 - 39,11,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,159,5,1,2,8:03 PM,2:44,Smith Bad Pass Turnover (P1.T9),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,160,1,5,2,8:04 PM,2:27,,,Bales  Layup (2 PTS) (Douglas 2 AST),30 - 39,9,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,161,6,2,2,8:04 PM,2:27,Braxton S.FOUL (P1.T4),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,162,3,10,2,8:04 PM,2:27,,,Bales Free Throw 1 of 1 (3 PTS),31 - 39,8,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,163,1,5,2,8:04 PM,2:15,Pierson  Layup (14 PTS) (Nolan 5 AST),,,31 - 41,10,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,164,1,1,2,8:05 PM,1:59,,,White  3PT Jump Shot (12 PTS) (Douglas 3 AST),34 - 41,7,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,165,1,5,2,8:05 PM,1:48,Pierson  Layup (16 PTS) (Braxton 1 AST),,,34 - 43,9,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,166,5,1,2,8:05 PM,1:29,Smith STEAL (2 STL),,Terry Bad Pass Turnover (P1.T16),,,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,167,5,1,2,8:05 PM,1:18,Pierson Bad Pass Turnover (P3.T10),,Douglas STEAL (1 STL),,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,168,10,0,2,8:05 PM,1:14,Jump Ball Nolan vs. Douglas: Tip to Bevilaqua,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0
+1020800011,169,6,1,2,8:06 PM,1:09,Nolan P.FOUL (P1.PN),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,170,3,11,2,8:06 PM,1:09,,,Douglas Free Throw 1 of 2 (10 PTS),35 - 43,8,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,171,3,12,2,8:06 PM,1:09,,,Douglas Free Throw 2 of 2 (11 PTS),36 - 43,7,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,172,5,41,2,8:07 PM,1:00,Nolan Poss Lost Ball Turnover (P2.T11),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,173,5,1,2,8:07 PM,0:43,Pierson STEAL (2 STL),,Terry Bad Pass Turnover (P2.T17),,,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,174,5,8,2,8:08 PM,0:29,Braxton 3 Second Violation Turnover (P3.T12),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,175,6,4,2,8:08 PM,0:12,,,White OFF.Foul (P1),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,176,5,5,2,8:08 PM,0:12,,,White Foul Turnover (P1.T18),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,177,9,1,2,8:09 PM,0:12,SHOCK Timeout: Regular (Full 2 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,179,8,0,2,8:11 PM,0:10,,,SUB: Whittington FOR Bales,,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,180,8,0,2,8:11 PM,0:09,SUB: Sam FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,181,2,5,2,8:11 PM,0:01,MISS Nolan  Layup,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,182,4,0,2,8:11 PM,0:00,,,Terry REBOUND (Off:0 Def:1),,,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,183,5,1,2,8:11 PM,0:00,Sam STEAL (2 STL),,Terry Bad Pass Turnover (P3.T19),,,5,200696,Kasha Terry,1611661325.0,Indiana,Fever,IND,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,184,2,1,2,8:11 PM,0:00,MISS Sam 10' Jump Shot,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,185,4,0,2,8:11 PM,0:00,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,191,13,0,2,8:13 PM,0:00,,End of 2nd Period (8:13 PM EST),,36 - 43,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,193,12,0,3,8:28 PM,10:00,,Start of 3rd Period (8:28 PM EST),,36 - 43,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,194,2,1,3,8:28 PM,9:46,MISS Smith 18' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,195,4,0,3,8:28 PM,9:45,,,Sutton-Brown REBOUND (Off:0 Def:1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,196,1,5,3,8:28 PM,9:34,,,Sutton-Brown  Layup (8 PTS) (White 2 AST),38 - 43,5,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,197,2,5,3,8:29 PM,9:12,MISS Ford  Layup,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,198,4,0,3,8:29 PM,9:11,,,White REBOUND (Off:1 Def:3),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,199,2,5,3,8:29 PM,8:56,,,MISS Sutton-Brown  Layup,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,200,4,0,3,8:29 PM,8:55,,,Hoffman REBOUND (Off:1 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,201,1,1,3,8:29 PM,8:49,,,Douglas 15' Jump Shot (13 PTS) (Hoffman 2 AST),40 - 43,3,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,202,5,1,3,8:29 PM,8:41,Nolan Bad Pass Turnover (P3.T13),,Bevilaqua STEAL (1 STL),,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,203,2,1,3,8:29 PM,8:33,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,204,4,0,3,8:29 PM,8:32,Smith REBOUND (Off:0 Def:1),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,205,1,3,3,8:30 PM,8:10,Sanni 8' Hook Shot (6 PTS) (Smith 5 AST),,,40 - 45,5,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,206,2,1,3,8:30 PM,7:52,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,207,4,0,3,8:30 PM,7:51,,,Hoffman REBOUND (Off:2 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,208,2,1,3,8:30 PM,7:46,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,209,4,0,3,8:30 PM,7:45,Smith REBOUND (Off:0 Def:2),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,210,2,1,3,8:30 PM,7:37,MISS Powell 17' Jump Shot,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,211,4,0,3,8:30 PM,7:36,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,212,6,1,3,8:31 PM,7:27,Sanni P.FOUL (P2.T1),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,213,2,1,3,8:31 PM,7:14,,,MISS White 16' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,214,4,0,3,8:31 PM,7:14,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,215,8,0,3,8:31 PM,7:14,SUB: Braxton FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,216,1,1,3,8:32 PM,7:02,,,Sutton-Brown 18' Jump Shot (10 PTS) (White 3 AST),42 - 45,3,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,217,5,1,3,8:32 PM,6:55,Braxton Bad Pass Turnover (P4.T14),,Hoffman STEAL (2 STL),,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,218,1,1,3,8:32 PM,6:50,,,White  3PT Jump Shot (15 PTS),45 - 45,TIE,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,219,2,5,3,8:32 PM,6:27,MISS Ford  Layup,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,220,4,0,3,8:32 PM,6:26,Braxton REBOUND (Off:2 Def:3),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,221,1,72,3,8:32 PM,6:26,Braxton  Putback Layup (13 PTS),,,45 - 47,2,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,222,6,2,3,8:32 PM,6:26,,,White S.FOUL (P2.T1),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,223,8,0,3,8:33 PM,6:26,SUB: Hornbuckle FOR Powell,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,224,3,10,3,8:33 PM,6:26,MISS Braxton Free Throw 1 of 1,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,225,4,0,3,8:33 PM,6:26,,,Douglas REBOUND (Off:0 Def:2),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,226,2,1,3,8:33 PM,6:15,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,227,4,0,3,8:33 PM,6:14,Braxton REBOUND (Off:2 Def:4),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,228,2,1,3,8:33 PM,6:08,MISS Hornbuckle 17' Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,229,4,0,3,8:33 PM,6:07,,,White REBOUND (Off:1 Def:4),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,230,6,1,3,8:33 PM,6:02,Smith P.FOUL (P1.T2),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,231,6,1,3,8:34 PM,5:57,Smith P.FOUL (P2.T3),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,232,5,1,3,8:34 PM,5:45,Hornbuckle STEAL (2 STL),,Hoffman Bad Pass Turnover (P5.T20),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,233,1,5,3,8:34 PM,5:40,Braxton  Layup (15 PTS) (Hornbuckle 2 AST),,,45 - 49,4,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,234,2,1,3,8:34 PM,5:31,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,235,4,0,3,8:35 PM,5:29,Ford REBOUND (Off:0 Def:4),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,236,1,5,3,8:35 PM,5:24,Braxton  Layup (17 PTS) (Nolan 6 AST),,,45 - 51,6,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,237,9,1,3,8:35 PM,5:16,,,Fever Timeout: Regular (Reg.3 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,239,8,0,3,8:37 PM,5:16,,,SUB: Bales FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,240,2,1,3,8:38 PM,5:12,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,241,4,0,3,8:38 PM,5:11,Braxton REBOUND (Off:2 Def:5),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,242,1,5,3,8:38 PM,5:01,Ford  Layup (6 PTS) (Hornbuckle 3 AST),,,45 - 53,8,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,243,6,4,3,8:38 PM,4:50,,,Bales OFF.Foul (P1),,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,244,5,5,3,8:38 PM,4:50,,,Bales Foul Turnover (P2.T21),,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,245,6,1,3,8:39 PM,4:37,,,Bales P.FOUL (P2.T2),,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,246,5,1,3,8:39 PM,4:33,Hornbuckle Bad Pass Turnover (P1.T15),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,247,1,1,3,8:39 PM,4:26,,,Douglas  3PT Jump Shot (16 PTS) (White 4 AST),48 - 53,5,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,248,2,5,3,8:40 PM,4:02,MISS Ford  Layup,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,249,4,0,3,8:40 PM,4:01,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,250,5,1,3,8:40 PM,3:48,Hornbuckle STEAL (3 STL),,Bevilaqua Bad Pass Turnover (P4.T22),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,251,2,1,3,8:40 PM,3:41,MISS Nolan  3PT Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,252,4,0,3,8:40 PM,3:40,,,Douglas REBOUND (Off:0 Def:3),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,253,2,1,3,8:40 PM,3:33,,,MISS Douglas 24' 3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,254,4,0,3,8:40 PM,3:32,Hornbuckle REBOUND (Off:1 Def:1),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,255,5,1,3,8:41 PM,3:24,Braxton Bad Pass Turnover (P5.T16),,Sutton-Brown STEAL (2 STL),,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,256,1,5,3,8:41 PM,3:19,,,Douglas  Layup (18 PTS) (White 5 AST),50 - 53,3,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,257,6,2,3,8:41 PM,2:53,,,Bevilaqua S.FOUL (P2.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,258,8,0,3,8:41 PM,2:53,SUB: Pierson FOR Smith,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,278,8,0,3,8:41 PM,2:53,SUB: Powell FOR Ford,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,259,8,0,3,8:41 PM,2:53,,,SUB: Bond FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,260,3,11,3,8:41 PM,2:53,MISS Braxton Free Throw 1 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,261,4,1,3,8:41 PM,2:53,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,262,3,12,3,8:42 PM,2:53,Braxton Free Throw 2 of 2 (18 PTS),,,50 - 54,4,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,263,6,1,3,8:42 PM,2:46,Nolan P.FOUL (P2.T4),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,264,6,1,3,8:43 PM,2:42,Nolan P.FOUL (P3.PN),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,265,3,11,3,8:43 PM,2:42,,,Douglas Free Throw 1 of 2 (19 PTS),51 - 54,3,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,266,3,12,3,8:43 PM,2:42,,,Douglas Free Throw 2 of 2 (20 PTS),52 - 54,2,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,267,1,1,3,8:44 PM,2:24,Braxton 17' Jump Shot (20 PTS) (Nolan 7 AST),,,52 - 56,4,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,268,1,1,3,8:44 PM,2:02,,,Douglas 15' Jump Shot (22 PTS) (Bond 2 AST),54 - 56,2,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,269,2,1,3,8:44 PM,1:46,MISS Powell 15' Jump Shot,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,270,4,0,3,8:44 PM,1:45,,,Sutton-Brown REBOUND (Off:0 Def:2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,271,6,3,3,8:44 PM,1:45,Braxton L.B.FOUL (P2.PN),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,272,3,11,3,8:45 PM,1:45,,,Sutton-Brown Free Throw 1 of 2 (11 PTS),55 - 56,1,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,292,8,0,3,8:45 PM,1:45,SUB: Smith FOR Powell,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,273,3,12,3,8:45 PM,1:45,,,Sutton-Brown Free Throw 2 of 2 (12 PTS),56 - 56,TIE,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,274,6,1,3,8:45 PM,1:37,,,Sutton-Brown P.FOUL (P4.T4),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,275,8,0,3,8:46 PM,1:37,,,SUB: Hoffman FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,276,2,1,3,8:46 PM,1:25,MISS Pierson 12' Jump Shot,,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,277,4,0,3,8:46 PM,1:24,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,279,2,1,3,8:46 PM,1:16,MISS Pierson 16' Jump Shot,,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,280,4,0,3,8:46 PM,1:15,,,Douglas REBOUND (Off:0 Def:4),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,281,2,1,3,8:47 PM,1:05,,,MISS White 24' 3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,282,4,0,3,8:47 PM,1:04,Nolan REBOUND (Off:0 Def:2),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,283,5,2,3,8:47 PM,0:56,Hornbuckle Lost Ball Turnover (P2.T17),,Bond STEAL (1 STL),,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,284,5,2,3,8:47 PM,0:47,Hornbuckle STEAL (4 STL),,White Lost Ball Turnover (P2.T23),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,285,2,1,3,8:47 PM,0:37,MISS Hornbuckle  3PT Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,286,4,0,3,8:47 PM,0:36,,,Hoffman REBOUND (Off:2 Def:2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,287,1,5,3,8:47 PM,0:25,,,Bales  Layup (5 PTS) (White 6 AST),58 - 56,-2,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,288,2,1,3,8:48 PM,0:01,MISS Smith  3PT Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,289,4,0,3,8:48 PM,0:00,,,Bales REBOUND (Off:0 Def:1),,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,290,13,0,3,8:48 PM,0:00,,End of 3rd Period (8:48 PM EST),,58 - 56,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,294,12,0,4,8:51 PM,10:00,,Start of 4th Period (8:51 PM EST),,58 - 56,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,295,1,1,4,8:51 PM,9:36,,,Bond 25' 3PT Jump Shot (5 PTS) (Bevilaqua 2 AST),61 - 56,-5,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,296,1,1,4,8:51 PM,9:28,Pierson 16' Jump Shot (18 PTS) (Nolan 8 AST),,,61 - 58,-3,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,297,2,1,4,8:52 PM,9:05,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,298,4,0,4,8:52 PM,9:04,Ford REBOUND (Off:0 Def:5),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,299,2,5,4,8:52 PM,8:52,MISS Braxton  Layup,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,300,4,0,4,8:52 PM,8:51,Ford REBOUND (Off:1 Def:5),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,301,6,1,4,8:52 PM,8:51,,,Bevilaqua P.FOUL (P3.T1),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,302,8,0,4,8:52 PM,8:51,,,SUB: White FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,303,5,2,4,8:53 PM,8:38,Pierson Lost Ball Turnover (P4.T18),,Douglas STEAL (2 STL),,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,304,6,2,4,8:53 PM,8:35,Nolan S.FOUL (P4.T1),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,305,3,11,4,8:53 PM,8:35,,,Douglas Free Throw 1 of 2 (23 PTS),62 - 58,-4,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,306,8,0,4,8:54 PM,8:35,SUB: Sam FOR Pierson,,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,307,3,12,4,8:54 PM,8:35,,,Douglas Free Throw 2 of 2 (24 PTS),63 - 58,-5,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,308,6,2,4,8:54 PM,8:23,,,Bales S.FOUL (P3.T2),,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,309,3,11,4,8:54 PM,8:23,Braxton Free Throw 1 of 2 (21 PTS),,,63 - 59,-4,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,310,3,12,4,8:55 PM,8:23,Braxton Free Throw 2 of 2 (22 PTS),,,63 - 60,-3,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,311,1,42,4,8:55 PM,8:05,,,White  Driving Layup (17 PTS),65 - 60,-5,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,312,2,1,4,8:56 PM,7:51,MISS Nolan  3PT Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,313,4,0,4,8:56 PM,7:50,,,Hoffman REBOUND (Off:2 Def:3),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,314,2,1,4,8:56 PM,7:38,,,MISS Bales 18' Jump Shot,,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,315,4,0,4,8:56 PM,7:37,Sam REBOUND (Off:0 Def:1),,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,316,5,40,4,8:56 PM,7:29,Ford Out of Bounds Lost Ball Turnover (P1.T19),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,317,8,0,4,8:56 PM,7:29,SUB: Pierson FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,318,2,1,4,8:56 PM,7:19,,,MISS White 18' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,319,4,0,4,8:56 PM,7:18,Nolan REBOUND (Off:0 Def:3),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,320,1,5,4,8:56 PM,7:14,Nolan  Layup (8 PTS),,,65 - 62,-3,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,321,2,1,4,8:57 PM,6:52,,,MISS Hoffman 17' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,322,4,0,4,8:57 PM,6:50,Ford REBOUND (Off:1 Def:6),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,323,2,1,4,8:57 PM,6:38,MISS Sam 17' Jump Shot,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,324,4,0,4,8:57 PM,6:37,,,Hoffman REBOUND (Off:2 Def:4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,325,2,1,4,8:57 PM,6:19,,,MISS Bales  3PT Jump Shot,,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,326,4,0,4,8:57 PM,6:19,Sam REBOUND (Off:0 Def:2),,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,327,2,1,4,8:58 PM,6:05,MISS Smith  3PT Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,328,4,0,4,8:58 PM,6:04,,,Douglas REBOUND (Off:0 Def:5),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,329,2,1,4,8:58 PM,5:42,,,MISS Bond 15' Jump Shot,,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,330,4,0,4,8:58 PM,5:40,Ford REBOUND (Off:1 Def:7),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,332,9,4,4,8:58 PM,5:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,336,8,0,4,9:00 PM,5:39,,,SUB: Sutton-Brown FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,337,8,0,4,9:01 PM,5:39,,,SUB: Whittington FOR Bales,,,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,338,8,0,4,9:01 PM,5:39,SUB: Hornbuckle FOR Sam,,,,,4,100416,Sheri Sam,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,339,6,2,4,9:01 PM,5:24,,,Bond S.FOUL (P1.T3),,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,340,3,11,4,9:01 PM,5:24,Nolan Free Throw 1 of 2 (9 PTS),,,65 - 63,-2,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,341,3,12,4,9:02 PM,5:24,Nolan Free Throw 2 of 2 (10 PTS),,,65 - 64,-1,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,347,2,45,4,9:02 PM,5:08,Nolan BLOCK (1 BLK),,MISS Douglas 19' Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0
+1020800011,343,4,0,4,9:02 PM,5:07,Pierson REBOUND (Off:0 Def:1),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,344,2,5,4,9:02 PM,4:50,MISS Ford  Layup,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,345,4,0,4,9:02 PM,4:50,,,Whittington REBOUND (Off:1 Def:2),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,346,6,3,4,9:03 PM,4:50,Ford L.B.FOUL (P3.T2),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,348,6,1,4,9:03 PM,4:42,Ford P.FOUL (P4.T3),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,349,2,1,4,9:03 PM,4:33,,,MISS White 11' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,350,4,0,4,9:03 PM,4:32,Pierson REBOUND (Off:0 Def:2),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,351,6,4,4,9:04 PM,4:32,Pierson OFF.Foul (P2),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,352,5,5,4,9:04 PM,4:32,Pierson Foul Turnover (P5.T20),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,353,2,1,4,9:04 PM,4:23,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,354,4,0,4,9:04 PM,4:22,Hornbuckle REBOUND (Off:1 Def:2),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,355,6,1,4,9:04 PM,4:16,,,Whittington P.FOUL (P2.T4),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,356,8,0,4,9:04 PM,4:16,,,SUB: Bevilaqua FOR White,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,357,2,1,4,9:05 PM,4:04,MISS Nolan 16' Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,358,4,0,4,9:05 PM,4:03,,,Whittington REBOUND (Off:1 Def:3),,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,359,5,11,4,9:05 PM,3:39,,,Fever Turnover: Shot Clock (T#24),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020800011,360,1,5,4,9:06 PM,3:25,Ford  Layup (8 PTS) (Pierson 2 AST),,,65 - 66,1,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,361,6,2,4,9:06 PM,3:25,,,Bond S.FOUL (P2.PN),,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,363,8,0,4,9:06 PM,3:25,,,SUB: Hoffman FOR Whittington,,,5,201495,Khadijah Whittington,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,364,3,10,4,9:06 PM,3:25,MISS Ford Free Throw 1 of 1,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,365,4,0,4,9:06 PM,3:24,,,Hoffman REBOUND (Off:2 Def:5),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,366,2,1,4,9:07 PM,3:04,,,MISS Hoffman 17' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,367,4,0,4,9:07 PM,3:03,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,368,2,1,4,9:07 PM,2:48,,,MISS Bond  3PT Jump Shot,,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,369,4,0,4,9:07 PM,2:45,,,Hoffman REBOUND (Off:3 Def:5),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,370,1,72,4,9:07 PM,2:44,,,Hoffman  Putback Layup (4 PTS),67 - 66,-1,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,371,9,1,4,9:08 PM,2:34,SHOCK Timeout: Regular (Full 3 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,373,10,0,4,9:10 PM,2:34,Jump Ball Pierson vs. Bevilaqua: Tip to Nolan,,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0
+1020800011,374,2,1,4,9:11 PM,2:20,MISS Pierson 16' Jump Shot,,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,375,4,0,4,9:11 PM,2:19,Ford REBOUND (Off:2 Def:7),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,376,9,2,4,9:11 PM,2:15,SHOCK Timeout: Short (Full 3 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,378,1,1,4,9:12 PM,2:03,Nolan 14' Jump Shot (12 PTS) (Pierson 3 AST),,,67 - 68,1,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,379,5,1,4,9:12 PM,1:49,Nolan STEAL (2 STL),,Bevilaqua Bad Pass Turnover (P5.T25),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,380,2,5,4,9:13 PM,1:44,MISS Nolan  Layup,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,381,4,0,4,9:13 PM,1:43,Pierson REBOUND (Off:1 Def:2),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,382,1,72,4,9:13 PM,1:41,Pierson  Putback Layup (20 PTS),,,67 - 70,3,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,383,6,4,4,9:13 PM,1:31,,,Sutton-Brown OFF.Foul (P5),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,384,5,5,4,9:13 PM,1:31,,,Sutton-Brown Foul Turnover (P2.T26),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020800011,385,8,0,4,9:13 PM,1:31,,,SUB: White FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,386,5,1,4,9:13 PM,1:20,Smith Bad Pass Turnover (P2.T21),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020800011,387,6,1,4,9:14 PM,1:10,Pierson P.FOUL (P3.T4),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,388,2,5,4,9:14 PM,1:04,,,MISS Hoffman  Layup,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,389,4,0,4,9:14 PM,1:02,,,Hoffman REBOUND (Off:4 Def:5),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,390,1,72,4,9:14 PM,1:01,,,Hoffman  Putback Layup (6 PTS),69 - 70,1,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,391,2,1,4,9:15 PM,0:34,MISS Smith  3PT Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,392,4,0,4,9:15 PM,0:33,,,Hoffman REBOUND (Off:4 Def:6),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,393,2,5,4,9:15 PM,0:27,Ford BLOCK (1 BLK),,MISS White  Layup,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0
+1020800011,394,4,0,4,9:15 PM,0:25,Nolan REBOUND (Off:0 Def:4),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,395,6,2,4,9:15 PM,0:24,,,Bond S.FOUL (P3.PN),,,5,200697,LaToya Bond,1611661325.0,Indiana,Fever,IND,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,396,3,11,4,9:15 PM,0:24,Nolan Free Throw 1 of 2 (13 PTS),,,69 - 71,2,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,397,3,12,4,9:16 PM,0:24,Nolan Free Throw 2 of 2 (14 PTS),,,69 - 72,3,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,398,9,2,4,9:16 PM,0:24,,,Fever Timeout: Short (Reg.3 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,400,2,1,4,9:17 PM,0:20,Pierson BLOCK (1 BLK),,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0
+1020800011,401,4,0,4,9:17 PM,0:19,Ford REBOUND (Off:2 Def:8),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,402,6,3,4,9:17 PM,0:19,,,Hoffman L.B.FOUL (P4.PN),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,403,3,11,4,9:18 PM,0:19,Ford Free Throw 1 of 2 (9 PTS),,,69 - 73,4,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,404,3,12,4,9:19 PM,0:19,MISS Ford Free Throw 2 of 2,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,405,4,0,4,9:19 PM,0:18,,,Sutton-Brown REBOUND (Off:0 Def:3),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,406,9,2,4,9:19 PM,0:18,,,Fever Timeout: Short (Reg.3 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,408,6,1,4,9:20 PM,0:16,Smith P.FOUL (P3.PN),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020800011,409,3,11,4,9:20 PM,0:16,,,Douglas Free Throw 1 of 2 (25 PTS),70 - 73,3,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,410,3,12,4,9:21 PM,0:16,,,Douglas Free Throw 2 of 2 (26 PTS),71 - 73,2,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020800011,411,9,2,4,9:21 PM,0:16,SHOCK Timeout: Short (Full 3 Short 2),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,413,9,1,4,9:22 PM,0:16,SHOCK Timeout: Regular (Full 4 Short 2),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,414,8,0,4,9:24 PM,0:16,SUB: Powell FOR Hornbuckle,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,415,6,1,4,9:24 PM,0:13,,,Douglas P.FOUL (P1.PN),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,416,3,11,4,9:24 PM,0:13,Smith Free Throw 1 of 2 (3 PTS),,,71 - 74,3,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,417,8,0,4,9:24 PM,0:13,SUB: Hornbuckle FOR Powell,,,,,4,100414,Elaine Powell,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,418,3,12,4,9:24 PM,0:13,MISS Smith Free Throw 2 of 2,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,419,4,0,4,9:25 PM,0:12,Pierson REBOUND (Off:2 Def:2),,,,,4,100888,Plenette Pierson,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,420,6,1,4,9:25 PM,0:07,,,White P.FOUL (P3.PN),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020800011,421,3,11,4,9:25 PM,0:07,Smith Free Throw 1 of 2 (4 PTS),,,71 - 75,4,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,422,3,12,4,9:25 PM,0:07,Smith Free Throw 2 of 2 (5 PTS),,,71 - 76,5,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020800011,423,9,1,4,9:25 PM,0:07,,,Fever Timeout: Regular (Reg.4 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800011,425,8,0,4,9:27 PM,0:07,,,SUB: Bales FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,201054,Alison Bales,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020800011,426,5,2,4,9:27 PM,0:00,Hornbuckle STEAL (5 STL),,White Lost Ball Turnover (P3.T27),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020800011,429,13,0,4,9:29 PM,0:00,,End of 4th Period (9:29 PM EST),,71 - 76,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

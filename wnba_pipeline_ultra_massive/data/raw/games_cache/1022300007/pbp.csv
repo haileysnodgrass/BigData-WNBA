@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022300007,2,12,0,1,1:03 PM,10:00,,Start of 1st Period (1:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,4,10,0,1,1:03 PM,10:00,Jump Ball Jones vs. Austin: Tip to Atkins,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1
+1022300007,7,6,1,1,1:03 PM,9:48,Hiedeman P.FOUL (P1.T1),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,9,1,86,1,1:04 PM,9:39,,,Delle Donne 10' Turnaround Fadeaway (2 PTS) (Atkins 1 AST),2 - 0,-2,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,11,6,2,1,1:04 PM,9:27,,,Austin S.FOUL (P1.T1),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,13,3,11,1,1:04 PM,9:27,MISS Hayes Free Throw 1 of 2,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,14,4,1,1,1:04 PM,9:27,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,15,3,12,1,1:04 PM,9:27,Hayes Free Throw 2 of 2 (1 PTS),,,2 - 1,-1,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,16,1,5,1,1:05 PM,9:07,,,Austin 5' Layup (2 PTS) (Atkins 2 AST),4 - 1,-3,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,18,6,2,1,1:05 PM,9:07,Thomas S.FOUL (P1.T2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,20,3,10,1,1:06 PM,9:07,,,MISS Austin Free Throw 1 of 1,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,21,4,0,1,1:06 PM,9:03,Jones REBOUND (Off:0 Def:1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,22,1,5,1,1:06 PM,8:48,Jones 3' Layup (2 PTS) (Bonner 1 AST),,,4 - 3,-1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,24,2,79,1,1:06 PM,8:36,,,MISS Sykes 16' Pullup Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,25,4,0,1,1:06 PM,8:33,Hiedeman REBOUND (Off:0 Def:1),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,26,2,1,1,1:06 PM,8:23,MISS Hiedeman 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,27,4,0,1,1:06 PM,8:19,,,Delle Donne REBOUND (Off:0 Def:1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,28,2,1,1,1:06 PM,8:11,,,MISS Delle Donne 7' Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,29,4,0,1,1:07 PM,8:07,,,Austin REBOUND (Off:1 Def:0),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,30,1,5,1,1:07 PM,8:06,,,Delle Donne 4' Layup (4 PTS) (Austin 1 AST),6 - 3,-3,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,32,2,1,1,1:07 PM,7:42,MISS Hiedeman 25' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,33,4,0,1,1:07 PM,7:39,,,Sykes REBOUND (Off:0 Def:1),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,34,6,2,1,1:07 PM,7:35,Hayes S.FOUL (P1.T3),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,36,3,11,1,1:08 PM,7:35,,,Sykes Free Throw 1 of 2 (1 PTS),7 - 3,-4,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,37,3,12,1,1:08 PM,7:35,,,Sykes Free Throw 2 of 2 (2 PTS),8 - 3,-5,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,38,2,101,1,1:08 PM,7:22,MISS Thomas 8' Driving Floating Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,39,4,0,1,1:08 PM,7:20,,,Delle Donne REBOUND (Off:0 Def:2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,40,1,5,1,1:08 PM,7:12,,,Austin 3' Layup (4 PTS),10 - 3,-7,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,41,2,71,1,1:09 PM,6:51,MISS Bonner 6' Finger Roll Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,42,4,0,1,1:09 PM,6:48,,,Austin REBOUND (Off:1 Def:1),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,43,5,1,1,1:09 PM,6:43,Thomas STEAL (1 STL),,Cloud Bad Pass Turnover (P1.T1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,45,2,5,1,1:09 PM,6:35,MISS Bonner 2' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,46,4,0,1,1:09 PM,6:30,,,Delle Donne REBOUND (Off:0 Def:3),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,47,5,1,1,1:09 PM,6:16,Jones STEAL (1 STL),,Cloud Bad Pass Turnover (P2.T2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,49,2,1,1,1:09 PM,6:09,MISS Hayes 9' Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,50,4,0,1,1:09 PM,6:08,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,51,6,3,1,1:10 PM,6:08,Jones L.B.FOUL (P1.T4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,53,1,71,1,1:10 PM,5:53,,,Sykes 3' Finger Roll Layup (4 PTS),12 - 3,-9,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,54,9,1,1,1:10 PM,5:40,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,55,2,1,1,1:13 PM,5:34,MISS Bonner 24' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,56,4,0,1,1:13 PM,5:31,,,Austin REBOUND (Off:1 Def:2),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,58,1,79,1,1:14 PM,5:16,,,Delle Donne 15' Pullup Jump Shot (6 PTS) (Cloud 1 AST),14 - 3,-11,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,59,2,5,1,1:14 PM,5:00,MISS Jones 5' Layup,,Austin BLOCK (1 BLK),,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1
+1022300007,61,4,0,1,1:14 PM,4:57,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,62,1,79,1,1:14 PM,4:49,Hiedeman 17' Pullup Jump Shot (2 PTS) (Thomas 1 AST),,,14 - 5,-9,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,64,6,1,1,1:15 PM,4:36,Bonner P.FOUL (P1.PN),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,66,3,11,1,1:15 PM,4:36,,,Atkins Free Throw 1 of 2 (1 PTS),15 - 5,-10,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,68,3,12,1,1:15 PM,4:36,,,Atkins Free Throw 2 of 2 (2 PTS),16 - 5,-11,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,69,5,1,1,1:16 PM,4:25,Thomas Bad Pass Turnover (P1.T1),,Cloud STEAL (1 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,71,2,5,1,1:16 PM,4:16,,,MISS Austin 4' Layup,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,72,4,0,1,1:16 PM,4:14,Thomas REBOUND (Off:0 Def:1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,142,2,6,1,1:16 PM,4:10,MISS Hayes 2' Driving Layup,,Cloud BLOCK (1 BLK),,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1
+1022300007,144,4,0,1,1:16 PM,4:09,Hayes REBOUND (Off:1 Def:0),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,73,2,1,1,1:16 PM,4:00,MISS Hayes 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,74,4,0,1,1:16 PM,4:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,75,8,0,1,1:16 PM,4:00,,,SUB: Walker-Kimbrough FOR Sykes,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,77,2,5,1,1:17 PM,3:53,MISS Hiedeman 7' Layup,,Delle Donne BLOCK (1 BLK),,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1022300007,79,4,0,1,1:17 PM,3:51,,,Austin REBOUND (Off:1 Def:3),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,80,2,1,1,1:17 PM,3:43,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,81,4,0,1,1:17 PM,3:39,Bonner REBOUND (Off:0 Def:1),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,82,1,1,1,1:17 PM,3:31,Hayes 25' 3PT Jump Shot (4 PTS) (Hiedeman 1 AST),,,16 - 8,-8,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,84,2,79,1,1:17 PM,3:12,,,MISS Delle Donne 10' Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,85,4,0,1,1:17 PM,3:11,Bonner REBOUND (Off:0 Def:2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,86,6,1,1,1:17 PM,3:11,,,Austin P.FOUL (P2.T2),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,88,8,0,1,1:17 PM,3:11,SUB: Allen FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,89,8,0,1,1:17 PM,3:11,,,SUB: Toliver FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,92,8,0,1,1:18 PM,3:11,,,SUB: Hawkins FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,94,1,5,1,1:18 PM,2:58,Thomas 4' Layup (2 PTS) (Jones 1 AST),,,16 - 10,-6,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,96,6,1,1,1:18 PM,2:43,Allen P.FOUL (P1.PN),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,98,3,11,1,1:19 PM,2:43,,,Delle Donne Free Throw 1 of 2 (7 PTS),17 - 10,-7,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,99,3,12,1,1:19 PM,2:43,,,Delle Donne Free Throw 2 of 2 (8 PTS),18 - 10,-8,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,101,6,2,1,1:19 PM,2:28,,,Hawkins S.FOUL (P1.T3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,103,3,11,1,1:20 PM,2:28,Jones Free Throw 1 of 2 (3 PTS),,,18 - 11,-7,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,104,8,0,1,1:20 PM,2:28,,,SUB: Zahui B FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,106,3,12,1,1:20 PM,2:28,Jones Free Throw 2 of 2 (4 PTS),,,18 - 12,-6,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,107,1,6,1,1:20 PM,2:16,,,Cloud 5' Driving Layup (2 PTS) (Zahui B 1 AST),20 - 12,-8,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,109,6,2,1,1:20 PM,2:16,Jones S.FOUL (P2.PN),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,111,8,0,1,1:21 PM,2:16,SUB: Nelson-Ododa FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,113,3,10,1,1:21 PM,2:16,,,Cloud Free Throw 1 of 1 (3 PTS),21 - 12,-9,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,114,5,4,1,1:21 PM,1:59,Hayes Traveling Turnover (P1.T2),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022300007,189,7,1,1,1:22 PM,1:59,SUN Violation: Delay of game Violation,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,115,2,5,1,1:22 PM,1:44,Allen BLOCK (1 BLK),,MISS Hawkins 5' Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,1
+1022300007,117,4,0,1,1:22 PM,1:40,Nelson-Ododa REBOUND (Off:0 Def:1),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,118,1,5,1,1:22 PM,1:36,Hayes 4' Layup (6 PTS),,,21 - 14,-7,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,119,2,1,1,1:22 PM,1:26,,,MISS Zahui B 24' 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,120,4,0,1,1:22 PM,1:22,Thomas REBOUND (Off:0 Def:2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,121,2,1,1,1:22 PM,1:15,MISS Allen 3PT Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,122,4,0,1,1:22 PM,1:10,,,Walker-Kimbrough REBOUND (Off:0 Def:1),,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,123,2,1,1,1:23 PM,1:03,,,MISS Walker-Kimbrough 24' 3PT Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,124,4,0,1,1:23 PM,0:59,Hiedeman REBOUND (Off:0 Def:2),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,125,2,79,1,1:23 PM,0:51,MISS Hayes 21' Pullup Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,126,4,0,1,1:23 PM,0:49,,,Hawkins REBOUND (Off:0 Def:1),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,127,2,1,1,1:23 PM,0:38,Nelson-Ododa BLOCK (1 BLK),,MISS Cloud 9' Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,1
+1022300007,132,4,0,1,1:23 PM,0:33,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,129,10,0,1,1:24 PM,0:33,Jump Ball Nelson-Ododa vs. Cloud: Tip to Hayes,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,1
+1022300007,133,6,1,1,1:24 PM,0:31,,,Toliver P.FOUL (P1.T4),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,135,8,0,1,1:24 PM,0:31,,,SUB: Sykes FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,137,2,1,1,1:24 PM,0:25,MISS Hayes 20' Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,138,4,0,1,1:24 PM,0:21,,,Sykes REBOUND (Off:0 Def:2),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,139,1,79,1,1:25 PM,0:04,,,Zahui B 24' 3PT Pullup Jump Shot (3 PTS) (Sykes 1 AST),24 - 14,-10,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,141,13,0,1,1:25 PM,0:00,,End of 1st Period (1:25 PM EST),,24 - 14,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,151,12,0,2,1:28 PM,10:00,,Start of 2nd Period (1:28 PM EST),,24 - 14,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,152,2,5,2,1:29 PM,9:40,MISS Allen 4' Layup,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,153,4,0,2,1:29 PM,9:37,,,Delle Donne REBOUND (Off:0 Def:4),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,154,2,1,2,1:29 PM,9:19,,,MISS Sykes 20' Jump Shot,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,155,4,0,2,1:29 PM,9:17,,,Atkins REBOUND (Off:1 Def:0),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,156,1,5,2,1:30 PM,9:16,,,Delle Donne 3' Layup (10 PTS) (Atkins 3 AST),26 - 14,-12,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,158,2,1,2,1:30 PM,9:02,MISS Hiedeman 24' 3PT Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,159,4,0,2,1:30 PM,9:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,160,2,1,2,1:30 PM,8:48,,,MISS Zahui B 25' 3PT Jump Shot,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,161,4,0,2,1:30 PM,8:44,Allen REBOUND (Off:0 Def:1),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,162,1,66,2,1:30 PM,8:30,Thomas 15' Jump Bank Shot (4 PTS) (Harris 1 AST),,,26 - 16,-10,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,164,2,6,2,1:31 PM,8:11,,,MISS Sykes 2' Driving Layup,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,165,4,0,2,1:31 PM,8:08,Allen REBOUND (Off:0 Def:2),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,166,2,5,2,1:31 PM,8:06,MISS Thomas 4' Layup,,Delle Donne BLOCK (2 BLK),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1
+1022300007,168,4,0,2,1:31 PM,8:04,,,Delle Donne REBOUND (Off:0 Def:5),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,169,2,6,2,1:31 PM,7:51,,,MISS Zahui B 4' Driving Layup,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,170,4,0,2,1:31 PM,7:48,,,Zahui B REBOUND (Off:1 Def:0),,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,171,2,1,2,1:31 PM,7:46,,,MISS Toliver 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,172,4,0,2,1:31 PM,7:42,Thomas REBOUND (Off:0 Def:3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,173,1,5,2,1:31 PM,7:40,Hiedeman 4' Layup (4 PTS) (Thomas 2 AST),,,26 - 18,-8,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,175,9,1,2,1:32 PM,7:34,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,176,8,0,2,1:34 PM,7:34,SUB: Bonner FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,177,8,0,2,1:34 PM,7:34,,,SUB: Cloud FOR Toliver,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,178,8,0,2,1:34 PM,7:34,,,SUB: Austin FOR Zahui B,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,182,2,79,2,1:35 PM,7:19,,,MISS Delle Donne 6' Pullup Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,183,4,0,2,1:35 PM,7:15,Nelson-Ododa REBOUND (Off:0 Def:2),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,184,1,1,2,1:35 PM,7:06,Bonner 3PT Jump Shot (3 PTS) (Thomas 3 AST),,,26 - 21,-5,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,186,1,5,2,1:36 PM,6:43,,,Austin 2' Layup (6 PTS) (Cloud 2 AST),28 - 21,-7,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,188,1,79,2,1:36 PM,6:27,Nelson-Ododa 10' Pullup Jump Shot (2 PTS),,,28 - 23,-5,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,190,2,1,2,1:36 PM,6:13,,,MISS Atkins 27' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,191,4,0,2,1:36 PM,6:09,Thomas REBOUND (Off:0 Def:4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,192,1,1,2,1:36 PM,6:03,Allen 25' 3PT Jump Shot (3 PTS) (Bonner 2 AST),,,28 - 26,-2,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,194,1,1,2,1:37 PM,5:50,,,Delle Donne 24' 3PT Jump Shot (13 PTS) (Cloud 3 AST),31 - 26,-5,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,196,6,1,2,1:37 PM,5:34,,,Cloud P.FOUL (P1.T1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,198,8,0,2,1:37 PM,5:34,SUB: Jones FOR Thomas,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,200,6,4,2,1:37 PM,5:32,Jones OFF.Foul (P3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,202,5,37,2,1:37 PM,5:32,Jones Offensive Foul Turnover (P1.T3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022300007,203,2,57,2,1:38 PM,5:16,,,MISS Cloud 7' Driving Hook Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,204,4,0,2,1:38 PM,5:14,Harris REBOUND (Off:0 Def:1),,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,205,1,6,2,1:38 PM,5:04,Bonner 2' Driving Layup (5 PTS),,,31 - 28,-3,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,206,6,1,2,1:38 PM,4:45,Nelson-Ododa P.FOUL (P1.T1),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,208,8,0,2,1:39 PM,4:45,SUB: Thomas FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,210,2,79,2,1:39 PM,4:30,Nelson-Ododa BLOCK (2 BLK),,MISS Austin 15' Pullup Jump Shot,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,1
+1022300007,212,4,0,2,1:39 PM,4:27,Thomas REBOUND (Off:0 Def:5),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,213,1,5,2,1:39 PM,4:24,Bonner 2' Layup (7 PTS) (Thomas 4 AST),,,31 - 30,-1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,215,5,6,2,1:40 PM,4:11,,,Austin Double Dribble Turnover (P1.T3),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1022300007,216,2,79,2,1:40 PM,3:59,MISS Thomas 8' Pullup Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,218,4,0,2,1:40 PM,3:58,,,Delle Donne REBOUND (Off:0 Def:6),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,219,6,2,2,1:40 PM,3:45,Harris S.FOUL (P1.T2),,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,221,3,11,2,1:41 PM,3:45,,,Atkins Free Throw 1 of 2 (3 PTS),32 - 30,-2,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,222,8,0,2,1:41 PM,3:45,,,SUB: Hawkins FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,223,8,0,2,1:41 PM,3:45,,,SUB: Walker-Kimbrough FOR Sykes,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,226,8,0,2,1:41 PM,3:45,SUB: Hayes FOR Allen,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,228,3,12,2,1:41 PM,3:45,,,Atkins Free Throw 2 of 2 (4 PTS),33 - 30,-3,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,229,2,79,2,1:42 PM,3:25,MISS Bonner 16' Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,230,4,0,2,1:42 PM,3:21,,,Hawkins REBOUND (Off:0 Def:2),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,231,2,1,2,1:42 PM,3:15,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,232,4,0,2,1:42 PM,3:12,Thomas REBOUND (Off:0 Def:6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,233,6,2,2,1:42 PM,3:11,,,Walker-Kimbrough S.FOUL (P1.T2),,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,235,3,11,2,1:42 PM,3:11,Nelson-Ododa Free Throw 1 of 2 (3 PTS),,,33 - 31,-2,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,236,3,12,2,1:42 PM,3:11,MISS Nelson-Ododa Free Throw 2 of 2,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,237,4,0,2,1:43 PM,3:07,,,Hawkins REBOUND (Off:0 Def:3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,238,2,6,2,1:43 PM,2:49,,,MISS Delle Donne 3' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,239,4,0,2,1:43 PM,2:47,Nelson-Ododa REBOUND (Off:0 Def:3),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,240,6,11,2,1:43 PM,2:47,,Eric Thibault Foul:T.FOUL,,,,7,203455,,,,,,0,0,,,,,,1,0,,,,,,1
+1022300007,241,3,16,2,1:44 PM,2:47,MISS Bonner Free Throw Technical,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022300007,242,4,1,2,1:44 PM,2:47,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,244,2,5,2,1:45 PM,2:25,MISS Bonner 5' Layup,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,245,4,0,2,1:45 PM,2:24,Nelson-Ododa REBOUND (Off:1 Def:3),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,247,6,2,2,1:45 PM,2:24,,,Hawkins S.FOUL (P2.T3),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,249,9,4,2,1:45 PM,2:24,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,251,3,11,2,1:49 PM,2:24,MISS Nelson-Ododa Free Throw 1 of 2,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,252,4,1,2,1:49 PM,2:24,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,253,3,12,2,1:49 PM,2:24,MISS Nelson-Ododa Free Throw 2 of 2,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,254,4,0,2,1:49 PM,2:21,,,Hawkins REBOUND (Off:0 Def:4),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,255,1,79,2,1:49 PM,2:00,,,Atkins 16' Pullup Jump Shot (6 PTS),35 - 31,-4,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,256,2,1,2,1:49 PM,1:45,MISS Hayes 3PT Jump Shot,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,257,4,0,2,1:50 PM,1:41,Bonner REBOUND (Off:1 Def:2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,258,1,72,2,1:50 PM,1:40,Bonner 4' Putback Layup (9 PTS),,,35 - 33,-2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,259,2,1,2,1:50 PM,1:31,,,MISS Hawkins 24' 3PT Jump Shot,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,260,4,0,2,1:50 PM,1:31,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,261,6,3,2,1:50 PM,1:31,,,Atkins L.B.FOUL (P1.T4),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,263,8,0,2,1:50 PM,1:31,SUB: Hiedeman FOR Harris,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,265,2,79,2,1:50 PM,1:14,MISS Thomas 10' Pullup Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,266,4,0,2,1:51 PM,1:10,,,Hawkins REBOUND (Off:0 Def:5),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,267,6,26,2,1:51 PM,0:57,,,Delle Donne Offensive Charge Foul (P1),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,269,5,37,2,1:51 PM,0:57,,,Delle Donne Offensive Foul Turnover (P1.T4),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1022300007,270,6,1,2,1:51 PM,0:43,,,Cloud P.FOUL (P2.PN),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,272,3,11,2,1:52 PM,0:43,MISS Bonner Free Throw 1 of 2,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,273,4,1,2,1:52 PM,0:43,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,274,8,0,2,1:52 PM,0:43,,,SUB: Sykes FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,276,3,12,2,1:52 PM,0:43,Bonner Free Throw 2 of 2 (10 PTS),,,35 - 34,-1,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,277,1,6,2,1:53 PM,0:20,,,Hawkins 4' Driving Layup (2 PTS) (Sykes 2 AST),37 - 34,-3,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,279,6,2,2,1:53 PM,0:20,Nelson-Ododa S.FOUL (P2.T3),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,281,3,10,2,1:53 PM,0:20,,,Hawkins Free Throw 1 of 1 (3 PTS),38 - 34,-4,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,282,9,1,2,1:54 PM,0:16,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,283,2,79,2,1:55 PM,0:02,MISS Bonner 28' 3PT Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,284,4,0,2,1:55 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,285,13,0,2,1:56 PM,0:00,,End of 2nd Period (1:56 PM EST),,38 - 34,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,292,12,0,3,2:12 PM,10:00,,Start of 3rd Period (2:12 PM EST),,38 - 34,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,293,2,44,3,2:12 PM,9:48,MISS Hayes 3' Reverse Layup,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,294,4,0,3,2:12 PM,9:46,Thomas REBOUND (Off:1 Def:6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,295,1,72,3,2:12 PM,9:44,Thomas 2' Putback Layup (6 PTS),,,38 - 36,-2,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,296,2,1,3,2:13 PM,9:24,,,MISS Delle Donne 27' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,297,4,0,3,2:13 PM,9:20,Hayes REBOUND (Off:1 Def:1),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,298,2,6,3,2:13 PM,9:13,MISS Jones 4' Driving Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,300,4,0,3,2:13 PM,9:09,,,Austin REBOUND (Off:1 Def:4),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,301,2,1,3,2:13 PM,9:04,,,MISS Atkins 25' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,302,4,0,3,2:13 PM,9:01,Thomas REBOUND (Off:1 Def:7),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,303,2,78,3,2:13 PM,8:46,MISS Thomas 11' Floating Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,304,4,0,3,2:13 PM,8:42,,,Sykes REBOUND (Off:0 Def:3),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,360,5,2,3,2:14 PM,8:24,Thomas STEAL (2 STL),,Delle Donne Lost Ball Turnover (P2.T5),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,308,6,1,3,2:14 PM,8:19,,,Atkins P.FOUL (P2.T1),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,310,2,47,3,2:14 PM,8:12,MISS Bonner 6' Turnaround Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,311,4,0,3,2:14 PM,8:09,,,Delle Donne REBOUND (Off:0 Def:7),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,312,1,1,3,2:14 PM,8:03,,,Cloud 19' Jump Shot (5 PTS),40 - 36,-4,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,313,1,6,3,2:15 PM,7:54,Thomas 3' Driving Layup (8 PTS) (Hiedeman 2 AST),,,40 - 38,-2,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,314,6,2,3,2:15 PM,7:54,,,Delle Donne S.FOUL (P2.T2),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,316,3,10,3,2:15 PM,7:54,Thomas Free Throw 1 of 1 (9 PTS),,,40 - 39,-1,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,317,1,6,3,2:16 PM,7:35,,,Austin 4' Driving Layup (8 PTS) (Delle Donne 1 AST),42 - 39,-3,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,319,6,2,3,2:16 PM,7:35,Thomas S.FOUL (P2.T1),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,321,3,10,3,2:16 PM,7:35,,,Austin Free Throw 1 of 1 (9 PTS),43 - 39,-4,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,322,1,6,3,2:16 PM,7:21,Hayes 2' Driving Layup (8 PTS) (Hiedeman 3 AST),,,43 - 41,-2,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,323,1,47,3,2:17 PM,7:10,,,Austin 5' Turnaround Jump Shot (11 PTS) (Cloud 4 AST),45 - 41,-4,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,325,6,2,3,2:17 PM,7:10,Thomas S.FOUL (P3.T2),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,327,3,10,3,2:17 PM,7:10,,,MISS Austin Free Throw 1 of 1,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,328,4,0,3,2:17 PM,7:07,Thomas REBOUND (Off:1 Def:8),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,329,1,6,3,2:17 PM,6:55,Bonner 3' Driving Layup (12 PTS) (Jones 2 AST),,,45 - 43,-2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,331,2,6,3,2:18 PM,6:38,,,MISS Delle Donne 5' Driving Layup,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,332,4,0,3,2:18 PM,6:35,Jones REBOUND (Off:0 Def:2),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,333,2,1,3,2:18 PM,6:29,MISS Bonner 24' 3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,334,4,0,3,2:18 PM,6:24,,,Austin REBOUND (Off:1 Def:5),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,335,1,79,3,2:18 PM,6:13,,,Atkins 17' Pullup Jump Shot (8 PTS) (Sykes 3 AST),47 - 43,-4,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,338,5,2,3,2:19 PM,5:52,Thomas Lost Ball Turnover (P2.T4),,Cloud STEAL (2 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,340,5,2,3,2:19 PM,5:47,Bonner STEAL (1 STL),,Delle Donne Lost Ball Turnover (P3.T6),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,342,6,2,3,2:19 PM,5:42,,,Cloud S.FOUL (P3.T3),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,344,3,11,3,2:20 PM,5:42,Bonner Free Throw 1 of 2 (13 PTS),,,47 - 44,-3,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,345,3,12,3,2:20 PM,5:42,Bonner Free Throw 2 of 2 (14 PTS),,,47 - 45,-2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,346,1,47,3,2:20 PM,5:23,,,Austin 10' Turnaround Jump Shot (13 PTS),49 - 45,-4,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,347,1,1,3,2:21 PM,5:03,Jones 17' Jump Shot (6 PTS) (Hayes 1 AST),,,49 - 47,-2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,349,1,6,3,2:21 PM,4:44,,,Cloud 7' Driving Layup (7 PTS),51 - 47,-4,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,350,1,80,3,2:21 PM,4:32,Hiedeman 20' Step Back Jump Shot (6 PTS),,,51 - 49,-2,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,351,6,1,3,2:22 PM,4:20,Bonner P.FOUL (P2.T3),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,353,8,0,3,2:22 PM,4:20,SUB: Allen FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,354,8,0,3,2:22 PM,4:20,,,SUB: Walker-Kimbrough FOR Sykes,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,357,9,4,3,2:22 PM,4:20,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,362,2,1,3,2:26 PM,4:04,,,MISS Walker-Kimbrough 25' 3PT Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,363,4,0,3,2:26 PM,4:01,Jones REBOUND (Off:0 Def:3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,364,2,1,3,2:26 PM,3:46,MISS Thomas 5' Jump Shot,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,365,4,0,3,2:26 PM,3:42,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,366,1,6,3,2:26 PM,3:39,,,Austin 4' Driving Layup (15 PTS) (Cloud 5 AST),53 - 49,-4,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,368,2,1,3,2:26 PM,3:22,MISS Allen 24' 3PT Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,369,4,0,3,2:26 PM,3:19,,,Cloud REBOUND (Off:0 Def:2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,370,2,1,3,2:26 PM,3:12,,,MISS Austin 5' Jump Shot,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,371,4,0,3,2:26 PM,3:09,Thomas REBOUND (Off:1 Def:9),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,372,2,1,3,2:27 PM,3:04,MISS Hiedeman 17' Jump Shot,,Walker-Kimbrough BLOCK (1 BLK),,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,1
+1022300007,374,4,0,3,2:27 PM,3:03,Hayes REBOUND (Off:2 Def:1),,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,375,1,5,3,2:27 PM,2:57,Jones 3' Layup (8 PTS) (Hayes 2 AST),,,53 - 51,-2,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,377,2,79,3,2:27 PM,2:42,,,MISS Atkins 18' Pullup Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,378,4,0,3,2:27 PM,2:39,Allen REBOUND (Off:0 Def:3),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,379,2,5,3,2:27 PM,2:31,MISS Jones 3' Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,380,4,0,3,2:27 PM,2:28,,,Delle Donne REBOUND (Off:0 Def:8),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,381,2,1,3,2:27 PM,2:22,,,MISS Delle Donne 6' Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,382,4,0,3,2:27 PM,2:18,Thomas REBOUND (Off:1 Def:10),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,383,2,1,3,2:27 PM,2:11,MISS Hiedeman 12' Jump Shot,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,384,4,0,3,2:27 PM,2:11,,,Delle Donne REBOUND (Off:0 Def:9),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,385,6,1,3,2:28 PM,2:11,Hiedeman P.FOUL (P2.T4),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,440,8,0,3,2:28 PM,2:11,,,SUB: Hawkins FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,441,8,0,3,2:28 PM,2:11,,,SUB: Zahui B FOR Atkins,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,442,8,0,3,2:28 PM,2:11,,,SUB: Toliver FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,391,6,2,3,2:28 PM,1:52,Hiedeman S.FOUL (P3.PN),,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,393,3,11,3,2:29 PM,1:52,,,Cloud Free Throw 1 of 2 (8 PTS),54 - 51,-3,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,394,8,0,3,2:29 PM,1:52,SUB: Harris FOR Hiedeman,,,,,4,1629567,Natisha Hiedeman,1611661323.0,Connecticut,Sun,CON,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,396,3,12,3,2:29 PM,1:52,,,Cloud Free Throw 2 of 2 (9 PTS),55 - 51,-4,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,397,6,2,3,2:29 PM,1:40,,,Zahui B S.FOUL (P1.T4),,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,399,3,11,3,2:30 PM,1:40,Jones Free Throw 1 of 2 (9 PTS),,,55 - 52,-3,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,402,3,12,3,2:30 PM,1:40,MISS Jones Free Throw 2 of 2,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,400,8,0,3,2:30 PM,1:40,,,SUB: Sykes FOR Cloud,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,403,4,0,3,2:30 PM,1:32,,,Hawkins REBOUND (Off:0 Def:6),,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,404,5,2,3,2:30 PM,1:21,Thomas STEAL (3 STL),,Sykes Lost Ball Turnover (P1.T7),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,406,5,1,3,2:30 PM,1:13,Hayes Bad Pass Turnover (P2.T5),,Sykes STEAL (1 STL),,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,408,5,4,3,2:31 PM,1:13,,,Sykes Traveling Turnover (P2.T8),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1022300007,478,8,0,3,2:31 PM,1:13,SUB: Bonner FOR Hayes,,,,,4,203026,Tiffany Hayes,1611661323.0,Connecticut,Sun,CON,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,479,8,0,3,2:31 PM,1:13,SUB: Nelson-Ododa FOR Jones,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,415,6,1,3,2:31 PM,1:09,,,Zahui B P.FOUL (P2.PN),,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,417,3,11,3,2:32 PM,1:09,Nelson-Ododa Free Throw 1 of 2 (4 PTS),,,55 - 53,-2,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,418,3,12,3,2:32 PM,1:09,Nelson-Ododa Free Throw 2 of 2 (5 PTS),,,55 - 54,-1,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,419,1,1,3,2:32 PM,0:54,,,Toliver 26' 3PT Jump Shot (3 PTS) (Sykes 4 AST),58 - 54,-4,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,421,1,1,3,2:32 PM,0:40,Harris 25' 3PT Jump Shot (3 PTS) (Thomas 5 AST),,,58 - 57,-1,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,423,2,6,3,2:33 PM,0:21,,,MISS Hawkins 3' Driving Layup,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,424,4,0,3,2:33 PM,0:18,Allen REBOUND (Off:0 Def:4),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,425,6,26,3,2:33 PM,0:10,Thomas Offensive Charge Foul (P4),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,427,5,37,3,2:33 PM,0:10,Thomas Offensive Foul Turnover (P3.T6),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022300007,428,2,1,3,2:34 PM,0:00,,,MISS Toliver 31' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,429,4,0,3,2:34 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,430,13,0,3,2:34 PM,0:00,,End of 3rd Period (2:34 PM EST),,58 - 57,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,433,12,0,4,2:37 PM,10:00,,Start of 4th Period (2:37 PM EST),,58 - 57,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,434,2,79,4,2:37 PM,9:48,,,MISS Walker-Kimbrough 16' Pullup Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,435,4,0,4,2:37 PM,9:46,Nelson-Ododa REBOUND (Off:1 Def:4),,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,436,2,79,4,2:38 PM,9:25,MISS Harris 19' Pullup Jump Shot,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,437,4,0,4,2:38 PM,9:21,Jones REBOUND (Off:1 Def:3),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,439,5,40,4,2:38 PM,9:16,Jones Out of Bounds Lost Ball Turnover (P2.T7),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022300007,446,6,2,4,2:38 PM,9:04,Jones S.FOUL (P4.T1),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,448,9,2,4,2:39 PM,9:04,SUN Timeout: Short (Full 2 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,450,18,4,4,2:40 PM,9:04,,Instant Replay4th Period (2:40 PM EST),,58 - 57,-1,0,446,Lucious Harris,,,,,0,0,,,,,,1,0,,,,,,0
+1022300007,451,3,11,4,2:44 PM,9:04,,,MISS Zahui B Free Throw 1 of 2,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,452,4,1,4,2:44 PM,9:04,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,453,3,12,4,2:44 PM,9:04,,,MISS Zahui B Free Throw 2 of 2,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,454,4,0,4,2:44 PM,9:02,Jones REBOUND (Off:1 Def:4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,455,2,78,4,2:44 PM,8:38,MISS Bonner 24' 3PT Floating Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,456,4,0,4,2:44 PM,8:34,Jones REBOUND (Off:2 Def:4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,457,1,78,4,2:44 PM,8:32,Jones 9' Floating Jump Shot (11 PTS),,,58 - 59,1,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,458,5,40,4,2:45 PM,8:17,,,Toliver Out of Bounds Lost Ball Turnover (P1.T9),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,1
+1022300007,459,6,2,4,2:45 PM,8:10,,,Toliver S.FOUL (P2.T1),,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,461,3,11,4,2:46 PM,8:10,Bonner Free Throw 1 of 2 (15 PTS),,,58 - 60,2,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,462,8,0,4,2:46 PM,8:10,SUB: Thomas FOR Nelson-Ododa,,,,,4,1631135,Olivia Nelson-Ododa,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1022300007,463,8,0,4,2:46 PM,8:10,,,SUB: Austin FOR Toliver,,,5,201911,Kristi Toliver,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,464,8,0,4,2:46 PM,8:10,,,SUB: Atkins FOR Hawkins,,,5,203403,Tianna Hawkins,1611661322.0,Washington,Mystics,WAS,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,465,8,0,4,2:46 PM,8:10,,,SUB: Delle Donne FOR Walker-Kimbrough,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,466,8,0,4,2:46 PM,8:10,,,SUB: Cloud FOR Zahui B,,,5,204320,Amanda Zahui B,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,472,3,12,4,2:46 PM,8:10,MISS Bonner Free Throw 2 of 2,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,473,4,0,4,2:46 PM,8:06,,,Austin REBOUND (Off:1 Def:6),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,474,2,1,4,2:46 PM,7:50,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,475,4,0,4,2:46 PM,7:47,Thomas REBOUND (Off:1 Def:11),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,476,2,6,4,2:47 PM,7:33,MISS Thomas 3' Driving Layup,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,477,4,0,4,2:47 PM,7:33,Jones REBOUND (Off:3 Def:4),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,482,6,2,4,2:47 PM,7:33,,,Sykes S.FOUL (P1.T2),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,484,3,11,4,2:47 PM,7:33,Jones Free Throw 1 of 2 (12 PTS),,,58 - 61,3,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,485,3,12,4,2:48 PM,7:33,Jones Free Throw 2 of 2 (13 PTS),,,58 - 62,4,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,486,5,2,4,2:48 PM,7:13,Bonner STEAL (2 STL),,Delle Donne Lost Ball Turnover (P4.T10),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,488,2,79,4,2:48 PM,7:06,MISS Bonner 19' Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,489,4,0,4,2:48 PM,7:03,,,Sykes REBOUND (Off:0 Def:4),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,490,1,5,4,2:48 PM,6:56,,,Delle Donne 3' Layup (15 PTS) (Austin 2 AST),60 - 62,2,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,492,6,2,4,2:48 PM,6:56,Bonner S.FOUL (P3.T2),,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,494,3,10,4,2:49 PM,6:56,,,MISS Delle Donne Free Throw 1 of 1,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,495,4,0,4,2:49 PM,6:54,Thomas REBOUND (Off:1 Def:12),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,496,2,1,4,2:49 PM,6:49,MISS Harris 3PT Jump Shot,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,497,4,0,4,2:49 PM,6:44,,,Delle Donne REBOUND (Off:0 Def:10),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,498,5,10,4,2:49 PM,6:38,,,Mystics Turnover: 8 Second Violation (T#11),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,1
+1022300007,499,1,47,4,2:50 PM,6:18,Bonner 12' Turnaround Jump Shot (17 PTS),,,60 - 64,4,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,500,5,2,4,2:50 PM,6:06,Jones STEAL (2 STL),,Cloud Lost Ball Turnover (P3.T12),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,502,1,1,4,2:50 PM,5:59,Allen 24' 3PT Jump Shot (6 PTS) (Thomas 6 AST),,,60 - 67,7,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,504,9,1,4,2:51 PM,5:59,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,505,8,0,4,2:53 PM,5:59,,,SUB: Walker-Kimbrough FOR Sykes,,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,509,6,17,4,2:54 PM,5:45,SUN T.Foul (Def. 3 Sec Jones ),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1022300007,510,3,16,4,2:55 PM,5:45,,,Delle Donne Free Throw Technical (16 PTS),61 - 67,6,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,511,2,78,4,2:55 PM,5:33,,,MISS Atkins 10' Floating Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,512,4,0,4,2:55 PM,5:30,Jones REBOUND (Off:3 Def:5),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,513,2,5,4,2:56 PM,5:11,MISS Jones 6' Layup,,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,514,4,0,4,2:56 PM,5:08,,,Austin REBOUND (Off:1 Def:7),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,515,1,6,4,2:56 PM,4:58,,,Austin 4' Driving Layup (17 PTS),63 - 67,4,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,516,2,79,4,2:56 PM,4:40,MISS Bonner 12' Pullup Jump Shot,,,,,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,517,4,0,4,2:56 PM,4:37,,,Austin REBOUND (Off:1 Def:8),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,518,1,6,4,2:56 PM,4:14,,,Austin 4' Driving Layup (19 PTS),65 - 67,2,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,519,2,79,4,2:57 PM,3:56,MISS Harris 15' Pullup Jump Shot,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,520,4,0,4,2:57 PM,3:56,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,521,6,3,4,2:57 PM,3:56,,,Austin L.B.FOUL (P3.T3),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,525,1,1,4,2:58 PM,3:46,Thomas 16' Jump Shot (11 PTS) (Jones 3 AST),,,65 - 69,4,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1022300007,526,2,1,4,2:58 PM,3:34,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,527,4,0,4,2:58 PM,3:32,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,528,6,3,4,2:58 PM,3:32,Thomas L.B.FOUL (P5.T3),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,531,2,1,4,2:59 PM,3:24,,,MISS Delle Donne 24' 3PT Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,532,4,0,4,2:59 PM,3:19,Thomas REBOUND (Off:1 Def:13),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,533,5,2,4,2:59 PM,3:13,Thomas Lost Ball Turnover (P4.T8),,Delle Donne STEAL (1 STL),,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,535,1,5,4,2:59 PM,3:10,,,Delle Donne 4' Layup (18 PTS) (Walker-Kimbrough 1 AST),67 - 69,2,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,537,6,2,4,2:59 PM,3:10,Harris S.FOUL (P2.T4),,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,540,3,10,4,2:59 PM,3:10,,,Delle Donne Free Throw 1 of 1 (19 PTS),68 - 69,1,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,541,6,2,4,3:00 PM,3:03,,,Delle Donne S.FOUL (P3.T4),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,543,3,11,4,3:00 PM,3:03,Thomas Free Throw 1 of 2 (12 PTS),,,68 - 70,2,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,544,3,12,4,3:00 PM,3:03,MISS Thomas Free Throw 2 of 2,,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,545,4,0,4,3:00 PM,3:01,,,Austin REBOUND (Off:1 Def:9),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,546,2,1,4,3:01 PM,2:48,,,MISS Walker-Kimbrough 24' 3PT Jump Shot,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,547,4,0,4,3:01 PM,2:44,Thomas REBOUND (Off:1 Def:14),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,548,6,1,4,3:01 PM,2:31,,,Austin P.FOUL (P4.PN),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,550,3,11,4,3:01 PM,2:31,Jones Free Throw 1 of 2 (14 PTS),,,68 - 71,3,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,551,3,12,4,3:02 PM,2:31,Jones Free Throw 2 of 2 (15 PTS),,,68 - 72,4,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,552,2,47,4,3:02 PM,2:17,,,MISS Delle Donne 12' Turnaround Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,553,4,0,4,3:02 PM,2:13,Jones REBOUND (Off:3 Def:6),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,554,2,1,4,3:02 PM,1:58,MISS Allen 25' 3PT Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,555,4,0,4,3:02 PM,1:57,,,Delle Donne REBOUND (Off:0 Def:11),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,556,2,1,4,3:02 PM,1:43,,,MISS Austin 18' Jump Shot,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,557,4,0,4,3:02 PM,1:40,Allen REBOUND (Off:0 Def:5),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,558,6,2,4,3:03 PM,1:25,,,Delle Donne S.FOUL (P4.PN),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,560,3,11,4,3:03 PM,1:25,Bonner Free Throw 1 of 2 (18 PTS),,,68 - 73,5,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,561,3,12,4,3:04 PM,1:25,Bonner Free Throw 2 of 2 (19 PTS),,,68 - 74,6,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,562,9,2,4,3:04 PM,1:25,,,Mystics Timeout: Short (Reg.2 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,563,1,47,4,3:05 PM,1:19,,,Austin 6' Turnaround Jump Shot (21 PTS) (Cloud 6 AST),70 - 74,4,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1
+1022300007,566,9,2,4,3:06 PM,0:57,SUN Timeout: Short (Full 2 Short 2),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,567,2,1,4,3:07 PM,0:54,MISS Allen 20' Jump Shot,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,568,4,0,4,3:07 PM,0:54,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,1
+1022300007,569,5,11,4,3:07 PM,0:54,SUN Turnover: Shot Clock (T#9),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,1
+1022300007,570,2,6,4,3:07 PM,0:46,,,MISS Cloud 4' Driving Layup,,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,571,4,0,4,3:07 PM,0:46,Allen REBOUND (Off:0 Def:6),,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,572,6,1,4,3:07 PM,0:46,,,Atkins P.FOUL (P3.PN),,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,574,3,11,4,3:08 PM,0:46,MISS Allen Free Throw 1 of 2,,,,,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,575,4,1,4,3:08 PM,0:46,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,576,3,12,4,3:08 PM,0:46,Allen Free Throw 2 of 2 (7 PTS),,,70 - 75,5,4,204296,Rebecca Allen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,577,9,2,4,3:08 PM,0:46,,,Mystics Timeout: Short (Reg.2 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,578,2,1,4,3:09 PM,0:41,,,MISS Atkins 27' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,579,4,0,4,3:09 PM,0:37,,,Cloud REBOUND (Off:1 Def:2),,,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,580,2,1,4,3:09 PM,0:37,,,MISS Delle Donne 10' Jump Shot,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,581,4,0,4,3:10 PM,0:32,Jones REBOUND (Off:3 Def:7),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,582,6,1,4,3:10 PM,0:26,,,Delle Donne P.FOUL (P5.PN),,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,584,3,11,4,3:10 PM,0:26,Bonner Free Throw 1 of 2 (20 PTS),,,70 - 76,6,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,585,3,12,4,3:10 PM,0:26,Bonner Free Throw 2 of 2 (21 PTS),,,70 - 77,7,4,201886,DeWanna Bonner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,586,6,2,4,3:11 PM,0:17,Jones S.FOUL (P5.PN),,,,,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,1
+1022300007,588,3,11,4,3:11 PM,0:17,,,Cloud Free Throw 1 of 2 (10 PTS),71 - 77,6,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,589,8,0,4,3:11 PM,0:17,,,SUB: Sykes FOR Delle Donne,,,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,591,3,12,4,3:12 PM,0:17,,,Cloud Free Throw 2 of 2 (11 PTS),72 - 77,5,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,592,9,2,4,3:12 PM,0:17,SUN Timeout: Short (Full 2 Short 3),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,593,6,1,4,3:13 PM,0:15,,,Sykes P.FOUL (P2.PN),,,5,1628279,Brittney Sykes,1611661322.0,Washington,Mystics,WAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,595,3,11,4,3:13 PM,0:15,Thomas Free Throw 1 of 2 (13 PTS),,,72 - 78,6,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,596,8,0,4,3:13 PM,0:15,,,SUB: Delle Donne FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,203399,Elena Delle Donne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,598,3,12,4,3:14 PM,0:15,Thomas Free Throw 2 of 2 (14 PTS),,,72 - 79,7,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,599,1,6,4,3:14 PM,0:09,,,Cloud 4' Driving Layup (13 PTS),74 - 79,5,5,204333,Natasha Cloud,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,600,6,1,4,3:14 PM,0:06,,,Walker-Kimbrough P.FOUL (P2.PN),,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1022300007,602,3,11,4,3:14 PM,0:06,Harris Free Throw 1 of 2 (4 PTS),,,74 - 80,6,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1022300007,605,3,12,4,3:14 PM,0:06,MISS Harris Free Throw 2 of 2,,,,,4,1630112,Tyasha Harris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,603,8,0,4,3:14 PM,0:06,,,SUB: Austin FOR Walker-Kimbrough,,,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,606,4,0,4,3:14 PM,0:05,,,Austin REBOUND (Off:1 Def:10),,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,607,9,1,4,3:15 PM,0:05,,,Mystics Timeout: Regular (Reg.3 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1022300007,608,8,0,4,3:16 PM,0:05,,,SUB: Walker-Kimbrough FOR Austin,,,5,1631022,Shakira Austin,1611661322.0,Washington,Mystics,WAS,5,1628278,Shatori Walker-Kimbrough,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1022300007,610,2,1,4,3:16 PM,0:02,,,MISS Atkins 24' 3PT Jump Shot,,,5,1628878,Ariel Atkins,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,1
+1022300007,611,4,0,4,3:16 PM,0:02,Thomas REBOUND (Off:1 Def:15),,,,,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1022300007,612,13,0,4,3:17 PM,0:00,,End of 4th Period (3:17 PM EST),,74 - 80,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

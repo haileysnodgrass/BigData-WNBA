@@ -1,0 +1,416 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000010,2,12,0,1,1:09 PM,20:00,,Start of 1st Half (1:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,3,10,0,1,1:10 PM,20:00,Jump Ball Dydek vs. Folkl: Tip to Brumfield,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0
+1020000010,4,1,1,1,1:11 PM,19:41,,,Lennox 8' Jump Shot (2 PTS),2 - 0,-2,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,5,2,1,1,1:11 PM,19:23,MISS Goodson 3PT Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,6,4,0,1,1:11 PM,19:19,,,Lennox REBOUND (Off:0 Def:1),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,7,1,1,1,1:11 PM,19:11,,,Folkl 3PT Jump Shot (3 PTS) (Lennox 1 AST),5 - 0,-5,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,8,1,5,1,1:11 PM,18:57,Hlede Layup (2 PTS) (Ivanyi 1 AST),,,5 - 2,-3,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,9,2,1,1,1:12 PM,18:37,,,MISS Lennox 3PT Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,10,4,0,1,1:12 PM,18:34,Hlede REBOUND (Off:0 Def:1),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,11,6,1,1,1:12 PM,18:30,,,Folkl P.FOUL (P1.T1),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,12,5,1,1,1:12 PM,18:22,Ivanyi Bad Pass Turnover (P1.T1),,Brumfield STEAL (1 STL),,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,13,1,1,1,1:13 PM,18:10,,,Smith 3PT Jump Shot (3 PTS),8 - 2,-6,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,14,2,1,1,1:13 PM,17:49,MISS Hlede 8' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,15,4,0,1,1:13 PM,17:47,,,Lloyd-Curry REBOUND (Off:0 Def:1),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,16,2,1,1,1:13 PM,17:38,,,MISS Folkl 3PT Jump Shot,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,17,4,0,1,1:13 PM,17:37,Hlede REBOUND (Off:0 Def:2),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,18,6,3,1,1:13 PM,17:37,,,Brumfield L.B.FOUL (P1.T2),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,19,5,1,1,1:14 PM,17:22,Hlede Bad Pass Turnover (P1.T2),,Folkl STEAL (1 STL),,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,20,5,1,1,1:14 PM,17:04,Goodson STEAL (1 STL),,Smith Bad Pass Turnover (P1.T1),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,21,1,5,1,1:14 PM,17:01,Goodson Layup (2 PTS),,,8 - 4,-4,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,22,6,2,1,1:14 PM,17:01,,,Brumfield S.FOUL (P2.T3),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,23,3,10,1,1:14 PM,17:01,Goodson Free Throw 1 of 1 (3 PTS),,,8 - 5,-3,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,24,6,2,1,1:15 PM,16:53,Hlede S.FOUL (P1.T1),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,25,3,11,1,1:15 PM,16:53,,,Lennox Free Throw 1 of 2 (3 PTS),9 - 5,-4,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,26,3,12,1,1:15 PM,16:53,,,MISS Lennox Free Throw 2 of 2,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,27,4,0,1,1:15 PM,16:52,Williams REBOUND (Off:0 Def:1),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,28,5,4,1,1:15 PM,16:43,Hlede Traveling Turnover (P2.T3),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,29,8,0,1,1:16 PM,16:43,,,SUB: Daley FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,30,2,1,1,1:16 PM,16:35,Dydek BLOCK (1 BLK),,MISS Lennox 8' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,31,4,0,1,1:16 PM,16:31,,,Lloyd-Curry REBOUND (Off:1 Def:1),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,32,2,5,1,1:16 PM,16:22,Dydek BLOCK (2 BLK),,MISS Lennox Layup,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,33,4,0,1,1:16 PM,16:21,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,34,5,1,1,1:16 PM,16:07,Williams Bad Pass Turnover (P1.T4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,35,2,1,1,1:17 PM,15:54,,,MISS Smith 18' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,36,4,0,1,1:17 PM,15:51,Williams REBOUND (Off:0 Def:2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,37,1,1,1,1:17 PM,15:36,Williams 14' Jump Shot (2 PTS),,,9 - 7,-2,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,38,2,1,1,1:17 PM,15:27,,,MISS Lloyd-Curry 3PT Jump Shot,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,39,4,0,1,1:17 PM,15:26,Hlede REBOUND (Off:0 Def:3),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,40,6,3,1,1:17 PM,15:26,,,Smith L.B.FOUL (P1.T4),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,41,9,4,1,1:17 PM,15:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,43,8,0,1,1:20 PM,15:26,,,SUB: Dickerson FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,44,6,4,1,1:20 PM,15:09,Williams OFF.Foul (P1),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,45,5,5,1,1:20 PM,15:09,Williams Foul Turnover (P2.T5),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,46,2,5,1,1:21 PM,14:58,Dydek BLOCK (3 BLK),,MISS Folkl Layup,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,47,4,0,1,1:21 PM,14:55,Goodson REBOUND (Off:0 Def:1),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,48,2,5,1,1:21 PM,14:48,MISS Williams Layup,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,49,4,0,1,1:21 PM,14:46,,,Folkl REBOUND (Off:0 Def:1),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,50,6,1,1,1:21 PM,14:37,Hlede P.FOUL (P2.T2),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,51,6,1,1,1:22 PM,14:27,Goodson P.FOUL (P1.T3),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,52,8,0,1,1:22 PM,14:27,SUB: Johnson FOR Hlede,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,53,2,1,1,1:22 PM,14:13,Dydek BLOCK (4 BLK),,MISS Smith 14' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,54,4,0,1,1:22 PM,14:11,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,55,2,1,1,1:23 PM,14:03,,,MISS Daley 3PT Jump Shot,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,56,4,0,1,1:23 PM,14:00,Williams REBOUND (Off:0 Def:3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,57,6,1,1,1:23 PM,13:48,,,Folkl P.FOUL (P2.PN),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,58,8,0,1,1:23 PM,13:48,,,SUB: Lennox FOR Daley,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,60,5,19,1,1:24 PM,13:34,Williams Kicked Ball Violation Turnover (P3.T6),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,61,8,0,1,1:24 PM,13:34,SUB: Frese FOR Ivanyi,,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,62,1,1,1,1:24 PM,13:26,,,Folkl 16' Jump Shot (5 PTS) (Smith 1 AST),11 - 7,-4,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,63,6,4,1,1:24 PM,13:18,Dydek OFF.Foul (P1),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,64,5,5,1,1:24 PM,13:18,Dydek Foul Turnover (P1.T7),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,65,8,0,1,1:24 PM,13:18,,,SUB: Brumfield FOR Folkl,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,66,6,4,1,1:25 PM,13:08,,,Dickerson OFF.Foul (P1),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,67,5,5,1,1:25 PM,13:08,,,Dickerson Foul Turnover (P1.T2),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,68,5,1,1,1:25 PM,12:52,Johnson Bad Pass Turnover (P1.T8),,Lennox STEAL (1 STL),,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,69,1,1,1,1:25 PM,12:44,,,Smith 14' Jump Shot (5 PTS),13 - 7,-6,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,70,5,2,1,1:26 PM,12:25,Johnson Lost Ball Turnover (P2.T9),,Lennox STEAL (2 STL),,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,71,2,5,1,1:26 PM,12:18,Dydek BLOCK (5 BLK),,MISS Dickerson Layup,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,72,4,0,1,1:26 PM,12:15,Goodson REBOUND (Off:0 Def:2),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,73,2,1,1,1:26 PM,12:12,MISS Goodson 15' Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,74,4,0,1,1:26 PM,12:08,Williams REBOUND (Off:1 Def:3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,75,6,2,1,1:26 PM,12:08,,,Lennox S.FOUL (P1.PN),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,76,8,0,1,1:26 PM,12:08,SUB: Mulitauaopele FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,77,3,11,1,1:27 PM,12:08,MISS Williams Free Throw 1 of 2,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,78,4,1,1,1:27 PM,12:08,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,79,8,0,1,1:27 PM,12:08,,,SUB: Martin FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,80,3,12,1,1:27 PM,12:08,Williams Free Throw 2 of 2 (3 PTS),,,13 - 8,-5,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,81,5,1,1,1:28 PM,11:40,Johnson STEAL (1 STL),,Brumfield Bad Pass Turnover (P1.T3),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,82,1,1,1,1:28 PM,11:23,Williams 5' Jump Shot (5 PTS) (Johnson 1 AST),,,13 - 10,-3,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,83,1,6,1,1:28 PM,11:09,,,Lennox Driving Layup (5 PTS),15 - 10,-5,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,84,1,5,1,1:28 PM,10:47,Mulitauaopele Layup (2 PTS) (Williams 1 AST),,,15 - 12,-3,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,85,2,1,1,1:29 PM,10:33,,,MISS Lennox 3PT Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,86,4,0,1,1:29 PM,10:28,Williams REBOUND (Off:1 Def:4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,87,1,1,1,1:29 PM,10:24,Johnson 3PT Jump Shot (3 PTS) (Frese 1 AST),,,15 - 15,TIE,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,88,5,1,1,1:29 PM,9:57,,,Dickerson Bad Pass Turnover (P2.T4),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,89,9,4,1,1:29 PM,9:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,91,8,0,1,1:32 PM,9:57,,,SUB: Paye FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,92,8,0,1,1:32 PM,9:57,,,SUB: Tate FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,93,8,0,1,1:32 PM,9:57,,,SUB: Lloyd-Curry FOR Dickerson,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,94,8,0,1,1:32 PM,9:57,SUB: Starbird FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,95,1,1,1,1:32 PM,9:45,Williams 13' Jump Shot (7 PTS) (Johnson 2 AST),,,15 - 17,2,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,96,2,1,1,1:32 PM,9:31,,,MISS Martin 7' Jump Shot,,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,97,4,0,1,1:32 PM,9:28,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,98,5,3,1,1:33 PM,9:08,Williams Out Of Bounds Turnover (P4.T10),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,99,2,1,1,1:33 PM,8:55,,,MISS Smith 15' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,100,4,0,1,1:33 PM,8:53,Williams REBOUND (Off:1 Def:5),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,101,6,2,1,1:33 PM,8:48,,,Smith S.FOUL (P2.PN),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,102,8,0,1,1:34 PM,8:48,,,SUB: Folkl FOR Martin,,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,103,3,11,1,1:34 PM,8:48,Johnson Free Throw 1 of 2 (4 PTS),,,15 - 18,3,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,104,3,12,1,1:34 PM,8:48,Johnson Free Throw 2 of 2 (5 PTS),,,15 - 19,4,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,105,6,1,1,1:34 PM,8:44,Starbird P.FOUL (P1.T4),,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,106,1,1,1,1:35 PM,8:36,,,Smith 3PT Jump Shot (8 PTS) (Lloyd-Curry 1 AST),18 - 19,1,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,107,6,2,1,1:35 PM,8:12,,,Paye S.FOUL (P1.PN),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,108,3,11,1,1:35 PM,8:12,Williams Free Throw 1 of 2 (8 PTS),,,18 - 20,2,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,109,3,12,1,1:35 PM,8:12,Williams Free Throw 2 of 2 (9 PTS),,,18 - 21,3,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,110,6,1,1,1:36 PM,8:01,Johnson P.FOUL (P1.PN),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,111,2,1,1,1:36 PM,7:39,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,112,4,0,1,1:36 PM,7:37,Williams REBOUND (Off:1 Def:6),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,113,1,1,1,1:37 PM,7:22,Mulitauaopele 13' Jump Shot (4 PTS),,,18 - 23,5,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,114,5,4,1,1:37 PM,7:12,,,Smith Traveling Turnover (P2.T5),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,115,9,4,1,1:37 PM,7:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,117,8,0,1,1:37 PM,7:12,SUB: Ivanyi FOR Frese,,,,,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,118,8,0,1,1:39 PM,7:12,,,SUB: Daley FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,119,2,1,1,1:40 PM,6:57,MISS Williams 7' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,120,4,0,1,1:40 PM,6:54,,,Folkl REBOUND (Off:0 Def:2),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,121,2,1,1,1:40 PM,6:46,,,MISS Tate 16' Jump Shot,,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,122,4,0,1,1:40 PM,6:44,Williams REBOUND (Off:1 Def:7),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,123,1,6,1,1:40 PM,6:37,Johnson Driving Layup (7 PTS),,,18 - 25,7,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,124,6,1,1,1:40 PM,6:27,Mulitauaopele P.FOUL (P1.PN),,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,125,8,0,1,1:41 PM,6:27,,,SUB: Lennox FOR Tate,,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,126,6,2,1,1:41 PM,6:21,Ivanyi S.FOUL (P1.PN),,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,127,3,11,1,1:41 PM,6:21,,,Folkl Free Throw 1 of 2 (6 PTS),19 - 25,6,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,128,3,12,1,1:41 PM,6:21,,,Folkl Free Throw 2 of 2 (7 PTS),20 - 25,5,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,129,6,1,1,1:42 PM,6:06,,,Smith P.FOUL (P3.PN),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,130,3,11,1,1:42 PM,6:06,Mulitauaopele Free Throw 1 of 2 (5 PTS),,,20 - 26,6,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,131,3,12,1,1:42 PM,6:06,MISS Mulitauaopele Free Throw 2 of 2,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,132,4,0,1,1:43 PM,6:04,,,Lennox REBOUND (Off:0 Def:2),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,133,1,5,1,1:43 PM,5:56,,,Daley Layup (2 PTS) (Lennox 2 AST),22 - 26,4,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,134,9,2,1,1:43 PM,5:28,STARZZ Timeout: Short (Full 0 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,136,2,1,1,1:44 PM,5:26,MISS Johnson 3PT Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,137,4,0,1,1:44 PM,5:24,,,Folkl REBOUND (Off:0 Def:3),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,138,2,1,1,1:45 PM,5:14,,,MISS Smith 18' Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,139,4,0,1,1:45 PM,5:12,Williams REBOUND (Off:1 Def:8),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,140,5,1,1,1:45 PM,5:05,Williams Bad Pass Turnover (P5.T11),,Smith STEAL (1 STL),,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,141,1,1,1,1:45 PM,4:54,,,Lennox 18' Jump Shot (7 PTS) (Daley 1 AST),24 - 26,2,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,142,2,1,1,1:46 PM,4:31,MISS Johnson 3PT Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,143,4,0,1,1:46 PM,4:30,,,Paye REBOUND (Off:0 Def:1),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,144,6,3,1,1:46 PM,4:30,Mulitauaopele L.B.FOUL (P2.PN),,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,145,8,0,1,1:46 PM,4:30,SUB: Rasmussen FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,146,3,11,1,1:46 PM,4:30,,,Paye Free Throw 1 of 2 (1 PTS),25 - 26,1,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,147,8,0,1,1:46 PM,4:30,,,SUB: Dickerson FOR Smith,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,148,8,0,1,1:46 PM,4:30,SUB: Goodson FOR Johnson,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,149,8,0,1,1:46 PM,4:30,,,SUB: Lloyd-Curry FOR Daley,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,150,3,12,1,1:46 PM,4:30,,,Paye Free Throw 2 of 2 (2 PTS),26 - 26,TIE,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,151,6,1,1,1:47 PM,4:22,,,Lennox P.FOUL (P2.PN),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,152,3,11,1,1:47 PM,4:22,Ivanyi Free Throw 1 of 2 (1 PTS),,,26 - 27,1,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,153,3,12,1,1:47 PM,4:22,Ivanyi Free Throw 2 of 2 (2 PTS),,,26 - 28,2,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,154,2,1,1,1:48 PM,4:05,Starbird BLOCK (1 BLK),,MISS Lennox 18' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0
+1020000010,155,4,0,1,1:48 PM,4:02,,,Lennox REBOUND (Off:1 Def:2),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,156,5,4,1,1:48 PM,4:02,,,Lennox Traveling Turnover (P1.T6),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,157,6,4,1,1:48 PM,3:51,Rasmussen OFF.Foul (P1),,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,158,5,5,1,1:48 PM,3:51,Rasmussen Foul Turnover (P1.T12),,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,159,8,0,1,1:48 PM,3:51,,,SUB: Brumfield FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,160,9,4,1,1:48 PM,3:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,162,1,5,1,1:51 PM,3:33,,,Lloyd-Curry Layup (2 PTS),28 - 28,TIE,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,163,2,1,1,1:51 PM,3:20,MISS Starbird 14' Jump Shot,,Paye BLOCK (1 BLK),,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0
+1020000010,164,4,0,1,1:51 PM,3:17,,,Folkl REBOUND (Off:0 Def:4),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,165,2,1,1,1:51 PM,3:09,,,MISS Paye 3PT Jump Shot,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,166,4,0,1,1:51 PM,3:07,Rasmussen REBOUND (Off:0 Def:1),,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,167,1,1,1,1:52 PM,2:51,Ivanyi 3PT Jump Shot (5 PTS) (Rasmussen 1 AST),,,28 - 31,3,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,168,2,1,1,1:52 PM,2:36,,,MISS Brumfield 6' Jump Shot,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,169,4,0,1,1:52 PM,2:33,,,Lloyd-Curry REBOUND (Off:2 Def:1),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,170,1,1,1,1:52 PM,2:23,,,Folkl 4' Jump Shot (9 PTS),30 - 31,1,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,171,1,1,1,1:52 PM,2:09,Goodson 13' Jump Shot (5 PTS) (Ivanyi 2 AST),,,30 - 33,3,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,172,5,1,1,1:53 PM,1:45,Ivanyi STEAL (1 STL),,Paye Bad Pass Turnover (P1.T7),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,173,6,3,1,1:53 PM,1:45,,,Dickerson L.B.FOUL (P2.PN),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,174,8,0,1,1:53 PM,1:45,SUB: Williams FOR Mulitauaopele,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,175,8,0,1,1:53 PM,1:45,SUB: Dydek FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,176,8,0,1,1:53 PM,1:45,,,SUB: Smith FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,177,3,11,1,1:53 PM,1:45,Ivanyi Free Throw 1 of 2 (6 PTS),,,30 - 34,4,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,178,8,0,1,1:53 PM,1:45,SUB: Hlede FOR Starbird,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,179,3,12,1,1:53 PM,1:45,MISS Ivanyi Free Throw 2 of 2,,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,180,4,0,1,1:54 PM,1:42,,,Dickerson REBOUND (Off:0 Def:1),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,181,6,1,1,1:54 PM,1:42,Ivanyi P.FOUL (P2.PN),,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,182,3,11,1,1:54 PM,1:42,,,MISS Dickerson Free Throw 1 of 2,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,183,4,1,1,1:54 PM,1:42,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,184,3,12,1,1:54 PM,1:42,,,Dickerson Free Throw 2 of 2 (1 PTS),31 - 34,3,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,185,2,1,1,1:55 PM,1:28,MISS Williams 16' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,186,4,0,1,1:55 PM,1:25,,,Dickerson REBOUND (Off:0 Def:2),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,187,2,1,1,1:55 PM,1:12,Dydek BLOCK (6 BLK),,MISS Dickerson 10' Jump Shot,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,188,4,0,1,1:55 PM,1:10,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,189,6,3,1,1:55 PM,1:09,,,Smith L.B.FOUL (P4.PN),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,190,3,11,1,1:55 PM,1:09,Hlede Free Throw 1 of 2 (3 PTS),,,31 - 35,4,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,191,8,0,1,1:56 PM,1:09,,,SUB: Daley FOR Smith,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,192,3,12,1,1:56 PM,1:09,Hlede Free Throw 2 of 2 (4 PTS),,,31 - 36,5,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,193,6,2,1,1:56 PM,0:51,Hlede S.FOUL (P3.PN),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,194,3,11,1,1:56 PM,0:51,,,MISS Lloyd-Curry Free Throw 1 of 2,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,195,4,1,1,1:56 PM,0:51,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,196,3,12,1,1:57 PM,0:51,,,Lloyd-Curry Free Throw 2 of 2 (3 PTS),32 - 36,4,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,197,2,1,1,1:57 PM,0:39,MISS Goodson 7' Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,198,4,0,1,1:57 PM,0:36,,,Daley REBOUND (Off:0 Def:1),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,199,6,1,1,1:57 PM,0:36,Goodson P.FOUL (P2.PN),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,200,3,11,1,1:57 PM,0:36,,,Daley Free Throw 1 of 2 (3 PTS),33 - 36,3,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,201,8,0,1,1:57 PM,0:36,SUB: Starbird FOR Hlede,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,202,3,12,1,1:57 PM,0:36,,,Daley Free Throw 2 of 2 (4 PTS),34 - 36,2,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,203,6,4,1,1:58 PM,0:21,Goodson OFF.Foul (P3),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,204,5,5,1,1:58 PM,0:21,Goodson Foul Turnover (P1.T13),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,205,9,1,1,1:58 PM,0:21,,,Lynx Timeout: Regular (Reg.1 Short 0),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,207,8,0,1,2:00 PM,0:21,SUB: Johnson FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,208,2,1,1,2:01 PM,0:06,,,MISS Folkl 3PT Jump Shot,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,209,4,0,1,2:01 PM,0:04,Williams REBOUND (Off:1 Def:9),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,210,2,1,1,2:01 PM,0:00,MISS Johnson 24' 3PT Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,211,4,0,1,2:01 PM,0:00,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,212,13,0,1,2:01 PM,0:00,,End of 1st Half (2:01 PM EST),,34 - 36,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,214,12,0,2,2:17 PM,20:00,,Start of 2nd Half (2:17 PM EST),,34 - 36,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,215,10,0,2,2:17 PM,20:00,Jump Ball Dydek vs. Folkl: Tip to Hlede,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0
+1020000010,216,2,5,2,2:17 PM,19:55,MISS Williams Layup,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,217,4,0,2,2:17 PM,19:52,,,Folkl REBOUND (Off:0 Def:5),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,218,1,1,2,2:18 PM,19:39,,,Daley 16' Jump Shot (6 PTS),36 - 36,TIE,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,219,6,2,2,2:18 PM,19:22,,,Smith S.FOUL (P5.T1),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,220,8,0,2,2:18 PM,19:22,,,SUB: Dickerson FOR Smith,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,221,3,11,2,2:18 PM,19:22,MISS Goodson Free Throw 1 of 2,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,222,4,1,2,2:18 PM,19:22,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,223,3,12,2,2:19 PM,19:22,Goodson Free Throw 2 of 2 (6 PTS),,,36 - 37,1,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,224,5,1,2,2:19 PM,19:08,Ivanyi STEAL (2 STL),,Dickerson Bad Pass Turnover (P3.T8),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,225,2,1,2,2:19 PM,19:02,MISS Goodson 13' Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,226,4,0,2,2:19 PM,18:59,Williams REBOUND (Off:2 Def:9),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,227,2,5,2,2:19 PM,18:58,MISS Williams 1' Layup,,Folkl BLOCK (1 BLK),,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0
+1020000010,228,4,0,2,2:19 PM,18:58,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,229,6,4,2,2:20 PM,18:56,Goodson OFF.Foul (P4),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,230,5,5,2,2:20 PM,18:56,Goodson Foul Turnover (P2.T14),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,231,6,2,2,2:20 PM,18:44,Williams S.FOUL (P2.T1),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,232,3,11,2,2:20 PM,18:44,,,MISS Folkl Free Throw 1 of 2,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,233,4,1,2,2:20 PM,18:44,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,234,3,12,2,2:21 PM,18:44,,,Folkl Free Throw 2 of 2 (10 PTS),37 - 37,TIE,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,235,1,6,2,2:21 PM,18:37,Ivanyi Driving Layup (8 PTS),,,37 - 39,2,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,236,6,2,2,2:21 PM,18:37,,,Lennox S.FOUL (P3.T2),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,237,8,0,2,2:21 PM,18:37,,,SUB: Brumfield FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,238,3,10,2,2:21 PM,18:37,Ivanyi Free Throw 1 of 1 (9 PTS),,,37 - 40,3,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,239,5,7,2,2:22 PM,18:22,,,Daley Discontinue Dribble Turnover (P1.T9),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,240,1,5,2,2:22 PM,18:00,Williams Layup (11 PTS),,,37 - 42,5,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,241,6,1,2,2:22 PM,17:52,Williams P.FOUL (P3.T2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,242,6,1,2,2:23 PM,17:48,Ivanyi P.FOUL (P3.T3),,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,243,1,1,2,2:23 PM,17:38,,,Lloyd-Curry 5' Jump Shot (5 PTS),39 - 42,3,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,244,6,2,2,2:23 PM,17:24,,,Lloyd-Curry S.FOUL (P1.T3),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,245,3,11,2,2:24 PM,17:24,Hlede Free Throw 1 of 2 (5 PTS),,,39 - 43,4,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,246,8,0,2,2:24 PM,17:24,,,SUB: Tate FOR Daley,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,247,3,12,2,2:24 PM,17:24,Hlede Free Throw 2 of 2 (6 PTS),,,39 - 44,5,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,248,1,1,2,2:24 PM,17:15,,,Lloyd-Curry 3PT Jump Shot (8 PTS) (Folkl 1 AST),42 - 44,2,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,249,5,1,2,2:24 PM,17:09,Ivanyi Bad Pass Turnover (P2.T15),,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,250,1,1,2,2:25 PM,16:50,,,Folkl 17' Jump Shot (12 PTS) (Lloyd-Curry 2 AST),44 - 44,TIE,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,251,6,4,2,2:25 PM,16:36,Williams OFF.Foul (P4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,252,5,5,2,2:25 PM,16:36,Williams Foul Turnover (P6.T16),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,253,8,0,2,2:25 PM,16:36,,,SUB: Lennox FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,254,2,1,2,2:26 PM,16:22,,,MISS Lloyd-Curry 3PT Jump Shot,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,255,4,0,2,2:26 PM,16:18,,,Lennox REBOUND (Off:2 Def:2),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,256,2,1,2,2:26 PM,16:17,Dydek BLOCK (7 BLK),,MISS Lennox 12' Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020000010,257,4,0,2,2:26 PM,16:17,Hlede REBOUND (Off:0 Def:4),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,258,6,3,2,2:26 PM,16:17,,,Tate L.B.FOUL (P1.T4),,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,259,2,1,2,2:26 PM,15:55,MISS Goodson 10' Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,260,4,0,2,2:26 PM,15:53,,,Folkl REBOUND (Off:0 Def:6),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,261,2,1,2,2:27 PM,15:35,,,MISS Folkl 19' Jump Shot,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,262,4,0,2,2:27 PM,15:34,Goodson REBOUND (Off:0 Def:3),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,263,2,1,2,2:27 PM,15:27,MISS Goodson 5' Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,264,4,0,2,2:27 PM,15:26,Goodson REBOUND (Off:1 Def:3),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,265,9,4,2,2:27 PM,15:24,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,268,10,0,2,2:29 PM,15:24,Jump Ball Williams vs. Tate: Tip to Hlede,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0
+1020000010,269,2,1,2,2:30 PM,15:20,MISS Ivanyi 3PT Jump Shot,,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,270,4,0,2,2:30 PM,15:17,,,Lloyd-Curry REBOUND (Off:2 Def:2),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,271,2,1,2,2:30 PM,14:53,,,MISS Lloyd-Curry 3PT Jump Shot,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,272,4,0,2,2:30 PM,14:51,Goodson REBOUND (Off:1 Def:4),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,273,2,5,2,2:30 PM,14:46,MISS Goodson Layup,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,274,4,0,2,2:30 PM,14:44,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,275,8,0,2,2:30 PM,14:44,SUB: Rasmussen FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,276,2,5,2,2:31 PM,14:28,,,MISS Tate Layup,,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,277,4,0,2,2:31 PM,14:26,Ivanyi REBOUND (Off:0 Def:1),,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,278,8,0,2,2:31 PM,14:11,SUB: Johnson FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,279,2,1,2,2:32 PM,14:00,MISS Hlede 15' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,280,4,0,2,2:32 PM,14:00,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,281,6,3,2,2:32 PM,14:00,Dydek L.B.FOUL (P2.T4),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,282,8,0,2,2:32 PM,14:00,SUB: Mulitauaopele FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,283,2,2,2,2:33 PM,13:40,,,MISS Lennox 8' Running Jump Shot,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,284,4,0,2,2:33 PM,13:37,,,Folkl REBOUND (Off:1 Def:6),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,285,1,1,2,2:33 PM,13:15,,,Folkl 15' Jump Shot (14 PTS),46 - 44,-2,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,286,1,5,2,2:33 PM,12:51,Johnson Layup (9 PTS),,,46 - 46,TIE,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,287,6,2,2,2:34 PM,12:37,Mulitauaopele S.FOUL (P3.PN),,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,288,3,11,2,2:34 PM,12:37,,,MISS Lloyd-Curry Free Throw 1 of 2,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,289,4,1,2,2:34 PM,12:37,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,290,8,0,2,2:34 PM,12:37,,,SUB: Daley FOR Dickerson,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,291,3,12,2,2:34 PM,12:37,,,Lloyd-Curry Free Throw 2 of 2 (9 PTS),47 - 46,-1,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,292,1,1,2,2:35 PM,12:26,Hlede 5' Jump Shot (8 PTS) (Ivanyi 3 AST),,,47 - 48,1,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,293,5,1,2,2:35 PM,12:04,Rasmussen STEAL (1 STL),,Folkl Bad Pass Turnover (P1.T10),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,294,1,1,2,2:35 PM,11:59,Johnson 11' Jump Shot (11 PTS) (Hlede 1 AST),,,47 - 50,3,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,295,9,2,2,2:35 PM,11:55,,,Lynx Timeout: Short (Reg.1 Short 1),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,297,8,0,2,2:36 PM,11:55,,,SUB: Paye FOR Lennox,,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,298,1,6,2,2:37 PM,11:41,,,Daley Driving Layup (8 PTS),49 - 50,1,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,299,6,2,2,2:37 PM,11:41,Rasmussen S.FOUL (P2.PN),,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,300,9,4,2,2:37 PM,11:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,302,3,10,2,2:39 PM,11:41,,,Daley Free Throw 1 of 1 (9 PTS),50 - 50,TIE,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,303,5,1,2,2:40 PM,11:14,Hlede Bad Pass Turnover (P3.T17),,Tate STEAL (1 STL),,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,304,6,2,2,2:40 PM,11:07,Ivanyi S.FOUL (P4.PN),,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,305,3,11,2,2:40 PM,11:07,,,Daley Free Throw 1 of 2 (10 PTS),51 - 50,-1,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,306,3,12,2,2:40 PM,11:07,,,Daley Free Throw 2 of 2 (11 PTS),52 - 50,-2,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,307,2,1,2,2:41 PM,10:52,MISS Johnson 3PT Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,308,4,0,2,2:41 PM,10:49,Rasmussen REBOUND (Off:1 Def:1),,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,309,6,1,2,2:41 PM,10:46,,,Folkl P.FOUL (P3.PN),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,310,8,0,2,2:41 PM,10:46,SUB: Frese FOR Ivanyi,,,,,4,100364,Dalma Ivanyi,1611661319.0,Utah,Starzz,UTA,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,311,6,1,2,2:42 PM,10:35,,,Folkl P.FOUL (P4.PN),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,312,8,0,2,2:42 PM,10:35,,,SUB: Stires FOR Folkl,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,313,6,1,2,2:42 PM,10:27,,,Lloyd-Curry P.FOUL (P2.PN),,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,314,2,1,2,2:43 PM,10:12,MISS Hlede 6' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,315,4,0,2,2:43 PM,10:12,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,316,2,1,2,2:43 PM,10:01,MISS Mulitauaopele 14' Jump Shot,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,317,10,0,2,2:44 PM,9:56,,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,2,1611661319,,,,,,0
+1020000010,318,4,0,2,2:44 PM,9:56,Mulitauaopele REBOUND (Off:1 Def:0),,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,320,1,5,2,2:45 PM,9:41,Johnson Layup (13 PTS),,,52 - 52,TIE,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,321,6,2,2,2:45 PM,9:41,,,Stires S.FOUL (P1.PN),,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,322,3,10,2,2:45 PM,9:41,Johnson Free Throw 1 of 1 (14 PTS),,,52 - 53,1,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,323,2,1,2,2:45 PM,9:27,,,MISS Tate 3PT Jump Shot,,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,324,4,0,2,2:45 PM,9:25,,,Paye REBOUND (Off:1 Def:1),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,325,5,1,2,2:46 PM,9:22,Johnson STEAL (2 STL),,Paye Bad Pass Turnover (P2.T11),,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,326,6,1,2,2:46 PM,8:55,,,Stires P.FOUL (P2.PN),,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,327,3,11,2,2:46 PM,8:55,MISS Mulitauaopele Free Throw 1 of 2,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,328,4,1,2,2:46 PM,8:55,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,329,8,0,2,2:47 PM,8:55,,,SUB: Dickerson FOR Stires,,,5,100490,Shanele Stires,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,330,8,0,2,2:47 PM,8:55,,,SUB: Folkl FOR Lloyd-Curry,,,5,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,332,8,0,2,2:47 PM,8:55,,,SUB: Smith FOR Tate,,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,334,8,0,2,2:47 PM,8:55,SUB: Williams FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,335,3,12,2,2:47 PM,8:55,Mulitauaopele Free Throw 2 of 2 (6 PTS),,,52 - 54,2,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,336,2,1,2,2:48 PM,8:25,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,337,4,0,2,2:48 PM,8:22,,,Folkl REBOUND (Off:2 Def:6),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,338,1,1,2,2:48 PM,8:06,,,Dickerson 16' Jump Shot (3 PTS) (Smith 2 AST),54 - 54,TIE,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,339,2,3,2,2:49 PM,7:49,MISS Mulitauaopele 6' Hook Shot,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,340,4,0,2,2:49 PM,7:48,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,341,6,3,2,2:49 PM,7:48,Williams L.B.FOUL (P5.PN),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,342,9,4,2,2:49 PM,7:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,344,8,0,2,2:51 PM,7:48,,,SUB: Tate FOR Daley,,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,345,8,0,2,2:51 PM,7:48,SUB: Starbird FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,346,8,0,2,2:51 PM,7:48,SUB: Goodson FOR Johnson,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,347,3,11,2,2:51 PM,7:48,,,Folkl Free Throw 1 of 2 (15 PTS),55 - 54,-1,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,348,3,12,2,2:52 PM,7:48,,,Folkl Free Throw 2 of 2 (16 PTS),56 - 54,-2,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,349,1,1,2,2:52 PM,7:25,Goodson 13' Jump Shot (8 PTS) (Frese 2 AST),,,56 - 56,TIE,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,350,6,2,2,2:52 PM,7:25,,,Dickerson S.FOUL (P3.PN),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,351,3,10,2,2:52 PM,7:25,Goodson Free Throw 1 of 1 (9 PTS),,,56 - 57,1,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,352,1,1,2,2:53 PM,7:03,,,Smith 19' Jump Shot (10 PTS) (Dickerson 1 AST),58 - 57,-1,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,353,6,4,2,2:53 PM,6:48,Goodson OFF.Foul (P5),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,354,5,5,2,2:53 PM,6:48,Goodson Foul Turnover (P3.T18),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,355,2,1,2,2:54 PM,6:36,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,356,4,0,2,2:54 PM,6:33,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,357,8,0,2,2:54 PM,6:33,SUB: Johnson FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,358,1,6,2,2:54 PM,6:17,Starbird Driving Layup (2 PTS),,,58 - 59,1,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,359,8,0,2,2:55 PM,5:59,,,SUB: Brumfield FOR Paye,,,5,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,360,10,0,2,2:55 PM,5:59,Jump Ball Johnson vs. Tate: Tip to Smith,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0
+1020000010,361,5,1,2,2:56 PM,5:56,,,Smith Bad Pass Turnover (P3.T12),,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,362,2,5,2,2:56 PM,5:40,MISS Hlede Layup,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,363,4,0,2,2:56 PM,5:38,,,Tate REBOUND (Off:0 Def:1),,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,364,1,1,2,2:56 PM,5:28,,,Folkl 4' Jump Shot (18 PTS) (Dickerson 2 AST),60 - 59,-1,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,365,1,1,2,2:56 PM,5:14,Hlede 3PT Jump Shot (11 PTS) (Frese 3 AST),,,60 - 62,2,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,366,1,6,2,2:57 PM,4:55,,,Brumfield Driving Layup (2 PTS),62 - 62,TIE,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,367,6,2,2,2:57 PM,4:55,Starbird S.FOUL (P2.PN),,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,368,3,10,2,2:57 PM,4:55,,,Brumfield Free Throw 1 of 1 (3 PTS),63 - 62,-1,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,369,1,1,2,2:57 PM,4:38,Mulitauaopele 17' Jump Shot (8 PTS),,,63 - 64,1,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,370,1,5,2,2:58 PM,4:19,,,Folkl Layup (20 PTS) (Dickerson 3 AST),65 - 64,-1,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,371,1,1,2,2:58 PM,4:01,Mulitauaopele 8' Jump Shot (10 PTS),,,65 - 66,1,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,372,2,1,2,2:58 PM,3:37,,,MISS Folkl 17' Jump Shot,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,373,4,0,2,2:59 PM,3:33,Johnson REBOUND (Off:0 Def:1),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,374,2,1,2,2:59 PM,3:15,MISS Starbird 3PT Jump Shot,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,375,4,0,2,2:59 PM,3:12,,,Lynx Rebound,,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,376,9,4,2,2:59 PM,3:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,378,8,0,2,3:01 PM,3:12,SUB: Williams FOR Mulitauaopele,,,,,4,100551,Naomi Mulitauaopele,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,379,5,6,2,3:02 PM,2:55,,,Tate Double Dribble Turnover (P1.T13),,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,380,2,1,2,3:02 PM,2:42,MISS Johnson 8' Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,381,4,0,2,3:02 PM,2:40,Johnson REBOUND (Off:1 Def:1),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,382,2,1,2,3:02 PM,2:39,MISS Johnson 5' Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,383,4,0,2,3:02 PM,2:38,Williams REBOUND (Off:3 Def:9),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,384,8,0,2,3:02 PM,2:38,,,SUB: Lennox FOR Tate,,,5,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,385,8,0,2,3:02 PM,2:38,,,SUB: Daley FOR Brumfield,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,386,10,0,2,3:03 PM,2:38,Jump Ball Williams vs. Dickerson: Tip to Hlede,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0
+1020000010,387,2,1,2,3:03 PM,2:15,MISS Starbird 3PT Jump Shot,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,388,4,0,2,3:03 PM,2:13,Williams REBOUND (Off:4 Def:9),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,389,1,5,2,3:03 PM,2:13,Williams Layup (13 PTS),,,65 - 68,3,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,390,6,2,2,3:03 PM,2:13,,,Folkl S.FOUL (P5.PN),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,391,3,10,2,3:03 PM,2:13,Williams Free Throw 1 of 1 (14 PTS),,,65 - 69,4,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,392,5,1,2,3:04 PM,2:03,Starbird STEAL (1 STL),,Dickerson Bad Pass Turnover (P4.T14),,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,393,1,1,2,3:04 PM,1:39,Frese 3PT Jump Shot (3 PTS) (Williams 2 AST),,,65 - 72,7,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,394,9,2,2,3:04 PM,1:30,,,Lynx Timeout: Short (Reg.1 Short 2),,,3,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,396,8,0,2,3:05 PM,1:30,SUB: Goodson FOR Starbird,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,397,8,0,2,3:06 PM,1:30,,,SUB: Brumfield FOR Dickerson,,,5,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,398,2,1,2,3:06 PM,1:26,,,MISS Smith 3PT Jump Shot,,,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,399,4,0,2,3:06 PM,1:24,Goodson REBOUND (Off:1 Def:5),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,400,6,1,2,3:06 PM,1:09,,,Folkl P.FOUL (P6.PN),,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,401,8,0,2,3:06 PM,1:09,,,SUB: Martin FOR Folkl,,,5,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,402,3,11,2,3:07 PM,1:09,Williams Free Throw 1 of 2 (15 PTS),,,65 - 73,8,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,403,3,12,2,3:07 PM,1:09,Williams Free Throw 2 of 2 (16 PTS),,,65 - 74,9,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,404,6,2,2,3:07 PM,0:59,Hlede S.FOUL (P4.PN),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,405,3,11,2,3:08 PM,0:59,,,Smith Free Throw 1 of 2 (11 PTS),66 - 74,8,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,406,8,0,2,3:08 PM,0:59,SUB: Starbird FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,407,3,12,2,3:08 PM,0:59,,,Smith Free Throw 2 of 2 (12 PTS),67 - 74,7,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,408,6,1,2,3:08 PM,0:49,,,Daley P.FOUL (P1.PN),,,5,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,409,3,11,2,3:08 PM,0:49,Frese Free Throw 1 of 2 (4 PTS),,,67 - 75,8,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,410,3,12,2,3:09 PM,0:49,Frese Free Throw 2 of 2 (5 PTS),,,67 - 76,9,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,411,1,1,2,3:09 PM,0:42,,,Smith 3PT Jump Shot (15 PTS) (Brumfield 1 AST),70 - 76,6,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000010,412,6,1,2,3:09 PM,0:40,,,Lennox P.FOUL (P4.PN),,,5,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,413,3,11,2,3:09 PM,0:40,Hlede Free Throw 1 of 2 (12 PTS),,,70 - 77,7,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,415,9,2,2,3:10 PM,0:40,STARZZ Timeout: Short (Full 0 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000010,417,3,12,2,3:10 PM,0:40,MISS Hlede Free Throw 2 of 2,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,418,4,0,2,3:11 PM,0:39,Williams REBOUND (Off:5 Def:9),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,419,6,1,2,3:11 PM,0:38,,,Brumfield P.FOUL (P3.PN),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,420,3,11,2,3:11 PM,0:38,Williams Free Throw 1 of 2 (17 PTS),,,70 - 78,8,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,422,3,12,2,3:11 PM,0:38,Williams Free Throw 2 of 2 (18 PTS),,,70 - 79,9,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,423,6,2,2,3:12 PM,0:31,Frese S.FOUL (P1.PN),,,,,4,100547,Stacy Frese,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,424,8,0,2,3:12 PM,0:31,SUB: Goodson FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020000010,425,3,11,2,3:12 PM,0:31,,,Brumfield Free Throw 1 of 2 (4 PTS),71 - 79,8,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,426,3,12,2,3:12 PM,0:31,,,MISS Brumfield Free Throw 2 of 2,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,427,4,0,2,3:12 PM,0:29,Goodson REBOUND (Off:1 Def:6),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,428,6,1,2,3:12 PM,0:29,,,Martin P.FOUL (P1.PN),,,5,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,429,3,11,2,3:13 PM,0:29,Goodson Free Throw 1 of 2 (10 PTS),,,71 - 80,9,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,430,3,12,2,3:13 PM,0:29,Goodson Free Throw 2 of 2 (11 PTS),,,71 - 81,10,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,431,1,1,2,3:13 PM,0:16,,,Smith 3PT Jump Shot (18 PTS),74 - 81,7,5,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,432,6,1,2,3:14 PM,0:12,,,Brumfield P.FOUL (P4.PN),,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000010,433,3,11,2,3:14 PM,0:12,Goodson Free Throw 1 of 2 (12 PTS),,,74 - 82,8,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,434,3,12,2,3:14 PM,0:12,Goodson Free Throw 2 of 2 (13 PTS),,,74 - 83,9,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,435,2,1,2,3:14 PM,0:03,Starbird BLOCK (2 BLK),,MISS Brumfield 13' Jump Shot,,,5,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0
+1020000010,436,4,0,2,3:15 PM,0:01,Starbird REBOUND (Off:0 Def:1),,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020000010,438,13,0,2,3:15 PM,0:00,,End of 2nd Half (3:15 PM EST),,74 - 83,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,378 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100139,0,12,0,1,1:13 PM,20:00,,Start of 1st Half (1:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,1,10,0,1,1:13 PM,20:00,Jump Ball Stepanova vs. Leslie: Tip to Veal,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,2,2,5,1,1:14 PM,19:54,MISS Stepanova  Layup,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,3,4,0,1,1:14 PM,19:49,,,Milton-Jones REBOUND (Off:0 Def:1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,4,1,47,1,1:15 PM,19:38,,,Leslie 13' Turnaround Jump Shot (2 PTS),2 - 0,-2,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,5,5,1,1,1:15 PM,19:33,Veal Bad Pass Turnover (P1.T1),,Milton-Jones STEAL (1 STL),,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,6,1,5,1,1:15 PM,19:27,,,Milton-Jones  Layup (2 PTS) (Figgs 1 AST),4 - 0,-4,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,7,1,1,1,1:15 PM,19:07,Stepanova 12' Jump Shot (2 PTS) (Veal 1 AST),,,4 - 2,-2,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,8,2,1,1,1:15 PM,18:54,,,MISS Leslie 13' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,9,4,0,1,1:15 PM,18:52,Gillom REBOUND (Off:0 Def:1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,10,1,1,1,1:16 PM,18:40,Gillom  3PT Jump Shot (3 PTS) (Harrison 1 AST),,,4 - 5,1,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,11,2,1,1,1:16 PM,18:30,,,MISS Dixon 15' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,12,4,0,1,1:16 PM,18:28,Veal REBOUND (Off:0 Def:1),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,13,1,1,1,1:16 PM,18:09,Fallon 16' Jump Shot (2 PTS) (Veal 2 AST),,,4 - 7,3,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,14,9,2,1,1:16 PM,18:07,,,Sparks Timeout: Short (Reg.0 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,16,5,3,1,1:17 PM,17:52,,,Leslie Out Of Bounds Turnover (P1.T1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,17,2,1,1,1:18 PM,17:40,MISS Veal  3PT Jump Shot,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,18,4,0,1,1:18 PM,17:38,,,Leslie REBOUND (Off:0 Def:1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,19,5,2,1,1:18 PM,17:20,Fallon STEAL (1 STL),,Leslie Lost Ball Turnover (P2.T2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,20,1,1,1,1:18 PM,17:14,Harrison 12' Jump Shot (2 PTS),,,4 - 9,5,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,21,5,2,1,1:18 PM,16:56,,,Dixon Lost Ball Turnover (P1.T3),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,22,2,1,1,1:19 PM,16:34,MISS Veal  3PT Jump Shot,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,23,4,0,1,1:19 PM,16:32,,,Milton-Jones REBOUND (Off:0 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,24,1,5,1,1:19 PM,16:24,,,Byears  Layup (2 PTS) (Milton-Jones 1 AST),6 - 9,3,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,25,1,1,1,1:19 PM,15:57,Harrison 11' Jump Shot (4 PTS) (Veal 3 AST),,,6 - 11,5,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,26,2,1,1,1:20 PM,15:41,,,MISS Figgs 11' Jump Shot,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,27,4,0,1,1:20 PM,15:38,,,Byears REBOUND (Off:1 Def:0),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,28,2,5,1,1:20 PM,15:38,,,MISS Byears  Layup,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,29,4,0,1,1:20 PM,15:38,,,Byears REBOUND (Off:2 Def:0),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,30,6,2,1,1:20 PM,15:38,Gillom S.FOUL (P1.T1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,31,9,1,1,1:20 PM,15:38,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,33,3,11,1,1:23 PM,15:38,,,Byears Free Throw 1 of 2 (3 PTS),7 - 11,4,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,34,3,12,1,1:23 PM,15:38,,,MISS Byears Free Throw 2 of 2,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,35,4,0,1,1:23 PM,15:37,,,Milton-Jones REBOUND (Off:1 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,36,1,1,1,1:23 PM,15:21,,,Milton-Jones 12' Jump Shot (4 PTS) (Figgs 2 AST),9 - 11,2,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,37,2,1,1,1:24 PM,15:04,MISS Harrison 15' Jump Shot,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,38,4,0,1,1:24 PM,15:00,,,Milton-Jones REBOUND (Off:1 Def:3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,39,2,5,1,1:24 PM,14:57,Veal BLOCK (1 BLK),,MISS Byears  Layup,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,40,4,0,1,1:24 PM,14:57,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,41,2,1,1,1:24 PM,14:33,,,MISS Leslie  3PT Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,42,4,0,1,1:24 PM,14:29,Harrison REBOUND (Off:0 Def:1),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,43,2,1,1,1:25 PM,14:23,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,44,4,0,1,1:25 PM,14:21,,,Figgs REBOUND (Off:0 Def:1),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,45,2,1,1,1:25 PM,14:11,Gillom BLOCK (1 BLK),,MISS Byears 6' Jump Shot,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,47,4,0,1,1:25 PM,14:11,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,46,8,0,1,1:25 PM,14:11,SUB: Korstine FOR Fallon,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100671,Ilona Korstine,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,48,9,2,1,1:25 PM,14:11,MERCURY Timeout: Short (Full 0 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,50,10,0,1,1:26 PM,14:11,Jump Ball Gillom vs. Byears: Tip to Korstine,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,4,100671,Ilona Korstine,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,52,2,1,1,1:27 PM,13:56,MISS Stepanova 8' Jump Shot,,Milton-Jones BLOCK (1 BLK),,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,53,4,0,1,1:27 PM,13:52,,,Milton-Jones REBOUND (Off:1 Def:4),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,54,1,5,1,1:27 PM,13:50,,,Byears  Layup (5 PTS) (Dixon 1 AST),11 - 11,TIE,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,55,2,1,1,1:27 PM,13:37,MISS Stepanova 6' Jump Shot,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,56,4,0,1,1:27 PM,13:35,Korstine REBOUND (Off:1 Def:0),,,,,4,100671,Ilona Korstine,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,57,2,5,1,1:27 PM,13:33,MISS Korstine  Layup,,Byears BLOCK (1 BLK),,,4,100671,Ilona Korstine,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,58,4,0,1,1:27 PM,13:29,,,Milton-Jones REBOUND (Off:1 Def:5),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,59,6,10,1,1:27 PM,13:22,," Foul : Double Personal - Harrison (1 PF), Leslie (1 PF)",,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1020100139,60,8,0,1,1:27 PM,13:22,,,SUB: Mabika FOR Byears,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,61,6,2,1,1:28 PM,13:10,Gillom S.FOUL (P2.T2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,62,3,11,1,1:28 PM,13:10,,,Milton-Jones Free Throw 1 of 2 (5 PTS),12 - 11,-1,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,63,8,0,1,1:28 PM,13:10,SUB: Williams-Strong FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,64,3,12,1,1:28 PM,13:10,,,Milton-Jones Free Throw 2 of 2 (6 PTS),13 - 11,-2,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,65,5,1,1,1:29 PM,12:50,Harrison Bad Pass Turnover (P1.T2),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,66,5,1,1,1:29 PM,12:31,Williams-Strong STEAL (1 STL),,Leslie Bad Pass Turnover (P3.T4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,67,1,5,1,1:30 PM,12:20,Williams-Strong  Layup (2 PTS) (Veal 4 AST),,,13 - 13,TIE,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,68,1,1,1,1:30 PM,11:57,,,Leslie  3PT Jump Shot (5 PTS) (Figgs 3 AST),16 - 13,-3,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,69,5,4,1,1:30 PM,11:41,Veal Traveling Turnover (P2.T3),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,70,9,1,1,1:30 PM,11:41,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,72,8,0,1,1:33 PM,11:41,SUB: Pettis FOR Korstine,,,,,4,100671,Ilona Korstine,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,73,2,1,1,1:34 PM,11:22,,,MISS Figgs  3PT Jump Shot,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,74,4,0,1,1:34 PM,11:20,Stepanova REBOUND (Off:0 Def:1),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,75,6,1,1,1:34 PM,11:20,,,Mabika P.FOUL (P1.T1),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,76,2,1,1,1:34 PM,11:07,MISS Stepanova 14' Jump Shot,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,77,4,0,1,1:34 PM,11:05,Stepanova REBOUND (Off:1 Def:1),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,78,2,5,1,1:34 PM,11:04,MISS Stepanova  Layup,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,79,4,0,1,1:34 PM,11:00,,,Milton-Jones REBOUND (Off:1 Def:6),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,80,1,1,1,1:35 PM,10:50,,,Dixon 14' Jump Shot (2 PTS) (Mabika 1 AST),18 - 13,-5,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,81,2,1,1,1:35 PM,10:30,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,82,4,0,1,1:35 PM,10:28,,,Mabika REBOUND (Off:0 Def:1),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,83,2,1,1,1:35 PM,10:10,,,MISS Milton-Jones 4' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,84,4,0,1,1:35 PM,10:07,Williams-Strong REBOUND (Off:0 Def:1),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,85,2,1,1,1:36 PM,9:46,MISS Harrison 15' Jump Shot,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,86,4,0,1,1:36 PM,9:44,,,Figgs REBOUND (Off:0 Def:2),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,87,1,1,1,1:36 PM,9:24,,,Figgs  3PT Jump Shot (3 PTS) (Mabika 2 AST),21 - 13,-8,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,88,9,1,1,1:36 PM,9:20,MERCURY Timeout: Regular (Full 1 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,90,8,0,1,1:38 PM,9:20,SUB: Fallon FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,91,8,0,1,1:38 PM,9:20,SUB: Gillom FOR Harrison,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,92,5,2,1,1:39 PM,9:02,Gillom Lost Ball Turnover (P1.T4),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,93,8,0,1,1:40 PM,9:02,,,SUB: Byears FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,94,1,1,1,1:40 PM,8:48,,,Mabika 13' Jump Shot (2 PTS) (Byears 1 AST),23 - 13,-10,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,95,2,5,1,1:40 PM,8:40,MISS Pettis  Layup,,Leslie BLOCK (1 BLK),,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,96,4,0,1,1:40 PM,8:38,Gillom REBOUND (Off:1 Def:1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,97,2,1,1,1:40 PM,8:33,MISS Pettis 16' Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,98,4,0,1,1:40 PM,8:31,,,Figgs REBOUND (Off:0 Def:3),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,99,2,1,1,1:40 PM,8:25,,,MISS Dixon 15' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,100,4,0,1,1:40 PM,8:23,,,Byears REBOUND (Off:3 Def:0),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,101,1,5,1,1:40 PM,8:20,,,Leslie  Layup (7 PTS) (Byears 2 AST),25 - 13,-12,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,102,2,1,1,1:41 PM,8:02,MISS Veal 16' Jump Shot,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,104,4,0,1,1:41 PM,7:58,Williams-Strong REBOUND (Off:1 Def:1),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,103,2,5,1,1:41 PM,7:58,MISS Williams-Strong  Layup,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,105,4,0,1,1:41 PM,7:55,,,Mabika REBOUND (Off:0 Def:2),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,106,1,5,1,1:41 PM,7:53,,,Dixon  Layup (4 PTS) (Mabika 3 AST),27 - 13,-14,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,107,2,1,1,1:41 PM,7:36,MISS Gillom 6' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,109,4,0,1,1:41 PM,7:34,Gillom REBOUND (Off:2 Def:1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,108,2,5,1,1:41 PM,7:34,MISS Gillom  Layup,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,110,4,0,1,1:41 PM,7:32,Pettis REBOUND (Off:1 Def:0),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,111,2,1,1,1:41 PM,7:22,MISS Pettis 14' Jump Shot,,Byears BLOCK (2 BLK),,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,113,4,0,1,1:42 PM,7:22,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,112,8,0,1,1:42 PM,7:22,SUB: Stepanova FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,114,8,0,1,1:42 PM,7:22,,,SUB: Mapp FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,115,10,0,1,1:42 PM,7:22,Jump Ball Pettis vs. Byears: Tip to Veal,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,116,2,1,1,1:42 PM,7:17,MISS Fallon  3PT Jump Shot,,Figgs BLOCK (1 BLK),,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,117,4,0,1,1:42 PM,7:15,Gillom REBOUND (Off:3 Def:1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,118,6,2,1,1:42 PM,7:15,,,Mabika S.FOUL (P2.T2),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,119,8,0,1,1:42 PM,7:15,SUB: Harrison FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,120,3,11,1,1:42 PM,7:15,MISS Gillom Free Throw 1 of 2,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,121,4,1,1,1:42 PM,7:15,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,122,3,12,1,1:42 PM,7:15,Gillom Free Throw 2 of 2 (4 PTS),,,27 - 14,-13,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,123,2,1,1,1:43 PM,6:57,,,MISS Mabika 14' Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,124,4,0,1,1:43 PM,6:55,,,Mapp REBOUND (Off:1 Def:0),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,125,2,1,1,1:43 PM,6:46,,,MISS Mapp 13' Jump Shot,,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,126,4,0,1,1:43 PM,6:43,Gillom REBOUND (Off:3 Def:2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,127,2,1,1,1:43 PM,6:35,MISS Gillom 11' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,129,4,0,1,1:44 PM,6:32,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,128,8,0,1,1:44 PM,6:32,SUB: Timms FOR Veal,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,130,8,0,1,1:44 PM,6:32,SUB: Saunders FOR Fallon,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,132,8,0,1,1:44 PM,6:32,,,SUB: McCrimmon FOR Figgs,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,133,10,0,1,1:44 PM,6:32,Jump Ball Stepanova vs. Byears: Tip to,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,2,1611661317,,,,,,0
+1020100139,134,7,4,1,1:44 PM,6:32,,,Byears Violation:Jump Ball,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,135,6,3,1,1:44 PM,6:31,,,Byears L.B.FOUL (P1.T3),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,136,1,5,1,1:45 PM,6:20,Gillom  Layup (6 PTS) (Harrison 2 AST),,,27 - 16,-11,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,137,8,0,1,1:45 PM,5:50,,,SUB: Leslie FOR Mapp,,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,138,2,1,1,1:46 PM,5:48,,,MISS Leslie 26' 3PT Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,139,4,0,1,1:46 PM,5:46,Timms REBOUND (Off:0 Def:1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,140,2,1,1,1:46 PM,5:38,MISS Saunders 12' Jump Shot,,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,141,4,0,1,1:46 PM,5:36,,,Leslie REBOUND (Off:0 Def:2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,142,6,1,1,1:46 PM,5:36,Stepanova P.FOUL (P1.T3),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,143,2,1,1,1:46 PM,5:19,,,MISS McCrimmon  3PT Jump Shot,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,144,4,0,1,1:46 PM,5:17,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,145,5,2,1,1:47 PM,4:54,Gillom Lost Ball Turnover (P2.T5),,Byears STEAL (1 STL),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,146,2,5,1,1:47 PM,4:48,,,MISS McCrimmon  Layup,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,147,4,0,1,1:47 PM,4:45,Stepanova REBOUND (Off:1 Def:2),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,148,2,1,1,1:47 PM,4:37,MISS Stepanova 9' Jump Shot,,Leslie BLOCK (2 BLK),,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,149,4,0,1,1:47 PM,4:33,Timms REBOUND (Off:1 Def:1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,150,2,1,1,1:47 PM,4:23,MISS Timms  3PT Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,151,4,0,1,1:47 PM,4:23,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,152,6,3,1,1:48 PM,4:23,Gillom L.B.FOUL (P3.T4),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,153,8,0,1,1:48 PM,4:23,,,SUB: Milton-Jones FOR Mabika,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,154,2,1,1,1:48 PM,4:09,,,MISS Leslie 11' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,155,4,0,1,1:48 PM,4:07,Timms REBOUND (Off:1 Def:2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,156,1,5,1,1:48 PM,4:01,Gillom  Layup (8 PTS) (Timms 1 AST),,,27 - 18,-9,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,157,1,46,1,1:48 PM,3:53,,,Byears 9' Running Jump Shot (7 PTS),29 - 18,-11,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,158,2,1,1,1:49 PM,3:40,MISS Saunders 9' Jump Shot,,Byears BLOCK (3 BLK),,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,160,4,0,1,1:49 PM,3:40,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,159,9,1,1,1:49 PM,3:40,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,162,8,0,1,1:51 PM,3:40,,,SUB: Figgs FOR McCrimmon,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,163,8,0,1,1:51 PM,3:40,SUB: Tuvic FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,164,10,0,1,1:51 PM,3:40,Jump Ball Saunders vs. Byears: Tip to Leslie,,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,166,2,1,1,1:52 PM,3:31,,,MISS Byears 8' Jump Shot,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,167,4,0,1,1:52 PM,3:29,Harrison REBOUND (Off:0 Def:2),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,168,2,5,1,1:52 PM,3:12,MISS Stepanova  Layup,,Leslie BLOCK (3 BLK),,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,169,4,0,1,1:52 PM,3:10,,,Leslie REBOUND (Off:0 Def:3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,170,5,2,1,1:52 PM,3:10,,,Leslie Lost Ball Turnover (P4.T5),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,171,8,0,1,1:52 PM,3:10,,,SUB: Mabika FOR Dixon,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,172,2,1,1,1:53 PM,2:47,MISS Harrison 12' Jump Shot,,Milton-Jones BLOCK (2 BLK),,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,173,4,0,1,1:53 PM,2:47,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,174,2,5,1,1:53 PM,2:45,MISS Saunders  Layup,,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,175,4,0,1,1:53 PM,2:42,,,Leslie REBOUND (Off:0 Def:4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,176,1,5,1,1:53 PM,2:39,,,Mabika  Layup (4 PTS) (Figgs 4 AST),31 - 18,-13,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,177,2,1,1,1:54 PM,2:22,MISS Saunders 14' Jump Shot,,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,178,4,0,1,1:54 PM,2:20,Stepanova REBOUND (Off:2 Def:2),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,179,6,2,1,1:54 PM,2:19,,,Byears S.FOUL (P2.T4),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,180,8,0,1,1:54 PM,2:19,SUB: Fallon FOR Saunders,,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,181,3,11,1,1:54 PM,2:19,Stepanova Free Throw 1 of 2 (3 PTS),,,31 - 19,-12,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,182,3,12,1,1:54 PM,2:19,Stepanova Free Throw 2 of 2 (4 PTS),,,31 - 20,-11,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,183,5,1,1,1:54 PM,2:14,Harrison STEAL (1 STL),,Figgs Bad Pass Turnover (P1.T6),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,184,2,5,1,1:54 PM,2:12,MISS Timms  Layup,,Leslie BLOCK (4 BLK),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,185,4,0,1,1:54 PM,2:08,Timms REBOUND (Off:2 Def:2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,186,6,1,1,1:55 PM,2:08,,,Figgs P.FOUL (P1.PN),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,187,8,0,1,1:55 PM,2:08,SUB: Williams-Strong FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,188,2,1,1,1:55 PM,2:01,MISS Timms 13' Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,189,4,0,1,1:55 PM,1:59,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,190,6,1,1,1:55 PM,1:48,Tuvic P.FOUL (P1.PN),,,,,4,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,191,2,1,1,1:56 PM,1:31,,,MISS Mabika 24' 3PT Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,192,4,0,1,1:56 PM,1:29,Harrison REBOUND (Off:0 Def:3),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,193,1,1,1,1:56 PM,1:04,Williams-Strong 9' Jump Shot (4 PTS) (Fallon 1 AST),,,31 - 22,-9,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,194,2,5,1,1:57 PM,0:32,,,MISS Milton-Jones  Layup,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,195,4,0,1,1:57 PM,0:31,,,Byears REBOUND (Off:4 Def:0),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,196,6,3,1,1:57 PM,0:31,Williams-Strong L.B.FOUL (P1.PN),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,197,5,1,1,1:58 PM,0:13,,,Figgs Bad Pass Turnover (P2.T7),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,198,2,1,1,1:58 PM,0:00,MISS Harrison 12' Jump Shot,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,200,4,0,1,1:58 PM,0:00,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,199,13,0,1,1:58 PM,0:00,,End of 1st Half (1:58 PM EST),,31 - 22,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,205,12,0,2,2:14 PM,20:00,,Start of 2nd Half (2:14 PM EST),,31 - 22,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,206,10,0,2,2:14 PM,20:00,Jump Ball Stepanova vs. Leslie: Tip to Harrison,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,207,2,1,2,2:14 PM,19:52,MISS Gillom 15' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,208,4,0,2,2:14 PM,19:50,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,209,2,1,2,2:15 PM,19:34,,,MISS Figgs  3PT Jump Shot,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,210,4,0,2,2:15 PM,19:33,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,211,6,3,2,2:15 PM,19:33,Stepanova L.B.FOUL (P2.T1),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,212,1,1,2,2:15 PM,19:29,,,Dixon 14' Jump Shot (6 PTS),33 - 22,-11,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,213,2,1,2,2:16 PM,19:10,MISS Harrison 15' Jump Shot,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,214,4,0,2,2:16 PM,19:07,,,Milton-Jones REBOUND (Off:1 Def:7),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,215,2,1,2,2:16 PM,18:44,Stepanova BLOCK (1 BLK),,MISS Byears 10' Jump Shot,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,216,4,0,2,2:16 PM,18:41,Harrison REBOUND (Off:0 Def:4),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,217,2,5,2,2:16 PM,18:38,MISS Stepanova  Layup,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,218,4,0,2,2:16 PM,18:34,,,Milton-Jones REBOUND (Off:1 Def:8),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,219,1,1,2,2:17 PM,18:30,,,Leslie 7' Jump Shot (9 PTS) (Figgs 5 AST),35 - 22,-13,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,220,1,1,2,2:17 PM,18:16,Stepanova 12' Jump Shot (6 PTS) (Fallon 2 AST),,,35 - 24,-11,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,221,1,1,2,2:17 PM,17:56,,,Figgs  3PT Jump Shot (6 PTS) (Leslie 1 AST),38 - 24,-14,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,222,1,5,2,2:18 PM,17:46,Stepanova  Layup (8 PTS) (Timms 2 AST),,,38 - 26,-12,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,223,1,1,2,2:18 PM,17:24,,,Milton-Jones 15' Jump Shot (8 PTS) (Leslie 2 AST),40 - 26,-14,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,224,9,2,2,2:18 PM,17:17,MERCURY Timeout: Short (Full 1 Short 2),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,226,1,5,2,2:19 PM,17:01,Stepanova  Layup (10 PTS) (Timms 3 AST),,,40 - 28,-12,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,227,1,1,2,2:19 PM,16:46,,,Leslie 12' Jump Shot (11 PTS) (Figgs 6 AST),42 - 28,-14,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,228,1,5,2,2:20 PM,16:31,Timms  Layup (2 PTS) (Stepanova 1 AST),,,42 - 30,-12,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,229,2,1,2,2:20 PM,16:17,,,MISS Dixon 5' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,231,4,0,2,2:20 PM,16:13,,,Byears REBOUND (Off:5 Def:0),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,230,1,5,2,2:20 PM,16:13,,,Byears  Layup (9 PTS),44 - 30,-14,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,232,1,1,2,2:20 PM,15:52,Fallon 15' Jump Shot (4 PTS) (Harrison 3 AST),,,44 - 32,-12,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,233,2,5,2,2:20 PM,15:37,,,MISS Dixon  Layup,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,234,4,0,2,2:20 PM,15:34,Fallon REBOUND (Off:0 Def:1),,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,235,5,2,2,2:21 PM,15:15,Gillom Lost Ball Turnover (P3.T6),,Dixon STEAL (1 STL),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,236,6,2,2,2:21 PM,15:13,Harrison S.FOUL (P2.T2),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,237,9,1,2,2:21 PM,15:13,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,239,8,0,2,2:23 PM,15:13,,,SUB: Mabika FOR Figgs,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,240,8,0,2,2:24 PM,15:13,SUB: Williams-Strong FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,241,3,11,2,2:24 PM,15:13,,,Dixon Free Throw 1 of 2 (7 PTS),45 - 32,-13,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,242,3,12,2,2:25 PM,15:13,,,Dixon Free Throw 2 of 2 (8 PTS),46 - 32,-14,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,243,2,1,2,2:25 PM,15:02,MISS Timms 24' 3PT Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,244,4,0,2,2:25 PM,14:59,,,Milton-Jones REBOUND (Off:1 Def:9),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,245,5,4,2,2:25 PM,14:55,,,Dixon Traveling Turnover (P2.T8),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,246,1,5,2,2:26 PM,14:47,Stepanova  Layup (12 PTS) (Timms 4 AST),,,46 - 34,-12,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,247,6,1,2,2:26 PM,14:33,Timms P.FOUL (P1.T3),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,248,1,1,2,2:26 PM,14:25,,,Dixon 15' Jump Shot (10 PTS),48 - 34,-14,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,249,2,1,2,2:26 PM,14:18,MISS Fallon 12' Jump Shot,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,250,4,0,2,2:26 PM,14:16,Timms REBOUND (Off:3 Def:2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,251,1,1,2,2:26 PM,14:12,Fallon 13' Jump Shot (6 PTS) (Timms 5 AST),,,48 - 36,-12,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,252,2,1,2,2:27 PM,13:43,,,MISS Leslie 15' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,253,4,0,2,2:27 PM,13:41,Timms REBOUND (Off:3 Def:3),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,254,6,2,2,2:27 PM,13:21,,,Leslie S.FOUL (P2.T1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,255,3,11,2,2:28 PM,13:21,MISS Harrison Free Throw 1 of 2,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,256,4,1,2,2:28 PM,13:21,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,257,8,0,2,2:28 PM,13:21,,,SUB: Figgs FOR Byears,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,258,8,0,2,2:28 PM,13:21,SUB: Gillom FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,259,3,12,2,2:28 PM,13:21,Harrison Free Throw 2 of 2 (5 PTS),,,48 - 37,-11,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,260,2,1,2,2:29 PM,13:03,,,MISS Milton-Jones 14' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,261,4,0,2,2:29 PM,13:02,,,Leslie REBOUND (Off:1 Def:4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,262,6,2,2,2:29 PM,12:56,Timms S.FOUL (P2.T4),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,263,3,11,2,2:29 PM,12:56,,,Mabika Free Throw 1 of 2 (5 PTS),49 - 37,-12,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,264,8,0,2,2:30 PM,12:56,SUB: Veal FOR Timms,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,265,3,12,2,2:30 PM,12:56,,,Mabika Free Throw 2 of 2 (6 PTS),50 - 37,-13,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,266,2,1,2,2:30 PM,12:41,MISS Gillom 8' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,267,4,0,2,2:30 PM,12:39,,,Mabika REBOUND (Off:0 Def:3),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,268,2,47,2,2:30 PM,12:31,,,MISS Figgs 15' Turnaround Jump Shot,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,269,4,0,2,2:30 PM,12:28,,,Mabika REBOUND (Off:1 Def:3),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,270,2,1,2,2:30 PM,12:19,,,MISS Milton-Jones  3PT Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,271,4,0,2,2:30 PM,12:17,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,272,2,1,2,2:31 PM,12:11,Gillom BLOCK (2 BLK),,MISS Mabika 15' Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,273,4,0,2,2:31 PM,12:01,Harrison REBOUND (Off:0 Def:5),,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,274,2,5,2,2:31 PM,11:59,MISS Harrison  Layup,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,275,4,0,2,2:31 PM,11:58,Williams-Strong REBOUND (Off:2 Def:1),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,276,6,2,2,2:31 PM,11:58,,,Leslie S.FOUL (P3.T2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,281,3,11,2,2:34 PM,11:58,MISS Williams-Strong Free Throw 1 of 2,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,282,4,1,2,2:34 PM,11:58,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,283,3,12,2,2:35 PM,11:58,Williams-Strong Free Throw 2 of 2 (5 PTS),,,50 - 38,-12,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,284,6,1,2,2:35 PM,11:36,Veal P.FOUL (P1.PN),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,285,6,6,2,2:36 PM,11:36,Veal AWAY.FROM.PLAY.FOUL (P2.PN),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,286,3,11,2,2:36 PM,11:36,,,Mabika Free Throw 1 of 2 (7 PTS),51 - 38,-13,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,287,3,12,2,2:36 PM,11:36,,,Mabika Free Throw 2 of 2 (8 PTS),52 - 38,-14,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,288,1,5,2,2:37 PM,11:21,Veal  Layup (2 PTS),,,52 - 40,-12,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,289,1,1,2,2:37 PM,11:03,,,Figgs  3PT Jump Shot (9 PTS),55 - 40,-15,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,290,6,1,2,2:37 PM,10:52,,,Leslie P.FOUL (P4.T3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,291,5,2,2,2:38 PM,10:44,Williams-Strong Lost Ball Turnover (P1.T7),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,292,8,0,2,2:38 PM,10:44,,,SUB: Mapp FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,293,2,1,2,2:38 PM,10:16,,,MISS Figgs  3PT Jump Shot,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,294,4,0,2,2:38 PM,10:14,,,Mapp REBOUND (Off:2 Def:0),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,295,5,2,2,2:39 PM,9:55,Gillom STEAL (1 STL),,Mabika Lost Ball Turnover (P1.T9),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,296,1,5,2,2:39 PM,9:49,Gillom  Layup (10 PTS) (Harrison 4 AST),,,55 - 42,-13,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,297,6,2,2,2:39 PM,9:30,Williams-Strong S.FOUL (P2.PN),,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,298,8,0,2,2:39 PM,9:30,SUB: Pettis FOR Harrison,,,,,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,299,8,0,2,2:39 PM,9:30,,,SUB: Byears FOR Mabika,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,300,8,0,2,2:39 PM,9:30,SUB: Saunders FOR Fallon,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,301,8,0,2,2:40 PM,9:30,SUB: Stepanova FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,302,3,11,2,2:40 PM,9:30,,,Dixon Free Throw 1 of 2 (11 PTS),56 - 42,-14,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,303,3,12,2,2:40 PM,9:30,,,Dixon Free Throw 2 of 2 (12 PTS),57 - 42,-15,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,304,2,5,2,2:40 PM,9:22,MISS Saunders  Layup,,Mapp BLOCK (1 BLK),,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,305,4,0,2,2:40 PM,9:18,,,Mapp REBOUND (Off:2 Def:1),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,306,5,1,2,2:41 PM,8:57,Pettis STEAL (1 STL),,Mapp Bad Pass Turnover (P1.T10),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,307,5,2,2,2:41 PM,8:48,Gillom Lost Ball Turnover (P4.T8),,Milton-Jones STEAL (2 STL),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,308,2,5,2,2:41 PM,8:45,Veal BLOCK (2 BLK),,MISS Dixon  Layup,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,309,4,0,2,2:41 PM,8:45,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,310,1,1,2,2:42 PM,8:31,,,Figgs  3PT Jump Shot (12 PTS) (Dixon 2 AST),60 - 42,-18,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,311,9,2,2,2:42 PM,8:20,MERCURY Timeout: Short (Full 1 Short 3),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,314,1,1,2,2:43 PM,8:15,Pettis 16' Jump Shot (2 PTS) (Veal 5 AST),,,60 - 44,-16,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,315,2,1,2,2:43 PM,7:56,,,MISS Mapp 15' Jump Shot,,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,316,4,0,2,2:43 PM,7:53,Saunders REBOUND (Off:0 Def:1),,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,317,5,2,2,2:43 PM,7:50,Saunders Lost Ball Turnover (P1.T9),,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,318,9,1,2,2:43 PM,7:50,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,320,8,0,2,2:45 PM,7:50,SUB: Fallon FOR Saunders,,,,,4,100635,Jaynetta Saunders,1611661317.0,Phoenix,Mercury,PHO,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,321,8,0,2,2:46 PM,7:50,,,SUB: Leslie FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,322,2,5,2,2:47 PM,7:24,,,MISS Figgs  Layup,,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,323,4,0,2,2:47 PM,7:24,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,324,6,3,2,2:47 PM,7:24,,,Mapp L.B.FOUL (P1.T4),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,325,2,1,2,2:48 PM,7:00,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,326,4,0,2,2:48 PM,6:58,,,Leslie REBOUND (Off:1 Def:5),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,327,2,5,2,2:48 PM,6:54,Veal BLOCK (3 BLK),,MISS Byears  Layup,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,328,4,0,2,2:48 PM,6:49,Veal REBOUND (Off:0 Def:2),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,329,2,5,2,2:48 PM,6:35,MISS Pettis  Layup,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,330,4,0,2,2:48 PM,6:33,,,Dixon REBOUND (Off:0 Def:1),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,331,2,5,2,2:48 PM,6:28,,,MISS Dixon  Layup,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,333,4,0,2,2:48 PM,6:26,,,Leslie REBOUND (Off:2 Def:5),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,332,2,5,2,2:48 PM,6:26,,,MISS Leslie  Layup,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,335,4,0,2,2:48 PM,6:23,,,Leslie REBOUND (Off:3 Def:5),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,334,1,5,2,2:48 PM,6:23,,,Leslie  Layup (13 PTS),62 - 44,-18,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,336,2,5,2,2:48 PM,6:16,MISS Pettis  Layup,,Mapp BLOCK (2 BLK),,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,337,4,0,2,2:48 PM,6:12,,,Dixon REBOUND (Off:0 Def:2),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,338,2,5,2,2:48 PM,6:10,,,MISS Dixon  Layup,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,339,4,0,2,2:49 PM,6:09,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,340,6,3,2,2:49 PM,6:09,,,Byears L.B.FOUL (P3.PN),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,341,6,2,2,2:49 PM,5:54,,,Mapp S.FOUL (P2.PN),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,342,3,11,2,2:49 PM,5:54,Gillom Free Throw 1 of 2 (11 PTS),,,62 - 45,-17,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,343,3,12,2,2:50 PM,5:54,MISS Gillom Free Throw 2 of 2,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,344,4,0,2,2:50 PM,5:54,,,Mapp REBOUND (Off:2 Def:2),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,345,1,1,2,2:50 PM,5:31,,,Mapp 17' Jump Shot (2 PTS) (Dixon 3 AST),64 - 45,-19,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,346,1,47,2,2:50 PM,5:21,Gillom 5' Turnaround Jump Shot (13 PTS) (Pettis 1 AST),,,64 - 47,-17,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,347,2,1,2,2:51 PM,5:02,,,MISS Leslie 15' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,348,4,0,2,2:51 PM,4:59,Veal REBOUND (Off:0 Def:3),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,349,6,2,2,2:51 PM,4:56,,,Figgs S.FOUL (P2.PN),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,350,8,0,2,2:51 PM,4:56,SUB: Williams-Strong FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,351,3,11,2,2:51 PM,4:56,Pettis Free Throw 1 of 2 (3 PTS),,,64 - 48,-16,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,352,3,12,2,2:51 PM,4:56,Pettis Free Throw 2 of 2 (4 PTS),,,64 - 49,-15,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,353,2,3,2,2:52 PM,4:29,,,MISS Dixon 9' Hook Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,354,4,0,2,2:52 PM,4:27,,,Mapp REBOUND (Off:3 Def:2),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,355,2,5,2,2:52 PM,4:08,Gillom BLOCK (3 BLK),,MISS Byears  Layup,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,356,10,0,2,2:53 PM,4:08,Jump Ball Gillom vs. Byears: Tip to Veal,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,357,4,0,2,2:53 PM,4:08,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,359,1,1,2,2:53 PM,3:54,Fallon  3PT Jump Shot (9 PTS) (Pettis 2 AST),,,64 - 52,-12,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,360,9,1,2,2:54 PM,3:44,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,364,8,0,2,2:56 PM,3:44,,,SUB: Milton-Jones FOR Byears,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,405,6,2,2,2:56 PM,3:44,Pettis S.FOUL (P1.PN),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,366,3,11,2,2:56 PM,3:44,,,Figgs Free Throw 1 of 2 (13 PTS),65 - 52,-13,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,367,3,12,2,2:56 PM,3:44,,,Figgs Free Throw 2 of 2 (14 PTS),66 - 52,-14,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,369,1,44,2,2:57 PM,3:26,Gillom  Reverse Layup (15 PTS) (Veal 6 AST),,,66 - 54,-12,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,370,1,42,2,2:57 PM,3:01,,,Dixon  Driving Layup (14 PTS),68 - 54,-14,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,371,2,1,2,2:58 PM,2:48,MISS Fallon 12' Jump Shot,,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,373,4,0,2,2:58 PM,2:45,Gillom REBOUND (Off:4 Def:2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,372,2,5,2,2:58 PM,2:45,MISS Gillom  Layup,,Leslie BLOCK (5 BLK),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020100139,374,4,0,2,2:58 PM,2:45,,,Figgs REBOUND (Off:0 Def:4),,,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,375,6,1,2,2:58 PM,2:45,Gillom P.FOUL (P4.PN),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,376,3,11,2,2:58 PM,2:45,,,Milton-Jones Free Throw 1 of 2 (9 PTS),69 - 54,-15,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,377,3,12,2,2:58 PM,2:45,,,Milton-Jones Free Throw 2 of 2 (10 PTS),70 - 54,-16,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,378,2,1,2,2:59 PM,2:34,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,379,4,0,2,2:59 PM,2:32,Pettis REBOUND (Off:2 Def:0),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,380,2,1,2,2:59 PM,2:29,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,381,4,0,2,2:59 PM,2:26,,,Mapp REBOUND (Off:3 Def:3),,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,382,6,1,2,2:59 PM,2:02,Gillom P.FOUL (P5.PN),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,383,3,11,2,3:00 PM,2:02,,,MISS Mapp Free Throw 1 of 2,,,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,384,4,1,2,3:00 PM,2:02,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100139,385,8,0,2,3:00 PM,2:02,SUB: Stepanova FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,386,8,0,2,3:00 PM,2:02,SUB: Harrison FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,387,3,12,2,3:00 PM,2:02,,,Mapp Free Throw 2 of 2 (3 PTS),71 - 54,-17,5,100060,Rhonda Mapp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,388,1,1,2,3:00 PM,1:55,Harrison 13' Jump Shot (7 PTS) (Veal 7 AST),,,71 - 56,-15,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,389,2,5,2,3:01 PM,1:33,Stepanova BLOCK (2 BLK),,MISS Leslie  Layup,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0
+1020100139,390,4,0,2,3:01 PM,1:30,Pettis REBOUND (Off:2 Def:1),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,391,1,1,2,3:01 PM,1:23,Harrison 16' Jump Shot (9 PTS) (Pettis 3 AST),,,71 - 58,-13,4,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,392,1,1,2,3:01 PM,0:53,,,Leslie 13' Jump Shot (15 PTS) (Milton-Jones 2 AST),73 - 58,-15,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020100139,393,5,1,2,3:01 PM,0:44,Fallon Bad Pass Turnover (P1.T10),,,,,4,100399,Trisha Fallon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,394,5,1,2,3:02 PM,0:26,Veal STEAL (1 STL),,Leslie Bad Pass Turnover (P5.T11),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020100139,395,1,5,2,3:02 PM,0:20,Veal  Layup (4 PTS),,,73 - 60,-13,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,396,6,2,2,3:02 PM,0:20,,,Leslie S.FOUL (P5.PN),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020100139,397,3,10,2,3:02 PM,0:20,Veal Free Throw 1 of 1 (5 PTS),,,73 - 61,-12,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,398,6,1,2,3:03 PM,0:08,Veal P.FOUL (P3.PN),,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020100139,399,3,11,2,3:03 PM,0:08,,,Figgs Free Throw 1 of 2 (15 PTS),74 - 61,-13,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,400,3,12,2,3:03 PM,0:08,,,Figgs Free Throw 2 of 2 (16 PTS),75 - 61,-14,5,100392,Ukari Figgs,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,401,2,1,2,3:04 PM,0:03,MISS Veal  3PT Jump Shot,,,,,4,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020100139,402,4,0,2,3:04 PM,0:00,,,Milton-Jones REBOUND (Off:1 Def:10),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020100139,403,13,0,2,3:04 PM,0:00,,End of 2nd Half (3:04 PM EST),,75 - 61,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
