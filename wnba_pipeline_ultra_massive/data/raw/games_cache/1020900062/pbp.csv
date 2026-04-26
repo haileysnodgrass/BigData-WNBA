@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020900062,0,12,0,1,6:06 PM,10:00,,Start of 1st Period (6:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,1,10,0,1,6:07 PM,10:00,Jump Ball McWilliams-Franklin vs. Black: Tip to Ford,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0
+1020900062,2,6,2,1,6:07 PM,9:45,,,Black S.FOUL (P1.T1),,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,3,3,11,1,6:07 PM,9:45,Ford Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,5,3,12,1,6:08 PM,9:45,MISS Ford Free Throw 2 of 2,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,7,4,0,1,6:08 PM,9:44,Ford REBOUND (Off:1 Def:0),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,8,2,1,1,6:08 PM,9:30,MISS McWilliams-Franklin 17' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,9,4,0,1,6:08 PM,9:29,,,Black REBOUND (Off:0 Def:1),,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,10,2,1,1,6:08 PM,9:14,,,MISS Jones 17' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,11,4,0,1,6:08 PM,9:13,Ford REBOUND (Off:1 Def:1),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,12,1,5,1,6:08 PM,9:06,McWilliams-Franklin  Layup (2 PTS) (Hornbuckle 1 AST),,,0 - 3,3,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,13,6,2,1,6:09 PM,8:46,McWilliams-Franklin S.FOUL (P1.T1),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,14,3,11,1,6:09 PM,8:46,,,Jones Free Throw 1 of 2 (1 PTS),1 - 3,2,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,16,3,12,1,6:09 PM,8:46,,,Jones Free Throw 2 of 2 (2 PTS),2 - 3,1,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,18,1,1,1,6:10 PM,8:35,Hornbuckle 16' Jump Shot (2 PTS) (McWilliams-Franklin 1 AST),,,2 - 5,3,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,19,2,1,1,6:10 PM,8:24,,,MISS Jones 10' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,20,4,0,1,6:10 PM,8:23,Nolan REBOUND (Off:0 Def:1),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,21,2,1,1,6:10 PM,8:16,MISS Hornbuckle  3PT Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,22,4,0,1,6:10 PM,8:15,,,Phillips REBOUND (Off:0 Def:1),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,23,2,1,1,6:10 PM,8:00,McWilliams-Franklin BLOCK (1 BLK),,MISS Black 7' Jump Shot,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0
+1020900062,24,4,0,1,6:10 PM,8:00,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,25,5,1,1,6:11 PM,7:56,Hornbuckle STEAL (1 STL),,Phillips Bad Pass Turnover (P1.T1),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,27,1,5,1,6:11 PM,7:51,Hornbuckle  Layup (4 PTS),,,2 - 7,5,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,28,1,1,1,6:11 PM,7:32,,,Phillips  3PT Jump Shot (3 PTS) (Gardin 1 AST),5 - 7,2,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,29,2,1,1,6:11 PM,7:25,MISS McWilliams-Franklin 17' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,30,4,0,1,6:11 PM,7:25,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,31,6,3,1,6:11 PM,7:25,Nolan L.B.FOUL (P1.T2),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,32,5,4,1,6:12 PM,7:12,,,Whalen Traveling Turnover (P1.T2),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020900062,33,6,1,1,6:12 PM,7:00,,,Whalen P.FOUL (P1.T2),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,34,1,42,1,6:13 PM,6:56,Nolan  Driving Layup (2 PTS),,,5 - 9,4,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,35,2,1,1,6:13 PM,6:38,,,MISS Black 16' Jump Shot,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,36,4,0,1,6:13 PM,6:37,,,Gardin REBOUND (Off:1 Def:0),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,37,6,1,1,6:13 PM,6:32,Ford P.FOUL (P1.T3),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,38,1,5,1,6:13 PM,6:19,,,Black  Layup (2 PTS) (Jones 1 AST),7 - 9,2,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,39,2,1,1,6:14 PM,6:02,MISS Nolan 12' Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,40,4,0,1,6:14 PM,6:01,McWilliams-Franklin REBOUND (Off:1 Def:0),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,41,2,1,1,6:14 PM,5:57,MISS Smith 20' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,42,4,0,1,6:14 PM,5:55,,,Black REBOUND (Off:0 Def:2),,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,43,6,2,1,6:14 PM,5:45,Ford S.FOUL (P2.T4),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,44,8,0,1,6:14 PM,5:45,,,SUB: Whitmore FOR Black,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,45,8,0,1,6:14 PM,5:45,,,SUB: Jekabsone-Zogota FOR Phillips,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,46,3,11,1,6:15 PM,5:45,,,Jones Free Throw 1 of 2 (3 PTS),8 - 9,1,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,48,8,0,1,6:15 PM,5:45,SUB: Braxton FOR Ford,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,49,3,12,1,6:15 PM,5:45,,,Jones Free Throw 2 of 2 (4 PTS),9 - 9,TIE,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,51,2,5,1,6:15 PM,5:35,MISS Braxton  Layup,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,52,4,0,1,6:15 PM,5:34,,,Jones REBOUND (Off:0 Def:1),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,53,2,1,1,6:15 PM,5:27,,,MISS Gardin  3PT Jump Shot,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,54,4,0,1,6:15 PM,5:26,Nolan REBOUND (Off:0 Def:2),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,55,2,5,1,6:16 PM,5:20,MISS Nolan  Layup,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,56,4,0,1,6:16 PM,5:19,Braxton REBOUND (Off:1 Def:0),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,57,6,2,1,6:16 PM,5:18,,,Gardin S.FOUL (P1.T3),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,58,3,11,1,6:16 PM,5:18,Braxton Free Throw 1 of 2 (1 PTS),,,9 - 10,1,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,60,3,12,1,6:16 PM,5:18,MISS Braxton Free Throw 2 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,62,4,0,1,6:16 PM,5:17,,,Gardin REBOUND (Off:1 Def:1),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,63,2,1,1,6:16 PM,5:06,,,MISS Whitmore 16' Jump Shot,,,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,64,4,0,1,6:17 PM,5:04,Hornbuckle REBOUND (Off:0 Def:1),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,65,6,2,1,6:17 PM,4:57,,,Jones S.FOUL (P1.T4),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,66,9,4,1,6:17 PM,4:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,67,8,0,1,6:19 PM,4:57,,,SUB: White FOR Gardin,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,68,3,11,1,6:19 PM,4:57,Braxton Free Throw 1 of 2 (2 PTS),,,9 - 11,2,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,70,3,12,1,6:19 PM,4:57,Braxton Free Throw 2 of 2 (3 PTS),,,9 - 12,3,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,72,1,1,1,6:20 PM,4:39,,,Jones 14' Jump Shot (6 PTS) (Jekabsone-Zogota 1 AST),11 - 12,1,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,73,2,1,1,6:20 PM,4:26,MISS Braxton 11' Jump Shot,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,74,4,0,1,6:20 PM,4:25,,,Whalen REBOUND (Off:0 Def:1),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,75,1,1,1,6:20 PM,4:07,,,White 24' 3PT Jump Shot (3 PTS),14 - 12,-2,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,76,6,4,1,6:21 PM,3:57,Hornbuckle OFF.Foul (P1),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,77,5,5,1,6:21 PM,3:57,Hornbuckle Foul Turnover (P1.T1),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,78,8,0,1,6:21 PM,3:57,,,SUB: Brown FOR Whalen,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,79,8,0,1,6:21 PM,3:57,,,SUB: Gruda FOR Jones,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,80,8,0,1,6:21 PM,3:57,SUB: Zellous FOR Hornbuckle,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,81,2,5,1,6:21 PM,3:49,,,MISS Gruda  Layup,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,82,4,0,1,6:21 PM,3:48,McWilliams-Franklin REBOUND (Off:1 Def:1),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,83,6,1,1,6:21 PM,3:41,,,White P.FOUL (P1.PN),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,84,3,11,1,6:22 PM,3:41,MISS Zellous Free Throw 1 of 2,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,85,4,1,1,6:22 PM,3:41,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,86,3,12,1,6:22 PM,3:41,Zellous Free Throw 2 of 2 (1 PTS),,,14 - 13,-1,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,88,1,1,1,6:22 PM,3:26,,,Gruda 13' Jump Shot (2 PTS) (White 1 AST),16 - 13,-3,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,89,1,5,1,6:23 PM,3:08,Braxton  Layup (5 PTS) (Nolan 1 AST),,,16 - 15,-1,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,90,2,1,1,6:23 PM,2:50,,,MISS Whitmore 16' Jump Shot,,,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,91,4,0,1,6:23 PM,2:50,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,92,6,3,1,6:23 PM,2:50,,,Gruda L.B.FOUL (P1.PN),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,93,3,11,1,6:23 PM,2:50,MISS Braxton Free Throw 1 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,94,4,1,1,6:23 PM,2:50,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,95,8,0,1,6:24 PM,2:50,SUB: Sanni FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,96,3,12,1,6:24 PM,2:50,MISS Braxton Free Throw 2 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,98,4,0,1,6:24 PM,2:49,,,White REBOUND (Off:0 Def:1),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,99,1,1,1,6:24 PM,2:38,,,Gruda 17' Jump Shot (4 PTS) (Brown 1 AST),18 - 15,-3,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,100,2,1,1,6:24 PM,2:22,MISS Zellous 10' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,101,4,0,1,6:25 PM,2:21,Braxton REBOUND (Off:2 Def:0),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,102,5,1,1,6:25 PM,2:20,Braxton Bad Pass Turnover (P1.T2),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,103,1,1,1,6:25 PM,2:09,,,Whitmore 15' Jump Shot (2 PTS) (Jekabsone-Zogota 2 AST),20 - 15,-5,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,104,2,1,1,6:25 PM,1:52,MISS Braxton 8' Jump Shot,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,105,4,0,1,6:25 PM,1:51,,,Jekabsone-Zogota REBOUND (Off:0 Def:1),,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,106,1,1,1,6:25 PM,1:39,,,Gruda 9' Jump Shot (6 PTS) (White 2 AST),22 - 15,-7,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,107,6,2,1,6:25 PM,1:39,Sanni S.FOUL (P1.PN),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,108,8,0,1,6:26 PM,1:39,SUB: McWilliams-Franklin FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,109,3,10,1,6:26 PM,1:39,,,Gruda Free Throw 1 of 1 (7 PTS),23 - 15,-8,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,111,9,1,1,6:26 PM,1:33,SHOCK Timeout: Regular (Full 1 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,113,2,1,1,6:28 PM,1:27,MISS Sanni 9' Jump Shot,,Gruda BLOCK (1 BLK),,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0
+1020900062,114,4,0,1,6:28 PM,1:26,McWilliams-Franklin REBOUND (Off:2 Def:1),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,115,2,5,1,6:28 PM,1:22,MISS McWilliams-Franklin  Layup,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,116,4,0,1,6:28 PM,1:21,Smith REBOUND (Off:1 Def:0),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,117,1,1,1,6:28 PM,1:15,McWilliams-Franklin 14' Jump Shot (4 PTS) (Smith 1 AST),,,23 - 17,-6,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,118,1,1,1,6:28 PM,0:58,,,Brown 15' Jump Shot (2 PTS),25 - 17,-8,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,119,1,1,1,6:29 PM,0:45,Smith 17' Jump Shot (2 PTS),,,25 - 19,-6,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,120,1,1,1,6:29 PM,0:29,,,Gruda 15' Jump Shot (9 PTS) (Whitmore 1 AST),27 - 19,-8,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,121,1,3,1,6:29 PM,0:17,Sanni 5' Hook Shot (2 PTS) (Smith 2 AST),,,27 - 21,-6,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,122,2,1,1,6:30 PM,0:00,,,MISS Brown 16' Jump Shot,,,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,123,4,0,1,6:30 PM,0:00,Nolan REBOUND (Off:0 Def:3),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,124,13,0,1,6:30 PM,0:00,,End of 1st Period (6:30 PM EST),,27 - 21,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,126,12,0,2,6:32 PM,10:00,,Start of 2nd Period (6:32 PM EST),,27 - 21,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,127,2,1,2,6:32 PM,9:44,,,MISS White 14' Jump Shot,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,128,4,0,2,6:32 PM,9:43,Nolan REBOUND (Off:0 Def:4),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,129,2,1,2,6:33 PM,9:35,MISS Nolan 14' Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,130,4,0,2,6:33 PM,9:34,Sanni REBOUND (Off:1 Def:0),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,131,1,5,2,6:33 PM,9:32,Sanni  Layup (4 PTS),,,27 - 23,-4,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,132,2,1,2,6:33 PM,9:20,,,MISS Jones 8' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,133,4,0,2,6:33 PM,9:19,Sanni REBOUND (Off:1 Def:1),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,134,5,2,2,6:33 PM,9:15,Sanni Lost Ball Turnover (P1.T3),,Phillips STEAL (1 STL),,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,135,2,5,2,6:33 PM,9:12,,,MISS Whalen  Layup,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,136,4,0,2,6:33 PM,9:10,McWilliams-Franklin REBOUND (Off:2 Def:2),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,137,2,1,2,6:33 PM,9:00,MISS Smith 14' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,138,4,0,2,6:33 PM,8:59,,,Phillips REBOUND (Off:0 Def:2),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,139,1,42,2,6:33 PM,8:48,,,Whalen  Driving Layup (2 PTS),29 - 23,-6,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,140,2,5,2,6:34 PM,8:36,MISS Sanni  Layup,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,141,4,0,2,6:34 PM,8:35,,,Jones REBOUND (Off:0 Def:2),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,142,2,1,2,6:34 PM,8:22,,,MISS Gruda 11' Jump Shot,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,143,4,0,2,6:34 PM,8:21,Nolan REBOUND (Off:0 Def:5),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,144,5,2,2,6:34 PM,8:11,Nolan Lost Ball Turnover (P1.T4),,Jones STEAL (1 STL),,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,145,1,5,2,6:34 PM,8:05,,,Whalen  Layup (4 PTS) (White 3 AST),31 - 23,-8,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,146,2,1,2,6:34 PM,7:42,MISS Zellous 8' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,147,4,0,2,6:34 PM,7:41,Nolan REBOUND (Off:1 Def:5),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,148,2,5,2,6:35 PM,7:24,MISS Zellous  Layup,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,149,4,0,2,6:35 PM,7:23,Zellous REBOUND (Off:1 Def:0),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,150,1,5,2,6:35 PM,7:22,Zellous  Layup (3 PTS),,,31 - 25,-6,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,151,5,1,2,6:35 PM,7:17,Nolan STEAL (1 STL),,Whalen Bad Pass Turnover (P2.T3),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,152,8,0,2,6:35 PM,7:14,,,SUB: Gardin FOR Gruda,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,153,8,0,2,6:35 PM,7:14,,,SUB: Black FOR White,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,154,8,0,2,6:35 PM,7:14,SUB: Braxton FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,155,1,1,2,6:35 PM,7:06,Smith 15' Jump Shot (4 PTS),,,31 - 27,-4,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,156,6,1,2,6:36 PM,6:56,Zellous P.FOUL (P1.T1),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,157,6,2,2,6:36 PM,6:44,Braxton S.FOUL (P1.T2),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,158,3,11,2,6:36 PM,6:44,,,MISS Black Free Throw 1 of 2,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,159,4,1,2,6:36 PM,6:44,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,160,8,0,2,6:36 PM,6:44,SUB: Hornbuckle FOR Smith,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,161,3,12,2,6:36 PM,6:44,,,MISS Black Free Throw 2 of 2,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,163,4,0,2,6:37 PM,6:43,McWilliams-Franklin REBOUND (Off:2 Def:3),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,164,1,3,2,6:37 PM,6:25,McWilliams-Franklin 10' Hook Shot (6 PTS) (Zellous 1 AST),,,31 - 29,-2,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,165,2,1,2,6:37 PM,6:07,,,MISS Phillips  3PT Jump Shot,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,166,4,0,2,6:37 PM,6:06,Braxton REBOUND (Off:2 Def:1),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,167,1,1,2,6:38 PM,5:52,Nolan 16' Jump Shot (4 PTS),,,31 - 31,TIE,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,168,1,5,2,6:38 PM,5:41,,,Jones  Layup (8 PTS) (Whalen 1 AST),33 - 31,-2,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,169,2,1,2,6:38 PM,5:28,MISS McWilliams-Franklin  3PT Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,170,4,0,2,6:38 PM,5:26,,,Gardin REBOUND (Off:1 Def:2),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,171,9,1,2,6:38 PM,5:22,SHOCK Timeout: Regular (Full 2 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,173,8,0,2,6:40 PM,5:22,SUB: Haynie FOR Nolan,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,174,8,0,2,6:40 PM,5:22,SUB: Ford FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,175,2,1,2,6:41 PM,5:12,,,MISS Jones 18' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,176,4,0,2,6:41 PM,5:11,Hornbuckle REBOUND (Off:0 Def:2),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,177,6,1,2,6:41 PM,5:04,,,Jones P.FOUL (P2.T1),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,179,1,1,2,6:42 PM,4:54,Zellous 13' Jump Shot (5 PTS),,,33 - 33,TIE,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,180,1,1,2,6:42 PM,4:45,,,Phillips 15' Jump Shot (5 PTS),35 - 33,-2,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,181,6,2,2,6:42 PM,4:35,,,Phillips S.FOUL (P1.T2),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,182,3,11,2,6:42 PM,4:35,Zellous Free Throw 1 of 2 (6 PTS),,,35 - 34,-1,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,184,8,0,2,6:42 PM,4:35,,,SUB: Jekabsone-Zogota FOR Phillips,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,185,3,12,2,6:43 PM,4:35,Zellous Free Throw 2 of 2 (7 PTS),,,35 - 35,TIE,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,187,2,1,2,6:43 PM,4:25,,,MISS Jones 14' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,188,4,0,2,6:43 PM,4:24,,,Gardin REBOUND (Off:2 Def:2),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,189,2,1,2,6:43 PM,4:05,,,MISS Jekabsone-Zogota 14' Jump Shot,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,190,4,0,2,6:43 PM,4:04,Ford REBOUND (Off:1 Def:2),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,191,2,1,2,6:44 PM,3:45,MISS Hornbuckle 15' Jump Shot,,Gardin BLOCK (1 BLK),,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0
+1020900062,192,4,0,2,6:44 PM,3:43,Hornbuckle REBOUND (Off:1 Def:2),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,193,1,5,2,6:44 PM,3:41,Hornbuckle  Layup (6 PTS),,,35 - 37,2,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,194,2,1,2,6:44 PM,3:24,,,MISS Gardin  3PT Jump Shot,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,195,4,0,2,6:44 PM,3:23,Zellous REBOUND (Off:1 Def:1),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,196,6,4,2,6:44 PM,3:17,Hornbuckle OFF.Foul (P2),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,197,5,5,2,6:44 PM,3:17,Hornbuckle Foul Turnover (P2.T5),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,198,8,0,2,6:44 PM,3:17,,,SUB: Whitmore FOR Black,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,199,8,0,2,6:44 PM,3:17,SUB: Smith FOR Zellous,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,200,6,2,2,6:45 PM,3:08,Braxton S.FOUL (P2.T3),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,201,3,11,2,6:45 PM,3:08,,,MISS Whitmore Free Throw 1 of 2,,,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,202,4,1,2,6:45 PM,3:08,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,203,8,0,2,6:45 PM,3:08,SUB: Nolan FOR Haynie,,,,,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,204,8,0,2,6:45 PM,3:08,SUB: McWilliams-Franklin FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,205,3,12,2,6:46 PM,3:08,,,Whitmore Free Throw 2 of 2 (3 PTS),36 - 37,1,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,207,6,1,2,6:46 PM,3:01,,,Whalen P.FOUL (P2.T3),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,208,2,1,2,6:46 PM,2:53,MISS Nolan  3PT Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,209,4,0,2,6:46 PM,2:51,,,Whalen REBOUND (Off:0 Def:2),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,210,2,1,2,6:46 PM,2:44,,,MISS Jekabsone-Zogota  3PT Jump Shot,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,211,4,0,2,6:46 PM,2:43,Ford REBOUND (Off:1 Def:3),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,212,6,1,2,6:47 PM,2:28,,,Jekabsone-Zogota P.FOUL (P1.T4),,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,213,9,1,2,6:47 PM,2:28,,,Sun Timeout: Regular (Reg.1 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,217,1,1,2,6:49 PM,2:22,Smith  3PT Jump Shot (7 PTS) (Nolan 2 AST),,,36 - 40,4,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,218,2,5,2,6:50 PM,2:03,Hornbuckle BLOCK (1 BLK),,MISS Gardin  Layup,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0
+1020900062,219,4,0,2,6:50 PM,2:01,Hornbuckle REBOUND (Off:1 Def:3),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,220,2,1,2,6:50 PM,1:55,MISS Smith 16' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,221,4,0,2,6:50 PM,1:54,,,Whalen REBOUND (Off:0 Def:3),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,222,6,3,2,6:50 PM,1:54,Smith L.B.FOUL (P1.T4),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,223,2,1,2,6:50 PM,1:42,,,MISS Jekabsone-Zogota  3PT Jump Shot,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,224,4,0,2,6:50 PM,1:41,,,Jones REBOUND (Off:1 Def:2),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,225,1,5,2,6:50 PM,1:40,,,Jones  Layup (10 PTS),38 - 40,2,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,226,1,1,2,6:50 PM,1:22,Smith 12' Jump Shot (9 PTS),,,38 - 42,4,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,227,2,1,2,6:51 PM,1:08,,,MISS Jones  3PT Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,228,4,0,2,6:51 PM,1:07,Hornbuckle REBOUND (Off:1 Def:4),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,229,2,1,2,6:51 PM,0:55,MISS Ford 11' Jump Shot,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,230,4,0,2,6:51 PM,0:55,,,Gardin REBOUND (Off:2 Def:3),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,231,6,1,2,6:51 PM,0:55,Ford P.FOUL (P3.PN),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,233,8,0,2,6:51 PM,0:55,SUB: Sanni FOR Ford,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,234,8,0,2,6:51 PM,0:55,,,SUB: Gruda FOR Jones,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,235,8,0,2,6:51 PM,0:55,,,SUB: Brown FOR Whalen,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,236,3,11,2,6:52 PM,0:55,,,Gardin Free Throw 1 of 2 (1 PTS),39 - 42,3,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,237,3,12,2,6:52 PM,0:55,,,Gardin Free Throw 2 of 2 (2 PTS),40 - 42,2,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,239,1,1,2,6:52 PM,0:44,Nolan 17' Jump Shot (6 PTS) (McWilliams-Franklin 2 AST),,,40 - 44,4,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,240,2,1,2,6:53 PM,0:21,,,MISS Whitmore 15' Jump Shot,,,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,241,4,0,2,6:53 PM,0:20,Nolan REBOUND (Off:1 Def:6),,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,242,6,1,2,6:53 PM,0:03,,,Jekabsone-Zogota P.FOUL (P2.PN),,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,243,3,11,2,6:53 PM,0:03,Nolan Free Throw 1 of 2 (7 PTS),,,40 - 45,5,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,245,8,0,2,6:54 PM,0:03,SUB: Zellous FOR Hornbuckle,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,246,8,0,2,6:54 PM,0:03,,,SUB: White FOR Whitmore,,,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,248,8,0,2,6:54 PM,0:03,SUB: Haynie FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,249,3,12,2,6:54 PM,0:03,MISS Nolan Free Throw 2 of 2,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,251,4,0,2,6:54 PM,0:02,,,Gruda REBOUND (Off:0 Def:1),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,252,5,1,2,6:54 PM,0:01,Zellous STEAL (1 STL),,Gardin Bad Pass Turnover (P1.T4),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,253,13,0,2,6:55 PM,0:00,,End of 2nd Period (6:55 PM EST),,40 - 45,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,257,12,0,3,7:10 PM,10:00,,Start of 3rd Period (7:10 PM EST),,40 - 45,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,259,2,45,3,7:11 PM,9:38,,,MISS Gruda 13' Jump Shot,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,260,4,0,3,7:11 PM,9:36,Hornbuckle REBOUND (Off:1 Def:5),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,261,1,1,3,7:11 PM,9:20,Nolan 16' Jump Shot (9 PTS),,,40 - 47,7,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,324,6,1,3,7:11 PM,9:12,McWilliams-Franklin P.FOUL (P2.T1),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,262,6,1,3,7:11 PM,9:03,Ford P.FOUL (P4.T2),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,263,8,0,3,7:11 PM,9:03,SUB: Braxton FOR Ford,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,264,2,1,3,7:11 PM,8:49,,,MISS Phillips 16' Jump Shot,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,265,4,0,3,7:11 PM,8:47,Braxton REBOUND (Off:2 Def:2),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,266,1,1,3,7:12 PM,8:30,Smith  3PT Jump Shot (12 PTS) (Nolan 3 AST),,,40 - 50,10,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,267,1,3,3,7:12 PM,8:05,,,Jones 8' Hook Shot (12 PTS),42 - 50,8,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,268,1,1,3,7:12 PM,7:48,Smith 19' Jump Shot (14 PTS),,,42 - 52,10,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,269,1,1,3,7:13 PM,7:26,,,Phillips  3PT Jump Shot (8 PTS) (Jones 2 AST),45 - 52,7,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,270,2,1,3,7:13 PM,7:02,MISS McWilliams-Franklin 15' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,271,4,0,3,7:13 PM,7:01,,,Gruda REBOUND (Off:0 Def:2),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,272,6,1,3,7:13 PM,6:48,Braxton P.FOUL (P3.T3),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,273,8,0,3,7:14 PM,6:48,SUB: Sanni FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,274,6,4,3,7:14 PM,6:43,,,Gruda OFF.Foul (P2),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,275,5,5,3,7:14 PM,6:43,,,Gruda Foul Turnover (P1.T5),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020900062,276,8,0,3,7:14 PM,6:42,SUB: Zellous FOR Hornbuckle,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,277,1,42,3,7:14 PM,6:26,Zellous  Driving Layup (9 PTS),,,45 - 54,9,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,278,1,1,3,7:15 PM,6:10,,,Gruda 17' Jump Shot (11 PTS) (Whalen 2 AST),47 - 54,7,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,279,1,1,3,7:15 PM,5:49,Zellous  3PT Jump Shot (12 PTS) (Sanni 1 AST),,,47 - 57,10,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,280,1,1,3,7:15 PM,5:34,,,Phillips  3PT Jump Shot (11 PTS) (Gardin 2 AST),50 - 57,7,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,282,5,41,3,7:16 PM,5:32,Smith Poss Lost Ball Turnover (P1.T6),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,303,8,0,3,7:16 PM,5:32,,,SUB: Jekabsone-Zogota FOR Gardin,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,283,2,1,3,7:16 PM,5:21,,,MISS Phillips 18' Jump Shot,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,284,4,0,3,7:16 PM,5:19,Sanni REBOUND (Off:1 Def:2),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,285,2,1,3,7:16 PM,5:07,MISS Smith 20' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,286,4,0,3,7:16 PM,5:06,,,Jekabsone-Zogota REBOUND (Off:0 Def:2),,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,287,1,1,3,7:16 PM,4:57,,,Gruda 17' Jump Shot (13 PTS) (Jekabsone-Zogota 3 AST),52 - 57,5,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,288,2,1,3,7:16 PM,4:37,MISS Nolan 16' Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,289,4,0,3,7:16 PM,4:37,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,290,9,4,3,7:17 PM,4:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,291,8,0,3,7:19 PM,4:37,,,SUB: Whitmore FOR Jones,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,292,8,0,3,7:19 PM,4:30,SUB: Braxton FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,293,1,1,3,7:19 PM,4:23,,,Gruda 15' Jump Shot (15 PTS) (Whitmore 2 AST),54 - 57,3,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,294,1,1,3,7:19 PM,4:11,Nolan 15' Jump Shot (11 PTS) (McWilliams-Franklin 3 AST),,,54 - 59,5,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,295,1,5,3,7:20 PM,3:50,,,Gruda  Layup (17 PTS) (Phillips 1 AST),56 - 59,3,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,296,2,1,3,7:20 PM,3:31,MISS Nolan 15' Jump Shot,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,297,4,0,3,7:20 PM,3:30,,,Gruda REBOUND (Off:0 Def:3),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,298,2,1,3,7:20 PM,3:21,,,MISS Phillips  3PT Jump Shot,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,299,4,0,3,7:20 PM,3:20,Smith REBOUND (Off:1 Def:1),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,300,5,41,3,7:20 PM,3:04,Braxton Poss Lost Ball Turnover (P2.T7),,Gruda STEAL (1 STL),,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,301,1,1,3,7:21 PM,2:42,,,Gruda 15' Jump Shot (19 PTS),58 - 59,1,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,302,1,5,3,7:21 PM,2:23,Braxton  Layup (7 PTS) (McWilliams-Franklin 4 AST),,,58 - 61,3,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,304,2,1,3,7:21 PM,2:09,,,MISS Gruda 16' Jump Shot,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,305,4,0,3,7:21 PM,2:07,,,Jekabsone-Zogota REBOUND (Off:1 Def:2),,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,306,2,5,3,7:21 PM,2:07,Zellous BLOCK (1 BLK),,MISS Jekabsone-Zogota  Layup,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0
+1020900062,307,4,0,3,7:21 PM,2:07,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,308,8,0,3,7:21 PM,2:07,,,SUB: White FOR Whalen,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,309,8,0,3,7:22 PM,2:07,,,SUB: Brown FOR Phillips,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,310,8,0,3,7:22 PM,2:07,,,SUB: Black FOR Gruda,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,311,8,0,3,7:22 PM,2:07,SUB: Hornbuckle FOR Nolan,,,,,4,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,312,5,1,3,7:22 PM,2:06,McWilliams-Franklin STEAL (1 STL),,White Bad Pass Turnover (P1.T6),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,313,1,1,3,7:22 PM,1:49,McWilliams-Franklin 17' Jump Shot (8 PTS) (Hornbuckle 2 AST),,,58 - 63,5,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,314,2,1,3,7:23 PM,1:30,,,MISS Brown  3PT Jump Shot,,,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,315,4,0,3,7:23 PM,1:27,Braxton REBOUND (Off:2 Def:3),,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,316,2,1,3,7:23 PM,1:11,MISS Zellous 15' Jump Shot,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,317,4,0,3,7:23 PM,1:10,,,Brown REBOUND (Off:0 Def:1),,,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,318,2,1,3,7:23 PM,0:49,,,MISS White 17' Jump Shot,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,319,4,0,3,7:23 PM,0:48,Hornbuckle REBOUND (Off:1 Def:6),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,320,6,1,3,7:23 PM,0:38,,,White P.FOUL (P2.T1),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,321,6,1,3,7:24 PM,0:36,,,Jekabsone-Zogota P.FOUL (P3.PN),,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,323,3,11,3,7:24 PM,0:36,Zellous Free Throw 1 of 2 (13 PTS),,,58 - 64,6,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,325,3,12,3,7:24 PM,0:36,Zellous Free Throw 2 of 2 (14 PTS),,,58 - 65,7,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,327,5,40,3,7:25 PM,0:27,,,Brown Out of Bounds Lost Ball Turnover (P1.T7),,,5,100651,Kiesha Brown,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020900062,328,2,1,3,7:26 PM,0:08,MISS Zellous 11' Jump Shot,,Black BLOCK (1 BLK),,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0
+1020900062,329,4,0,3,7:26 PM,0:08,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,330,5,1,3,7:26 PM,0:07,Zellous Bad Pass Turnover (P1.T8),,Black STEAL (1 STL),,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,331,1,1,3,7:26 PM,0:00,,,Jekabsone-Zogota 15' Jump Shot (2 PTS) (White 4 AST),60 - 65,5,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,332,13,0,3,7:26 PM,0:00,,End of 3rd Period (7:26 PM EST),,60 - 65,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,334,12,0,4,7:29 PM,10:00,,Start of 4th Period (7:29 PM EST),,60 - 65,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,335,1,1,4,7:29 PM,9:45,Zellous 15' Jump Shot (16 PTS),,,60 - 67,7,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,336,6,1,4,7:29 PM,9:36,Hornbuckle P.FOUL (P3.T1),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,337,1,1,4,7:30 PM,9:20,,,Jones 15' Jump Shot (14 PTS),62 - 67,5,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,338,2,5,4,7:30 PM,9:02,MISS Braxton  Layup,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,339,4,0,4,7:30 PM,9:01,,,Whalen REBOUND (Off:0 Def:4),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,340,2,1,4,7:31 PM,8:48,,,MISS White  3PT Jump Shot,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,341,4,0,4,7:31 PM,8:47,,,Black REBOUND (Off:1 Def:2),,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,342,2,5,4,7:31 PM,8:45,,,MISS Black  Layup,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,343,4,0,4,7:31 PM,8:44,Haynie REBOUND (Off:0 Def:1),,,,,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,344,6,2,4,7:31 PM,8:34,,,Jones S.FOUL (P3.T1),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,345,8,0,4,7:31 PM,8:34,SUB: Smith FOR Haynie,,,,,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,346,8,0,4,7:31 PM,8:34,,,SUB: Gruda FOR Black,,,5,201884,Chante Black,1611661323.0,Connecticut,Sun,CON,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,347,3,11,4,7:31 PM,8:34,MISS Braxton Free Throw 1 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,348,4,1,4,7:31 PM,8:34,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,349,3,12,4,7:32 PM,8:34,Braxton Free Throw 2 of 2 (8 PTS),,,62 - 68,6,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,351,6,2,4,7:32 PM,8:21,McWilliams-Franklin S.FOUL (P3.T2),,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,353,8,0,4,7:32 PM,8:21,SUB: Ford FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,354,3,11,4,7:33 PM,8:21,,,Jones Free Throw 1 of 2 (15 PTS),63 - 68,5,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,356,8,0,4,7:33 PM,8:21,,,SUB: Phillips FOR Jekabsone-Zogota,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,357,3,12,4,7:33 PM,8:21,,,Jones Free Throw 2 of 2 (16 PTS),64 - 68,4,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,359,5,2,4,7:33 PM,8:14,Hornbuckle Lost Ball Turnover (P3.T9),,Phillips STEAL (2 STL),,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,360,1,5,4,7:33 PM,8:05,,,White  Layup (5 PTS) (Jones 3 AST),66 - 68,2,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,361,9,1,4,7:33 PM,8:03,SHOCK Timeout: Regular (Full 3 Short 0),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,362,2,1,4,7:36 PM,7:44,MISS Ford 9' Jump Shot,,Gruda BLOCK (2 BLK),,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0
+1020900062,363,4,0,4,7:36 PM,7:42,Hornbuckle REBOUND (Off:2 Def:6),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,364,2,1,4,7:36 PM,7:38,MISS Hornbuckle 10' Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,365,4,0,4,7:36 PM,7:36,,,Gruda REBOUND (Off:0 Def:4),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,366,2,1,4,7:36 PM,7:20,,,MISS Jones 14' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,367,4,0,4,7:36 PM,7:19,Ford REBOUND (Off:1 Def:4),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,368,2,1,4,7:37 PM,7:04,MISS McWilliams-Franklin 11' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,369,4,0,4,7:37 PM,7:03,,,Gruda REBOUND (Off:0 Def:5),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,370,5,8,4,7:37 PM,6:50,,,Gruda 3 Second Violation Turnover (P2.T8),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020900062,371,8,0,4,7:38 PM,6:34,SUB: Sanni FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,372,1,1,4,7:38 PM,6:29,Smith 17' Jump Shot (16 PTS),,,66 - 70,4,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,435,18,0,4,7:38 PM,6:29,,Instant Replay4th Period (7:38 PM EST),,66 - 70,4,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900062,373,1,1,4,7:38 PM,6:10,,,Gruda 12' Jump Shot (21 PTS) (Jones 4 AST),68 - 70,2,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,375,2,1,4,7:39 PM,5:48,MISS Smith 15' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,376,4,0,4,7:39 PM,5:48,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,377,2,1,4,7:39 PM,5:36,,,MISS Phillips  3PT Jump Shot,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,378,4,0,4,7:39 PM,5:35,,,Phillips REBOUND (Off:1 Def:2),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,379,2,1,4,7:39 PM,5:31,,,MISS Gruda 16' Jump Shot,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,380,4,0,4,7:39 PM,5:30,,,Gruda REBOUND (Off:1 Def:5),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,381,2,5,4,7:39 PM,5:24,,,MISS Whalen  Layup,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,382,4,0,4,7:39 PM,5:22,Ford REBOUND (Off:1 Def:5),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,383,2,5,4,7:40 PM,5:09,MISS Zellous  Layup,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,384,4,0,4,7:40 PM,5:08,Ford REBOUND (Off:2 Def:5),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,385,5,40,4,7:40 PM,5:05,Zellous Out of Bounds Lost Ball Turnover (P2.T10),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,386,1,1,4,7:40 PM,4:49,,,Gruda 16' Jump Shot (23 PTS) (Whalen 3 AST),70 - 70,TIE,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,387,6,4,4,7:41 PM,4:32,Sanni OFF.Foul (P2),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,388,5,5,4,7:41 PM,4:32,Sanni Foul Turnover (P2.T11),,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,389,9,1,4,7:41 PM,4:32,,,Sun Timeout: Regular (Reg.2 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,392,8,0,4,7:44 PM,4:32,SUB: Braxton FOR Sanni,,,,,4,201489,Olayinka Sanni,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,395,2,1,4,7:45 PM,4:16,,,MISS Jones 10' Jump Shot,,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,396,4,0,4,7:45 PM,4:15,Hornbuckle REBOUND (Off:2 Def:7),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,397,6,1,4,7:45 PM,4:12,,,Gruda P.FOUL (P3.T2),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,398,1,1,4,7:45 PM,3:56,Smith 14' Jump Shot (18 PTS),,,70 - 72,2,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,399,2,1,4,7:46 PM,3:43,Braxton BLOCK (1 BLK),,MISS Gruda 17' Jump Shot,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0
+1020900062,400,4,0,4,7:46 PM,3:41,,,White REBOUND (Off:1 Def:1),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,401,6,2,4,7:46 PM,3:41,Zellous S.FOUL (P2.T3),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,402,3,11,4,7:46 PM,3:41,,,Whalen Free Throw 1 of 2 (5 PTS),71 - 72,1,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,404,3,12,4,7:46 PM,3:41,,,Whalen Free Throw 2 of 2 (6 PTS),72 - 72,TIE,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,406,2,1,4,7:47 PM,3:27,MISS Hornbuckle 17' Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,407,4,0,4,7:47 PM,3:26,,,Whalen REBOUND (Off:0 Def:5),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,408,6,2,4,7:47 PM,3:17,Hornbuckle S.FOUL (P4.T4),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,409,3,11,4,7:47 PM,3:17,,,Phillips Free Throw 1 of 2 (12 PTS),73 - 72,-1,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,413,3,12,4,7:47 PM,3:17,,,Phillips Free Throw 2 of 2 (13 PTS),74 - 72,-2,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,415,1,1,4,7:48 PM,2:57,Smith 17' Jump Shot (20 PTS),,,74 - 74,TIE,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,441,18,0,4,7:48 PM,2:57,,Instant Replay4th Period (7:48 PM EST),,74 - 74,TIE,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900062,416,1,1,4,7:48 PM,2:38,,,White  3PT Jump Shot (8 PTS) (Phillips 2 AST),77 - 74,-3,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,417,6,2,4,7:49 PM,2:16,,,Gruda S.FOUL (P4.T3),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,418,3,11,4,7:49 PM,2:16,MISS Braxton Free Throw 1 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,419,4,1,4,7:49 PM,2:16,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,420,3,12,4,7:49 PM,2:16,MISS Braxton Free Throw 2 of 2,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,423,4,0,4,7:51 PM,2:13,SHOCK Rebound,,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,422,8,0,4,7:51 PM,2:13,SUB: McWilliams-Franklin FOR Braxton,,,,,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,424,10,0,4,7:51 PM,2:13,Jump Ball Ford vs. Gruda: Tip to Zellous,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0
+1020900062,425,5,2,4,7:52 PM,2:09,Zellous Lost Ball Turnover (P3.T12),,Gruda STEAL (2 STL),,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,426,2,1,4,7:52 PM,1:48,,,MISS White 14' Jump Shot,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,427,4,0,4,7:52 PM,1:47,Hornbuckle REBOUND (Off:2 Def:8),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,428,1,5,4,7:52 PM,1:31,Ford  Layup (3 PTS) (McWilliams-Franklin 5 AST),,,77 - 76,-1,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,429,2,1,4,7:53 PM,1:15,,,MISS Whalen 16' Jump Shot,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,430,4,0,4,7:53 PM,1:14,,,Jones REBOUND (Off:2 Def:2),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,431,5,1,4,7:53 PM,1:13,Hornbuckle STEAL (2 STL),,Jones Bad Pass Turnover (P1.T9),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,432,9,2,4,7:53 PM,1:13,SHOCK Timeout: Short (Full 3 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,436,1,1,4,7:54 PM,0:58,Smith  3PT Jump Shot (23 PTS),,,77 - 79,2,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,437,2,1,4,7:55 PM,0:33,Hornbuckle BLOCK (2 BLK),,MISS Whalen 10' Jump Shot,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0
+1020900062,438,4,0,4,7:55 PM,0:32,Hornbuckle REBOUND (Off:2 Def:9),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,439,6,1,4,7:55 PM,0:32,,,White P.FOUL (P3.T4),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,440,9,1,4,7:56 PM,0:17,SHOCK Timeout: Regular (Full 4 Short 1),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,455,8,0,4,7:56 PM,0:17,,,SUB: Gardin FOR White,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,442,2,1,4,7:58 PM,0:10,MISS Smith 14' Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,443,4,0,4,7:58 PM,0:09,,,Phillips REBOUND (Off:1 Def:3),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,444,9,1,4,7:58 PM,0:09,,,Sun Timeout: Regular (Reg.3 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,457,8,0,4,7:58 PM,0:09,,,SUB: White FOR Gardin,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,446,6,2,4,8:00 PM,0:07,Zellous S.FOUL (P3.PN),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,447,3,11,4,8:00 PM,0:07,,,Whalen Free Throw 1 of 2 (7 PTS),78 - 79,1,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,449,8,0,4,8:00 PM,0:07,,,SUB: Gardin FOR White,,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,451,3,12,4,8:01 PM,0:07,,,Whalen Free Throw 2 of 2 (8 PTS),79 - 79,TIE,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,453,9,2,4,8:01 PM,0:07,SHOCK Timeout: Short (Full 4 Short 2),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,458,5,2,4,8:02 PM,0:00,McWilliams-Franklin Lost Ball Turnover (P1.T13),,Gardin STEAL (1 STL),,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,460,9,1,4,8:02 PM,0:00,,,Sun Timeout: Regular (Reg.4 Short 0),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,462,8,0,4,8:03 PM,0:00,SUB: Braxton FOR McWilliams-Franklin,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,465,8,0,4,8:03 PM,0:00,,,SUB: White FOR Gardin,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,464,5,1,4,8:03 PM,0:00,Ford STEAL (1 STL),,Whalen Bad Pass Turnover (P3.T10),,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,466,13,0,4,8:04 PM,0:00,,End of 4th Period (8:04 PM EST),,79 - 79,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,468,12,0,5,8:06 PM,5:00,,Start of 1st OT (8:06 PM EST),,79 - 79,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,469,10,0,5,8:06 PM,5:00,Jump Ball McWilliams-Franklin vs. Gruda: Tip to Phillips,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0
+1020900062,470,1,5,5,8:06 PM,4:43,,,Phillips  Layup (15 PTS) (Jones 5 AST),81 - 79,-2,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,471,6,2,5,8:06 PM,4:43,Zellous S.FOUL (P4.T1),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,472,3,10,5,8:07 PM,4:43,,,Phillips Free Throw 1 of 1 (16 PTS),82 - 79,-3,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,474,6,1,5,8:07 PM,4:30,,,Gardin P.FOUL (P2.T1),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,476,6,2,5,8:08 PM,4:25,,,Gruda S.FOUL (P5.T2),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,477,3,11,5,8:08 PM,4:25,Zellous Free Throw 1 of 2 (17 PTS),,,82 - 80,-2,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,479,3,12,5,8:08 PM,4:25,Zellous Free Throw 2 of 2 (18 PTS),,,82 - 81,-1,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,481,5,40,5,8:09 PM,4:09,,,Gruda Out of Bounds Lost Ball Turnover (P3.T11),,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020900062,482,2,66,5,8:09 PM,3:52,MISS Zellous 13' Jump Bank Shot,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,483,4,0,5,8:09 PM,3:51,Hornbuckle REBOUND (Off:3 Def:9),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,484,1,1,5,8:09 PM,3:36,Zellous 17' Jump Shot (20 PTS) (Ford 1 AST),,,82 - 83,1,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,485,6,1,5,8:09 PM,3:27,Ford P.FOUL (P5.T2),,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,486,2,1,5,8:10 PM,3:14,,,MISS Phillips 18' Jump Shot,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,487,4,0,5,8:10 PM,3:13,Smith REBOUND (Off:1 Def:2),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,488,6,1,5,8:10 PM,3:12,,,Phillips P.FOUL (P2.T3),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,489,2,1,5,8:11 PM,3:08,MISS Smith 24' 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,490,4,0,5,8:11 PM,3:07,,,Jones REBOUND (Off:2 Def:3),,,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,491,9,2,5,8:11 PM,3:04,,,Sun Timeout: Short (Reg.4 Short 1),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,492,8,0,5,8:12 PM,3:04,,,SUB: White FOR Whalen,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,493,2,1,5,8:12 PM,2:50,Ford BLOCK (1 BLK),,MISS Gruda 14' Jump Shot,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,0
+1020900062,494,4,0,5,8:12 PM,2:49,,,White REBOUND (Off:2 Def:1),,,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,495,6,2,5,8:12 PM,2:49,Zellous S.FOUL (P5.T3),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,496,3,11,5,8:12 PM,2:49,,,White Free Throw 1 of 2 (9 PTS),83 - 83,TIE,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,498,3,12,5,8:13 PM,2:49,,,White Free Throw 2 of 2 (10 PTS),84 - 83,-1,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,500,1,5,5,8:13 PM,2:36,McWilliams-Franklin  Layup (10 PTS) (Smith 3 AST),,,84 - 85,1,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,502,6,4,5,8:13 PM,2:15,,,Gardin OFF.Foul (P3),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,1,0,,,,,,0
+1020900062,503,5,5,5,8:13 PM,2:15,,,Gardin Foul Turnover (P2.T12),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020900062,504,10,0,5,8:14 PM,2:02,Jump Ball Ford vs. Phillips: Tip to Smith,,,,,4,100843,Cheryl Ford,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0
+1020900062,505,2,1,5,8:15 PM,1:51,MISS Smith 24' 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,506,4,0,5,8:15 PM,1:51,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,507,6,1,5,8:15 PM,1:51,Zellous P.FOUL (P6.PN),,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,509,8,0,5,8:15 PM,1:51,SUB: Haynie FOR Zellous,,,,,4,201919,Shavonte Zellous,1611661321.0,Detroit,Shock,DET,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,510,3,11,5,8:15 PM,1:51,,,White Free Throw 1 of 2 (11 PTS),85 - 85,TIE,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,512,3,12,5,8:16 PM,1:51,,,White Free Throw 2 of 2 (12 PTS),86 - 85,-1,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,514,2,1,5,8:16 PM,1:32,MISS McWilliams-Franklin 13' Jump Shot,,,,,4,100412,Taj McWilliams-Franklin,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,515,4,0,5,8:16 PM,1:31,,,Phillips REBOUND (Off:1 Def:4),,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,516,6,2,5,8:16 PM,1:24,Smith S.FOUL (P2.PN),,,,,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,517,3,11,5,8:17 PM,1:24,,,MISS Gardin Free Throw 1 of 2,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,518,4,1,5,8:17 PM,1:24,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,519,3,12,5,8:17 PM,1:24,,,Gardin Free Throw 2 of 2 (3 PTS),87 - 85,-2,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,521,2,1,5,8:17 PM,1:07,MISS Hornbuckle  3PT Jump Shot,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,522,4,0,5,8:17 PM,1:06,,,Gardin REBOUND (Off:2 Def:4),,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,523,1,1,5,8:18 PM,0:53,,,Phillips  3PT Jump Shot (19 PTS),90 - 85,-5,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,524,1,1,5,8:18 PM,0:37,Smith  3PT Jump Shot (26 PTS),,,90 - 88,-2,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,525,1,1,5,8:18 PM,0:16,,,Jones 14' Jump Shot (18 PTS),92 - 88,-4,5,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,526,9,1,5,8:18 PM,0:16,SHOCK Timeout: Regular (Full 5 Short 2),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,528,1,1,5,8:20 PM,0:10,Smith 18' Jump Shot (28 PTS),,,92 - 90,-2,4,100404,Katie Smith,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,529,9,1,5,8:21 PM,0:10,,,Sun Timeout: Regular (Reg.5 Short 1),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,530,8,0,5,8:22 PM,0:10,,,SUB: Whalen FOR Gardin,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,531,8,0,5,8:22 PM,0:10,,,SUB: Jekabsone-Zogota FOR Gruda,,,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,532,6,1,5,8:22 PM,0:09,Haynie P.FOUL (P1.PN),,,,,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,534,8,0,5,8:23 PM,0:09,,,SUB: Gruda FOR Jekabsone-Zogota,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,5,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,536,8,0,5,8:23 PM,0:09,,,SUB: Gardin FOR Whalen,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,537,3,11,5,8:23 PM,0:09,,,White Free Throw 1 of 2 (13 PTS),93 - 90,-3,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,539,3,12,5,8:23 PM,0:09,,,White Free Throw 2 of 2 (14 PTS),94 - 90,-4,5,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,541,9,2,5,8:24 PM,0:09,SHOCK Timeout: Short (Full 5 Short 3),,,,,2,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,542,6,4,5,8:25 PM,0:06,Hornbuckle OFF.Foul (P5),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,543,5,5,5,8:25 PM,0:06,Hornbuckle Foul Turnover (P4.T14),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020900062,544,9,2,5,8:25 PM,0:06,,,Sun Timeout: Short (Reg.5 Short 2),,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,545,8,0,5,8:26 PM,0:06,,,SUB: Whalen FOR Phillips,,,5,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,546,8,0,5,8:26 PM,0:06,,,SUB: Jekabsone-Zogota FOR Gardin,,,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,547,6,1,5,8:27 PM,0:04,Hornbuckle P.FOUL (P6.PN),,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020900062,548,8,0,5,8:27 PM,0:04,,,SUB: Gardin FOR Whalen,,,5,100915,Lindsay Whalen,1611661323.0,Connecticut,Sun,CON,5,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020900062,549,8,0,5,8:27 PM,0:04,SUB: Braxton FOR Hornbuckle,,,,,4,201487,Alexis Hornbuckle,1611661321.0,Detroit,Shock,DET,4,101025,Kara Braxton,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020900062,550,3,11,5,8:27 PM,0:04,,,MISS Jekabsone-Zogota Free Throw 1 of 2,,,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,551,4,1,5,8:27 PM,0:04,,,Sun Rebound,,,3,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900062,552,3,12,5,8:28 PM,0:04,,,Jekabsone-Zogota Free Throw 2 of 2 (3 PTS),95 - 90,-5,5,201869,Anete Jekabsone-Zogota,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020900062,554,1,42,5,8:28 PM,0:00,Haynie  Driving Layup (2 PTS),,,95 - 92,-3,4,101027,Kristin Haynie,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020900062,555,13,0,5,8:28 PM,0:00,,End of 1st OT (8:28 PM EST),,95 - 92,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

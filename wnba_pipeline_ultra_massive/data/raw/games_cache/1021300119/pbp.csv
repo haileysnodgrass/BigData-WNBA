@@ -1,0 +1,363 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021300119,0,12,0,1,7:06 PM,10:00,,Start of 1st Period (7:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,1,10,0,1,7:07 PM,10:00,Jump Ball Charles vs. Ogwumike: Tip to Ogwumike,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0
+1021300119,2,2,1,1,7:07 PM,9:41,,,MISS Beard 19' Jump Shot,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,3,4,0,1,7:07 PM,9:40,Hightower REBOUND (Off:0 Def:1),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,4,6,1,1,7:07 PM,9:18,,,Lavender P.FOUL (P1.T1),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,5,3,11,1,7:08 PM,9:18,Griffin Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,7,3,12,1,7:08 PM,9:18,Griffin Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,9,5,1,1,7:08 PM,9:08,,,Toliver Bad Pass Turnover (P1.T1),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,10,1,58,1,7:08 PM,8:52,Charles 2' Turnaround Hook Shot (2 PTS),,,0 - 4,4,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,11,2,1,1,7:09 PM,8:44,,,MISS Toliver 18' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,12,4,0,1,7:09 PM,8:42,,,Toliver REBOUND (Off:1 Def:0),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,13,2,1,1,7:09 PM,8:40,,,MISS Toliver 5' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,14,4,0,1,7:09 PM,8:39,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,15,2,1,1,7:09 PM,8:38,,,MISS Toliver 16' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,16,4,0,1,7:09 PM,8:36,Charles REBOUND (Off:0 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,17,2,1,1,7:09 PM,8:27,MISS Griffin 3' Jump Shot,,Beard BLOCK (1 BLK),,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0
+1021300119,18,4,0,1,7:09 PM,8:22,,,Lavender REBOUND (Off:0 Def:1),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,19,2,1,1,7:09 PM,8:12,,,MISS Lavender 19' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,20,4,0,1,7:09 PM,8:11,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,22,2,1,1,7:10 PM,7:56,MISS Charles 17' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,23,4,0,1,7:10 PM,7:55,,,Lavender REBOUND (Off:0 Def:2),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,24,5,1,1,7:10 PM,7:48,Griffin STEAL (1 STL),,Toliver Bad Pass Turnover (P2.T2),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,25,1,5,1,7:10 PM,7:41,Griffin 2' Layup (4 PTS) (Greene 1 AST),,,0 - 6,6,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,26,5,2,1,7:10 PM,7:27,Hightower STEAL (1 STL),,Toliver Lost Ball Turnover (P3.T3),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,27,1,46,1,7:11 PM,7:09,Montgomery 8' Running Jump Shot (2 PTS),,,0 - 8,8,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,28,2,1,1,7:11 PM,6:51,,,MISS Ogwumike 15' Jump Shot,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,29,4,0,1,7:11 PM,6:50,,,Lavender REBOUND (Off:1 Def:2),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,30,1,72,1,7:11 PM,6:48,,,Lavender 1' Putback Layup (2 PTS),2 - 8,6,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,31,1,47,1,7:11 PM,6:34,Charles 12' Turnaround Jump Shot (4 PTS) (Hightower 1 AST),,,2 - 10,8,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,32,1,67,1,7:11 PM,6:20,,,Lavender 7' Hook Bank Shot (4 PTS),4 - 10,6,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,33,6,1,1,7:12 PM,6:11,,,Lavender P.FOUL (P2.T2),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,34,8,0,1,7:12 PM,6:11,,,SUB: Hoffman FOR Lavender,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,35,2,1,1,7:12 PM,6:03,MISS Montgomery  3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,36,4,0,1,7:12 PM,6:02,,,Harding REBOUND (Off:0 Def:1),,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,37,2,5,1,7:12 PM,5:57,,,MISS Harding 1' Layup,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,38,4,0,1,7:12 PM,5:56,,,Ogwumike REBOUND (Off:1 Def:0),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,39,6,2,1,7:12 PM,5:56,Hightower S.FOUL (P1.T1),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,40,3,11,1,7:13 PM,5:56,,,Ogwumike Free Throw 1 of 2 (1 PTS),5 - 10,5,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,42,3,12,1,7:13 PM,5:56,,,Ogwumike Free Throw 2 of 2 (2 PTS),6 - 10,4,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,44,2,47,1,7:13 PM,5:36,MISS Griffin 12' Turnaround Jump Shot,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,45,4,0,1,7:13 PM,5:35,,,Beard REBOUND (Off:0 Def:1),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,46,2,1,1,7:14 PM,5:23,,,MISS Hoffman 22' Jump Shot,,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,47,4,0,1,7:14 PM,5:22,Hightower REBOUND (Off:0 Def:2),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,48,6,1,1,7:14 PM,5:17,,,Hoffman P.FOUL (P1.T3),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,49,8,0,1,7:14 PM,5:17,SUB: White FOR Hightower,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,51,5,1,1,7:14 PM,5:05,Montgomery Bad Pass Turnover (P1.T1),,Toliver STEAL (1 STL),,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,52,1,41,1,7:14 PM,5:00,,,Toliver  Running Layup (2 PTS),8 - 10,2,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,53,6,11,1,7:14 PM,4:57,,Carol Ross Foul:T.FOUL,,,,7,201928,,,,,,0,0,,,,,,1,0,,,,,,0
+1021300119,54,9,4,1,7:15 PM,4:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,58,3,16,1,7:17 PM,4:57,Montgomery Free Throw Technical (3 PTS),,,8 - 11,3,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,60,2,42,1,7:18 PM,4:43,MISS Charles 3' Driving Layup,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,61,4,0,1,7:18 PM,4:42,,,Hoffman REBOUND (Off:0 Def:1),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,62,1,42,1,7:18 PM,4:34,,,Harding 1' Driving Layup (2 PTS),10 - 11,1,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,63,2,1,1,7:18 PM,4:09,MISS Charles 24' 3PT Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,64,4,0,1,7:18 PM,4:08,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,65,5,11,1,7:18 PM,4:08,SUN Turnover: Shot Clock (T#2),,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021300119,66,8,0,1,7:19 PM,4:08,,,SUB: Coleman FOR Beard,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,67,1,1,1,7:19 PM,3:52,,,Hoffman 20' Jump Shot (2 PTS) (Ogwumike 1 AST),12 - 11,-1,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,68,2,1,1,7:19 PM,3:32,MISS White 3' Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,69,4,0,1,7:19 PM,3:31,Charles REBOUND (Off:1 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,70,2,5,1,7:19 PM,3:30,MISS Charles 1' Layup,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,71,4,0,1,7:19 PM,3:29,Charles REBOUND (Off:2 Def:1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,72,1,72,1,7:19 PM,3:28,Charles 1' Putback Layup (6 PTS),,,12 - 13,1,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,73,6,2,1,7:20 PM,3:21,Greene S.FOUL (P1.T2),,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,74,3,11,1,7:20 PM,3:21,,,Ogwumike Free Throw 1 of 2 (3 PTS),13 - 13,TIE,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,76,8,0,1,7:20 PM,3:21,SUB: Hightower FOR Greene,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,77,3,12,1,7:20 PM,3:21,,,MISS Ogwumike Free Throw 2 of 2,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,79,4,0,1,7:20 PM,3:21,Charles REBOUND (Off:2 Def:2),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,80,1,5,1,7:20 PM,3:05,Charles  Layup (8 PTS) (Montgomery 1 AST),,,13 - 15,2,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,81,1,1,1,7:21 PM,2:47,,,Toliver 14' Jump Shot (4 PTS) (Harding 1 AST),15 - 15,TIE,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,82,2,5,1,7:21 PM,2:25,MISS White 1' Layup,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,83,4,0,1,7:21 PM,2:23,White REBOUND (Off:1 Def:0),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,84,2,5,1,7:21 PM,2:20,MISS White 2' Layup,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,85,4,0,1,7:21 PM,2:19,Charles REBOUND (Off:3 Def:2),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,86,1,72,1,7:21 PM,2:17,Charles  Putback Layup (10 PTS),,,15 - 17,2,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,87,2,73,1,7:21 PM,2:05,,,MISS Ogwumike 1' Driving Reverse Layup,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,88,4,0,1,7:21 PM,2:04,Charles REBOUND (Off:3 Def:3),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,89,2,1,1,7:22 PM,1:56,MISS Montgomery 17' Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,90,4,0,1,7:22 PM,1:56,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,91,6,4,1,7:22 PM,1:39,,,Ogwumike OFF.Foul (P1),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,92,5,5,1,7:22 PM,1:39,,,Ogwumike Foul Turnover (P1.T4),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1021300119,93,2,1,1,7:23 PM,1:27,MISS Charles 10' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,94,4,0,1,7:23 PM,1:27,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,95,6,3,1,7:23 PM,1:27,Griffin L.B.FOUL (P1.T3),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,96,1,42,1,7:23 PM,1:18,,,Ogwumike 1' Driving Layup (5 PTS) (Toliver 1 AST),17 - 17,TIE,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,97,1,5,1,7:23 PM,1:05,Griffin 1' Layup (6 PTS) (White 1 AST),,,17 - 19,2,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,99,1,79,1,7:23 PM,0:52,,,Harding 16' Pullup Jump Shot (4 PTS),19 - 19,TIE,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,100,2,1,1,7:24 PM,0:45,MISS Montgomery 6' Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,101,4,0,1,7:24 PM,0:44,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,102,8,0,1,7:24 PM,0:44,SUB: Pedersen FOR Griffin,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,103,2,1,1,7:24 PM,0:25,,,MISS Harding 19' Jump Shot,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,104,4,0,1,7:24 PM,0:24,Pedersen REBOUND (Off:0 Def:1),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,105,13,0,1,7:25 PM,0:00,,End of 1st Period (7:25 PM EST),,19 - 19,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,107,12,0,2,7:28 PM,10:00,,Start of 2nd Period (7:28 PM EST),,19 - 19,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,108,6,1,2,7:28 PM,9:41,,,Hoffman P.FOUL (P2.T1),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,109,6,4,2,7:29 PM,9:38,Charles OFF.Foul (P1),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,110,5,5,2,7:29 PM,9:38,Charles Foul Turnover (P1.T3),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1021300119,111,6,2,2,7:29 PM,9:23,Pedersen S.FOUL (P1.T1),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,112,3,11,2,7:29 PM,9:23,,,Harding Free Throw 1 of 2 (5 PTS),20 - 19,-1,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,114,8,0,2,7:29 PM,9:23,SUB: Faris FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,115,3,12,2,7:30 PM,9:23,,,Harding Free Throw 2 of 2 (6 PTS),21 - 19,-2,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,117,1,5,2,7:30 PM,9:12,Hightower 1' Layup (2 PTS) (Charles 1 AST),,,21 - 21,TIE,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,119,2,1,2,7:31 PM,8:47,,,MISS Coleman 19' Jump Shot,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,120,4,0,2,7:31 PM,8:46,,,O'Hea REBOUND (Off:1 Def:0),,,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,121,6,2,2,7:31 PM,8:37,White S.FOUL (P1.T2),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,122,3,11,2,7:31 PM,8:37,,,Coleman Free Throw 1 of 2 (1 PTS),22 - 21,-1,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,123,3,12,2,7:31 PM,8:37,,,Coleman Free Throw 2 of 2 (2 PTS),23 - 21,-2,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,125,1,5,2,7:32 PM,8:22,Charles 2' Layup (12 PTS) (Hightower 2 AST),,,23 - 23,TIE,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,126,2,86,2,7:32 PM,8:08,,,MISS Coleman 12' Turnaround Fadeaway Shot,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,127,4,0,2,7:32 PM,8:07,Faris REBOUND (Off:0 Def:1),,,,,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,128,2,58,2,7:32 PM,7:58,MISS Charles 8' Turnaround Hook Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,129,4,0,2,7:32 PM,7:57,,,Coleman REBOUND (Off:0 Def:1),,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,130,1,5,2,7:32 PM,7:38,,,Lavender 1' Layup (6 PTS) (Harding 2 AST),25 - 23,-2,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,131,2,5,2,7:33 PM,7:23,MISS Pedersen 2' Layup,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,132,4,0,2,7:33 PM,7:22,,,Lavender REBOUND (Off:1 Def:3),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,133,1,85,2,7:33 PM,7:04,,,Lavender 8' Turnaround Bank Shot (8 PTS),27 - 23,-4,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,134,2,1,2,7:33 PM,6:49,MISS Pedersen 13' Jump Shot,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,135,4,0,2,7:33 PM,6:48,White REBOUND (Off:2 Def:0),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,136,5,1,2,7:33 PM,6:38,Charles Bad Pass Turnover (P2.T4),,Harding STEAL (1 STL),,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,137,1,5,2,7:33 PM,6:32,,,Harding 1' Layup (8 PTS),29 - 23,-6,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,138,9,1,2,7:34 PM,6:25,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,140,8,0,2,7:36 PM,6:25,SUB: Griffin FOR Charles,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,141,8,0,2,7:36 PM,6:25,,,SUB: Ogwumike FOR Hoffman,,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,142,1,1,2,7:37 PM,6:16,White 20' Jump Shot (2 PTS) (Pedersen 1 AST),,,29 - 25,-4,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,143,2,1,2,7:37 PM,5:52,,,MISS Lavender 20' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,144,4,0,2,7:37 PM,5:51,,,Ogwumike REBOUND (Off:2 Def:0),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,145,6,2,2,7:37 PM,5:51,White S.FOUL (P2.T3),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,146,3,11,2,7:38 PM,5:51,,,Ogwumike Free Throw 1 of 2 (6 PTS),30 - 25,-5,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,148,8,0,2,7:38 PM,5:51,,,SUB: Beard FOR Coleman,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,149,8,0,2,7:38 PM,5:51,,,SUB: Toliver FOR Harding,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,150,3,12,2,7:38 PM,5:51,,,Ogwumike Free Throw 2 of 2 (7 PTS),31 - 25,-6,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,153,1,1,2,7:38 PM,5:36,White 9' Jump Shot (4 PTS),,,31 - 27,-4,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,154,5,1,2,7:38 PM,5:26,Hightower STEAL (2 STL),,Toliver Bad Pass Turnover (P4.T5),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,155,1,41,2,7:38 PM,5:22,Faris  Running Layup (2 PTS),,,31 - 29,-2,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,156,5,1,2,7:39 PM,5:12,,,Toliver Bad Pass Turnover (P5.T6),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,157,2,1,2,7:39 PM,5:00,MISS Griffin 21' Jump Shot,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,158,4,0,2,7:39 PM,4:59,,,O'Hea REBOUND (Off:1 Def:1),,,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,159,2,47,2,7:39 PM,4:44,,,MISS Ogwumike 7' Turnaround Jump Shot,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,160,4,0,2,7:39 PM,4:43,Pedersen REBOUND (Off:0 Def:2),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,161,2,46,2,7:39 PM,4:35,MISS Hightower 11' Running Jump Shot,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,162,4,0,2,7:39 PM,4:34,,,Toliver REBOUND (Off:1 Def:1),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,163,6,1,2,7:40 PM,4:29,Hightower P.FOUL (P2.T4),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,164,8,0,2,7:40 PM,4:29,SUB: Montgomery FOR Hightower,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,165,2,5,2,7:40 PM,4:17,Griffin BLOCK (1 BLK),,MISS Beard 2' Layup,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0
+1021300119,166,4,0,2,7:40 PM,4:15,,,Ogwumike REBOUND (Off:3 Def:0),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,167,2,1,2,7:40 PM,4:11,,,MISS Toliver 18' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,168,4,0,2,7:40 PM,4:10,,,Beard REBOUND (Off:1 Def:1),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,169,1,5,2,7:40 PM,4:04,,,Ogwumike 1' Layup (9 PTS) (Beard 1 AST),33 - 29,-4,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,170,2,5,2,7:41 PM,3:55,MISS White 1' Layup,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,171,4,0,2,7:41 PM,3:55,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,172,6,3,2,7:41 PM,3:55,Griffin L.B.FOUL (P2.PN),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,173,3,11,2,7:41 PM,3:55,,,Lavender Free Throw 1 of 2 (9 PTS),34 - 29,-5,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,175,8,0,2,7:41 PM,3:55,,,SUB: Coleman FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,176,8,0,2,7:41 PM,3:55,SUB: Charles FOR Pedersen,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,177,3,12,2,7:42 PM,3:55,,,Lavender Free Throw 2 of 2 (10 PTS),35 - 29,-6,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,179,2,1,2,7:42 PM,3:32,MISS White 24' 3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,180,4,0,2,7:42 PM,3:31,,,Toliver REBOUND (Off:1 Def:2),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,181,1,1,2,7:42 PM,3:25,,,O'Hea 17' Jump Shot (2 PTS) (Toliver 2 AST),37 - 29,-8,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,183,8,0,2,7:43 PM,3:07,SUB: Greene FOR White,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,184,2,96,2,7:43 PM,3:01,MISS Charles 6' Turnaround Bank Hook Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,185,4,0,2,7:43 PM,3:00,,,Coleman REBOUND (Off:0 Def:2),,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,186,1,5,2,7:43 PM,2:51,,,Lavender 1' Layup (12 PTS) (Toliver 3 AST),39 - 29,-10,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,187,9,1,2,7:43 PM,2:44,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,191,1,5,2,7:46 PM,2:30,Greene 1' Layup (2 PTS) (Charles 2 AST),,,39 - 31,-8,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,192,1,1,2,7:46 PM,2:14,,,Lavender 9' Jump Shot (14 PTS) (O'Hea 1 AST),41 - 31,-10,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,193,1,86,2,7:47 PM,1:56,Charles 6' Turnaround Fadeaway (14 PTS) (Greene 2 AST),,,41 - 33,-8,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,194,1,1,2,7:47 PM,1:43,,,Toliver 17' Jump Shot (6 PTS) (O'Hea 2 AST),43 - 33,-10,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,195,5,1,2,7:47 PM,1:35,Faris Bad Pass Turnover (P1.T5),,Toliver STEAL (2 STL),,,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,196,8,0,2,7:47 PM,1:29,SUB: Hightower FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,197,8,0,2,7:48 PM,1:29,SUB: White FOR Greene,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,199,5,2,2,7:48 PM,1:29,Griffin STEAL (2 STL),,O'Hea Lost Ball Turnover (P1.T7),,,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,198,10,0,2,7:48 PM,1:29,Jump Ball Griffin vs. O'Hea: Tip to Hightower,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0
+1021300119,200,5,1,2,7:48 PM,1:13,White Bad Pass Turnover (P1.T6),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,201,2,1,2,7:48 PM,0:57,,,MISS Lavender 11' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,202,4,0,2,7:48 PM,0:56,Faris REBOUND (Off:0 Def:2),,,,,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,204,5,1,2,7:49 PM,0:44,Griffin Bad Pass Turnover (P1.T7),,Lavender STEAL (1 STL),,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,205,2,5,2,7:49 PM,0:39,,,MISS Toliver 2' Layup,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,206,4,0,2,7:49 PM,0:36,Charles REBOUND (Off:3 Def:4),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,207,1,42,2,7:49 PM,0:32,White 1' Driving Layup (6 PTS) (Hightower 3 AST),,,43 - 35,-8,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,208,6,2,2,7:49 PM,0:32,,,Coleman S.FOUL (P1.T2),,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,209,8,0,2,7:49 PM,0:32,SUB: Pedersen FOR Griffin,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,210,8,0,2,7:49 PM,0:32,SUB: Greene FOR Hightower,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,212,8,0,2,7:49 PM,0:32,,,SUB: Ogwumike FOR Coleman,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,213,8,0,2,7:49 PM,0:32,,,SUB: Harding FOR O'Hea,,,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,214,3,10,2,7:49 PM,0:32,White Free Throw 1 of 1 (7 PTS),,,43 - 36,-7,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,216,2,1,2,7:50 PM,0:12,,,MISS Ogwumike 20' Jump Shot,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,217,4,0,2,7:50 PM,0:10,,,Toliver REBOUND (Off:2 Def:2),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,218,2,1,2,7:50 PM,0:03,,,MISS Harding 21' Jump Shot,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,219,4,0,2,7:50 PM,0:01,Pedersen REBOUND (Off:0 Def:3),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,220,13,0,2,7:50 PM,0:00,,End of 2nd Period (7:50 PM EST),,43 - 36,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,222,12,0,3,8:06 PM,10:00,,Start of 3rd Period (8:06 PM EST),,43 - 36,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,223,2,1,3,8:06 PM,9:34,MISS Charles 21' Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,224,4,0,3,8:06 PM,9:33,Greene REBOUND (Off:1 Def:0),,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,225,5,1,3,8:07 PM,9:20,Charles Bad Pass Turnover (P3.T8),,Ogwumike STEAL (1 STL),,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,226,6,1,3,8:07 PM,9:11,Griffin P.FOUL (P3.T1),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,228,2,1,3,8:07 PM,8:59,,,MISS Lavender 18' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,229,4,0,3,8:07 PM,8:58,,,Ogwumike REBOUND (Off:4 Def:0),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,230,2,5,3,8:07 PM,8:55,,,MISS Ogwumike 1' Layup,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,231,4,0,3,8:07 PM,8:53,,,Ogwumike REBOUND (Off:5 Def:0),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,232,1,5,3,8:08 PM,8:52,,,Ogwumike 2' Layup (11 PTS),45 - 36,-9,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,233,2,1,3,8:08 PM,8:27,MISS Montgomery  3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,234,4,0,3,8:08 PM,8:25,Griffin REBOUND (Off:1 Def:0),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,235,5,1,3,8:08 PM,8:15,Hightower Bad Pass Turnover (P1.T9),,Lavender STEAL (2 STL),,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,236,1,5,3,8:08 PM,8:11,,,Toliver 1' Layup (8 PTS) (Lavender 1 AST),47 - 36,-11,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,237,5,2,3,8:08 PM,7:54,Hightower Lost Ball Turnover (P2.T10),,Beard STEAL (1 STL),,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,238,6,4,3,8:09 PM,7:38,,,Beard OFF.Foul (P1),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,239,5,5,3,8:09 PM,7:38,,,Beard Foul Turnover (P1.T8),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1021300119,240,5,1,3,8:09 PM,7:26,Montgomery Bad Pass Turnover (P2.T11),,Ogwumike STEAL (2 STL),,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,241,1,1,3,8:09 PM,7:21,,,Toliver 3' Jump Shot (10 PTS) (Ogwumike 2 AST),49 - 36,-13,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,242,9,1,3,8:09 PM,7:21,SUN Timeout: Regular (Full 3 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,246,6,2,3,8:12 PM,7:08,,,Beard S.FOUL (P2.T1),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,247,3,11,3,8:12 PM,7:08,Griffin Free Throw 1 of 2 (7 PTS),,,49 - 37,-12,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,249,3,12,3,8:13 PM,7:08,Griffin Free Throw 2 of 2 (8 PTS),,,49 - 38,-11,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,251,5,1,3,8:13 PM,6:56,,,Beard Bad Pass Turnover (P2.T9),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,252,1,1,3,8:14 PM,6:31,Montgomery 27' 3PT Jump Shot (6 PTS),,,49 - 41,-8,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,253,2,44,3,8:14 PM,6:08,,,MISS Toliver 2' Reverse Layup,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,254,4,0,3,8:14 PM,6:06,Greene REBOUND (Off:1 Def:1),,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,255,6,11,3,8:14 PM,6:04,,,Toliver T.FOUL (P0.T1),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1021300119,256,3,16,3,8:14 PM,6:04,MISS Montgomery Free Throw Technical,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,257,4,1,3,8:14 PM,6:04,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,260,8,0,3,8:15 PM,6:04,,,SUB: Coleman FOR Beard,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,261,2,5,3,8:15 PM,5:47,MISS Greene 2' Layup,,Lavender BLOCK (1 BLK),,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0
+1021300119,262,4,0,3,8:15 PM,5:45,,,Toliver REBOUND (Off:2 Def:3),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,263,5,1,3,8:15 PM,5:42,Greene STEAL (1 STL),,Toliver Bad Pass Turnover (P6.T10),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,264,6,2,3,8:15 PM,5:36,,,Harding S.FOUL (P1.T2),,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,265,3,11,3,8:16 PM,5:36,Charles Free Throw 1 of 2 (15 PTS),,,49 - 42,-7,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,267,8,0,3,8:16 PM,5:36,,,SUB: Hoffman FOR Ogwumike,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,268,3,12,3,8:16 PM,5:36,MISS Charles Free Throw 2 of 2,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,270,4,0,3,8:16 PM,5:36,,,Hoffman REBOUND (Off:0 Def:2),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,271,5,1,3,8:16 PM,5:22,Griffin STEAL (3 STL),,Hoffman Bad Pass Turnover (P1.T11),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,272,1,3,3,8:16 PM,5:07,Charles 3' Hook Shot (17 PTS),,,49 - 44,-5,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,273,9,1,3,8:17 PM,4:58,,,Sparks Timeout: Regular (Reg.1 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,276,8,0,3,8:18 PM,4:58,,,SUB: O'Hea FOR Toliver,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,277,2,5,3,8:19 PM,4:47,,,MISS Lavender 2' Layup,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,278,4,0,3,8:19 PM,4:46,Griffin REBOUND (Off:1 Def:1),,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,279,2,1,3,8:19 PM,4:39,MISS Griffin 21' Jump Shot,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,280,4,0,3,8:19 PM,4:38,,,Coleman REBOUND (Off:0 Def:3),,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,281,1,47,3,8:19 PM,4:20,,,Hoffman 17' Turnaround Jump Shot (4 PTS) (Harding 3 AST),51 - 44,-7,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,282,2,86,3,8:19 PM,4:02,MISS Charles 15' Turnaround Fadeaway Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,283,4,0,3,8:19 PM,4:01,,,Hoffman REBOUND (Off:0 Def:3),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,284,2,5,3,8:20 PM,3:43,,,MISS Coleman  Layup,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,285,4,0,3,8:20 PM,3:41,Hightower REBOUND (Off:0 Def:3),,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,286,1,42,3,8:20 PM,3:28,Montgomery 1' Driving Layup (8 PTS),,,51 - 46,-5,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,287,1,41,3,8:20 PM,3:04,,,Harding 1' Running Layup (10 PTS),53 - 46,-7,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,288,1,1,3,8:21 PM,2:48,Hightower  3PT Jump Shot (5 PTS) (Montgomery 2 AST),,,53 - 49,-4,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,289,5,1,3,8:21 PM,2:33,Charles STEAL (1 STL),,Coleman Bad Pass Turnover (P1.T12),,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,290,6,1,3,8:21 PM,2:28,,,O'Hea P.FOUL (P1.T3),,,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,291,8,0,3,8:21 PM,2:28,SUB: Pedersen FOR Griffin,,,,,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,292,1,47,3,8:22 PM,2:18,Charles 9' Turnaround Jump Shot (19 PTS) (Montgomery 3 AST),,,53 - 51,-2,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,293,2,5,3,8:22 PM,2:01,Pedersen BLOCK (1 BLK),,MISS Hoffman 3' Layup,,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0
+1021300119,294,4,0,3,8:22 PM,2:01,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,295,1,75,3,8:22 PM,1:53,,,Coleman 3' Driving Finger Roll Layup (4 PTS),55 - 51,-4,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,296,2,47,3,8:23 PM,1:32,MISS Charles 6' Turnaround Jump Shot,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,297,4,0,3,8:23 PM,1:32,,,Coleman REBOUND (Off:0 Def:4),,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,300,5,13,3,8:23 PM,1:16,,,Sparks Turnover: Backcourt (T#13),,,3,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1021300119,302,6,2,3,8:24 PM,1:07,,,Lavender S.FOUL (P3.T4),,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,303,3,11,3,8:24 PM,1:07,Charles Free Throw 1 of 2 (20 PTS),,,55 - 52,-3,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,305,8,0,3,8:24 PM,1:07,SUB: White FOR Hightower,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,306,3,12,3,8:25 PM,1:07,Charles Free Throw 2 of 2 (21 PTS),,,55 - 53,-2,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,308,2,1,3,8:25 PM,0:47,,,MISS Coleman 18' Jump Shot,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,309,4,0,3,8:25 PM,0:46,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,310,8,0,3,8:25 PM,0:45,,,SUB: Toliver FOR Coleman,,,5,201889,Marissa Coleman,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,311,1,5,3,8:25 PM,0:43,,,Hoffman 2' Layup (6 PTS) (O'Hea 3 AST),57 - 53,-4,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,312,5,7,3,8:26 PM,0:29,White Discontinue Dribble Turnover (P2.T12),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1021300119,313,2,1,3,8:26 PM,0:11,,,MISS Lavender 5' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,314,4,0,3,8:26 PM,0:10,White REBOUND (Off:2 Def:1),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,315,2,1,3,8:27 PM,0:00,MISS Pedersen 9' Jump Shot,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,316,4,0,3,8:27 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,318,13,0,3,8:27 PM,0:00,,End of 3rd Period (8:27 PM EST),,57 - 53,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,319,12,0,4,8:29 PM,10:00,,Start of 4th Period (8:29 PM EST),,57 - 53,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,320,2,5,4,8:30 PM,9:42,,,MISS Ogwumike  Layup,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,321,4,0,4,8:30 PM,9:41,Pedersen REBOUND (Off:0 Def:4),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,322,2,1,4,8:30 PM,9:35,MISS White  3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,323,4,0,4,8:30 PM,9:34,,,Hoffman REBOUND (Off:0 Def:4),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,324,2,1,4,8:30 PM,9:20,,,MISS Harding 16' Jump Shot,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,325,4,0,4,8:30 PM,9:19,,,Toliver REBOUND (Off:3 Def:3),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,326,1,1,4,8:30 PM,9:01,,,Harding 16' Jump Shot (12 PTS) (Toliver 4 AST),59 - 53,-6,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,327,2,1,4,8:31 PM,8:31,MISS White 24' 3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,328,4,0,4,8:31 PM,8:30,,,Toliver REBOUND (Off:3 Def:4),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,329,2,1,4,8:31 PM,8:25,,,MISS Beard 15' Jump Shot,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,330,4,0,4,8:31 PM,8:24,Montgomery REBOUND (Off:0 Def:1),,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,331,2,1,4,8:31 PM,8:05,MISS White 12' Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,332,4,0,4,8:31 PM,8:04,,,Ogwumike REBOUND (Off:5 Def:1),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,333,1,79,4,8:32 PM,7:47,,,Hoffman 14' Pullup Jump Shot (8 PTS),61 - 53,-8,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,334,9,2,4,8:32 PM,7:45,SUN Timeout: Short (Full 3 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,336,8,0,4,8:33 PM,7:45,SUB: Faris FOR Greene,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,337,8,0,4,8:33 PM,7:45,SUB: Griffin FOR Charles,,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,202254,Kelsey Griffin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,338,8,0,4,8:33 PM,7:45,SUB: Hightower FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,339,5,40,4,8:33 PM,7:34,White Out of Bounds Lost Ball Turnover (P3.T13),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,340,5,40,4,8:33 PM,7:32,,,Harding Out of Bounds Lost Ball Turnover (P1.T14),,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,342,1,46,4,8:34 PM,7:10,Hightower 13' Running Jump Shot (7 PTS),,,61 - 55,-6,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,343,2,1,4,8:34 PM,6:55,White BLOCK (1 BLK),,MISS Toliver 6' Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0
+1021300119,344,4,0,4,8:34 PM,6:53,,,Ogwumike REBOUND (Off:6 Def:1),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,345,1,1,4,8:34 PM,6:42,,,Toliver 19' Jump Shot (12 PTS) (Harding 4 AST),63 - 55,-8,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,346,1,47,4,8:35 PM,6:25,Hightower 12' Turnaround Jump Shot (9 PTS),,,63 - 57,-6,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,347,1,42,4,8:35 PM,6:12,,,Ogwumike  Driving Layup (13 PTS),65 - 57,-8,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,348,6,2,4,8:35 PM,6:12,Pedersen S.FOUL (P2.T1),,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,354,8,0,4,8:35 PM,6:12,SUB: Charles FOR Pedersen,,,,,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,349,3,10,4,8:36 PM,6:12,,,MISS Harding Free Throw 1 of 1,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,351,4,0,4,8:36 PM,6:10,Charles REBOUND (Off:3 Def:5),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,352,2,1,4,8:36 PM,5:59,MISS Hightower 25' 3PT Jump Shot,,,,,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,353,4,0,4,8:36 PM,5:58,,,Ogwumike REBOUND (Off:6 Def:2),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,355,5,1,4,8:36 PM,5:48,Hightower STEAL (3 STL),,Ogwumike Bad Pass Turnover (P2.T15),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,356,2,1,4,8:36 PM,5:34,MISS White  3PT Jump Shot,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,357,4,0,4,8:36 PM,5:33,,,Beard REBOUND (Off:1 Def:2),,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,359,6,2,4,8:37 PM,5:29,White S.FOUL (P3.T2),,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,360,9,4,4,8:37 PM,5:29,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,362,8,0,4,8:39 PM,5:29,SUB: Montgomery FOR White,,,,,4,101020,Tan White,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,364,3,11,4,8:40 PM,5:29,,,Toliver Free Throw 1 of 2 (13 PTS),66 - 57,-9,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,366,3,12,4,8:40 PM,5:29,,,Toliver Free Throw 2 of 2 (14 PTS),67 - 57,-10,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,368,1,1,4,8:40 PM,5:12,Charles 16' Jump Shot (23 PTS) (Hightower 4 AST),,,67 - 59,-8,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,369,2,5,4,8:41 PM,4:47,,,MISS Hoffman 1' Layup,,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,370,4,0,4,8:41 PM,4:46,Charles REBOUND (Off:3 Def:6),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,371,2,1,4,8:41 PM,4:39,MISS Montgomery 24' 3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,372,4,0,4,8:41 PM,4:37,,,Toliver REBOUND (Off:3 Def:5),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,373,2,1,4,8:41 PM,4:17,,,MISS Hoffman 17' Jump Shot,,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,374,4,0,4,8:41 PM,4:16,,,Ogwumike REBOUND (Off:7 Def:2),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,375,1,72,4,8:41 PM,4:14,,,Ogwumike 1' Putback Layup (15 PTS),69 - 59,-10,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,376,1,1,4,8:42 PM,3:49,Faris 24' 3PT Jump Shot (5 PTS) (Charles 3 AST),,,69 - 62,-7,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,377,2,1,4,8:42 PM,3:24,,,MISS Beard 16' Jump Shot,,,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,378,4,0,4,8:42 PM,3:23,Charles REBOUND (Off:3 Def:7),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,379,1,42,4,8:42 PM,3:15,Hightower  Driving Layup (11 PTS),,,69 - 64,-5,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,380,6,2,4,8:42 PM,3:15,,,Hoffman S.FOUL (P3.T1),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,381,3,10,4,8:43 PM,3:15,Hightower Free Throw 1 of 1 (12 PTS),,,69 - 65,-4,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,383,9,1,4,8:43 PM,2:57,,,Sparks Timeout: Regular (Reg.2 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,385,8,0,4,8:45 PM,2:57,,,SUB: Lavender FOR Hoffman,,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,387,2,1,4,8:46 PM,2:51,,,MISS Lavender 12' Jump Shot,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,388,4,0,4,8:46 PM,2:50,Faris REBOUND (Off:0 Def:3),,,,,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,389,5,1,4,8:46 PM,2:44,Faris Bad Pass Turnover (P2.T14),,Toliver STEAL (3 STL),,,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,390,2,1,4,8:46 PM,2:20,,,MISS Harding 13' Jump Shot,,,5,201046,Lindsey Harding,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,391,4,0,4,8:46 PM,2:19,Charles REBOUND (Off:3 Def:8),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,392,2,5,4,8:46 PM,2:11,MISS Montgomery  Layup,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,393,4,0,4,8:46 PM,2:09,Charles REBOUND (Off:4 Def:8),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,394,1,1,4,8:46 PM,2:05,Montgomery 24' 3PT Jump Shot (11 PTS) (Faris 1 AST),,,69 - 68,-1,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,395,1,86,4,8:47 PM,1:36,,,Toliver 16' Turnaround Fadeaway (16 PTS),71 - 68,-3,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,396,6,2,4,8:47 PM,1:18,,,Ogwumike S.FOUL (P2.T2),,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,397,3,11,4,8:48 PM,1:18,Charles Free Throw 1 of 2 (24 PTS),,,71 - 69,-2,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,399,3,12,4,8:48 PM,1:18,Charles Free Throw 2 of 2 (25 PTS),,,71 - 70,-1,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,401,1,80,4,8:48 PM,1:04,,,Toliver 21' Step Back Jump Shot (18 PTS),73 - 70,-3,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,402,2,1,4,8:49 PM,0:41,MISS Montgomery  3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,403,4,0,4,8:49 PM,0:40,,,Toliver REBOUND (Off:3 Def:6),,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,404,2,1,4,8:49 PM,0:19,,,MISS Toliver 25' 3PT Jump Shot,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,405,4,0,4,8:49 PM,0:19,Charles REBOUND (Off:4 Def:9),,,,,4,202250,Tina Charles,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,406,9,1,4,8:49 PM,0:19,SUN Timeout: Regular (Full 4 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,409,8,0,4,8:51 PM,0:19,,,SUB: Hoffman FOR Lavender,,,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,410,8,0,4,8:51 PM,0:19,,,SUB: O'Hea FOR Toliver,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,411,1,42,4,8:51 PM,0:05,Montgomery  Driving Layup (13 PTS),,,73 - 72,-1,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,412,9,2,4,8:51 PM,0:05,,,Sparks Timeout: Short (Reg.2 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,413,8,0,4,8:52 PM,0:05,SUB: Greene FOR Montgomery,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,414,8,0,4,8:52 PM,0:05,,,SUB: Toliver FOR O'Hea,,,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,415,6,28,4,8:52 PM,0:04,Greene Personal Take Foul (P2.T3),,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,416,6,28,4,8:53 PM,0:02,Faris Personal Take Foul (P1.PN),,,,,4,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,0
+1021300119,417,3,11,4,8:53 PM,0:02,,,MISS Toliver Free Throw 1 of 2,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,418,4,1,4,8:53 PM,0:02,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,419,3,12,4,8:53 PM,0:02,,,Toliver Free Throw 2 of 2 (19 PTS),74 - 72,-2,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021300119,421,9,2,4,8:53 PM,0:02,SUN Timeout: Short (Full 4 Short 2),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,422,8,0,4,8:54 PM,0:02,SUB: Montgomery FOR Greene,,,,,4,202253,Kalana Greene,1611661323.0,Connecticut,Sun,CON,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021300119,423,8,0,4,8:54 PM,0:02,,,SUB: O'Hea FOR Toliver,,,5,201911,Kristi Toliver,1611661320.0,Los Angeles,Sparks,LAS,5,202626,Jenna O'Hea,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021300119,424,6,1,4,8:55 PM,0:01,,,Hoffman P.FOUL (P4.PN),,,5,100928,Ebony Hoffman,1611661320.0,Los Angeles,Sparks,LAS,4,202255,Allison Hightower,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1021300119,425,2,1,4,8:55 PM,0:00,MISS Montgomery 30' 3PT Jump Shot,,,,,4,201904,Renee Montgomery,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021300119,426,4,0,4,8:55 PM,0:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021300119,427,13,0,4,8:55 PM,0:00,,End of 4th Period (8:55 PM EST),,74 - 72,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

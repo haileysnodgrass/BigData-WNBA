@@ -1,0 +1,386 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022001122,2,12,0,1,8:04 PM,10:00,,Start of 1st Period (8:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,4,10,0,1,8:04 PM,10:00,Jump Ball Parker vs. E. Williams: Tip to C. Williams,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,1
+1022001122,7,2,1,1,8:04 PM,9:45,,,MISS C. Williams 21' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,8,4,0,1,8:04 PM,9:38,,,E. Williams REBOUND (Off:1 Def:0),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,9,2,72,1,8:04 PM,9:38,,,MISS E. Williams 1' Putback Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,10,4,0,1,8:04 PM,9:37,Copper REBOUND (Off:0 Def:1),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,11,1,5,1,8:05 PM,9:22,Hebard 3' Layup (2 PTS) (Vandersloot 1 AST),,,0 - 2,2,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,13,1,1,1,8:05 PM,9:05,,,C. Williams 21' Jump Shot (2 PTS) (Carter 1 AST),2 - 2,TIE,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,15,1,1,1,8:05 PM,8:57,Copper 17' Jump Shot (2 PTS) (Vandersloot 2 AST),,,2 - 4,2,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,17,2,1,1,8:05 PM,8:35,,,MISS E. Williams 6' Jump Shot,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,18,4,0,1,8:05 PM,8:31,,,Laney REBOUND (Off:1 Def:0),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,19,2,72,1,8:05 PM,8:31,,,MISS Laney 1' Putback Layup,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,20,4,0,1,8:05 PM,8:30,Hebard REBOUND (Off:0 Def:1),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,21,5,1,1,8:06 PM,8:28,Parker Bad Pass Turnover (P1.T1),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,22,1,1,1,8:06 PM,8:17,,,Carter 14' Jump Shot (2 PTS),4 - 4,TIE,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,23,2,1,1,8:06 PM,7:56,MISS Copper 4' Jump Shot,,Laney BLOCK (1 BLK),,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1
+1022001122,25,4,0,1,8:06 PM,7:52,,,Carter REBOUND (Off:0 Def:1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,26,1,5,1,8:06 PM,7:51,,,Carter 4' Layup (4 PTS),6 - 4,-2,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,27,6,2,1,8:07 PM,7:41,,,Carter S.FOUL (P1.T1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,29,3,11,1,8:07 PM,7:41,Vandersloot Free Throw 1 of 2 (1 PTS),,,6 - 5,-1,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,30,3,12,1,8:07 PM,7:41,Vandersloot Free Throw 2 of 2 (2 PTS),,,6 - 6,TIE,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,31,1,1,1,8:08 PM,7:30,,,C. Williams 20' Jump Shot (4 PTS) (Laney 1 AST),8 - 6,-2,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,33,5,1,1,8:08 PM,7:16,Quigley Bad Pass Turnover (P1.T2),,Laney STEAL (1 STL),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,35,2,1,1,8:08 PM,7:10,,,MISS C. Williams 8' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,36,4,0,1,8:08 PM,7:08,Copper REBOUND (Off:0 Def:2),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,37,1,1,1,8:08 PM,7:02,Hebard 17' Jump Shot (4 PTS) (Copper 1 AST),,,8 - 8,TIE,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,39,6,2,1,8:08 PM,6:50,Parker S.FOUL (P1.T1),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,41,3,11,1,8:09 PM,6:50,,,Carter Free Throw 1 of 2 (5 PTS),9 - 8,-1,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,42,3,12,1,8:09 PM,6:50,,,Carter Free Throw 2 of 2 (6 PTS),10 - 8,-2,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,43,6,4,1,8:09 PM,6:39,Parker OFF.Foul (P2),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,45,5,37,1,8:09 PM,6:39,Parker Offensive Foul Turnover (P2.T3),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1022001122,46,8,0,1,8:09 PM,6:39,SUB: Dolson FOR Parker,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,48,2,1,1,8:10 PM,6:27,,,MISS Laney 16' Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,49,4,0,1,8:10 PM,6:25,Quigley REBOUND (Off:0 Def:1),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,50,1,1,1,8:10 PM,6:13,Copper 21' Jump Shot (4 PTS),,,10 - 10,TIE,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,51,2,5,1,8:10 PM,5:57,,,MISS Laney 3' Layup,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,52,4,0,1,8:10 PM,5:57,,,E. Williams REBOUND (Off:2 Def:0),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,53,2,72,1,8:10 PM,5:53,,,MISS E. Williams 1' Putback Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,54,4,0,1,8:10 PM,5:52,,,Laney REBOUND (Off:2 Def:0),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,55,2,72,1,8:10 PM,5:52,,,MISS Laney 1' Putback Layup,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,56,4,0,1,8:10 PM,5:50,,,E. Williams REBOUND (Off:3 Def:0),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,57,2,72,1,8:10 PM,5:50,,,MISS E. Williams 1' Putback Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,58,4,0,1,8:10 PM,5:48,Copper REBOUND (Off:0 Def:3),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,59,2,1,1,8:10 PM,5:44,MISS Copper 13' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,60,4,0,1,8:10 PM,5:42,,,C. Williams REBOUND (Off:0 Def:1),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,61,6,4,1,8:10 PM,5:36,,,E. Williams OFF.Foul (P1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,63,5,37,1,8:10 PM,5:36,,,E. Williams Offensive Foul Turnover (P1.T1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001122,64,2,1,1,8:11 PM,5:24,MISS Dolson 25' 3PT Jump Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,65,4,0,1,8:11 PM,5:21,,,E. Williams REBOUND (Off:3 Def:1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,66,2,1,1,8:11 PM,5:12,Hebard BLOCK (1 BLK),,MISS E. Williams 6' Jump Shot,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,1
+1022001122,68,4,0,1,8:11 PM,5:12,Dolson REBOUND (Off:0 Def:1),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,69,1,5,1,8:11 PM,5:01,Quigley 5' Layup (2 PTS),,,10 - 12,2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,70,1,1,1,8:11 PM,4:50,,,Carter 24' 3PT Jump Shot (9 PTS),13 - 12,-1,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,71,2,1,1,8:12 PM,4:27,MISS Quigley 3' Jump Shot,,E. Williams BLOCK (1 BLK),,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1
+1022001122,73,4,0,1,8:12 PM,4:27,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,74,9,4,1,8:12 PM,4:27,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,75,8,0,1,8:14 PM,4:27,SUB: Williams FOR Hebard,,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,76,8,0,1,8:14 PM,4:27,,,SUB: Billings FOR E. Williams,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,77,8,0,1,8:14 PM,4:27,,,SUB: Dietrick FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,81,2,3,1,8:15 PM,4:22,MISS Dolson 4' Hook Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,82,4,0,1,8:15 PM,4:22,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,83,1,47,1,8:16 PM,4:15,Quigley 18' Turnaround Jump Shot (4 PTS) (Vandersloot 3 AST),,,13 - 14,1,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,85,2,6,1,8:16 PM,3:51,,,MISS Stricklen 3' Driving Layup,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,86,4,0,1,8:16 PM,3:49,Vandersloot REBOUND (Off:0 Def:1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,88,6,2,1,8:17 PM,3:37,,,Laney S.FOUL (P1.T2),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,90,3,11,1,8:17 PM,3:37,Quigley Free Throw 1 of 2 (5 PTS),,,13 - 15,2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,91,3,12,1,8:17 PM,3:37,Quigley Free Throw 2 of 2 (6 PTS),,,13 - 16,3,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,92,2,79,1,8:18 PM,3:26,,,MISS C. Williams 12' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,93,4,0,1,8:18 PM,3:23,Copper REBOUND (Off:0 Def:4),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,94,2,1,1,8:18 PM,3:17,MISS Quigley 25' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,95,4,0,1,8:18 PM,3:17,,,Billings REBOUND (Off:0 Def:1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,96,6,4,1,8:18 PM,3:08,,,Billings OFF.Foul (P1),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,98,5,37,1,8:18 PM,3:08,,,Billings Offensive Foul Turnover (P1.T2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001122,99,6,2,1,8:18 PM,2:53,,,Billings S.FOUL (P2.T3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,101,3,11,1,8:19 PM,2:53,MISS Dolson Free Throw 1 of 2,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,102,4,1,1,8:19 PM,2:53,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,103,8,0,1,8:19 PM,2:53,SUB: Prince FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,104,8,0,1,8:19 PM,2:53,,,SUB: Carter FOR C. Williams,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,107,3,12,1,8:20 PM,2:53,Dolson Free Throw 2 of 2 (1 PTS),,,13 - 17,4,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,110,8,0,1,8:20 PM,2:53,SUB: Mavunga FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,111,8,0,1,8:20 PM,2:53,,,SUB: Johnson FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,112,8,0,1,8:20 PM,2:53,,,SUB: E. Williams FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,108,6,2,1,8:20 PM,2:40,Prince S.FOUL (P1.T2),,,,,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,116,3,11,1,8:20 PM,2:40,,,Laney Free Throw 1 of 2 (1 PTS),14 - 17,3,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,117,3,12,1,8:20 PM,2:40,,,Laney Free Throw 2 of 2 (2 PTS),15 - 17,2,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,118,2,1,1,8:20 PM,2:29,MISS Copper 19' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,120,1,72,1,8:20 PM,2:21,Mavunga 1' Putback Layup (2 PTS),,,15 - 19,4,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,119,4,0,1,8:20 PM,2:21,Mavunga REBOUND (Off:1 Def:0),,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,121,2,1,1,8:21 PM,2:15,,,MISS Johnson 12' Jump Shot,,,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,122,4,0,1,8:21 PM,2:11,Dolson REBOUND (Off:0 Def:2),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,123,2,1,1,8:21 PM,2:05,MISS Williams 19' Jump Shot,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,124,4,0,1,8:21 PM,2:03,,,Laney REBOUND (Off:2 Def:1),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,125,2,1,1,8:21 PM,1:56,,,MISS Laney 20' Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,126,4,0,1,8:21 PM,1:53,Copper REBOUND (Off:0 Def:5),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,127,2,1,1,8:21 PM,1:40,MISS Dolson 21' Jump Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,128,4,0,1,8:21 PM,1:38,Prince REBOUND (Off:1 Def:0),,,,,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,129,1,3,1,8:21 PM,1:26,Dolson 4' Hook Shot (3 PTS) (Williams 1 AST),,,15 - 21,6,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,131,2,79,1,8:22 PM,1:20,,,MISS Laney 19' Pullup Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,132,4,0,1,8:22 PM,1:15,Copper REBOUND (Off:0 Def:6),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,133,2,1,1,8:22 PM,1:05,MISS Mavunga 25' 3PT Jump Shot,,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,134,4,0,1,8:22 PM,1:03,,,Laney REBOUND (Off:2 Def:2),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,135,2,79,1,8:22 PM,0:55,,,MISS Carter 17' Pullup Jump Shot,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,136,4,0,1,8:22 PM,0:54,,,Carter REBOUND (Off:1 Def:1),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,137,6,2,1,8:22 PM,0:48,Mavunga S.FOUL (P1.T3),,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,139,3,11,1,8:23 PM,0:48,,,Laney Free Throw 1 of 2 (3 PTS),16 - 21,5,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,140,8,0,1,8:23 PM,0:48,SUB: Hebard FOR Copper,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,141,8,0,1,8:23 PM,0:48,SUB: Quigley FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,144,3,12,1,8:23 PM,0:48,,,Laney Free Throw 2 of 2 (4 PTS),17 - 21,4,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,146,6,1,1,8:24 PM,0:33,,,Carter P.FOUL (P2.T4),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,148,2,1,1,8:24 PM,0:18,MISS Quigley 29' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,149,4,0,1,8:24 PM,0:18,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,150,5,11,1,8:24 PM,0:18,SKY Turnover: Shot Clock (T#4),,,,,2,1611661329,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001122,152,1,1,1,8:25 PM,0:00,,,Laney 24' 3PT Jump Shot (7 PTS) (Carter 2 AST),20 - 21,1,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,154,13,0,1,8:25 PM,0:00,,End of 1st Period (8:25 PM EST),,20 - 21,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001122,155,12,0,2,8:28 PM,10:00,,Start of 2nd Period (8:28 PM EST),,20 - 21,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,156,2,1,2,8:28 PM,9:44,MISS Quigley 9' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,157,4,0,2,8:28 PM,9:42,,,Laney REBOUND (Off:2 Def:3),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,159,1,6,2,8:28 PM,9:34,,,Carter 3' Driving Layup (11 PTS),22 - 21,-1,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,160,6,1,2,8:29 PM,9:31,,,Dietrick P.FOUL (P1.T1),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,162,8,0,2,8:29 PM,9:31,SUB: Vandersloot FOR Prince,,,,,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,163,8,0,2,8:29 PM,9:31,,,SUB: C. Williams FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,166,1,79,2,8:29 PM,9:19,Williams 17' Pullup Jump Shot (2 PTS) (Mavunga 1 AST),,,22 - 23,1,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,168,2,1,2,8:29 PM,9:03,,,MISS Johnson 19' Jump Shot,,,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,169,4,0,2,8:29 PM,9:00,Mavunga REBOUND (Off:1 Def:1),,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,170,5,1,2,8:29 PM,8:59,Mavunga Bad Pass Turnover (P1.T5),,E. Williams STEAL (1 STL),,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,172,2,79,2,8:30 PM,8:51,,,MISS C. Williams 17' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,173,4,0,2,8:30 PM,8:48,Vandersloot REBOUND (Off:0 Def:2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,174,2,1,2,8:30 PM,8:41,MISS Quigley 25' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,175,4,0,2,8:30 PM,8:39,Hebard REBOUND (Off:1 Def:1),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,176,2,5,2,8:30 PM,8:29,MISS Hebard 3' Layup,,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,177,4,0,2,8:30 PM,8:25,Hebard REBOUND (Off:2 Def:1),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,178,1,72,2,8:30 PM,8:25,Hebard 1' Putback Layup (6 PTS),,,22 - 25,3,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,179,1,5,2,8:30 PM,8:07,,,E. Williams 3' Layup (2 PTS) (Dietrick 1 AST),24 - 25,1,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,181,1,1,2,8:31 PM,7:52,Quigley 7' Jump Shot (8 PTS) (Vandersloot 4 AST),,,24 - 27,3,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,183,6,2,2,8:31 PM,7:40,Mavunga S.FOUL (P2.T1),,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,185,3,11,2,8:31 PM,7:40,,,MISS E. Williams Free Throw 1 of 2,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,186,4,1,2,8:31 PM,7:40,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,187,8,0,2,8:31 PM,7:40,SUB: Copper FOR Williams,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,188,8,0,2,8:31 PM,7:40,SUB: Parker FOR Mavunga,,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,189,8,0,2,8:31 PM,7:40,,,SUB: Billings FOR Johnson,,,5,203017,Glory Johnson,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,190,8,0,2,8:31 PM,7:40,,,SUB: Carter FOR Laney,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,195,7,3,2,8:32 PM,7:40,Parker Violation:Lane,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,196,3,12,2,8:32 PM,7:40,,,E. Williams Free Throw 2 of 2 (3 PTS),25 - 27,2,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,197,1,1,2,8:32 PM,7:24,Copper 25' 3PT Jump Shot (7 PTS) (Quigley 1 AST),,,25 - 30,5,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,200,2,5,2,8:33 PM,7:00,,,MISS Billings 3' Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,201,4,0,2,8:33 PM,6:58,Hebard REBOUND (Off:2 Def:2),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,202,1,5,2,8:33 PM,6:52,Parker 2' Layup (2 PTS) (Quigley 2 AST),,,25 - 32,7,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,204,9,1,2,8:33 PM,6:52,,,Dream Timeout: Regular (Reg.1 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,205,2,1,2,8:36 PM,6:37,,,MISS Billings 16' Jump Shot,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,206,4,0,2,8:36 PM,6:35,Hebard REBOUND (Off:2 Def:3),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,207,1,79,2,8:36 PM,6:24,Copper 19' Pullup Jump Shot (9 PTS) (Vandersloot 5 AST),,,25 - 34,9,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,209,6,1,2,8:37 PM,6:10,Quigley P.FOUL (P1.T2),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,211,1,1,2,8:37 PM,6:06,,,Carter 24' 3PT Jump Shot (14 PTS) (E. Williams 1 AST),28 - 34,6,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,213,1,1,2,8:37 PM,5:58,Vandersloot 25' 3PT Jump Shot (5 PTS),,,28 - 37,9,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,214,1,1,2,8:38 PM,5:44,,,Dietrick 24' 3PT Jump Shot (3 PTS) (Carter 3 AST),31 - 37,6,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,216,1,79,2,8:38 PM,5:29,Copper 7' Pullup Jump Shot (11 PTS),,,31 - 39,8,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,217,2,1,2,8:38 PM,5:10,,,MISS E. Williams 12' Jump Shot,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,218,4,0,2,8:38 PM,5:07,Parker REBOUND (Off:0 Def:1),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,219,1,1,2,8:38 PM,5:00,Quigley 15' Jump Shot (10 PTS),,,31 - 41,10,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,221,9,2,2,8:39 PM,4:59,,,Dream Timeout: Short (Reg.1 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,222,8,0,2,8:39 PM,4:59,SUB: Williams FOR Hebard,,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,223,8,0,2,8:39 PM,4:59,,,SUB: Laney FOR Dietrick,,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,224,8,0,2,8:39 PM,4:59,,,SUB: Stricklen FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,228,1,1,2,8:40 PM,4:42,,,C. Williams 17' Jump Shot (6 PTS) (Carter 4 AST),33 - 41,8,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,230,1,1,2,8:40 PM,4:26,Copper 18' Jump Shot (13 PTS) (Vandersloot 6 AST),,,33 - 43,10,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,232,1,1,2,8:40 PM,4:10,,,Laney 3PT Jump Shot (10 PTS) (Carter 5 AST),36 - 43,7,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,234,2,1,2,8:41 PM,3:58,MISS Quigley 16' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,235,4,0,2,8:41 PM,3:55,,,Laney REBOUND (Off:2 Def:4),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,236,2,1,2,8:41 PM,3:46,,,MISS Laney 6' Jump Shot,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,237,4,0,2,8:41 PM,3:44,Parker REBOUND (Off:0 Def:2),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,238,1,5,2,8:41 PM,3:41,Williams 4' Layup (4 PTS) (Vandersloot 7 AST),,,36 - 45,9,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,240,2,1,2,8:41 PM,3:28,,,MISS Carter 25' 3PT Jump Shot,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,241,4,0,2,8:41 PM,3:26,Williams REBOUND (Off:0 Def:1),,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,242,1,5,2,8:41 PM,3:24,Vandersloot 2' Layup (7 PTS) (Quigley 3 AST),,,36 - 47,11,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,244,6,2,2,8:41 PM,3:24,,,Carter S.FOUL (P3.T2),,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,246,8,0,2,8:41 PM,3:24,SUB: Prince FOR Copper,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,248,3,10,2,8:42 PM,3:24,Vandersloot Free Throw 1 of 1 (8 PTS),,,36 - 48,12,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,249,2,6,2,8:42 PM,3:06,,,MISS Carter 3' Driving Layup,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,250,4,0,2,8:42 PM,3:05,,,E. Williams REBOUND (Off:4 Def:1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,251,2,5,2,8:42 PM,3:05,,,MISS Stricklen 3' Layup,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,252,4,0,2,8:42 PM,3:02,Williams REBOUND (Off:0 Def:2),,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,253,1,5,2,8:42 PM,2:53,Vandersloot 3' Layup (10 PTS) (Quigley 4 AST),,,36 - 50,14,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,255,2,5,2,8:43 PM,2:35,Parker BLOCK (1 BLK),,MISS Stricklen 3' Layup,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,1
+1022001122,257,4,0,2,8:43 PM,2:35,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,258,9,1,2,8:43 PM,2:35,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,259,8,0,2,8:43 PM,2:35,SUB: Dolson FOR Parker,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,260,8,0,2,8:43 PM,2:35,,,SUB: Dietrick FOR E. Williams,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,261,8,0,2,8:43 PM,2:35,,,SUB: Brown FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,1629480,Kalani Brown,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,265,1,1,2,8:46 PM,2:29,,,C. Williams 18' Jump Shot (8 PTS),38 - 50,12,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,266,2,1,2,8:46 PM,2:04,MISS Quigley 25' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,267,4,0,2,8:46 PM,2:02,,,C. Williams REBOUND (Off:0 Def:2),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,268,2,5,2,8:46 PM,1:57,Dolson BLOCK (1 BLK),,MISS Brown 3' Layup,,,5,1629480,Kalani Brown,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1
+1022001122,270,4,0,2,8:46 PM,1:51,Vandersloot REBOUND (Off:0 Def:3),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,271,2,1,2,8:46 PM,1:34,MISS Prince 24' 3PT Jump Shot,,,,,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,272,4,0,2,8:47 PM,1:30,,,C. Williams REBOUND (Off:0 Def:3),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,273,5,4,2,8:47 PM,1:27,,,Laney Traveling Turnover (P1.T3),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,1
+1022001122,274,8,0,2,8:47 PM,1:27,SUB: Copper FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,276,2,5,2,8:47 PM,1:15,MISS Vandersloot 4' Layup,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,277,4,0,2,8:47 PM,1:13,,,Dietrick REBOUND (Off:0 Def:1),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,278,2,79,2,8:47 PM,1:07,,,MISS C. Williams 12' Pullup Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,279,4,0,2,8:47 PM,1:04,Williams REBOUND (Off:0 Def:3),,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,280,2,5,2,8:47 PM,0:57,MISS Williams 2' Layup,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,281,4,0,2,8:47 PM,0:56,,,C. Williams REBOUND (Off:0 Def:4),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,282,7,5,2,8:48 PM,0:51,Vandersloot Violation:Kicked Ball,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1022001122,283,9,1,2,8:48 PM,0:51,SKY Timeout: Regular (Full 2 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,284,6,2,2,8:49 PM,0:49,Dolson S.FOUL (P1.T3),,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,5,1629480,Kalani Brown,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,286,3,11,2,8:50 PM,0:49,,,Brown Free Throw 1 of 2 (1 PTS),39 - 50,11,5,1629480,Kalani Brown,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,287,3,12,2,8:50 PM,0:49,,,Brown Free Throw 2 of 2 (2 PTS),40 - 50,10,5,1629480,Kalani Brown,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,288,2,1,2,8:50 PM,0:41,MISS Williams 14' Jump Shot,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,289,4,0,2,8:50 PM,0:41,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,290,1,1,2,8:51 PM,0:33,,,Dietrick 24' 3PT Jump Shot (6 PTS),43 - 50,7,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,291,1,79,2,8:51 PM,0:12,Vandersloot 10' Pullup Jump Shot (12 PTS),,,43 - 52,9,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,292,6,1,2,8:51 PM,0:03,Williams P.FOUL (P1.PN),,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,294,3,11,2,8:52 PM,0:03,,,Dietrick Free Throw 1 of 2 (7 PTS),44 - 52,8,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,295,3,12,2,8:52 PM,0:03,,,Dietrick Free Throw 2 of 2 (8 PTS),45 - 52,7,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,296,1,1,2,8:52 PM,0:00,Prince 25' 3PT Jump Shot (3 PTS) (Vandersloot 8 AST),,,45 - 55,10,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,298,18,0,2,8:52 PM,0:00,,Instant Replay2nd Period (8:52 PM EST),,45 - 55,10,0,296,Rick Fox,,,,,0,0,,,,,,1,0,,,,,,0
+1022001122,299,13,0,2,8:53 PM,0:00,,End of 2nd Period (8:53 PM EST),,45 - 55,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001122,310,12,0,3,9:08 PM,10:00,,Start of 3rd Period (9:08 PM EST),,45 - 55,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,311,1,5,3,9:08 PM,9:46,Hebard 3' Layup (8 PTS) (Copper 2 AST),,,45 - 57,12,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,313,1,1,3,9:08 PM,9:33,,,Carter 6' Jump Shot (16 PTS),47 - 57,10,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,314,1,1,3,9:09 PM,9:18,Quigley 3PT Jump Shot (13 PTS),,,47 - 60,13,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,315,2,1,3,9:09 PM,9:02,,,MISS Stricklen 27' 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,316,4,0,3,9:09 PM,8:58,Vandersloot REBOUND (Off:0 Def:4),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,317,1,1,3,9:09 PM,8:46,Vandersloot 19' Jump Shot (14 PTS),,,47 - 62,15,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,318,2,1,3,9:09 PM,8:27,,,MISS C. Williams 18' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,319,4,0,3,9:10 PM,8:24,Copper REBOUND (Off:0 Def:7),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,320,1,1,3,9:10 PM,8:19,Vandersloot 3PT Jump Shot (17 PTS) (Copper 3 AST),,,47 - 65,18,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,322,9,1,3,9:10 PM,8:14,,,Dream Timeout: Regular (Reg.2 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,323,8,0,3,9:11 PM,8:14,,,SUB: Dietrick FOR Carter,,,5,1630150,Chennedy Carter,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,325,2,5,3,9:13 PM,7:49,Copper BLOCK (1 BLK),,MISS E. Williams 5' Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1
+1022001122,327,4,0,3,9:13 PM,7:46,Vandersloot REBOUND (Off:0 Def:5),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,328,5,1,3,9:13 PM,7:40,Copper Bad Pass Turnover (P1.T6),,Dietrick STEAL (1 STL),,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,330,2,5,3,9:13 PM,7:31,,,MISS E. Williams 2' Layup,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,332,1,72,3,9:13 PM,7:26,,,E. Williams 1' Putback Layup (5 PTS),49 - 65,16,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,331,4,0,3,9:13 PM,7:26,,,E. Williams REBOUND (Off:5 Def:1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,333,5,2,3,9:13 PM,7:23,Parker Lost Ball Turnover (P3.T7),,E. Williams STEAL (2 STL),,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,335,1,5,3,9:14 PM,7:20,,,E. Williams 3' Layup (7 PTS),51 - 65,14,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,336,2,1,3,9:14 PM,7:06,MISS Quigley 19' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,337,4,0,3,9:14 PM,7:04,,,C. Williams REBOUND (Off:0 Def:5),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,338,1,5,3,9:14 PM,7:01,,,Laney 3' Layup (12 PTS) (C. Williams 1 AST),53 - 65,12,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,340,9,1,3,9:14 PM,7:00,SKY Timeout: Regular (Full 3 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,341,8,0,3,9:15 PM,7:00,SUB: Dolson FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,342,8,0,3,9:15 PM,7:00,SUB: Williams FOR Parker,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,345,2,1,3,9:16 PM,6:35,MISS Copper 17' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,346,4,0,3,9:16 PM,6:33,,,C. Williams REBOUND (Off:0 Def:6),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,347,1,1,3,9:16 PM,6:30,,,C. Williams 18' Jump Shot (10 PTS),55 - 65,10,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,348,6,2,3,9:16 PM,6:15,,,E. Williams S.FOUL (P2.T1),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,350,3,11,3,9:17 PM,6:15,MISS Dolson Free Throw 1 of 2,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,351,4,1,3,9:17 PM,6:15,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,375,3,10,3,9:17 PM,6:15,Dolson Free Throw 1 of 1 (4 PTS),,,55 - 66,11,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,352,7,6,3,9:17 PM,6:15,Copper Violation:Double Lane,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,353,7,6,3,9:17 PM,6:15,,,Stricklen Violation:Double Lane,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,354,2,5,3,9:18 PM,5:58,,,MISS C. Williams 5' Layup,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,355,4,0,3,9:18 PM,5:55,Vandersloot REBOUND (Off:0 Def:6),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,356,2,1,3,9:18 PM,5:48,MISS Dolson 24' 3PT Jump Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,357,4,0,3,9:18 PM,5:45,,,Laney REBOUND (Off:2 Def:5),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,358,6,2,3,9:18 PM,5:39,Hebard S.FOUL (P1.T1),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,360,3,11,3,9:19 PM,5:39,,,Dietrick Free Throw 1 of 2 (9 PTS),56 - 66,10,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,361,3,12,3,9:19 PM,5:39,,,Dietrick Free Throw 2 of 2 (10 PTS),57 - 66,9,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,362,1,1,3,9:19 PM,5:20,Vandersloot 3PT Jump Shot (20 PTS) (Dolson 1 AST),,,57 - 69,12,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,364,1,1,3,9:19 PM,5:08,,,C. Williams 18' Jump Shot (12 PTS) (Dietrick 2 AST),59 - 69,10,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,366,1,5,3,9:20 PM,4:50,Copper 2' Layup (15 PTS) (Vandersloot 9 AST),,,59 - 71,12,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,368,1,5,3,9:20 PM,4:33,,,E. Williams 3' Layup (9 PTS) (Dietrick 3 AST),61 - 71,10,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,370,2,1,3,9:20 PM,4:12,MISS Copper 19' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,371,4,0,3,9:20 PM,4:09,,,C. Williams REBOUND (Off:0 Def:7),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,372,1,1,3,9:20 PM,3:59,,,Laney 4' Jump Shot (14 PTS),63 - 71,8,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,373,6,2,3,9:21 PM,3:59,Vandersloot S.FOUL (P1.T2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,376,8,0,3,9:21 PM,3:59,SUB: Parker FOR Hebard,,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,377,8,0,3,9:21 PM,3:59,SUB: Quigley FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,380,3,10,3,9:21 PM,3:59,,,MISS Laney Free Throw 1 of 1,,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,381,4,0,3,9:21 PM,3:56,Williams REBOUND (Off:0 Def:4),,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,382,2,1,3,9:21 PM,3:37,MISS Williams 25' 3PT Jump Shot,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,383,4,0,3,9:21 PM,3:35,,,C. Williams REBOUND (Off:0 Def:8),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,384,1,5,3,9:22 PM,3:30,,,Laney 3' Layup (16 PTS),65 - 71,6,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,385,5,1,3,9:22 PM,3:13,Vandersloot Bad Pass Turnover (P1.T8),,Laney STEAL (2 STL),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,387,1,5,3,9:22 PM,3:08,,,Dietrick 3' Layup (12 PTS) (Laney 2 AST),67 - 71,4,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,389,2,1,3,9:22 PM,2:47,MISS Vandersloot 25' 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,390,4,0,3,9:22 PM,2:43,,,C. Williams REBOUND (Off:0 Def:9),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,391,5,2,3,9:22 PM,2:38,Parker STEAL (1 STL),,C. Williams Lost Ball Turnover (P1.T4),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,394,2,1,3,9:23 PM,2:24,MISS Copper 5' Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,395,4,0,3,9:23 PM,2:21,,,E. Williams REBOUND (Off:5 Def:2),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,396,2,1,3,9:23 PM,2:04,,,MISS Stricklen 20' Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,397,4,0,3,9:23 PM,2:04,,,E. Williams REBOUND (Off:6 Def:2),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,398,6,1,3,9:23 PM,2:04,Copper P.FOUL (P1.T3),,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1022001122,400,8,0,3,9:23 PM,2:04,SUB: Mavunga FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,401,8,0,3,9:23 PM,2:04,,,SUB: Billings FOR E. Williams,,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,404,6,1,3,9:24 PM,2:04,Parker P.FOUL (P3.T4),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,406,5,1,3,9:24 PM,1:54,Williams STEAL (1 STL),,C. Williams Bad Pass Turnover (P2.T5),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,408,5,1,3,9:24 PM,1:44,Williams Bad Pass Turnover (P1.T9),,C. Williams STEAL (1 STL),,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,410,1,1,3,9:24 PM,1:34,,,Dietrick 25' 3PT Jump Shot (15 PTS) (C. Williams 2 AST),70 - 71,1,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,412,1,1,3,9:25 PM,1:14,Quigley 12' Jump Shot (15 PTS),,,70 - 73,3,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,413,1,1,3,9:25 PM,0:54,,,Stricklen 24' 3PT Jump Shot (3 PTS) (Dietrick 4 AST),73 - 73,TIE,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,416,5,2,3,9:26 PM,0:38,Parker Lost Ball Turnover (P4.T10),,Dietrick STEAL (2 STL),,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,418,2,1,3,9:26 PM,0:31,,,MISS Stricklen 27' 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,419,4,0,3,9:26 PM,0:29,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,420,8,0,3,9:26 PM,0:29,SUB: Vandersloot FOR Mavunga,,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,422,2,1,3,9:27 PM,0:04,MISS Parker 3' Jump Shot,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,423,4,0,3,9:27 PM,0:02,,,Billings REBOUND (Off:0 Def:2),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,424,2,1,3,9:27 PM,0:00,,,MISS C. Williams 37' 3PT Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,425,4,0,3,9:27 PM,0:00,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,426,13,0,3,9:27 PM,0:00,,End of 3rd Period (9:27 PM EST),,73 - 73,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001122,429,12,0,4,9:30 PM,10:00,,Start of 4th Period (9:30 PM EST),,73 - 73,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,430,1,5,4,9:30 PM,9:41,,,Laney 6' Layup (18 PTS),75 - 73,-2,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,431,10,0,4,9:31 PM,9:18,Jump Ball Copper vs. Dietrick: Tip to Laney,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,1
+1022001122,434,5,2,4,9:31 PM,9:18,Copper Lost Ball Turnover (P2.T11),,Dietrick STEAL (3 STL),,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,436,1,5,4,9:31 PM,9:14,,,C. Williams 3' Layup (14 PTS) (Laney 3 AST),77 - 73,-4,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,438,1,5,4,9:31 PM,8:56,Quigley 5' Layup (17 PTS),,,77 - 75,-2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,439,2,5,4,9:32 PM,8:36,,,MISS Dietrick 4' Layup,,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,440,4,0,4,9:32 PM,8:35,,,Dietrick REBOUND (Off:1 Def:1),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,441,5,2,4,9:32 PM,8:34,Vandersloot STEAL (1 STL),,Dietrick Lost Ball Turnover (P1.T6),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,443,6,2,4,9:32 PM,8:27,,,Dietrick S.FOUL (P2.T1),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,445,3,11,4,9:32 PM,8:27,Vandersloot Free Throw 1 of 2 (21 PTS),,,77 - 76,-1,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,446,3,12,4,9:33 PM,8:27,Vandersloot Free Throw 2 of 2 (22 PTS),,,77 - 77,TIE,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,447,1,79,4,9:33 PM,8:12,,,C. Williams 18' Pullup Jump Shot (16 PTS) (Laney 4 AST),79 - 77,-2,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,449,1,1,4,9:33 PM,7:56,Dolson 14' Jump Shot (6 PTS) (Vandersloot 10 AST),,,79 - 79,TIE,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,451,5,2,4,9:33 PM,7:39,Williams STEAL (2 STL),,Billings Lost Ball Turnover (P2.T7),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,453,6,2,4,9:34 PM,7:35,,,Dietrick S.FOUL (P3.T2),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,455,3,11,4,9:34 PM,7:35,Copper Free Throw 1 of 2 (16 PTS),,,79 - 80,1,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,456,8,0,4,9:34 PM,7:35,SUB: Parker FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,457,8,0,4,9:34 PM,7:35,,,SUB: E. Williams FOR Billings,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,460,3,12,4,9:34 PM,7:35,Copper Free Throw 2 of 2 (17 PTS),,,79 - 81,2,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1022001122,461,1,5,4,9:35 PM,7:14,,,Laney 3' Layup (20 PTS),81 - 81,TIE,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,462,5,1,4,9:35 PM,7:00,Williams Bad Pass Turnover (P2.T12),,Laney STEAL (3 STL),,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,464,1,5,4,9:35 PM,6:53,,,Laney 3' Layup (22 PTS) (Stricklen 1 AST),83 - 81,-2,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,466,2,1,4,9:36 PM,6:27,MISS Vandersloot 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,467,4,0,4,9:36 PM,6:25,,,Laney REBOUND (Off:2 Def:6),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,468,2,1,4,9:36 PM,6:20,,,MISS Stricklen 24' 3PT Jump Shot,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,469,4,0,4,9:36 PM,6:18,Quigley REBOUND (Off:0 Def:2),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,470,1,1,4,9:36 PM,6:03,Williams 20' Jump Shot (6 PTS),,,83 - 83,TIE,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,471,2,1,4,9:36 PM,5:40,,,MISS C. Williams 16' Jump Shot,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,472,4,0,4,9:36 PM,5:37,Vandersloot REBOUND (Off:0 Def:7),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,473,2,1,4,9:36 PM,5:32,MISS Quigley 16' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,474,4,0,4,9:37 PM,5:30,Williams REBOUND (Off:1 Def:4),,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,475,1,1,4,9:37 PM,5:20,Williams 25' 3PT Jump Shot (9 PTS) (Quigley 5 AST),,,83 - 86,3,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,477,9,1,4,9:37 PM,5:11,,,Dream Timeout: Regular (Reg.3 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,478,8,0,4,9:39 PM,5:11,,,SUB: Billings FOR Stricklen,,,5,203015,Shekinna Stricklen,1611661330.0,Atlanta,Dream,ATL,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1022001122,480,1,5,4,9:40 PM,4:56,,,Laney 6' Layup (24 PTS),85 - 86,1,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,481,2,5,4,9:41 PM,4:35,MISS Williams 3' Layup,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,482,4,0,4,9:41 PM,4:32,,,E. Williams REBOUND (Off:6 Def:3),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,483,1,5,4,9:41 PM,4:30,,,Billings 4' Layup (2 PTS) (C. Williams 3 AST),87 - 86,-1,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,485,2,1,4,9:41 PM,4:20,MISS Quigley 14' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,486,4,0,4,9:41 PM,4:17,,,Billings REBOUND (Off:0 Def:3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,487,1,79,4,9:41 PM,4:06,,,C. Williams 18' Pullup Jump Shot (18 PTS),89 - 86,-3,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,488,2,1,4,9:42 PM,3:46,MISS Quigley 12' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,489,4,0,4,9:42 PM,3:46,Parker REBOUND (Off:1 Def:2),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,490,2,72,4,9:42 PM,3:46,MISS Parker 1' Putback Layup,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,491,4,0,4,9:42 PM,3:46,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,492,8,0,4,9:42 PM,3:46,SUB: Dolson FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,493,8,0,4,9:42 PM,3:46,SUB: Hebard FOR Parker,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,496,6,2,4,9:42 PM,3:31,Hebard S.FOUL (P2.T1),,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,1
+1022001122,498,3,11,4,9:43 PM,3:31,,,E. Williams Free Throw 1 of 2 (10 PTS),90 - 86,-4,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,499,3,12,4,9:43 PM,3:31,,,E. Williams Free Throw 2 of 2 (11 PTS),91 - 86,-5,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1022001122,500,2,1,4,9:43 PM,3:17,MISS Hebard 12' Jump Shot,,,,,4,1630113,Ruthy Hebard,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,501,4,0,4,9:43 PM,3:15,,,Laney REBOUND (Off:2 Def:7),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,502,5,1,4,9:43 PM,3:06,Williams STEAL (3 STL),,Dietrick Bad Pass Turnover (P2.T8),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,504,2,1,4,9:43 PM,2:57,MISS Dolson 25' 3PT Jump Shot,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,505,4,0,4,9:43 PM,2:53,,,C. Williams REBOUND (Off:0 Def:10),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,506,1,5,4,9:44 PM,2:35,,,C. Williams 6' Layup (20 PTS),93 - 86,-7,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,507,9,1,4,9:44 PM,2:30,SKY Timeout: Regular (Full 4 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001122,508,8,0,4,9:46 PM,2:30,SUB: Quigley FOR Dolson,,,,,4,203828,Stefanie Dolson,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,510,2,1,4,9:47 PM,2:13,MISS Quigley 24' 3PT Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,511,4,0,4,9:47 PM,2:10,,,E. Williams REBOUND (Off:6 Def:4),,,5,204322,Elizabeth Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,512,1,5,4,9:47 PM,2:05,,,Billings 3' Layup (4 PTS) (Dietrick 5 AST),95 - 86,-9,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1
+1022001122,514,1,1,4,9:47 PM,1:51,Williams 24' 3PT Jump Shot (12 PTS) (Vandersloot 11 AST),,,95 - 89,-6,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,516,2,5,4,9:48 PM,1:40,,,MISS C. Williams 2' Layup,,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,517,4,0,4,9:48 PM,1:38,,,Billings REBOUND (Off:1 Def:3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,518,2,72,4,9:48 PM,1:38,,,MISS Billings 1' Putback Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,519,4,0,4,9:48 PM,1:38,,,Billings REBOUND (Off:2 Def:3),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,520,1,72,4,9:48 PM,1:38,,,Billings 1' Putback Layup (6 PTS),97 - 89,-8,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,521,2,1,4,9:48 PM,1:33,MISS Copper 25' 3PT Jump Shot,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,522,4,0,4,9:48 PM,1:27,,,Dietrick REBOUND (Off:1 Def:2),,,5,204355,Blake Dietrick,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,524,8,0,4,9:48 PM,1:12,SUB: Colson FOR Copper,,,,,4,1627674,Kahleah Copper,1611661329.0,Chicago,Sky,CHI,4,202641,Sydney Colson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,525,8,0,4,9:48 PM,1:12,SUB: Mavunga FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,526,8,0,4,9:48 PM,1:12,SUB: Prince FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,1628297,Alexis Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1022001122,530,5,1,4,9:49 PM,1:09,Williams STEAL (4 STL),,C. Williams Bad Pass Turnover (P3.T9),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1022001122,532,6,1,4,9:49 PM,1:08,,,C. Williams P.FOUL (P1.T3),,,5,1627675,Courtney Williams,1611661330.0,Atlanta,Dream,ATL,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1022001122,534,2,1,4,9:49 PM,1:01,MISS Colson 24' 3PT Jump Shot,,,,,4,202641,Sydney Colson,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,535,4,0,4,9:49 PM,0:57,,,Laney REBOUND (Off:2 Def:8),,,5,204335,Betnijah Laney-Hamilton,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,536,2,5,4,9:50 PM,0:38,,,MISS Billings 3' Layup,,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,537,4,0,4,9:50 PM,0:35,Mavunga REBOUND (Off:1 Def:2),,,,,4,1628906,Stephanie Mavunga,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,538,2,1,4,9:50 PM,0:29,MISS Williams 3PT Jump Shot,,,,,4,1628931,Gabby Williams,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1022001122,539,4,0,4,9:50 PM,0:26,,,Billings REBOUND (Off:2 Def:4),,,5,1628881,Monique Billings,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,1
+1022001122,540,5,11,4,9:50 PM,0:03,,,Dream Turnover: Shot Clock (T#10),,,3,1611661330,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001122,541,13,0,4,9:51 PM,0:00,,End of 4th Period (9:51 PM EST),,97 - 89,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

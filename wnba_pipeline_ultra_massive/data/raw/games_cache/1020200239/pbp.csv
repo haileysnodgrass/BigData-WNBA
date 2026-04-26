@@ -1,0 +1,375 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020200239,0,12,0,1,8:11 PM,20:00,,Start of 1st Half (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,1,10,0,1,8:11 PM,20:00,Jump Ball Dydek vs. Leslie: Tip to Azzi,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0
+1020200239,2,2,1,1,8:12 PM,19:48,MISS Dydek 9' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,3,4,0,1,8:12 PM,19:46,Ferdinand-Harris REBOUND (Off:1 Def:0),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,4,1,1,1,8:12 PM,19:43,Goodson 18' Jump Shot (2 PTS) (Ferdinand-Harris 1 AST),,,0 - 2,2,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,5,1,1,1,8:12 PM,19:23,,,Askamp 17' Jump Shot (2 PTS) (Leslie 1 AST),2 - 2,TIE,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,6,1,1,1,8:12 PM,19:09,Dydek 11' Jump Shot (2 PTS) (Goodson 1 AST),,,2 - 4,2,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,7,2,1,1,8:13 PM,18:47,Dydek BLOCK (1 BLK),,MISS Leslie 16' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020200239,8,4,0,1,8:13 PM,18:46,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,9,2,1,1,8:13 PM,18:39,,,MISS Askamp 17' Jump Shot,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,10,4,0,1,8:13 PM,18:37,,,Askamp REBOUND (Off:1 Def:0),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,11,5,1,1,8:13 PM,18:22,Goodson STEAL (1 STL),,Teasley Bad Pass Turnover (P1.T1),,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,12,1,1,1,8:14 PM,18:10,Goodson 12' Jump Shot (4 PTS),,,2 - 6,4,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,13,1,1,1,8:14 PM,17:58,,,Dixon 16' Jump Shot (2 PTS) (Mabika 1 AST),4 - 6,2,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,14,2,5,1,8:14 PM,17:29,MISS Williams  Layup,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,15,4,0,1,8:14 PM,17:26,,,Leslie REBOUND (Off:0 Def:1),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,16,6,4,1,8:14 PM,17:23,,,Dixon OFF.Foul (P1),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,17,5,5,1,8:14 PM,17:23,,,Dixon Foul Turnover (P1.T2),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,18,8,0,1,8:14 PM,17:23,,,SUB: McCrimmon FOR Teasley,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,19,1,1,1,8:15 PM,17:01,Dydek 15' Jump Shot (4 PTS) (Goodson 2 AST),,,4 - 8,4,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,20,2,1,1,8:15 PM,16:50,Dydek BLOCK (2 BLK),,MISS Askamp 5' Jump Shot,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020200239,21,4,0,1,8:15 PM,16:46,,,Askamp REBOUND (Off:2 Def:0),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,22,1,1,1,8:16 PM,16:35,,,Mabika 13' Jump Shot (2 PTS),6 - 8,2,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,23,1,5,1,8:16 PM,16:22,Goodson  Layup (6 PTS) (Azzi 1 AST),,,6 - 10,4,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,24,6,1,1,8:17 PM,16:06,Ferdinand-Harris P.FOUL (P1.T1),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,25,2,1,1,8:17 PM,15:49,,,MISS Mabika 17' Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,26,4,0,1,8:17 PM,15:47,,,Askamp REBOUND (Off:3 Def:0),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,27,9,4,1,8:17 PM,15:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,29,2,1,1,8:20 PM,15:29,,,MISS Askamp 16' Jump Shot,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,30,4,0,1,8:20 PM,15:27,,,McCrimmon REBOUND (Off:1 Def:0),,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,31,1,1,1,8:20 PM,15:17,,,Askamp 14' Jump Shot (4 PTS) (McCrimmon 1 AST),8 - 10,2,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,32,5,1,1,8:20 PM,15:02,Goodson Bad Pass Turnover (P1.T1),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,33,5,1,1,8:21 PM,14:50,Williams STEAL (1 STL),,McCrimmon Bad Pass Turnover (P1.T3),,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,34,5,1,1,8:21 PM,14:40,Goodson Bad Pass Turnover (P2.T2),,Askamp STEAL (1 STL),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,35,2,1,1,8:21 PM,14:33,,,MISS Mabika  3PT Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,36,4,0,1,8:21 PM,14:30,Ferdinand-Harris REBOUND (Off:1 Def:1),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,37,2,5,1,8:21 PM,14:26,MISS Goodson  Layup,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,39,4,0,1,8:21 PM,14:20,Goodson REBOUND (Off:1 Def:0),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,38,1,5,1,8:21 PM,14:20,Goodson  Layup (8 PTS),,,8 - 12,4,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,40,1,1,1,8:22 PM,13:59,,,Dixon 17' Jump Shot (4 PTS),10 - 12,2,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,41,2,1,1,8:22 PM,13:46,MISS Azzi 12' Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,42,4,0,1,8:22 PM,13:44,,,Leslie REBOUND (Off:0 Def:2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,43,2,1,1,8:22 PM,13:38,,,MISS Dixon 15' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,44,4,0,1,8:22 PM,13:36,Dydek REBOUND (Off:0 Def:1),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,45,2,1,1,8:22 PM,13:20,MISS Dydek 16' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,46,4,0,1,8:22 PM,13:17,,,Mabika REBOUND (Off:0 Def:1),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,47,2,56,1,8:22 PM,13:11,Dydek BLOCK (3 BLK),,MISS Askamp 5' Running Hook Shot,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020200239,48,4,0,1,8:22 PM,13:10,,,Mabika REBOUND (Off:1 Def:1),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,49,6,2,1,8:22 PM,13:10,Ferdinand-Harris S.FOUL (P2.T2),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,50,9,2,1,8:23 PM,13:10,STARZZ Timeout: Short (Full 0 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,52,3,11,1,8:24 PM,13:10,,,Mabika Free Throw 1 of 2 (3 PTS),11 - 12,1,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,53,3,12,1,8:24 PM,13:10,,,Mabika Free Throw 2 of 2 (4 PTS),12 - 12,TIE,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,54,5,2,1,8:24 PM,12:54,Dydek Lost Ball Turnover (P1.T3),,Leslie STEAL (1 STL),,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,55,2,1,1,8:25 PM,12:46,,,MISS Dixon 10' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,56,4,0,1,8:25 PM,12:45,,,Mabika REBOUND (Off:2 Def:1),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,57,1,42,1,8:25 PM,12:39,,,Mabika  Driving Layup (6 PTS),14 - 12,-2,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,58,1,1,1,8:25 PM,12:08,Williams  3PT Jump Shot (3 PTS) (Ferdinand-Harris 2 AST),,,14 - 15,1,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,59,6,2,1,8:26 PM,11:57,Williams S.FOUL (P1.T3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,60,9,4,1,8:26 PM,11:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,62,8,0,1,8:28 PM,11:57,SUB: Johnson FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,63,8,0,1,8:28 PM,11:57,,,SUB: Milton-Jones FOR Mabika,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,64,3,11,1,8:28 PM,11:57,,,Leslie Free Throw 1 of 2 (1 PTS),15 - 15,TIE,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,65,3,12,1,8:28 PM,11:57,,,Leslie Free Throw 2 of 2 (2 PTS),16 - 15,-1,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,66,1,1,1,8:29 PM,11:38,Williams 8' Jump Shot (5 PTS) (Johnson 1 AST),,,16 - 17,1,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,67,2,1,1,8:29 PM,11:17,,,MISS Milton-Jones 9' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,68,4,0,1,8:29 PM,11:15,Williams REBOUND (Off:0 Def:1),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,69,1,1,1,8:29 PM,11:08,Johnson  3PT Jump Shot (3 PTS) (Azzi 2 AST),,,16 - 20,4,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,70,2,1,1,8:30 PM,10:42,,,MISS McCrimmon  3PT Jump Shot,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,71,4,0,1,8:30 PM,10:42,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,72,6,3,1,8:30 PM,10:42,,,Askamp L.B.FOUL (P1.T1),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,73,8,0,1,8:30 PM,10:42,,,SUB: Byears FOR Askamp,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,74,2,1,1,8:30 PM,10:23,MISS Johnson  3PT Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,75,4,0,1,8:30 PM,10:21,,,McCrimmon REBOUND (Off:1 Def:1),,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,76,1,5,1,8:31 PM,10:09,,,Byears  Layup (2 PTS) (Leslie 2 AST),18 - 20,2,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,77,1,1,1,8:31 PM,9:55,Ferdinand-Harris 18' Jump Shot (2 PTS),,,18 - 22,4,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,78,6,1,1,8:31 PM,9:39,Johnson P.FOUL (P1.T4),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,79,8,0,1,8:31 PM,9:39,SUB: Randall FOR Ferdinand-Harris,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,80,5,1,1,8:32 PM,9:30,Goodson STEAL (2 STL),,Dixon Bad Pass Turnover (P2.T4),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,81,5,1,1,8:32 PM,9:24,Azzi Bad Pass Turnover (P1.T4),,Dixon STEAL (1 STL),,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,82,5,1,1,8:32 PM,9:20,Azzi STEAL (1 STL),,Leslie Bad Pass Turnover (P1.T5),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,83,6,2,1,8:32 PM,9:15,,,Dixon S.FOUL (P2.T2),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,84,8,0,1,8:32 PM,9:15,,,SUB: Teasley FOR Dixon,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,85,3,11,1,8:32 PM,9:15,Randall Free Throw 1 of 2 (1 PTS),,,18 - 23,5,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,86,3,12,1,8:32 PM,9:15,Randall Free Throw 2 of 2 (2 PTS),,,18 - 24,6,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,87,2,1,1,8:33 PM,9:00,,,MISS McCrimmon  3PT Jump Shot,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,88,4,0,1,8:33 PM,8:58,Goodson REBOUND (Off:1 Def:1),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,89,6,1,1,8:33 PM,8:57,,,McCrimmon P.FOUL (P1.T3),,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,90,8,0,1,8:33 PM,8:57,SUB: Dydek FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,91,8,0,1,8:33 PM,8:57,,,SUB: Mabika FOR McCrimmon,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,92,5,1,1,8:34 PM,8:51,Randall Bad Pass Turnover (P1.T5),,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,93,6,1,1,8:34 PM,8:34,Johnson P.FOUL (P2.PN),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,94,2,1,1,8:35 PM,8:16,,,MISS Mabika 14' Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,95,4,0,1,8:35 PM,8:14,,,Byears REBOUND (Off:1 Def:0),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,96,2,1,1,8:35 PM,8:11,,,MISS Mabika 18' Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,97,4,0,1,8:35 PM,8:09,Randall REBOUND (Off:0 Def:1),,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,98,1,1,1,8:35 PM,7:59,Johnson  3PT Jump Shot (6 PTS) (Dydek 1 AST),,,18 - 27,9,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,99,1,1,1,8:35 PM,7:44,,,Leslie 11' Jump Shot (4 PTS) (Teasley 1 AST),20 - 27,7,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,100,2,1,1,8:36 PM,7:21,MISS Azzi  3PT Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,101,4,0,1,8:36 PM,7:16,,,Byears REBOUND (Off:1 Def:1),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,102,6,4,1,8:36 PM,7:13,,,Milton-Jones OFF.Foul (P1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,103,5,5,1,8:36 PM,7:13,,,Milton-Jones Foul Turnover (P1.T6),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,104,9,4,1,8:36 PM,7:13,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,106,8,0,1,8:38 PM,7:13,SUB: Williams FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,107,8,0,1,8:38 PM,7:13,,,SUB: Askamp FOR Leslie,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,108,2,5,1,8:39 PM,7:04,MISS Randall  Layup,,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,109,4,0,1,8:39 PM,7:02,Azzi REBOUND (Off:1 Def:0),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,110,1,1,1,8:39 PM,6:58,Johnson  3PT Jump Shot (9 PTS) (Azzi 3 AST),,,20 - 30,10,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,111,6,1,1,8:39 PM,6:43,Johnson P.FOUL (P3.PN),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,112,6,1,1,8:40 PM,6:33,Johnson P.FOUL (P4.PN),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,113,8,0,1,8:40 PM,6:33,SUB: Goodson FOR Johnson,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,114,1,1,1,8:40 PM,6:24,,,Mabika  3PT Jump Shot (9 PTS),23 - 30,7,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,115,6,1,1,8:40 PM,6:11,,,Teasley P.FOUL (P1.T4),,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,116,8,0,1,8:41 PM,6:11,,,SUB: Leslie FOR Askamp,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,117,8,0,1,8:41 PM,6:11,SUB: Ferdinand-Harris FOR Randall,,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,118,1,1,1,8:41 PM,6:05,Dydek 14' Jump Shot (6 PTS) (Azzi 4 AST),,,23 - 32,9,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,119,5,2,1,8:41 PM,5:53,,,Byears Lost Ball Turnover (P1.T7),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,120,2,5,1,8:42 PM,5:38,MISS Dydek  Layup,,Leslie BLOCK (1 BLK),,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,121,4,0,1,8:42 PM,5:37,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,122,8,0,1,8:42 PM,5:37,SUB: Aguilar FOR Azzi,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100601,Elisa Aguilar,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,123,2,1,1,8:42 PM,5:25,MISS Williams 13' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,124,4,0,1,8:42 PM,5:24,,,Milton-Jones REBOUND (Off:0 Def:1),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,125,5,2,1,8:43 PM,4:58,Ferdinand-Harris STEAL (1 STL),,Mabika Lost Ball Turnover (P1.T8),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,126,6,1,1,8:43 PM,4:57,,,Byears P.FOUL (P1.PN),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,127,8,0,1,8:43 PM,4:57,,,SUB: Dixon FOR Byears,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,128,2,1,1,8:43 PM,4:52,MISS Goodson 17' Jump Shot,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,129,4,0,1,8:43 PM,4:50,Dydek REBOUND (Off:1 Def:1),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,130,1,1,1,8:43 PM,4:45,Williams  3PT Jump Shot (8 PTS) (Dydek 2 AST),,,23 - 35,12,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,131,9,1,1,8:43 PM,4:35,,,Sparks Timeout: Regular (Reg.1 Short 0),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,133,2,1,1,8:46 PM,4:24,,,MISS Milton-Jones 19' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,134,4,0,1,8:46 PM,4:22,Williams REBOUND (Off:0 Def:2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,135,5,1,1,8:46 PM,4:17,Aguilar Bad Pass Turnover (P1.T6),,,,,4,100601,Elisa Aguilar,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,136,6,3,1,8:46 PM,4:17,Dydek L.B.FOUL (P1.PN),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,137,3,11,1,8:46 PM,4:17,,,Leslie Free Throw 1 of 2 (5 PTS),24 - 35,11,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,138,3,12,1,8:46 PM,4:17,,,Leslie Free Throw 2 of 2 (6 PTS),25 - 35,10,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,139,1,5,1,8:47 PM,4:01,Williams  Layup (10 PTS),,,25 - 37,12,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,140,6,2,1,8:47 PM,4:01,,,Milton-Jones S.FOUL (P2.PN),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,141,8,0,1,8:47 PM,4:01,SUB: Azzi FOR Aguilar,,,,,4,100601,Elisa Aguilar,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,142,3,10,1,8:47 PM,4:01,MISS Williams Free Throw 1 of 1,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,143,4,0,1,8:47 PM,4:00,,,Milton-Jones REBOUND (Off:0 Def:2),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,144,2,1,1,8:48 PM,3:49,,,MISS Teasley  3PT Jump Shot,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,145,4,0,1,8:48 PM,3:46,Ferdinand-Harris REBOUND (Off:1 Def:2),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,146,2,5,1,8:48 PM,3:43,MISS Goodson  Layup,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,147,4,0,1,8:48 PM,3:42,,,Teasley REBOUND (Off:0 Def:1),,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,148,1,1,1,8:48 PM,3:27,,,Milton-Jones  3PT Jump Shot (3 PTS) (Teasley 2 AST),28 - 37,9,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,149,6,4,1,8:48 PM,3:15,Dydek OFF.Foul (P2),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,150,5,5,1,8:48 PM,3:15,Dydek Foul Turnover (P2.T7),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,151,1,1,1,8:49 PM,3:00,,,Milton-Jones  3PT Jump Shot (6 PTS) (Teasley 3 AST),31 - 37,6,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,152,6,2,1,8:49 PM,2:49,,,Leslie S.FOUL (P1.PN),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,153,3,11,1,8:49 PM,2:49,Dydek Free Throw 1 of 2 (7 PTS),,,31 - 38,7,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,154,3,12,1,8:49 PM,2:49,MISS Dydek Free Throw 2 of 2,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,155,4,0,1,8:50 PM,2:46,Goodson REBOUND (Off:2 Def:1),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,156,2,5,1,8:50 PM,2:45,MISS Goodson  Layup,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,157,4,0,1,8:50 PM,2:45,,,Leslie REBOUND (Off:0 Def:3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,158,6,3,1,8:50 PM,2:45,Dydek L.B.FOUL (P3.PN),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,159,8,0,1,8:50 PM,2:45,SUB: Randall FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,160,3,11,1,8:50 PM,2:45,,,Leslie Free Throw 1 of 2 (7 PTS),32 - 38,6,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,161,8,0,1,8:50 PM,2:45,,,SUB: Witherspoon FOR Teasley,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,162,3,12,1,8:51 PM,2:45,,,MISS Leslie Free Throw 2 of 2,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,163,4,0,1,8:51 PM,2:43,,,Leslie REBOUND (Off:1 Def:3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,164,5,3,1,8:51 PM,2:24,,,Milton-Jones Out Of Bounds Turnover (P2.T9),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,165,2,1,1,8:52 PM,1:57,MISS Goodson 12' Jump Shot,,Milton-Jones BLOCK (1 BLK),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,166,4,0,1,8:52 PM,1:56,,,Dixon REBOUND (Off:0 Def:1),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,167,1,42,1,8:52 PM,1:52,,,Dixon  Driving Layup (6 PTS),34 - 38,4,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,168,9,1,1,8:52 PM,1:49,STARZZ Timeout: Regular (Full 1 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,170,5,2,1,8:54 PM,1:39,Goodson Lost Ball Turnover (P3.T8),,Milton-Jones STEAL (1 STL),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,171,2,5,1,8:55 PM,1:18,,,MISS Dixon  Layup,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,172,4,0,1,8:55 PM,1:15,Williams REBOUND (Off:0 Def:3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,173,1,1,1,8:55 PM,0:57,Azzi  3PT Jump Shot (3 PTS) (Williams 1 AST),,,34 - 41,7,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,174,6,1,1,8:55 PM,0:40,Williams P.FOUL (P2.PN),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,175,3,11,1,8:55 PM,0:40,,,MISS Leslie Free Throw 1 of 2,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,176,4,1,1,8:55 PM,0:40,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,177,3,12,1,8:56 PM,0:40,,,MISS Leslie Free Throw 2 of 2,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,178,4,0,1,8:56 PM,0:38,Goodson REBOUND (Off:2 Def:2),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,179,2,5,1,8:56 PM,0:31,MISS Ferdinand-Harris  Layup,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,180,4,0,1,8:56 PM,0:31,Ferdinand-Harris REBOUND (Off:2 Def:2),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,181,6,2,1,8:56 PM,0:31,,,Witherspoon S.FOUL (P1.PN),,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,182,3,11,1,8:56 PM,0:31,Ferdinand-Harris Free Throw 1 of 2 (3 PTS),,,34 - 42,8,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,183,3,12,1,8:56 PM,0:31,Ferdinand-Harris Free Throw 2 of 2 (4 PTS),,,34 - 43,9,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,184,1,1,1,8:57 PM,0:17,,,Witherspoon  3PT Jump Shot (3 PTS) (Dixon 1 AST),37 - 43,6,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,185,5,1,1,8:57 PM,0:10,Ferdinand-Harris Bad Pass Turnover (P1.T9),,Leslie STEAL (2 STL),,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,186,1,5,1,8:57 PM,0:06,,,Mabika  Layup (11 PTS) (Dixon 2 AST),39 - 43,4,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,187,2,1,1,8:57 PM,0:01,MISS Azzi  3PT Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,188,4,0,1,8:57 PM,0:00,,,Mabika REBOUND (Off:2 Def:2),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,190,13,0,1,8:58 PM,0:00,,End of 1st Half (8:58 PM EST),,39 - 43,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,196,12,0,2,9:14 PM,20:00,,Start of 2nd Half (9:14 PM EST),,39 - 43,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,197,10,0,2,9:14 PM,20:00,Jump Ball Dydek vs. Leslie: Tip to Azzi,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0
+1020200239,198,2,1,2,9:14 PM,19:50,MISS Ferdinand-Harris 17' Jump Shot,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,199,4,0,2,9:14 PM,19:48,,,Mabika REBOUND (Off:2 Def:3),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,200,1,42,2,9:14 PM,19:36,,,Dixon  Driving Layup (8 PTS),41 - 43,2,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,201,10,0,2,9:15 PM,19:20,Jump Ball Goodson vs. Askamp: Tip to Mabika,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,202,5,2,2,9:15 PM,19:20,Goodson Lost Ball Turnover (P4.T10),,Askamp STEAL (2 STL),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,203,2,1,2,9:15 PM,19:09,,,MISS Dixon 17' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,204,4,0,2,9:15 PM,19:09,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,205,2,1,2,9:16 PM,18:52,MISS Azzi 17' Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,206,4,0,2,9:16 PM,18:50,,,Mabika REBOUND (Off:2 Def:4),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,207,6,1,2,9:16 PM,18:45,Azzi P.FOUL (P1.T1),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,208,2,1,2,9:16 PM,18:33,,,MISS Teasley  3PT Jump Shot,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,209,4,0,2,9:16 PM,18:31,Azzi REBOUND (Off:1 Def:1),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,210,6,1,2,9:17 PM,18:31,,,Dixon P.FOUL (P3.T1),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,211,1,42,2,9:17 PM,18:10,Goodson  Driving Layup (10 PTS) (Williams 2 AST),,,41 - 45,4,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,212,2,1,2,9:17 PM,17:52,,,MISS Dixon 16' Jump Shot,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,213,4,0,2,9:17 PM,17:49,Azzi REBOUND (Off:1 Def:2),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,214,6,2,2,9:18 PM,17:43,,,Mabika S.FOUL (P1.T2),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,215,3,11,2,9:18 PM,17:43,Ferdinand-Harris Free Throw 1 of 2 (5 PTS),,,41 - 46,5,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,216,3,12,2,9:18 PM,17:43,MISS Ferdinand-Harris Free Throw 2 of 2,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,217,4,0,2,9:18 PM,17:43,Williams REBOUND (Off:1 Def:3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,218,2,1,2,9:19 PM,17:33,MISS Dydek 10' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,219,4,0,2,9:19 PM,17:31,Goodson REBOUND (Off:3 Def:2),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,220,2,1,2,9:19 PM,17:25,MISS Williams  3PT Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,221,4,0,2,9:19 PM,17:23,,,Mabika REBOUND (Off:2 Def:5),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,222,1,1,2,9:19 PM,17:16,,,Leslie  3PT Jump Shot (10 PTS) (Teasley 4 AST),44 - 46,2,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,223,1,1,2,9:19 PM,16:57,Ferdinand-Harris 17' Jump Shot (7 PTS),,,44 - 48,4,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,224,1,1,2,9:19 PM,16:46,,,Askamp 12' Jump Shot (6 PTS) (Leslie 3 AST),46 - 48,2,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,225,5,1,2,9:20 PM,16:30,Azzi Bad Pass Turnover (P2.T11),,Leslie STEAL (3 STL),,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,226,2,1,2,9:20 PM,16:23,,,MISS Mabika  3PT Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,227,4,0,2,9:20 PM,16:20,Williams REBOUND (Off:1 Def:4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,228,2,1,2,9:20 PM,16:09,MISS Dydek 15' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,230,4,0,2,9:20 PM,16:06,Dydek REBOUND (Off:2 Def:1),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,229,1,5,2,9:20 PM,16:06,Dydek  Layup (9 PTS),,,46 - 50,4,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,231,5,2,2,9:20 PM,15:45,Williams STEAL (2 STL),,Leslie Lost Ball Turnover (P2.T10),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,232,2,5,2,9:20 PM,15:38,MISS Goodson  Layup,,Mabika BLOCK (1 BLK),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,233,4,0,2,9:21 PM,15:36,,,Dixon REBOUND (Off:0 Def:2),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,234,2,1,2,9:21 PM,15:29,,,MISS Leslie  3PT Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,235,4,0,2,9:21 PM,15:27,Williams REBOUND (Off:1 Def:5),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,236,6,1,2,9:21 PM,15:27,,,Mabika P.FOUL (P2.T3),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,237,9,4,2,9:21 PM,15:27,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,238,8,0,2,9:23 PM,15:27,,,SUB: Milton-Jones FOR Mabika,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,239,8,0,2,9:23 PM,15:27,SUB: Johnson FOR Goodson,,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,240,6,2,2,9:24 PM,15:13,,,Askamp S.FOUL (P2.T4),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,241,3,11,2,9:24 PM,15:13,MISS Williams Free Throw 1 of 2,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,242,4,1,2,9:24 PM,15:13,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,243,3,12,2,9:24 PM,15:13,Williams Free Throw 2 of 2 (11 PTS),,,46 - 51,5,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,244,1,1,2,9:25 PM,14:57,,,Askamp 17' Jump Shot (8 PTS) (Milton-Jones 1 AST),48 - 51,3,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,245,2,1,2,9:25 PM,14:40,MISS Dydek 15' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,246,4,0,2,9:25 PM,14:38,Williams REBOUND (Off:2 Def:5),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,247,2,1,2,9:25 PM,14:35,MISS Johnson  3PT Jump Shot,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,248,4,0,2,9:25 PM,14:33,,,Milton-Jones REBOUND (Off:0 Def:3),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,249,1,5,2,9:25 PM,14:28,,,Askamp  Layup (10 PTS) (Teasley 5 AST),50 - 51,1,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,250,1,1,2,9:26 PM,13:57,Ferdinand-Harris  3PT Jump Shot (10 PTS) (Williams 3 AST),,,50 - 54,4,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,251,8,0,2,9:26 PM,13:51,SUB: Goodson FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,252,8,0,2,9:26 PM,13:51,,,SUB: Mabika FOR Dixon,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,253,1,5,2,9:26 PM,13:49,,,Teasley  Layup (2 PTS) (Mabika 2 AST),52 - 54,2,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,254,6,2,2,9:26 PM,13:49,Williams S.FOUL (P3.T2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,255,3,10,2,9:26 PM,13:49,,,Teasley Free Throw 1 of 1 (3 PTS),53 - 54,1,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,256,6,1,2,9:27 PM,13:40,,,Teasley P.FOUL (P2.PN),,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,257,5,4,2,9:27 PM,13:35,Ferdinand-Harris Traveling Turnover (P2.T12),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,258,8,0,2,9:27 PM,13:35,,,SUB: Witherspoon FOR Askamp,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,259,5,1,2,9:28 PM,13:27,Goodson STEAL (3 STL),,Leslie Bad Pass Turnover (P3.T11),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,260,5,6,2,9:28 PM,13:22,Johnson Double Dribble Turnover (P1.T13),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,261,1,5,2,9:28 PM,13:13,,,Milton-Jones  Layup (8 PTS) (Teasley 6 AST),55 - 54,-1,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,262,6,2,2,9:28 PM,13:13,Johnson S.FOUL (P5.T3),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,263,3,10,2,9:28 PM,13:13,,,Milton-Jones Free Throw 1 of 1 (9 PTS),56 - 54,-2,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,264,1,1,2,9:29 PM,13:03,Azzi  3PT Jump Shot (6 PTS) (Goodson 3 AST),,,56 - 57,1,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,265,6,1,2,9:29 PM,12:52,Johnson P.FOUL (P6.T4),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,266,8,0,2,9:29 PM,12:52,SUB: Randall FOR Johnson,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,267,8,0,2,9:29 PM,12:52,,,SUB: McCrimmon FOR Teasley,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,268,2,1,2,9:30 PM,12:38,,,MISS McCrimmon 13' Jump Shot,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,269,4,0,2,9:30 PM,12:37,Williams REBOUND (Off:2 Def:6),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,270,1,5,2,9:30 PM,12:22,Williams  Layup (13 PTS) (Azzi 5 AST),,,56 - 59,3,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,271,2,5,2,9:30 PM,12:05,,,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,273,4,0,2,9:30 PM,12:05,,,Leslie REBOUND (Off:2 Def:3),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,272,1,5,2,9:30 PM,12:05,,,Leslie  Layup (12 PTS),58 - 59,1,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,274,6,2,2,9:30 PM,12:05,Randall S.FOUL (P1.PN),,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,275,3,10,2,9:31 PM,12:05,,,Leslie Free Throw 1 of 1 (13 PTS),59 - 59,TIE,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,276,1,1,2,9:31 PM,11:50,Ferdinand-Harris 13' Jump Shot (12 PTS) (Williams 4 AST),,,59 - 61,2,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,277,2,1,2,9:31 PM,11:38,,,MISS Milton-Jones 9' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,278,4,0,2,9:31 PM,11:34,Goodson REBOUND (Off:3 Def:3),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,279,6,1,2,9:31 PM,11:34,,,Milton-Jones P.FOUL (P3.PN),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,280,9,4,2,9:31 PM,11:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,283,2,1,2,9:34 PM,11:16,MISS Randall 15' Jump Shot,,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,284,4,0,2,9:34 PM,11:14,,,Mabika REBOUND (Off:2 Def:6),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,285,1,5,2,9:35 PM,10:58,,,Leslie  Layup (15 PTS),61 - 61,TIE,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,286,1,1,2,9:35 PM,10:40,Goodson 18' Jump Shot (12 PTS) (Ferdinand-Harris 3 AST),,,61 - 63,2,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,287,1,1,2,9:35 PM,10:13,,,McCrimmon 17' Jump Shot (2 PTS) (Mabika 3 AST),63 - 63,TIE,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,288,6,1,2,9:36 PM,10:04,,,McCrimmon P.FOUL (P2.PN),,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,289,1,1,2,9:36 PM,9:48,Azzi 13' Jump Shot (8 PTS),,,63 - 65,2,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,290,1,1,2,9:37 PM,9:40,,,Mabika 13' Jump Shot (13 PTS),65 - 65,TIE,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,291,6,2,2,9:37 PM,9:40,Ferdinand-Harris S.FOUL (P3.PN),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,292,3,10,2,9:37 PM,9:40,,,Mabika Free Throw 1 of 1 (14 PTS),66 - 65,-1,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,293,2,5,2,9:37 PM,9:24,MISS Ferdinand-Harris  Layup,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,294,4,0,2,9:37 PM,9:23,,,Leslie REBOUND (Off:2 Def:4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,295,1,5,2,9:38 PM,9:02,,,Leslie  Layup (17 PTS) (McCrimmon 2 AST),68 - 65,-3,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,296,8,0,2,9:38 PM,8:39,SUB: Dydek FOR Randall,,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,297,2,1,2,9:38 PM,8:29,MISS Dydek 7' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,298,4,0,2,9:39 PM,8:27,,,Mabika REBOUND (Off:2 Def:7),,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,299,1,5,2,9:39 PM,8:22,,,Witherspoon  Layup (5 PTS) (Mabika 4 AST),70 - 65,-5,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,300,9,2,2,9:39 PM,8:18,STARZZ Timeout: Short (Full 1 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,302,8,0,2,9:40 PM,8:18,,,SUB: Dixon FOR McCrimmon,,,5,100478,Nicky McCrimmon,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,303,1,5,2,9:40 PM,8:10,Goodson  Layup (14 PTS) (Dydek 3 AST),,,70 - 67,-3,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,304,6,2,2,9:40 PM,8:10,,,Milton-Jones S.FOUL (P4.PN),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,305,3,10,2,9:40 PM,8:10,Goodson Free Throw 1 of 1 (15 PTS),,,70 - 68,-2,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,306,2,1,2,9:41 PM,7:47,,,MISS Mabika  3PT Jump Shot,,,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,307,4,0,2,9:41 PM,7:45,Goodson REBOUND (Off:3 Def:4),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,308,1,44,2,9:41 PM,7:42,Ferdinand-Harris  Reverse Layup (14 PTS) (Goodson 4 AST),,,70 - 70,TIE,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,309,9,2,2,9:41 PM,7:35,,,Sparks Timeout: Short (Reg.1 Short 1),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,311,2,1,2,9:42 PM,7:16,,,MISS Witherspoon  3PT Jump Shot,,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,312,4,0,2,9:42 PM,7:13,Williams REBOUND (Off:2 Def:7),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,313,9,4,2,9:43 PM,7:08,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,315,10,0,2,9:45 PM,7:08,Jump Ball Dydek vs. Leslie: Tip to Dixon,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,316,5,2,2,9:45 PM,7:08,Goodson Lost Ball Turnover (P5.T14),,Leslie STEAL (4 STL),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,317,6,1,2,9:46 PM,6:56,Goodson P.FOUL (P1.PN),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,318,8,0,2,9:46 PM,6:56,,,SUB: Byears FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,319,2,5,2,9:46 PM,6:44,Dydek BLOCK (4 BLK),,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020200239,320,4,0,2,9:46 PM,6:43,Azzi REBOUND (Off:1 Def:3),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,321,6,3,2,9:46 PM,6:43,,,Witherspoon L.B.FOUL (P2.PN),,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,322,3,11,2,9:46 PM,6:43,Dydek Free Throw 1 of 2 (10 PTS),,,70 - 71,1,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,323,3,12,2,9:47 PM,6:43,Dydek Free Throw 2 of 2 (11 PTS),,,70 - 72,2,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,324,5,2,2,9:47 PM,6:31,,,Dixon Lost Ball Turnover (P3.T12),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,325,1,1,2,9:48 PM,6:16,Ferdinand-Harris 16' Jump Shot (16 PTS),,,70 - 74,4,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,326,1,46,2,9:48 PM,5:56,,,Dixon 7' Running Jump Shot (10 PTS),72 - 74,2,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,327,5,2,2,9:48 PM,5:46,Ferdinand-Harris Lost Ball Turnover (P3.T15),,Byears STEAL (1 STL),,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,328,6,1,2,9:48 PM,5:46,Williams P.FOUL (P4.PN),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,329,3,11,2,9:48 PM,5:46,,,Byears Free Throw 1 of 2 (3 PTS),73 - 74,1,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,330,8,0,2,9:49 PM,5:46,,,SUB: Teasley FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,331,3,12,2,9:49 PM,5:46,,,MISS Byears Free Throw 2 of 2,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,332,4,0,2,9:49 PM,5:43,Dydek REBOUND (Off:2 Def:2),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,333,2,5,2,9:49 PM,5:38,MISS Azzi  Layup,,Leslie BLOCK (2 BLK),,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,334,4,0,2,9:49 PM,5:35,Azzi REBOUND (Off:2 Def:3),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,335,6,4,2,9:49 PM,5:32,Dydek OFF.Foul (P4),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,336,5,5,2,9:49 PM,5:32,Dydek Foul Turnover (P3.T16),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,337,2,1,2,9:50 PM,5:17,Dydek BLOCK (5 BLK),,MISS Teasley 16' Jump Shot,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020200239,338,4,0,2,9:50 PM,5:15,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,339,2,1,2,9:50 PM,4:57,MISS Azzi  3PT Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,341,4,0,2,9:50 PM,4:53,Goodson REBOUND (Off:4 Def:4),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,340,2,5,2,9:50 PM,4:53,MISS Goodson  Layup,,Leslie BLOCK (3 BLK),,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0
+1020200239,342,4,0,2,9:50 PM,4:50,Goodson REBOUND (Off:5 Def:4),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,343,5,2,2,9:51 PM,4:43,Azzi Lost Ball Turnover (P3.T17),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,344,6,4,2,9:51 PM,4:25,,,Leslie OFF.Foul (P2),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,345,5,5,2,9:51 PM,4:25,,,Leslie Foul Turnover (P4.T13),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,346,6,1,2,9:52 PM,4:08,,,Dixon P.FOUL (P4.PN),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,347,3,11,2,9:52 PM,4:08,Ferdinand-Harris Free Throw 1 of 2 (17 PTS),,,73 - 75,2,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,349,8,0,2,9:52 PM,4:08,,,SUB: Milton-Jones FOR Teasley,,,5,100724,Nikki Teasley,1611661320.0,Los Angeles,Sparks,LAS,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,350,3,12,2,9:52 PM,4:08,Ferdinand-Harris Free Throw 2 of 2 (18 PTS),,,73 - 76,3,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,351,1,1,2,9:53 PM,3:49,,,Dixon 12' Jump Shot (12 PTS),75 - 76,1,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,352,2,1,2,9:53 PM,3:21,MISS Dydek 11' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,353,4,0,2,9:53 PM,3:20,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,354,6,3,2,9:53 PM,3:20,,,Dixon L.B.FOUL (P5.PN),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,0
+1020200239,356,3,11,2,9:56 PM,3:20,Ferdinand-Harris Free Throw 1 of 2 (19 PTS),,,75 - 77,2,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,358,3,12,2,9:56 PM,3:20,MISS Ferdinand-Harris Free Throw 2 of 2,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,359,4,0,2,9:57 PM,3:16,,,Dixon REBOUND (Off:0 Def:3),,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,360,2,1,2,9:57 PM,2:53,Dydek BLOCK (6 BLK),,MISS Leslie 7' Jump Shot,,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020200239,361,4,0,2,9:57 PM,2:51,Ferdinand-Harris REBOUND (Off:2 Def:3),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,362,2,1,2,9:57 PM,2:30,MISS Azzi  3PT Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,363,4,0,2,9:57 PM,2:27,,,Byears REBOUND (Off:1 Def:2),,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,364,6,1,2,9:58 PM,2:12,Goodson P.FOUL (P2.PN),,,,,4,100363,Adrienne Goodson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,365,8,0,2,9:58 PM,2:12,,,SUB: Askamp FOR Byears,,,5,100027,Latasha Byears,1611661320.0,Los Angeles,Sparks,LAS,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,366,3,11,2,9:58 PM,2:12,,,Milton-Jones Free Throw 1 of 2 (10 PTS),76 - 77,1,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,367,3,12,2,9:58 PM,2:12,,,MISS Milton-Jones Free Throw 2 of 2,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,368,4,0,2,9:58 PM,2:09,,,Askamp REBOUND (Off:4 Def:0),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,369,1,1,2,9:59 PM,1:50,,,Mabika 15' Jump Shot (16 PTS) (Dixon 3 AST),78 - 77,-1,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,370,6,4,2,9:59 PM,1:25,Azzi OFF.Foul (P2),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,371,5,5,2,9:59 PM,1:25,Azzi Foul Turnover (P4.T18),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,372,9,2,2,9:59 PM,1:25,,,Sparks Timeout: Short (Reg.1 Short 2),,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,374,8,0,2,10:00 PM,1:25,SUB: Randall FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020200239,375,8,0,2,10:00 PM,1:25,,,SUB: Witherspoon FOR Askamp,,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,376,2,5,2,10:01 PM,1:03,,,MISS Dixon  Layup,,,5,100008,Tamecka Dixon,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,378,4,0,2,10:01 PM,1:01,,,Leslie REBOUND (Off:3 Def:4),,,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,377,1,5,2,10:01 PM,1:01,,,Leslie  Layup (19 PTS),80 - 77,-3,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,379,9,1,2,10:01 PM,0:55,STARZZ Timeout: Regular (Full 2 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,380,8,0,2,10:03 PM,0:55,,,SUB: Askamp FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661320.0,Los Angeles,Sparks,LAS,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,381,5,1,2,10:04 PM,0:43,Ferdinand-Harris Bad Pass Turnover (P4.T19),,Mabika STEAL (1 STL),,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,382,6,1,2,10:04 PM,0:42,Azzi P.FOUL (P3.PN),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,383,3,11,2,10:04 PM,0:42,,,Mabika Free Throw 1 of 2 (17 PTS),81 - 77,-4,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,384,3,12,2,10:04 PM,0:42,,,Mabika Free Throw 2 of 2 (18 PTS),82 - 77,-5,5,100012,Mwadi Mabika,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,385,2,1,2,10:05 PM,0:36,MISS Ferdinand-Harris  3PT Jump Shot,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,386,4,0,2,10:05 PM,0:33,,,Askamp REBOUND (Off:4 Def:1),,,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,387,6,1,2,10:05 PM,0:32,Ferdinand-Harris P.FOUL (P4.PN),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020200239,388,3,11,2,10:05 PM,0:32,,,MISS Milton-Jones Free Throw 1 of 2,,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,389,4,1,2,10:05 PM,0:32,,,Sparks Rebound,,,3,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200239,390,3,12,2,10:05 PM,0:32,,,Milton-Jones Free Throw 2 of 2 (11 PTS),83 - 77,-6,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,391,2,1,2,10:06 PM,0:20,MISS Randall 19' Jump Shot,,,,,4,100683,Semeka Randall,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020200239,392,4,0,2,10:06 PM,0:19,,,Milton-Jones REBOUND (Off:0 Def:4),,,5,100396,DeLisha Milton-Jones,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1020200239,393,1,5,2,10:06 PM,0:09,,,Askamp  Layup (12 PTS) (Leslie 4 AST),85 - 77,-8,5,100037,Marlies Askamp,1611661320.0,Los Angeles,Sparks,LAS,5,100003,Lisa Leslie,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1020200239,395,13,0,2,10:06 PM,0:00,,End of 2nd Half (10:06 PM EST),,85 - 77,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

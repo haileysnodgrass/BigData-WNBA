@@ -1,0 +1,460 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020700201,0,12,0,1,9:04 PM,10:00,,Start of 1st Period (9:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,1,10,0,1,9:05 PM,10:00,Jump Ball Brunson vs. Sanford: Tip to Williams-Strong,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0
+1020700201,2,6,2,1,9:05 PM,9:35,,,Currie S.FOUL (P1.T1),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,3,3,11,1,9:06 PM,9:35,Powell Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,4,3,12,1,9:06 PM,9:35,Powell Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,5,5,2,1,9:06 PM,9:16,Brunson STEAL (1 STL),,Sanford Lost Ball Turnover (P1.T1),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,6,2,1,1,9:07 PM,9:03,MISS Newton  3PT Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,7,4,0,1,9:07 PM,9:00,Williams-Strong REBOUND (Off:1 Def:0),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,8,5,4,1,9:07 PM,8:47,Newton Traveling Turnover (P1.T1),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,9,5,1,1,9:07 PM,8:33,Powell STEAL (1 STL),,Blue Bad Pass Turnover (P1.T2),,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,10,2,1,1,9:07 PM,8:27,MISS Newton 5' Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,11,4,0,1,9:07 PM,8:25,,,Beard REBOUND (Off:0 Def:1),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,12,1,1,1,9:08 PM,8:02,,,Milton-Jones 15' Jump Shot (2 PTS),2 - 2,TIE,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,13,2,1,1,9:08 PM,7:41,MISS Haynie 15' Jump Shot,,Blue BLOCK (1 BLK),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0
+1020700201,14,4,0,1,9:08 PM,7:41,,,Sanford REBOUND (Off:0 Def:1),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,15,6,2,1,9:08 PM,7:36,Williams-Strong S.FOUL (P1.T1),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,16,3,11,1,9:09 PM,7:36,,,Beard Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,17,3,12,1,9:09 PM,7:36,,,Beard Free Throw 2 of 2 (2 PTS),4 - 2,-2,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,18,5,2,1,9:09 PM,7:27,Haynie Lost Ball Turnover (P1.T2),,Beard STEAL (1 STL),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,19,1,5,1,9:09 PM,7:24,,,Beard  Layup (4 PTS),6 - 2,-4,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,20,6,1,1,9:09 PM,7:11,,,Blue P.FOUL (P1.T2),,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,21,6,1,1,9:10 PM,7:05,,,Currie P.FOUL (P2.T3),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,22,8,0,1,9:10 PM,7:05,,,SUB: James FOR Currie,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,23,6,2,1,9:11 PM,6:57,,,Sanford S.FOUL (P1.T4),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,24,3,11,1,9:11 PM,6:57,Brunson Free Throw 1 of 2 (1 PTS),,,6 - 3,-3,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,25,3,12,1,9:11 PM,6:57,Brunson Free Throw 2 of 2 (2 PTS),,,6 - 4,-2,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,26,6,1,1,9:11 PM,6:50,Haynie P.FOUL (P1.T2),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,27,2,1,1,9:12 PM,6:32,,,MISS Milton-Jones  3PT Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,28,4,0,1,9:12 PM,6:30,Powell REBOUND (Off:0 Def:1),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,29,1,5,1,9:12 PM,6:25,Williams-Strong  Layup (2 PTS) (Newton 1 AST),,,6 - 6,TIE,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,30,2,5,1,9:12 PM,6:03,,,MISS James  Layup,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,31,4,0,1,9:12 PM,6:02,,,Sanford REBOUND (Off:1 Def:1),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,32,1,5,1,9:12 PM,6:00,,,Sanford  Layup (2 PTS),8 - 6,-2,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,33,1,1,1,9:13 PM,5:36,Powell  3PT Jump Shot (5 PTS),,,8 - 9,1,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,35,8,0,1,9:13 PM,5:12,SUB: Dorrell FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,34,8,0,1,9:13 PM,5:12,SUB: Lawson FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,36,2,1,1,9:14 PM,5:09,,,MISS Milton-Jones  3PT Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,37,4,0,1,9:14 PM,5:09,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,38,5,11,1,9:14 PM,5:09,,,Mystics Turnover: Shot Clock (T#3),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1020700201,39,5,4,1,9:14 PM,4:55,Brunson Traveling Turnover (P1.T3),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,40,9,4,1,9:14 PM,4:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,43,8,0,1,9:17 PM,4:55,SUB: Atkinson FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,44,6,4,1,9:17 PM,4:45,,,Blue OFF.Foul (P2),,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,45,5,5,1,9:17 PM,4:45,,,Blue Foul Turnover (P2.T4),,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,46,2,1,1,9:18 PM,4:29,MISS Williams-Strong 4' Jump Shot,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,47,4,0,1,9:18 PM,4:27,,,Beard REBOUND (Off:0 Def:2),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,48,2,5,1,9:18 PM,4:09,,,MISS Beard  Layup,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,49,4,0,1,9:18 PM,4:08,Brunson REBOUND (Off:0 Def:1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,50,1,1,1,9:18 PM,4:00,Lawson 19' Jump Shot (2 PTS),,,8 - 11,3,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,51,5,41,1,9:19 PM,3:39,,,Milton-Jones Poss Lost Ball Turnover (P1.T5),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,52,8,0,1,9:19 PM,3:39,SUB: Powell FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,53,2,1,1,9:19 PM,3:27,MISS Lawson 12' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,54,4,0,1,9:19 PM,3:25,Powell REBOUND (Off:1 Def:1),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,55,2,1,1,9:19 PM,3:22,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,56,4,0,1,9:19 PM,3:20,,,Sanford REBOUND (Off:1 Def:2),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,57,1,1,1,9:19 PM,3:05,,,James  3PT Jump Shot (3 PTS) (Milton-Jones 1 AST),11 - 11,TIE,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,58,5,4,1,9:20 PM,2:48,Atkinson Traveling Turnover (P1.T4),,,,,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,59,2,1,1,9:20 PM,2:32,,,MISS James  3PT Jump Shot,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,60,4,0,1,9:20 PM,2:30,Lawson REBOUND (Off:0 Def:1),,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,61,1,42,1,9:20 PM,2:26,Lawson  Driving Layup (4 PTS),,,11 - 13,2,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,62,5,2,1,9:20 PM,2:17,Powell STEAL (2 STL),,Milton-Jones Lost Ball Turnover (P2.T6),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,64,2,1,1,9:21 PM,2:05,MISS Lawson 16' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,65,4,0,1,9:21 PM,2:03,Brunson REBOUND (Off:1 Def:1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,66,1,1,1,9:21 PM,2:00,Powell  3PT Jump Shot (8 PTS) (Lawson 1 AST),,,11 - 16,5,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,67,2,5,1,9:21 PM,1:41,,,MISS James  Layup,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,68,4,0,1,9:21 PM,1:39,,,Sanford REBOUND (Off:2 Def:2),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,69,6,2,1,9:21 PM,1:39,Brunson S.FOUL (P1.T3),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,70,3,11,1,9:21 PM,1:39,,,Sanford Free Throw 1 of 2 (3 PTS),12 - 16,4,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,71,8,0,1,9:22 PM,1:39,,,SUB: Miller FOR Blue,,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,72,8,0,1,9:22 PM,1:39,SUB: Williams-Strong FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,73,3,12,1,9:22 PM,1:39,,,MISS Sanford Free Throw 2 of 2,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,74,4,0,1,9:22 PM,1:38,Atkinson REBOUND (Off:0 Def:1),,,,,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,75,5,41,1,9:22 PM,1:36,Atkinson Poss Lost Ball Turnover (P2.T5),,,,,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,76,10,0,1,9:22 PM,1:36,Jump Ball Atkinson vs. Milton-Jones: Tip to James,,,,,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0
+1020700201,77,1,5,1,9:23 PM,1:24,,,Sanford  Layup (5 PTS) (James 1 AST),14 - 16,2,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,79,5,4,1,9:23 PM,1:03,Williams-Strong Traveling Turnover (P1.T6),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,80,6,4,1,9:23 PM,0:49,,,Milton-Jones OFF.Foul (P1),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,81,5,5,1,9:23 PM,0:49,,,Milton-Jones Foul Turnover (P3.T7),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,82,6,2,1,9:24 PM,0:30,,,Beard S.FOUL (P1.PN),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,83,3,11,1,9:24 PM,0:30,MISS Dorrell Free Throw 1 of 2,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,84,4,1,1,9:24 PM,0:30,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,85,3,12,1,9:24 PM,0:30,Dorrell Free Throw 2 of 2 (1 PTS),,,14 - 17,3,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,86,2,1,1,9:25 PM,0:12,,,MISS James 11' Jump Shot,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,87,4,0,1,9:25 PM,0:09,Dorrell REBOUND (Off:0 Def:1),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,88,2,1,1,9:25 PM,0:00,MISS Williams-Strong 14' Jump Shot,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,90,4,0,1,9:25 PM,0:00,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,89,13,0,1,9:25 PM,0:00,,End of 1st Period (9:25 PM EST),,14 - 17,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,92,12,0,2,9:28 PM,10:00,,Start of 2nd Period (9:28 PM EST),,14 - 17,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,93,6,1,2,9:28 PM,9:45,Brunson P.FOUL (P2.T1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,94,2,5,2,9:29 PM,9:39,,,MISS Beard  Layup,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,95,4,0,2,9:29 PM,9:36,,,Miller REBOUND (Off:1 Def:0),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,96,2,1,2,9:29 PM,9:32,,,MISS Milton-Jones 11' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,97,4,0,2,9:29 PM,9:31,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,98,2,1,2,9:29 PM,9:11,MISS Newton  3PT Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,99,4,0,2,9:29 PM,9:09,,,James REBOUND (Off:0 Def:1),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,100,5,1,2,9:30 PM,9:06,,,James Bad Pass Turnover (P1.T8),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,101,5,1,2,9:30 PM,8:53,Dorrell Bad Pass Turnover (P1.T7),,Milton-Jones STEAL (1 STL),,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,102,2,5,2,9:30 PM,8:48,,,MISS Miller  Layup,,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,103,4,0,2,9:30 PM,8:46,Brunson REBOUND (Off:1 Def:2),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,104,8,0,2,9:31 PM,8:32,SUB: Haynie FOR Lawson,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,105,2,5,2,9:31 PM,8:23,MISS Haynie  Layup,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,106,4,0,2,9:31 PM,8:21,Williams-Strong REBOUND (Off:2 Def:0),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,107,1,5,2,9:31 PM,8:18,Williams-Strong  Layup (4 PTS),,,14 - 19,5,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,108,5,1,2,9:32 PM,7:59,Newton STEAL (1 STL),,Miller Bad Pass Turnover (P1.T9),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,109,5,4,2,9:32 PM,7:45,Williams-Strong Traveling Turnover (P2.T8),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,110,2,1,2,9:32 PM,7:31,,,MISS James  3PT Jump Shot,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,111,4,0,2,9:32 PM,7:29,Williams-Strong REBOUND (Off:2 Def:1),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,112,5,4,2,9:33 PM,7:20,Haynie Traveling Turnover (P2.T9),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,113,1,1,2,9:33 PM,7:08,,,Beard  3PT Jump Shot (7 PTS),17 - 19,2,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,114,5,1,2,9:33 PM,6:51,Brunson Bad Pass Turnover (P2.T10),,Beard STEAL (2 STL),,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,115,6,4,2,9:34 PM,6:49,,,Miller OFF.Foul (P1),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,116,5,5,2,9:34 PM,6:49,,,Miller Foul Turnover (P2.T10),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,117,8,0,2,9:34 PM,6:49,SUB: Frohlich FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,118,8,0,2,9:34 PM,6:49,SUB: Powell FOR Dorrell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,119,2,1,2,9:34 PM,6:26,MISS Frohlich 18' Jump Shot,,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,120,4,0,2,9:34 PM,6:24,,,Milton-Jones REBOUND (Off:0 Def:1),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,121,1,1,2,9:34 PM,6:10,,,Milton-Jones  3PT Jump Shot (5 PTS) (Beard 1 AST),20 - 19,-1,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,122,1,1,2,9:35 PM,5:52,Brunson 14' Jump Shot (4 PTS),,,20 - 21,1,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,123,1,1,2,9:35 PM,5:37,,,Beard 14' Jump Shot (9 PTS),22 - 21,-1,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,124,5,41,2,9:35 PM,5:12,Powell Poss Lost Ball Turnover (P1.T11),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,125,9,1,2,9:36 PM,5:12,MONARCHS Timeout: Regular (Full 1 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,127,8,0,2,9:38 PM,5:12,,,SUB: Goring FOR Sanford,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,128,8,0,2,9:38 PM,5:12,,,SUB: Currie FOR James,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,129,8,0,2,9:38 PM,5:12,SUB: Williams-Strong FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,130,5,4,2,9:39 PM,5:03,,,Beard Traveling Turnover (P1.T11),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,131,1,1,2,9:39 PM,4:52,Frohlich  3PT Jump Shot (3 PTS) (Haynie 1 AST),,,22 - 24,2,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,132,2,1,2,9:40 PM,4:20,,,MISS Miller  3PT Jump Shot,,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,133,4,0,2,9:40 PM,4:19,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,134,2,1,2,9:40 PM,4:16,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,135,4,0,2,9:40 PM,4:14,Frohlich REBOUND (Off:0 Def:1),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,136,6,2,2,9:40 PM,4:09,,,Currie S.FOUL (P3.T1),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,137,3,13,2,9:41 PM,4:09,Powell Free Throw 1 of 3 (9 PTS),,,22 - 25,3,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,138,8,0,2,9:41 PM,4:09,,,SUB: James FOR Currie,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,139,3,14,2,9:41 PM,4:09,Powell Free Throw 2 of 3 (10 PTS),,,22 - 26,4,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,140,3,15,2,9:41 PM,4:09,Powell Free Throw 3 of 3 (11 PTS),,,22 - 27,5,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,141,2,1,2,9:42 PM,3:56,,,MISS Milton-Jones  3PT Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,142,4,0,2,9:42 PM,3:54,,,James REBOUND (Off:1 Def:1),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,143,6,2,2,9:42 PM,3:53,Williams-Strong S.FOUL (P2.T2),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,144,3,11,2,9:42 PM,3:53,,,James Free Throw 1 of 2 (4 PTS),23 - 27,4,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,145,3,12,2,9:42 PM,3:53,,,James Free Throw 2 of 2 (5 PTS),24 - 27,3,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,146,1,5,2,9:43 PM,3:35,Williams-Strong  Layup (6 PTS) (Frohlich 1 AST),,,24 - 29,5,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,147,6,2,2,9:43 PM,3:15,Haynie S.FOUL (P2.T3),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,148,8,0,2,9:43 PM,3:15,SUB: Lawson FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,149,3,11,2,9:43 PM,3:15,,,Goring Free Throw 1 of 2 (1 PTS),25 - 29,4,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,150,3,12,2,9:44 PM,3:15,,,Goring Free Throw 2 of 2 (2 PTS),26 - 29,3,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,151,5,1,2,9:44 PM,3:04,Newton Bad Pass Turnover (P2.T12),,Beard STEAL (3 STL),,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,152,1,42,2,9:44 PM,2:58,,,Beard  Driving Layup (11 PTS),28 - 29,1,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,153,5,4,2,9:44 PM,2:44,Frohlich Traveling Turnover (P1.T13),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,154,9,1,2,9:44 PM,2:44,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,156,8,0,2,9:47 PM,2:44,,,SUB: Mosby FOR Goring,,,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,5,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,157,8,0,2,9:47 PM,2:44,SUB: Brunson FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,158,8,0,2,9:47 PM,2:44,SUB: Dorrell FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,159,5,1,2,9:47 PM,2:31,Brunson STEAL (2 STL),,Beard Bad Pass Turnover (P2.T12),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,160,5,1,2,9:48 PM,2:25,Dorrell Bad Pass Turnover (P2.T14),,James STEAL (1 STL),,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,161,1,5,2,9:48 PM,2:22,,,James  Layup (7 PTS),30 - 29,-1,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,162,5,4,2,9:48 PM,2:14,Powell Traveling Turnover (P2.T15),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,163,6,1,2,9:48 PM,2:03,Frohlich P.FOUL (P1.T4),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,164,1,1,2,9:49 PM,1:56,,,Milton-Jones 15' Jump Shot (7 PTS) (James 2 AST),32 - 29,-3,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,165,2,1,2,9:49 PM,1:40,MISS Lawson 12' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,166,4,0,2,9:49 PM,1:38,,,Milton-Jones REBOUND (Off:0 Def:2),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,167,5,1,2,9:49 PM,1:35,Powell STEAL (3 STL),,Milton-Jones Bad Pass Turnover (P4.T13),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,168,5,4,2,9:49 PM,1:27,Dorrell Traveling Turnover (P3.T16),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,169,2,1,2,9:49 PM,1:18,Brunson BLOCK (1 BLK),,MISS James 5' Jump Shot,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0
+1020700201,170,4,0,2,9:49 PM,1:18,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,171,8,0,2,9:50 PM,1:18,SUB: Haynie FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,172,8,0,2,9:50 PM,1:18,SUB: Atkinson FOR Dorrell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,173,8,0,2,9:50 PM,1:18,SUB: Williams-Strong FOR Frohlich,,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,175,8,0,2,9:50 PM,1:16,,,SUB: Sanford FOR Mosby,,,5,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,176,1,1,2,9:50 PM,1:06,,,Beard 19' Jump Shot (13 PTS),34 - 29,-5,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,177,1,1,2,9:50 PM,0:51,Lawson 14' Jump Shot (6 PTS),,,34 - 31,-3,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,178,5,4,2,9:51 PM,0:38,,,Miller Traveling Turnover (P3.T14),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,179,2,1,2,9:51 PM,0:14,MISS Lawson 13' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,180,4,0,2,9:51 PM,0:13,,,Sanford REBOUND (Off:2 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,181,2,1,2,9:51 PM,0:02,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,182,4,0,2,9:51 PM,0:00,,,James REBOUND (Off:2 Def:1),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,183,2,5,2,9:52 PM,0:00,,,MISS James  Layup,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,185,4,0,2,9:52 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,184,13,0,2,9:52 PM,0:00,,End of 2nd Period (9:52 PM EST),,34 - 31,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,187,12,0,3,10:07 PM,10:00,,Start of 3rd Period (10:07 PM EST),,34 - 31,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,188,2,1,3,10:07 PM,9:48,,,MISS Beard 18' Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,189,4,0,3,10:07 PM,9:45,Newton REBOUND (Off:0 Def:1),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,190,1,5,3,10:08 PM,9:33,Williams-Strong  Layup (8 PTS),,,34 - 33,-1,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,191,2,65,3,10:08 PM,9:15,,,MISS Milton-Jones 11' Jump Hook Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,192,4,0,3,10:08 PM,9:13,Newton REBOUND (Off:0 Def:2),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,193,2,1,3,10:08 PM,8:56,MISS Powell  3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,194,4,0,3,10:08 PM,8:54,Brunson REBOUND (Off:2 Def:2),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,195,1,5,3,10:08 PM,8:49,Williams-Strong  Layup (10 PTS) (Newton 2 AST),,,34 - 35,1,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,196,9,2,3,10:09 PM,8:37,,,Mystics Timeout: Short (Reg.1 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,198,6,1,3,10:10 PM,8:25,Newton P.FOUL (P1.T1),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,199,2,5,3,10:10 PM,8:16,,,MISS Sanford  Layup,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,200,4,0,3,10:10 PM,8:15,,,Sanford REBOUND (Off:3 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,201,5,4,3,10:10 PM,8:15,,,Sanford Traveling Turnover (P2.T15),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,202,2,1,3,10:11 PM,8:02,MISS Brunson 11' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,203,4,0,3,10:11 PM,8:01,Newton REBOUND (Off:1 Def:2),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,204,5,2,3,10:11 PM,7:45,Haynie Lost Ball Turnover (P3.T17),,Sanford STEAL (1 STL),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,205,1,42,3,10:11 PM,7:37,,,Blue  Driving Layup (2 PTS),36 - 35,-1,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,206,1,1,3,10:11 PM,7:17,Powell  3PT Jump Shot (14 PTS),,,36 - 38,2,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,207,5,2,3,10:12 PM,6:56,Newton STEAL (2 STL),,Sanford Lost Ball Turnover (P3.T16),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,208,1,5,3,10:12 PM,6:48,Williams-Strong  Layup (12 PTS) (Powell 1 AST),,,36 - 40,4,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,209,2,1,3,10:12 PM,6:28,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,210,4,0,3,10:12 PM,6:25,Powell REBOUND (Off:1 Def:2),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,211,2,5,3,10:13 PM,6:13,MISS Newton  Layup,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,212,4,0,3,10:13 PM,6:11,,,Milton-Jones REBOUND (Off:0 Def:3),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,213,1,1,3,10:13 PM,6:06,,,Currie 16' Jump Shot (2 PTS),38 - 40,2,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,214,6,2,3,10:13 PM,5:45,,,Milton-Jones S.FOUL (P2.T1),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,215,8,0,3,10:13 PM,5:45,,,SUB: Goring FOR Sanford,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,216,8,0,3,10:13 PM,5:45,SUB: Lawson FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,217,8,0,3,10:13 PM,5:45,SUB: Dorrell FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,218,3,11,3,10:13 PM,5:45,Powell Free Throw 1 of 2 (15 PTS),,,38 - 41,3,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,219,3,12,3,10:14 PM,5:45,Powell Free Throw 2 of 2 (16 PTS),,,38 - 42,4,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,220,8,0,3,10:14 PM,5:31,SUB: Atkinson FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,221,5,11,3,10:15 PM,5:21,,,Mystics Turnover: Shot Clock (T#17),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1020700201,222,8,0,3,10:15 PM,5:21,SUB: Frohlich FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,223,5,2,3,10:16 PM,5:05,Lawson Lost Ball Turnover (P1.T18),,Blue STEAL (1 STL),,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,224,1,5,3,10:16 PM,5:01,,,Blue  Layup (4 PTS),40 - 42,2,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,225,2,5,3,10:16 PM,4:51,MISS Brunson  Layup,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,226,4,0,3,10:16 PM,4:50,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,227,9,4,3,10:16 PM,4:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,231,2,5,3,10:19 PM,4:34,,,MISS Currie  Layup,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,232,4,0,3,10:19 PM,4:32,Brunson REBOUND (Off:2 Def:3),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,233,1,42,3,10:19 PM,4:26,Atkinson  Driving Layup (2 PTS),,,40 - 44,4,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,234,2,1,3,10:19 PM,4:01,,,MISS Milton-Jones  3PT Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,235,4,0,3,10:19 PM,3:58,Lawson REBOUND (Off:0 Def:2),,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,236,1,1,3,10:20 PM,3:51,Frohlich  3PT Jump Shot (6 PTS) (Lawson 2 AST),,,40 - 47,7,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,237,2,1,3,10:20 PM,3:36,,,MISS Beard 9' Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,238,4,0,3,10:20 PM,3:34,Frohlich REBOUND (Off:0 Def:2),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,239,6,2,3,10:20 PM,3:30,,,Goring S.FOUL (P1.T2),,,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,240,8,0,3,10:20 PM,3:30,SUB: Williams-Strong FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,241,8,0,3,10:20 PM,3:30,,,SUB: Sanford FOR Goring,,,5,201107,Gillian Goring,1611661322.0,Washington,Mystics,WAS,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,242,3,11,3,10:20 PM,3:30,Dorrell Free Throw 1 of 2 (2 PTS),,,40 - 48,8,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,243,3,12,3,10:21 PM,3:30,Dorrell Free Throw 2 of 2 (3 PTS),,,40 - 49,9,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,244,2,1,3,10:21 PM,3:12,,,MISS Blue  3PT Jump Shot,,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,245,4,0,3,10:21 PM,3:11,,,Sanford REBOUND (Off:4 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,246,1,5,3,10:21 PM,3:11,,,Sanford  Layup (7 PTS),42 - 49,7,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,247,6,2,3,10:21 PM,3:11,Frohlich S.FOUL (P2.T2),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,249,5,17,3,10:21 PM,3:11,,,Milton-Jones Lane Violation Turnover (P5.T18),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,251,1,47,3,10:22 PM,2:47,Atkinson 4' Turnaround Jump Shot (4 PTS),,,42 - 51,9,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,252,6,2,3,10:23 PM,2:30,Lawson S.FOUL (P1.T3),,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,253,3,11,3,10:23 PM,2:30,,,MISS Blue Free Throw 1 of 2,,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,254,4,1,3,10:23 PM,2:30,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,255,8,0,3,10:23 PM,2:30,,,SUB: James FOR Currie,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,256,3,12,3,10:23 PM,2:30,,,Blue Free Throw 2 of 2 (5 PTS),43 - 51,8,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,257,1,1,3,10:24 PM,2:14,Lawson  3PT Jump Shot (9 PTS),,,43 - 54,11,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,258,8,0,3,10:24 PM,1:53,,,SUB: Miller FOR Blue,,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,259,2,5,3,10:25 PM,1:50,,,MISS James  Layup,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,260,4,0,3,10:25 PM,1:49,,,Sanford REBOUND (Off:5 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,261,6,2,3,10:25 PM,1:49,Williams-Strong S.FOUL (P3.T4),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,262,3,11,3,10:25 PM,1:49,,,Sanford Free Throw 1 of 2 (8 PTS),44 - 54,10,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,263,3,12,3,10:25 PM,1:49,,,Sanford Free Throw 2 of 2 (9 PTS),45 - 54,9,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,264,5,4,3,10:26 PM,1:35,Frohlich Traveling Turnover (P2.T19),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020700201,265,1,5,3,10:26 PM,1:23,,,James  Layup (9 PTS) (Milton-Jones 2 AST),47 - 54,7,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,266,6,2,3,10:26 PM,1:10,,,Milton-Jones S.FOUL (P3.T3),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,267,3,11,3,10:27 PM,1:10,Dorrell Free Throw 1 of 2 (4 PTS),,,47 - 55,8,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,268,8,0,3,10:27 PM,1:10,,,SUB: Mosby FOR Sanford,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,269,3,12,3,10:27 PM,1:10,MISS Dorrell Free Throw 2 of 2,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,270,4,0,3,10:27 PM,1:09,,,Miller REBOUND (Off:1 Def:1),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,271,6,1,3,10:27 PM,0:56,Lawson P.FOUL (P2.PN),,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,272,8,0,3,10:28 PM,0:56,SUB: Brunson FOR Frohlich,,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,273,8,0,3,10:28 PM,0:56,SUB: Newton FOR Dorrell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,274,8,0,3,10:28 PM,0:56,SUB: Powell FOR Atkinson,,,,,4,200679,La'Tangela Atkinson,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,275,3,11,3,10:28 PM,0:56,,,James Free Throw 1 of 2 (10 PTS),48 - 55,7,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,276,3,12,3,10:28 PM,0:56,,,MISS James Free Throw 2 of 2,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,277,4,0,3,10:28 PM,0:55,Brunson REBOUND (Off:2 Def:4),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,278,2,5,3,10:29 PM,0:41,MISS Powell  Layup,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,279,4,0,3,10:29 PM,0:39,Powell REBOUND (Off:2 Def:2),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,280,2,5,3,10:29 PM,0:38,MISS Powell  Layup,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,281,4,0,3,10:29 PM,0:36,Brunson REBOUND (Off:3 Def:4),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,282,2,4,3,10:29 PM,0:35,MISS Brunson  Tip Shot,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,283,4,0,3,10:29 PM,0:34,Brunson REBOUND (Off:4 Def:4),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,284,2,1,3,10:29 PM,0:23,MISS Newton 12' Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,285,4,0,3,10:29 PM,0:22,,,James REBOUND (Off:2 Def:2),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,286,6,1,3,10:29 PM,0:22,Newton P.FOUL (P2.PN),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,287,3,11,3,10:30 PM,0:22,,,James Free Throw 1 of 2 (11 PTS),49 - 55,6,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,288,8,0,3,10:30 PM,0:22,,,SUB: Sanford FOR Milton-Jones,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,289,3,12,3,10:30 PM,0:22,,,James Free Throw 2 of 2 (12 PTS),50 - 55,5,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,290,5,2,3,10:30 PM,0:01,Lawson Lost Ball Turnover (P2.T20),,James STEAL (2 STL),,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,291,2,1,3,10:30 PM,0:00,,,MISS James 29' 3PT Jump Shot,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,293,4,0,3,10:31 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,292,13,0,3,10:31 PM,0:00,,End of 3rd Period (10:31 PM EST),,50 - 55,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,295,12,0,4,10:33 PM,10:00,,Start of 4th Period (10:33 PM EST),,50 - 55,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,296,2,1,4,10:34 PM,9:39,MISS Powell 15' Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,297,4,0,4,10:34 PM,9:37,Williams-Strong REBOUND (Off:3 Def:1),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,298,5,1,4,10:34 PM,9:19,Haynie Bad Pass Turnover (P4.T21),,Miller STEAL (1 STL),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,299,5,1,4,10:35 PM,9:01,Williams-Strong STEAL (1 STL),,James Bad Pass Turnover (P2.T19),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,300,5,1,4,10:35 PM,8:42,Haynie Bad Pass Turnover (P5.T22),,James STEAL (3 STL),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,301,1,5,4,10:36 PM,8:37,,,James  Layup (14 PTS) (Beard 2 AST),52 - 55,3,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,302,1,5,4,10:36 PM,8:10,Brunson  Layup (6 PTS) (Newton 3 AST),,,52 - 57,5,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,303,2,1,4,10:36 PM,8:01,,,MISS Beard 15' Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,304,4,0,4,10:37 PM,8:00,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,305,8,0,4,10:37 PM,7:39,,,SUB: Milton-Jones FOR Mosby,,,5,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,308,2,46,4,10:38 PM,7:36,MISS Newton 11' Running Jump Shot,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,311,4,0,4,10:38 PM,7:35,Brunson REBOUND (Off:5 Def:4),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,306,1,4,4,10:38 PM,7:35,Brunson 2' Tip Shot (8 PTS),,,52 - 59,7,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,307,6,1,4,10:38 PM,7:22,Newton P.FOUL (P3.T1),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,309,1,5,4,10:38 PM,7:15,,,James  Layup (16 PTS) (Milton-Jones 3 AST),54 - 59,5,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,312,1,1,4,10:38 PM,7:00,Powell 16' Jump Shot (18 PTS) (Haynie 2 AST),,,54 - 61,7,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,313,8,0,4,10:39 PM,6:40,SUB: Lawson FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,314,8,0,4,10:39 PM,6:40,SUB: Frohlich FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,315,2,1,4,10:39 PM,6:36,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,316,4,0,4,10:39 PM,6:35,,,Sanford REBOUND (Off:6 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,317,6,2,4,10:39 PM,6:35,Brunson S.FOUL (P3.T2),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,318,3,11,4,10:40 PM,6:35,,,Sanford Free Throw 1 of 2 (10 PTS),55 - 61,6,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,319,3,12,4,10:40 PM,6:35,,,Sanford Free Throw 2 of 2 (11 PTS),56 - 61,5,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,321,5,40,4,10:40 PM,6:29,Haynie Out of Bounds Lost Ball Turnover (P6.T23),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,322,5,2,4,10:41 PM,6:17,Lawson STEAL (1 STL),,James Lost Ball Turnover (P3.T20),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,323,6,2,4,10:41 PM,6:14,,,James S.FOUL (P1.T1),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,325,6,11,4,10:41 PM,6:14,,,Beard T.FOUL (P1.T1),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,326,3,16,4,10:42 PM,6:14,Lawson Free Throw Technical (10 PTS),,,56 - 62,6,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,327,8,0,4,10:42 PM,6:14,SUB: Dorrell FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,328,3,11,4,10:42 PM,6:14,Lawson Free Throw 1 of 2 (11 PTS),,,56 - 63,7,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,329,3,12,4,10:42 PM,6:14,Lawson Free Throw 2 of 2 (12 PTS),,,56 - 64,8,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,330,2,1,4,10:43 PM,5:57,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,331,4,0,4,10:43 PM,5:54,,,Miller REBOUND (Off:2 Def:1),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,332,2,1,4,10:43 PM,5:47,,,MISS Beard 9' Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,333,4,0,4,10:43 PM,5:46,,,Sanford REBOUND (Off:7 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,334,6,2,4,10:43 PM,5:46,Haynie S.FOUL (P3.T3),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,335,9,1,4,10:43 PM,5:46,MONARCHS Timeout: Regular (Full 2 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,338,8,0,4,10:46 PM,5:46,SUB: Powell FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,339,3,11,4,10:46 PM,5:46,,,Sanford Free Throw 1 of 2 (12 PTS),57 - 64,7,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,340,3,12,4,10:46 PM,5:46,,,Sanford Free Throw 2 of 2 (13 PTS),58 - 64,6,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,341,2,1,4,10:47 PM,5:31,MISS Lawson 17' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,342,4,0,4,10:47 PM,5:29,,,Beard REBOUND (Off:0 Def:3),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,343,5,11,4,10:47 PM,5:06,,,Mystics Turnover: Shot Clock (T#21),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1020700201,344,8,0,4,10:47 PM,5:06,SUB: Williams-Strong FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,346,5,1,4,10:48 PM,4:48,Frohlich Bad Pass Turnover (P3.T24),,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,347,2,1,4,10:48 PM,4:31,,,MISS Milton-Jones 9' Jump Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,348,4,0,4,10:48 PM,4:30,,,Sanford REBOUND (Off:8 Def:3),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,349,6,1,4,10:48 PM,4:30,Williams-Strong P.FOUL (P4.T4),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,350,8,0,4,10:48 PM,4:30,SUB: Brunson FOR Frohlich,,,,,4,100746,Linda Frohlich,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,351,1,1,4,10:49 PM,4:25,,,Beard  3PT Jump Shot (16 PTS),61 - 64,3,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,352,6,2,4,10:49 PM,4:25,Dorrell S.FOUL (P1.PN),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,353,3,10,4,10:49 PM,4:25,,,Beard Free Throw 1 of 1 (17 PTS),62 - 64,2,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,354,6,1,4,10:50 PM,4:21,,,James P.FOUL (P2.T2),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,355,8,0,4,10:50 PM,4:21,SUB: Newton FOR Dorrell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,356,1,1,4,10:50 PM,4:02,Brunson 5' Jump Shot (10 PTS),,,62 - 66,4,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,357,5,40,4,10:50 PM,3:55,,,Miller Out of Bounds Lost Ball Turnover (P4.T22),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,358,2,5,4,10:51 PM,3:40,MISS Lawson  Layup,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,359,4,0,4,10:51 PM,3:39,,,Miller REBOUND (Off:2 Def:2),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,360,6,2,4,10:51 PM,3:34,Newton S.FOUL (P4.PN),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,361,3,11,4,10:51 PM,3:34,,,MISS James Free Throw 1 of 2,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,362,4,1,4,10:51 PM,3:34,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,363,3,12,4,10:52 PM,3:34,,,James Free Throw 2 of 2 (17 PTS),63 - 66,3,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,364,7,5,4,10:52 PM,3:26,,,Miller Violation:Kicked Ball,,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,366,6,1,4,10:53 PM,3:13,,,James P.FOUL (P3.T3),,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,367,1,1,4,10:53 PM,3:06,Powell  3PT Jump Shot (21 PTS),,,63 - 69,6,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,368,1,42,4,10:53 PM,2:50,,,Beard  Driving Layup (19 PTS),65 - 69,4,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,369,6,1,4,10:54 PM,2:40,,,Beard P.FOUL (P2.T4),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,370,9,1,4,10:54 PM,2:40,,,Mystics Timeout: Regular (Reg.2 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,372,8,0,4,10:56 PM,2:40,,,SUB: Currie FOR James,,,5,200678,Tamara James,1611661322.0,Washington,Mystics,WAS,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,374,6,1,4,10:57 PM,2:19,,,Currie P.FOUL (P4.PN),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,375,3,11,4,10:57 PM,2:19,MISS Newton Free Throw 1 of 2,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,376,4,1,4,10:57 PM,2:19,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,377,3,12,4,10:57 PM,2:19,Newton Free Throw 2 of 2 (1 PTS),,,65 - 70,5,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,378,2,1,4,10:58 PM,2:06,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,379,4,0,4,10:58 PM,2:05,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,380,1,1,4,10:58 PM,2:02,,,Milton-Jones 19' Jump Shot (9 PTS) (Currie 1 AST),67 - 70,3,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,381,5,2,4,10:58 PM,1:41,Lawson Lost Ball Turnover (P3.T25),,Milton-Jones STEAL (2 STL),,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,382,6,1,4,10:59 PM,1:29,Newton P.FOUL (P5.PN),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,383,3,11,4,10:59 PM,1:29,,,Sanford Free Throw 1 of 2 (14 PTS),68 - 70,2,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,384,3,12,4,10:59 PM,1:29,,,Sanford Free Throw 2 of 2 (15 PTS),69 - 70,1,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,385,9,2,4,10:59 PM,1:29,MONARCHS Timeout: Short (Full 2 Short 1),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,389,5,41,4,11:01 PM,1:19,Powell Poss Lost Ball Turnover (P3.T26),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,390,10,0,4,11:01 PM,1:19,Jump Ball Powell vs. Milton-Jones: Tip to Sanford,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0
+1020700201,391,1,1,4,11:02 PM,1:05,,,Beard 18' Jump Shot (21 PTS),71 - 70,-1,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,392,2,1,4,11:02 PM,0:42,MISS Powell 14' Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,393,4,0,4,11:02 PM,0:41,Brunson REBOUND (Off:6 Def:4),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,394,1,5,4,11:02 PM,0:37,Brunson  Layup (12 PTS),,,71 - 72,1,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,395,9,1,4,11:02 PM,0:34,,,Mystics Timeout: Regular (Reg.3 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,399,5,41,4,11:05 PM,0:21,,,Beard Poss Lost Ball Turnover (P3.T23),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,400,9,2,4,11:05 PM,0:21,MONARCHS Timeout: Short (Full 2 Short 2),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,403,6,1,4,11:07 PM,0:19,,,Miller P.FOUL (P2.PN),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,404,3,11,4,11:07 PM,0:19,MISS Lawson Free Throw 1 of 2,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,405,4,1,4,11:07 PM,0:19,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,406,3,12,4,11:07 PM,0:19,Lawson Free Throw 2 of 2 (13 PTS),,,71 - 73,2,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,407,9,2,4,11:07 PM,0:19,,,Mystics Timeout: Short (Reg.3 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,410,8,0,4,11:09 PM,0:19,,,SUB: Koehn FOR Sanford,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,411,6,1,4,11:09 PM,0:14,Brunson P.FOUL (P4.PN),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,412,3,11,4,11:10 PM,0:14,,,MISS Beard Free Throw 1 of 2,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,413,4,1,4,11:10 PM,0:14,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,414,8,0,4,11:10 PM,0:14,,,SUB: Sanford FOR Koehn,,,5,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,415,3,12,4,11:10 PM,0:14,,,Beard Free Throw 2 of 2 (22 PTS),72 - 73,1,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,416,9,1,4,11:10 PM,0:14,MONARCHS Timeout: Regular (Full 3 Short 2),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,419,8,0,4,11:12 PM,0:14,,,SUB: Blue FOR Currie,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,422,8,0,4,11:14 PM,0:12,,,SUB: Currie FOR Blue,,,5,200689,Nikki Blue,1611661322.0,Washington,Mystics,WAS,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,423,10,0,4,11:14 PM,0:12,Jump Ball Williams-Strong vs. Miller: Tip to Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0
+1020700201,425,5,41,4,11:15 PM,0:08,Williams-Strong Poss Lost Ball Turnover (P3.T27),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,426,10,0,4,11:15 PM,0:08,Jump Ball Williams-Strong vs. Miller: Tip to Milton-Jones,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0
+1020700201,427,2,5,4,11:16 PM,0:04,,,MISS Beard  Layup,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,428,4,0,4,11:16 PM,0:03,,,Currie REBOUND (Off:1 Def:0),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,429,6,1,4,11:16 PM,0:03,Newton P.FOUL (P6.PN),,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,430,8,0,4,11:17 PM,0:03,SUB: Dorrell FOR Newton,,,,,4,101040,Chelsea Newton,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,431,3,11,4,11:17 PM,0:03,,,MISS Currie Free Throw 1 of 2,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,432,4,1,4,11:17 PM,0:03,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,433,3,12,4,11:17 PM,0:03,,,Currie Free Throw 2 of 2 (3 PTS),73 - 73,TIE,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,434,5,1,4,11:17 PM,0:02,Powell Bad Pass Turnover (P4.T28),,Currie STEAL (1 STL),,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,435,2,1,4,11:17 PM,0:00,,,MISS Currie 40' 3PT Jump Shot,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,437,4,0,4,11:18 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,436,13,0,4,11:18 PM,0:00,,End of 4th Period (11:18 PM EST),,73 - 73,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,439,12,0,5,11:20 PM,5:00,,Start of 1st OT (11:20 PM EST),,73 - 73,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,440,10,0,5,11:20 PM,5:00,Jump Ball Brunson vs. Sanford: Tip to,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,3,1611661322,,,,,,0
+1020700201,441,6,2,5,11:21 PM,4:40,Powell S.FOUL (P1.T1),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020700201,442,3,11,5,11:21 PM,4:40,,,Milton-Jones Free Throw 1 of 2 (10 PTS),74 - 73,-1,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,443,3,12,5,11:21 PM,4:40,,,Milton-Jones Free Throw 2 of 2 (11 PTS),75 - 73,-2,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,444,9,2,5,11:22 PM,4:40,MONARCHS Timeout: Short (Full 3 Short 3),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,447,1,1,5,11:23 PM,4:24,Lawson 17' Jump Shot (15 PTS),,,75 - 75,TIE,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,448,1,1,5,11:23 PM,4:05,,,Miller 15' Jump Shot (2 PTS) (Beard 3 AST),77 - 75,-2,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,449,1,1,5,11:24 PM,3:40,Powell  3PT Jump Shot (24 PTS) (Lawson 3 AST),,,77 - 78,1,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,450,2,1,5,11:24 PM,3:21,,,MISS Beard  3PT Jump Shot,,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,451,4,0,5,11:24 PM,3:20,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,452,8,0,5,11:24 PM,3:20,SUB: Williams-Strong FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,453,1,5,5,11:24 PM,3:18,,,Currie  Layup (5 PTS) (Miller 1 AST),79 - 78,-1,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,454,6,2,5,11:25 PM,3:00,,,Sanford S.FOUL (P2.T1),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,455,3,11,5,11:25 PM,3:00,MISS Dorrell Free Throw 1 of 2,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,456,4,1,5,11:25 PM,3:00,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,457,3,12,5,11:25 PM,3:00,MISS Dorrell Free Throw 2 of 2,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,458,4,0,5,11:25 PM,3:00,,,Milton-Jones REBOUND (Off:0 Def:4),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,459,2,5,5,11:26 PM,2:43,,,MISS Sanford  Layup,,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,460,4,0,5,11:26 PM,2:41,Williams-Strong REBOUND (Off:3 Def:2),,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,461,6,1,5,11:26 PM,2:35,,,Milton-Jones P.FOUL (P4.T2),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,462,6,2,5,11:27 PM,2:28,,,Currie S.FOUL (P5.T3),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,463,3,11,5,11:27 PM,2:28,Dorrell Free Throw 1 of 2 (5 PTS),,,79 - 79,TIE,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,464,3,12,5,11:27 PM,2:28,MISS Dorrell Free Throw 2 of 2,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,465,4,0,5,11:27 PM,2:27,,,Milton-Jones REBOUND (Off:0 Def:5),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,468,5,41,5,11:28 PM,2:18,,,Beard Poss Lost Ball Turnover (P4.T24),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,469,6,3,5,11:28 PM,2:17,,,Milton-Jones L.B.FOUL (P5.PN),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,470,3,11,5,11:29 PM,2:17,Dorrell Free Throw 1 of 2 (6 PTS),,,79 - 80,1,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,471,3,12,5,11:29 PM,2:17,Dorrell Free Throw 2 of 2 (7 PTS),,,79 - 81,2,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,472,2,1,5,11:30 PM,2:04,,,MISS Miller 16' Jump Shot,,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,473,4,0,5,11:30 PM,2:02,,,Milton-Jones REBOUND (Off:1 Def:5),,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,474,2,4,5,11:30 PM,2:00,,,MISS Milton-Jones  Tip Shot,,,5,100396,DeLisha Milton-Jones,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,475,4,0,5,11:30 PM,1:58,Dorrell REBOUND (Off:0 Def:2),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,476,5,1,5,11:30 PM,1:37,Powell Bad Pass Turnover (P5.T29),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,477,2,5,5,11:31 PM,1:21,Powell BLOCK (1 BLK),,MISS Currie  Layup,,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020700201,478,4,0,5,11:31 PM,1:21,,,Currie REBOUND (Off:2 Def:0),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,480,10,0,5,11:31 PM,1:21,Jump Ball Powell vs. Currie: Tip to Beard,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020700201,482,5,1,5,11:31 PM,1:16,,,Beard Bad Pass Turnover (P5.T25),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,484,2,1,5,11:32 PM,0:57,MISS Lawson 15' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,485,4,0,5,11:32 PM,0:54,,,Sanford REBOUND (Off:8 Def:4),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020700201,486,9,1,5,11:32 PM,0:49,,,Mystics Timeout: Regular (Reg.4 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,490,5,8,5,11:34 PM,0:36,,,Currie 3 Second Violation Turnover (P1.T26),,,5,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020700201,491,2,1,5,11:35 PM,0:13,MISS Lawson 15' Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,492,4,0,5,11:35 PM,0:11,Powell REBOUND (Off:3 Def:2),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,493,9,1,5,11:36 PM,0:11,MONARCHS Timeout: Regular (Full 4 Short 3),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,497,8,0,5,11:38 PM,0:11,SUB: Haynie FOR Williams-Strong,,,,,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,498,6,1,5,11:38 PM,0:11,,,Miller P.FOUL (P3.PN),,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,499,3,11,5,11:39 PM,0:11,Powell Free Throw 1 of 2 (25 PTS),,,79 - 82,3,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,500,8,0,5,11:39 PM,0:11,SUB: Williams-Strong FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100526,Adrian Williams-Strong,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020700201,501,3,12,5,11:39 PM,0:11,Powell Free Throw 2 of 2 (26 PTS),,,79 - 83,4,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,502,9,2,5,11:39 PM,0:11,,,Mystics Timeout: Short (Reg.4 Short 3),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,506,1,1,5,11:40 PM,0:05,,,Beard  3PT Jump Shot (25 PTS) (Miller 2 AST),82 - 83,1,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,507,6,9,5,11:42 PM,0:03,,,Beard C.P.FOUL (P3.PN),,,5,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,508,8,0,5,11:43 PM,0:03,,,SUB: Koehn FOR Miller,,,5,100690,Coco Miller,1611661322.0,Washington,Mystics,WAS,5,101084,Laurie Koehn,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020700201,509,3,25,5,11:43 PM,0:03,Dorrell Free Throw Clear Path 1 of 2 (8 PTS),,,82 - 84,2,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,510,3,26,5,11:44 PM,0:03,MISS Dorrell Free Throw Clear Path 2 of 2,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,511,4,1,5,11:44 PM,0:03,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020700201,512,6,1,5,11:44 PM,0:02,,,Sanford P.FOUL (P3.PN),,,5,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020700201,513,3,11,5,11:44 PM,0:02,Powell Free Throw 1 of 2 (27 PTS),,,82 - 85,3,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,514,3,12,5,11:45 PM,0:02,Powell Free Throw 2 of 2 (28 PTS),,,82 - 86,4,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020700201,515,13,0,5,11:45 PM,0:00,,End of 1st OT (11:45 PM EST),,82 - 86,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

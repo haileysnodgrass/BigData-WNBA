@@ -1,0 +1,384 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100069,0,12,0,1,4:00 AM,20:00,,Start of 1st Half (4:00 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,1,10,0,1,4:00 AM,20:00,Jump Ball Dydek vs. Griffith: Tip to Hlede,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0
+1020100069,2,2,1,1,4:01 AM,19:37,MISS Hlede 13' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,3,4,0,1,4:01 AM,19:35,,,Griffith REBOUND (Off:0 Def:1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,4,1,5,1,4:01 AM,19:20,,,Griffith  Layup (2 PTS) (Holland-Corn 1 AST),2 - 0,-2,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,5,2,1,1,4:02 AM,18:59,MISS Williams 14' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,6,4,0,1,4:02 AM,18:57,,,Campbell REBOUND (Off:0 Def:1),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,7,2,5,1,4:02 AM,18:52,Dydek BLOCK (1 BLK),,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020100069,9,4,0,1,4:02 AM,18:50,,,Griffith REBOUND (Off:1 Def:1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,8,2,5,1,4:02 AM,18:50,,,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,10,4,0,1,4:02 AM,18:49,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,11,2,1,1,4:02 AM,18:36,,,MISS Frett 15' Jump Shot,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,12,4,0,1,4:02 AM,18:33,Hlede REBOUND (Off:0 Def:1),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,13,1,42,1,4:03 AM,18:28,Hlede  Driving Layup (2 PTS),,,2 - 2,TIE,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,14,2,1,1,4:03 AM,18:13,,,MISS Holland-Corn 19' Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,15,4,0,1,4:03 AM,18:11,,,Holland-Corn REBOUND (Off:1 Def:0),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,16,2,1,1,4:03 AM,18:05,,,MISS Smith 14' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,17,4,0,1,4:03 AM,18:03,Dydek REBOUND (Off:0 Def:1),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,18,5,1,1,4:03 AM,18:02,Dydek Bad Pass Turnover (P1.T1),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,19,6,2,1,4:04 AM,17:46,Azzi S.FOUL (P1.T1),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,20,3,11,1,4:04 AM,17:46,,,Campbell Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,21,3,12,1,4:04 AM,17:46,,,MISS Campbell Free Throw 2 of 2,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,22,4,0,1,4:04 AM,17:44,Williams REBOUND (Off:0 Def:1),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,23,1,1,1,4:04 AM,17:27,Hlede 16' Jump Shot (4 PTS),,,3 - 4,1,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,24,2,5,1,4:05 AM,17:11,,,MISS Smith  Layup,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,25,4,0,1,4:05 AM,17:09,Williams REBOUND (Off:0 Def:2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,26,5,2,1,4:05 AM,17:08,Williams Lost Ball Turnover (P1.T2),,Smith STEAL (1 STL),,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,27,5,1,1,4:05 AM,16:45,Williams STEAL (1 STL),,Frett Bad Pass Turnover (P1.T1),,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,28,1,1,1,4:05 AM,16:31,Starbird 18' Jump Shot (2 PTS) (Williams 1 AST),,,3 - 6,3,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,29,6,4,1,4:06 AM,16:14,,,Griffith OFF.Foul (P1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,30,5,5,1,4:06 AM,16:14,,,Griffith Foul Turnover (P1.T2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,31,2,1,1,4:06 AM,15:54,MISS Hlede 16' Jump Shot,,Holland-Corn BLOCK (1 BLK),,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100069,32,4,0,1,4:06 AM,15:49,,,Griffith REBOUND (Off:1 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,33,1,1,1,4:06 AM,15:46,,,Frett 14' Jump Shot (2 PTS) (Campbell 1 AST),5 - 6,1,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,35,7,1,1,4:07 AM,15:42,,,Monarchs Violation: Delay of game Violation,,,3,1611661318,,,,,,0,0,,,,,,1,0,,,,,,0
+1020100069,36,2,1,1,4:07 AM,15:34,MISS Starbird 8' Jump Shot,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,37,4,0,1,4:07 AM,15:33,Williams REBOUND (Off:1 Def:2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,38,2,1,1,4:07 AM,15:29,MISS Starbird 15' Jump Shot,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,39,4,0,1,4:07 AM,15:27,,,Campbell REBOUND (Off:0 Def:2),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,40,2,1,1,4:07 AM,15:21,Dydek BLOCK (2 BLK),,MISS Griffith 5' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020100069,41,4,0,1,4:07 AM,15:18,Azzi REBOUND (Off:0 Def:1),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,42,2,1,1,4:07 AM,15:11,MISS Azzi  3PT Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,43,4,0,1,4:07 AM,15:09,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,44,9,4,1,4:07 AM,15:09,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,46,2,5,1,4:10 AM,14:56,,,MISS Smith  Layup,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,47,4,0,1,4:10 AM,14:55,Starbird REBOUND (Off:0 Def:1),,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,48,2,5,1,4:10 AM,14:50,MISS Hlede  Layup,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,49,4,0,1,4:10 AM,14:49,Williams REBOUND (Off:2 Def:2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,50,6,1,1,4:10 AM,14:49,,,Holland-Corn P.FOUL (P1.T1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,51,5,1,1,4:11 AM,14:46,Williams Bad Pass Turnover (P2.T3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,52,2,1,1,4:11 AM,14:23,,,MISS Campbell 13' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,53,4,0,1,4:11 AM,14:22,Dydek REBOUND (Off:0 Def:2),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,54,1,5,1,4:11 AM,14:19,Starbird  Layup (4 PTS) (Azzi 1 AST),,,5 - 8,3,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,55,6,2,1,4:12 AM,14:02,Dydek S.FOUL (P1.T2),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,56,8,0,1,4:12 AM,14:02,,,SUB: Grooms FOR Frett,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,57,3,11,1,4:12 AM,14:02,,,Smith Free Throw 1 of 2 (1 PTS),6 - 8,2,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,58,8,0,1,4:12 AM,14:02,SUB: Ferdinand-Harris FOR Hlede,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,59,3,12,1,4:12 AM,14:02,,,Smith Free Throw 2 of 2 (2 PTS),7 - 8,1,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,60,2,1,1,4:13 AM,13:41,MISS Dydek 11' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,61,4,0,1,4:13 AM,13:40,,,Griffith REBOUND (Off:1 Def:3),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,62,1,1,1,4:13 AM,13:29,,,Holland-Corn  3PT Jump Shot (3 PTS) (Grooms 1 AST),10 - 8,-2,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,63,1,1,1,4:13 AM,13:17,Williams 8' Jump Shot (2 PTS) (Starbird 1 AST),,,10 - 10,TIE,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,64,1,1,1,4:13 AM,12:59,,,Holland-Corn  3PT Jump Shot (6 PTS) (Griffith 1 AST),13 - 10,-3,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,65,6,1,1,4:14 AM,12:47,,,Smith P.FOUL (P1.T2),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,66,8,0,1,4:14 AM,12:47,,,SUB: Wolters FOR Smith,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,67,1,5,1,4:14 AM,12:43,Dydek  Layup (2 PTS) (Starbird 2 AST),,,13 - 12,-1,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,68,1,3,1,4:14 AM,12:30,,,Wolters 6' Hook Shot (2 PTS) (Grooms 2 AST),15 - 12,-3,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,69,2,3,1,4:15 AM,12:13,MISS Williams 3' Hook Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,70,4,0,1,4:15 AM,12:11,,,Griffith REBOUND (Off:1 Def:4),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,71,6,2,1,4:15 AM,12:05,Starbird S.FOUL (P1.T3),,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,72,3,11,1,4:15 AM,12:05,,,Griffith Free Throw 1 of 2 (3 PTS),16 - 12,-4,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,73,8,0,1,4:15 AM,12:05,,,SUB: Clinesmith FOR Campbell,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,5,100534,Stacy Clinesmith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,74,8,0,1,4:15 AM,12:05,SUB: Consuegra FOR Azzi,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100688,Cara Consuegra,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,75,3,12,1,4:15 AM,12:05,,,Griffith Free Throw 2 of 2 (4 PTS),17 - 12,-5,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,76,6,1,1,4:16 AM,11:57,,,Griffith P.FOUL (P2.T3),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,77,9,4,1,4:16 AM,11:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,79,1,1,1,4:18 AM,11:47,Starbird 15' Jump Shot (6 PTS) (Williams 2 AST),,,17 - 14,-3,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,80,6,1,1,4:19 AM,11:28,Williams P.FOUL (P1.T4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,81,1,5,1,4:19 AM,11:24,,,Griffith  Layup (6 PTS) (Wolters 1 AST),19 - 14,-5,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,82,2,1,1,4:20 AM,11:08,MISS Consuegra  3PT Jump Shot,,,,,4,100688,Cara Consuegra,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,83,4,0,1,4:20 AM,11:06,,,Wolters REBOUND (Off:0 Def:1),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,84,1,1,1,4:20 AM,10:54,,,Wolters 16' Jump Shot (4 PTS) (Griffith 2 AST),21 - 14,-7,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,85,5,21,1,4:21 AM,10:37,Ferdinand-Harris Palming Turnover (P1.T4),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,86,8,0,1,4:21 AM,10:37,SUB: Herrig FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,87,8,0,1,4:21 AM,10:37,SUB: Hlede FOR Ferdinand-Harris,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,88,8,0,1,4:21 AM,10:37,,,SUB: Smith FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,89,2,5,1,4:21 AM,10:18,,,MISS Wolters  Layup,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,91,4,0,1,4:21 AM,10:16,,,Grooms REBOUND (Off:1 Def:0),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,90,2,5,1,4:21 AM,10:16,Herrig BLOCK (1 BLK),,MISS Grooms  Layup,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0
+1020100069,92,4,0,1,4:21 AM,10:13,Hlede REBOUND (Off:0 Def:2),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,93,1,5,1,4:22 AM,9:53,Starbird  Layup (8 PTS) (Consuegra 1 AST),,,21 - 16,-5,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100688,Cara Consuegra,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,94,2,1,1,4:22 AM,9:38,,,MISS Holland-Corn  3PT Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,95,4,0,1,4:22 AM,9:37,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,96,8,0,1,4:22 AM,9:37,SUB: Azzi FOR Consuegra,,,,,4,100688,Cara Consuegra,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,97,2,1,1,4:22 AM,9:18,MISS Williams 13' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,98,4,0,1,4:23 AM,9:16,,,Holland-Corn REBOUND (Off:1 Def:1),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,99,1,5,1,4:23 AM,9:05,,,Wolters  Layup (6 PTS),23 - 16,-7,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,100,6,2,1,4:23 AM,8:48,,,Smith S.FOUL (P2.T4),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,101,8,0,1,4:23 AM,8:48,,,SUB: Campbell FOR Holland-Corn,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,102,3,11,1,4:23 AM,8:48,MISS Herrig Free Throw 1 of 2,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,103,4,1,1,4:23 AM,8:48,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,104,8,0,1,4:23 AM,8:48,SUB: Johnson FOR Starbird,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,105,8,0,1,4:23 AM,8:48,SUB: Dydek FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,106,3,12,1,4:24 AM,8:48,Herrig Free Throw 2 of 2 (1 PTS),,,23 - 17,-6,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,107,5,1,1,4:24 AM,8:34,Dydek STEAL (1 STL),,Smith Bad Pass Turnover (P1.T3),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,108,2,1,1,4:24 AM,8:24,MISS Dydek  3PT Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,109,4,0,1,4:24 AM,8:22,,,Clinesmith REBOUND (Off:0 Def:1),,,5,100534,Stacy Clinesmith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,110,2,1,1,4:24 AM,8:16,,,MISS Clinesmith  3PT Jump Shot,,,5,100534,Stacy Clinesmith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,111,4,0,1,4:24 AM,8:13,Hlede REBOUND (Off:0 Def:3),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,112,1,5,1,4:25 AM,7:58,Herrig  Layup (3 PTS) (Dydek 1 AST),,,23 - 19,-4,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,113,1,1,1,4:25 AM,7:46,,,Wolters 16' Jump Shot (8 PTS) (Smith 1 AST),25 - 19,-6,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,114,6,1,1,4:25 AM,7:37,,,Clinesmith P.FOUL (P1.PN),,,5,100534,Stacy Clinesmith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,115,9,4,1,4:25 AM,7:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,117,8,0,1,4:27 AM,7:37,,,SUB: Holland-Corn FOR Clinesmith,,,5,100534,Stacy Clinesmith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,118,2,1,1,4:28 AM,7:26,MISS Azzi 6' Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,119,4,0,1,4:28 AM,7:24,,,Holland-Corn REBOUND (Off:1 Def:2),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,120,6,2,1,4:28 AM,7:13,Johnson S.FOUL (P1.PN),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,121,3,11,1,4:28 AM,7:13,,,Smith Free Throw 1 of 2 (3 PTS),26 - 19,-7,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,122,8,0,1,4:28 AM,7:13,SUB: Williams FOR Herrig,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,123,3,12,1,4:28 AM,7:13,,,MISS Smith Free Throw 2 of 2,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,124,4,0,1,4:29 AM,7:12,,,Grooms REBOUND (Off:2 Def:0),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,125,6,1,1,4:29 AM,7:03,Johnson P.FOUL (P2.PN),,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,126,1,5,1,4:29 AM,6:42,,,Wolters  Layup (10 PTS) (Grooms 3 AST),28 - 19,-9,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,127,2,1,1,4:30 AM,6:24,MISS Williams 12' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,128,4,0,1,4:30 AM,6:22,,,Grooms REBOUND (Off:2 Def:1),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,129,5,2,1,4:30 AM,6:17,Azzi STEAL (1 STL),,Holland-Corn Lost Ball Turnover (P1.T4),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,130,1,5,1,4:30 AM,6:12,Hlede  Layup (6 PTS) (Azzi 2 AST),,,28 - 21,-7,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,131,1,1,1,4:30 AM,5:52,,,Wolters 16' Jump Shot (12 PTS) (Campbell 2 AST),30 - 21,-9,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,132,2,1,1,4:31 AM,5:34,MISS Dydek 11' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,133,4,0,1,4:31 AM,5:32,Williams REBOUND (Off:3 Def:2),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,134,2,5,1,4:31 AM,5:28,MISS Dydek  Layup,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,135,4,0,1,4:31 AM,5:27,,,Wolters REBOUND (Off:0 Def:2),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,136,8,0,1,4:31 AM,5:21,SUB: Starbird FOR Johnson,,,,,4,100242,LaTonya Johnson,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,137,2,1,1,4:31 AM,5:17,,,MISS Campbell 17' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,138,4,0,1,4:31 AM,5:14,Dydek REBOUND (Off:0 Def:3),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,139,6,1,1,4:31 AM,5:06,,,Grooms P.FOUL (P1.PN),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,140,8,0,1,4:32 AM,5:06,SUB: Herrig FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,141,5,1,1,4:32 AM,5:05,Starbird Bad Pass Turnover (P1.T5),,Holland-Corn STEAL (1 STL),,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,142,1,42,1,4:32 AM,5:01,,,Holland-Corn  Driving Layup (8 PTS),32 - 21,-11,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,143,9,2,1,4:32 AM,5:01,STARZZ Timeout: Short (Full 0 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,145,2,1,1,4:33 AM,4:48,MISS Hlede 11' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,146,4,0,1,4:33 AM,4:45,,,Grooms REBOUND (Off:2 Def:2),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,147,1,5,1,4:33 AM,4:41,,,Wolters  Layup (14 PTS) (Campbell 3 AST),34 - 21,-13,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,148,1,1,1,4:34 AM,4:15,Herrig 6' Jump Shot (5 PTS) (Azzi 3 AST),,,34 - 23,-11,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,149,5,1,1,4:34 AM,4:02,Starbird STEAL (1 STL),,Campbell Bad Pass Turnover (P1.T5),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,150,1,5,1,4:34 AM,3:58,Azzi  Layup (2 PTS) (Starbird 3 AST),,,34 - 25,-9,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,151,1,1,1,4:34 AM,3:39,,,Smith 12' Jump Shot (5 PTS) (Campbell 4 AST),36 - 25,-11,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,152,1,1,1,4:35 AM,3:17,Starbird 9' Jump Shot (10 PTS) (Azzi 4 AST),,,36 - 27,-9,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,153,6,2,1,4:35 AM,3:17,,,Grooms S.FOUL (P2.PN),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,154,9,4,1,4:35 AM,3:17,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,156,3,10,1,4:37 AM,3:17,Starbird Free Throw 1 of 1 (11 PTS),,,36 - 28,-8,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,157,5,8,1,4:38 AM,3:05,,,Wolters 3 Second Violation Turnover (P1.T6),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,158,2,1,1,4:38 AM,2:43,MISS Hlede 18' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,159,4,0,1,4:38 AM,2:41,,,Campbell REBOUND (Off:0 Def:3),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,160,5,2,1,4:38 AM,2:36,Hlede STEAL (1 STL),,Campbell Lost Ball Turnover (P2.T7),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,161,7,6,1,4:38 AM,2:32,,,Holland-Corn Violation:Double Lane,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,162,1,1,1,4:39 AM,2:22,Hlede 7' Jump Shot (8 PTS),,,36 - 30,-6,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,163,2,1,1,4:39 AM,2:03,,,MISS Smith 13' Jump Shot,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,164,4,0,1,4:39 AM,2:00,Williams REBOUND (Off:3 Def:3),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,165,1,1,1,4:39 AM,1:56,Azzi 16' Jump Shot (4 PTS) (Williams 3 AST),,,36 - 32,-4,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,166,9,2,1,4:39 AM,1:54,,,Monarchs Timeout: Short (Reg.0 Short 1),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,168,2,5,1,4:40 AM,1:33,,,MISS Grooms  Layup,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,169,4,0,1,4:40 AM,1:31,Williams REBOUND (Off:3 Def:4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,170,1,1,1,4:41 AM,1:25,Starbird 16' Jump Shot (13 PTS) (Hlede 1 AST),,,36 - 34,-2,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,171,1,1,1,4:41 AM,1:13,,,Holland-Corn 6' Jump Shot (10 PTS) (Grooms 4 AST),38 - 34,-4,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,172,6,2,1,4:41 AM,1:13,Hlede S.FOUL (P1.PN),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,173,3,10,1,4:41 AM,1:13,,,Holland-Corn Free Throw 1 of 1 (11 PTS),39 - 34,-5,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,174,1,1,1,4:42 AM,0:55,Williams 16' Jump Shot (4 PTS) (Herrig 1 AST),,,39 - 36,-3,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,175,5,1,1,4:42 AM,0:35,Azzi STEAL (2 STL),,Smith Bad Pass Turnover (P2.T8),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,176,2,1,1,4:42 AM,0:29,MISS Herrig 14' Jump Shot,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,177,4,0,1,4:42 AM,0:27,Williams REBOUND (Off:4 Def:4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,178,2,5,1,4:42 AM,0:25,MISS Williams  Layup,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,179,4,0,1,4:42 AM,0:24,,,Campbell REBOUND (Off:0 Def:4),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,180,1,1,1,4:43 AM,0:16,,,Holland-Corn 16' Jump Shot (13 PTS),41 - 36,-5,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,181,2,1,1,4:43 AM,0:00,MISS Hlede  3PT Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,182,4,0,1,4:43 AM,0:00,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,184,13,0,1,4:43 AM,0:00,,End of 1st Half (4:43 AM EST),,41 - 36,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,185,12,0,2,4:58 AM,20:00,,Start of 2nd Half (4:58 AM EST),,41 - 36,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,186,10,0,2,4:59 AM,20:00,Jump Ball Dydek vs. Griffith: Tip to Starbird,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0
+1020100069,187,2,5,2,4:59 AM,19:55,MISS Williams  Layup,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,188,4,0,2,4:59 AM,19:53,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,189,1,5,2,4:59 AM,19:42,,,Frett  Layup (4 PTS) (Smith 2 AST),43 - 36,-7,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,190,2,1,2,4:59 AM,19:21,MISS Starbird 16' Jump Shot,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,191,4,0,2,4:59 AM,19:19,,,Frett REBOUND (Off:0 Def:1),,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,192,1,1,2,5:00 AM,19:02,,,Smith 15' Jump Shot (7 PTS) (Campbell 5 AST),45 - 36,-9,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,193,1,1,2,5:00 AM,18:46,Williams 15' Jump Shot (6 PTS) (Hlede 2 AST),,,45 - 38,-7,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,194,2,1,2,5:00 AM,18:32,,,MISS Holland-Corn  3PT Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,195,4,0,2,5:00 AM,18:29,Hlede REBOUND (Off:0 Def:4),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,196,2,1,2,5:00 AM,18:23,MISS Williams 6' Jump Shot,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,197,4,0,2,5:00 AM,18:21,,,Smith REBOUND (Off:0 Def:1),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,198,1,5,2,5:00 AM,18:17,,,Frett  Layup (6 PTS) (Campbell 6 AST),47 - 38,-9,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,199,6,2,2,5:00 AM,18:17,Starbird S.FOUL (P2.T1),,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,200,3,10,2,5:01 AM,18:17,,,MISS Frett Free Throw 1 of 1,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,201,4,0,2,5:01 AM,18:15,,,Smith REBOUND (Off:1 Def:1),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,202,1,1,2,5:01 AM,18:13,,,Smith 5' Jump Shot (9 PTS),49 - 38,-11,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,203,2,1,2,5:01 AM,17:56,MISS Azzi 18' Jump Shot,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,204,4,0,2,5:01 AM,17:56,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,205,8,0,2,5:01 AM,17:56,SUB: Herrig FOR Dydek,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,206,2,1,2,5:02 AM,17:44,MISS Starbird 13' Jump Shot,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,208,4,0,2,5:02 AM,17:42,Williams REBOUND (Off:5 Def:4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,207,1,5,2,5:02 AM,17:42,Williams  Layup (8 PTS),,,49 - 40,-9,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,209,1,1,2,5:02 AM,17:21,,,Holland-Corn  3PT Jump Shot (16 PTS) (Griffith 3 AST),52 - 40,-12,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,210,5,8,2,5:03 AM,17:03,Herrig 3 Second Violation Turnover (P1.T6),,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,211,9,2,2,5:03 AM,17:03,STARZZ Timeout: Short (Full 0 Short 2),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,212,6,1,2,5:04 AM,16:50,Azzi P.FOUL (P2.T2),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,213,2,1,2,5:04 AM,16:35,,,MISS Campbell 17' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,214,10,0,2,5:05 AM,16:31,Jump Ball Herrig vs. Griffith: Tip to Hlede,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0
+1020100069,215,4,0,2,5:05 AM,16:31,Herrig REBOUND (Off:0 Def:1),,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,216,6,2,2,5:05 AM,16:26,,,Frett S.FOUL (P1.T1),,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,217,3,11,2,5:05 AM,16:26,Hlede Free Throw 1 of 2 (9 PTS),,,52 - 41,-11,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,218,3,12,2,5:05 AM,16:26,Hlede Free Throw 2 of 2 (10 PTS),,,52 - 42,-10,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,220,6,1,2,5:06 AM,16:15,Hlede P.FOUL (P2.T3),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,221,2,1,2,5:06 AM,16:05,,,MISS Holland-Corn  3PT Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,222,10,0,2,5:06 AM,16:03,Jump Ball Azzi vs. Frett: Tip to Holland-Corn,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100069,223,4,0,2,5:06 AM,16:03,,,Frett REBOUND (Off:1 Def:1),,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,224,2,5,2,5:07 AM,15:55,,,MISS Smith  Layup,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,226,4,0,2,5:07 AM,15:54,,,Griffith REBOUND (Off:2 Def:4),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,225,2,5,2,5:07 AM,15:54,,,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,227,4,0,2,5:07 AM,15:52,Williams REBOUND (Off:5 Def:5),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,228,2,1,2,5:07 AM,15:46,MISS Hlede 11' Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,229,4,0,2,5:07 AM,15:44,,,Griffith REBOUND (Off:2 Def:5),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,230,6,2,2,5:07 AM,15:37,Williams S.FOUL (P2.T4),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,231,9,4,2,5:07 AM,15:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,233,8,0,2,5:09 AM,15:37,SUB: Dydek FOR Herrig,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,234,3,11,2,5:10 AM,15:37,,,Frett Free Throw 1 of 2 (7 PTS),53 - 42,-11,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,235,3,12,2,5:10 AM,15:37,,,Frett Free Throw 2 of 2 (8 PTS),54 - 42,-12,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,236,2,1,2,5:10 AM,15:21,MISS Dydek 11' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,238,4,0,2,5:10 AM,15:19,Williams REBOUND (Off:6 Def:5),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,237,2,5,2,5:10 AM,15:19,MISS Williams  Layup,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,239,4,0,2,5:10 AM,15:16,,,Griffith REBOUND (Off:2 Def:6),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,240,6,1,2,5:10 AM,15:16,Dydek P.FOUL (P2.PN),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,241,1,1,2,5:11 AM,15:03,,,Campbell  3PT Jump Shot (4 PTS) (Frett 1 AST),57 - 42,-15,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,242,6,1,2,5:11 AM,14:47,,,Smith P.FOUL (P3.T2),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,243,8,0,2,5:12 AM,14:47,,,SUB: Wolters FOR Smith,,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,244,2,1,2,5:12 AM,14:43,MISS Dydek 17' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,245,4,0,2,5:12 AM,14:39,,,Griffith REBOUND (Off:2 Def:7),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,246,6,1,2,5:12 AM,14:30,Dydek P.FOUL (P3.PN),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,247,5,1,2,5:12 AM,14:23,,,Campbell Bad Pass Turnover (P3.T9),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,248,5,1,2,5:13 AM,14:10,Starbird Bad Pass Turnover (P2.T7),,Griffith STEAL (1 STL),,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,249,6,1,2,5:13 AM,14:03,Williams P.FOUL (P3.PN),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,250,8,0,2,5:13 AM,14:03,SUB: Ferdinand-Harris FOR Starbird,,,,,4,100422,Kate Starbird,1611661319.0,Utah,Starzz,UTA,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,251,2,1,2,5:14 AM,13:55,,,MISS Campbell 16' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,252,4,0,2,5:14 AM,13:53,Williams REBOUND (Off:6 Def:6),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,253,1,1,2,5:14 AM,13:35,Ferdinand-Harris 16' Jump Shot (2 PTS) (Hlede 3 AST),,,57 - 44,-13,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,254,2,1,2,5:14 AM,13:27,Dydek BLOCK (3 BLK),,MISS Frett 3' Jump Shot,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020100069,255,4,0,2,5:14 AM,13:27,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,256,8,0,2,5:14 AM,13:27,,,SUB: Grooms FOR Frett,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,257,6,2,2,5:15 AM,13:14,Williams S.FOUL (P4.PN),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,258,3,11,2,5:15 AM,13:14,,,Griffith Free Throw 1 of 2 (7 PTS),58 - 44,-14,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,259,8,0,2,5:15 AM,13:14,SUB: Herrig FOR Williams,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,260,3,12,2,5:16 AM,13:14,,,MISS Griffith Free Throw 2 of 2,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,261,4,0,2,5:16 AM,13:13,Dydek REBOUND (Off:0 Def:4),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,262,2,1,2,5:16 AM,12:51,MISS Dydek 10' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,263,4,0,2,5:16 AM,12:50,,,Wolters REBOUND (Off:0 Def:3),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,264,6,1,2,5:16 AM,12:41,Herrig P.FOUL (P1.PN),,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,265,3,11,2,5:17 AM,12:41,,,Griffith Free Throw 1 of 2 (8 PTS),59 - 44,-15,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,266,3,12,2,5:17 AM,12:41,,,MISS Griffith Free Throw 2 of 2,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,267,4,0,2,5:17 AM,12:40,Ferdinand-Harris REBOUND (Off:0 Def:1),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,268,5,2,2,5:17 AM,12:21,Azzi Lost Ball Turnover (P1.T8),,Campbell STEAL (1 STL),,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,269,2,1,2,5:18 AM,12:01,Herrig BLOCK (2 BLK),,MISS Griffith 8' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0
+1020100069,270,4,0,2,5:18 AM,11:59,Hlede REBOUND (Off:0 Def:5),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,271,2,42,2,5:18 AM,11:56,MISS Ferdinand-Harris  Driving Layup,,Grooms BLOCK (1 BLK),,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100069,273,4,0,2,5:18 AM,11:54,Hlede REBOUND (Off:1 Def:5),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,272,1,5,2,5:18 AM,11:54,Hlede  Layup (12 PTS),,,59 - 46,-13,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,274,2,1,2,5:18 AM,11:30,Dydek BLOCK (4 BLK),,MISS Wolters 16' Jump Shot,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020100069,276,4,0,2,5:18 AM,11:26,,,Holland-Corn REBOUND (Off:2 Def:2),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,275,1,5,2,5:18 AM,11:26,,,Griffith  Layup (10 PTS) (Holland-Corn 2 AST),61 - 46,-15,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,277,1,1,2,5:19 AM,11:10,Azzi 17' Jump Shot (6 PTS),,,61 - 48,-13,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,278,1,1,2,5:19 AM,10:47,,,Campbell 16' Jump Shot (6 PTS),63 - 48,-15,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,279,6,2,2,5:19 AM,10:47,Azzi S.FOUL (P3.PN),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,281,9,4,2,5:19 AM,10:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,282,3,10,2,5:22 AM,10:47,,,Campbell Free Throw 1 of 1 (7 PTS),64 - 48,-16,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,283,6,2,2,5:22 AM,10:33,,,Grooms S.FOUL (P3.T3),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,284,3,11,2,5:22 AM,10:33,Ferdinand-Harris Free Throw 1 of 2 (3 PTS),,,64 - 49,-15,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,285,8,0,2,5:23 AM,10:33,,,SUB: Frett FOR Grooms,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,286,3,12,2,5:23 AM,10:33,Ferdinand-Harris Free Throw 2 of 2 (4 PTS),,,64 - 50,-14,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,287,5,2,2,5:23 AM,10:19,Ferdinand-Harris STEAL (1 STL),,Wolters Lost Ball Turnover (P2.T10),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,288,1,5,2,5:23 AM,10:15,Ferdinand-Harris  Layup (6 PTS),,,64 - 52,-12,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,289,2,1,2,5:24 AM,9:54,,,MISS Campbell  3PT Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,290,4,0,2,5:24 AM,9:54,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,291,2,1,2,5:24 AM,9:35,MISS Herrig 7' Jump Shot,,Wolters BLOCK (1 BLK),,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100069,292,4,0,2,5:24 AM,9:32,Herrig REBOUND (Off:1 Def:1),,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,293,1,1,2,5:24 AM,9:28,Dydek 5' Jump Shot (4 PTS) (Azzi 5 AST),,,64 - 54,-10,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,294,9,2,2,5:24 AM,9:18,,,Monarchs Timeout: Short (Reg.0 Short 2),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,296,2,3,2,5:25 AM,9:08,,,MISS Wolters 5' Hook Shot,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,297,4,0,2,5:26 AM,9:05,Hlede REBOUND (Off:1 Def:6),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,298,6,2,2,5:26 AM,8:53,,,Campbell S.FOUL (P1.T4),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,299,3,11,2,5:26 AM,8:53,Ferdinand-Harris Free Throw 1 of 2 (7 PTS),,,64 - 55,-9,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,300,3,12,2,5:26 AM,8:53,MISS Ferdinand-Harris Free Throw 2 of 2,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,301,4,0,2,5:27 AM,8:52,,,Griffith REBOUND (Off:2 Def:8),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,302,1,1,2,5:27 AM,8:32,,,Campbell 15' Jump Shot (9 PTS),66 - 55,-11,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,303,2,1,2,5:27 AM,8:06,MISS Hlede  3PT Jump Shot,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,304,4,0,2,5:27 AM,8:05,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,305,8,0,2,5:28 AM,8:05,SUB: Williams FOR Herrig,,,,,4,100549,Amy Herrig,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,306,2,1,2,5:28 AM,7:49,MISS Dydek 14' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,307,4,0,2,5:28 AM,7:47,,,Wolters REBOUND (Off:0 Def:4),,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,308,2,1,2,5:28 AM,7:34,,,MISS Frett 13' Jump Shot,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,309,4,0,2,5:28 AM,7:32,Azzi REBOUND (Off:0 Def:2),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,310,1,5,2,5:28 AM,7:29,Hlede  Layup (14 PTS) (Azzi 6 AST),,,66 - 57,-9,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,311,2,1,2,5:29 AM,7:05,,,MISS Campbell 13' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,312,4,0,2,5:29 AM,7:05,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,313,6,3,2,5:29 AM,7:05,,,Frett L.B.FOUL (P2.PN),,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,315,9,4,2,5:29 AM,7:05,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,317,8,0,2,5:31 AM,7:05,,,SUB: Smith FOR Wolters,,,5,100340,Kara Wolters,1611661318.0,Sacramento,Monarchs,SAC,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,318,1,1,2,5:32 AM,6:47,Ferdinand-Harris 13' Jump Shot (9 PTS),,,66 - 59,-7,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,319,1,5,2,5:32 AM,6:19,,,Griffith  Layup (12 PTS) (Holland-Corn 3 AST),68 - 59,-9,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,320,1,1,2,5:32 AM,6:05,Williams 12' Jump Shot (10 PTS),,,68 - 61,-7,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,321,2,1,2,5:33 AM,5:53,Dydek BLOCK (5 BLK),,MISS Griffith 10' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0
+1020100069,322,4,0,2,5:33 AM,5:51,STARZZ Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,323,8,0,2,5:33 AM,5:51,,,SUB: Grooms FOR Frett,,,5,100393,La'Keshia Frett,1611661318.0,Sacramento,Monarchs,SAC,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,324,5,2,2,5:33 AM,5:38,Ferdinand-Harris Lost Ball Turnover (P2.T9),,Holland-Corn STEAL (2 STL),,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,325,6,2,2,5:33 AM,5:34,Ferdinand-Harris S.FOUL (P1.PN),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,326,3,11,2,5:33 AM,5:34,,,MISS Holland-Corn Free Throw 1 of 2,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,327,4,1,2,5:33 AM,5:34,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,328,3,12,2,5:34 AM,5:34,,,Holland-Corn Free Throw 2 of 2 (17 PTS),69 - 61,-8,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,329,1,1,2,5:34 AM,5:24,Hlede 15' Jump Shot (16 PTS),,,69 - 63,-6,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,330,5,1,2,5:34 AM,5:08,Hlede STEAL (2 STL),,Campbell Bad Pass Turnover (P4.T11),,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,331,6,2,2,5:34 AM,5:04,,,Holland-Corn S.FOUL (P2.PN),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,332,3,11,2,5:34 AM,5:04,Hlede Free Throw 1 of 2 (17 PTS),,,69 - 64,-5,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,333,3,12,2,5:35 AM,5:04,MISS Hlede Free Throw 2 of 2,,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,334,4,0,2,5:35 AM,5:02,,,Grooms REBOUND (Off:2 Def:3),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,335,2,1,2,5:36 AM,4:31,,,MISS Holland-Corn 14' Jump Shot,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,337,4,0,2,5:36 AM,4:29,,,Grooms REBOUND (Off:3 Def:3),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,336,1,5,2,5:36 AM,4:29,,,Grooms  Layup (2 PTS),71 - 64,-7,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,338,6,2,2,5:36 AM,4:17,,,Smith S.FOUL (P4.PN),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,339,3,11,2,5:36 AM,4:17,Dydek Free Throw 1 of 2 (5 PTS),,,71 - 65,-6,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,340,3,12,2,5:37 AM,4:17,MISS Dydek Free Throw 2 of 2,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,341,4,0,2,5:37 AM,4:16,,,Griffith REBOUND (Off:2 Def:9),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,342,1,1,2,5:37 AM,3:56,,,Holland-Corn  3PT Jump Shot (20 PTS) (Campbell 7 AST),74 - 65,-9,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,343,6,1,2,5:37 AM,3:39,,,Grooms P.FOUL (P4.PN),,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,344,9,4,2,5:37 AM,3:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,346,3,11,2,5:40 AM,3:39,Ferdinand-Harris Free Throw 1 of 2 (10 PTS),,,74 - 66,-8,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,347,3,12,2,5:41 AM,3:39,Ferdinand-Harris Free Throw 2 of 2 (11 PTS),,,74 - 67,-7,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,348,6,1,2,5:41 AM,3:24,Hlede P.FOUL (P3.PN),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,349,3,11,2,5:41 AM,3:24,,,MISS Grooms Free Throw 1 of 2,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,350,4,1,2,5:41 AM,3:24,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,351,3,12,2,5:41 AM,3:24,,,Grooms Free Throw 2 of 2 (3 PTS),75 - 67,-8,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,352,5,7,2,5:42 AM,3:15,Azzi Discontinue Dribble Turnover (P2.T10),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,353,2,1,2,5:42 AM,3:02,,,MISS Campbell 15' Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,354,4,0,2,5:42 AM,3:00,,,Griffith REBOUND (Off:3 Def:9),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,355,1,1,2,5:43 AM,2:41,,,Holland-Corn  3PT Jump Shot (23 PTS) (Campbell 8 AST),78 - 67,-11,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020100069,356,9,2,2,5:43 AM,2:33,STARZZ Timeout: Short (Full 0 Short 3),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,358,1,1,2,5:44 AM,2:24,Ferdinand-Harris  3PT Jump Shot (14 PTS) (Williams 4 AST),,,78 - 70,-8,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,359,2,1,2,5:44 AM,1:52,,,MISS Campbell  3PT Jump Shot,,,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,360,4,0,2,5:44 AM,1:50,,,Holland-Corn REBOUND (Off:3 Def:2),,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,361,2,5,2,5:45 AM,1:24,,,MISS Grooms  Layup,,,5,100044,Lady Grooms,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,362,4,0,2,5:45 AM,1:23,Dydek REBOUND (Off:0 Def:5),,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,363,2,1,2,5:45 AM,1:09,MISS Dydek 11' Jump Shot,,,,,4,100239,Margo Dydek,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,364,4,0,2,5:45 AM,1:08,Williams REBOUND (Off:7 Def:6),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,365,6,2,2,5:45 AM,1:08,,,Griffith S.FOUL (P3.PN),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,366,3,11,2,5:45 AM,1:08,Williams Free Throw 1 of 2 (11 PTS),,,78 - 71,-7,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,367,3,12,2,5:46 AM,1:08,MISS Williams Free Throw 2 of 2,,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,368,4,0,2,5:46 AM,1:05,,,Griffith REBOUND (Off:3 Def:10),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,369,6,1,2,5:46 AM,0:59,Azzi P.FOUL (P4.PN),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,370,3,11,2,5:46 AM,0:59,,,Campbell Free Throw 1 of 2 (10 PTS),79 - 71,-8,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,371,3,12,2,5:46 AM,0:59,,,Campbell Free Throw 2 of 2 (11 PTS),80 - 71,-9,5,100375,Edna Campbell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,372,1,1,2,5:47 AM,0:50,Williams 16' Jump Shot (13 PTS) (Hlede 4 AST),,,80 - 73,-7,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,373,6,1,2,5:47 AM,0:47,Hlede P.FOUL (P4.PN),,,,,4,100250,Korie Hlede,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,374,3,11,2,5:47 AM,0:47,,,Holland-Corn Free Throw 1 of 2 (24 PTS),81 - 73,-8,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,375,3,12,2,5:48 AM,0:47,,,MISS Holland-Corn Free Throw 2 of 2,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,376,4,0,2,5:48 AM,0:46,Williams REBOUND (Off:7 Def:7),,,,,4,100366,Natalie Williams,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,377,6,2,2,5:48 AM,0:33,,,Smith S.FOUL (P5.PN),,,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020100069,378,3,11,2,5:48 AM,0:33,Azzi Free Throw 1 of 2 (7 PTS),,,81 - 74,-7,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,380,9,2,2,5:48 AM,0:33,,,Monarchs Timeout: Short (Reg.0 Short 3),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,382,3,12,2,5:49 AM,0:33,Azzi Free Throw 2 of 2 (8 PTS),,,81 - 75,-6,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,383,6,1,2,5:50 AM,0:31,Azzi P.FOUL (P5.PN),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,384,3,11,2,5:50 AM,0:31,,,Smith Free Throw 1 of 2 (10 PTS),82 - 75,-7,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,385,3,12,2,5:50 AM,0:31,,,Smith Free Throw 2 of 2 (11 PTS),83 - 75,-8,5,100236,Tangela Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,386,2,1,2,5:51 AM,0:22,MISS Ferdinand-Harris  3PT Jump Shot,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,387,4,0,2,5:51 AM,0:20,Ferdinand-Harris REBOUND (Off:1 Def:1),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,388,2,1,2,5:51 AM,0:16,MISS Azzi 8' Jump Shot,,Holland-Corn BLOCK (2 BLK),,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0
+1020100069,389,4,0,2,5:51 AM,0:14,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,390,6,1,2,5:51 AM,0:14,Azzi P.FOUL (P6.PN),,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,391,8,0,2,5:51 AM,0:14,SUB: Consuegra FOR Azzi,,,,,4,100382,Jennifer Azzi,1611661319.0,Utah,Starzz,UTA,4,100688,Cara Consuegra,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0
+1020100069,392,3,11,2,5:51 AM,0:14,,,Griffith Free Throw 1 of 2 (13 PTS),84 - 75,-9,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,393,3,12,2,5:51 AM,0:14,,,Griffith Free Throw 2 of 2 (14 PTS),85 - 75,-10,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,394,9,1,2,5:52 AM,0:14,STARZZ Timeout: Regular (Full 1 Short 3),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100069,396,2,1,2,5:54 AM,0:10,MISS Ferdinand-Harris  3PT Jump Shot,,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,0,0,,,,,,0
+1020100069,397,4,0,2,5:54 AM,0:07,,,Griffith REBOUND (Off:3 Def:11),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,398,6,2,2,5:54 AM,0:03,Ferdinand-Harris S.FOUL (P2.PN),,,,,4,100685,Marie Ferdinand-Harris,1611661319.0,Utah,Starzz,UTA,0,0,,,,,,1,0,,,,,,0
+1020100069,399,3,11,2,5:54 AM,0:03,,,Holland-Corn Free Throw 1 of 2 (25 PTS),86 - 75,-11,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,400,3,12,2,5:54 AM,0:03,,,Holland-Corn Free Throw 2 of 2 (26 PTS),87 - 75,-12,5,100421,Kedra Holland-Corn,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020100069,402,13,0,2,5:55 AM,0:00,,End of 2nd Half (5:55 AM EST),,87 - 75,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

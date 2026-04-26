@@ -1,0 +1,427 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021200085,0,12,0,1,8:11 PM,10:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,1,10,0,1,8:12 PM,10:00,Jump Ball Appel Marinelli vs. Thomas: Tip to Hammon,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0
+1021200085,2,1,1,1,8:12 PM,9:51,Hammon 18' Jump Shot (2 PTS),,,0 - 2,2,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,3,5,1,1,8:12 PM,9:32,Young-Malcolm STEAL (1 STL),,Bonner Bad Pass Turnover (P1.T1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,4,5,1,1,8:13 PM,9:23,Hammon Bad Pass Turnover (P1.T1),,Bonner STEAL (1 STL),,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,5,1,1,1,8:13 PM,9:17,,,Bonner 17' Jump Shot (2 PTS),2 - 2,TIE,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,6,2,1,1,8:13 PM,8:53,MISS Appel Marinelli 3' Jump Shot,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,7,4,0,1,8:13 PM,8:52,Appel Marinelli REBOUND (Off:1 Def:0),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,8,6,2,1,8:13 PM,8:51,,,Prahalis S.FOUL (P1.T1),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,9,3,11,1,8:13 PM,8:51,Robinson Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,11,3,12,1,8:13 PM,8:51,Robinson Free Throw 2 of 2 (2 PTS),,,2 - 4,2,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,13,2,1,1,8:14 PM,8:43,,,MISS Prahalis 17' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,14,4,0,1,8:14 PM,8:42,Appel Marinelli REBOUND (Off:1 Def:1),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,15,2,1,1,8:14 PM,8:35,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,16,4,0,1,8:14 PM,8:34,,,Thomas REBOUND (Off:0 Def:1),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,17,2,1,1,8:14 PM,8:27,,,MISS Hornbuckle  3PT Jump Shot,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,18,4,0,1,8:14 PM,8:26,Robinson REBOUND (Off:0 Def:1),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,19,2,44,1,8:14 PM,8:13,MISS Young-Malcolm 3' Reverse Layup,,Thomas BLOCK (1 BLK),,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0
+1021200085,20,4,0,1,8:14 PM,8:12,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,21,2,1,1,8:15 PM,7:55,Young-Malcolm BLOCK (1 BLK),,MISS Bonner 3' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0
+1021200085,22,4,0,1,8:15 PM,7:53,Appel Marinelli REBOUND (Off:1 Def:2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,23,2,5,1,8:15 PM,7:45,MISS Hammon 2' Layup,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,24,4,0,1,8:15 PM,7:44,,,Hornbuckle REBOUND (Off:0 Def:1),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,26,2,47,1,8:15 PM,7:29,,,MISS Thomas 10' Turnaround Jump Shot,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,27,4,0,1,8:15 PM,7:28,Robinson REBOUND (Off:0 Def:2),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,28,1,1,1,8:16 PM,7:19,Robinson 14' Jump Shot (4 PTS),,,2 - 6,4,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,29,1,1,1,8:16 PM,7:03,,,Hornbuckle 14' Jump Shot (2 PTS),4 - 6,2,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,31,6,1,1,8:16 PM,6:47,,,Thomas P.FOUL (P1.T2),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,33,2,1,1,8:17 PM,6:39,MISS Christon 24' 3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,34,4,0,1,8:17 PM,6:38,,,Houston REBOUND (Off:0 Def:1),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,35,5,1,1,8:17 PM,6:32,Robinson STEAL (1 STL),,Houston Bad Pass Turnover (P1.T2),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,36,5,2,1,8:17 PM,6:23,Young-Malcolm Lost Ball Turnover (P1.T2),,Hornbuckle STEAL (1 STL),,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,37,1,1,1,8:17 PM,6:17,,,Bonner  3PT Jump Shot (5 PTS) (Prahalis 1 AST),7 - 6,-1,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,38,6,2,1,8:18 PM,5:58,,,Prahalis S.FOUL (P2.T3),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,39,3,11,1,8:18 PM,5:58,Christon Free Throw 1 of 2 (1 PTS),,,7 - 7,TIE,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,41,3,12,1,8:18 PM,5:58,Christon Free Throw 2 of 2 (2 PTS),,,7 - 8,1,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,43,1,1,1,8:18 PM,5:41,,,Bonner  3PT Jump Shot (8 PTS) (Hornbuckle 1 AST),10 - 8,-2,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,44,2,1,1,8:19 PM,5:31,MISS Robinson 17' Jump Shot,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,45,4,0,1,8:19 PM,5:30,,,Bonner REBOUND (Off:0 Def:1),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,46,5,1,1,8:19 PM,5:20,Young-Malcolm STEAL (2 STL),,Bonner Bad Pass Turnover (P2.T3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,47,2,1,1,8:19 PM,5:14,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,48,4,0,1,8:19 PM,5:12,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,49,2,1,1,8:20 PM,4:51,,,MISS Prahalis 13' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,50,4,0,1,8:20 PM,4:50,,,Thomas REBOUND (Off:1 Def:1),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,51,6,2,1,8:20 PM,4:46,Christon S.FOUL (P1.T1),,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,52,9,4,1,8:20 PM,4:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,53,8,0,1,8:23 PM,4:46,,,SUB: Warley-Talbert FOR Thomas,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,54,3,11,1,8:23 PM,4:46,,,Bonner Free Throw 1 of 2 (9 PTS),11 - 8,-3,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,56,3,12,1,8:23 PM,4:46,,,Bonner Free Throw 2 of 2 (10 PTS),12 - 8,-4,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,58,2,5,1,8:23 PM,4:26,MISS Hammon 1' Layup,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,59,4,0,1,8:23 PM,4:25,Young-Malcolm REBOUND (Off:1 Def:0),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,61,5,1,1,8:24 PM,4:09,Robinson Bad Pass Turnover (P1.T3),,Houston STEAL (1 STL),,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,62,5,6,1,8:24 PM,4:03,,,Bonner Double Dribble Turnover (P3.T4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021200085,64,8,0,1,8:24 PM,4:03,SUB: Adams FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,66,2,78,1,8:24 PM,3:49,MISS Hammon 10' Floating Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,67,4,0,1,8:24 PM,3:47,,,Bonner REBOUND (Off:0 Def:2),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,69,1,79,1,8:25 PM,3:28,,,Bonner 9' Pullup Jump Shot (12 PTS),14 - 8,-6,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,70,6,2,1,8:25 PM,3:11,,,Houston S.FOUL (P1.T4),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,71,3,11,1,8:25 PM,3:11,MISS Young-Malcolm Free Throw 1 of 2,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,72,4,1,1,8:25 PM,3:11,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,73,8,0,1,8:26 PM,3:11,,,SUB: Sanford FOR Houston,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,74,8,0,1,8:26 PM,3:11,,,SUB: Gray-Lawson FOR Hornbuckle,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,5,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,75,3,12,1,8:26 PM,3:11,Young-Malcolm Free Throw 2 of 2 (1 PTS),,,14 - 9,-5,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,77,2,1,1,8:26 PM,2:51,,,MISS Gray-Lawson  3PT Jump Shot,,,5,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,78,4,0,1,8:26 PM,2:50,,,Warley-Talbert REBOUND (Off:1 Def:0),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,79,1,5,1,8:26 PM,2:48,,,Warley-Talbert 2' Layup (2 PTS),16 - 9,-7,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,80,9,1,1,8:26 PM,2:41,SILVER STARS Timeout: Regular (Full 1 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,81,8,0,1,8:28 PM,2:41,SUB: Perkins FOR Christon,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,83,2,5,1,8:28 PM,2:28,MISS Adams 1' Layup,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,85,4,0,1,8:28 PM,2:26,Adams REBOUND (Off:1 Def:0),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,84,1,1,1,8:28 PM,2:26,Adams 6' Jump Shot (2 PTS),,,16 - 11,-5,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,86,1,84,1,8:29 PM,2:14,,,Bonner 8' Running Bank Shot (14 PTS) (Sanford 1 AST),18 - 11,-7,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,87,6,2,1,8:29 PM,2:14,Perkins S.FOUL (P1.T2),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,88,8,0,1,8:29 PM,2:14,SUB: Johnson FOR Hammon,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,89,3,10,1,8:29 PM,2:14,,,Bonner Free Throw 1 of 1 (15 PTS),19 - 11,-8,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,91,1,5,1,8:30 PM,1:56,Young-Malcolm 1' Layup (3 PTS) (Johnson 1 AST),,,19 - 13,-6,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,92,2,5,1,8:30 PM,1:36,Adams BLOCK (1 BLK),,MISS Warley-Talbert 2' Layup,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0
+1021200085,94,4,0,1,8:30 PM,1:36,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,93,10,0,1,8:30 PM,1:36,Jump Ball Adams vs. Warley-Talbert: Tip to Bonner,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0
+1021200085,95,2,1,1,8:30 PM,1:28,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,96,4,0,1,8:30 PM,1:28,Young-Malcolm REBOUND (Off:1 Def:1),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,97,5,2,1,8:31 PM,1:21,Perkins Lost Ball Turnover (P1.T4),,Bonner STEAL (2 STL),,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,98,2,1,1,8:31 PM,1:04,,,MISS Prahalis 15' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,99,4,0,1,8:31 PM,1:03,Young-Malcolm REBOUND (Off:1 Def:2),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,100,1,1,1,8:31 PM,1:00,Perkins 3' Jump Shot (2 PTS) (Robinson 1 AST),,,19 - 15,-4,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,101,6,2,1,8:31 PM,1:00,,,Bonner S.FOUL (P1.PN),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,102,3,10,1,8:31 PM,1:00,Perkins Free Throw 1 of 1 (3 PTS),,,19 - 16,-3,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,104,6,2,1,8:32 PM,0:49,Perkins S.FOUL (P2.T3),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,105,3,11,1,8:32 PM,0:49,,,Bonner Free Throw 1 of 2 (16 PTS),20 - 16,-4,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,107,8,0,1,8:32 PM,0:49,,,SUB: Hornbuckle FOR Prahalis,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,108,3,12,1,8:32 PM,0:49,,,Bonner Free Throw 2 of 2 (17 PTS),21 - 16,-5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,110,5,1,1,8:33 PM,0:33,Perkins Bad Pass Turnover (P2.T5),,Hornbuckle STEAL (2 STL),,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,111,1,5,1,8:33 PM,0:29,,,Bonner 3' Layup (19 PTS) (Hornbuckle 2 AST),23 - 16,-7,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,112,5,13,1,8:33 PM,0:14,SILVER STARS Turnover: Backcourt (T#6),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021200085,114,2,1,1,8:34 PM,0:03,,,MISS Bonner 18' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,115,4,0,1,8:34 PM,0:01,Perkins REBOUND (Off:0 Def:1),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,116,2,46,1,8:34 PM,0:00,MISS Perkins 24' 3PT Running Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,117,4,0,1,8:34 PM,0:00,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,118,13,0,1,8:34 PM,0:00,,End of 1st Period (8:34 PM EST),,23 - 16,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,120,12,0,2,8:37 PM,10:00,,Start of 2nd Period (8:37 PM EST),,23 - 16,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,121,2,66,2,8:37 PM,9:44,,,MISS Sanford 11' Jump Bank Shot,,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,123,4,0,2,8:37 PM,9:43,,,Hornbuckle REBOUND (Off:1 Def:1),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,122,2,5,2,8:37 PM,9:43,,,MISS Hornbuckle 2' Layup,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,124,4,0,2,8:37 PM,9:41,Young-Malcolm REBOUND (Off:1 Def:3),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,125,2,47,2,8:37 PM,9:27,MISS Young-Malcolm 6' Turnaround Jump Shot,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,126,4,0,2,8:37 PM,9:26,Young-Malcolm REBOUND (Off:2 Def:3),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,127,2,1,2,8:38 PM,9:11,MISS Adams  3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,128,4,0,2,8:38 PM,9:09,,,Hornbuckle REBOUND (Off:1 Def:2),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,129,1,1,2,8:38 PM,8:52,,,Houston 10' Jump Shot (2 PTS),25 - 16,-9,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,130,1,1,2,8:38 PM,8:31,Johnson 17' Jump Shot (2 PTS) (Young-Malcolm 1 AST),,,25 - 18,-7,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,131,5,40,2,8:38 PM,8:25,,,Houston Out of Bounds Lost Ball Turnover (P2.T5),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,132,8,0,2,8:38 PM,8:25,,,SUB: Thomas FOR Warley-Talbert,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,133,7,5,2,8:39 PM,8:07,,,Hornbuckle Violation:Kicked Ball,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021200085,134,2,1,2,8:39 PM,7:54,MISS Adams 11' Jump Shot,,Sanford BLOCK (1 BLK),,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0
+1021200085,135,4,0,2,8:39 PM,7:52,Adams REBOUND (Off:2 Def:0),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,136,2,1,2,8:40 PM,7:49,MISS Perkins  3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,137,4,0,2,8:40 PM,7:48,,,Thomas REBOUND (Off:1 Def:2),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,138,2,1,2,8:40 PM,7:37,,,MISS Sanford 14' Jump Shot,,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,139,4,0,2,8:40 PM,7:36,,,Gray-Lawson REBOUND (Off:1 Def:0),,,5,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,140,6,1,2,8:40 PM,7:35,Adams P.FOUL (P1.T1),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,141,3,11,2,8:40 PM,7:35,,,MISS Thomas Free Throw 1 of 2,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,142,4,1,2,8:40 PM,7:35,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,143,8,0,2,8:40 PM,7:35,SUB: Hammon FOR Perkins,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,144,8,0,2,8:40 PM,7:35,SUB: Morrison FOR Young-Malcolm,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,4,203001,Ziomara Morrison,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,145,8,0,2,8:40 PM,7:35,,,SUB: Warley-Talbert FOR Sanford,,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,146,3,12,2,8:40 PM,7:35,,,Thomas Free Throw 2 of 2 (1 PTS),26 - 18,-8,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,148,5,2,2,8:41 PM,7:17,Johnson Lost Ball Turnover (P1.T7),,Gray-Lawson STEAL (1 STL),,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,5,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,149,2,1,2,8:41 PM,7:11,,,MISS Houston  3PT Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,150,4,0,2,8:41 PM,7:10,Johnson REBOUND (Off:0 Def:1),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,151,1,79,2,8:41 PM,7:04,Johnson 12' Pullup Jump Shot (4 PTS),,,26 - 20,-6,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,152,2,1,2,8:42 PM,6:42,,,MISS Hornbuckle 17' Jump Shot,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,153,4,0,2,8:42 PM,6:41,Bevilaqua REBOUND (Off:0 Def:1),,,,,4,100284,Tully Bevilaqua,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,154,6,2,2,8:42 PM,6:37,,,Houston S.FOUL (P2.T1),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,155,3,11,2,8:42 PM,6:37,MISS Johnson Free Throw 1 of 2,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,156,4,1,2,8:42 PM,6:37,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,157,8,0,2,8:42 PM,6:37,,,SUB: Prahalis FOR Hornbuckle,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,158,8,0,2,8:42 PM,6:37,,,SUB: Bonner FOR Gray-Lawson,,,5,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,159,3,12,2,8:42 PM,6:37,Johnson Free Throw 2 of 2 (5 PTS),,,26 - 21,-5,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,161,5,1,2,8:43 PM,6:22,,,Bonner Bad Pass Turnover (P4.T6),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,162,2,1,2,8:43 PM,6:12,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,163,4,0,2,8:43 PM,6:11,,,Warley-Talbert REBOUND (Off:1 Def:1),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,164,2,1,2,8:43 PM,5:54,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,165,4,0,2,8:43 PM,5:53,Johnson REBOUND (Off:0 Def:2),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,166,6,2,2,8:43 PM,5:47,,,Thomas S.FOUL (P2.T2),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,167,9,1,2,8:44 PM,5:47,SILVER STARS Timeout: Regular (Full 2 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,169,3,11,2,8:46 PM,5:47,Adams Free Throw 1 of 2 (3 PTS),,,26 - 22,-4,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,171,3,12,2,8:46 PM,5:47,Adams Free Throw 2 of 2 (4 PTS),,,26 - 23,-3,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,173,2,1,2,8:47 PM,5:33,,,MISS Houston 18' Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,174,4,0,2,8:47 PM,5:32,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,175,6,1,2,8:47 PM,5:25,,,Prahalis P.FOUL (P3.T3),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,4,100284,Tully Bevilaqua,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,176,2,1,2,8:47 PM,5:19,MISS Adams  3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,177,4,0,2,8:47 PM,5:18,,,Warley-Talbert REBOUND (Off:1 Def:2),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,178,5,4,2,8:47 PM,5:08,,,Houston Traveling Turnover (P3.T7),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021200085,179,2,1,2,8:48 PM,4:56,MISS Johnson  3PT Jump Shot,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,180,4,0,2,8:48 PM,4:55,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,181,8,0,2,8:48 PM,4:55,SUB: Robinson FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661319.0,San Antonio,Silver Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,182,8,0,2,8:48 PM,4:55,SUB: Appel Marinelli FOR Adams,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,183,2,1,2,8:48 PM,4:44,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,184,4,0,2,8:48 PM,4:43,,,Thomas REBOUND (Off:1 Def:3),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,185,2,1,2,8:49 PM,4:28,,,MISS Houston  3PT Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,186,4,0,2,8:49 PM,4:27,,,Thomas REBOUND (Off:2 Def:3),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,187,2,5,2,8:49 PM,4:25,Morrison BLOCK (1 BLK),,MISS Thomas 2' Layup,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,203001,Ziomara Morrison,1611661319.0,San Antonio,Silver Stars,SAN,0
+1021200085,188,4,0,2,8:49 PM,4:25,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,189,5,11,2,8:49 PM,4:00,SILVER STARS Turnover: Shot Clock (T#8),,,,,2,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021200085,190,1,84,2,8:50 PM,3:49,,,Bonner 8' Running Bank Shot (21 PTS),28 - 23,-5,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,191,2,5,2,8:50 PM,3:28,MISS Johnson 2' Layup,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,192,4,0,2,8:50 PM,3:27,,,Warley-Talbert REBOUND (Off:1 Def:3),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,193,1,5,2,8:50 PM,3:24,,,Prahalis 1' Layup (2 PTS),30 - 23,-7,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,194,6,2,2,8:50 PM,3:24,Robinson S.FOUL (P1.T2),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,195,8,0,2,8:50 PM,3:24,SUB: Christon FOR Johnson,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,196,8,0,2,8:50 PM,3:24,SUB: Young-Malcolm FOR Morrison,,,,,4,203001,Ziomara Morrison,1611661319.0,San Antonio,Silver Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,197,3,10,2,8:51 PM,3:24,,,Prahalis Free Throw 1 of 1 (3 PTS),31 - 23,-8,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,199,2,1,2,8:51 PM,3:00,MISS Hammon 3' Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,201,4,0,2,8:51 PM,2:58,Appel Marinelli REBOUND (Off:2 Def:2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,200,2,5,2,8:51 PM,2:58,MISS Appel Marinelli 2' Layup,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,202,4,0,2,8:51 PM,2:56,,,Thomas REBOUND (Off:2 Def:4),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,203,6,1,2,8:51 PM,2:56,Young-Malcolm P.FOUL (P1.T3),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,204,9,1,2,8:51 PM,2:56,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,206,8,0,2,8:54 PM,2:56,,,SUB: Hornbuckle FOR Prahalis,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,207,1,1,2,8:54 PM,2:36,,,Bonner 16' Jump Shot (23 PTS) (Houston 1 AST),33 - 23,-10,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,208,1,5,2,8:55 PM,2:18,Young-Malcolm 1' Layup (5 PTS),,,33 - 25,-8,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,209,6,2,2,8:55 PM,2:18,,,Warley-Talbert S.FOUL (P1.T4),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,210,8,0,2,8:55 PM,2:18,SUB: Perkins FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,211,3,10,2,8:55 PM,2:18,MISS Young-Malcolm Free Throw 1 of 1,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,213,4,0,2,8:55 PM,2:16,Christon REBOUND (Off:1 Def:0),,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,214,2,5,2,8:55 PM,2:09,MISS Young-Malcolm 2' Layup,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,215,4,0,2,8:55 PM,2:08,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,216,2,1,2,8:56 PM,1:56,MISS Young-Malcolm 17' Jump Shot,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,217,4,0,2,8:56 PM,1:55,,,Warley-Talbert REBOUND (Off:1 Def:4),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,218,1,47,2,8:56 PM,1:44,,,Bonner 10' Turnaround Jump Shot (25 PTS),35 - 25,-10,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,219,2,1,2,8:56 PM,1:19,MISS Hammon 25' 3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,220,4,0,2,8:57 PM,1:18,Robinson REBOUND (Off:1 Def:2),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,221,1,1,2,8:57 PM,1:13,Perkins  3PT Jump Shot (6 PTS) (Robinson 2 AST),,,35 - 28,-7,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,222,5,1,2,8:57 PM,1:01,Young-Malcolm STEAL (3 STL),,Warley-Talbert Bad Pass Turnover (P1.T8),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,223,1,1,2,8:57 PM,0:46,Hammon  3PT Jump Shot (5 PTS),,,35 - 31,-4,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,224,1,1,2,8:57 PM,0:31,,,Houston  3PT Jump Shot (5 PTS),38 - 31,-7,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,225,2,1,2,8:58 PM,0:07,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,226,4,0,2,8:58 PM,0:06,,,Hornbuckle REBOUND (Off:1 Def:3),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,227,9,1,2,8:58 PM,0:06,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,229,8,0,2,8:59 PM,0:06,SUB: Bevilaqua FOR Hammon,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,4,100284,Tully Bevilaqua,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,230,8,0,2,8:59 PM,0:06,SUB: Appel Marinelli FOR Perkins,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,231,8,0,2,8:59 PM,0:06,,,SUB: Prahalis FOR Thomas,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,232,2,1,2,8:59 PM,0:00,,,MISS Prahalis 16' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,233,4,0,2,9:00 PM,0:00,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,234,13,0,2,9:00 PM,0:00,,End of 2nd Period (9:00 PM EST),,38 - 31,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,236,12,0,3,9:16 PM,10:00,,Start of 3rd Period (9:16 PM EST),,38 - 31,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,237,2,66,3,9:16 PM,9:46,,,MISS Houston 9' Jump Bank Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,238,4,0,3,9:16 PM,9:45,Christon REBOUND (Off:1 Def:1),,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,239,1,1,3,9:17 PM,9:35,Young-Malcolm 9' Jump Shot (7 PTS) (Christon 1 AST),,,38 - 33,-5,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,240,1,5,3,9:17 PM,9:14,,,Thomas 2' Layup (3 PTS) (Houston 2 AST),40 - 33,-7,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,241,6,2,3,9:17 PM,9:08,,,Houston S.FOUL (P3.T1),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,242,3,11,3,9:18 PM,9:08,MISS Young-Malcolm Free Throw 1 of 2,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,243,4,1,3,9:18 PM,9:08,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,244,3,12,3,9:18 PM,9:08,Young-Malcolm Free Throw 2 of 2 (8 PTS),,,40 - 34,-6,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,246,1,78,3,9:18 PM,8:56,,,Prahalis 9' Floating Jump Shot (5 PTS),42 - 34,-8,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,247,2,1,3,9:18 PM,8:46,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,248,4,0,3,9:18 PM,8:45,,,Hornbuckle REBOUND (Off:1 Def:4),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,249,2,1,3,9:18 PM,8:39,,,MISS Bonner 11' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,251,4,0,3,9:19 PM,8:39,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,250,10,0,3,9:19 PM,8:39,Jump Ball Appel Marinelli vs. Hornbuckle: Tip to,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,3,1611661317,,,,,,0
+1021200085,252,2,1,3,9:19 PM,8:31,,,MISS Prahalis 19' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,253,4,0,3,9:19 PM,8:30,,,Bonner REBOUND (Off:1 Def:2),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,254,2,1,3,9:19 PM,8:25,,,MISS Hornbuckle  3PT Jump Shot,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,255,4,0,3,9:19 PM,8:23,Young-Malcolm REBOUND (Off:2 Def:4),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,256,2,1,3,9:20 PM,8:09,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,257,4,0,3,9:20 PM,8:08,Young-Malcolm REBOUND (Off:3 Def:4),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,258,2,5,3,9:20 PM,8:06,MISS Young-Malcolm 1' Layup,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,259,4,0,3,9:20 PM,8:05,,,Thomas REBOUND (Off:2 Def:5),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,260,6,2,3,9:20 PM,7:58,Young-Malcolm S.FOUL (P2.T1),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,261,3,11,3,9:20 PM,7:58,,,Bonner Free Throw 1 of 2 (26 PTS),43 - 34,-9,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,263,8,0,3,9:20 PM,7:58,SUB: Johnson FOR Christon,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,264,8,0,3,9:20 PM,7:58,SUB: Perkins FOR Robinson,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,265,8,0,3,9:20 PM,7:58,SUB: Adams FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,266,3,12,3,9:21 PM,7:58,,,Bonner Free Throw 2 of 2 (27 PTS),44 - 34,-10,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,268,2,79,3,9:21 PM,7:43,MISS Perkins 16' Pullup Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,269,4,0,3,9:21 PM,7:42,,,Bonner REBOUND (Off:1 Def:3),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,270,2,46,3,9:21 PM,7:23,,,MISS Bonner 15' Running Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,271,4,0,3,9:21 PM,7:21,Young-Malcolm REBOUND (Off:3 Def:5),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,272,2,1,3,9:22 PM,7:07,MISS Adams 3' Jump Shot,,Thomas BLOCK (2 BLK),,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0
+1021200085,273,4,0,3,9:22 PM,7:07,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,274,2,1,3,9:22 PM,6:57,MISS Adams 24' 3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,275,4,0,3,9:22 PM,6:57,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,277,1,1,3,9:23 PM,6:46,,,Prahalis  3PT Jump Shot (8 PTS),47 - 34,-13,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,278,9,1,3,9:23 PM,6:37,SILVER STARS Timeout: Regular (Full 3 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,281,1,5,3,9:26 PM,6:22,Adams 2' Layup (6 PTS),,,47 - 36,-11,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,282,2,1,3,9:26 PM,6:00,,,MISS Houston  3PT Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,283,4,0,3,9:26 PM,5:59,Young-Malcolm REBOUND (Off:3 Def:6),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,284,1,5,3,9:26 PM,5:51,Adams 2' Layup (8 PTS) (Hammon 1 AST),,,47 - 38,-9,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,285,6,2,3,9:26 PM,5:32,Young-Malcolm S.FOUL (P3.T2),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,286,3,11,3,9:27 PM,5:32,,,Bonner Free Throw 1 of 2 (28 PTS),48 - 38,-10,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,288,3,12,3,9:27 PM,5:32,,,Bonner Free Throw 2 of 2 (29 PTS),49 - 38,-11,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,290,6,2,3,9:27 PM,5:17,,,Thomas S.FOUL (P3.T2),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,291,3,11,3,9:28 PM,5:17,Adams Free Throw 1 of 2 (9 PTS),,,49 - 39,-10,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,293,8,0,3,9:28 PM,5:17,,,SUB: Sanford FOR Thomas,,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,294,3,12,3,9:28 PM,5:17,Adams Free Throw 2 of 2 (10 PTS),,,49 - 40,-9,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,296,6,2,3,9:28 PM,5:12,Perkins S.FOUL (P3.T3),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,297,3,11,3,9:29 PM,5:12,,,Prahalis Free Throw 1 of 2 (9 PTS),50 - 40,-10,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,299,3,12,3,9:29 PM,5:12,,,MISS Prahalis Free Throw 2 of 2,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,301,4,0,3,9:29 PM,5:10,Young-Malcolm REBOUND (Off:3 Def:7),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,302,1,42,3,9:29 PM,4:59,Johnson 1' Driving Layup (7 PTS),,,50 - 42,-8,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,303,1,46,3,9:29 PM,4:41,,,Houston 5' Running Jump Shot (7 PTS) (Prahalis 2 AST),52 - 42,-10,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,304,2,1,3,9:30 PM,4:22,MISS Perkins 14' Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,305,4,0,3,9:30 PM,4:21,,,Bonner REBOUND (Off:1 Def:4),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,306,2,1,3,9:30 PM,4:13,,,MISS Houston  3PT Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,307,4,0,3,9:30 PM,4:12,Johnson REBOUND (Off:0 Def:3),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,308,1,86,3,9:30 PM,3:56,Young-Malcolm 7' Turnaround Fadeaway (10 PTS) (Hammon 2 AST),,,52 - 44,-8,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,309,5,1,3,9:30 PM,3:40,Johnson STEAL (1 STL),,Bonner Bad Pass Turnover (P5.T9),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,310,2,5,3,9:30 PM,3:35,MISS Perkins 2' Layup,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,311,4,0,3,9:31 PM,3:33,,,Houston REBOUND (Off:0 Def:2),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,312,5,1,3,9:31 PM,3:25,Adams STEAL (1 STL),,Houston Bad Pass Turnover (P4.T10),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,313,6,29,3,9:31 PM,3:20,,,Prahalis Shooting Block Foul (P4.T3),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,314,3,11,3,9:31 PM,3:20,Johnson Free Throw 1 of 2 (8 PTS),,,52 - 45,-7,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,316,8,0,3,9:31 PM,3:20,,,SUB: Warley-Talbert FOR Houston,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,317,3,12,3,9:31 PM,3:20,Johnson Free Throw 2 of 2 (9 PTS),,,52 - 46,-6,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,319,2,1,3,9:32 PM,3:01,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,320,4,0,3,9:32 PM,3:00,Young-Malcolm REBOUND (Off:3 Def:8),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,321,2,1,3,9:32 PM,2:51,MISS Perkins  3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,322,4,0,3,9:32 PM,2:51,Johnson REBOUND (Off:1 Def:3),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,323,1,1,3,9:32 PM,2:46,Adams 24' 3PT Jump Shot (13 PTS) (Johnson 2 AST),,,52 - 49,-3,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,324,6,4,3,9:32 PM,2:36,,,Hornbuckle OFF.Foul (P1),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,325,5,5,3,9:32 PM,2:36,,,Hornbuckle Foul Turnover (P1.T11),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021200085,326,7,5,3,9:33 PM,2:24,,,Hornbuckle Violation:Kicked Ball,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,327,6,1,3,9:33 PM,2:16,,,Hornbuckle P.FOUL (P2.T4),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,328,2,1,3,9:34 PM,2:07,MISS Perkins 6' Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,329,4,0,3,9:34 PM,2:06,Johnson REBOUND (Off:2 Def:3),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,330,2,1,3,9:34 PM,2:03,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,331,4,0,3,9:34 PM,2:02,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,332,1,5,3,9:34 PM,1:53,Young-Malcolm 3' Layup (12 PTS),,,52 - 51,-1,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,333,6,4,3,9:34 PM,1:47,,,Sanford OFF.Foul (P1),,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,334,5,5,3,9:34 PM,1:47,,,Sanford Foul Turnover (P1.T12),,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021200085,336,2,66,3,9:35 PM,1:34,MISS Young-Malcolm 9' Jump Bank Shot,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,337,4,0,3,9:35 PM,1:33,,,Prahalis REBOUND (Off:0 Def:1),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,338,2,1,3,9:35 PM,1:27,,,MISS Hornbuckle 3' Jump Shot,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,339,4,0,3,9:35 PM,1:26,,,Warley-Talbert REBOUND (Off:2 Def:4),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,340,6,2,3,9:35 PM,1:26,Johnson S.FOUL (P1.T4),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,341,3,11,3,9:35 PM,1:26,,,MISS Warley-Talbert Free Throw 1 of 2,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,342,4,1,3,9:35 PM,1:26,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,343,3,12,3,9:35 PM,1:26,,,MISS Warley-Talbert Free Throw 2 of 2,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,345,4,0,3,9:36 PM,1:25,Young-Malcolm REBOUND (Off:3 Def:9),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,346,2,1,3,9:36 PM,1:11,MISS Adams  3PT Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,347,4,0,3,9:36 PM,1:10,,,Prahalis REBOUND (Off:0 Def:2),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,348,2,1,3,9:36 PM,0:57,,,MISS Prahalis 12' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,349,4,0,3,9:36 PM,0:56,Perkins REBOUND (Off:0 Def:2),,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,350,6,26,3,9:36 PM,0:45,Adams Offensive Charge Foul (P2.PN),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,351,5,5,3,9:36 PM,0:45,Adams Foul Turnover (P1.T9),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,1,0,,,,,,0
+1021200085,352,8,0,3,9:37 PM,0:45,,,SUB: Thomas FOR Sanford,,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,353,2,1,3,9:37 PM,0:20,,,MISS Bonner 16' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,354,4,0,3,9:37 PM,0:20,,,Hornbuckle REBOUND (Off:2 Def:4),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,355,1,5,3,9:37 PM,0:19,,,Hornbuckle 2' Layup (4 PTS),54 - 51,-3,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,356,2,1,3,9:38 PM,0:01,MISS Perkins  3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,357,4,0,3,9:38 PM,0:00,,,Bonner REBOUND (Off:1 Def:5),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,358,13,0,3,9:38 PM,0:00,,End of 3rd Period (9:38 PM EST),,54 - 51,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,360,12,0,4,9:40 PM,10:00,,Start of 4th Period (9:40 PM EST),,54 - 51,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,361,1,79,4,9:41 PM,9:39,Adams 17' Pullup Jump Shot (15 PTS) (Christon 2 AST),,,54 - 53,-1,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,362,1,1,4,9:41 PM,9:19,,,Houston  3PT Jump Shot (10 PTS),57 - 53,-4,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,363,6,2,4,9:41 PM,9:11,,,Hornbuckle S.FOUL (P3.T1),,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,364,3,11,4,9:42 PM,9:11,Christon Free Throw 1 of 2 (3 PTS),,,57 - 54,-3,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,366,3,12,4,9:42 PM,9:11,MISS Christon Free Throw 2 of 2,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,368,4,0,4,9:42 PM,9:09,Adams REBOUND (Off:3 Def:0),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,369,2,5,4,9:42 PM,9:07,MISS Adams 1' Layup,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,370,4,0,4,9:42 PM,9:06,Young-Malcolm REBOUND (Off:4 Def:9),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,371,1,1,4,9:42 PM,9:00,Adams 17' Jump Shot (17 PTS) (Robinson 3 AST),,,57 - 56,-1,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,372,5,1,4,9:42 PM,8:55,Robinson STEAL (2 STL),,Warley-Talbert Bad Pass Turnover (P2.T13),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,373,2,1,4,9:42 PM,8:49,MISS Johnson  3PT Jump Shot,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,374,4,0,4,9:42 PM,8:48,,,Prahalis REBOUND (Off:0 Def:3),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,375,1,1,4,9:42 PM,8:36,,,Houston  3PT Jump Shot (13 PTS) (Prahalis 3 AST),60 - 56,-4,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,376,2,1,4,9:43 PM,8:20,MISS Adams 16' Jump Shot,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,377,4,0,4,9:43 PM,8:19,Johnson REBOUND (Off:3 Def:3),,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,378,5,2,4,9:43 PM,8:16,Johnson Lost Ball Turnover (P2.T10),,Houston STEAL (2 STL),,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,379,2,46,4,9:43 PM,8:11,,,MISS Prahalis 7' Running Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,380,4,0,4,9:43 PM,8:11,,,Warley-Talbert REBOUND (Off:3 Def:4),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,381,6,2,4,9:43 PM,8:11,Adams S.FOUL (P3.T1),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,382,3,11,4,9:43 PM,8:11,,,MISS Warley-Talbert Free Throw 1 of 2,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,383,4,1,4,9:43 PM,8:11,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,384,8,0,4,9:43 PM,8:11,SUB: Appel Marinelli FOR Young-Malcolm,,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,385,8,0,4,9:44 PM,8:11,SUB: Hammon FOR Johnson,,,,,4,203018,Shenise Johnson,1611661319.0,San Antonio,Silver Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,386,8,0,4,9:44 PM,8:11,,,SUB: Bonner FOR Hornbuckle,,,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,387,3,12,4,9:44 PM,8:11,,,Warley-Talbert Free Throw 2 of 2 (3 PTS),61 - 56,-5,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,389,2,1,4,9:44 PM,7:58,MISS Hammon 17' Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,390,4,0,4,9:44 PM,7:57,Appel Marinelli REBOUND (Off:3 Def:2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,391,2,1,4,9:44 PM,7:53,MISS Hammon 24' 3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,392,4,0,4,9:44 PM,7:52,,,Houston REBOUND (Off:0 Def:3),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,393,2,1,4,9:44 PM,7:42,,,MISS Houston 24' 3PT Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,394,4,0,4,9:44 PM,7:41,Robinson REBOUND (Off:1 Def:3),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,395,1,1,4,9:45 PM,7:36,Robinson 13' Jump Shot (6 PTS),,,61 - 58,-3,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,396,2,1,4,9:45 PM,7:20,,,MISS Prahalis 14' Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,397,4,0,4,9:45 PM,7:20,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,398,6,3,4,9:45 PM,7:20,,,Warley-Talbert L.B.FOUL (P2.T2),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,399,1,1,4,9:45 PM,7:08,Hammon  3PT Jump Shot (8 PTS) (Christon 3 AST),,,61 - 61,TIE,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,401,2,1,4,9:46 PM,6:50,,,MISS Houston  3PT Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,402,4,0,4,9:46 PM,6:49,Appel Marinelli REBOUND (Off:3 Def:3),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,403,1,5,4,9:46 PM,6:43,Adams 1' Layup (19 PTS) (Hammon 3 AST),,,61 - 63,2,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,404,9,1,4,9:46 PM,6:37,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,406,2,1,4,9:49 PM,6:26,,,MISS Bonner 11' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,407,4,0,4,9:49 PM,6:23,Adams REBOUND (Off:3 Def:1),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,408,5,1,4,9:49 PM,6:22,Robinson Bad Pass Turnover (P2.T11),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,409,5,1,4,9:49 PM,6:21,Hammon STEAL (1 STL),,Warley-Talbert Bad Pass Turnover (P3.T14),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,410,1,5,4,9:49 PM,6:21,Hammon 2' Layup (10 PTS),,,61 - 65,4,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,411,6,2,4,9:49 PM,6:21,,,Prahalis S.FOUL (P5.T3),,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,412,8,0,4,9:50 PM,6:21,,,SUB: Sanford FOR Warley-Talbert,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,413,3,10,4,9:50 PM,6:21,Hammon Free Throw 1 of 1 (11 PTS),,,61 - 66,5,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,415,2,1,4,9:50 PM,6:04,,,MISS Bonner 11' Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,416,4,0,4,9:50 PM,6:02,Christon REBOUND (Off:1 Def:2),,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,417,1,5,4,9:50 PM,5:56,Adams 2' Layup (21 PTS) (Robinson 4 AST),,,61 - 68,7,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,418,1,1,4,9:51 PM,5:36,,,Houston  3PT Jump Shot (16 PTS) (Prahalis 4 AST),64 - 68,4,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,419,2,1,4,9:51 PM,5:13,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,420,4,0,4,9:51 PM,5:12,,,Bonner REBOUND (Off:1 Def:6),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,421,1,46,4,9:51 PM,5:03,,,Bonner 8' Running Jump Shot (31 PTS),66 - 68,2,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,423,9,1,4,9:51 PM,4:55,SILVER STARS Timeout: Regular (Full 4 Short 0),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,425,8,0,4,9:53 PM,4:55,SUB: Young-Malcolm FOR Adams,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,426,6,2,4,9:55 PM,4:40,,,Sanford S.FOUL (P2.T4),,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,427,3,11,4,9:55 PM,4:40,Hammon Free Throw 1 of 2 (12 PTS),,,66 - 69,3,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,429,3,12,4,9:55 PM,4:40,Hammon Free Throw 2 of 2 (13 PTS),,,66 - 70,4,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,431,2,47,4,9:55 PM,4:22,,,MISS Houston 15' Turnaround Jump Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,432,4,0,4,9:55 PM,4:21,Robinson REBOUND (Off:1 Def:4),,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,433,2,1,4,9:55 PM,4:14,MISS Christon  3PT Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,434,4,0,4,9:56 PM,4:12,,,Thomas REBOUND (Off:2 Def:6),,,5,202663,Krystal Thomas,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,435,6,2,4,9:56 PM,3:55,Appel Marinelli S.FOUL (P1.T2),,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,436,3,11,4,9:56 PM,3:55,,,Bonner Free Throw 1 of 2 (32 PTS),67 - 70,3,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,438,8,0,4,9:56 PM,3:55,SUB: Adams FOR Appel Marinelli,,,,,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Silver Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,439,8,0,4,9:56 PM,3:55,SUB: Perkins FOR Christon,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,440,3,12,4,9:57 PM,3:55,,,Bonner Free Throw 2 of 2 (33 PTS),68 - 70,2,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,442,1,42,4,9:57 PM,3:36,Hammon 1' Driving Layup (15 PTS),,,68 - 72,4,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,443,6,29,4,9:57 PM,3:21,Adams Shooting Block Foul (P4.T3),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,444,3,11,4,9:58 PM,3:21,,,Sanford Free Throw 1 of 2 (1 PTS),69 - 72,3,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,446,3,12,4,9:58 PM,3:21,,,Sanford Free Throw 2 of 2 (2 PTS),70 - 72,2,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,448,2,1,4,9:58 PM,3:00,MISS Perkins 15' Jump Shot,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,449,4,0,4,9:58 PM,3:00,,,Sanford REBOUND (Off:0 Def:1),,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,450,6,1,4,9:58 PM,3:00,Young-Malcolm P.FOUL (P4.T4),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,451,8,0,4,9:59 PM,3:00,,,SUB: Warley-Talbert FOR Sanford,,,5,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,452,1,1,4,9:59 PM,2:41,,,Houston  3PT Jump Shot (19 PTS) (Prahalis 5 AST),73 - 72,-1,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,453,2,1,4,9:59 PM,2:25,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,454,4,0,4,10:00 PM,2:24,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,455,2,46,4,10:00 PM,2:05,,,MISS Prahalis 5' Running Jump Shot,,,5,203019,Samantha Prahalis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,456,4,0,4,10:00 PM,2:04,Adams REBOUND (Off:3 Def:2),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,457,2,1,4,10:00 PM,1:56,MISS Hammon  3PT Jump Shot,,,,,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,458,4,0,4,10:00 PM,1:55,,,Bonner REBOUND (Off:1 Def:7),,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,459,2,84,4,10:00 PM,1:47,,,MISS Bonner 7' Running Bank Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,460,4,0,4,10:00 PM,1:47,SILVER STARS Rebound,,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,461,8,0,4,10:00 PM,1:47,SUB: Christon FOR Robinson,,,,,4,202658,Danielle Robinson,1611661319.0,San Antonio,Silver Stars,SAN,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,462,1,1,4,10:01 PM,1:32,Adams  3PT Jump Shot (24 PTS) (Hammon 4 AST),,,73 - 75,2,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0
+1021200085,463,6,2,4,10:01 PM,1:14,Young-Malcolm S.FOUL (P5.PN),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021200085,464,3,11,4,10:02 PM,1:14,,,Bonner Free Throw 1 of 2 (34 PTS),74 - 75,1,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,466,3,12,4,10:02 PM,1:14,,,Bonner Free Throw 2 of 2 (35 PTS),75 - 75,TIE,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,468,1,5,4,10:02 PM,1:05,Hammon 2' Layup (17 PTS),,,75 - 77,2,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,469,6,2,4,10:02 PM,1:05,,,Warley-Talbert S.FOUL (P3.PN),,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,470,8,0,4,10:02 PM,1:05,,,SUB: Hornbuckle FOR Warley-Talbert,,,5,203069,Avery Warley-Talbert,1611661317.0,Phoenix,Mercury,PHO,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,471,3,10,4,10:02 PM,1:05,Hammon Free Throw 1 of 1 (18 PTS),,,75 - 78,3,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,473,2,1,4,10:03 PM,0:50,,,MISS Bonner  3PT Jump Shot,,,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,475,4,0,4,10:03 PM,0:48,,,Houston REBOUND (Off:1 Def:3),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,474,2,66,4,10:03 PM,0:48,,,MISS Houston 5' Jump Bank Shot,,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021200085,476,4,0,4,10:03 PM,0:46,Adams REBOUND (Off:3 Def:3),,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,477,6,1,4,10:03 PM,0:38,,,Houston P.FOUL (P4.PN),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,479,3,11,4,10:04 PM,0:38,Hammon Free Throw 1 of 2 (19 PTS),,,75 - 79,4,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,481,3,12,4,10:04 PM,0:38,Hammon Free Throw 2 of 2 (20 PTS),,,75 - 80,5,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,484,9,2,4,10:04 PM,0:38,,,Mercury Timeout: Short (Reg.3 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,485,1,1,4,10:05 PM,0:30,,,Hornbuckle 29' 3PT Jump Shot (7 PTS) (Bonner 1 AST),78 - 80,2,5,201487,Alexis Hornbuckle,1611661317.0,Phoenix,Mercury,PHO,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,486,9,2,4,10:06 PM,0:30,SILVER STARS Timeout: Short (Full 4 Short 1),,,,,2,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,488,2,1,4,10:07 PM,0:06,MISS Christon 13' Jump Shot,,,,,4,100937,Shameka Christon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,489,4,0,4,10:07 PM,0:05,Young-Malcolm REBOUND (Off:5 Def:9),,,,,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,490,6,1,4,10:07 PM,0:02,,,Houston P.FOUL (P5.PN),,,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,1,0,,,,,,0
+1021200085,492,3,11,4,10:08 PM,0:02,Hammon Free Throw 1 of 2 (21 PTS),,,78 - 81,3,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,494,3,12,4,10:08 PM,0:02,Hammon Free Throw 2 of 2 (22 PTS),,,78 - 82,4,4,100342,Becky Hammon,1611661319.0,San Antonio,Silver Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021200085,496,9,1,4,10:08 PM,0:02,,,Mercury Timeout: Regular (Reg.4 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021200085,498,1,1,4,10:10 PM,0:00,,,Bonner  3PT Jump Shot (38 PTS) (Houston 3 AST),81 - 82,1,5,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201501,Charde Houston,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021200085,499,13,0,4,10:10 PM,0:00,,End of 4th Period (10:10 PM EST),,81 - 82,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

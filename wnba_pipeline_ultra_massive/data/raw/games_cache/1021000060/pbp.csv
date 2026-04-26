@@ -1,0 +1,391 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021000060,0,12,0,1,8:08 PM,10:00,,Start of 1st Period (8:08 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,1,10,0,1,8:09 PM,10:00,Jump Ball Fowles vs. de Souza: Tip to Perkins,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0
+1021000060,2,2,5,1,8:09 PM,9:44,MISS Canty Layup,,de Souza BLOCK (1 BLK),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1021000060,3,4,0,1,8:09 PM,9:42,,,de Souza REBOUND (Off:0 Def:1),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,4,2,1,1,8:09 PM,9:35,,,MISS de Souza 19' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,5,4,0,1,8:10 PM,9:34,,,Castro Marques REBOUND (Off:1 Def:0),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,6,5,2,1,8:10 PM,9:25,Canty STEAL (1 STL),,Castro Marques Lost Ball Turnover (P1.T1),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,7,6,2,1,8:10 PM,9:20,,,Lehning S.FOUL (P1.T1),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,8,3,11,1,8:10 PM,9:20,Canty Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,10,3,12,1,8:10 PM,9:20,Canty Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,12,1,5,1,8:11 PM,9:08,,,Lehning Layup (2 PTS) (Castro Marques 1 AST),2 - 2,TIE,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,13,5,2,1,8:11 PM,8:47,Canty Lost Ball Turnover (P1.T1),,de Souza STEAL (1 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,14,6,2,1,8:11 PM,8:44,Young S.FOUL (P1.T1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,15,3,11,1,8:11 PM,8:44,,,Castro Marques Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,17,3,12,1,8:11 PM,8:44,,,Castro Marques Free Throw 2 of 2 (2 PTS),4 - 2,-2,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,19,6,2,1,8:12 PM,8:28,,,de Souza S.FOUL (P1.T2),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,20,3,11,1,8:12 PM,8:28,Fowles Free Throw 1 of 2 (1 PTS),,,4 - 3,-1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,22,3,12,1,8:12 PM,8:28,Fowles Free Throw 2 of 2 (2 PTS),,,4 - 4,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,24,1,1,1,8:13 PM,8:06,,,Lehning 3PT Jump Shot (5 PTS) (Castro Marques 2 AST),7 - 4,-3,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,25,1,1,1,8:13 PM,7:48,Perkins 3PT Jump Shot (3 PTS) (Canty 1 AST),,,7 - 7,TIE,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,26,2,5,1,8:14 PM,7:31,,,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,27,4,0,1,8:14 PM,7:29,Bass REBOUND (Off:0 Def:1),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,28,6,2,1,8:14 PM,7:17,,,Lyttle S.FOUL (P1.T3),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,29,3,11,1,8:14 PM,7:17,Fowles Free Throw 1 of 2 (3 PTS),,,7 - 8,1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,31,3,12,1,8:15 PM,7:17,Fowles Free Throw 2 of 2 (4 PTS),,,7 - 9,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,33,5,1,1,8:15 PM,7:08,Bass STEAL (1 STL),,Castro Marques Bad Pass Turnover (P2.T2),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,34,1,5,1,8:15 PM,7:05,Fowles Layup (6 PTS) (Canty 2 AST),,,7 - 11,4,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,35,5,2,1,8:15 PM,6:53,Bass STEAL (2 STL),,McCoughtry Lost Ball Turnover (P1.T3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,36,2,5,1,8:15 PM,6:47,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,38,4,0,1,8:15 PM,6:44,Young REBOUND (Off:1 Def:0),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,37,1,72,1,8:15 PM,6:44,Young Putback Layup (2 PTS),,,7 - 13,6,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,39,9,1,1,8:15 PM,6:43,,,Dream Timeout: Regular (Reg.1 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,40,2,1,1,8:19 PM,6:27,,,MISS Lyttle 11' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,42,4,0,1,8:19 PM,6:26,,,de Souza REBOUND (Off:1 Def:1),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,41,1,72,1,8:19 PM,6:26,,,de Souza Putback Layup (2 PTS),9 - 13,4,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,43,1,44,1,8:19 PM,6:09,Fowles Reverse Layup (8 PTS) (Bass 1 AST),,,9 - 15,6,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,44,6,2,1,8:19 PM,6:09,,,McCoughtry S.FOUL (P1.T4),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,45,3,10,1,8:19 PM,6:09,Fowles Free Throw 1 of 1 (9 PTS),,,9 - 16,7,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,47,2,5,1,8:20 PM,5:56,Young BLOCK (1 BLK),,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0
+1021000060,48,4,0,1,8:20 PM,5:54,Perkins REBOUND (Off:0 Def:1),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,49,1,1,1,8:20 PM,5:39,Perkins 3PT Jump Shot (6 PTS) (Fowles 1 AST),,,9 - 19,10,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,50,2,5,1,8:20 PM,5:27,Fowles BLOCK (1 BLK),,MISS de Souza Layup,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000060,51,4,0,1,8:20 PM,5:27,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,52,8,0,1,8:20 PM,5:27,,,SUB: Herrington FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,53,8,0,1,8:20 PM,5:27,,,SUB: Bales FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,54,5,1,1,8:21 PM,5:20,,,Lyttle Bad Pass Turnover (P1.T4),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,55,2,1,1,8:21 PM,4:57,MISS Fowles 15' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,56,4,0,1,8:21 PM,4:55,Young REBOUND (Off:2 Def:0),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,57,6,4,1,8:21 PM,4:49,Canty OFF.Foul (P1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,58,5,5,1,8:21 PM,4:49,Canty Foul Turnover (P2.T2),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,59,2,1,1,8:22 PM,4:33,,,MISS Lyttle 19' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,60,4,0,1,8:22 PM,4:32,Bass REBOUND (Off:0 Def:2),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,61,6,4,1,8:22 PM,4:26,Bass OFF.Foul (P1),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,62,5,5,1,8:22 PM,4:26,Bass Foul Turnover (P1.T3),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,63,8,0,1,8:22 PM,4:26,SUB: Kraayeveld FOR Bass,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,64,2,1,1,8:22 PM,4:12,,,MISS Lyttle 5' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,65,4,0,1,8:22 PM,4:11,Fowles REBOUND (Off:0 Def:1),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,66,5,4,1,8:22 PM,4:02,Canty Traveling Turnover (P3.T4),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,67,8,0,1,8:23 PM,4:02,SUB: Thorn FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,68,6,2,1,8:23 PM,3:49,Kraayeveld S.FOUL (P1.T2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,69,3,11,1,8:23 PM,3:49,,,Lyttle Free Throw 1 of 2 (1 PTS),10 - 19,9,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,71,3,12,1,8:24 PM,3:49,,,Lyttle Free Throw 2 of 2 (2 PTS),11 - 19,8,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,74,1,1,1,8:24 PM,3:32,Perkins 17' Jump Shot (8 PTS) (Thorn 1 AST),,,11 - 21,10,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,75,1,1,1,8:24 PM,3:15,,,Lyttle 15' Jump Shot (4 PTS) (Lehning 1 AST),13 - 21,8,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,76,2,1,1,8:25 PM,2:58,MISS Fowles 15' Jump Shot,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,77,4,0,1,8:25 PM,2:57,,,McCoughtry REBOUND (Off:0 Def:1),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,78,2,46,1,8:25 PM,2:51,,,MISS McCoughtry 11' Running Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,79,4,0,1,8:25 PM,2:49,Kraayeveld REBOUND (Off:0 Def:1),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,80,2,5,1,8:25 PM,2:43,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,81,4,0,1,8:25 PM,2:41,,,Lyttle REBOUND (Off:0 Def:1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,82,1,5,1,8:25 PM,2:37,,,McCoughtry Layup (2 PTS) (Lehning 2 AST),15 - 21,6,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,83,2,1,1,8:25 PM,2:16,MISS Thorn 18' Jump Shot,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,84,4,0,1,8:25 PM,2:15,,,McCoughtry REBOUND (Off:0 Def:2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,85,6,2,1,8:26 PM,1:57,Fowles S.FOUL (P1.T3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,86,8,0,1,8:26 PM,1:57,SUB: Prince FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,87,3,11,1,8:26 PM,1:57,,,Herrington Free Throw 1 of 2 (1 PTS),16 - 21,5,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,89,8,0,1,8:26 PM,1:57,,,SUB: K. Miller FOR Lehning,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,90,8,0,1,8:26 PM,1:57,,,SUB: Castro Marques FOR McCoughtry,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,91,3,12,1,8:26 PM,1:57,,,Herrington Free Throw 2 of 2 (2 PTS),17 - 21,4,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,93,6,2,1,8:27 PM,1:42,,,Bales S.FOUL (P1.PN),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,94,3,11,1,8:27 PM,1:42,Fowles Free Throw 1 of 2 (10 PTS),,,17 - 22,5,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,96,8,0,1,8:27 PM,1:42,SUB: Irvin FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,97,3,12,1,8:27 PM,1:42,MISS Fowles Free Throw 2 of 2,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,99,4,0,1,8:28 PM,1:40,,,Lyttle REBOUND (Off:0 Def:2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,100,2,1,1,8:28 PM,1:24,Kraayeveld BLOCK (1 BLK),,MISS Castro Marques 6' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0
+1021000060,101,4,0,1,8:28 PM,1:22,Fowles REBOUND (Off:0 Def:2),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,102,1,42,1,8:28 PM,1:00,Prince Driving Layup (2 PTS),,,17 - 24,7,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,103,1,42,1,8:29 PM,0:46,,,Herrington Driving Layup (4 PTS) (Bales 1 AST),19 - 24,5,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,104,6,4,1,8:29 PM,0:24,Irvin OFF.Foul (P1),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,105,5,5,1,8:29 PM,0:24,Irvin Foul Turnover (P1.T5),,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,106,2,1,1,8:30 PM,0:09,,,MISS Bales 19' Jump Shot,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,107,4,0,1,8:30 PM,0:09,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,108,2,1,1,8:30 PM,0:00,MISS Prince 18' Jump Shot,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,110,4,0,1,8:30 PM,0:00,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,109,13,0,1,8:30 PM,0:00,,End of 1st Period (8:30 PM EST),,19 - 24,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,112,12,0,2,8:33 PM,10:00,,Start of 2nd Period (8:33 PM EST),,19 - 24,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,113,2,1,2,8:34 PM,9:46,,,MISS Castro Marques 14' Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,114,4,0,2,8:34 PM,9:45,Young REBOUND (Off:2 Def:1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,115,2,5,2,8:34 PM,9:24,MISS Thorn Layup,,Bales BLOCK (1 BLK),,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0
+1021000060,116,4,0,2,8:34 PM,9:24,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,117,2,5,2,8:34 PM,9:19,MISS Irvin Layup,,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,118,4,0,2,8:34 PM,9:17,,,Castro Marques REBOUND (Off:1 Def:1),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,119,6,1,2,8:34 PM,9:16,Young P.FOUL (P2.T1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,120,1,1,2,8:35 PM,9:00,,,Herrington 16' Jump Shot (6 PTS) (Castro Marques 3 AST),21 - 24,3,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,121,6,2,2,8:35 PM,8:47,,,Bales S.FOUL (P2.T1),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,122,3,11,2,8:35 PM,8:47,Young Free Throw 1 of 2 (3 PTS),,,21 - 25,4,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,125,8,0,2,8:36 PM,8:47,,,SUB: de Souza FOR Bales,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,126,8,0,2,8:36 PM,8:47,SUB: Bass FOR Irvin,,,,,4,101021,Sandora Irvin,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,127,8,0,2,8:36 PM,8:47,SUB: Fowles FOR Kraayeveld,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,128,3,12,2,8:36 PM,8:47,Young Free Throw 2 of 2 (4 PTS),,,21 - 26,5,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,130,10,0,2,8:36 PM,8:35,Jump Ball Prince vs. K. Miller: Tip to Fowles,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000060,131,5,2,2,8:36 PM,8:35,Prince STEAL (1 STL),,K. Miller Lost Ball Turnover (P1.T5),,,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,132,2,5,2,8:37 PM,8:13,MISS Prince Layup,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,133,4,0,2,8:37 PM,8:12,Bass REBOUND (Off:1 Def:2),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,134,5,1,2,8:37 PM,7:59,Prince Bad Pass Turnover (P1.T6),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,135,5,8,2,8:38 PM,7:41,,,de Souza 3 Second Violation Turnover (P1.T6),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021000060,137,8,0,2,8:38 PM,7:41,,,SUB: Lyttle FOR Leuchanka,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,138,8,0,2,8:38 PM,7:41,,,SUB: McCoughtry FOR Herrington,,,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,139,2,5,2,8:38 PM,7:28,MISS Prince Layup,,de Souza BLOCK (2 BLK),,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0
+1021000060,140,4,0,2,8:38 PM,7:27,,,de Souza REBOUND (Off:1 Def:2),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,141,1,5,2,8:38 PM,7:17,,,de Souza Layup (4 PTS) (McCoughtry 1 AST),23 - 26,3,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,142,5,1,2,8:39 PM,6:57,Young Bad Pass Turnover (P1.T7),,McCoughtry STEAL (1 STL),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,143,1,5,2,8:39 PM,6:52,,,McCoughtry Layup (4 PTS),25 - 26,1,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,144,9,1,2,8:39 PM,6:48,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,145,8,0,2,8:42 PM,6:48,SUB: Canty FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,146,8,0,2,8:42 PM,6:48,SUB: Perkins FOR Prince,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,148,2,5,2,8:42 PM,6:33,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,149,4,0,2,8:42 PM,6:32,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,150,6,2,2,8:43 PM,6:17,,,Lyttle S.FOUL (P2.T2),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,151,3,11,2,8:43 PM,6:17,Fowles Free Throw 1 of 2 (11 PTS),,,25 - 27,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,153,3,12,2,8:43 PM,6:17,Fowles Free Throw 2 of 2 (12 PTS),,,25 - 28,3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,155,5,1,2,8:44 PM,6:04,Fowles STEAL (1 STL),,Lyttle Bad Pass Turnover (P2.T7),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,156,2,5,2,8:44 PM,5:49,MISS Perkins Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,157,4,0,2,8:44 PM,5:48,,,Lyttle REBOUND (Off:0 Def:3),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,158,1,5,2,8:44 PM,5:43,,,Castro Marques Layup (4 PTS) (Lyttle 1 AST),27 - 28,1,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,159,5,8,2,8:45 PM,5:25,Fowles 3 Second Violation Turnover (P1.T8),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,160,1,5,2,8:45 PM,5:14,,,de Souza Layup (6 PTS) (McCoughtry 2 AST),29 - 28,-1,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,161,1,1,2,8:45 PM,4:55,Perkins 18' Jump Shot (10 PTS),,,29 - 30,1,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,162,2,1,2,8:46 PM,4:40,,,MISS K. Miller 3PT Jump Shot,,,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,164,4,0,2,8:46 PM,4:37,,,McCoughtry REBOUND (Off:1 Def:2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,163,2,5,2,8:46 PM,4:37,Fowles BLOCK (2 BLK),,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000060,165,4,0,2,8:46 PM,4:35,Fowles REBOUND (Off:0 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,166,1,1,2,8:46 PM,4:26,Perkins 13' Jump Shot (12 PTS) (Canty 3 AST),,,29 - 32,3,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,167,8,0,2,8:46 PM,4:20,,,SUB: Leuchanka FOR Lyttle,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,168,8,0,2,8:46 PM,4:20,SUB: Kraayeveld FOR Bass,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,169,6,1,2,8:46 PM,4:19,Perkins P.FOUL (P1.T2),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,170,2,5,2,8:47 PM,4:11,,,MISS Leuchanka Layup,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,171,4,0,2,8:47 PM,4:10,,,Leuchanka REBOUND (Off:1 Def:0),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,172,6,2,2,8:47 PM,4:10,Fowles S.FOUL (P2.T3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,173,3,11,2,8:47 PM,4:10,,,Leuchanka Free Throw 1 of 2 (1 PTS),30 - 32,2,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,175,3,12,2,8:47 PM,4:10,,,Leuchanka Free Throw 2 of 2 (2 PTS),31 - 32,1,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,177,6,4,2,8:47 PM,4:10,Fowles OFF.Foul (P3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,178,5,5,2,8:47 PM,4:10,Fowles Foul Turnover (P2.T9),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,179,8,0,2,8:48 PM,4:10,SUB: Bass FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,180,5,1,2,8:48 PM,4:06,Kraayeveld STEAL (1 STL),,McCoughtry Bad Pass Turnover (P2.T8),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,181,5,40,2,8:48 PM,4:02,Bass Out of Bounds Lost Ball Turnover (P2.T10),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,182,1,5,2,8:48 PM,3:54,,,de Souza Layup (8 PTS) (Leuchanka 1 AST),33 - 32,-1,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,183,1,1,2,8:48 PM,3:43,Kraayeveld 3PT Jump Shot (3 PTS) (Perkins 1 AST),,,33 - 35,2,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,184,2,1,2,8:49 PM,3:31,,,MISS McCoughtry 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,185,4,0,2,8:49 PM,3:30,,,de Souza REBOUND (Off:2 Def:2),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,186,1,72,2,8:49 PM,3:28,,,de Souza Putback Layup (10 PTS),35 - 35,TIE,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,187,1,42,2,8:49 PM,3:09,Perkins Driving Layup (14 PTS) (Canty 4 AST),,,35 - 37,2,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,188,2,1,2,8:49 PM,2:49,,,MISS Castro Marques 3PT Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,189,4,0,2,8:49 PM,2:47,Thorn REBOUND (Off:0 Def:1),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,190,1,5,2,8:49 PM,2:44,Bass Layup (2 PTS) (Thorn 2 AST),,,35 - 39,4,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,191,2,5,2,8:50 PM,2:29,Bass BLOCK (1 BLK),,MISS Castro Marques Layup,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0
+1021000060,192,4,0,2,8:50 PM,2:27,Canty REBOUND (Off:0 Def:1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,193,5,1,2,8:50 PM,2:23,Canty Bad Pass Turnover (P4.T11),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,194,9,1,2,8:50 PM,2:23,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,196,8,0,2,8:53 PM,2:23,SUB: Young FOR Thorn,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,197,8,0,2,8:53 PM,2:23,,,SUB: Herrington FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,198,8,0,2,8:53 PM,2:23,,,SUB: Lehning FOR K. Miller,,,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,199,2,1,2,8:53 PM,2:08,,,MISS Leuchanka 17' Jump Shot,,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,200,4,0,2,8:53 PM,2:07,Young REBOUND (Off:2 Def:2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,201,5,2,2,8:54 PM,1:50,Canty Lost Ball Turnover (P5.T12),,de Souza STEAL (2 STL),,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,202,2,1,2,8:54 PM,1:44,,,MISS McCoughtry 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,203,4,0,2,8:54 PM,1:43,,,Leuchanka REBOUND (Off:2 Def:0),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,204,2,1,2,8:54 PM,1:29,,,MISS de Souza 12' Jump Shot,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,205,4,0,2,8:54 PM,1:28,Bass REBOUND (Off:1 Def:3),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,206,2,1,2,8:54 PM,1:09,MISS Perkins 17' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,207,4,0,2,8:54 PM,1:08,,,de Souza REBOUND (Off:2 Def:3),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,208,6,2,2,8:55 PM,0:50,Young S.FOUL (P3.T4),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,209,3,11,2,8:55 PM,0:50,,,Lehning Free Throw 1 of 2 (6 PTS),36 - 39,3,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,211,8,0,2,8:55 PM,0:50,SUB: Thorn FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,215,5,17,2,8:55 PM,0:50,,,Leuchanka Lane Violation Turnover (P1.T9),,,5,200715,Yelena Leuchanka,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,1,0,,,,,,0
+1021000060,216,2,1,2,8:56 PM,0:34,MISS Perkins 3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,217,4,0,2,8:56 PM,0:33,,,Lehning REBOUND (Off:0 Def:1),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,218,1,42,2,8:56 PM,0:28,,,Herrington Driving Layup (8 PTS) (Lehning 3 AST),38 - 39,1,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,219,1,1,2,8:56 PM,0:11,Canty 11' Jump Shot (4 PTS),,,38 - 41,3,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,220,5,1,2,8:56 PM,0:00,Perkins STEAL (1 STL),,McCoughtry Bad Pass Turnover (P3.T10),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,221,2,1,2,8:57 PM,0:00,MISS Perkins 43' 3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,223,4,0,2,8:57 PM,0:00,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,222,13,0,2,8:57 PM,0:00,,End of 2nd Period (8:57 PM EST),,38 - 41,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,225,12,0,3,9:12 PM,10:00,,Start of 3rd Period (9:12 PM EST),,38 - 41,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,226,1,47,3,9:12 PM,9:42,,,Lyttle 14' Turnaround Jump Shot (6 PTS) (Lehning 4 AST),40 - 41,1,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,227,2,5,3,9:13 PM,9:17,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,228,4,0,3,9:13 PM,9:16,Young REBOUND (Off:3 Def:2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,229,6,2,3,9:13 PM,9:08,,,Lyttle S.FOUL (P3.T1),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,230,8,0,3,9:13 PM,9:08,,,SUB: K. Miller FOR Lehning,,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,231,3,11,3,9:13 PM,9:08,Fowles Free Throw 1 of 2 (13 PTS),,,40 - 42,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,233,3,12,3,9:14 PM,9:08,Fowles Free Throw 2 of 2 (14 PTS),,,40 - 43,3,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,235,6,2,3,9:14 PM,8:58,Canty S.FOUL (P2.T1),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,236,3,11,3,9:14 PM,8:58,,,MISS Castro Marques Free Throw 1 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,237,4,1,3,9:14 PM,8:58,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,238,3,12,3,9:14 PM,8:58,,,Castro Marques Free Throw 2 of 2 (5 PTS),41 - 43,2,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,240,6,2,3,9:15 PM,8:44,,,K. Miller S.FOUL (P1.T2),,,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,241,3,11,3,9:15 PM,8:44,Perkins Free Throw 1 of 2 (15 PTS),,,41 - 44,3,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,243,3,12,3,9:15 PM,8:44,Perkins Free Throw 2 of 2 (16 PTS),,,41 - 45,4,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,245,5,1,3,9:16 PM,8:32,,,Lyttle Bad Pass Turnover (P3.T11),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,246,1,1,3,9:16 PM,8:14,Canty 17' Jump Shot (6 PTS) (Fowles 2 AST),,,41 - 47,6,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,247,8,0,3,9:16 PM,8:10,,,SUB: Lehning FOR K. Miller,,,5,100627,Kelly Miller,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,248,1,5,3,9:16 PM,8:04,,,Lyttle Layup (8 PTS) (Lehning 5 AST),43 - 47,4,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,249,2,5,3,9:17 PM,7:53,MISS Perkins Layup,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,250,4,0,3,9:17 PM,7:52,,,de Souza REBOUND (Off:2 Def:4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,251,5,2,3,9:17 PM,7:42,Perkins STEAL (2 STL),,Lehning Lost Ball Turnover (P1.T12),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,252,2,5,3,9:17 PM,7:38,MISS Perkins Layup,,McCoughtry BLOCK (1 BLK),,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0
+1021000060,253,4,0,3,9:17 PM,7:38,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,254,2,1,3,9:17 PM,7:35,MISS Bass 15' Jump Shot,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,255,4,0,3,9:17 PM,7:34,Bass REBOUND (Off:2 Def:3),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,256,2,5,3,9:17 PM,7:23,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,257,4,0,3,9:17 PM,7:22,,,de Souza REBOUND (Off:2 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,258,1,79,3,9:17 PM,7:16,,,McCoughtry 16' Pullup Jump Shot (6 PTS),45 - 47,2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,259,6,1,3,9:18 PM,6:57,,,McCoughtry P.FOUL (P2.T3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,260,2,1,3,9:18 PM,6:52,MISS Young 7' Jump Shot,,Lyttle BLOCK (1 BLK),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0
+1021000060,261,4,0,3,9:18 PM,6:51,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,262,2,1,3,9:19 PM,6:42,MISS Young 15' Jump Shot,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,263,4,0,3,9:19 PM,6:42,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,264,5,39,3,9:19 PM,6:42,Bass Step Out of Bounds Turnover (P3.T13),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,265,1,1,3,9:19 PM,6:25,,,Lyttle 12' Jump Shot (10 PTS) (Lehning 6 AST),47 - 47,TIE,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,266,1,1,3,9:20 PM,5:59,Canty 17' Jump Shot (8 PTS) (Young 1 AST),,,47 - 49,2,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,267,1,1,3,9:20 PM,5:45,,,Castro Marques 3PT Jump Shot (8 PTS) (Lehning 7 AST),50 - 49,-1,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,268,2,5,3,9:20 PM,5:28,MISS Canty Layup,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,270,4,0,3,9:20 PM,5:27,Fowles REBOUND (Off:1 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,269,1,72,3,9:20 PM,5:27,Fowles Putback Layup (16 PTS),,,50 - 51,1,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,271,6,2,3,9:20 PM,5:16,Bass S.FOUL (P2.T2),,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,272,3,11,3,9:21 PM,5:16,,,Lyttle Free Throw 1 of 2 (11 PTS),51 - 51,TIE,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,274,3,12,3,9:21 PM,5:16,,,MISS Lyttle Free Throw 2 of 2,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,277,4,0,3,9:21 PM,5:13,,,McCoughtry REBOUND (Off:2 Def:2),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,276,2,5,3,9:21 PM,5:13,,,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,278,4,0,3,9:21 PM,5:12,Canty REBOUND (Off:0 Def:2),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,280,2,5,3,9:21 PM,4:51,MISS Fowles Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,281,4,0,3,9:21 PM,4:50,Fowles REBOUND (Off:2 Def:3),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,282,2,5,3,9:21 PM,4:49,MISS Fowles Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,283,4,0,3,9:21 PM,4:48,,,Lyttle REBOUND (Off:0 Def:4),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,284,5,1,3,9:22 PM,4:39,Bass STEAL (3 STL),,McCoughtry Bad Pass Turnover (P4.T13),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,285,1,42,3,9:22 PM,4:35,Fowles Driving Layup (18 PTS) (Bass 2 AST),,,51 - 53,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,286,2,5,3,9:22 PM,4:19,,,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,288,4,0,3,9:22 PM,4:18,,,de Souza REBOUND (Off:3 Def:5),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,287,1,72,3,9:22 PM,4:18,,,de Souza Putback Layup (12 PTS),53 - 53,TIE,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,290,1,1,3,9:22 PM,3:56,Fowles 14' Jump Shot (20 PTS) (Perkins 2 AST),,,53 - 55,2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,292,9,1,3,9:23 PM,3:43,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,293,8,0,3,9:26 PM,3:43,SUB: Kraayeveld FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,294,8,0,3,9:26 PM,3:43,SUB: Prince FOR Canty,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,295,5,1,3,9:26 PM,3:32,Prince STEAL (2 STL),,Lehning Bad Pass Turnover (P2.T14),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,296,6,1,3,9:26 PM,3:31,,,Lehning P.FOUL (P2.T4),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,297,2,1,3,9:27 PM,3:14,MISS Bass 20' Jump Shot,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,298,4,0,3,9:27 PM,3:13,,,de Souza REBOUND (Off:3 Def:6),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,299,1,1,3,9:27 PM,3:03,,,Castro Marques 3PT Jump Shot (11 PTS) (de Souza 1 AST),56 - 55,-1,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,300,6,2,3,9:27 PM,3:03,Perkins S.FOUL (P2.T3),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,301,3,10,3,9:27 PM,3:03,,,Castro Marques Free Throw 1 of 1 (12 PTS),57 - 55,-2,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,303,2,5,3,9:28 PM,2:50,MISS Kraayeveld Layup,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,304,4,0,3,9:28 PM,2:48,,,de Souza REBOUND (Off:3 Def:7),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,305,2,5,3,9:28 PM,2:43,,,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,306,4,0,3,9:28 PM,2:41,Young REBOUND (Off:3 Def:3),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,307,1,42,3,9:28 PM,2:31,Prince Driving Layup (4 PTS),,,57 - 57,TIE,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,308,5,2,3,9:28 PM,2:24,Perkins STEAL (3 STL),,Lehning Lost Ball Turnover (P3.T15),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,309,6,4,3,9:28 PM,2:17,Prince OFF.Foul (P1),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,310,5,5,3,9:28 PM,2:17,Prince Foul Turnover (P2.T14),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021000060,311,8,0,3,9:29 PM,2:17,SUB: Fowles FOR Bass,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,312,8,0,3,9:29 PM,2:17,SUB: Thorn FOR Perkins,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,313,8,0,3,9:29 PM,2:17,,,SUB: Bales FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,314,1,42,3,9:29 PM,2:10,,,McCoughtry Driving Layup (8 PTS) (Lehning 8 AST),59 - 57,-2,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,315,5,2,3,9:30 PM,1:42,Fowles Lost Ball Turnover (P3.T15),,Castro Marques STEAL (1 STL),,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,316,5,40,3,9:30 PM,1:37,,,Castro Marques Out of Bounds Lost Ball Turnover (P3.T16),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,317,5,2,3,9:31 PM,1:24,Kraayeveld Lost Ball Turnover (P1.T16),,Lehning STEAL (1 STL),,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,318,1,42,3,9:31 PM,1:21,,,Lehning Driving Layup (8 PTS),61 - 57,-4,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,319,9,1,3,9:31 PM,1:20,SKY Timeout: Regular (Full 2 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,320,1,5,3,9:33 PM,1:05,Thorn Layup (2 PTS) (Fowles 3 AST),,,61 - 59,-2,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,321,2,1,3,9:33 PM,0:45,,,MISS Bales 17' Jump Shot,,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,322,4,0,3,9:33 PM,0:44,Young REBOUND (Off:3 Def:4),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,323,1,43,3,9:33 PM,0:36,Fowles Alley Oop Layup (22 PTS) (Prince 1 AST),,,61 - 61,TIE,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,324,1,1,3,9:34 PM,0:24,,,Castro Marques 3PT Jump Shot (15 PTS) (McCoughtry 3 AST),64 - 61,-3,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,325,6,1,3,9:34 PM,0:21,,,Castro Marques P.FOUL (P1.PN),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,326,3,11,3,9:34 PM,0:21,MISS Young Free Throw 1 of 2,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,327,4,1,3,9:34 PM,0:21,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,328,3,12,3,9:34 PM,0:21,Young Free Throw 2 of 2 (5 PTS),,,64 - 62,-2,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,330,1,1,3,9:35 PM,0:05,,,McCoughtry 13' Jump Shot (10 PTS),66 - 62,-4,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,331,6,2,3,9:35 PM,0:00,,,Bales S.FOUL (P3.PN),,,5,201054,Alison Bales,1611661330.0,Atlanta,Dream,ATL,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,332,3,11,3,9:35 PM,0:00,Prince Free Throw 1 of 2 (5 PTS),,,66 - 63,-3,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,334,3,12,3,9:35 PM,0:00,Prince Free Throw 2 of 2 (6 PTS),,,66 - 64,-2,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,337,13,0,3,9:36 PM,0:00,,End of 3rd Period (9:36 PM EST),,66 - 64,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,339,12,0,4,9:39 PM,10:00,,Start of 4th Period (9:39 PM EST),,66 - 64,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,340,2,1,4,9:40 PM,9:36,MISS Canty 20' Jump Shot,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,341,4,0,4,9:40 PM,9:35,,,McCoughtry REBOUND (Off:2 Def:3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,342,2,1,4,9:40 PM,9:28,,,MISS McCoughtry 3PT Jump Shot,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,343,4,0,4,9:40 PM,9:26,Kraayeveld REBOUND (Off:0 Def:2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,344,2,5,4,9:40 PM,9:14,MISS Fowles Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,345,4,0,4,9:40 PM,9:13,,,de Souza REBOUND (Off:3 Def:8),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,346,1,5,4,9:40 PM,9:07,,,Castro Marques Layup (17 PTS) (Lehning 9 AST),68 - 64,-4,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,347,2,5,4,9:40 PM,8:57,MISS Fowles Layup,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,348,4,0,4,9:40 PM,8:56,,,de Souza REBOUND (Off:3 Def:9),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,349,2,1,4,9:40 PM,8:50,,,MISS Castro Marques 3PT Jump Shot,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,350,4,0,4,9:40 PM,8:49,Canty REBOUND (Off:0 Def:3),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,351,1,5,4,9:41 PM,8:44,Fowles Layup (24 PTS) (Prince 2 AST),,,68 - 66,-2,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,352,2,5,4,9:41 PM,8:26,Kraayeveld BLOCK (2 BLK),,MISS de Souza Layup,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0
+1021000060,353,4,0,4,9:41 PM,8:25,Fowles REBOUND (Off:2 Def:4),,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,354,2,1,4,9:41 PM,8:13,MISS Kraayeveld 3PT Jump Shot,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,355,4,0,4,9:41 PM,8:12,,,Castro Marques REBOUND (Off:1 Def:2),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,356,1,1,4,9:41 PM,7:55,,,Castro Marques 7' Jump Shot (19 PTS),70 - 66,-4,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,357,2,5,4,9:42 PM,7:39,MISS Prince Layup,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,358,4,0,4,9:42 PM,7:38,,,de Souza REBOUND (Off:3 Def:10),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,359,6,1,4,9:42 PM,7:27,Prince P.FOUL (P2.T1),,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,360,8,0,4,9:42 PM,7:27,SUB: Bass FOR Fowles,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,361,8,0,4,9:42 PM,7:27,SUB: Perkins FOR Prince,,,,,4,202259,Epiphanny Prince,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,362,1,42,4,9:42 PM,7:19,,,Lehning Driving Layup (10 PTS),72 - 66,-6,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,363,6,2,4,9:43 PM,7:06,,,de Souza S.FOUL (P2.T1),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,364,3,11,4,9:43 PM,7:06,Perkins Free Throw 1 of 2 (17 PTS),,,72 - 67,-5,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,366,3,12,4,9:43 PM,7:06,Perkins Free Throw 2 of 2 (18 PTS),,,72 - 68,-4,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,368,5,1,4,9:43 PM,6:57,,,Lyttle Bad Pass Turnover (P4.T17),,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,369,1,44,4,9:44 PM,6:38,Bass Reverse Layup (4 PTS) (Kraayeveld 1 AST),,,72 - 70,-2,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,370,1,79,4,9:44 PM,6:32,,,Castro Marques 17' Pullup Jump Shot (21 PTS),74 - 70,-4,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,371,2,1,4,9:44 PM,6:13,MISS Perkins 12' Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,372,4,0,4,9:44 PM,6:12,Kraayeveld REBOUND (Off:1 Def:2),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,373,1,1,4,9:44 PM,6:06,Thorn 9' Jump Shot (4 PTS) (Kraayeveld 2 AST),,,74 - 72,-2,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,374,1,5,4,9:45 PM,5:55,,,de Souza Layup (14 PTS) (Lyttle 2 AST),76 - 72,-4,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,375,6,2,4,9:45 PM,5:55,Thorn S.FOUL (P1.T2),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,376,9,1,4,9:45 PM,5:55,SKY Timeout: Regular (Full 3 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,379,3,10,4,9:48 PM,5:55,,,de Souza Free Throw 1 of 1 (15 PTS),77 - 72,-5,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,381,1,47,4,9:48 PM,5:40,Perkins 11' Turnaround Jump Shot (20 PTS) (Kraayeveld 3 AST),,,77 - 74,-3,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,382,2,5,4,9:48 PM,5:31,,,MISS Castro Marques Layup,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,383,4,0,4,9:48 PM,5:29,,,Lehning REBOUND (Off:1 Def:1),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,384,1,5,4,9:48 PM,5:19,,,Lyttle Layup (13 PTS) (McCoughtry 4 AST),79 - 74,-5,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,385,5,1,4,9:49 PM,5:01,Kraayeveld Bad Pass Turnover (P2.T17),,Lyttle STEAL (1 STL),,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,386,1,5,4,9:49 PM,4:54,,,de Souza Layup (17 PTS) (McCoughtry 5 AST),81 - 74,-7,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,387,2,1,4,9:49 PM,4:30,MISS Kraayeveld 3PT Jump Shot,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,388,4,0,4,9:49 PM,4:29,Thorn REBOUND (Off:1 Def:1),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,389,5,40,4,9:50 PM,4:14,Canty Out of Bounds Lost Ball Turnover (P6.T18),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,390,8,0,4,9:50 PM,4:14,SUB: Fowles FOR Bass,,,,,4,200691,Mistie Bass,1611661329.0,Chicago,Sky,CHI,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,391,2,5,4,9:50 PM,3:59,Fowles BLOCK (3 BLK),,MISS McCoughtry Layup,,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,0
+1021000060,392,4,0,4,9:50 PM,3:57,Perkins REBOUND (Off:0 Def:2),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,393,6,2,4,9:50 PM,3:53,,,Lehning S.FOUL (P3.T2),,,5,201898,Shalee Lehning,1611661330.0,Atlanta,Dream,ATL,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,394,3,11,4,9:50 PM,3:53,Perkins Free Throw 1 of 2 (21 PTS),,,81 - 75,-6,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,396,3,12,4,9:51 PM,3:53,Perkins Free Throw 2 of 2 (22 PTS),,,81 - 76,-5,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,398,7,5,4,9:51 PM,3:40,Thorn Violation:Kicked Ball,,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,399,6,2,4,9:52 PM,3:32,Canty S.FOUL (P3.T3),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,400,3,11,4,9:52 PM,3:32,,,Lyttle Free Throw 1 of 2 (14 PTS),82 - 76,-6,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,402,3,12,4,9:52 PM,3:32,,,Lyttle Free Throw 2 of 2 (15 PTS),83 - 76,-7,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,404,1,1,4,9:52 PM,3:11,Canty 16' Jump Shot (10 PTS) (Perkins 3 AST),,,83 - 78,-5,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,405,2,1,4,9:53 PM,2:54,,,MISS Lyttle 11' Jump Shot,,,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,406,4,0,4,9:53 PM,2:53,Kraayeveld REBOUND (Off:1 Def:3),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,407,6,2,4,9:53 PM,2:47,,,McCoughtry S.FOUL (P3.T3),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,408,9,1,4,9:53 PM,2:47,,,Dream Timeout: Regular (Reg.2 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,409,3,11,4,9:56 PM,2:47,Canty Free Throw 1 of 2 (11 PTS),,,83 - 79,-4,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,411,3,12,4,9:56 PM,2:47,Canty Free Throw 2 of 2 (12 PTS),,,83 - 80,-3,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,413,1,1,4,9:57 PM,2:26,,,Castro Marques 3PT Jump Shot (24 PTS) (de Souza 2 AST),86 - 80,-6,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,414,6,1,4,9:57 PM,2:08,,,de Souza P.FOUL (P3.T4),,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,4,201480,Sylvia Fowles,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,0
+1021000060,415,2,1,4,9:58 PM,2:01,MISS Canty 18' Jump Shot,,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,416,4,0,4,9:58 PM,2:00,Thorn REBOUND (Off:2 Def:1),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,417,2,1,4,9:58 PM,1:47,MISS Perkins 3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,418,4,0,4,9:58 PM,1:46,Kraayeveld REBOUND (Off:2 Def:3),,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,419,2,5,4,9:58 PM,1:32,MISS Kraayeveld Layup,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,420,4,0,4,9:58 PM,1:29,,,Castro Marques REBOUND (Off:1 Def:3),,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,421,6,1,4,9:58 PM,1:29,Canty P.FOUL (P4.T4),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,422,9,1,4,9:59 PM,1:29,,,Dream Timeout: Regular (Reg.3 Short 0),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,423,1,66,4,10:01 PM,1:09,,,Castro Marques 11' Jump Bank Shot (26 PTS),88 - 80,-8,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,424,1,1,4,10:01 PM,0:48,Kraayeveld 3PT Jump Shot (6 PTS) (Canty 5 AST),,,88 - 83,-5,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,425,6,1,4,10:01 PM,0:41,Perkins P.FOUL (P3.PN),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,426,3,11,4,10:02 PM,0:41,,,MISS Castro Marques Free Throw 1 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,427,4,1,4,10:02 PM,0:41,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,428,3,12,4,10:02 PM,0:41,,,MISS Castro Marques Free Throw 2 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,430,4,0,4,10:02 PM,0:39,Canty REBOUND (Off:0 Def:4),,,,,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,431,5,1,4,10:02 PM,0:20,Thorn Bad Pass Turnover (P1.T19),,Lyttle STEAL (2 STL),,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,101023,Sancho Lyttle,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,434,6,1,4,10:02 PM,0:19,Thorn P.FOUL (P2.PN),,,,,4,100835,Erin Thorn,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,435,3,11,4,10:03 PM,0:19,,,MISS Castro Marques Free Throw 1 of 2,,,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,436,4,1,4,10:03 PM,0:19,,,Dream Rebound,,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,437,3,12,4,10:03 PM,0:19,,,Castro Marques Free Throw 2 of 2 (27 PTS),89 - 83,-6,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,439,9,2,4,10:03 PM,0:19,SKY Timeout: Short (Full 3 Short 1),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,440,1,1,4,10:04 PM,0:13,Perkins 3PT Jump Shot (25 PTS) (Canty 6 AST),,,89 - 86,-3,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,4,100384,Dominique Canty,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,441,9,2,4,10:05 PM,0:13,,,Dream Timeout: Short (Reg.3 Short 1),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,442,8,0,4,10:06 PM,0:13,SUB: Young FOR Kraayeveld,,,,,4,101049,Cathrine Kraayeveld,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021000060,443,9,2,4,10:06 PM,0:13,,,Dream Timeout: Short (Reg.3 Short 2),,,3,1611661330,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,444,6,1,4,10:07 PM,0:11,Perkins P.FOUL (P4.PN),,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,1,0,,,,,,0
+1021000060,445,3,11,4,10:08 PM,0:11,,,Castro Marques Free Throw 1 of 2 (28 PTS),90 - 86,-4,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,447,3,12,4,10:08 PM,0:11,,,Castro Marques Free Throw 2 of 2 (29 PTS),91 - 86,-5,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,449,9,2,4,10:08 PM,0:11,SKY Timeout: Short (Full 3 Short 2),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021000060,450,8,0,4,10:09 PM,0:11,,,SUB: Herrington FOR de Souza,,,5,100812,Erika de Souza,1611661330.0,Atlanta,Dream,ATL,5,201048,Armintie Herrington,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,451,2,1,4,10:09 PM,0:07,MISS Perkins 3PT Jump Shot,,,,,4,100952,Jia Perkins,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021000060,452,4,0,4,10:09 PM,0:05,,,McCoughtry REBOUND (Off:2 Def:4),,,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0,0,,,,,,0
+1021000060,453,1,5,4,10:09 PM,0:00,,,Castro Marques Layup (31 PTS) (McCoughtry 6 AST),93 - 86,-7,5,100796,Iziane Castro Marques,1611661330.0,Atlanta,Dream,ATL,5,201881,Angel McCoughtry,1611661330.0,Atlanta,Dream,ATL,0,0,,,,,,0
+1021000060,454,13,0,4,10:09 PM,0:00,,End of 4th Period (10:09 PM EST),,93 - 86,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

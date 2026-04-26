@@ -1,0 +1,403 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020600067,0,12,0,1,4:16 PM,10:00,,Start of 1st Period (4:16 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,1,10,0,1,4:16 PM,10:00,Jump Ball Brunson vs. Burse: Tip to Lennox,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0
+1020600067,2,1,5,1,4:17 PM,9:52,,,Jackson  Layup (2 PTS) (Castro Marques 1 AST),2 - 0,-2,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,3,2,1,1,4:17 PM,9:39,MISS Brunson 5' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,4,4,0,1,4:17 PM,9:38,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,5,10,0,1,4:17 PM,9:38,Jump Ball Dorrell vs. Lennox: Tip to Powell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600067,6,5,1,1,4:17 PM,9:32,Dorrell Bad Pass Turnover (P1.T1),,Lennox STEAL (1 STL),,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,7,2,1,1,4:18 PM,9:16,,,MISS Lennox 19' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,8,4,0,1,4:18 PM,9:14,Powell REBOUND (Off:0 Def:1),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,9,1,1,1,4:18 PM,9:04,Griffith 3' Jump Shot (2 PTS) (Penicheiro 1 AST),,,2 - 2,TIE,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,10,2,5,1,4:18 PM,8:51,,,MISS Burse  Layup,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,11,4,0,1,4:18 PM,8:50,Dorrell REBOUND (Off:0 Def:1),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,12,2,5,1,4:18 PM,8:44,MISS Griffith  Layup,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,13,4,0,1,4:18 PM,8:41,,,Castro Marques REBOUND (Off:0 Def:1),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,14,1,1,1,4:19 PM,8:27,,,Jackson 19' Jump Shot (4 PTS) (Castro Marques 2 AST),4 - 2,-2,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,15,5,4,1,4:19 PM,8:05,Brunson Traveling Turnover (P1.T2),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020600067,16,2,1,1,4:19 PM,7:56,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,17,4,0,1,4:19 PM,7:55,Brunson REBOUND (Off:0 Def:1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,18,5,1,1,4:20 PM,7:45,Penicheiro Bad Pass Turnover (P1.T3),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,19,1,1,1,4:20 PM,7:22,,,Lennox  3PT Jump Shot (3 PTS) (Bird 1 AST),7 - 2,-5,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,20,2,5,1,4:21 PM,7:11,MISS Griffith  Layup,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,21,4,0,1,4:21 PM,7:09,Brunson REBOUND (Off:1 Def:1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,22,1,61,1,4:21 PM,6:56,Penicheiro 4' Driving Finger Roll (2 PTS),,,7 - 4,-3,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,23,6,4,1,4:21 PM,6:41,,,Burse OFF.Foul (P1),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,24,5,5,1,4:21 PM,6:41,,,Burse Foul Turnover (P1.T1),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020600067,25,2,1,1,4:22 PM,6:24,MISS Powell 10' Jump Shot,,Jackson BLOCK (1 BLK),,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020600067,26,4,0,1,4:22 PM,6:22,,,Jackson REBOUND (Off:0 Def:1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,27,1,5,1,4:22 PM,6:14,,,Jackson  Layup (6 PTS) (Lennox 1 AST),9 - 4,-5,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,28,7,5,1,4:22 PM,6:00,,,Castro Marques Violation:Kicked Ball,,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020600067,29,8,0,1,4:22 PM,6:00,SUB: Maiga-Ba FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,30,2,1,1,4:23 PM,5:49,MISS Griffith 10' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,31,4,0,1,4:23 PM,5:47,,,Lennox REBOUND (Off:0 Def:1),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,32,2,1,1,4:23 PM,5:34,,,MISS Lennox 19' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,33,4,0,1,4:23 PM,5:32,Dorrell REBOUND (Off:0 Def:2),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,34,2,1,1,4:23 PM,5:21,MISS Griffith 3' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,35,4,0,1,4:23 PM,5:20,,,Jackson REBOUND (Off:0 Def:2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,36,6,2,1,4:23 PM,5:15,Powell S.FOUL (P1.T1),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,37,8,0,1,4:23 PM,5:15,SUB: Lawson FOR Dorrell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,38,8,0,1,4:24 PM,5:15,,,SUB: Turner FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,39,3,11,1,4:24 PM,5:15,,,Lennox Free Throw 1 of 2 (4 PTS),10 - 4,-6,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,40,8,0,1,4:24 PM,5:15,SUB: Perperoglou FOR Griffith,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,41,3,12,1,4:24 PM,5:15,,,MISS Lennox Free Throw 2 of 2,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,42,4,0,1,4:24 PM,5:15,Powell REBOUND (Off:0 Def:2),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,43,1,1,1,4:24 PM,5:00,Maiga-Ba 5' Jump Shot (2 PTS) (Powell 1 AST),,,10 - 6,-4,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,44,6,2,1,4:24 PM,5:00,,,Lennox S.FOUL (P1.T1),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,45,3,10,1,4:25 PM,5:00,MISS Maiga-Ba Free Throw 1 of 1,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,46,4,0,1,4:25 PM,5:00,,,Burse REBOUND (Off:0 Def:1),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,47,6,2,1,4:25 PM,4:42,Powell S.FOUL (P2.T2),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,48,9,4,1,4:25 PM,4:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,50,8,0,1,4:28 PM,4:42,SUB: Smith FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,51,8,0,1,4:28 PM,4:42,,,SUB: Wright FOR Lennox,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,52,3,11,1,4:28 PM,4:42,,,MISS Castro Marques Free Throw 1 of 2,,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,53,4,1,1,4:28 PM,4:42,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,54,3,12,1,4:28 PM,4:42,,,Castro Marques Free Throw 2 of 2 (1 PTS),11 - 6,-5,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,55,1,42,1,4:28 PM,4:33,Penicheiro  Driving Layup (4 PTS),,,11 - 8,-3,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,56,5,1,1,4:29 PM,4:19,,,Turner Bad Pass Turnover (P1.T2),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,57,1,5,1,4:29 PM,4:09,Maiga-Ba  Layup (4 PTS) (Penicheiro 2 AST),,,11 - 10,-1,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,58,1,1,1,4:29 PM,3:51,,,Castro Marques  3PT Jump Shot (4 PTS) (Bird 2 AST),14 - 10,-4,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,59,6,2,1,4:30 PM,3:36,,,Castro Marques S.FOUL (P1.T2),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,60,8,0,1,4:30 PM,3:36,,,SUB: Gortman FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,61,8,0,1,4:30 PM,3:36,,,SUB: Jackson FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,62,3,11,1,4:30 PM,3:36,MISS Smith Free Throw 1 of 2,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,63,4,1,1,4:30 PM,3:36,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,64,8,0,1,4:30 PM,3:36,SUB: Haynie FOR Penicheiro,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,65,3,12,1,4:30 PM,3:36,Smith Free Throw 2 of 2 (1 PTS),,,14 - 11,-3,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,66,5,1,1,4:31 PM,3:20,Smith STEAL (1 STL),,Gortman Bad Pass Turnover (P1.T3),,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,67,1,1,1,4:31 PM,3:10,Perperoglou 9' Jump Shot (2 PTS),,,14 - 13,-1,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,68,1,1,1,4:31 PM,2:44,,,Turner  3PT Jump Shot (3 PTS) (Bird 3 AST),17 - 13,-4,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,69,2,1,1,4:32 PM,2:19,MISS Smith  3PT Jump Shot,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,70,4,0,1,4:32 PM,2:17,Haynie REBOUND (Off:1 Def:0),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,71,5,2,1,4:32 PM,2:15,Haynie Lost Ball Turnover (P1.T4),,Bird STEAL (1 STL),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,72,2,5,1,4:32 PM,2:06,,,MISS Turner  Layup,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,73,4,0,1,4:32 PM,2:04,,,Turner REBOUND (Off:1 Def:0),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,74,2,5,1,4:32 PM,2:03,,,MISS Turner  Layup,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,75,4,0,1,4:32 PM,2:01,Maiga-Ba REBOUND (Off:0 Def:1),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,76,2,5,1,4:32 PM,1:53,MISS Perperoglou  Layup,,Jackson BLOCK (2 BLK),,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020600067,77,4,0,1,4:32 PM,1:52,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,78,8,0,1,4:32 PM,1:52,,,SUB: Johnson FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,79,1,1,1,4:33 PM,1:48,Smith  3PT Jump Shot (4 PTS) (Lawson 1 AST),,,17 - 16,-1,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,80,5,11,1,4:33 PM,1:22,,,Storm Turnover: Shot Clock (T#4),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600067,81,8,0,1,4:33 PM,1:22,,,SUB: Castro Marques FOR Gortman,,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,82,2,1,1,4:33 PM,1:13,MISS Perperoglou 5' Jump Shot,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,83,4,0,1,4:33 PM,1:12,Perperoglou REBOUND (Off:1 Def:0),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,84,5,41,1,4:34 PM,1:11,Perperoglou Poss Lost Ball Turnover (P1.T5),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,85,6,3,1,4:34 PM,1:11,Haynie L.B.FOUL (P1.T3),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,86,2,5,1,4:34 PM,0:59,,,MISS Johnson  Layup,,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,87,4,0,1,4:34 PM,0:58,,,Wright REBOUND (Off:1 Def:0),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,88,1,5,1,4:34 PM,0:57,,,Wright  Layup (2 PTS),19 - 16,-3,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,89,5,1,1,4:34 PM,0:41,Lawson Bad Pass Turnover (P1.T6),,Johnson STEAL (1 STL),,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,90,2,1,1,4:34 PM,0:31,,,MISS Wright  3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,91,4,0,1,4:34 PM,0:29,,,Turner REBOUND (Off:2 Def:0),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,92,1,5,1,4:34 PM,0:28,,,Turner  Layup (5 PTS),21 - 16,-5,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,93,2,1,1,4:35 PM,0:05,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,94,4,0,1,4:35 PM,0:03,,,Wright REBOUND (Off:1 Def:1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,95,2,1,1,4:35 PM,0:00,,,MISS Wright 58' 3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,97,4,0,1,4:35 PM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,96,13,0,1,4:35 PM,0:00,,End of 1st Period (4:35 PM EST),,21 - 16,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,99,12,0,2,4:38 PM,10:00,,Start of 2nd Period (4:38 PM EST),,21 - 16,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,100,1,1,2,4:38 PM,9:39,Maiga-Ba 6' Jump Shot (6 PTS),,,21 - 18,-3,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,101,1,1,2,4:38 PM,9:19,,,Castro Marques 6' Jump Shot (6 PTS),23 - 18,-5,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,102,6,2,2,4:38 PM,9:19,Maiga-Ba S.FOUL (P1.T1),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,103,3,10,2,4:39 PM,9:19,,,Castro Marques Free Throw 1 of 1 (7 PTS),24 - 18,-6,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,104,2,1,2,4:39 PM,9:01,MISS Smith 19' Jump Shot,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,105,4,0,2,4:39 PM,8:59,,,Wright REBOUND (Off:1 Def:2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,106,5,1,2,4:39 PM,8:51,Haynie STEAL (1 STL),,Castro Marques Bad Pass Turnover (P1.T5),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,107,1,1,2,4:39 PM,8:45,Perperoglou 7' Jump Shot (4 PTS) (Haynie 1 AST),,,24 - 20,-4,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,108,5,1,2,4:40 PM,8:25,Haynie STEAL (2 STL),,Castro Marques Bad Pass Turnover (P2.T6),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,109,1,5,2,4:40 PM,8:21,Haynie  Layup (2 PTS),,,24 - 22,-2,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,110,5,1,2,4:40 PM,8:03,Perperoglou STEAL (1 STL),,Castro Marques Bad Pass Turnover (P3.T7),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,111,1,42,2,4:40 PM,8:00,Perperoglou  Driving Layup (6 PTS),,,24 - 24,TIE,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,112,9,1,2,4:40 PM,7:53,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,114,8,0,2,4:42 PM,7:53,,,SUB: Lennox FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,115,8,0,2,4:42 PM,7:53,,,SUB: Burse FOR Johnson,,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,117,2,1,2,4:43 PM,7:43,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,118,4,0,2,4:43 PM,7:42,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,119,6,3,2,4:43 PM,7:42,,,Jackson L.B.FOUL (P1.T1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,120,6,1,2,4:43 PM,7:34,,,Wright P.FOUL (P1.T2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,121,8,0,2,4:44 PM,7:34,SUB: Brunson FOR Maiga-Ba,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,122,5,1,2,4:44 PM,7:27,Smith Bad Pass Turnover (P1.T7),,Wright STEAL (1 STL),,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,123,1,1,2,4:44 PM,7:21,,,Lennox 17' Jump Shot (6 PTS),26 - 24,-2,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,124,1,1,2,4:44 PM,7:00,Lawson  3PT Jump Shot (3 PTS) (Haynie 2 AST),,,26 - 27,1,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,125,5,11,2,4:45 PM,6:31,,,Storm Turnover: Shot Clock (T#8),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600067,126,6,2,2,4:45 PM,6:20,,,Burse S.FOUL (P2.T3),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,127,3,11,2,4:45 PM,6:20,MISS Brunson Free Throw 1 of 2,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,128,4,1,2,4:45 PM,6:20,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,129,8,0,2,4:46 PM,6:20,SUB: Griffith FOR Perperoglou,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,130,3,12,2,4:46 PM,6:20,MISS Brunson Free Throw 2 of 2,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,131,4,0,2,4:46 PM,6:19,,,Jackson REBOUND (Off:0 Def:3),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,132,2,1,2,4:46 PM,5:58,,,MISS Lennox 10' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,133,4,0,2,4:46 PM,5:57,Haynie REBOUND (Off:1 Def:1),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,134,2,5,2,4:47 PM,5:34,MISS Lawson  Layup,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,135,4,0,2,4:47 PM,5:33,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,136,5,1,2,4:47 PM,5:33,Haynie Bad Pass Turnover (P2.T8),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020600067,137,2,1,2,4:47 PM,5:13,,,MISS Wright 13' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,138,4,0,2,4:47 PM,5:10,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,139,8,0,2,4:48 PM,5:10,,,SUB: Turner FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,140,10,0,2,4:48 PM,5:10,Jump Ball Smith vs. Burse: Tip to Haynie,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600067,142,1,5,2,4:48 PM,4:56,Griffith  Layup (4 PTS) (Smith 1 AST),,,26 - 29,3,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,143,1,1,2,4:48 PM,4:41,,,Lennox 17' Jump Shot (8 PTS),28 - 29,1,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,144,6,1,2,4:49 PM,4:32,,,Burse P.FOUL (P3.T4),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,145,8,0,2,4:49 PM,4:32,SUB: Dorrell FOR Lawson,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,146,8,0,2,4:49 PM,4:32,SUB: Penicheiro FOR Smith,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,147,8,0,2,4:49 PM,4:32,SUB: Powell FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,148,8,0,2,4:49 PM,4:32,,,SUB: Johnson FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,149,8,0,2,4:49 PM,4:32,,,SUB: Lawson-Wade FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101018,Edwige Lawson-Wade,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,150,5,1,2,4:49 PM,4:20,Griffith Bad Pass Turnover (P1.T9),,Lennox STEAL (2 STL),,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,151,2,1,2,4:49 PM,4:09,,,MISS Lennox 18' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,152,4,0,2,4:49 PM,4:07,Brunson REBOUND (Off:1 Def:2),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,153,2,1,2,4:50 PM,3:54,MISS Penicheiro 6' Jump Shot,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,154,4,0,2,4:50 PM,3:53,,,Johnson REBOUND (Off:0 Def:1),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,155,1,1,2,4:50 PM,3:32,,,Lennox  3PT Jump Shot (11 PTS),31 - 29,-2,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,156,6,1,2,4:50 PM,3:26,,,Lawson-Wade P.FOUL (P1.PN),,,5,101018,Edwige Lawson-Wade,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,157,9,1,2,4:51 PM,3:26,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,161,3,11,2,4:53 PM,3:26,Penicheiro Free Throw 1 of 2 (5 PTS),,,31 - 30,-1,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,162,3,12,2,4:54 PM,3:26,Penicheiro Free Throw 2 of 2 (6 PTS),,,31 - 31,TIE,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,163,5,2,2,4:54 PM,3:08,Brunson STEAL (1 STL),,Lawson-Wade Lost Ball Turnover (P1.T9),,,5,101018,Edwige Lawson-Wade,1611661328.0,Seattle,Storm,SEA,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,164,5,1,2,4:55 PM,3:03,Penicheiro Bad Pass Turnover (P2.T10),,Turner STEAL (1 STL),,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,165,6,1,2,4:55 PM,2:59,Penicheiro P.FOUL (P1.T2),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,166,8,0,2,4:55 PM,2:59,,,SUB: Bird FOR Lawson-Wade,,,5,101018,Edwige Lawson-Wade,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,167,5,2,2,4:55 PM,2:51,Penicheiro STEAL (1 STL),,Lennox Lost Ball Turnover (P1.T10),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,168,2,1,2,4:55 PM,2:36,MISS Dorrell  3PT Jump Shot,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,169,4,0,2,4:55 PM,2:34,,,Jackson REBOUND (Off:0 Def:4),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,170,1,1,2,4:56 PM,2:30,,,Turner 5' Jump Shot (7 PTS),33 - 31,-2,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,171,6,2,2,4:56 PM,2:30,Griffith S.FOUL (P1.T3),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,172,8,0,2,4:56 PM,2:30,SUB: Maiga-Ba FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,173,3,10,2,4:56 PM,2:30,,,Turner Free Throw 1 of 1 (8 PTS),34 - 31,-3,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,174,2,1,2,4:56 PM,2:06,MISS Griffith 6' Jump Shot,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,175,4,0,2,4:56 PM,2:04,,,Johnson REBOUND (Off:0 Def:2),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,176,1,1,2,4:57 PM,1:58,,,Lennox  3PT Jump Shot (14 PTS),37 - 31,-6,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,177,5,41,2,4:57 PM,1:46,Penicheiro Poss Lost Ball Turnover (P3.T11),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,179,8,0,2,4:57 PM,1:46,SUB: Haynie FOR Penicheiro,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,180,10,0,2,4:57 PM,1:46,Jump Ball Maiga-Ba vs. Jackson: Tip to Lennox,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0
+1020600067,181,2,1,2,4:58 PM,1:23,,,MISS Turner  3PT Jump Shot,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,182,4,0,2,4:58 PM,1:21,Powell REBOUND (Off:0 Def:3),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,183,5,2,2,4:58 PM,1:11,Maiga-Ba Lost Ball Turnover (P1.T12),,Jackson STEAL (1 STL),,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,184,1,1,2,4:58 PM,0:56,,,Lennox 19' Jump Shot (16 PTS),39 - 31,-8,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,185,6,2,2,4:58 PM,0:56,Dorrell S.FOUL (P1.T4),,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,186,8,0,2,4:59 PM,0:56,,,SUB: Gortman FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,187,3,10,2,4:59 PM,0:56,,,Lennox Free Throw 1 of 1 (17 PTS),40 - 31,-9,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,188,1,1,2,4:59 PM,0:39,Dorrell 5' Jump Shot (2 PTS),,,40 - 33,-7,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,189,2,1,2,5:00 PM,0:24,,,MISS Lennox  3PT Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,190,4,0,2,5:00 PM,0:22,,,Bird REBOUND (Off:1 Def:0),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,191,5,1,2,5:00 PM,0:02,Powell STEAL (1 STL),,Bird Bad Pass Turnover (P1.T11),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,192,5,1,2,5:00 PM,0:00,Powell Bad Pass Turnover (P1.T13),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,193,13,0,2,5:00 PM,0:00,,End of 2nd Period (5:00 PM EST),,40 - 33,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,195,12,0,3,5:16 PM,10:00,,Start of 3rd Period (5:16 PM EST),,40 - 33,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,196,2,5,3,5:16 PM,9:40,MISS Griffith  Layup,,Jackson BLOCK (3 BLK),,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020600067,197,4,0,3,5:16 PM,9:39,,,Burse REBOUND (Off:0 Def:2),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,198,5,41,3,5:17 PM,9:19,,,Castro Marques Poss Lost Ball Turnover (P4.T12),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,199,10,0,3,5:17 PM,9:19,Jump Ball Griffith vs. Castro Marques: Tip to Powell,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600067,200,5,2,3,5:17 PM,8:59,Dorrell Lost Ball Turnover (P2.T14),,Bird STEAL (2 STL),,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,201,2,1,3,5:18 PM,8:38,,,MISS Castro Marques  3PT Jump Shot,,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,202,4,0,3,5:18 PM,8:36,Penicheiro REBOUND (Off:0 Def:1),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,203,1,1,3,5:18 PM,8:23,Powell  3PT Jump Shot (3 PTS) (Brunson 1 AST),,,40 - 36,-4,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,204,6,5,3,5:19 PM,8:09,Brunson IN.FOUL (P1.T1),,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,205,3,11,3,5:19 PM,8:09,,,Lennox Free Throw 1 of 2 (18 PTS),41 - 36,-5,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,206,3,12,3,5:19 PM,8:09,,,Lennox Free Throw 2 of 2 (19 PTS),42 - 36,-6,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,207,1,1,3,5:20 PM,8:01,Griffith 5' Jump Shot (6 PTS) (Dorrell 1 AST),,,42 - 38,-4,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,208,5,2,3,5:20 PM,7:43,Dorrell STEAL (1 STL),,Bird Lost Ball Turnover (P2.T13),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,209,2,1,3,5:20 PM,7:28,MISS Brunson 5' Jump Shot,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,210,4,0,3,5:20 PM,7:27,,,Jackson REBOUND (Off:0 Def:5),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,211,1,46,3,5:20 PM,7:19,,,Lennox 14' Running Jump Shot (21 PTS),44 - 38,-6,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,212,1,1,3,5:21 PM,7:07,Dorrell  3PT Jump Shot (5 PTS),,,44 - 41,-3,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,213,5,41,3,5:21 PM,6:55,,,Castro Marques Poss Lost Ball Turnover (P5.T14),,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,214,8,0,3,5:21 PM,6:55,,,SUB: Johnson FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,215,8,0,3,5:21 PM,6:55,SUB: Lawson FOR Dorrell,,,,,4,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,216,1,46,3,5:21 PM,6:37,Brunson 4' Running Jump Shot (2 PTS),,,44 - 43,-1,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,217,1,1,3,5:22 PM,6:23,,,Jackson 5' Jump Shot (8 PTS) (Bird 4 AST),46 - 43,-3,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,218,1,66,3,5:22 PM,6:07,Lawson 8' Jump Bank Shot (5 PTS),,,46 - 45,-1,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,219,5,1,3,5:22 PM,6:01,Penicheiro STEAL (2 STL),,Bird Bad Pass Turnover (P3.T15),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,220,1,1,3,5:22 PM,5:45,Griffith 12' Jump Shot (8 PTS),,,46 - 47,1,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,221,1,1,3,5:23 PM,5:26,,,Jackson  3PT Jump Shot (11 PTS) (Lennox 2 AST),49 - 47,-2,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,222,6,1,3,5:23 PM,5:08,,,Johnson P.FOUL (P1.T1),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,223,8,0,3,5:23 PM,5:08,,,SUB: Turner FOR Castro Marques,,,5,100796,Iziane Castro Marques,1611661328.0,Seattle,Storm,SEA,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,224,8,0,3,5:23 PM,5:08,,,SUB: Gortman FOR Lennox,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,225,8,0,3,5:23 PM,5:08,SUB: Maiga-Ba FOR Brunson,,,,,4,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,226,6,2,3,5:23 PM,5:02,,,Bird S.FOUL (P1.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,227,3,11,3,5:24 PM,5:02,MISS Penicheiro Free Throw 1 of 2,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,228,4,1,3,5:24 PM,5:02,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,229,3,12,3,5:24 PM,5:02,Penicheiro Free Throw 2 of 2 (7 PTS),,,49 - 48,-1,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,230,2,1,3,5:24 PM,4:51,,,MISS Bird 15' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,231,4,0,3,5:24 PM,4:50,Penicheiro REBOUND (Off:0 Def:2),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,232,6,1,3,5:24 PM,4:45,,,Bird P.FOUL (P2.T3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,233,9,4,3,5:25 PM,4:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,235,8,0,3,5:27 PM,4:45,,,SUB: Wright FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,236,8,0,3,5:27 PM,4:45,SUB: Smith FOR Powell,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,237,6,1,3,5:27 PM,4:39,,,Gortman P.FOUL (P1.T4),,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,238,2,1,3,5:28 PM,4:31,MISS Penicheiro 14' Jump Shot,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,239,4,0,3,5:28 PM,4:30,,,Johnson REBOUND (Off:0 Def:3),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,240,6,2,3,5:28 PM,4:12,Maiga-Ba S.FOUL (P2.T2),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,241,3,11,3,5:28 PM,4:12,,,Jackson Free Throw 1 of 2 (12 PTS),50 - 48,-2,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,242,3,12,3,5:29 PM,4:12,,,Jackson Free Throw 2 of 2 (13 PTS),51 - 48,-3,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,243,2,1,3,5:29 PM,3:47,MISS Penicheiro 16' Jump Shot,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,244,4,0,3,5:29 PM,3:46,Maiga-Ba REBOUND (Off:1 Def:1),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,245,2,1,3,5:29 PM,3:42,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,246,4,0,3,5:29 PM,3:40,,,Gortman REBOUND (Off:0 Def:1),,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,247,5,1,3,5:29 PM,3:38,Lawson STEAL (1 STL),,Gortman Bad Pass Turnover (P2.T16),,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,248,1,5,3,5:29 PM,3:37,Lawson  Layup (7 PTS),,,51 - 50,-1,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,249,6,2,3,5:29 PM,3:37,,,Johnson S.FOUL (P2.PN),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,250,8,0,3,5:30 PM,3:37,SUB: Perperoglou FOR Griffith,,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,251,8,0,3,5:30 PM,3:37,SUB: Haynie FOR Penicheiro,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,252,3,10,3,5:30 PM,3:37,Lawson Free Throw 1 of 1 (8 PTS),,,51 - 51,TIE,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,253,1,1,3,5:30 PM,3:21,,,Wright 14' Jump Shot (4 PTS),53 - 51,-2,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,254,5,1,3,5:30 PM,3:16,Haynie Bad Pass Turnover (P3.T15),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,255,8,0,3,5:31 PM,3:16,,,SUB: Bird FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,256,5,4,3,5:31 PM,3:03,,,Johnson Traveling Turnover (P1.T17),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020600067,257,6,4,3,5:32 PM,2:46,Perperoglou OFF.Foul (P1),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,258,5,5,3,5:32 PM,2:46,Perperoglou Foul Turnover (P2.T16),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020600067,259,2,1,3,5:32 PM,2:32,,,MISS Turner  3PT Jump Shot,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,260,4,0,3,5:32 PM,2:30,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,261,6,3,3,5:32 PM,2:30,,,Wright L.B.FOUL (P2.PN),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,262,3,11,3,5:33 PM,2:30,Haynie Free Throw 1 of 2 (3 PTS),,,53 - 52,-1,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,263,3,12,3,5:33 PM,2:30,MISS Haynie Free Throw 2 of 2,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,264,4,0,3,5:33 PM,2:29,Perperoglou REBOUND (Off:2 Def:0),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,265,5,1,3,5:33 PM,2:20,Haynie Bad Pass Turnover (P4.T17),,Wright STEAL (2 STL),,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,266,2,1,3,5:33 PM,2:14,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,267,4,0,3,5:33 PM,2:12,Haynie REBOUND (Off:1 Def:2),,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,268,6,1,3,5:34 PM,1:58,,,Turner P.FOUL (P1.PN),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,269,3,11,3,5:34 PM,1:58,MISS Maiga-Ba Free Throw 1 of 2,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,270,4,1,3,5:34 PM,1:58,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,271,8,0,3,5:34 PM,1:58,,,SUB: Burse FOR Johnson,,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,272,3,12,3,5:35 PM,1:58,MISS Maiga-Ba Free Throw 2 of 2,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,273,4,0,3,5:35 PM,1:57,,,Turner REBOUND (Off:2 Def:1),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,274,6,1,3,5:35 PM,1:46,Perperoglou P.FOUL (P2.T3),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,275,2,1,3,5:35 PM,1:37,,,MISS Gortman 13' Jump Shot,,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,276,4,0,3,5:35 PM,1:35,,,Gortman REBOUND (Off:1 Def:1),,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,277,5,1,3,5:36 PM,1:33,,,Gortman Bad Pass Turnover (P3.T18),,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,278,8,0,3,5:36 PM,1:33,SUB: Penicheiro FOR Haynie,,,,,4,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,279,1,1,3,5:36 PM,1:16,Lawson 18' Jump Shot (10 PTS) (Perperoglou 1 AST),,,53 - 54,1,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,280,2,1,3,5:36 PM,0:53,,,MISS Turner  3PT Jump Shot,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,281,4,0,3,5:37 PM,0:52,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,282,6,3,3,5:37 PM,0:52,Smith L.B.FOUL (P1.PN),,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,283,8,0,3,5:37 PM,0:52,,,SUB: Lennox FOR Gortman,,,5,100728,Shaunzinski Gortman,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,284,2,1,3,5:37 PM,0:39,,,MISS Turner 8' Jump Shot,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,285,4,0,3,5:37 PM,0:38,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,286,8,0,3,5:37 PM,0:38,SUB: Powell FOR Smith,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,287,5,1,3,5:38 PM,0:31,Perperoglou Bad Pass Turnover (P3.T18),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,288,1,1,3,5:38 PM,0:10,,,Bird  3PT Jump Shot (3 PTS),56 - 54,-2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,289,2,1,3,5:38 PM,0:00,MISS Perperoglou 4' Jump Shot,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,291,4,0,3,5:38 PM,0:00,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,290,13,0,3,5:38 PM,0:00,,End of 3rd Period (5:38 PM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,293,12,0,4,5:41 PM,10:00,,Start of 4th Period (5:41 PM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,294,2,1,4,5:41 PM,9:47,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,295,4,0,4,5:41 PM,9:45,Penicheiro REBOUND (Off:0 Def:3),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,296,6,2,4,5:42 PM,9:41,,,Jackson S.FOUL (P2.T1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,297,3,11,4,5:42 PM,9:41,Perperoglou Free Throw 1 of 2 (7 PTS),,,56 - 55,-1,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,298,3,12,4,5:42 PM,9:41,Perperoglou Free Throw 2 of 2 (8 PTS),,,56 - 56,TIE,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,299,5,1,4,5:43 PM,9:17,Powell STEAL (2 STL),,Bird Bad Pass Turnover (P4.T19),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,300,2,1,4,5:43 PM,9:09,MISS Powell  3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,301,4,0,4,5:43 PM,9:08,,,Jackson REBOUND (Off:0 Def:6),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,302,2,1,4,5:43 PM,8:53,,,MISS Wright 15' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,303,4,0,4,5:43 PM,8:51,,,Burse REBOUND (Off:1 Def:2),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,304,6,1,4,5:43 PM,8:51,Maiga-Ba P.FOUL (P3.T1),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,305,9,1,4,5:43 PM,8:51,,,Storm Timeout: Regular (Reg.3 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,308,8,0,4,5:46 PM,8:51,SUB: Griffith FOR Perperoglou,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,310,1,5,4,5:47 PM,8:29,,,Burse  Layup (2 PTS) (Lennox 3 AST),58 - 56,-2,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,311,6,2,4,5:47 PM,8:11,,,Burse S.FOUL (P4.T2),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,312,3,11,4,5:47 PM,8:11,Penicheiro Free Throw 1 of 2 (8 PTS),,,58 - 57,-1,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,313,3,12,4,5:48 PM,8:11,Penicheiro Free Throw 2 of 2 (9 PTS),,,58 - 58,TIE,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,314,1,1,4,5:48 PM,7:53,,,Wright 5' Jump Shot (6 PTS),60 - 58,-2,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,315,6,2,4,5:48 PM,7:53,Powell S.FOUL (P3.T2),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,316,8,0,4,5:48 PM,7:53,,,SUB: Turner FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,317,3,10,4,5:48 PM,7:53,,,MISS Wright Free Throw 1 of 1,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,318,4,0,4,5:49 PM,7:52,,,Jackson REBOUND (Off:1 Def:6),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,319,2,1,4,5:49 PM,7:48,,,MISS Wright 10' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,320,4,0,4,5:49 PM,7:47,,,Turner REBOUND (Off:3 Def:1),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,321,6,2,4,5:49 PM,7:39,Maiga-Ba S.FOUL (P4.T3),,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,322,3,11,4,5:49 PM,7:39,,,Jackson Free Throw 1 of 2 (14 PTS),61 - 58,-3,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,323,8,0,4,5:49 PM,7:39,SUB: Smith FOR Lawson,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,324,3,12,4,5:50 PM,7:39,,,Jackson Free Throw 2 of 2 (15 PTS),62 - 58,-4,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,325,6,2,4,5:50 PM,7:22,,,Turner S.FOUL (P2.T3),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,326,3,11,4,5:50 PM,7:22,MISS Penicheiro Free Throw 1 of 2,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,327,4,1,4,5:50 PM,7:22,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,328,3,12,4,5:50 PM,7:22,Penicheiro Free Throw 2 of 2 (10 PTS),,,62 - 59,-3,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,329,6,2,4,5:51 PM,7:12,Smith S.FOUL (P2.T4),,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,330,3,11,4,5:51 PM,7:12,,,Jackson Free Throw 1 of 2 (16 PTS),63 - 59,-4,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,331,3,12,4,5:51 PM,7:12,,,Jackson Free Throw 2 of 2 (17 PTS),64 - 59,-5,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,332,1,46,4,5:52 PM,6:57,Penicheiro 5' Running Jump Shot (12 PTS),,,64 - 61,-3,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,333,2,42,4,5:52 PM,6:41,,,MISS Wright  Driving Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,334,4,0,4,5:52 PM,6:40,Penicheiro REBOUND (Off:0 Def:4),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,335,1,1,4,5:52 PM,6:33,Powell 6' Jump Shot (5 PTS) (Penicheiro 3 AST),,,64 - 63,-1,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,336,6,1,4,5:53 PM,6:18,Smith P.FOUL (P3.PN),,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,337,8,0,4,5:53 PM,6:18,SUB: Perperoglou FOR Maiga-Ba,,,,,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,338,8,0,4,5:53 PM,6:18,,,SUB: Bird FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,339,3,11,4,5:53 PM,6:18,,,Turner Free Throw 1 of 2 (9 PTS),65 - 63,-2,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,340,3,12,4,5:53 PM,6:18,,,Turner Free Throw 2 of 2 (10 PTS),66 - 63,-3,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,341,2,1,4,5:53 PM,6:11,MISS Powell  3PT Jump Shot,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,342,4,0,4,5:53 PM,6:09,,,Burse REBOUND (Off:1 Def:3),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,343,5,41,4,5:53 PM,6:07,,,Burse Poss Lost Ball Turnover (P2.T20),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,344,8,0,4,5:54 PM,6:07,,,SUB: Johnson FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,345,10,0,4,5:54 PM,6:07,Jump Ball Penicheiro vs. Bird: Tip to Powell,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600067,346,6,2,4,5:54 PM,5:59,,,Bird S.FOUL (P3.T4),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,347,3,11,4,5:54 PM,5:59,MISS Penicheiro Free Throw 1 of 2,,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,348,4,1,4,5:54 PM,5:59,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,350,7,3,4,5:55 PM,5:59,Perperoglou Violation:Lane,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020600067,360,7,3,4,5:55 PM,5:59,,,Jackson Violation:Lane,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020600067,351,10,0,4,5:55 PM,5:59,Jump Ball Perperoglou vs. Jackson: Tip to Penicheiro,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600067,353,2,1,4,5:56 PM,5:49,MISS Smith 17' Jump Shot,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,354,4,0,4,5:56 PM,5:47,,,Jackson REBOUND (Off:1 Def:7),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,355,6,1,4,5:56 PM,5:32,Smith P.FOUL (P4.PN),,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,356,3,11,4,5:56 PM,5:32,,,Lennox Free Throw 1 of 2 (22 PTS),67 - 63,-4,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,357,8,0,4,5:56 PM,5:32,SUB: Lawson FOR Smith,,,,,4,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,358,3,12,4,5:56 PM,5:32,,,Lennox Free Throw 2 of 2 (23 PTS),68 - 63,-5,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,359,6,2,4,5:57 PM,5:14,,,Johnson S.FOUL (P3.PN),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,361,3,11,4,5:57 PM,5:14,Perperoglou Free Throw 1 of 2 (9 PTS),,,68 - 64,-4,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,362,8,0,4,5:58 PM,5:14,,,SUB: Burse FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,363,3,12,4,5:58 PM,5:14,Perperoglou Free Throw 2 of 2 (10 PTS),,,68 - 65,-3,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,364,5,2,4,5:58 PM,5:02,Griffith STEAL (1 STL),,Lennox Lost Ball Turnover (P2.T21),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,365,1,42,4,5:58 PM,4:58,Lawson  Driving Layup (12 PTS),,,68 - 67,-1,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,366,6,1,4,5:58 PM,4:38,Penicheiro P.FOUL (P2.PN),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,367,3,11,4,5:59 PM,4:38,,,Bird Free Throw 1 of 2 (4 PTS),69 - 67,-2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,368,3,12,4,5:59 PM,4:38,,,Bird Free Throw 2 of 2 (5 PTS),70 - 67,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,370,1,1,4,5:59 PM,4:23,Lawson 15' Jump Shot (14 PTS),,,70 - 69,-1,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,371,5,2,4,6:00 PM,4:03,Penicheiro STEAL (3 STL),,Burse Lost Ball Turnover (P3.T22),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,372,2,1,4,6:00 PM,3:55,MISS Lawson  3PT Jump Shot,,,,,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,373,4,0,4,6:00 PM,3:53,,,Lennox REBOUND (Off:0 Def:2),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,374,9,2,4,6:00 PM,3:47,,,Storm Timeout: Short (Reg.3 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,376,8,0,4,6:01 PM,3:47,,,SUB: Wright FOR Lennox,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,378,2,1,4,6:01 PM,3:28,,,MISS Wright 11' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,379,4,0,4,6:01 PM,3:27,,,Johnson REBOUND (Off:1 Def:3),,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,380,5,1,4,6:02 PM,3:15,Griffith STEAL (2 STL),,Bird Bad Pass Turnover (P5.T23),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,381,2,1,4,6:02 PM,2:51,MISS Perperoglou 18' Jump Shot,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,382,4,0,4,6:02 PM,2:50,Perperoglou REBOUND (Off:3 Def:0),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,383,1,1,4,6:02 PM,2:48,Perperoglou 5' Jump Shot (12 PTS),,,70 - 71,1,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,384,5,2,4,6:02 PM,2:33,Penicheiro STEAL (4 STL),,Bird Lost Ball Turnover (P6.T24),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,385,1,42,4,6:02 PM,2:29,Perperoglou  Driving Layup (14 PTS) (Penicheiro 4 AST),,,70 - 73,3,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,386,9,1,4,6:03 PM,2:18,,,Storm Timeout: Regular (Reg.4 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,389,8,0,4,6:05 PM,2:18,,,SUB: Jackson FOR Turner,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,390,8,0,4,6:05 PM,2:18,,,SUB: Lennox FOR Johnson,,,5,100233,Tiffani Johnson,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,391,2,1,4,6:06 PM,2:01,,,MISS Lennox 17' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,392,4,0,4,6:06 PM,1:59,,,Burse REBOUND (Off:2 Def:3),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,393,5,2,4,6:06 PM,1:37,Penicheiro STEAL (5 STL),,Lennox Lost Ball Turnover (P3.T25),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,394,5,1,4,6:06 PM,1:23,Penicheiro Bad Pass Turnover (P4.T19),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,395,2,1,4,6:07 PM,1:02,,,MISS Lennox  3PT Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,396,4,0,4,6:07 PM,1:00,Penicheiro REBOUND (Off:0 Def:5),,,,,4,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,397,9,1,4,6:07 PM,0:54,MONARCHS Timeout: Regular (Full 1 Short 0),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,399,8,0,4,6:08 PM,0:54,,,SUB: Turner FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,401,1,1,4,6:09 PM,0:40,Lawson 15' Jump Shot (16 PTS),,,70 - 75,5,4,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,402,2,1,4,6:09 PM,0:29,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,403,4,0,4,6:09 PM,0:27,,,Turner REBOUND (Off:4 Def:1),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,404,6,2,4,6:10 PM,0:24,Perperoglou S.FOUL (P3.PN),,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,405,3,13,4,6:10 PM,0:24,,,Turner Free Throw 1 of 3 (11 PTS),71 - 75,4,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,406,3,14,4,6:10 PM,0:24,,,Turner Free Throw 2 of 3 (12 PTS),72 - 75,3,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,407,3,15,4,6:10 PM,0:24,,,Turner Free Throw 3 of 3 (13 PTS),73 - 75,2,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,408,9,2,4,6:10 PM,0:24,MONARCHS Timeout: Short (Full 1 Short 1),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,412,9,2,4,6:12 PM,0:24,MONARCHS Timeout: Short (Full 1 Short 2),,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,413,6,1,4,6:13 PM,0:21,,,Wright P.FOUL (P3.PN),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600067,414,3,11,4,6:13 PM,0:21,MISS Powell Free Throw 1 of 2,,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,415,4,1,4,6:13 PM,0:21,MONARCHS Rebound,,,,,2,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,416,3,12,4,6:13 PM,0:21,Powell Free Throw 2 of 2 (6 PTS),,,73 - 76,3,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,417,9,2,4,6:13 PM,0:21,,,Storm Timeout: Short (Reg.4 Short 2),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600067,419,8,0,4,6:14 PM,0:21,SUB: Maiga-Ba FOR Perperoglou,,,,,4,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600067,421,2,1,4,6:15 PM,0:04,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,422,4,0,4,6:15 PM,0:03,,,Jackson REBOUND (Off:2 Def:7),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,423,2,1,4,6:15 PM,0:01,,,MISS Jackson 13' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,424,4,0,4,6:15 PM,0:01,,,Turner REBOUND (Off:5 Def:1),,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,425,6,2,4,6:15 PM,0:01,Griffith S.FOUL (P2.PN),,,,,4,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020600067,426,3,11,4,6:15 PM,0:01,,,Turner Free Throw 1 of 2 (14 PTS),74 - 76,2,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,427,8,0,4,6:16 PM,0:01,,,SUB: Burse FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020600067,428,3,12,4,6:16 PM,0:01,,,MISS Turner Free Throw 2 of 2,,,5,200681,Barbara Turner,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020600067,429,4,0,4,6:16 PM,0:00,Powell REBOUND (Off:0 Def:4),,,,,4,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600067,430,13,0,4,6:16 PM,0:00,,End of 4th Period (6:16 PM EST),,74 - 76,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

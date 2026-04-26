@@ -1,0 +1,403 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021700078,0,12,0,1,7:10 PM,10:00,,Start of 1st Period (7:10 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,1,10,0,1,7:10 PM,10:00,Jump Ball J. Jones vs. Ogwumike: Tip to A. Thomas,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021700078,2,2,1,1,7:11 PM,9:43,MISS Williams 18' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,3,4,0,1,7:11 PM,9:42,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,4,6,3,1,7:11 PM,9:42,,,Ogwumike L.B.FOUL (P1.T1),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,5,2,63,1,7:11 PM,9:28,MISS Williams 19' Fadeaway Jumper,,Williams BLOCK (1 BLK),,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,6,4,0,1,7:11 PM,9:27,J. Jones REBOUND (Off:1 Def:0),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,7,1,5,1,7:11 PM,9:25,J. Jones 1' Layup (2 PTS),,,0 - 2,2,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,8,1,5,1,7:11 PM,9:10,,,Ogwumike 2' Layup (2 PTS) (Beard 1 AST),2 - 2,TIE,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,9,1,43,1,7:12 PM,8:57,A. Thomas 3' Alley Oop Layup (2 PTS) (J. Thomas 1 AST),,,2 - 4,2,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,10,1,80,1,7:12 PM,8:31,,,Ogwumike 10' Step Back Jump Shot (4 PTS) (Williams 1 AST),4 - 4,TIE,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,11,5,1,1,7:12 PM,8:16,Williams Bad Pass Turnover (P1.T1),,Parker STEAL (1 STL),,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,12,2,1,1,7:13 PM,8:07,,,MISS Parker 3PT Jump Shot,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,13,4,0,1,7:13 PM,8:06,J. Thomas REBOUND (Off:0 Def:1),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,14,2,1,1,7:13 PM,8:01,MISS J. Thomas 3' Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,15,4,0,1,7:13 PM,7:59,,,Parker REBOUND (Off:0 Def:1),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,16,1,41,1,7:13 PM,7:53,,,Ogwumike 2' Running Layup (6 PTS),6 - 4,-2,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,17,1,1,1,7:13 PM,7:38,Stricklen 25' 3PT Jump Shot (3 PTS) (J. Jones 1 AST),,,6 - 7,1,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,18,2,86,1,7:13 PM,7:16,,,MISS Parker 12' Turnaround Fadeaway Shot,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,19,4,0,1,7:13 PM,7:15,J. Jones REBOUND (Off:1 Def:1),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,20,6,2,1,7:14 PM,7:08,,,Parker S.FOUL (P1.T2),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,21,3,11,1,7:14 PM,7:08,A. Thomas Free Throw 1 of 2 (3 PTS),,,6 - 8,2,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,23,3,12,1,7:14 PM,7:08,A. Thomas Free Throw 2 of 2 (4 PTS),,,6 - 9,3,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,26,1,1,1,7:15 PM,6:50,,,Ogwumike 24' 3PT Jump Shot (9 PTS) (Gray 1 AST),9 - 9,TIE,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,27,2,1,1,7:15 PM,6:38,MISS A. Thomas 16' Jump Shot,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,28,4,0,1,7:15 PM,6:37,J. Jones REBOUND (Off:2 Def:1),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,29,2,5,1,7:15 PM,6:34,MISS J. Jones 1' Layup,,Parker BLOCK (1 BLK),,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,30,4,0,1,7:15 PM,6:33,J. Jones REBOUND (Off:3 Def:1),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,31,2,5,1,7:15 PM,6:32,MISS J. Jones 1' Layup,,Parker BLOCK (2 BLK),,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,32,10,0,1,7:16 PM,6:22,Jump Ball J. Jones vs. Parker: Tip to Stricklen,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,1
+1021700078,33,4,0,1,7:16 PM,6:22,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,34,2,1,1,7:16 PM,6:22,MISS A. Thomas 3' Jump Shot,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,35,4,0,1,7:16 PM,6:21,J. Thomas REBOUND (Off:1 Def:1),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,36,2,5,1,7:16 PM,6:20,MISS J. Thomas 2' Layup,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,37,4,0,1,7:16 PM,6:19,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,38,6,3,1,7:16 PM,6:19,A. Thomas L.B.FOUL (P1.T1),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,39,1,1,1,7:16 PM,6:08,,,Beard 16' Jump Shot (2 PTS),11 - 9,-2,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,40,1,79,1,7:16 PM,5:54,J. Thomas 15' Pullup Jump Shot (2 PTS),,,11 - 11,TIE,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,41,2,1,1,7:17 PM,5:42,,,MISS Williams 3PT Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,42,4,0,1,7:17 PM,5:40,A. Thomas REBOUND (Off:0 Def:1),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,43,2,5,1,7:17 PM,5:33,MISS J. Jones 3' Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,44,4,0,1,7:17 PM,5:32,,,Ogwumike REBOUND (Off:0 Def:1),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,45,2,1,1,7:17 PM,5:24,,,MISS Williams 25' 3PT Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,46,4,0,1,7:17 PM,5:23,J. Jones REBOUND (Off:3 Def:2),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,48,2,1,1,7:17 PM,5:13,MISS Williams 18' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,49,4,0,1,7:17 PM,5:12,,,Beard REBOUND (Off:0 Def:1),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,60,5,1,1,7:17 PM,5:07,A. Thomas STEAL (1 STL),,Beard Bad Pass Turnover (P1.T1),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,67,5,40,1,7:17 PM,5:06,A. Thomas Out of Bounds Lost Ball Turnover (P1.T2),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,51,1,1,1,7:18 PM,4:50,,,Ogwumike 5' Jump Shot (11 PTS) (Williams 2 AST),13 - 11,-2,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,52,5,1,1,7:18 PM,4:38,J. Jones Bad Pass Turnover (P1.T3),,Ogwumike STEAL (1 STL),,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,53,1,41,1,7:18 PM,4:32,,,Parker Running Layup (2 PTS) (Beard 2 AST),15 - 11,-4,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,54,2,5,1,7:18 PM,4:23,MISS J. Thomas 2' Layup,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,55,4,0,1,7:18 PM,4:22,,,Beard REBOUND (Off:0 Def:2),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,56,6,2,1,7:18 PM,4:13,J. Jones S.FOUL (P1.T2),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,57,9,4,1,7:19 PM,4:13,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,62,8,0,1,7:21 PM,4:13,SUB: B. Jones FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,63,8,0,1,7:21 PM,4:13,,,SUB: Sims FOR Beard,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,64,8,0,1,7:21 PM,4:13,,,SUB: Lavender FOR Parker,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,65,3,11,1,7:21 PM,4:13,,,Williams Free Throw 1 of 2 (1 PTS),16 - 11,-5,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,68,3,12,1,7:21 PM,4:13,,,Williams Free Throw 2 of 2 (2 PTS),17 - 11,-6,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,71,2,3,1,7:22 PM,3:56,MISS B. Jones Hook Shot,,,,,4.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,72,4,0,1,7:22 PM,3:55,,,Ogwumike REBOUND (Off:0 Def:2),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,73,1,1,1,7:22 PM,3:39,,,Ogwumike 16' Jump Shot (13 PTS) (Sims 1 AST),19 - 11,-8,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,75,6,2,1,7:22 PM,3:19,,,Lavender S.FOUL (P1.T3),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,76,3,11,1,7:23 PM,3:19,MISS B. Jones Free Throw 1 of 2,,,,,4.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,77,4,1,1,7:23 PM,3:19,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,78,3,12,1,7:23 PM,3:19,B. Jones Free Throw 2 of 2 (1 PTS),,,19 - 12,-7,4.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,81,5,39,1,7:23 PM,3:05,,,Gray Step Out of Bounds Turnover (P1.T2),,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1021700078,82,8,0,1,7:23 PM,3:05,SUB: Bentley FOR Williams,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,83,1,1,1,7:24 PM,2:49,J. Thomas 3PT Jump Shot (5 PTS) (A. Thomas 1 AST),,,19 - 15,-4,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,84,2,1,1,7:24 PM,2:38,,,MISS Sims 21' Jump Shot,,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,85,4,0,1,7:24 PM,2:37,A. Thomas REBOUND (Off:0 Def:2),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,86,5,2,1,7:24 PM,2:33,A. Thomas Lost Ball Turnover (P2.T4),,Williams STEAL (1 STL),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,87,1,41,1,7:24 PM,2:28,,,Williams 1' Running Layup (4 PTS),21 - 15,-6,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,88,2,1,1,7:24 PM,2:16,MISS Stricklen 25' 3PT Jump Shot,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,89,4,0,1,7:24 PM,2:14,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,90,8,0,1,7:24 PM,2:14,,,SUB: Beard FOR Gray,,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,93,8,0,1,7:25 PM,2:13,,,SUB: Parker FOR Ogwumike,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,94,2,1,1,7:25 PM,2:07,MISS J. Thomas 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,95,4,0,1,7:25 PM,2:06,,,Parker REBOUND (Off:0 Def:2),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,96,1,79,1,7:25 PM,1:57,,,Beard 17' Pullup Jump Shot (4 PTS) (Parker 1 AST),23 - 15,-8,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,97,5,1,1,7:26 PM,1:41,B. Jones Bad Pass Turnover (P1.T5),,Beard STEAL (1 STL),,,4.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,98,1,1,1,7:26 PM,1:30,,,Lavender 21' Jump Shot (2 PTS) (Williams 3 AST),25 - 15,-10,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,99,9,1,1,7:26 PM,1:30,SUN Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,101,8,0,1,7:27 PM,1:30,SUB: J. Jones FOR B. Jones,,,,,4.0,1628280,Brionna Jones,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,102,5,1,1,7:28 PM,1:13,A. Thomas Bad Pass Turnover (P3.T6),,Sims STEAL (1 STL),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,103,5,45,1,7:28 PM,1:05,,,Sims Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,104,2,5,1,7:28 PM,0:53,MISS J. Jones 1' Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,105,4,0,1,7:28 PM,0:51,,,Beard REBOUND (Off:0 Def:3),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,106,1,1,1,7:28 PM,0:43,,,Lavender 20' Jump Shot (4 PTS) (Beard 3 AST),27 - 15,-12,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,107,1,75,1,7:28 PM,0:34,J. Thomas 3' Driving Finger Roll Layup (7 PTS),,,27 - 17,-10,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,108,2,1,1,7:29 PM,0:15,,,MISS Beard 19' Jump Shot,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,109,4,0,1,7:29 PM,0:13,A. Thomas REBOUND (Off:0 Def:3),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,110,6,1,1,7:29 PM,0:11,,,Sims P.FOUL (P1.T4),,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,111,8,0,1,7:29 PM,0:11,,,SUB: Gray FOR Sims,,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,113,2,1,1,7:29 PM,0:04,MISS J. Thomas 19' Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,114,4,0,1,7:29 PM,0:02,,,Williams REBOUND (Off:0 Def:1),,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,115,2,1,1,7:30 PM,0:00,,,MISS Williams 24' 3PT Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,117,4,0,1,7:30 PM,0:00,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,116,13,0,1,7:30 PM,0:00,,End of 1st Period (7:30 PM EST),,27 - 17,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,119,12,0,2,7:32 PM,10:00,,Start of 2nd Period (7:32 PM EST),,27 - 17,-10,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,120,2,1,2,7:32 PM,9:47,,,MISS Lavender 20' Jump Shot,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,121,4,0,2,7:32 PM,9:46,A. Thomas REBOUND (Off:0 Def:4),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,122,6,4,2,7:32 PM,9:42,A. Thomas OFF.Foul (P2),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,123,5,5,2,7:32 PM,9:42,A. Thomas Foul Turnover (P4.T7),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700078,124,8,0,2,7:33 PM,9:42,SUB: Pedersen FOR A. Thomas,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,125,1,1,2,7:33 PM,9:29,,,Wiese 24' 3PT Jump Shot (3 PTS) (Parker 2 AST),30 - 17,-13,5.0,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,126,1,1,2,7:33 PM,9:14,Bentley 26' 3PT Jump Shot (3 PTS),,,30 - 20,-10,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,127,6,1,2,7:34 PM,8:55,J. Thomas P.FOUL (P1.T1),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,129,1,1,2,7:34 PM,8:49,,,Lavender 19' Jump Shot (6 PTS) (Gray 2 AST),32 - 20,-12,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,130,2,5,2,7:34 PM,8:32,MISS Pedersen 1' Layup,,Parker BLOCK (3 BLK),,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,131,4,0,2,7:34 PM,8:29,,,Beard REBOUND (Off:0 Def:4),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,132,2,5,2,7:34 PM,8:25,,,MISS Beard 1' Layup,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,133,4,0,2,7:34 PM,8:24,Bentley REBOUND (Off:0 Def:1),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,134,2,1,2,7:34 PM,8:18,MISS Bentley 20' Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,135,4,0,2,7:34 PM,8:16,J. Jones REBOUND (Off:4 Def:2),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,136,1,72,2,7:34 PM,8:14,J. Jones 2' Putback Layup (4 PTS),,,32 - 22,-10,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,137,5,1,2,7:35 PM,7:50,J. Thomas STEAL (1 STL),,Lavender Bad Pass Turnover (P1.T4),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,138,1,86,2,7:35 PM,7:39,J. Jones 11' Turnaround Fadeaway (6 PTS) (J. Thomas 2 AST),,,32 - 24,-8,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,139,9,1,2,7:35 PM,7:32,,,Sparks Timeout: Regular (Reg.1 Short 0),,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,142,8,0,2,7:38 PM,7:32,,,SUB: Williams FOR Lavender,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,143,8,0,2,7:38 PM,7:32,,,SUB: Ogwumike FOR Wiese,,,5.0,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,144,5,4,2,7:38 PM,7:22,,,Beard Traveling Turnover (P2.T5),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1021700078,145,2,1,2,7:39 PM,7:04,MISS Pedersen 14' Jump Shot,,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,146,4,0,2,7:39 PM,7:03,,,Parker REBOUND (Off:0 Def:3),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,147,2,1,2,7:39 PM,6:56,,,MISS Parker 25' 3PT Jump Shot,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,148,4,0,2,7:39 PM,6:55,Stricklen REBOUND (Off:0 Def:1),,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,149,6,1,2,7:39 PM,6:48,,,Beard P.FOUL (P1.T1),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,150,8,0,2,7:39 PM,6:48,SUB: Williams FOR Stricklen,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,151,8,0,2,7:39 PM,6:48,SUB: A. Thomas FOR J. Thomas,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,152,8,0,2,7:39 PM,6:48,,,SUB: Lavender FOR Williams,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,153,2,1,2,7:40 PM,6:36,MISS Bentley 17' Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,154,4,0,2,7:40 PM,6:35,,,Ogwumike REBOUND (Off:0 Def:3),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,155,2,1,2,7:40 PM,6:25,,,MISS Lavender 21' Jump Shot,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,156,4,0,2,7:40 PM,6:24,Williams REBOUND (Off:0 Def:1),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,157,6,2,2,7:40 PM,6:19,,,Lavender S.FOUL (P2.T2),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,158,3,11,2,7:40 PM,6:19,J. Jones Free Throw 1 of 2 (7 PTS),,,32 - 25,-7,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,160,8,0,2,7:40 PM,6:19,,,SUB: Sims FOR Beard,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,161,3,12,2,7:41 PM,6:19,J. Jones Free Throw 2 of 2 (8 PTS),,,32 - 26,-6,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,163,10,0,2,7:42 PM,6:02,Jump Ball A. Thomas vs. Ogwumike: Tip to Parker,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,164,5,11,2,7:42 PM,5:54,,,Sparks Turnover: Shot Clock (T#6),,,3.0,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700078,166,2,5,2,7:43 PM,5:41,MISS J. Jones Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,167,4,0,2,7:43 PM,5:40,,,Lavender REBOUND (Off:0 Def:1),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,168,6,1,2,7:43 PM,5:22,Pedersen P.FOUL (P1.T2),,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,169,6,2,2,7:44 PM,5:13,J. Jones S.FOUL (P2.T3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,170,3,11,2,7:44 PM,5:13,,,Gray Free Throw 1 of 2 (1 PTS),33 - 26,-7,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,172,3,12,2,7:44 PM,5:13,,,Gray Free Throw 2 of 2 (2 PTS),34 - 26,-8,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,175,1,81,2,7:44 PM,5:04,Williams 16' Pullup Bank Shot (2 PTS) (Pedersen 1 AST),,,34 - 28,-6,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,176,1,86,2,7:45 PM,4:43,,,Parker 11' Turnaround Fadeaway (4 PTS) (Sims 2 AST),36 - 28,-8,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,177,2,1,2,7:45 PM,4:29,MISS Bentley 15' Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,178,4,0,2,7:45 PM,4:28,,,Parker REBOUND (Off:0 Def:4),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,179,2,1,2,7:45 PM,4:21,,,MISS Lavender 17' Jump Shot,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,180,4,0,2,7:45 PM,4:19,,,Lavender REBOUND (Off:1 Def:1),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,181,6,2,2,7:45 PM,4:06,Pedersen S.FOUL (P2.T4),,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,182,3,11,2,7:46 PM,4:06,,,Parker Free Throw 1 of 2 (5 PTS),37 - 28,-9,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,184,8,0,2,7:46 PM,4:06,,,SUB: Williams FOR Sims,,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,185,3,12,2,7:46 PM,4:06,,,MISS Parker Free Throw 2 of 2,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,187,4,0,2,7:46 PM,4:06,A. Thomas REBOUND (Off:0 Def:5),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,188,2,1,2,7:46 PM,3:49,MISS Williams 16' Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,189,4,0,2,7:46 PM,3:48,,,Lavender REBOUND (Off:1 Def:2),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,190,5,1,2,7:46 PM,3:38,Williams STEAL (1 STL),,Gray Bad Pass Turnover (P2.T7),,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,191,1,41,2,7:47 PM,3:34,Williams 1' Running Layup (4 PTS),,,37 - 30,-7,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,192,6,29,2,7:47 PM,3:12,J. Jones Shooting Block Foul (P3.PN),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,193,3,11,2,7:47 PM,3:12,,,MISS Parker Free Throw 1 of 2,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,194,4,1,2,7:47 PM,3:12,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,195,8,0,2,7:47 PM,3:12,SUB: Stricklen FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,196,8,0,2,7:47 PM,3:12,SUB: J. Thomas FOR Bentley,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,197,8,0,2,7:48 PM,3:12,,,SUB: Sims FOR Gray,,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,198,8,0,2,7:48 PM,3:12,,,SUB: Beard FOR Lavender,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,199,3,12,2,7:48 PM,3:12,,,Parker Free Throw 2 of 2 (6 PTS),38 - 30,-8,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,201,1,1,2,7:48 PM,2:55,Pedersen 19' Jump Shot (2 PTS) (Williams 1 AST),,,38 - 32,-6,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,202,6,4,2,7:49 PM,2:38,,,Parker OFF.Foul (P2),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,203,5,5,2,7:49 PM,2:38,,,Parker Foul Turnover (P1.T8),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1021700078,204,9,1,2,7:50 PM,2:38,SUN Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,208,6,2,2,7:52 PM,2:24,,,Williams S.FOUL (P1.T3),,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,209,3,11,2,7:52 PM,2:24,Pedersen Free Throw 1 of 2 (3 PTS),,,38 - 33,-5,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,211,3,12,2,7:52 PM,2:24,Pedersen Free Throw 2 of 2 (4 PTS),,,38 - 34,-4,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,213,2,1,2,7:52 PM,2:09,,,MISS Sims 21' Jump Shot,,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,214,4,0,2,7:52 PM,2:08,Williams REBOUND (Off:0 Def:2),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,215,6,1,2,7:53 PM,2:07,,,Parker P.FOUL (P3.T4),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,216,8,0,2,7:53 PM,2:07,,,SUB: Gray FOR Sims,,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,217,2,1,2,7:53 PM,1:52,MISS J. Thomas 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,218,4,0,2,7:53 PM,1:51,,,Ogwumike REBOUND (Off:0 Def:4),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,219,1,1,2,7:53 PM,1:40,,,Williams 3PT Jump Shot (7 PTS) (Beard 4 AST),41 - 34,-7,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,220,5,2,2,7:54 PM,1:26,A. Thomas Lost Ball Turnover (P5.T8),,Williams STEAL (2 STL),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,221,1,5,2,7:54 PM,1:09,,,Ogwumike 1' Layup (15 PTS) (Williams 4 AST),43 - 34,-9,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,222,6,2,2,7:54 PM,0:46,,,Williams S.FOUL (P2.PN),,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,223,3,11,2,7:55 PM,0:46,Williams Free Throw 1 of 2 (5 PTS),,,43 - 35,-8,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,225,8,0,2,7:55 PM,0:46,,,SUB: Lavender FOR Parker,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,226,3,12,2,7:55 PM,0:46,Williams Free Throw 2 of 2 (6 PTS),,,43 - 36,-7,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,229,2,79,2,7:55 PM,0:32,,,MISS Williams 16' Pullup Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,230,4,0,2,7:55 PM,0:31,,,Ogwumike REBOUND (Off:1 Def:4),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,231,1,72,2,7:55 PM,0:31,,,Ogwumike 2' Putback Layup (17 PTS),45 - 36,-9,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,232,1,101,2,7:55 PM,0:21,J. Thomas 4' Driving Floating Jump Shot (9 PTS),,,45 - 38,-7,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,233,6,2,2,7:55 PM,0:21,,,Beard S.FOUL (P2.PN),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,234,3,10,2,7:56 PM,0:21,J. Thomas Free Throw 1 of 1 (10 PTS),,,45 - 39,-6,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,237,9,2,2,7:56 PM,0:21,,,Sparks Timeout: Short (Reg.1 Short 1),,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,239,2,1,2,7:57 PM,0:03,,,MISS Lavender 21' Jump Shot,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,240,4,0,2,7:57 PM,0:02,Stricklen REBOUND (Off:0 Def:2),,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,241,2,1,2,7:57 PM,0:00,MISS J. Thomas 30' 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,243,4,0,2,7:57 PM,0:00,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,242,13,0,2,7:57 PM,0:00,,End of 2nd Period (7:57 PM EST),,45 - 39,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,245,12,0,3,8:13 PM,10:00,,Start of 3rd Period (8:13 PM EST),,45 - 39,-6,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,246,1,98,3,8:13 PM,9:44,,,Beard 1' Cutting Layup Shot (6 PTS) (Parker 3 AST),47 - 39,-8,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,247,2,5,3,8:13 PM,9:21,MISS A. Thomas 1' Layup,,Parker BLOCK (4 BLK),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,248,4,0,3,8:13 PM,9:20,,,Parker REBOUND (Off:0 Def:5),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,249,1,63,3,8:13 PM,9:15,,,Gray 14' Fadeaway Jumper (4 PTS),49 - 39,-10,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,250,2,1,3,8:14 PM,8:59,MISS J. Jones 12' Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,251,4,0,3,8:14 PM,8:58,,,Beard REBOUND (Off:0 Def:5),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,252,1,5,3,8:14 PM,8:49,,,Parker 1' Layup (8 PTS) (Ogwumike 1 AST),51 - 39,-12,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,253,9,1,3,8:14 PM,8:48,SUN Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,255,10,0,3,8:17 PM,8:35,Jump Ball J. Jones vs. Ogwumike: Tip to Parker,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,256,5,2,3,8:17 PM,8:35,J. Jones Lost Ball Turnover (P2.T9),,Ogwumike STEAL (2 STL),,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,259,6,2,3,8:17 PM,8:09,A. Thomas S.FOUL (P3.T1),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,260,3,11,3,8:18 PM,8:09,,,Williams Free Throw 1 of 2 (8 PTS),52 - 39,-13,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,262,3,12,3,8:18 PM,8:09,,,Williams Free Throw 2 of 2 (9 PTS),53 - 39,-14,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,264,6,1,3,8:18 PM,7:58,,,Parker P.FOUL (P4.T1),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,265,8,0,3,8:19 PM,7:58,,,SUB: Lavender FOR Parker,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,266,7,1,3,8:19 PM,7:58,,,Sparks Violation: Delay of game Violation,,,3.0,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700078,268,2,82,3,8:19 PM,7:52,MISS J. Thomas 12' Driving Bank Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,269,4,0,3,8:19 PM,7:51,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,270,2,44,3,8:19 PM,7:49,MISS J. Jones 2' Reverse Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,271,4,0,3,8:19 PM,7:48,,,Lavender REBOUND (Off:1 Def:3),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,272,2,1,3,8:19 PM,7:39,,,MISS Williams 25' 3PT Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,273,4,0,3,8:20 PM,7:38,,,Williams REBOUND (Off:1 Def:1),,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,274,2,1,3,8:20 PM,7:35,,,MISS Williams 10' Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,275,4,0,3,8:20 PM,7:34,J. Jones REBOUND (Off:4 Def:3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,276,1,5,3,8:20 PM,7:24,A. Thomas 3' Layup (6 PTS) (Stricklen 1 AST),,,53 - 41,-12,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,277,2,1,3,8:20 PM,7:09,,,MISS Ogwumike 24' 3PT Jump Shot,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,278,4,0,3,8:20 PM,7:08,,,Lavender REBOUND (Off:2 Def:3),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,279,1,1,3,8:20 PM,6:55,,,Lavender 18' Jump Shot (8 PTS) (Gray 3 AST),55 - 41,-14,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,280,2,1,3,8:21 PM,6:29,MISS J. Thomas 12' Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,281,4,0,3,8:21 PM,6:28,J. Jones REBOUND (Off:5 Def:3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,282,2,1,3,8:21 PM,6:27,MISS J. Jones 3' Jump Shot,,Ogwumike BLOCK (1 BLK),,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,283,4,0,3,8:21 PM,6:26,J. Jones REBOUND (Off:6 Def:3),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,284,5,11,3,8:21 PM,6:25,SUN Turnover: Shot Clock (T#10),,,,,2.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700078,285,18,0,3,8:24 PM,6:25,,Support Ruling,,,,,284,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700078,286,8,0,3,8:24 PM,6:25,SUB: Kizer FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,287,1,79,3,8:25 PM,6:02,,,Gray 18' Pullup Jump Shot (6 PTS) (Ogwumike 2 AST),57 - 41,-16,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,288,1,5,3,8:25 PM,5:50,Kizer 2' Layup (2 PTS) (J. Thomas 3 AST),,,57 - 43,-14,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,289,1,75,3,8:25 PM,5:42,,,Ogwumike 3' Driving Finger Roll Layup (19 PTS),59 - 43,-16,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,290,6,2,3,8:25 PM,5:42,Kizer S.FOUL (P1.T2),,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,291,3,10,3,8:25 PM,5:42,,,MISS Ogwumike Free Throw 1 of 1,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,293,4,0,3,8:25 PM,5:42,A. Thomas REBOUND (Off:0 Def:6),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,294,5,45,3,8:26 PM,5:31,J. Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,295,2,63,3,8:26 PM,5:12,,,MISS Gray 21' Fadeaway Jumper,,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,296,4,0,3,8:26 PM,5:11,,,Williams REBOUND (Off:2 Def:1),,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,298,6,6,3,8:27 PM,5:02,A. Thomas AWAY.FROM.PLAY.FOUL (P4.T3),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,299,3,10,3,8:27 PM,5:02,,,MISS Gray Free Throw 1 of 1,,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,300,4,1,3,8:27 PM,5:02,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,301,6,2,3,8:28 PM,4:59,Williams S.FOUL (P1.T4),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,302,3,11,3,8:28 PM,4:59,,,Williams Free Throw 1 of 2 (10 PTS),60 - 43,-17,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,304,3,12,3,8:29 PM,4:59,,,Williams Free Throw 2 of 2 (11 PTS),61 - 43,-18,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,307,6,2,3,8:29 PM,4:44,,,Beard S.FOUL (P3.T2),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,308,3,11,3,8:29 PM,4:44,MISS A. Thomas Free Throw 1 of 2,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,309,4,1,3,8:29 PM,4:44,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,310,3,12,3,8:30 PM,4:44,A. Thomas Free Throw 2 of 2 (7 PTS),,,61 - 44,-17,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,313,1,42,3,8:30 PM,4:28,,,Williams 3' Driving Layup (13 PTS),63 - 44,-19,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,314,1,79,3,8:30 PM,4:16,Williams 15' Pullup Jump Shot (8 PTS),,,63 - 46,-17,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,315,2,1,3,8:30 PM,4:02,,,MISS Williams 18' Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,316,4,0,3,8:30 PM,4:01,J. Thomas REBOUND (Off:1 Def:2),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,317,2,1,3,8:30 PM,3:53,MISS Stricklen 21' Jump Shot,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,318,4,0,3,8:30 PM,3:52,,,Gray REBOUND (Off:0 Def:1),,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,319,2,58,3,8:31 PM,3:32,,,MISS Lavender 7' Turnaround Hook Shot,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,320,4,0,3,8:31 PM,3:31,A. Thomas REBOUND (Off:0 Def:7),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,321,1,1,3,8:31 PM,3:23,J. Thomas 3PT Jump Shot (13 PTS) (A. Thomas 2 AST),,,63 - 49,-14,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,322,9,1,3,8:31 PM,3:16,,,Sparks Timeout: Regular (Reg.2 Short 1),,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,324,8,0,3,8:32 PM,3:16,SUB: J. Jones FOR J. Thomas,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,325,8,0,3,8:32 PM,3:16,SUB: Bentley FOR Kizer,,,,,4.0,203041,Lynetta Kizer,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,326,8,0,3,8:33 PM,3:16,,,SUB: Jackson FOR Ogwumike,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,5,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,327,8,0,3,8:33 PM,3:16,,,SUB: Sims FOR Williams,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,5,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,328,2,5,3,8:33 PM,2:57,,,MISS Jackson 1' Layup,,,5.0,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,329,4,0,3,8:33 PM,2:56,A. Thomas REBOUND (Off:0 Def:8),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,330,6,26,3,8:33 PM,2:53,A. Thomas Offensive Charge Foul (P5),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,331,5,5,3,8:33 PM,2:53,A. Thomas Foul Turnover (P6.T12),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,1
+1021700078,332,8,0,3,8:34 PM,2:53,SUB: Pedersen FOR A. Thomas,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,333,1,5,3,8:34 PM,2:34,,,Jackson 1' Layup (2 PTS) (Gray 4 AST),65 - 49,-16,5.0,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,334,6,1,3,8:34 PM,2:19,,,Jackson P.FOUL (P1.T3),,,5.0,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,336,6,1,3,8:35 PM,2:16,,,Jackson P.FOUL (P2.T4),,,5.0,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,339,2,1,3,8:35 PM,2:05,MISS Bentley 19' Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,340,4,0,3,8:36 PM,2:01,,,Gray REBOUND (Off:0 Def:2),,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,341,5,40,3,8:36 PM,2:00,,,Gray Out of Bounds Lost Ball Turnover (P3.T9),,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,342,1,81,3,8:36 PM,1:56,Williams 15' Pullup Bank Shot (10 PTS) (Bentley 1 AST),,,65 - 51,-14,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,343,6,4,3,8:37 PM,1:40,,,Jackson OFF.Foul (P3),,,5.0,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,344,5,5,3,8:37 PM,1:40,,,Jackson Foul Turnover (P1.T10),,,5.0,201050,Tiffany Jackson,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1,0,,,,,,1
+1021700078,345,8,0,3,8:37 PM,1:40,,,SUB: Wiese FOR Sims,,,5.0,203824,Odyssey Sims,1611661320.0,Los Angeles,Sparks,LAS,5,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,346,6,1,3,8:37 PM,1:33,,,Beard P.FOUL (P4.PN),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,4,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,347,3,11,3,8:37 PM,1:33,Williams Free Throw 1 of 2 (11 PTS),,,65 - 52,-13,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,349,3,12,3,8:37 PM,1:33,Williams Free Throw 2 of 2 (12 PTS),,,65 - 53,-12,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,352,6,1,3,8:38 PM,1:14,Stricklen P.FOUL (P1.PN),,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,353,3,11,3,8:38 PM,1:14,,,Wiese Free Throw 1 of 2 (4 PTS),66 - 53,-13,5.0,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,355,3,12,3,8:38 PM,1:14,,,MISS Wiese Free Throw 2 of 2,,,5.0,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,357,4,0,3,8:39 PM,1:13,J. Jones REBOUND (Off:6 Def:4),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,358,1,1,3,8:39 PM,0:55,Stricklen 24' 3PT Jump Shot (6 PTS) (Pedersen 2 AST),,,66 - 56,-10,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,359,1,75,3,8:39 PM,0:43,,,Gray 3' Driving Finger Roll Layup (8 PTS),68 - 56,-12,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,360,5,45,3,8:39 PM,0:26,Stricklen Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,361,2,1,3,8:40 PM,0:02,,,MISS Beard 3PT Jump Shot,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,362,4,0,3,8:40 PM,0:01,Stricklen REBOUND (Off:0 Def:3),,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,363,2,1,3,8:40 PM,0:00,MISS Stricklen 55' 3PT Jump Shot,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,365,4,0,3,8:40 PM,0:00,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,364,13,0,3,8:40 PM,0:00,,End of 3rd Period (8:40 PM EST),,68 - 56,-12,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,368,12,0,4,8:43 PM,10:00,,Start of 4th Period (8:43 PM EST),,68 - 56,-12,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,369,2,1,4,8:43 PM,9:49,MISS J. Jones 12' Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,370,4,0,4,8:43 PM,9:48,J. Jones REBOUND (Off:7 Def:4),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,371,1,72,4,8:43 PM,9:47,J. Jones 1' Putback Layup (10 PTS),,,68 - 58,-10,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,372,6,1,4,8:43 PM,9:34,J. Jones P.FOUL (P4.T1),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,374,5,11,4,8:44 PM,9:20,,,Sparks Turnover: Shot Clock (T#11),,,3.0,1611661320,,,,,,0,0,,,,,,1,0,,,,,,0
+1021700078,375,2,5,4,8:44 PM,9:10,MISS Stricklen 2' Layup,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,376,4,0,4,8:44 PM,9:09,,,Ogwumike REBOUND (Off:1 Def:5),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,377,2,1,4,8:45 PM,9:01,,,MISS Williams 4' Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,378,4,0,4,8:45 PM,9:00,J. Jones REBOUND (Off:7 Def:5),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,379,1,1,4,8:45 PM,8:48,J. Jones 24' 3PT Jump Shot (13 PTS) (Bentley 2 AST),,,68 - 61,-7,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,380,6,1,4,8:45 PM,8:34,Bentley P.FOUL (P1.T2),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,381,8,0,4,8:45 PM,8:34,,,SUB: Beard FOR Wiese,,,5.0,1628282,Sydney Wiese,1611661320.0,Los Angeles,Sparks,LAS,5,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,383,2,1,4,8:46 PM,8:24,,,MISS Williams 7' Jump Shot,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,384,4,0,4,8:46 PM,8:23,,,Ogwumike REBOUND (Off:2 Def:5),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,385,2,5,4,8:46 PM,8:22,J. Jones BLOCK (1 BLK),,MISS Ogwumike 3' Layup,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,1
+1021700078,386,4,0,4,8:46 PM,8:22,,,Ogwumike REBOUND (Off:3 Def:5),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,387,6,2,4,8:46 PM,8:21,Pedersen S.FOUL (P3.T3),,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,388,3,11,4,8:46 PM,8:21,,,Ogwumike Free Throw 1 of 2 (20 PTS),69 - 61,-8,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,390,8,0,4,8:46 PM,8:21,SUB: Adams FOR J. Jones,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,4,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,391,3,12,4,8:46 PM,8:21,,,Ogwumike Free Throw 2 of 2 (21 PTS),70 - 61,-9,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,393,2,79,4,8:47 PM,8:08,MISS Williams 17' Pullup Jump Shot,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,394,4,0,4,8:47 PM,8:07,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,395,2,1,4,8:47 PM,7:46,,,MISS Parker 21' Jump Shot,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,396,4,0,4,8:47 PM,7:45,SUN Rebound,,,,,2.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,397,2,5,4,8:47 PM,7:33,MISS Pedersen 2' Layup,,Parker BLOCK (5 BLK),,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1
+1021700078,398,4,0,4,8:48 PM,7:31,Pedersen REBOUND (Off:1 Def:0),,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,399,2,1,4,8:48 PM,7:29,MISS Adams 24' 3PT Jump Shot,,,,,4.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,400,4,0,4,8:48 PM,7:28,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,401,6,2,4,8:48 PM,7:08,Pedersen S.FOUL (P4.T4),,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,402,3,11,4,8:49 PM,7:08,,,Gray Free Throw 1 of 2 (9 PTS),71 - 61,-10,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,404,8,0,4,8:49 PM,7:08,SUB: A. Thomas FOR Stricklen,,,,,4.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,405,8,0,4,8:49 PM,7:08,,,SUB: Lavender FOR Williams,,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,5,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,406,3,12,4,8:49 PM,7:08,,,Gray Free Throw 2 of 2 (10 PTS),72 - 61,-11,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,408,5,40,4,8:50 PM,6:49,Adams Out of Bounds Lost Ball Turnover (P1.T14),,,,,4.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,409,1,82,4,8:50 PM,6:32,,,Gray 6' Driving Bank Shot (12 PTS),74 - 61,-13,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,410,2,1,4,8:50 PM,6:21,MISS Bentley 24' 3PT Jump Shot,,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,411,4,0,4,8:50 PM,6:20,,,Beard REBOUND (Off:0 Def:6),,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,413,9,2,4,8:51 PM,6:06,,,Sparks Timeout: Short (Reg.2 Short 2),,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,414,1,101,4,8:52 PM,5:57,,,Beard 8' Driving Floating Jump Shot (8 PTS),76 - 61,-15,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,415,2,5,4,8:52 PM,5:40,MISS A. Thomas 3' Layup,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,416,4,0,4,8:52 PM,5:39,Williams REBOUND (Off:1 Def:2),,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,417,1,5,4,8:52 PM,5:38,Williams 3' Layup (14 PTS),,,76 - 63,-13,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,418,1,75,4,8:52 PM,5:17,,,Beard 3' Driving Finger Roll Layup (10 PTS),78 - 63,-15,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,419,6,2,4,8:53 PM,5:00,,,Lavender S.FOUL (P3.T1),,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,421,9,4,4,8:53 PM,5:00,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,423,8,0,4,8:54 PM,5:00,SUB: Banham FOR Williams,,,,,4.0,1627675,Courtney Williams,1611661323.0,Connecticut,Sun,CON,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,424,8,0,4,8:54 PM,5:00,SUB: J. Thomas FOR Pedersen,,,,,4.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,425,8,0,4,8:55 PM,5:00,,,SUB: Williams FOR Lavender,,,5.0,202650,Jantel Lavender,1611661320.0,Los Angeles,Sparks,LAS,5,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0
+1021700078,426,3,11,4,8:55 PM,5:00,A. Thomas Free Throw 1 of 2 (8 PTS),,,78 - 64,-14,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,428,3,12,4,8:55 PM,5:00,A. Thomas Free Throw 2 of 2 (9 PTS),,,78 - 65,-13,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021700078,430,2,1,4,8:56 PM,4:37,,,MISS Ogwumike 15' Jump Shot,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,431,4,0,4,8:56 PM,4:36,,,Parker REBOUND (Off:1 Def:5),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,432,6,1,4,8:56 PM,4:35,J. Thomas P.FOUL (P2.PN),,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,433,3,11,4,8:56 PM,4:35,,,MISS Parker Free Throw 1 of 2,,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,434,4,1,4,8:56 PM,4:35,,,Sparks Rebound,,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,435,3,12,4,8:57 PM,4:35,,,Parker Free Throw 2 of 2 (9 PTS),79 - 65,-14,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,437,2,5,4,8:57 PM,4:20,MISS J. Thomas 1' Layup,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,438,4,0,4,8:57 PM,4:19,Adams REBOUND (Off:1 Def:0),,,,,4.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,439,2,5,4,8:57 PM,4:18,MISS Adams 3' Layup,,,,,4.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,440,4,0,4,8:57 PM,4:17,,,Parker REBOUND (Off:1 Def:6),,,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,441,1,42,4,8:57 PM,4:03,,,Gray 1' Driving Layup (14 PTS),81 - 65,-16,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,442,1,1,4,8:58 PM,3:51,Banham 22' Jump Shot (2 PTS) (Bentley 3 AST),,,81 - 67,-14,4.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,4,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,443,6,2,4,8:58 PM,3:34,Adams S.FOUL (P1.PN),,,,,4.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,5,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,444,3,11,4,8:58 PM,3:34,,,Parker Free Throw 1 of 2 (10 PTS),82 - 67,-15,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,446,8,0,4,8:58 PM,3:34,SUB: J. Jones FOR Adams,,,,,4.0,202634,Danielle Adams,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021700078,447,3,12,4,8:59 PM,3:34,,,Parker Free Throw 2 of 2 (11 PTS),83 - 67,-16,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,0
+1021700078,449,1,1,4,8:59 PM,3:17,J. Thomas 24' 3PT Jump Shot (16 PTS) (A. Thomas 3 AST),,,83 - 70,-13,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,450,2,5,4,8:59 PM,2:57,,,MISS Ogwumike 3' Layup,,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,451,4,0,4,8:59 PM,2:56,J. Jones REBOUND (Off:7 Def:6),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,452,2,5,4,8:59 PM,2:46,MISS A. Thomas 3' Layup,,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,453,4,0,4,9:00 PM,2:45,J. Jones REBOUND (Off:8 Def:6),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,454,2,5,4,9:00 PM,2:44,MISS J. Jones 1' Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,455,4,0,4,9:00 PM,2:43,J. Jones REBOUND (Off:9 Def:6),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,456,1,1,4,9:00 PM,2:41,J. Thomas 24' 3PT Jump Shot (19 PTS) (J. Jones 2 AST),,,83 - 73,-10,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021700078,457,1,1,4,9:00 PM,2:17,,,Parker 3PT Jump Shot (14 PTS) (Gray 5 AST),86 - 73,-13,5.0,201496,Candace Parker,1611661320.0,Los Angeles,Sparks,LAS,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,458,1,47,4,9:00 PM,2:01,A. Thomas 5' Turnaround Jump Shot (11 PTS),,,86 - 75,-11,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,459,2,1,4,9:01 PM,1:41,,,MISS Beard 20' Jump Shot,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,460,4,0,4,9:01 PM,1:39,A. Thomas REBOUND (Off:0 Def:9),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,461,5,1,4,9:01 PM,1:36,A. Thomas Bad Pass Turnover (P7.T15),,Gray STEAL (1 STL),,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,1
+1021700078,462,2,1,4,9:01 PM,1:13,,,MISS Gray 18' Jump Shot,,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,463,4,0,4,9:01 PM,1:12,Banham REBOUND (Off:0 Def:1),,,,,4.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,464,6,1,4,9:01 PM,1:11,,,Williams P.FOUL (P3.T2),,,5.0,203029,Riquna Williams,1611661320.0,Los Angeles,Sparks,LAS,4,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021700078,465,9,1,4,9:01 PM,1:11,,,Sparks Timeout: Regular (Reg.3 Short 2),,,3.0,1611661320,,,,,,0,0,,,,,,0,0,,,,,,0
+1021700078,469,2,1,4,9:04 PM,1:02,MISS Banham 3PT Jump Shot,,,,,4.0,1627671,Rachel Banham,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,470,4,0,4,9:04 PM,1:01,J. Jones REBOUND (Off:10 Def:6),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,471,2,5,4,9:04 PM,1:00,MISS J. Jones 2' Layup,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,472,4,0,4,9:04 PM,1:00,A. Thomas REBOUND (Off:1 Def:9),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,473,1,1,4,9:04 PM,0:59,A. Thomas 3' Jump Shot (13 PTS),,,86 - 77,-9,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,475,2,1,4,9:05 PM,0:35,,,MISS Beard 11' Jump Shot,,,5.0,100949,Alana Beard,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,476,4,0,4,9:05 PM,0:34,J. Jones REBOUND (Off:10 Def:7),,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,477,2,1,4,9:05 PM,0:28,MISS J. Thomas 24' 3PT Jump Shot,,,,,4.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,478,4,0,4,9:05 PM,0:27,Bentley REBOUND (Off:1 Def:1),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,479,1,5,4,9:05 PM,0:27,Bentley 3' Layup (5 PTS),,,86 - 79,-7,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,480,6,28,4,9:05 PM,0:15,Bentley Personal Take Foul (P2.PN),,,,,4.0,203410,Alex Bentley,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,1,0,,,,,,1
+1021700078,481,3,11,4,9:05 PM,0:15,,,Gray Free Throw 1 of 2 (15 PTS),87 - 79,-8,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,483,3,12,4,9:06 PM,0:15,,,MISS Gray Free Throw 2 of 2,,,5.0,203833,Chelsea Gray,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,485,4,0,4,9:06 PM,0:15,A. Thomas REBOUND (Off:1 Def:10),,,,,4.0,203826,Alyssa Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,486,2,1,4,9:06 PM,0:06,MISS J. Jones 24' 3PT Jump Shot,,,,,4.0,1627673,Jonquel Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021700078,487,4,0,4,9:06 PM,0:05,,,Ogwumike REBOUND (Off:3 Def:6),,,5.0,203014,Nneka Ogwumike,1611661320.0,Los Angeles,Sparks,LAS,0,0,,,,,,0,0,,,,,,1
+1021700078,488,13,0,4,9:06 PM,0:00,,End of 4th Period (9:06 PM EST),,87 - 79,-8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,1

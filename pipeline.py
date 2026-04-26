@@ -14,52 +14,45 @@
 
 import os
 import time
-
 import config
 import helpers
 import ingestion
 import processing
 import analytics
 
+def get_dir_size_gb(directory):
+    total_size = 0
+    if not os.path.exists(directory): return 0
+    for dirpath, _, filenames in os.walk(directory):
+        for f in filenames:
+            total_size += os.path.getsize(os.path.join(dirpath, f))
+    return round(total_size / (1024**3), 2)
 
-def run(seasons=None):
+def run():
     t0 = time.time()
+    print('=' * 65)
+    print('  🏀 WNBA ULTRA-MASSIVE PIPELINE (3GB-5GB TARGET)')
+    print('=' * 65)
 
-    print('=' * 55)
-    print('  🏀 WNBA Big Data Pipeline')
-    print(f'  Seasons      : {config.SEASONS}')
-    print(f'  Target season: {config.TARGET_SEASON}')
-    print(f'  Storage      : {"S3 → s3://" + config.S3_BUCKET if config.USE_S3 else "Local → " + config.BASE_DIR}')
-    print('=' * 55)
+    # Stage 1: Massive Ingestion (Schedule, Bulk, and Game-Level Cache)
+    # returns: schedule, player_bulk, team_bulk, draft
+    raw_data = ingestion.run()
 
-    # Stage 1 — Ingestion
-    df_game_logs, df_leaders, df_player_stats, df_rosters = ingestion.run(seasons)
+    # Stage 2 & 3: Processing & Aggregate Generation
+    # returns: processed dictionary
+    processed = processing.run(*raw_data)
 
-    # Stages 2 & 3 — Storage + Processing
-    processed = processing.run(df_game_logs, df_leaders, df_player_stats, df_rosters)
-
-    # Stage 4 — Analytics
+    # Stage 4: Analytics
     analytics.run(processed)
 
     elapsed = time.time() - t0
-    raw_files   = len(os.listdir(config.RAW_DIR))       if os.path.exists(config.RAW_DIR)       else '—'
-    proc_files  = len(os.listdir(config.PROCESSED_DIR)) if os.path.exists(config.PROCESSED_DIR) else '—'
-    agg_files   = len(os.listdir(config.AGG_DIR))       if os.path.exists(config.AGG_DIR)       else '—'
-    chart_files = len(os.listdir(config.OUTPUT_DIR))    if os.path.exists(config.OUTPUT_DIR)    else '—'
+    size_gb = get_dir_size_gb(config.RAW_DIR)
 
-    print('=' * 55)
-    print('  🏀 Pipeline Complete!')
-    print('=' * 55)
-    print(f'  Stage 1 — Ingestion   : {raw_files:>2} raw CSV files')
-    print(f'  Stage 2 — Storage     : {proc_files:>2} Parquet files')
-    print(f'  Stage 3 — Processing  : {agg_files:>2} aggregated datasets')
-    print(f'  Stage 4 — Analytics   : {chart_files:>2} charts generated')
-    print(f'  Total rows            : {len(processed["clean_logs"]):,}')
-    print(f'  Wall time             : {elapsed:.0f}s')
-    print('=' * 55)
-
-    return processed
-
+    print('\n' + '=' * 65)
+    print(f'  Total Data Volume : {size_gb} GB')
+    print(f'  Records Processed : {len(processed["clean_logs"]):,}')
+    print(f'  Runtime           : {elapsed/3600:.2f} hours')
+    print('=' * 65)
 
 if __name__ == '__main__':
     run()

@@ -1,0 +1,367 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020800197,0,12,0,1,1:19 PM,10:00,,Start of 1st Period (1:19 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,1,10,0,1,1:20 PM,10:00,Jump Ball Jones vs. Griffith: Tip to Wright,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0
+1020800197,2,2,1,1,1:20 PM,9:44,,,MISS Little 7' Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,3,4,0,1,1:20 PM,9:42,Gardin REBOUND (Off:0 Def:1),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,4,2,5,1,1:21 PM,9:30,MISS Holt  Layup,,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,5,4,0,1,1:21 PM,9:29,Holt REBOUND (Off:1 Def:0),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,6,6,1,1,1:21 PM,9:28,,,Bird P.FOUL (P1.T1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,7,2,1,1,1:21 PM,9:21,MISS Jones 14' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,8,4,0,1,1:21 PM,9:19,,,Griffith REBOUND (Off:0 Def:1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,9,6,1,1,1:22 PM,9:05,Gardin P.FOUL (P1.T1),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,10,2,5,1,1:22 PM,8:58,,,MISS Griffith 3' Layup,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,11,4,0,1,1:22 PM,8:57,,,Griffith REBOUND (Off:1 Def:1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,12,1,5,1,1:22 PM,8:54,,,Griffith 1' Layup (2 PTS),2 - 0,-2,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,13,5,1,1,1:22 PM,8:41,Gardin Bad Pass Turnover (P1.T1),,Swoopes STEAL (1 STL),,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,14,6,1,1,1:22 PM,8:34,Whitmore P.FOUL (P1.T2),,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,15,2,1,1,1:23 PM,8:26,,,MISS Bird 10' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,16,4,0,1,1:23 PM,8:24,Jones REBOUND (Off:0 Def:1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,17,5,1,1,1:23 PM,8:19,Gardin Bad Pass Turnover (P2.T2),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,18,1,5,1,1:23 PM,8:06,,,Swoopes 1' Layup (2 PTS) (Little 1 AST),4 - 0,-4,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,19,2,1,1,1:24 PM,7:50,MISS Whitmore 13' Jump Shot,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,20,4,0,1,1:24 PM,7:49,Jones REBOUND (Off:1 Def:1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,21,1,5,1,1:24 PM,7:49,Jones 2' Layup (2 PTS),,,4 - 2,-2,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,22,6,2,1,1:24 PM,7:49,,,Little S.FOUL (P1.T2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,23,3,10,1,1:24 PM,7:49,Jones Free Throw 1 of 1 (3 PTS),,,4 - 3,-1,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,24,1,42,1,1:24 PM,7:26,,,Bird 1' Driving Layup (2 PTS),6 - 3,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,25,1,1,1,1:25 PM,7:08,Gardin  3PT Jump Shot (3 PTS) (Jones 1 AST),,,6 - 6,TIE,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,26,2,1,1,1:25 PM,6:48,,,MISS Little 19' Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,27,4,0,1,1:25 PM,6:46,Gardin REBOUND (Off:0 Def:2),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,28,1,1,1,1:25 PM,6:35,Whitmore 16' Jump Shot (2 PTS) (Carey 1 AST),,,6 - 8,2,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,29,2,5,1,1:26 PM,6:14,,,MISS Little 3' Layup,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,30,4,0,1,1:26 PM,6:12,Gardin REBOUND (Off:0 Def:3),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,31,8,0,1,1:26 PM,6:08,,,SUB: Cash FOR Swoopes,,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,32,1,78,1,1:26 PM,5:59,Holt 7' Floating Jump Shot (2 PTS),,,6 - 10,4,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,33,1,3,1,1:26 PM,5:39,,,Griffith 6' Hook Shot (4 PTS) (Cash 1 AST),8 - 10,2,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,34,6,1,1,1:27 PM,5:28,,,Little P.FOUL (P2.T3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,35,5,2,1,1:27 PM,5:17,Carey Lost Ball Turnover (P1.T3),,Bird STEAL (1 STL),,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,36,1,5,1,1:27 PM,5:15,,,Bird 1' Layup (4 PTS) (Cash 2 AST),10 - 10,TIE,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,37,6,2,1,1:27 PM,5:15,Holt S.FOUL (P1.T3),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,38,3,10,1,1:27 PM,5:15,,,Bird Free Throw 1 of 1 (5 PTS),11 - 10,-1,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,39,1,1,1,1:28 PM,4:55,Holt 15' Jump Shot (4 PTS),,,11 - 12,1,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,40,6,1,1,1:28 PM,4:39,Gardin P.FOUL (P2.T4),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,42,9,4,1,1:28 PM,4:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,43,8,0,1,1:31 PM,4:39,SUB: Gruda FOR Whitmore,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,44,8,0,1,1:31 PM,4:39,,,SUB: Robinson FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,45,6,2,1,1:31 PM,4:29,Holt S.FOUL (P2.PN),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,46,3,11,1,1:32 PM,4:29,,,MISS Cash Free Throw 1 of 2,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,47,4,1,1,1:32 PM,4:29,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,48,8,0,1,1:32 PM,4:29,SUB: Turner FOR Holt,,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,49,3,12,1,1:32 PM,4:29,,,Cash Free Throw 2 of 2 (1 PTS),12 - 12,TIE,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,50,2,5,1,1:32 PM,4:13,MISS Gruda 1' Layup,,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,51,4,0,1,1:32 PM,4:10,,,Wright REBOUND (Off:0 Def:1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,52,2,1,1,1:32 PM,4:00,,,MISS Bird 16' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,53,4,0,1,1:32 PM,3:58,Turner REBOUND (Off:0 Def:1),,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,54,2,1,1,1:33 PM,3:47,MISS Gruda 8' Jump Shot,,Griffith BLOCK (1 BLK),,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0
+1020800197,55,4,0,1,1:33 PM,3:43,,,Cash REBOUND (Off:0 Def:1),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,56,2,1,1,1:33 PM,3:25,,,MISS Robinson 5' Jump Shot,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,57,4,0,1,1:33 PM,3:22,Turner REBOUND (Off:0 Def:2),,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,58,6,1,1,1:33 PM,3:21,,,Wright P.FOUL (P1.T4),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,59,1,1,1,1:34 PM,3:12,Carey 11' Jump Shot (2 PTS),,,12 - 14,2,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,60,1,66,1,1:34 PM,2:52,,,Cash 11' Jump Bank Shot (3 PTS),14 - 14,TIE,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,61,2,1,1,1:34 PM,2:31,MISS Gardin  3PT Jump Shot,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,62,4,0,1,1:34 PM,2:29,,,Robinson REBOUND (Off:0 Def:1),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,63,8,0,1,1:35 PM,2:20,SUB: Abrosimova FOR Gardin,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,64,8,0,1,1:35 PM,2:20,SUB: Raymond FOR Jones,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,65,8,0,1,1:35 PM,2:20,,,SUB: Gearlds FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,66,8,0,1,1:35 PM,2:20,,,SUB: Little FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,67,1,1,1,1:35 PM,2:08,,,Gearlds 15' Jump Shot (2 PTS) (Little 2 AST),16 - 14,-2,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,68,2,1,1,1:35 PM,1:50,MISS Turner  3PT Jump Shot,,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,69,4,0,1,1:35 PM,1:48,,,Gearlds REBOUND (Off:0 Def:1),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,70,2,5,1,1:36 PM,1:40,,,MISS Bird 1' Layup,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,71,4,0,1,1:36 PM,1:39,Abrosimova REBOUND (Off:0 Def:1),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,72,1,1,1,1:36 PM,1:27,Turner 24' 3PT Jump Shot (3 PTS) (Gruda 1 AST),,,16 - 17,1,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,73,2,5,1,1:36 PM,1:04,,,MISS Cash 3' Layup,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,74,4,0,1,1:36 PM,1:03,,,Robinson REBOUND (Off:1 Def:1),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,75,2,5,1,1:36 PM,0:57,,,MISS Cash 3' Layup,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,76,4,0,1,1:36 PM,0:55,Raymond REBOUND (Off:0 Def:1),,,,,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,77,2,1,1,1:36 PM,0:44,MISS Gruda 15' Jump Shot,,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,78,4,0,1,1:36 PM,0:42,,,Gearlds REBOUND (Off:0 Def:2),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,79,1,1,1,1:37 PM,0:36,,,Bird 12' Jump Shot (7 PTS),18 - 17,-1,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,80,1,1,1,1:37 PM,0:16,Abrosimova 16' Jump Shot (2 PTS) (Gruda 2 AST),,,18 - 19,1,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,81,2,1,1,1:37 PM,0:02,,,MISS Bird 11' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,82,4,0,1,1:37 PM,0:00,Carey REBOUND (Off:0 Def:1),,,,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,84,13,0,1,1:37 PM,0:00,,End of 1st Period (1:37 PM EST),,18 - 19,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,85,12,0,2,1:41 PM,10:00,,Start of 2nd Period (1:41 PM EST),,18 - 19,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,86,5,4,2,1:41 PM,9:46,Phillips Traveling Turnover (P1.T4),,,,,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020800197,87,6,2,2,1:42 PM,9:31,Gruda S.FOUL (P1.T1),,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,88,3,11,2,1:42 PM,9:31,,,Little Free Throw 1 of 2 (1 PTS),19 - 19,TIE,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,89,8,0,2,1:43 PM,9:31,,,SUB: Wright FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,90,3,12,2,1:43 PM,9:31,,,MISS Little Free Throw 2 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,91,4,0,2,1:43 PM,9:29,,,Robinson REBOUND (Off:2 Def:1),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,92,2,1,2,1:43 PM,9:10,,,MISS Wright 8' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,93,4,0,2,1:43 PM,9:09,,,Robinson REBOUND (Off:3 Def:1),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,94,1,1,2,1:43 PM,9:05,,,Gearlds  3PT Jump Shot (5 PTS) (Robinson 1 AST),22 - 19,-3,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,95,1,63,2,1:44 PM,8:45,Abrosimova 14' Fadeaway Jumper (4 PTS),,,22 - 21,-1,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,96,2,1,2,1:44 PM,8:28,,,MISS Little  3PT Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,97,4,0,2,1:44 PM,8:26,Abrosimova REBOUND (Off:0 Def:2),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,98,2,1,2,1:44 PM,8:06,MISS Phillips  3PT Jump Shot,,,,,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,99,4,0,2,1:44 PM,8:03,,,Robinson REBOUND (Off:3 Def:2),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,100,2,1,2,1:45 PM,7:46,,,MISS Gearlds  3PT Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,101,4,0,2,1:45 PM,7:43,Turner REBOUND (Off:0 Def:3),,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,102,8,0,2,1:45 PM,7:41,,,SUB: Ely-Gash FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,103,8,0,2,1:45 PM,7:41,,,SUB: Bird FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,104,8,0,2,1:45 PM,7:41,,,SUB: Swoopes FOR Robinson,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,105,8,0,2,1:45 PM,7:41,,,SUB: Griffith FOR Gearlds,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,106,2,1,2,1:45 PM,7:30,MISS Turner 25' 3PT Jump Shot,,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,107,4,0,2,1:46 PM,7:28,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,108,5,40,2,1:46 PM,7:23,,,Wright Out of Bounds Lost Ball Turnover (P1.T1),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,109,2,1,2,1:46 PM,7:11,MISS Abrosimova  3PT Jump Shot,,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,110,4,0,2,1:46 PM,7:09,,,Wright REBOUND (Off:0 Def:2),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,111,2,1,2,1:46 PM,6:54,,,MISS Griffith 11' Jump Shot,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,112,4,0,2,1:46 PM,6:54,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,113,6,3,2,1:46 PM,6:54,,,Swoopes L.B.FOUL (P1.T1),,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,114,8,0,2,1:46 PM,6:54,SUB: Jones FOR Gruda,,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,115,8,0,2,1:46 PM,6:54,SUB: Whitmore FOR Raymond,,,,,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,116,8,0,2,1:47 PM,6:54,SUB: Holt FOR Turner,,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,117,6,1,2,1:47 PM,6:40,,,Griffith P.FOUL (P1.T2),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,118,1,47,2,1:47 PM,6:30,Jones 6' Turnaround Jump Shot (5 PTS) (Abrosimova 1 AST),,,22 - 23,1,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,119,1,1,2,1:48 PM,6:06,,,Bird 17' Jump Shot (9 PTS) (Ely-Gash 1 AST),24 - 23,-1,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,120,2,5,2,1:48 PM,5:48,MISS Whitmore 2' Layup,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,121,4,0,2,1:48 PM,5:46,,,Ely-Gash REBOUND (Off:0 Def:1),,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,122,1,1,2,1:48 PM,5:39,,,Bird 15' Jump Shot (11 PTS),26 - 23,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,123,1,1,2,1:49 PM,5:23,Holt  3PT Jump Shot (7 PTS) (Phillips 1 AST),,,26 - 26,TIE,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,124,6,1,2,1:49 PM,5:10,Abrosimova P.FOUL (P1.T2),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,125,9,1,2,1:49 PM,5:10,SUN Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,127,8,0,2,1:52 PM,5:10,,,SUB: Little FOR Ely-Gash,,,5,101032,Shyra Ely-Gash,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,128,8,0,2,1:52 PM,5:10,,,SUB: Cash FOR Swoopes,,,5,100072,Sheryl Swoopes,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,129,8,0,2,1:52 PM,5:10,SUB: Carey FOR Phillips,,,,,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,140,8,0,2,1:52 PM,5:10,SUB: Gardin FOR Abrosimova,,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,130,1,5,2,1:53 PM,5:04,,,Little 1' Layup (3 PTS) (Griffith 1 AST),28 - 26,-2,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,131,2,1,2,1:53 PM,4:51,MISS Jones 14' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,132,4,0,2,1:53 PM,4:49,,,Little REBOUND (Off:0 Def:1),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,133,6,4,2,1:53 PM,4:38,,,Little OFF.Foul (P3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,134,5,5,2,1:53 PM,4:38,,,Little Foul Turnover (P1.T2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800197,135,2,1,2,1:54 PM,4:25,MISS Whitmore 17' Jump Shot,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,136,4,0,2,1:54 PM,4:24,Jones REBOUND (Off:2 Def:1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,137,2,5,2,1:54 PM,4:23,MISS Jones 1' Layup,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,138,4,0,2,1:54 PM,4:22,Jones REBOUND (Off:3 Def:1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,141,1,5,2,1:54 PM,4:21,Jones  Layup (7 PTS),,,28 - 28,TIE,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,142,6,2,2,1:54 PM,4:21,,,Cash S.FOUL (P1.T3),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,148,8,0,2,1:54 PM,4:21,,,SUB: Gearlds FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,143,3,10,2,1:54 PM,4:21,Jones Free Throw 1 of 1 (8 PTS),,,28 - 29,1,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,144,2,5,2,1:54 PM,4:03,,,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,145,4,0,2,1:55 PM,3:59,Holt REBOUND (Off:1 Def:1),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,146,2,1,2,1:55 PM,3:52,MISS Jones 14' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,147,4,0,2,1:55 PM,3:50,,,Gearlds REBOUND (Off:0 Def:3),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,149,5,1,2,1:55 PM,3:40,Jones STEAL (1 STL),,Bird Bad Pass Turnover (P1.T3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,150,2,5,2,1:55 PM,3:33,MISS Whitmore 3' Layup,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,151,4,0,2,1:55 PM,3:30,,,Bird REBOUND (Off:0 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,152,1,1,2,1:55 PM,3:10,,,Gearlds 16' Jump Shot (7 PTS) (Bird 1 AST),30 - 29,-1,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,153,2,1,2,1:56 PM,2:53,MISS Carey 12' Jump Shot,,,,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,154,4,0,2,1:56 PM,2:52,,,Wright REBOUND (Off:0 Def:3),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,155,1,5,2,1:56 PM,2:47,,,Griffith  Layup (6 PTS) (Wright 1 AST),32 - 29,-3,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,156,1,5,2,1:56 PM,2:27,Holt 1' Layup (9 PTS) (Whitmore 1 AST),,,32 - 31,-1,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,157,2,1,2,1:56 PM,2:01,,,MISS Wright 11' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,158,4,0,2,1:57 PM,1:59,Holt REBOUND (Off:1 Def:2),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,159,6,2,2,1:57 PM,1:52,,,Griffith S.FOUL (P2.T4),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,160,9,1,2,1:57 PM,1:52,,,Storm Timeout: Regular (Reg.1 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,164,3,11,2,2:00 PM,1:52,MISS Gardin Free Throw 1 of 2,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,165,4,1,2,2:00 PM,1:52,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,166,3,12,2,2:00 PM,1:52,MISS Gardin Free Throw 2 of 2,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,167,4,0,2,2:01 PM,1:51,,,Gearlds REBOUND (Off:0 Def:4),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,168,5,1,2,2:01 PM,1:26,Whitmore STEAL (1 STL),,Bird Bad Pass Turnover (P2.T4),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,169,1,1,2,2:01 PM,1:10,Jones 8' Jump Shot (10 PTS) (Gardin 1 AST),,,32 - 33,1,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,170,6,2,2,2:01 PM,1:10,,,Cash S.FOUL (P2.PN),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,171,3,10,2,2:02 PM,1:10,Jones Free Throw 1 of 1 (11 PTS),,,32 - 34,2,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,172,2,1,2,2:02 PM,0:54,,,MISS Cash 18' Jump Shot,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,173,4,0,2,2:02 PM,0:52,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,174,6,3,2,2:02 PM,0:52,,,Wright L.B.FOUL (P2.PN),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,175,3,11,2,2:03 PM,0:52,Holt Free Throw 1 of 2 (10 PTS),,,32 - 35,3,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,176,3,12,2,2:03 PM,0:52,Holt Free Throw 2 of 2 (11 PTS),,,32 - 36,4,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,177,2,1,2,2:04 PM,0:31,,,MISS Griffith 12' Jump Shot,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,178,4,0,2,2:04 PM,0:31,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,179,9,1,2,2:04 PM,0:31,SUN Timeout: Regular (Full 2 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,181,5,2,2,2:06 PM,0:18,Whitmore Lost Ball Turnover (P1.T5),,Gearlds STEAL (1 STL),,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,182,6,1,2,2:06 PM,0:05,Gardin P.FOUL (P3.T3),,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,183,9,1,2,2:06 PM,0:05,,,Storm Timeout: Regular (Reg.2 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,184,8,0,2,2:08 PM,0:05,SUB: Turner FOR Gardin,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,185,1,1,2,2:08 PM,0:00,,,Cash  3PT Jump Shot (6 PTS) (Wright 2 AST),35 - 36,1,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,188,18,0,2,2:09 PM,0:00,,Instant Replay2nd Period (2:09 PM EST),,35 - 36,1,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1020800197,189,13,0,2,2:10 PM,0:00,,End of 2nd Period (2:10 PM EST),,35 - 36,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,190,12,0,3,2:27 PM,10:00,,Start of 3rd Period (2:27 PM EST),,35 - 36,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,191,2,1,3,2:27 PM,9:49,MISS Carey 18' Jump Shot,,,,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,192,4,0,3,2:27 PM,9:47,Carey REBOUND (Off:1 Def:1),,,,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,193,5,1,3,2:27 PM,9:36,Jones Bad Pass Turnover (P1.T6),,Little STEAL (1 STL),,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,194,1,66,3,2:27 PM,9:24,,,Cash 4' Jump Bank Shot (8 PTS) (Bird 2 AST),37 - 36,-1,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,195,6,2,3,2:28 PM,9:10,,,Griffith S.FOUL (P3.T1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,196,3,11,3,2:28 PM,9:10,Jones Free Throw 1 of 2 (12 PTS),,,37 - 37,TIE,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,197,3,12,3,2:28 PM,9:10,Jones Free Throw 2 of 2 (13 PTS),,,37 - 38,1,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,198,1,1,3,2:29 PM,8:53,,,Little  3PT Jump Shot (6 PTS) (Griffith 2 AST),40 - 38,-2,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,199,2,1,3,2:29 PM,8:29,MISS Jones 9' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,200,4,0,3,2:29 PM,8:27,,,Little REBOUND (Off:0 Def:2),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,201,5,1,3,2:29 PM,8:14,Gardin STEAL (1 STL),,Wright Bad Pass Turnover (P2.T5),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,202,2,1,3,2:29 PM,8:08,MISS Holt  3PT Jump Shot,,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,206,4,0,3,2:30 PM,8:04,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,205,8,0,3,2:30 PM,8:04,,,SUB: Gearlds FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,207,10,0,3,2:30 PM,8:04,Jump Ball Jones vs. Griffith: Tip to Cash,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0
+1020800197,209,1,5,3,2:30 PM,7:54,,,Cash 1' Layup (10 PTS),42 - 38,-4,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,210,1,1,3,2:30 PM,7:39,Whitmore 13' Jump Shot (4 PTS),,,42 - 40,-2,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,211,1,66,3,2:31 PM,7:12,,,Cash 5' Jump Bank Shot (12 PTS),44 - 40,-4,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,212,1,1,3,2:31 PM,7:01,Carey  3PT Jump Shot (5 PTS) (Gardin 2 AST),,,44 - 43,-1,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,214,2,1,3,2:32 PM,6:36,,,MISS Bird 6' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,215,4,0,3,2:32 PM,6:34,Holt REBOUND (Off:1 Def:3),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,216,1,42,3,2:32 PM,6:25,Holt 1' Driving Layup (13 PTS),,,44 - 45,1,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,217,6,2,3,2:32 PM,6:10,Jones S.FOUL (P1.T1),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,218,8,0,3,2:32 PM,6:10,,,SUB: Robinson FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,219,3,11,3,2:32 PM,6:10,,,MISS Little Free Throw 1 of 2,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,220,4,1,3,2:32 PM,6:10,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,221,3,12,3,2:32 PM,6:10,,,Little Free Throw 2 of 2 (7 PTS),45 - 45,TIE,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,222,1,1,3,2:33 PM,5:50,Gardin  3PT Jump Shot (6 PTS) (Holt 1 AST),,,45 - 48,3,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,223,2,1,3,2:33 PM,5:24,,,MISS Little 4' Jump Shot,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,224,4,0,3,2:33 PM,5:23,Whitmore REBOUND (Off:0 Def:1),,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,225,1,1,3,2:34 PM,5:12,Whitmore  3PT Jump Shot (7 PTS) (Jones 2 AST),,,45 - 51,6,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,226,9,1,3,2:34 PM,5:04,,,Storm Timeout: Regular (Reg.3 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,228,8,0,3,2:37 PM,5:04,,,SUB: Wright FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,232,8,0,3,2:37 PM,5:04,,,SUB: Griffith FOR Little,,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,229,2,1,3,2:37 PM,5:00,,,MISS Gearlds  3PT Jump Shot,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,230,4,0,3,2:37 PM,5:00,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,231,6,1,3,2:37 PM,5:00,,,Griffith P.FOUL (P4.T2),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,233,6,2,3,2:38 PM,4:44,,,Robinson S.FOUL (P1.T3),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,235,3,11,3,2:38 PM,4:44,MISS Jones Free Throw 1 of 2,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,236,4,1,3,2:38 PM,4:44,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,237,3,12,3,2:38 PM,4:44,Jones Free Throw 2 of 2 (14 PTS),,,45 - 52,7,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,238,2,1,3,2:38 PM,4:29,,,MISS Bird 13' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,239,4,0,3,2:39 PM,4:27,Whitmore REBOUND (Off:0 Def:2),,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,240,2,1,3,2:39 PM,4:15,MISS Jones 6' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,241,4,0,3,2:39 PM,4:14,,,Gearlds REBOUND (Off:0 Def:5),,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,242,5,1,3,2:39 PM,4:06,Jones STEAL (2 STL),,Wright Bad Pass Turnover (P3.T6),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,243,1,1,3,2:39 PM,3:45,Carey  3PT Jump Shot (8 PTS) (Whitmore 2 AST),,,45 - 55,10,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,244,5,1,3,2:39 PM,3:35,,,Griffith Bad Pass Turnover (P1.T7),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,245,9,1,3,2:40 PM,3:35,,,Storm Timeout: Regular (Reg.4 Short 0),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,247,8,0,3,2:42 PM,3:35,,,SUB: Cash FOR Wright,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,248,2,1,3,2:42 PM,3:23,MISS Whitmore  3PT Jump Shot,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,249,4,0,3,2:42 PM,3:21,,,Cash REBOUND (Off:0 Def:2),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,250,6,2,3,2:42 PM,3:07,Holt S.FOUL (P3.T2),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,251,3,11,3,2:43 PM,3:07,,,Griffith Free Throw 1 of 2 (7 PTS),46 - 55,9,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,252,8,0,3,2:43 PM,3:07,SUB: Turner FOR Holt,,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,253,8,0,3,2:43 PM,3:07,SUB: Abrosimova FOR Gardin,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,254,3,12,3,2:43 PM,3:07,,,Griffith Free Throw 2 of 2 (8 PTS),47 - 55,8,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,255,2,1,3,2:43 PM,2:51,MISS Turner  3PT Jump Shot,,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,256,4,0,3,2:43 PM,2:50,,,Bird REBOUND (Off:0 Def:3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,257,6,2,3,2:44 PM,2:48,Carey S.FOUL (P1.T3),,,,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,258,3,11,3,2:44 PM,2:48,,,Bird Free Throw 1 of 2 (12 PTS),48 - 55,7,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,259,3,12,3,2:44 PM,2:48,,,Bird Free Throw 2 of 2 (13 PTS),49 - 55,6,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,260,2,5,3,2:44 PM,2:34,MISS Jones 3' Layup,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,261,4,0,3,2:45 PM,2:33,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,262,2,1,3,2:45 PM,2:20,,,MISS Bird 6' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,263,4,0,3,2:45 PM,2:19,Abrosimova REBOUND (Off:0 Def:3),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,264,5,40,3,2:45 PM,2:17,Abrosimova Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,265,6,1,3,2:45 PM,2:09,Whitmore P.FOUL (P2.T4),,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,266,3,11,3,2:46 PM,2:09,,,Griffith Free Throw 1 of 2 (9 PTS),50 - 55,5,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,267,3,12,3,2:46 PM,2:09,,,Griffith Free Throw 2 of 2 (10 PTS),51 - 55,4,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,268,2,1,3,2:46 PM,1:57,MISS Jones 19' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,269,4,0,3,2:46 PM,1:55,,,Cash REBOUND (Off:0 Def:3),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,270,2,1,3,2:46 PM,1:50,,,MISS Bird 17' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,271,4,0,3,2:46 PM,1:48,Turner REBOUND (Off:0 Def:4),,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,272,5,1,3,2:47 PM,1:42,Turner Bad Pass Turnover (P1.T8),,Cash STEAL (1 STL),,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,273,1,1,3,2:47 PM,1:22,,,Bird 19' Jump Shot (15 PTS),53 - 55,2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,274,1,42,3,2:47 PM,1:09,Turner 1' Driving Layup (5 PTS) (Abrosimova 2 AST),,,53 - 57,4,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,275,5,4,3,2:48 PM,0:51,,,Cash Traveling Turnover (P1.T8),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800197,276,8,0,3,2:48 PM,0:51,SUB: Raymond FOR Jones,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,277,8,0,3,2:48 PM,0:51,SUB: Gruda FOR Whitmore,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,278,8,0,3,2:48 PM,0:51,,,SUB: Wright FOR Cash,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,279,8,0,3,2:48 PM,0:51,,,SUB: Little FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,280,2,1,3,2:48 PM,0:30,MISS Gruda 11' Jump Shot,,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,281,4,0,3,2:48 PM,0:29,,,Little REBOUND (Off:0 Def:3),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,282,2,1,3,2:49 PM,0:08,,,MISS Wright  3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,283,4,0,3,2:49 PM,0:06,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,284,6,4,3,2:49 PM,0:06,,,Robinson OFF.Foul (P2),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,285,5,5,3,2:49 PM,0:06,,,Robinson Foul Turnover (P1.T9),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020800197,286,5,4,3,2:50 PM,0:00,Turner Traveling Turnover (P2.T9),,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020800197,287,5,39,3,2:50 PM,0:00,,,Wright Step Out of Bounds Turnover (P4.T10),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,288,13,0,3,2:51 PM,0:00,,End of 3rd Period (2:51 PM EST),,53 - 57,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,290,12,0,4,2:54 PM,10:00,,Start of 4th Period (2:54 PM EST),,53 - 57,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,291,2,5,4,2:55 PM,9:48,Raymond BLOCK (1 BLK),,MISS Wright  Layup,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,0
+1020800197,292,4,0,4,2:55 PM,9:46,Gruda REBOUND (Off:0 Def:1),,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,293,5,4,4,2:55 PM,9:40,Abrosimova Traveling Turnover (P2.T10),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1020800197,294,6,2,4,2:55 PM,9:22,Gruda S.FOUL (P2.T1),,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,295,3,11,4,2:56 PM,9:22,,,Santos Free Throw 1 of 2 (1 PTS),54 - 57,3,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,296,8,0,4,2:56 PM,9:22,SUB: Holt FOR Turner,,,,,4,200681,Barbara Turner,1611661323.0,Connecticut,Sun,CON,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,297,3,12,4,2:56 PM,9:22,,,Santos Free Throw 2 of 2 (2 PTS),55 - 57,2,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,298,1,5,4,2:56 PM,9:06,Raymond 2' Layup (2 PTS) (Gruda 3 AST),,,55 - 59,4,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,299,6,2,4,2:57 PM,8:45,Abrosimova S.FOUL (P2.T2),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,300,3,11,4,2:57 PM,8:45,,,MISS Santos Free Throw 1 of 2,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,301,4,1,4,2:57 PM,8:45,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,302,3,12,4,2:57 PM,8:45,,,MISS Santos Free Throw 2 of 2,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,303,4,0,4,2:57 PM,8:43,Raymond REBOUND (Off:0 Def:2),,,,,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,304,2,5,4,2:57 PM,8:22,MISS Gruda 2' Layup,,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,305,4,0,4,2:57 PM,8:21,Holt REBOUND (Off:2 Def:3),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,306,1,5,4,2:58 PM,8:20,Holt 1' Layup (15 PTS),,,55 - 61,6,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,307,6,1,4,2:58 PM,8:00,Abrosimova P.FOUL (P3.T3),,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,308,8,0,4,2:58 PM,8:00,,,SUB: Griffith FOR Santos,,,5,100640,Kelly Santos,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,309,1,42,4,2:59 PM,7:53,,,Wright 2' Driving Layup (2 PTS),57 - 61,4,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,310,5,1,4,2:59 PM,7:45,Abrosimova Bad Pass Turnover (P3.T11),,Wright STEAL (1 STL),,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,311,1,1,4,2:59 PM,7:37,,,Bird  3PT Jump Shot (18 PTS) (Wright 3 AST),60 - 61,1,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,312,1,1,4,2:59 PM,7:18,Phillips  3PT Jump Shot (3 PTS),,,60 - 64,4,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,313,1,42,4,3:00 PM,6:54,,,Bird 1' Driving Layup (20 PTS),62 - 64,2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,314,6,2,4,3:00 PM,6:36,,,Griffith S.FOUL (P5.T1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,315,8,0,4,3:00 PM,6:36,SUB: Carey FOR Gruda,,,,,4,201058,Sandrine Gruda,1611661323.0,Connecticut,Sun,CON,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,316,8,0,4,3:00 PM,6:36,SUB: Jones FOR Abrosimova,,,,,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,317,8,0,4,3:00 PM,6:36,SUB: Whitmore FOR Raymond,,,,,4,100725,Tamika Raymond,1611661323.0,Connecticut,Sun,CON,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,318,8,0,4,3:00 PM,6:36,,,SUB: Cash FOR Gearlds,,,5,201052,Katie Gearlds,1611661328.0,Seattle,Storm,SEA,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,319,3,13,4,3:00 PM,6:36,Phillips Free Throw 1 of 3 (4 PTS),,,62 - 65,3,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,320,8,0,4,3:00 PM,6:36,,,SUB: Robinson FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,321,3,14,4,3:01 PM,6:36,Phillips Free Throw 2 of 3 (5 PTS),,,62 - 66,4,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,322,3,15,4,3:01 PM,6:36,Phillips Free Throw 3 of 3 (6 PTS),,,62 - 67,5,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,323,1,42,4,3:01 PM,6:12,,,Cash 3' Driving Layup (14 PTS),64 - 67,3,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,324,6,1,4,3:02 PM,5:56,,,Bird P.FOUL (P2.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,325,9,4,4,3:02 PM,5:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,328,1,1,4,3:05 PM,5:48,Jones 14' Jump Shot (16 PTS) (Carey 2 AST),,,64 - 69,5,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,329,6,2,4,3:05 PM,5:34,Holt S.FOUL (P4.T4),,,,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,330,3,11,4,3:06 PM,5:34,,,Cash Free Throw 1 of 2 (15 PTS),65 - 69,4,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,331,3,12,4,3:06 PM,5:34,,,Cash Free Throw 2 of 2 (16 PTS),66 - 69,3,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,332,1,5,4,3:06 PM,5:17,Jones 2' Layup (18 PTS),,,66 - 71,5,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,333,1,47,4,3:07 PM,4:58,,,Wright 10' Turnaround Jump Shot (4 PTS),68 - 71,3,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,334,2,63,4,3:07 PM,4:32,MISS Jones 12' Fadeaway Jumper,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,335,4,0,4,3:07 PM,4:30,,,Little REBOUND (Off:0 Def:4),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,336,1,1,4,3:07 PM,4:21,,,Bird 15' Jump Shot (22 PTS),70 - 71,1,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,337,1,5,4,3:08 PM,4:10,Whitmore 2' Layup (9 PTS) (Phillips 2 AST),,,70 - 73,3,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,338,2,1,4,3:08 PM,3:55,,,MISS Bird 15' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,339,4,0,4,3:08 PM,3:54,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,340,6,3,4,3:08 PM,3:54,,,Robinson L.B.FOUL (P3.T3),,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,341,8,0,4,3:08 PM,3:54,SUB: Gardin FOR Phillips,,,,,4,101039,Erin Phillips,1611661323.0,Connecticut,Sun,CON,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,342,8,0,4,3:08 PM,3:54,,,SUB: Griffith FOR Robinson,,,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,343,1,1,4,3:09 PM,3:39,Jones 15' Jump Shot (20 PTS) (Gardin 3 AST),,,70 - 75,5,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,344,2,1,4,3:09 PM,3:30,,,MISS Wright  3PT Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,345,10,0,4,3:09 PM,3:26,Jump Ball Whitmore vs. Cash: Tip to Holt,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,0
+1020800197,346,4,0,4,3:09 PM,3:26,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,348,5,2,4,3:10 PM,2:58,Holt Lost Ball Turnover (P1.T12),,Wright STEAL (2 STL),,,4,201483,Amber Holt,1611661323.0,Connecticut,Sun,CON,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,349,2,1,4,3:10 PM,2:50,,,MISS Wright 13' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,350,4,0,4,3:10 PM,2:49,,,Griffith REBOUND (Off:2 Def:1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,351,1,5,4,3:10 PM,2:48,,,Wright 2' Layup (6 PTS) (Griffith 3 AST),72 - 75,3,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,352,6,2,4,3:10 PM,2:38,,,Bird S.FOUL (P3.T4),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,354,9,1,4,3:10 PM,2:38,SUN Timeout: Regular (Full 3 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,355,3,11,4,3:13 PM,2:38,MISS Whitmore Free Throw 1 of 2,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,356,4,1,4,3:13 PM,2:38,SUN Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,357,3,12,4,3:14 PM,2:38,Whitmore Free Throw 2 of 2 (10 PTS),,,72 - 76,4,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,358,2,1,4,3:14 PM,2:17,,,MISS Wright 18' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,359,4,0,4,3:14 PM,2:15,,,Griffith REBOUND (Off:3 Def:1),,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,360,6,2,4,3:14 PM,2:15,Jones S.FOUL (P2.PN),,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1020800197,361,3,11,4,3:15 PM,2:15,,,Griffith Free Throw 1 of 2 (11 PTS),73 - 76,3,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,362,3,12,4,3:15 PM,2:15,,,Griffith Free Throw 2 of 2 (12 PTS),74 - 76,2,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,363,1,1,4,3:15 PM,2:02,Carey 14' Jump Shot (10 PTS) (Gardin 4 AST),,,74 - 78,4,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,364,2,5,4,3:15 PM,1:41,,,MISS Cash 1' Layup,,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,365,4,0,4,3:16 PM,1:39,,,Wright REBOUND (Off:1 Def:3),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,366,2,1,4,3:16 PM,1:36,,,MISS Wright 17' Jump Shot,,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,367,4,0,4,3:16 PM,1:34,Whitmore REBOUND (Off:0 Def:3),,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,368,2,1,4,3:16 PM,1:13,MISS Jones 14' Jump Shot,,,,,4,100723,Asjha Jones,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,369,4,0,4,3:16 PM,1:12,Carey REBOUND (Off:2 Def:1),,,,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,370,5,2,4,3:16 PM,0:53,Carey Lost Ball Turnover (P2.T13),,Bird STEAL (2 STL),,,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,371,1,5,4,3:16 PM,0:51,,,Bird  Layup (24 PTS),76 - 78,2,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,372,2,1,4,3:17 PM,0:32,MISS Whitmore 14' Jump Shot,,,,,4,100347,Tamika Whitmore,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,373,4,0,4,3:17 PM,0:30,,,Cash REBOUND (Off:0 Def:4),,,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,374,9,2,4,3:17 PM,0:25,,,Storm Timeout: Short (Reg.4 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,376,2,1,4,3:19 PM,0:12,,,MISS Bird 15' Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,377,10,0,4,3:19 PM,0:09,Jump Ball Gardin vs. Cash: Tip to Bird,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,5,100721,Swin Cash,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1020800197,378,4,0,4,3:19 PM,0:09,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,379,9,2,4,3:19 PM,0:04,,,Storm Timeout: Short (Reg.4 Short 2),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,380,5,40,4,3:21 PM,0:02,,,Wright Out of Bounds Lost Ball Turnover (P5.T11),,,5,101030,Tanisha Wright,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020800197,381,9,1,4,3:21 PM,0:02,SUN Timeout: Regular (Full 4 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020800197,383,8,0,4,3:22 PM,0:02,SUB: Abrosimova FOR Gardin,,,,,4,200704,Kerri Gardin,1611661323.0,Connecticut,Sun,CON,4,100658,Svetlana Abrosimova,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,384,8,0,4,3:22 PM,0:02,,,SUB: Robinson FOR Griffith,,,5,100419,Yolanda Griffith,1611661328.0,Seattle,Storm,SEA,5,100942,Ashley Robinson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020800197,385,6,1,4,3:22 PM,0:02,,,Bird P.FOUL (P4.PN),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,0
+1020800197,386,3,11,4,3:23 PM,0:02,Carey Free Throw 1 of 2 (11 PTS),,,76 - 79,3,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,387,3,12,4,3:23 PM,0:02,Carey Free Throw 2 of 2 (12 PTS),,,76 - 80,4,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1020800197,388,5,1,4,3:23 PM,0:00,Carey STEAL (1 STL),,Little Bad Pass Turnover (P2.T12),,,5,201067,Camille Smith,1611661328.0,Seattle,Storm,SEA,4,101053,Jamie Carey,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1020800197,389,13,0,4,3:23 PM,0:00,,End of 4th Period (3:23 PM EST),,76 - 80,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

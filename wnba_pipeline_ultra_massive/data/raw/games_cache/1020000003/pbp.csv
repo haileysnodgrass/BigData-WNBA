@@ -1,0 +1,367 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000003,0,12,0,1,12:10 PM,20:00,,Start of 1st Half (12:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,1,10,0,1,12:11 PM,20:00,Jump Ball Folkl vs. Melvin: Tip to McConnell Serio,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0
+1020000003,2,2,1,1,12:11 PM,19:44,,,MISS Nemcova 8' Jump Shot,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,3,4,0,1,12:11 PM,19:42,Dickerson REBOUND (Off:0 Def:1),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,4,5,2,1,12:11 PM,19:36,Smith Lost Ball Turnover (P1.T1),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,6,2,1,1,12:12 PM,19:13,,,MISS Nemcova 3PT Jump Shot,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,7,4,0,1,12:12 PM,19:10,Brumfield REBOUND (Off:0 Def:1),,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,8,1,1,1,12:12 PM,18:48,Smith 3PT Jump Shot (3 PTS) (Brumfield 1 AST),,,0 - 3,3,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,9,1,1,1,12:13 PM,18:17,,,Hall 12' Jump Shot (2 PTS) (Melvin 1 AST),2 - 3,1,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,10,2,1,1,12:13 PM,18:03,MISS Lennox 10' Jump Shot,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,11,4,0,1,12:13 PM,18:01,,,Melvin REBOUND (Off:0 Def:1),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,12,2,1,1,12:13 PM,17:55,,,MISS Jones 7' Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,13,4,0,1,12:13 PM,17:54,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,14,8,0,1,12:13 PM,17:54,SUB: Lloyd-Curry FOR Dickerson,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,16,2,1,1,12:14 PM,17:41,,,MISS McConnell Serio 3PT Jump Shot,,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,17,4,0,1,12:14 PM,17:39,Smith REBOUND (Off:0 Def:1),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,18,2,6,1,12:14 PM,17:21,MISS Smith Driving Layup,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,19,4,0,1,12:14 PM,17:18,Folkl REBOUND (Off:1 Def:0),,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,20,6,2,1,12:14 PM,17:16,,,Melvin S.FOUL (P1.T1),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,21,3,11,1,12:14 PM,17:16,Folkl Free Throw 1 of 2 (1 PTS),,,2 - 4,2,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,22,8,0,1,12:15 PM,17:16,SUB: Daley FOR Lennox,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,23,8,0,1,12:15 PM,17:16,SUB: Paye FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,24,3,12,1,12:15 PM,17:16,Folkl Free Throw 2 of 2 (2 PTS),,,2 - 5,3,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,25,1,1,1,12:15 PM,17:02,,,Nemcova 13' Jump Shot (2 PTS),4 - 5,1,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,26,1,6,1,12:15 PM,16:46,Folkl Driving Layup (4 PTS),,,4 - 7,3,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,27,1,1,1,12:16 PM,16:22,,,Jones 12' Jump Shot (2 PTS) (McConnell Serio 1 AST),6 - 7,1,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,28,6,2,1,12:16 PM,16:14,,,Hall S.FOUL (P1.T2),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,30,3,11,1,12:16 PM,16:14,Smith Free Throw 1 of 2 (4 PTS),,,6 - 8,2,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,31,3,12,1,12:16 PM,16:14,MISS Smith Free Throw 2 of 2,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,32,4,0,1,12:17 PM,16:13,Lloyd-Curry REBOUND (Off:1 Def:0),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,33,5,1,1,12:17 PM,15:57,Daley Bad Pass Turnover (P1.T2),,Melvin STEAL (1 STL),,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,34,1,1,1,12:17 PM,15:50,,,Hall 3PT Jump Shot (5 PTS) (McConnell Serio 2 AST),9 - 8,-1,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,35,6,1,1,12:17 PM,15:37,,,Jones P.FOUL (P1.T3),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,36,9,4,1,12:17 PM,15:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,38,8,0,1,12:19 PM,15:37,SUB: Lennox FOR Daley,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,40,6,1,1,12:20 PM,15:32,,,Nemcova P.FOUL (P1.T4),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,41,6,4,1,12:20 PM,15:26,Smith OFF.Foul (P1),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,42,5,5,1,12:20 PM,15:26,Smith Foul Turnover (P2.T3),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,43,2,1,1,12:21 PM,15:04,,,MISS Hall 11' Jump Shot,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,44,4,0,1,12:21 PM,15:02,Lloyd-Curry REBOUND (Off:1 Def:1),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,45,6,1,1,12:21 PM,15:02,,,Hall P.FOUL (P2.PN),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,46,1,1,1,12:21 PM,14:49,Smith 3PT Jump Shot (7 PTS) (Folkl 1 AST),,,9 - 11,2,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,48,5,1,1,12:22 PM,14:27,Lloyd-Curry STEAL (1 STL),,McConnell Serio Bad Pass Turnover (P1.T1),,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,49,2,1,1,12:22 PM,14:22,MISS Lloyd-Curry 3PT Jump Shot,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,50,4,0,1,12:22 PM,14:19,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,51,1,1,1,12:22 PM,14:08,,,Jones 12' Jump Shot (4 PTS) (McConnell Serio 3 AST),11 - 11,TIE,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,52,2,1,1,12:22 PM,13:56,MISS Smith 6' Jump Shot,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,53,4,0,1,12:22 PM,13:54,Lloyd-Curry REBOUND (Off:2 Def:1),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,54,1,1,1,12:23 PM,13:44,Paye 15' Jump Shot (2 PTS) (Lloyd-Curry 1 AST),,,11 - 13,2,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,55,1,1,1,12:23 PM,13:18,,,Nemcova 11' Jump Shot (4 PTS),13 - 13,TIE,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,56,5,1,1,12:23 PM,13:09,Paye Bad Pass Turnover (P1.T4),,Melvin STEAL (2 STL),,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,67,5,1,1,12:23 PM,13:06,,,Melvin Bad Pass Turnover (P1.T2),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,57,8,0,1,12:23 PM,13:06,SUB: Dickerson FOR Lloyd-Curry,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,58,8,0,1,12:23 PM,13:06,SUB: Brumfield FOR Paye,,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,59,8,0,1,12:24 PM,13:04,,,SUB: Darling FOR Hall,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,60,8,0,1,12:24 PM,13:04,,,SUB: Brown FOR McConnell Serio,,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,61,1,1,1,12:24 PM,12:49,Smith 3PT Jump Shot (10 PTS) (Folkl 2 AST),,,13 - 16,3,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,63,6,1,1,12:24 PM,12:38,Folkl P.FOUL (P1.T1),,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,65,5,1,1,12:25 PM,12:29,Lennox STEAL (1 STL),,Jones Bad Pass Turnover (P1.T3),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,66,1,6,1,12:25 PM,12:21,Smith Driving Layup (12 PTS) (Lennox 1 AST),,,13 - 18,5,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,68,9,2,1,12:25 PM,12:20,,,Rockers Timeout: Short (Reg.0 Short 1),,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,72,2,1,1,12:26 PM,12:00,,,MISS Melvin 12' Jump Shot,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,73,4,0,1,12:26 PM,11:57,Smith REBOUND (Off:0 Def:2),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,75,1,5,1,12:26 PM,11:49,Brumfield Layup (2 PTS),,,13 - 20,7,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,77,6,4,1,12:27 PM,11:29,,,Brown OFF.Foul (P1),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,78,5,5,1,12:27 PM,11:29,,,Brown Foul Turnover (P1.T4),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,79,9,4,1,12:27 PM,11:29,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,81,8,0,1,12:29 PM,11:29,SUB: Lloyd-Curry FOR Smith,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,82,8,0,1,12:29 PM,11:29,SUB: Daley FOR Folkl,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,83,8,0,1,12:29 PM,11:29,,,SUB: Wauters FOR Nemcova,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,84,8,0,1,12:29 PM,11:29,,,SUB: Andrade FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,85,6,4,1,12:29 PM,11:20,Daley OFF.Foul (P1),,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,86,5,5,1,12:29 PM,11:20,Daley Foul Turnover (P2.T5),,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,87,2,1,1,12:29 PM,11:07,,,MISS Jones 14' Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,88,4,0,1,12:29 PM,11:05,,,Brown REBOUND (Off:1 Def:0),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,89,2,5,1,12:29 PM,11:04,,,MISS Brown 4' Layup,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,90,4,0,1,12:29 PM,11:02,,,Brown REBOUND (Off:2 Def:0),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,91,1,5,1,12:29 PM,11:01,,,Brown 4' Layup (2 PTS),15 - 20,5,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,92,6,1,1,12:30 PM,10:55,,,Andrade P.FOUL (P1.PN),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,94,1,6,1,12:30 PM,10:45,Daley Driving Layup (2 PTS),,,15 - 22,7,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,95,2,1,1,12:30 PM,10:28,,,MISS Jones 11' Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,96,4,0,1,12:30 PM,10:26,Lennox REBOUND (Off:0 Def:1),,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,97,1,5,1,12:30 PM,10:19,Brumfield Layup (4 PTS) (Dickerson 1 AST),,,15 - 24,9,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,98,9,1,1,12:31 PM,10:16,,,Rockers Timeout: Regular (Reg.1 Short 1),,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,100,8,0,1,12:33 PM,10:16,SUB: Smith FOR Lennox,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,101,8,0,1,12:33 PM,10:16,,,SUB: Hall FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,102,8,0,1,12:33 PM,10:16,,,SUB: Edwards FOR Andrade,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,107,1,5,1,12:33 PM,9:55,,,Darling Layup (2 PTS),17 - 24,7,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,104,6,3,1,12:33 PM,9:55,Lloyd-Curry L.B.FOUL (P1.T2),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,108,8,0,1,12:34 PM,9:55,SUB: Folkl FOR Dickerson,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,109,3,10,1,12:35 PM,9:55,,,Wauters Free Throw 1 of 1 (1 PTS),18 - 24,6,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,112,2,1,1,12:36 PM,9:26,MISS Brumfield 10' Jump Shot,,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,113,4,0,1,12:36 PM,9:25,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,114,6,1,1,12:36 PM,9:15,Brumfield P.FOUL (P1.T3),,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,115,1,1,1,12:36 PM,9:07,,,Edwards 12' Jump Shot (2 PTS) (Darling 1 AST),20 - 24,4,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,117,6,2,1,12:37 PM,8:51,,,Wauters S.FOUL (P1.PN),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,119,3,11,1,12:37 PM,8:51,Folkl Free Throw 1 of 2 (5 PTS),,,20 - 25,5,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,120,8,0,1,12:37 PM,8:51,SUB: Lennox FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,121,3,12,1,12:37 PM,8:51,Folkl Free Throw 2 of 2 (6 PTS),,,20 - 26,6,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,123,2,1,1,12:38 PM,8:28,,,MISS Darling 3PT Jump Shot,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,124,4,0,1,12:38 PM,8:26,,,Hall REBOUND (Off:1 Def:0),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,126,5,1,1,12:38 PM,8:21,Smith STEAL (1 STL),,Edwards Bad Pass Turnover (P1.T5),,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,128,1,1,1,12:38 PM,8:09,Folkl 18' Jump Shot (8 PTS) (Lennox 2 AST),,,20 - 28,8,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,130,2,1,1,12:39 PM,7:41,,,MISS Edwards 3PT Jump Shot,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,131,4,0,1,12:39 PM,7:39,,,Brown REBOUND (Off:3 Def:0),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,133,6,1,1,12:39 PM,7:39,Lennox P.FOUL (P1.T4),,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,135,8,0,1,12:39 PM,7:38,,,SUB: McConnell Serio FOR Darling,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,136,8,0,1,12:39 PM,7:38,,,SUB: Nemcova FOR Wauters,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,137,8,0,1,12:39 PM,7:31,SUB: Dickerson FOR Lloyd-Curry,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,138,1,1,1,12:40 PM,7:22,,,Edwards 10' Jump Shot (4 PTS),22 - 28,6,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,140,2,1,1,12:40 PM,6:54,MISS Lennox 3PT Jump Shot,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,141,4,0,1,12:40 PM,6:52,,,McConnell Serio REBOUND (Off:0 Def:1),,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,142,5,1,1,12:40 PM,6:51,Lennox STEAL (2 STL),,McConnell Serio Bad Pass Turnover (P2.T6),,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,143,6,2,1,12:40 PM,6:44,,,Nemcova S.FOUL (P2.PN),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,144,3,11,1,12:41 PM,6:44,MISS Smith Free Throw 1 of 2,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,146,4,1,1,12:41 PM,6:44,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,147,8,0,1,12:41 PM,6:44,SUB: Tate FOR Daley,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,148,3,12,1,12:41 PM,6:44,Smith Free Throw 2 of 2 (13 PTS),,,22 - 29,7,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,150,2,1,1,12:41 PM,6:32,,,MISS Brown 13' Jump Shot,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,151,4,0,1,12:41 PM,6:29,Lennox REBOUND (Off:0 Def:2),,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,152,2,2,1,12:42 PM,6:20,MISS Lennox 8' Running Jump Shot,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,153,4,0,1,12:42 PM,6:15,,,Brown REBOUND (Off:3 Def:1),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,154,2,1,1,12:42 PM,5:52,,,MISS Edwards 15' Jump Shot,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,155,4,0,1,12:42 PM,5:49,Dickerson REBOUND (Off:0 Def:2),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,156,2,1,1,12:42 PM,5:31,MISS Dickerson 6' Jump Shot,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,157,4,0,1,12:42 PM,5:29,,,Nemcova REBOUND (Off:0 Def:1),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,158,6,1,1,12:43 PM,5:18,Lennox P.FOUL (P2.PN),,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,159,8,0,1,12:43 PM,5:18,,,SUB: Melvin FOR Brown,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,160,8,0,1,12:43 PM,5:18,SUB: Paye FOR Dickerson,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,161,8,0,1,12:43 PM,5:18,SUB: Martin FOR Folkl,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,162,8,0,1,12:43 PM,5:18,SUB: Lloyd-Curry FOR Lennox,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,163,2,1,1,12:43 PM,5:05,,,MISS Edwards 3PT Jump Shot,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,164,4,0,1,12:43 PM,5:03,Tate REBOUND (Off:0 Def:1),,,,,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,165,2,1,1,12:44 PM,4:51,MISS Lloyd-Curry 3PT Jump Shot,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,166,4,0,1,12:44 PM,4:49,,,Edwards REBOUND (Off:0 Def:1),,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,168,6,1,1,12:44 PM,4:41,Martin P.FOUL (P1.PN),,,,,4,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,170,8,0,1,12:44 PM,4:41,,,SUB: Bader Binford FOR McConnell Serio,,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,171,1,1,1,12:44 PM,4:32,,,Hall 15' Jump Shot (7 PTS) (Bader Binford 1 AST),24 - 29,5,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,172,6,1,1,12:45 PM,4:18,,,Edwards P.FOUL (P1.PN),,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,173,3,11,1,12:45 PM,4:18,Smith Free Throw 1 of 2 (14 PTS),,,24 - 30,6,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,174,3,12,1,12:45 PM,4:18,Smith Free Throw 2 of 2 (15 PTS),,,24 - 31,7,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,175,2,1,1,12:46 PM,3:56,,,MISS Nemcova 11' Jump Shot,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,176,4,0,1,12:46 PM,3:54,Smith REBOUND (Off:0 Def:3),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,177,1,1,1,12:46 PM,3:42,Smith 3PT Jump Shot (18 PTS),,,24 - 34,10,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,178,9,4,1,12:46 PM,3:27,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,180,8,0,1,12:49 PM,3:27,,,SUB: Andrade FOR Hall,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,181,8,0,1,12:49 PM,3:27,,,SUB: Jones FOR Edwards,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,183,1,1,1,12:49 PM,3:20,,,Nemcova 3PT Jump Shot (7 PTS) (Bader Binford 2 AST),27 - 34,7,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,184,6,1,1,12:50 PM,3:03,,,Jones P.FOUL (P2.PN),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,185,3,11,1,12:50 PM,3:03,MISS Lloyd-Curry Free Throw 1 of 2,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,187,4,1,1,12:50 PM,3:03,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,188,8,0,1,12:50 PM,3:03,,,SUB: Brown FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,189,8,0,1,12:50 PM,3:03,SUB: Daley FOR Tate,,,,,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,190,3,12,1,12:51 PM,3:03,Lloyd-Curry Free Throw 2 of 2 (1 PTS),,,27 - 35,8,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,193,2,1,1,12:51 PM,2:36,,,MISS Bader Binford 11' Jump Shot,,,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,194,4,0,1,12:51 PM,2:34,Smith REBOUND (Off:0 Def:4),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,195,2,5,1,12:51 PM,2:31,MISS Smith Layup,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,196,4,0,1,12:51 PM,2:28,,,Melvin REBOUND (Off:0 Def:2),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,197,1,1,1,12:51 PM,2:24,,,Nemcova 7' Jump Shot (9 PTS) (Bader Binford 3 AST),29 - 35,6,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,199,2,1,1,12:51 PM,2:08,MISS Smith 11' Jump Shot,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,200,4,0,1,12:52 PM,2:06,,,Nemcova REBOUND (Off:0 Def:2),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,202,1,1,1,12:52 PM,1:50,,,Andrade 3PT Jump Shot (3 PTS) (Bader Binford 4 AST),32 - 35,3,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,204,5,2,1,12:52 PM,1:24,Martin Lost Ball Turnover (P1.T6),,Andrade STEAL (1 STL),,,4,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,205,1,1,1,12:52 PM,1:17,,,Nemcova 3PT Jump Shot (12 PTS) (Bader Binford 5 AST),35 - 35,TIE,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,206,9,2,1,12:53 PM,1:14,LYNX Timeout: Short (Full 0 Short 1),,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,209,8,0,1,12:53 PM,1:14,SUB: Folkl FOR Daley,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,210,8,0,1,12:53 PM,1:14,SUB: Brumfield FOR Martin,,,,,4,100485,Maylana Martin,1611661324.0,Minnesota,Lynx,MIN,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,211,6,1,1,12:54 PM,1:00,,,Brown P.FOUL (P2.PN),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,213,8,0,1,12:54 PM,1:00,SUB: Lennox FOR Paye,,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,214,3,11,1,12:54 PM,1:00,Lloyd-Curry Free Throw 1 of 2 (2 PTS),,,35 - 36,1,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,215,3,12,1,12:54 PM,1:00,Lloyd-Curry Free Throw 2 of 2 (3 PTS),,,35 - 37,2,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,217,6,2,1,12:55 PM,0:51,Lloyd-Curry S.FOUL (P2.PN),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,218,3,11,1,12:55 PM,0:51,,,MISS Melvin Free Throw 1 of 2,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,219,4,1,1,12:55 PM,0:51,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,220,8,0,1,12:55 PM,0:51,,,SUB: Edwards FOR Nemcova,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,221,3,12,1,12:55 PM,0:51,,,Melvin Free Throw 2 of 2 (1 PTS),36 - 37,1,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,222,10,0,1,12:56 PM,0:31,Jump Ball Folkl vs. Melvin: Tip to Edwards,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0
+1020000003,223,5,2,1,12:56 PM,0:31,Folkl Lost Ball Turnover (P1.T7),,Melvin STEAL (3 STL),,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,224,2,5,1,12:57 PM,0:03,,,MISS Edwards Layup,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,225,4,0,1,12:57 PM,0:01,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,227,10,0,1,12:57 PM,0:01,Jump Ball Folkl vs. Melvin: Tip to Andrade,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0
+1020000003,229,2,1,1,12:57 PM,0:01,,,MISS Andrade 3PT Jump Shot,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,230,4,0,1,12:57 PM,0:00,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,232,13,0,1,12:58 PM,0:00,,End of 1st Half (12:58 PM EST),,36 - 37,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,234,12,0,2,1:13 PM,20:00,,Start of 2nd Half (1:13 PM EST),,36 - 37,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,235,10,0,2,1:13 PM,20:00,Jump Ball Folkl vs. Melvin: Tip to McConnell Serio,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0
+1020000003,236,2,1,2,1:13 PM,19:39,,,MISS Jones 18' Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,237,4,0,2,1:13 PM,19:37,Brumfield REBOUND (Off:0 Def:2),,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,238,1,1,2,1:13 PM,19:26,Lennox 13' Jump Shot (2 PTS),,,36 - 39,3,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,239,5,4,2,1:14 PM,19:12,,,Melvin Traveling Turnover (P2.T7),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,240,1,1,2,1:14 PM,18:53,Folkl 8' Jump Shot (10 PTS) (Brumfield 2 AST),,,36 - 41,5,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,241,6,1,2,1:14 PM,18:39,Lloyd-Curry P.FOUL (P3.T1),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,242,8,0,2,1:15 PM,18:39,,,SUB: Brown FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,243,8,0,2,1:15 PM,18:39,SUB: Dickerson FOR Lloyd-Curry,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,244,6,1,2,1:15 PM,18:26,Dickerson P.FOUL (P1.T2),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,245,6,1,2,1:16 PM,18:20,Brumfield P.FOUL (P2.T3),,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,247,5,1,2,1:16 PM,18:11,Folkl STEAL (1 STL),,Hall Bad Pass Turnover (P1.T8),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,248,1,1,2,1:16 PM,17:55,Smith 13' Jump Shot (20 PTS) (Dickerson 2 AST),,,36 - 43,7,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,249,2,1,2,1:17 PM,17:31,,,MISS Nemcova 3PT Jump Shot,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,250,4,0,2,1:17 PM,17:30,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,251,6,3,2,1:17 PM,17:30,Lennox L.B.FOUL (P3.T4),,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,252,8,0,2,1:17 PM,17:30,,,SUB: Melvin FOR Brown,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,253,1,1,2,1:18 PM,17:21,,,Jones 14' Jump Shot (6 PTS) (McConnell Serio 4 AST),38 - 43,5,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,254,2,1,2,1:18 PM,17:07,MISS Dickerson 12' Jump Shot,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,255,4,0,2,1:18 PM,17:06,Lennox REBOUND (Off:1 Def:2),,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,256,2,5,2,1:18 PM,17:04,MISS Lennox Layup,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,257,4,0,2,1:18 PM,17:03,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,258,8,0,2,1:18 PM,17:03,SUB: Daley FOR Lennox,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,259,5,4,2,1:19 PM,16:40,,,Jones Traveling Turnover (P2.T9),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,260,6,2,2,1:19 PM,16:27,,,Nemcova S.FOUL (P3.T1),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,261,3,11,2,1:19 PM,16:27,MISS Smith Free Throw 1 of 2,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,262,4,1,2,1:19 PM,16:27,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,263,3,12,2,1:20 PM,16:27,Smith Free Throw 2 of 2 (21 PTS),,,38 - 44,6,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,264,1,1,2,1:20 PM,16:07,,,Nemcova 3PT Jump Shot (15 PTS) (McConnell Serio 5 AST),41 - 44,3,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,265,1,1,2,1:20 PM,15:46,Smith 11' Jump Shot (23 PTS),,,41 - 46,5,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,266,6,1,2,1:21 PM,15:19,Dickerson P.FOUL (P2.PN),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,267,9,4,2,1:21 PM,15:19,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,269,8,0,2,1:23 PM,15:19,SUB: Paye FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,271,5,2,2,1:24 PM,15:07,Smith STEAL (2 STL),,Nemcova Lost Ball Turnover (P1.T10),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,272,1,6,2,1:24 PM,15:02,Daley Driving Layup (4 PTS) (Dickerson 3 AST),,,41 - 48,7,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,273,2,1,2,1:24 PM,14:31,,,MISS Melvin 5' Jump Shot,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,274,4,0,2,1:25 PM,14:30,Dickerson REBOUND (Off:0 Def:3),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,276,6,1,2,1:25 PM,14:24,,,McConnell Serio P.FOUL (P1.T2),,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,277,8,0,2,1:25 PM,14:24,,,SUB: Bader Binford FOR McConnell Serio,,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,278,8,0,2,1:25 PM,14:24,,,SUB: Wauters FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,279,6,2,2,1:25 PM,14:16,,,Wauters S.FOUL (P2.T3),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,280,3,11,2,1:26 PM,14:16,MISS Folkl Free Throw 1 of 2,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,281,4,1,2,1:26 PM,14:16,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,282,3,12,2,1:26 PM,14:16,MISS Folkl Free Throw 2 of 2,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,283,4,0,2,1:26 PM,14:15,,,Wauters REBOUND (Off:0 Def:1),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,284,1,1,2,1:26 PM,13:51,,,Nemcova 3PT Jump Shot (18 PTS) (Hall 1 AST),44 - 48,4,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,285,1,1,2,1:26 PM,13:43,Smith 3PT Jump Shot (26 PTS) (Paye 1 AST),,,44 - 51,7,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,286,5,1,2,1:27 PM,13:15,Dickerson STEAL (1 STL),,Jones Bad Pass Turnover (P3.T11),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,287,2,5,2,1:27 PM,13:08,MISS Dickerson Layup,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,288,4,0,2,1:27 PM,13:04,,,Nemcova REBOUND (Off:0 Def:3),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,289,2,1,2,1:27 PM,12:59,,,MISS Hall 3PT Jump Shot,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,290,4,0,2,1:27 PM,12:56,Daley REBOUND (Off:0 Def:1),,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,291,2,1,2,1:27 PM,12:40,MISS Smith 3PT Jump Shot,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,292,4,0,2,1:28 PM,12:38,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,293,6,3,2,1:28 PM,12:38,Paye L.B.FOUL (P1.PN),,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,294,8,0,2,1:28 PM,12:38,,,SUB: Andrade FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,295,8,0,2,1:28 PM,12:38,,,SUB: Edwards FOR Hall,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,296,6,1,2,1:28 PM,12:21,Dickerson P.FOUL (P3.PN),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,298,5,2,2,1:29 PM,12:15,,,Bader Binford Lost Ball Turnover (P1.T12),,,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,299,6,1,2,1:29 PM,11:53,,,Nemcova P.FOUL (P4.T4),,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,300,9,4,2,1:29 PM,11:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,302,8,0,2,1:32 PM,11:53,,,SUB: Brown FOR Nemcova,,,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,304,5,1,2,1:32 PM,11:45,Smith Bad Pass Turnover (P3.T8),,Bader Binford STEAL (1 STL),,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,305,6,2,2,1:32 PM,11:41,Paye S.FOUL (P2.PN),,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,306,3,11,2,1:32 PM,11:41,,,Bader Binford Free Throw 1 of 2 (1 PTS),45 - 51,6,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,307,3,12,2,1:33 PM,11:41,,,MISS Bader Binford Free Throw 2 of 2,,,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,308,4,0,2,1:33 PM,11:40,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,309,6,3,2,1:33 PM,11:40,,,Wauters L.B.FOUL (P3.PN),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,310,8,0,2,1:33 PM,11:40,SUB: Lloyd-Curry FOR Smith,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,320,8,0,2,1:33 PM,11:40,SUB: Brumfield FOR Paye,,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,311,2,1,2,1:33 PM,11:15,MISS Daley 9' Jump Shot,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,312,4,0,2,1:33 PM,11:13,Daley REBOUND (Off:1 Def:1),,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,313,2,5,2,1:33 PM,11:11,MISS Daley Layup,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,314,4,0,2,1:33 PM,11:08,Daley REBOUND (Off:2 Def:1),,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,316,5,1,2,1:34 PM,10:51,Lloyd-Curry Bad Pass Turnover (P1.T9),,Wauters STEAL (1 STL),,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,317,5,1,2,1:35 PM,10:34,Brumfield STEAL (1 STL),,Edwards Bad Pass Turnover (P2.T13),,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,318,2,1,2,1:35 PM,10:22,MISS Folkl 9' Jump Shot,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,319,4,0,2,1:35 PM,10:19,,,Wauters REBOUND (Off:0 Def:2),,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,321,1,1,2,1:35 PM,10:12,,,Edwards 11' Jump Shot (6 PTS),47 - 51,4,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,322,2,1,2,1:35 PM,9:52,MISS Daley 3PT Jump Shot,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,323,4,0,2,1:35 PM,9:50,Daley REBOUND (Off:3 Def:1),,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,324,6,1,2,1:35 PM,9:41,,,Edwards P.FOUL (P2.PN),,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,325,8,0,2,1:35 PM,9:41,SUB: Smith FOR Dickerson,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,326,8,0,2,1:36 PM,9:41,,,SUB: Darling FOR Edwards,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,327,5,1,2,1:36 PM,9:39,Smith Bad Pass Turnover (P4.T10),,Brown STEAL (1 STL),,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,328,2,6,2,1:36 PM,9:33,,,MISS Darling Driving Layup,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,329,4,0,2,1:36 PM,9:30,Smith REBOUND (Off:0 Def:5),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,331,6,1,2,1:36 PM,9:23,,,Brown P.FOUL (P3.PN),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,332,8,0,2,1:36 PM,9:23,SUB: Lennox FOR Daley,,,,,4,100482,Grace Daley,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,333,1,6,2,1:37 PM,9:10,Folkl Driving Layup (12 PTS) (Smith 1 AST),,,47 - 53,6,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,335,2,1,2,1:37 PM,8:52,,,MISS Darling 3PT Jump Shot,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,337,4,0,2,1:37 PM,8:50,,,Andrade REBOUND (Off:1 Def:0),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,338,1,5,2,1:37 PM,8:48,,,Andrade Layup (5 PTS),49 - 53,4,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,339,5,2,2,1:37 PM,8:34,Lloyd-Curry Lost Ball Turnover (P2.T11),,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,340,8,0,2,1:38 PM,8:34,,,SUB: Jones FOR Bader Binford,,,5,100237,Tricia Bader Binford,1611661315.0,Cleveland,Rockers,CLE,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,341,8,0,2,1:38 PM,8:34,SUB: Dickerson FOR Lloyd-Curry,,,,,4,100402,Andrea Lloyd-Curry,1611661324.0,Minnesota,Lynx,MIN,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,342,1,5,2,1:38 PM,8:13,,,Brown Layup (4 PTS) (Jones 1 AST),51 - 53,2,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,343,1,1,2,1:39 PM,7:52,Smith 3PT Jump Shot (29 PTS) (Lennox 3 AST),,,51 - 56,5,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,345,9,2,2,1:39 PM,7:42,,,Rockers Timeout: Short (Reg.1 Short 2),,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,347,8,0,2,1:40 PM,7:42,,,SUB: Hall FOR Wauters,,,5,100445,Ann Wauters,1611661315.0,Cleveland,Rockers,CLE,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,348,2,1,2,1:40 PM,7:24,,,MISS Jones 3PT Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,349,4,0,2,1:40 PM,7:21,Smith REBOUND (Off:0 Def:6),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,350,5,1,2,1:40 PM,7:18,Smith Bad Pass Turnover (P5.T12),,Darling STEAL (1 STL),,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,351,1,1,2,1:40 PM,7:12,,,Jones 14' Jump Shot (8 PTS),53 - 56,3,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,353,2,1,2,1:41 PM,6:59,MISS Lennox 9' Jump Shot,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,354,4,0,2,1:41 PM,6:56,,,Hall REBOUND (Off:1 Def:1),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,355,2,6,2,1:41 PM,6:50,,,MISS Darling Driving Layup,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,356,4,0,2,1:41 PM,6:48,,,Brown REBOUND (Off:4 Def:1),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,357,6,2,2,1:41 PM,6:48,Smith S.FOUL (P2.PN),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,358,9,4,2,1:41 PM,6:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,361,8,0,2,1:44 PM,6:48,SUB: Tate FOR Lennox,,,,,4,100484,Betty Lennox,1611661324.0,Minnesota,Lynx,MIN,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,362,8,0,2,1:44 PM,6:48,SUB: Paye FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,363,3,11,2,1:44 PM,6:48,,,MISS Brown Free Throw 1 of 2,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,364,4,1,2,1:44 PM,6:48,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,365,3,12,2,1:44 PM,6:48,,,Brown Free Throw 2 of 2 (5 PTS),54 - 56,2,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,367,6,1,2,1:45 PM,6:31,,,Brown P.FOUL (P4.PN),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,368,3,11,2,1:45 PM,6:31,MISS Dickerson Free Throw 1 of 2,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,369,4,1,2,1:45 PM,6:31,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,370,8,0,2,1:45 PM,6:31,,,SUB: Nemcova FOR Brown,,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,371,3,12,2,1:45 PM,6:31,Dickerson Free Throw 2 of 2 (1 PTS),,,54 - 57,3,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,372,2,1,2,1:46 PM,6:15,,,MISS Hall 12' Jump Shot,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,373,4,0,2,1:46 PM,6:14,,,Andrade REBOUND (Off:2 Def:0),,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,374,5,1,2,1:46 PM,6:07,Dickerson STEAL (2 STL),,Jones Bad Pass Turnover (P4.T14),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,375,6,2,2,1:46 PM,5:47,,,Hall S.FOUL (P3.PN),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,376,8,0,2,1:46 PM,5:47,,,SUB: Melvin FOR Andrade,,,5,100428,Mery Andrade,1611661315.0,Cleveland,Rockers,CLE,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,377,3,11,2,1:46 PM,5:47,MISS Folkl Free Throw 1 of 2,,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,378,4,1,2,1:46 PM,5:47,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,379,3,12,2,1:47 PM,5:47,Folkl Free Throw 2 of 2 (13 PTS),,,54 - 58,4,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,380,1,1,2,1:47 PM,5:23,,,Darling 10' Jump Shot (4 PTS),56 - 58,2,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,381,6,2,2,1:47 PM,5:23,Paye S.FOUL (P3.PN),,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,382,3,10,2,1:47 PM,5:23,,,Darling Free Throw 1 of 1 (5 PTS),57 - 58,1,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,384,1,5,2,1:48 PM,5:07,Dickerson Layup (3 PTS),,,57 - 60,3,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,385,6,2,2,1:48 PM,5:07,,,Melvin S.FOUL (P2.PN),,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,386,3,10,2,1:48 PM,5:07,Dickerson Free Throw 1 of 1 (4 PTS),,,57 - 61,4,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,387,6,1,2,1:49 PM,4:48,Paye P.FOUL (P4.PN),,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,388,3,11,2,1:49 PM,4:48,,,MISS Darling Free Throw 1 of 2,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,389,4,1,2,1:49 PM,4:48,,,Rockers Rebound,,,3,1611661315,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,390,8,0,2,1:49 PM,4:48,SUB: Brumfield FOR Paye,,,,,4,100487,Kate Paye,1611661324.0,Minnesota,Lynx,MIN,4,100481,Marla Brumfield,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,391,8,0,2,1:49 PM,4:48,,,SUB: Brown FOR Melvin,,,5,100433,Chasity Melvin,1611661315.0,Cleveland,Rockers,CLE,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,392,3,12,2,1:49 PM,4:48,,,Darling Free Throw 2 of 2 (6 PTS),58 - 61,3,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,393,1,1,2,1:50 PM,4:21,Folkl 3' Jump Shot (15 PTS) (Tate 1 AST),,,58 - 63,5,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,394,6,1,2,1:51 PM,3:50,Folkl P.FOUL (P2.PN),,,,,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,395,9,4,2,1:51 PM,3:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,397,8,0,2,1:53 PM,3:50,,,SUB: McConnell Serio FOR Darling,,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,399,3,11,2,1:53 PM,3:50,,,Brown Free Throw 1 of 2 (6 PTS),59 - 63,4,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,400,3,12,2,1:54 PM,3:50,,,Brown Free Throw 2 of 2 (7 PTS),60 - 63,3,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,401,6,1,2,1:54 PM,3:40,,,Hall P.FOUL (P4.PN),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,402,3,11,2,1:54 PM,3:40,Smith Free Throw 1 of 2 (30 PTS),,,60 - 64,4,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,403,3,12,2,1:54 PM,3:40,Smith Free Throw 2 of 2 (31 PTS),,,60 - 65,5,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,404,5,1,2,1:55 PM,3:23,Folkl STEAL (2 STL),,McConnell Serio Bad Pass Turnover (P3.T15),,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,405,1,1,2,1:55 PM,2:57,Tate 6' Jump Shot (2 PTS) (Folkl 3 AST),,,60 - 67,7,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,406,2,1,2,1:56 PM,2:32,,,MISS Hall 3PT Jump Shot,,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,407,4,0,2,1:56 PM,2:30,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,408,6,3,2,1:56 PM,2:30,,,Jones L.B.FOUL (P3.PN),,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,409,8,0,2,1:56 PM,2:30,,,SUB: Darling FOR McConnell Serio,,,5,100187,Suzie McConnell Serio,1611661315.0,Cleveland,Rockers,CLE,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,411,3,11,2,1:56 PM,2:30,MISS Tate Free Throw 1 of 2,,,,,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,412,4,1,2,1:56 PM,2:30,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,413,3,12,2,1:56 PM,2:30,Tate Free Throw 2 of 2 (3 PTS),,,60 - 68,8,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,415,1,1,2,1:57 PM,2:07,,,Nemcova 12' Jump Shot (20 PTS),62 - 68,6,5,100091,Eva Nemcova,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,416,6,1,2,1:58 PM,1:38,,,Darling P.FOUL (P1.PN),,,5,100457,Helen Darling,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,417,3,11,2,1:58 PM,1:38,MISS Smith Free Throw 1 of 2,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,419,4,1,2,1:58 PM,1:38,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,420,3,12,2,1:58 PM,1:38,Smith Free Throw 2 of 2 (32 PTS),,,62 - 69,7,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,422,5,2,2,1:58 PM,1:22,Tate STEAL (1 STL),,Brown Lost Ball Turnover (P2.T16),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,4,100406,Sonja Tate,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0
+1020000003,423,2,5,2,1:58 PM,1:14,MISS Smith 3' Layup,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,424,4,0,2,1:58 PM,1:12,,,Hall REBOUND (Off:1 Def:2),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,425,2,1,2,1:59 PM,1:09,,,MISS Jones 3PT Jump Shot,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,426,10,0,2,1:59 PM,1:08,Jump Ball Dickerson vs. Brown: Tip to Folkl,,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,4,100400,Kristin Folkl,1611661324.0,Minnesota,Lynx,MIN,0
+1020000003,427,4,0,2,1:59 PM,1:08,LYNX Rebound,,,,,2,1611661324,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000003,429,2,1,2,2:00 PM,0:38,MISS Smith 7' Jump Shot,,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,430,4,0,2,2:00 PM,0:36,Smith REBOUND (Off:1 Def:6),,,,,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,431,6,1,2,2:00 PM,0:31,,,Hall P.FOUL (P5.PN),,,5,100458,Vicki Hall,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,432,3,11,2,2:00 PM,0:31,Smith Free Throw 1 of 2 (33 PTS),,,62 - 70,8,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,433,8,0,2,2:00 PM,0:31,,,SUB: Edwards FOR Jones,,,5,100092,Merlakia Jones,1611661315.0,Cleveland,Rockers,CLE,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0
+1020000003,434,3,12,2,2:00 PM,0:31,Smith Free Throw 2 of 2 (34 PTS),,,62 - 71,9,4,100404,Katie Smith,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,435,2,1,2,2:01 PM,0:10,,,MISS Edwards 3PT Jump Shot,,,5,100088,Michelle Edwards,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,436,4,0,2,2:01 PM,0:07,Dickerson REBOUND (Off:0 Def:4),,,,,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,437,6,1,2,2:01 PM,0:07,,,Brown P.FOUL (P5.PN),,,5,100097,Rushia Brown,1611661315.0,Cleveland,Rockers,CLE,0,0,,,,,,0,0,,,,,,0
+1020000003,441,3,11,2,2:01 PM,0:07,Dickerson Free Throw 1 of 2 (5 PTS),,,62 - 72,10,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,442,3,12,2,2:02 PM,0:07,Dickerson Free Throw 2 of 2 (6 PTS),,,62 - 73,11,4,100483,Keitha Dickerson,1611661324.0,Minnesota,Lynx,MIN,0,0,,,,,,0,0,,,,,,0
+1020000003,443,13,0,2,2:02 PM,0:00,,End of 2nd Half (2:02 PM EST),,62 - 73,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

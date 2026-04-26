@@ -1,0 +1,334 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021500184,2,12,0,1,8:10 PM,10:00,,Start of 1st Period (8:10 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,3,10,0,1,8:10 PM,9:44,Jump Ball Appel Marinelli vs. Bone: Tip to Bone,,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,1
+1021500184,4,5,2,1,8:10 PM,9:41,Robinson STEAL (1 STL),,Faris Lost Ball Turnover (P1.T1),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,5,2,5,1,8:10 PM,9:37,MISS Robinson 2' Layup,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,6,4,0,1,8:10 PM,9:34,,,Lacy REBOUND (Off:0 Def:1),,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,7,6,2,1,8:11 PM,9:23,Appel Marinelli S.FOUL (P1.T1),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,8,3,11,1,8:11 PM,9:23,,,MISS Bone Free Throw 1 of 2,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,9,4,1,1,8:11 PM,9:23,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,10,3,12,1,8:11 PM,9:23,,,Bone Free Throw 2 of 2 (1 PTS),1 - 0,-1,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,12,6,1,1,8:11 PM,9:08,,,Little P.FOUL (P1.T1),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,14,7,5,1,8:12 PM,9:04,,,Lacy Violation:Kicked Ball,,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1,0,,,,,,0
+1021500184,15,1,5,1,8:12 PM,8:59,McBride Layup (2 PTS) (Appel Marinelli 1 AST),,,1 - 2,1,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,16,2,5,1,8:12 PM,8:45,,,MISS Lacy 1' Layup,,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,17,4,0,1,8:12 PM,8:44,McBride REBOUND (Off:0 Def:1),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,18,2,5,1,8:12 PM,8:32,MISS Appel Marinelli 1' Layup,,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,19,4,0,1,8:13 PM,8:32,Young-Malcolm REBOUND (Off:1 Def:0),,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,20,6,3,1,8:13 PM,8:32,,,Faris L.B.FOUL (P1.T2),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,21,1,1,1,8:13 PM,8:24,McBride 17' Jump Shot (4 PTS) (Perkins 1 AST),,,1 - 4,3,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,22,2,1,1,8:13 PM,8:08,,,MISS J. Thomas 17' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,23,4,0,1,8:13 PM,8:06,,,Faris REBOUND (Off:1 Def:0),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,24,2,5,1,8:13 PM,8:00,,,MISS Bone Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,26,4,0,1,8:13 PM,7:58,,,Bone REBOUND (Off:1 Def:0),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,25,2,5,1,8:13 PM,7:58,,,MISS Bone 1' Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,27,4,0,1,8:13 PM,7:56,Appel Marinelli REBOUND (Off:0 Def:1),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,28,5,1,1,8:14 PM,7:42,Perkins Bad Pass Turnover (P1.T1),,Little STEAL (1 STL),,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,29,2,1,1,8:14 PM,7:31,,,MISS Bone 4' Jump Shot,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,30,4,0,1,8:14 PM,7:29,Young-Malcolm REBOUND (Off:1 Def:1),,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,31,2,1,1,8:14 PM,7:19,MISS McBride 18' Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,32,4,0,1,8:14 PM,7:18,,,J. Thomas REBOUND (Off:0 Def:1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,34,5,2,1,8:14 PM,7:07,Perkins STEAL (1 STL),,Faris Lost Ball Turnover (P2.T2),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,35,1,5,1,8:15 PM,7:02,Perkins 1' Layup (2 PTS) (Appel Marinelli 2 AST),,,1 - 6,5,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,36,2,1,1,8:15 PM,6:32,,,MISS Little 3PT Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,37,4,0,1,8:15 PM,6:31,Appel Marinelli REBOUND (Off:0 Def:2),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,38,5,1,1,8:15 PM,6:20,McBride Bad Pass Turnover (P1.T2),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,39,8,0,1,8:15 PM,6:20,,,SUB: Pedersen FOR Bone,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,41,2,1,1,8:16 PM,6:02,,,MISS J. Thomas 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,42,4,0,1,8:16 PM,6:01,,,J. Thomas REBOUND (Off:1 Def:1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,43,5,1,1,8:16 PM,5:44,McBride STEAL (1 STL),,Pedersen Bad Pass Turnover (P1.T3),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,44,2,1,1,8:16 PM,5:37,MISS Robinson 18' Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,45,4,0,1,8:16 PM,5:34,,,Faris REBOUND (Off:1 Def:1),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,46,1,5,1,8:16 PM,5:19,,,Little 1' Layup (2 PTS) (J. Thomas 1 AST),3 - 6,3,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,47,2,1,1,8:17 PM,5:04,MISS McBride 20' Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,48,4,0,1,8:17 PM,5:02,,,Faris REBOUND (Off:1 Def:2),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,49,2,1,1,8:17 PM,4:54,,,MISS Pedersen 19' Jump Shot,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,50,4,0,1,8:17 PM,4:53,Perkins REBOUND (Off:0 Def:1),,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,51,5,1,1,8:17 PM,4:45,Perkins Bad Pass Turnover (P2.T3),,Faris STEAL (1 STL),,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,52,1,5,1,8:17 PM,4:39,,,J. Thomas 1' Layup (2 PTS) (Faris 1 AST),5 - 6,1,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,53,1,1,1,8:18 PM,4:16,McBride 18' Jump Shot (6 PTS),,,5 - 8,3,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,54,2,1,1,8:18 PM,3:50,,,MISS J. Thomas 25' 3PT Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,55,4,0,1,8:18 PM,3:50,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,56,9,4,1,8:18 PM,3:50,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,58,8,0,1,8:20 PM,3:50,,,SUB: Stricklen FOR Lacy,,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,59,8,0,1,8:20 PM,3:50,,,SUB: Gray FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,60,8,0,1,8:20 PM,3:50,SUB: Adams FOR Appel Marinelli,,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,61,8,0,1,8:20 PM,3:50,SUB: Montgomery FOR Perkins,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,62,2,5,1,8:21 PM,3:29,MISS McBride 2' Layup,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,63,4,0,1,8:21 PM,3:28,,,Stricklen REBOUND (Off:0 Def:1),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,64,1,5,1,8:21 PM,3:21,,,Little 1' Layup (4 PTS) (Gray 1 AST),7 - 8,1,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,65,1,1,1,8:21 PM,2:58,Adams 16' Jump Shot (2 PTS) (Montgomery 1 AST),,,7 - 10,3,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,66,2,1,1,8:22 PM,2:37,,,MISS Faris 24' 3PT Jump Shot,,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,67,4,0,1,8:22 PM,2:36,Robinson REBOUND (Off:0 Def:1),,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,68,2,1,1,8:22 PM,2:23,MISS Young-Malcolm 6' Jump Shot,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,69,4,0,1,8:22 PM,2:22,,,Faris REBOUND (Off:1 Def:3),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,70,6,1,1,8:22 PM,2:14,McBride P.FOUL (P1.T2),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,71,8,0,1,8:22 PM,2:14,SUB: Hamby FOR Young-Malcolm,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,72,8,0,1,8:22 PM,2:14,,,SUB: Greene FOR Pedersen,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203423,Nikki Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,73,8,0,1,8:22 PM,2:14,,,SUB: Bone FOR Little,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,74,1,5,1,8:23 PM,2:04,,,Faris 1' Layup (2 PTS) (Bone 1 AST),9 - 10,1,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,76,2,1,1,8:23 PM,1:44,MISS Montgomery 17' Jump Shot,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,77,4,0,1,8:23 PM,1:42,,,Gray REBOUND (Off:0 Def:1),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,78,1,1,1,8:24 PM,1:33,,,Bone 15' Jump Shot (3 PTS) (Gray 2 AST),11 - 10,-1,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,79,2,5,1,8:24 PM,1:14,MISS Hamby 1' Layup,,Bone BLOCK (1 BLK),,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,1
+1021500184,80,4,0,1,8:24 PM,1:12,,,Greene REBOUND (Off:0 Def:1),,,5.0,203423,Nikki Greene,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,82,8,0,1,8:24 PM,1:04,SUB: Colson FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,83,2,1,1,8:25 PM,0:49,,,MISS Stricklen 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,84,4,0,1,8:25 PM,0:48,Adams REBOUND (Off:0 Def:1),,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,85,1,1,1,8:25 PM,0:43,McBride 3PT Jump Shot (9 PTS) (Colson 1 AST),,,11 - 13,2,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,86,1,5,1,8:25 PM,0:29,,,Faris 2' Layup (4 PTS) (Bone 2 AST),13 - 13,TIE,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,87,6,2,1,8:25 PM,0:29,Montgomery S.FOUL (P1.T3),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,88,3,10,1,8:25 PM,0:29,,,Faris Free Throw 1 of 1 (5 PTS),14 - 13,-1,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,90,1,1,1,8:26 PM,0:09,Montgomery 3PT Jump Shot (3 PTS) (Colson 2 AST),,,14 - 16,2,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,92,2,1,1,8:26 PM,0:00,Colson BLOCK (1 BLK),,MISS Gray 18' Jump Shot,,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,1
+1021500184,93,4,0,1,8:26 PM,0:00,,,Gray REBOUND (Off:1 Def:1),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,94,13,0,1,8:26 PM,0:00,,End of 1st Period (8:26 PM EST),,14 - 16,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,96,12,0,2,8:29 PM,10:00,,Start of 2nd Period (8:29 PM EST),,14 - 16,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,97,6,1,2,8:29 PM,9:46,,,Gray P.FOUL (P1.T1),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,98,1,1,2,8:29 PM,9:40,Adams 3PT Jump Shot (5 PTS) (Colson 3 AST),,,14 - 19,5,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,99,1,47,2,8:30 PM,9:17,,,Gray 6' Turnaround Jump Shot (2 PTS),16 - 19,3,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,100,6,2,2,8:30 PM,8:59,,,Bone S.FOUL (P1.T2),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,101,3,11,2,8:30 PM,8:59,MISS Adams Free Throw 1 of 2,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,102,4,1,2,8:30 PM,8:59,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,103,3,12,2,8:30 PM,8:59,Adams Free Throw 2 of 2 (6 PTS),,,16 - 20,4,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,105,1,1,2,8:31 PM,8:39,,,Stricklen 24' 3PT Jump Shot (3 PTS) (Gray 3 AST),19 - 20,1,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,106,2,1,2,8:31 PM,8:19,MISS Adams 15' Jump Shot,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,107,4,0,2,8:31 PM,8:18,,,Bone REBOUND (Off:1 Def:1),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,108,2,82,2,8:31 PM,8:10,,,MISS Gray 6' Driving Bank Shot,,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,109,4,0,2,8:32 PM,8:08,Hamby REBOUND (Off:0 Def:1),,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,110,1,1,2,8:32 PM,8:01,Adams 3PT Jump Shot (9 PTS) (Colson 4 AST),,,19 - 23,4,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,111,1,85,2,8:32 PM,7:42,,,Bone 12' Turnaround Bank Shot (5 PTS) (J. Thomas 2 AST),21 - 23,2,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,112,1,44,2,8:32 PM,7:19,Hamby 1' Reverse Layup (2 PTS) (Montgomery 2 AST),,,21 - 25,4,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,113,2,1,2,8:33 PM,7:04,,,MISS Stricklen 3PT Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,114,4,0,2,8:33 PM,7:03,Hamby REBOUND (Off:0 Def:2),,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,115,2,1,2,8:33 PM,6:55,MISS Montgomery 3PT Jump Shot,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,116,4,0,2,8:33 PM,6:54,,,Pedersen REBOUND (Off:0 Def:1),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,117,1,5,2,8:33 PM,6:36,,,Stricklen 1' Layup (5 PTS) (Pedersen 1 AST),23 - 25,2,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,118,2,1,2,8:33 PM,6:20,MISS Logic 7' Jump Shot,,,,,4.0,204328,Samantha Logic,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,119,4,0,2,8:33 PM,6:19,,,Pedersen REBOUND (Off:0 Def:2),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,120,2,5,2,8:33 PM,6:09,,,MISS Bone 1' Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,121,4,0,2,8:34 PM,6:08,Adams REBOUND (Off:0 Def:2),,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,122,2,5,2,8:34 PM,6:02,MISS Hamby 1' Layup,,Gray BLOCK (1 BLK),,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,1
+1021500184,123,4,0,2,8:34 PM,6:01,,,Bone REBOUND (Off:1 Def:2),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,124,1,5,2,8:34 PM,5:51,,,J. Thomas 1' Layup (4 PTS),25 - 25,TIE,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,125,9,1,2,8:34 PM,5:45,STARS Timeout: Regular (Full 1 Short 0),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,127,8,0,2,8:36 PM,5:45,SUB: Alexander FOR Adams,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,128,8,0,2,8:36 PM,5:45,SUB: Perkins FOR Logic,,,,,4.0,204328,Samantha Logic,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,129,8,0,2,8:36 PM,5:45,SUB: Ayayi FOR Montgomery,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,130,8,0,2,8:36 PM,5:45,,,SUB: Little FOR Pedersen,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,131,2,1,2,8:37 PM,5:34,MISS Perkins 18' Jump Shot,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,132,4,0,2,8:37 PM,5:33,Alexander REBOUND (Off:1 Def:0),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,133,1,5,2,8:37 PM,5:31,Alexander 2' Layup (2 PTS),,,25 - 27,2,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,134,2,5,2,8:37 PM,5:15,,,MISS Bone 3' Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,135,4,0,2,8:37 PM,5:14,Perkins REBOUND (Off:0 Def:2),,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,136,5,2,2,8:37 PM,5:06,Colson Lost Ball Turnover (P1.T4),,Little STEAL (2 STL),,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,137,1,5,2,8:37 PM,5:00,,,J. Thomas 1' Layup (6 PTS),27 - 27,TIE,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,138,2,5,2,8:38 PM,4:35,MISS Hamby Layup,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,139,4,0,2,8:38 PM,4:34,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,140,8,0,2,8:38 PM,4:34,SUB: Robinson FOR Colson,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,141,8,0,2,8:38 PM,4:34,SUB: Young-Malcolm FOR Hamby,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,142,8,0,2,8:38 PM,4:34,,,SUB: Lacy FOR Gray,,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,5,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,143,2,85,2,8:39 PM,4:22,MISS Young-Malcolm 12' Turnaround Bank Shot,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,144,4,0,2,8:39 PM,4:21,,,Little REBOUND (Off:0 Def:1),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,145,5,1,2,8:39 PM,4:06,Perkins STEAL (2 STL),,Little Bad Pass Turnover (P1.T4),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,146,2,5,2,8:39 PM,3:59,MISS Ayayi 2' Layup,,Lacy BLOCK (1 BLK),,,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,1
+1021500184,147,4,0,2,8:39 PM,3:59,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,148,2,1,2,8:39 PM,3:56,MISS Perkins 17' Jump Shot,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,149,4,0,2,8:39 PM,3:55,,,Little REBOUND (Off:0 Def:2),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,150,5,2,2,8:40 PM,3:33,Robinson STEAL (2 STL),,Bone Lost Ball Turnover (P1.T5),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,151,1,5,2,8:40 PM,3:27,Ayayi 2' Layup (2 PTS) (Robinson 1 AST),,,27 - 29,2,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,152,2,1,2,8:40 PM,3:04,Perkins BLOCK (1 BLK),,MISS Stricklen 16' Jump Shot,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,1
+1021500184,153,4,0,2,8:40 PM,3:02,Ayayi REBOUND (Off:0 Def:1),,,,,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,154,1,1,2,8:40 PM,2:53,Ayayi 24' 3PT Jump Shot (5 PTS) (Perkins 2 AST),,,27 - 32,5,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,155,9,1,2,8:40 PM,2:50,,,Sun Timeout: Regular (Reg.1 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,157,8,0,2,8:43 PM,2:50,,,SUB: Faris FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,158,2,1,2,8:43 PM,2:35,,,MISS Faris 3PT Jump Shot,,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,159,4,0,2,8:43 PM,2:33,,,Little REBOUND (Off:1 Def:2),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,160,1,5,2,8:43 PM,2:23,,,Bone Layup (7 PTS) (J. Thomas 3 AST),29 - 32,3,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,161,2,66,2,8:44 PM,1:55,MISS Ayayi 26' 3PT Jump Bank Shot,,,,,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,162,4,0,2,8:44 PM,1:52,,,Faris REBOUND (Off:1 Def:4),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,163,2,5,2,8:44 PM,1:44,Alexander BLOCK (1 BLK),,MISS Bone 2' Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1
+1021500184,164,4,0,2,8:44 PM,1:44,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,165,6,3,2,8:44 PM,1:44,Young-Malcolm L.B.FOUL (P1.T1),,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,166,8,0,2,8:44 PM,1:44,SUB: Appel Marinelli FOR Alexander,,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,167,8,0,2,8:44 PM,1:44,SUB: McBride FOR Ayayi,,,,,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,168,1,5,2,8:44 PM,1:32,,,Lacy 1' Layup (2 PTS),31 - 32,1,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,169,1,79,2,8:45 PM,1:19,Robinson 16' Pullup Jump Shot (2 PTS),,,31 - 34,3,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,170,10,0,2,8:46 PM,1:00,Jump Ball Robinson vs. J. Thomas: Tip to Little,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,1
+1021500184,171,2,1,2,8:46 PM,0:50,,,MISS J. Thomas 20' Jump Shot,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,172,4,0,2,8:46 PM,0:49,Appel Marinelli REBOUND (Off:0 Def:3),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,175,6,1,2,8:46 PM,0:33,,,Faris P.FOUL (P2.T3),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,176,8,0,2,8:46 PM,0:33,,,SUB: Gray FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,177,1,5,2,8:47 PM,0:27,Perkins 1' Layup (4 PTS) (Robinson 2 AST),,,31 - 36,5,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,178,7,5,2,8:47 PM,0:09,Young-Malcolm Violation:Kicked Ball,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,0
+1021500184,179,1,1,2,8:47 PM,0:05,,,Gray 17' Jump Shot (4 PTS),33 - 36,3,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,180,2,1,2,8:47 PM,0:00,MISS Perkins 29' 3PT Jump Shot,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,181,4,0,2,8:47 PM,0:00,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,182,13,0,2,8:47 PM,0:00,,End of 2nd Period (8:47 PM EST),,33 - 36,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,184,12,0,3,9:03 PM,10:00,,Start of 3rd Period (9:03 PM EST),,33 - 36,3,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,185,1,5,3,9:03 PM,9:41,Young-Malcolm 3' Layup (2 PTS) (Robinson 3 AST),,,33 - 38,5,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,186,6,1,3,9:03 PM,9:30,Appel Marinelli P.FOUL (P2.T1),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,187,1,1,3,9:04 PM,9:22,,,Little 3PT Jump Shot (7 PTS) (J. Thomas 4 AST),36 - 38,2,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,188,6,2,3,9:04 PM,9:09,,,J. Thomas S.FOUL (P1.T1),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,189,3,11,3,9:04 PM,9:09,Perkins Free Throw 1 of 2 (5 PTS),,,36 - 39,3,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,191,3,12,3,9:04 PM,9:09,Perkins Free Throw 2 of 2 (6 PTS),,,36 - 40,4,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,193,2,5,3,9:05 PM,8:54,,,MISS Little Layup,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,194,4,0,3,9:05 PM,8:52,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,195,2,1,3,9:05 PM,8:42,MISS Perkins 17' Jump Shot,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,196,4,0,3,9:05 PM,8:39,Appel Marinelli REBOUND (Off:1 Def:3),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,197,2,1,3,9:05 PM,8:31,MISS Perkins 13' Jump Shot,,J. Thomas BLOCK (1 BLK),,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,1
+1021500184,198,4,0,3,9:05 PM,8:29,,,Gray REBOUND (Off:1 Def:2),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,199,5,2,3,9:05 PM,8:24,Perkins STEAL (3 STL),,Gray Lost Ball Turnover (P1.T6),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,200,1,47,3,9:06 PM,8:12,Young-Malcolm 5' Turnaround Jump Shot (4 PTS) (Perkins 3 AST),,,36 - 42,6,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,201,2,5,3,9:06 PM,7:50,,,MISS Gray 1' Layup,,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,202,4,0,3,9:06 PM,7:49,Young-Malcolm REBOUND (Off:1 Def:2),,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,203,6,1,3,9:06 PM,7:45,,,J. Thomas P.FOUL (P2.T2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,205,1,1,3,9:07 PM,7:26,Perkins 3PT Jump Shot (9 PTS),,,36 - 45,9,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,206,9,1,3,9:07 PM,7:19,,,Sun Timeout: Regular (Reg.2 Short 0),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,208,5,11,3,9:10 PM,6:59,,,Sun Turnover: Shot Clock (T#7),,,3.0,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1021500184,209,6,1,3,9:10 PM,6:49,,,Little P.FOUL (P2.T3),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,210,2,1,3,9:11 PM,6:39,MISS McBride 5' Jump Shot,,Faris BLOCK (1 BLK),,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,1
+1021500184,211,4,0,3,9:11 PM,6:36,,,J. Thomas REBOUND (Off:1 Def:2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,212,1,5,3,9:11 PM,6:32,,,J. Thomas 1' Layup (8 PTS),38 - 45,7,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,213,2,46,3,9:11 PM,6:14,MISS McBride 6' Running Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,214,4,0,3,9:11 PM,6:12,Appel Marinelli REBOUND (Off:2 Def:3),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,216,2,5,3,9:12 PM,5:59,MISS Young-Malcolm 3' Layup,,Gray BLOCK (2 BLK),,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,1
+1021500184,217,4,0,3,9:12 PM,5:57,,,Gray REBOUND (Off:1 Def:3),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,218,1,5,3,9:12 PM,5:52,,,Gray 2' Layup (6 PTS),40 - 45,5,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,219,6,2,3,9:12 PM,5:40,,,Gray S.FOUL (P2.T4),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,220,3,11,3,9:13 PM,5:40,Robinson Free Throw 1 of 2 (3 PTS),,,40 - 46,6,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,222,8,0,3,9:13 PM,5:40,SUB: Adams FOR Appel Marinelli,,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,223,8,0,3,9:13 PM,5:40,,,SUB: Stricklen FOR Gray,,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,224,3,12,3,9:13 PM,5:40,Robinson Free Throw 2 of 2 (4 PTS),,,40 - 47,7,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,226,2,5,3,9:13 PM,5:27,Perkins BLOCK (2 BLK),,MISS Faris 3' Layup,,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,1
+1021500184,227,4,0,3,9:13 PM,5:25,,,Stricklen REBOUND (Off:1 Def:1),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,228,1,1,3,9:13 PM,5:21,,,Faris 21' Jump Shot (7 PTS) (J. Thomas 5 AST),42 - 47,5,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,229,6,2,3,9:13 PM,5:08,,,Bone S.FOUL (P2.PN),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,230,3,11,3,9:14 PM,5:08,Perkins Free Throw 1 of 2 (10 PTS),,,42 - 48,6,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,232,3,12,3,9:14 PM,5:08,Perkins Free Throw 2 of 2 (11 PTS),,,42 - 49,7,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,234,1,44,3,9:14 PM,4:53,,,Bone 1' Reverse Layup (9 PTS) (J. Thomas 6 AST),44 - 49,5,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,235,9,1,3,9:15 PM,4:42,STARS Timeout: Regular (Full 2 Short 0),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,237,8,0,3,9:16 PM,4:42,,,SUB: Pedersen FOR Little,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,238,8,0,3,9:16 PM,4:42,SUB: Montgomery FOR Perkins,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,239,2,1,3,9:17 PM,4:21,MISS Young-Malcolm 15' Jump Shot,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,240,4,0,3,9:17 PM,4:20,,,Bone REBOUND (Off:1 Def:3),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,241,1,5,3,9:17 PM,4:09,,,Bone 2' Layup (11 PTS) (J. Thomas 7 AST),46 - 49,3,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,242,2,5,3,9:17 PM,3:57,MISS Montgomery Layup,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,243,4,0,3,9:17 PM,3:56,,,Bone REBOUND (Off:1 Def:4),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,244,6,1,3,9:17 PM,3:48,Adams P.FOUL (P1.T2),,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,245,8,0,3,9:17 PM,3:48,SUB: Hamby FOR Young-Malcolm,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,246,2,47,3,9:18 PM,3:37,,,MISS Bone 7' Turnaround Jump Shot,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,247,4,0,3,9:18 PM,3:35,Adams REBOUND (Off:0 Def:3),,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,248,2,5,3,9:18 PM,3:19,MISS Robinson 2' Layup,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,249,4,0,3,9:18 PM,3:18,,,Stricklen REBOUND (Off:1 Def:2),,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,250,2,1,3,9:18 PM,3:11,,,MISS Faris 22' Jump Shot,,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,251,4,0,3,9:18 PM,3:09,Montgomery REBOUND (Off:0 Def:1),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,252,1,1,3,9:18 PM,2:51,Montgomery 9' Jump Shot (5 PTS) (Adams 1 AST),,,46 - 51,5,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,253,1,42,3,9:19 PM,2:26,,,Bone Driving Layup (13 PTS),48 - 51,3,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,254,1,1,3,9:19 PM,2:09,McBride 24' 3PT Jump Shot (12 PTS),,,48 - 54,6,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,255,2,5,3,9:20 PM,1:48,,,MISS Bone 2' Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,256,4,0,3,9:20 PM,1:47,Hamby REBOUND (Off:0 Def:3),,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,257,8,0,3,9:20 PM,1:47,SUB: Colson FOR Robinson,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,258,8,0,3,9:20 PM,1:47,,,SUB: Gray FOR Bone,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,259,8,0,3,9:20 PM,1:47,,,SUB: Little FOR J. Thomas,,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,260,8,0,3,9:20 PM,1:47,,,SUB: Lacy FOR Faris,,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,261,10,0,3,9:20 PM,1:46,Jump Ball Hamby vs. Pedersen: Tip to Stricklen,,,,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,1
+1021500184,262,5,2,3,9:20 PM,1:46,Hamby Lost Ball Turnover (P1.T5),,Pedersen STEAL (1 STL),,,4.0,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,263,1,1,3,9:20 PM,1:34,,,Gray 18' Jump Shot (8 PTS),50 - 54,4,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,264,2,1,3,9:21 PM,1:07,MISS Montgomery 11' Jump Shot,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,265,4,0,3,9:21 PM,1:05,Adams REBOUND (Off:1 Def:3),,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,266,1,5,3,9:21 PM,1:03,Adams 2' Layup (11 PTS),,,50 - 56,6,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,267,2,5,3,9:21 PM,0:41,Adams BLOCK (1 BLK),,MISS Pedersen 2' Layup,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1
+1021500184,268,4,0,3,9:21 PM,0:41,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,269,1,1,3,9:22 PM,0:39,,,Little 14' Jump Shot (9 PTS) (Gray 4 AST),52 - 56,4,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,270,6,1,3,9:22 PM,0:29,,,Pedersen P.FOUL (P1.PN),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021500184,271,3,11,3,9:22 PM,0:29,MISS Adams Free Throw 1 of 2,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,272,4,1,3,9:22 PM,0:29,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,273,3,12,3,9:22 PM,0:29,Adams Free Throw 2 of 2 (12 PTS),,,52 - 57,5,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,275,6,2,3,9:23 PM,0:12,Montgomery S.FOUL (P2.T3),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,5,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,276,3,11,3,9:23 PM,0:12,,,MISS Lacy Free Throw 1 of 2,,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,277,4,1,3,9:23 PM,0:12,,,Sun Rebound,,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,278,3,12,3,9:23 PM,0:12,,,Lacy Free Throw 2 of 2 (3 PTS),53 - 57,4,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,280,2,1,3,9:24 PM,0:00,MISS McBride 24' 3PT Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,281,4,0,3,9:24 PM,0:00,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,284,18,0,3,9:24 PM,0:00,,Support Ruling,,,,,254,,,,,,0,0,,,,,,1,0,,,,,,0
+1021500184,282,13,0,3,9:24 PM,0:00,,End of 3rd Period (9:24 PM EST),,53 - 57,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,285,12,0,4,9:27 PM,10:00,,Start of 4th Period (9:27 PM EST),,53 - 57,4,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,286,2,47,4,9:27 PM,9:43,,,MISS Little 8' Turnaround Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,287,4,0,4,9:27 PM,9:39,Alexander REBOUND (Off:1 Def:1),,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,288,5,1,4,9:28 PM,9:24,Colson Bad Pass Turnover (P2.T6),,Stricklen STEAL (1 STL),,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,289,1,5,4,9:28 PM,9:17,,,Lacy Layup (5 PTS) (Little 1 AST),55 - 57,2,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,290,2,1,4,9:28 PM,8:55,MISS Adams 14' Jump Shot,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,291,4,0,4,9:28 PM,8:53,Montgomery REBOUND (Off:1 Def:1),,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,292,1,1,4,9:28 PM,8:34,Montgomery 18' Jump Shot (7 PTS),,,55 - 59,4,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,293,1,5,4,9:29 PM,8:11,,,Pedersen 2' Layup (2 PTS) (Stricklen 1 AST),57 - 59,2,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,294,1,1,4,9:29 PM,7:53,Montgomery 16' Jump Shot (9 PTS) (Colson 5 AST),,,57 - 61,4,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,295,5,2,4,9:29 PM,7:36,Montgomery STEAL (1 STL),,Gray Lost Ball Turnover (P2.T8),,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,4,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,296,1,5,4,9:29 PM,7:31,Montgomery 1' Layup (11 PTS),,,57 - 63,6,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,297,2,1,4,9:30 PM,7:22,,,MISS Little 24' 3PT Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,298,4,0,4,9:30 PM,7:19,Colson REBOUND (Off:0 Def:1),,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,299,2,85,4,9:30 PM,6:56,MISS Adams 5' Turnaround Bank Shot,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,300,4,0,4,9:30 PM,6:55,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,301,8,0,4,9:30 PM,6:55,,,SUB: Faris FOR Stricklen,,,5.0,203015,Shekinna Stricklen,1611661323.0,Connecticut,Sun,CON,5,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,302,8,0,4,9:30 PM,6:55,,,SUB: Bone FOR Little,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,303,2,1,4,9:31 PM,6:43,MISS Ayayi 26' 3PT Jump Shot,,,,,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,304,4,0,4,9:31 PM,6:42,,,Faris REBOUND (Off:1 Def:5),,,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,306,2,1,4,9:31 PM,6:31,,,MISS Lacy 3PT Jump Shot,,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,307,4,0,4,9:31 PM,6:30,,,Pedersen REBOUND (Off:1 Def:2),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,308,1,1,4,9:31 PM,6:25,,,Gray 4' Jump Shot (10 PTS),59 - 63,4,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,309,6,2,4,9:31 PM,6:25,Colson S.FOUL (P1.T1),,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,1,0,,,,,,1
+1021500184,310,8,0,4,9:31 PM,6:25,SUB: Appel Marinelli FOR Adams,,,,,4.0,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,4,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,311,8,0,4,9:32 PM,6:25,SUB: Perkins FOR Montgomery,,,,,4.0,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,312,8,0,4,9:32 PM,6:25,SUB: McBride FOR Ayayi,,,,,4.0,204468,Valeriane Ayayi,1611661319.0,San Antonio,Stars,SAN,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,313,3,10,4,9:32 PM,6:25,,,Gray Free Throw 1 of 1 (11 PTS),60 - 63,3,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,315,2,5,4,9:32 PM,6:04,MISS Perkins 1' Layup,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,316,4,0,4,9:32 PM,6:03,,,Pedersen REBOUND (Off:1 Def:3),,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,317,2,1,4,9:33 PM,5:53,,,MISS Bone 4' Jump Shot,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,318,4,0,4,9:33 PM,5:51,McBride REBOUND (Off:0 Def:2),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,319,5,2,4,9:33 PM,5:34,Alexander Lost Ball Turnover (P1.T7),,Pedersen STEAL (2 STL),,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,320,1,1,4,9:33 PM,5:16,,,Bone 14' Jump Shot (15 PTS),62 - 63,1,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,321,9,1,4,9:33 PM,5:09,STARS Timeout: Regular (Full 3 Short 0),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,323,8,0,4,9:35 PM,5:09,SUB: Young-Malcolm FOR Alexander,,,,,4.0,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,324,8,0,4,9:35 PM,5:09,SUB: Robinson FOR Colson,,,,,4.0,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,325,8,0,4,9:36 PM,5:09,,,SUB: J. Thomas FOR Gray,,,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,326,6,27,4,9:36 PM,5:02,,,Lacy Personal Block Foul (P1.T1),,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,4,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1021500184,327,2,66,4,9:36 PM,4:55,MISS McBride 19' Jump Bank Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,328,4,0,4,9:36 PM,4:53,,,Bone REBOUND (Off:1 Def:5),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,329,1,5,4,9:37 PM,4:40,,,J. Thomas Layup (10 PTS) (Bone 3 AST),64 - 63,-1,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,5,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,330,1,1,4,9:37 PM,4:24,McBride 20' Jump Shot (14 PTS),,,64 - 65,1,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,332,2,1,4,9:37 PM,4:03,,,MISS Bone 15' Jump Shot,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,0
+1021500184,333,4,0,4,9:37 PM,4:02,McBride REBOUND (Off:0 Def:3),,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,334,1,1,4,9:38 PM,3:40,Robinson 17' Jump Shot (6 PTS),,,64 - 67,3,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,335,5,1,4,9:38 PM,3:21,McBride STEAL (2 STL),,Bone Bad Pass Turnover (P2.T9),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,336,1,5,4,9:38 PM,3:18,McBride 1' Layup (16 PTS),,,64 - 69,5,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,337,6,2,4,9:38 PM,3:18,,,J. Thomas S.FOUL (P3.T2),,,5.0,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,4,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,0
+1021500184,338,9,2,4,9:38 PM,3:18,,,Sun Timeout: Short (Reg.2 Short 1),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,340,8,0,4,9:39 PM,3:18,,,SUB: Gray FOR Lacy,,,5.0,101080,Jennifer Lacy,1611661323.0,Connecticut,Sun,CON,5,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,341,3,10,4,9:40 PM,3:18,McBride Free Throw 1 of 1 (17 PTS),,,64 - 70,6,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021500184,343,1,1,4,9:40 PM,2:56,,,Gray 3PT Jump Shot (14 PTS) (Pedersen 2 AST),67 - 70,3,5.0,203833,Chelsea Gray,1611661323.0,Connecticut,Sun,CON,5,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,345,9,4,4,9:40 PM,2:46,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,347,8,0,4,9:43 PM,2:46,,,SUB: Little FOR Pedersen,,,5.0,202653,Kayla Pedersen,1611661323.0,Connecticut,Sun,CON,5,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0
+1021500184,348,5,11,4,9:43 PM,2:31,STARS Turnover: Shot Clock (T#8),,,,,2.0,1611661319,,,,,,0,0,,,,,,1,0,,,,,,0
+1021500184,349,1,5,4,9:44 PM,2:10,,,Little 2' Layup (11 PTS),69 - 70,1,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,350,2,1,4,9:44 PM,2:00,MISS Robinson 15' Jump Shot,,,,,4.0,202658,Danielle Robinson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,351,4,0,4,9:44 PM,1:59,,,Bone REBOUND (Off:1 Def:6),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,353,2,5,4,9:44 PM,1:43,,,MISS Bone Layup,,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,354,4,0,4,9:44 PM,1:42,Young-Malcolm REBOUND (Off:1 Def:3),,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,355,2,1,4,9:44 PM,1:36,MISS Perkins 12' Jump Shot,,,,,4.0,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,356,4,0,4,9:44 PM,1:33,Appel Marinelli REBOUND (Off:3 Def:3),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,357,2,5,4,9:45 PM,1:20,MISS McBride 1' Layup,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,358,4,0,4,9:45 PM,1:19,,,Little REBOUND (Off:1 Def:3),,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,359,2,1,4,9:45 PM,1:06,,,MISS Little 24' 3PT Jump Shot,,,5.0,201067,Camille Smith,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,360,4,0,4,9:45 PM,1:05,Appel Marinelli REBOUND (Off:3 Def:4),,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,361,1,1,4,9:45 PM,0:43,Young-Malcolm 14' Jump Shot (6 PTS) (Perkins 4 AST),,,69 - 72,3,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,4,100952,Jia Perkins,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021500184,362,9,1,4,9:45 PM,0:43,,,Sun Timeout: Regular (Reg.3 Short 1),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,364,1,5,4,9:47 PM,0:38,,,Faris 2' Layup (9 PTS) (J. Thomas 8 AST),71 - 72,1,5.0,203408,Kelly Faris,1611661323.0,Connecticut,Sun,CON,5,202662,Jasmine Thomas,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,1
+1021500184,365,2,47,4,9:48 PM,0:14,MISS Young-Malcolm 13' Turnaround Jump Shot,,,,,4.0,200674,Sophia Young-Malcolm,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,366,4,0,4,9:48 PM,0:11,,,Bone REBOUND (Off:1 Def:7),,,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,367,9,2,4,9:48 PM,0:07,,,Sun Timeout: Short (Reg.3 Short 2),,,3.0,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,369,1,5,4,9:49 PM,0:01,,,Bone 1' Layup (17 PTS),73 - 72,-1,5.0,203402,Kelsey Bone,1611661323.0,Connecticut,Sun,CON,0,0,,,,,,0,0,,,,,,1
+1021500184,370,9,2,4,9:49 PM,0:01,STARS Timeout: Short (Full 3 Short 1),,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,371,8,0,4,9:50 PM,0:01,SUB: Adams FOR Appel Marinelli,,,,,4.0,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,202634,Danielle Adams,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021500184,372,2,1,4,9:50 PM,0:00,MISS McBride 3PT Jump Shot,,,,,4.0,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021500184,374,4,0,4,9:50 PM,0:00,STARS Rebound,,,,,2.0,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021500184,375,13,0,4,9:51 PM,0:00,,End of 4th Period (9:51 PM EST),,73 - 72,-1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

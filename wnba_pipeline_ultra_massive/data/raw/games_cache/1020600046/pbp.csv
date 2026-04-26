@@ -1,0 +1,386 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020600046,0,12,0,1,7:18 PM,10:00,,Start of 1st Period (7:18 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,1,10,0,1,7:19 PM,10:00,Jump Ball Sutton-Brown vs. Hoffman: Tip to Sutton-Brown,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,2,2,5,1,7:19 PM,9:42,MISS Sutton-Brown  Layup,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,3,4,0,1,7:19 PM,9:41,,,Hoffman REBOUND (Off:0 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,4,2,1,1,7:19 PM,9:24,,,MISS Whitmore 17' Jump Shot,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,5,4,0,1,7:19 PM,9:22,,,DeForge REBOUND (Off:1 Def:0),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,6,5,2,1,7:19 PM,9:14,Darling STEAL (1 STL),,Catchings Lost Ball Turnover (P1.T1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,7,2,5,1,7:20 PM,9:00,MISS Currie  Layup,,Catchings BLOCK (1 BLK),,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1020600046,8,4,0,1,7:20 PM,8:59,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,9,6,1,1,7:20 PM,8:46,Darling P.FOUL (P1.T1),,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,10,2,1,1,7:20 PM,8:37,,,MISS Catchings 24' 3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,11,4,0,1,7:20 PM,8:36,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,12,2,1,1,7:21 PM,8:27,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,13,4,0,1,7:21 PM,8:25,Sutton-Brown REBOUND (Off:0 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,14,2,1,1,7:21 PM,8:20,MISS Sam 16' Jump Shot,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,15,4,0,1,7:21 PM,8:17,,,DeForge REBOUND (Off:1 Def:1),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,16,5,1,1,7:21 PM,8:07,,,DeForge Bad Pass Turnover (P1.T2),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,17,6,4,1,7:22 PM,7:49,Sam OFF.Foul (P1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,18,5,5,1,7:22 PM,7:49,Sam Foul Turnover (P1.T1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600046,19,2,1,1,7:22 PM,7:32,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,20,4,0,1,7:22 PM,7:30,Smith REBOUND (Off:0 Def:1),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,21,6,4,1,7:22 PM,7:28,Darling OFF.Foul (P2),,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,22,5,5,1,7:22 PM,7:28,Darling Foul Turnover (P1.T2),,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600046,23,1,1,1,7:23 PM,7:19,,,DeForge  3PT Jump Shot (3 PTS),3 - 0,-3,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,24,2,47,1,7:23 PM,7:03,MISS Smith 13' Turnaround Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,25,4,0,1,7:23 PM,7:01,,,Hoffman REBOUND (Off:0 Def:2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,26,5,1,1,7:23 PM,6:57,Sutton-Brown STEAL (1 STL),,Bevilaqua Bad Pass Turnover (P1.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,27,8,0,1,7:23 PM,6:51,SUB: Mazzante FOR Darling,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,28,2,5,1,7:24 PM,6:39,MISS Currie  Layup,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,29,4,0,1,7:24 PM,6:38,,,Hoffman REBOUND (Off:0 Def:3),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,30,2,5,1,7:24 PM,6:34,,,MISS DeForge  Layup,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,31,4,0,1,7:24 PM,6:32,Sam REBOUND (Off:0 Def:1),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,32,2,5,1,7:25 PM,6:08,MISS Smith  Layup,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,33,4,0,1,7:25 PM,6:06,,,DeForge REBOUND (Off:1 Def:2),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,34,1,5,1,7:25 PM,6:01,,,Hoffman  Layup (2 PTS) (DeForge 1 AST),5 - 0,-5,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,35,9,1,1,7:25 PM,5:57,STING Timeout: Regular (Full 1 Short 0),,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,38,2,1,1,7:27 PM,5:44,MISS Mazzante 8' Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,40,4,0,1,7:28 PM,5:33,Sutton-Brown REBOUND (Off:1 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,47,2,40,1,7:28 PM,5:29,MISS Sutton-Brown  Layup,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,50,4,0,1,7:28 PM,5:29,,,Whitmore REBOUND (Off:0 Def:1),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,39,1,5,1,7:28 PM,5:22,,,Hoffman  Layup (4 PTS) (DeForge 2 AST),7 - 0,-7,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,41,6,2,1,7:28 PM,5:14,,,Hoffman S.FOUL (P1.T1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,42,8,0,1,7:28 PM,5:14,,,SUB: Sharp FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,43,3,11,1,7:28 PM,5:14,MISS Sutton-Brown Free Throw 1 of 2,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,44,4,1,1,7:28 PM,5:14,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,45,8,0,1,7:28 PM,5:14,SUB: Bond FOR Currie,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,46,3,12,1,7:29 PM,5:14,Sutton-Brown Free Throw 2 of 2 (1 PTS),,,7 - 1,-6,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,48,6,2,1,7:29 PM,5:00,Smith S.FOUL (P1.T2),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,51,3,11,1,7:29 PM,5:00,,,Hoffman Free Throw 1 of 2 (5 PTS),8 - 1,-7,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,52,3,12,1,7:29 PM,5:00,,,MISS Hoffman Free Throw 2 of 2,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,53,4,0,1,7:30 PM,4:58,Sam REBOUND (Off:0 Def:2),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,54,5,2,1,7:30 PM,4:54,Sam Lost Ball Turnover (P2.T3),,Catchings STEAL (1 STL),,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,55,6,1,1,7:30 PM,4:40,Mazzante P.FOUL (P1.T3),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,56,2,5,1,7:30 PM,4:37,Mazzante BLOCK (1 BLK),,MISS DeForge  Layup,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,57,4,0,1,7:30 PM,4:36,,,DeForge REBOUND (Off:2 Def:2),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,58,2,5,1,7:30 PM,4:30,,,MISS Whitmore  Layup,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,59,4,0,1,7:30 PM,4:30,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,60,2,1,1,7:31 PM,4:14,MISS Bond  3PT Jump Shot,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,61,4,0,1,7:31 PM,4:11,,,DeForge REBOUND (Off:2 Def:3),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,62,1,1,1,7:31 PM,4:04,,,DeForge  3PT Jump Shot (6 PTS) (Catchings 1 AST),11 - 1,-10,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,63,5,2,1,7:31 PM,3:35,Sam Lost Ball Turnover (P3.T4),,Catchings STEAL (2 STL),,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,64,1,5,1,7:31 PM,3:31,,,Catchings  Layup (2 PTS),13 - 1,-12,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,66,9,2,1,7:32 PM,3:27,STING Timeout: Short (Full 1 Short 1),,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,69,8,0,1,7:32 PM,3:27,SUB: Fluker FOR Sutton-Brown,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,70,8,0,1,7:33 PM,3:27,,,SUB: Atkinson FOR Whitmore,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,71,2,1,1,7:33 PM,3:09,MISS Fluker 12' Jump Shot,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,72,4,0,1,7:33 PM,3:07,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,73,1,5,1,7:33 PM,2:55,,,Hoffman  Layup (7 PTS),15 - 1,-14,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,75,5,1,1,7:33 PM,2:45,Bond Bad Pass Turnover (P1.T5),,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,76,2,1,1,7:33 PM,2:28,Mazzante BLOCK (2 BLK),,MISS DeForge 18' Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,77,4,0,1,7:34 PM,2:25,,,Atkinson REBOUND (Off:1 Def:0),,,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,78,5,39,1,7:34 PM,2:25,,,Sharp Step Out of Bounds Turnover (P1.T4),,,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,80,1,5,1,7:34 PM,2:10,Fluker  Layup (2 PTS) (Smith 1 AST),,,15 - 3,-12,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,81,5,1,1,7:34 PM,1:56,Smith STEAL (1 STL),,Catchings Bad Pass Turnover (P2.T5),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,82,2,5,1,7:34 PM,1:52,MISS Mazzante  Layup,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,84,4,0,1,7:34 PM,1:51,Smith REBOUND (Off:1 Def:1),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,83,2,4,1,7:34 PM,1:51,MISS Smith  Tip Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,86,4,0,1,7:34 PM,1:49,Smith REBOUND (Off:2 Def:1),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,85,1,5,1,7:34 PM,1:49,Smith  Layup (2 PTS),,,15 - 5,-10,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,87,1,1,1,7:35 PM,1:30,,,DeForge 11' Jump Shot (8 PTS),17 - 5,-12,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,89,1,1,1,7:35 PM,1:19,Mazzante  3PT Jump Shot (3 PTS) (Bond 1 AST),,,17 - 8,-9,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,90,6,1,1,7:35 PM,1:08,Bond P.FOUL (P1.T4),,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,91,8,0,1,7:35 PM,1:08,SUB: McCarville FOR Smith,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,92,8,0,1,7:35 PM,1:08,SUB: Feaster FOR Sam,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,93,8,0,1,7:35 PM,1:08,,,SUB: White FOR DeForge,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,94,1,1,1,7:36 PM,0:58,,,Catchings 17' Jump Shot (4 PTS) (White 1 AST),19 - 8,-11,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,95,5,2,1,7:36 PM,0:42,McCarville Lost Ball Turnover (P1.T6),,Catchings STEAL (3 STL),,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,96,5,2,1,7:36 PM,0:35,Feaster STEAL (1 STL),,Atkinson Lost Ball Turnover (P1.T6),,,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,97,6,2,1,7:36 PM,0:16,,,Hoffman S.FOUL (P2.T2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,98,3,11,1,7:37 PM,0:16,MISS Bond Free Throw 1 of 2,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,99,4,1,1,7:37 PM,0:16,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,100,3,12,1,7:37 PM,0:16,Bond Free Throw 2 of 2 (1 PTS),,,19 - 9,-10,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,101,2,5,1,7:37 PM,0:01,Fluker BLOCK (1 BLK),,MISS Atkinson  Layup,,,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,102,4,0,1,7:37 PM,0:00,Feaster REBOUND (Off:0 Def:1),,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,103,13,0,1,7:38 PM,0:00,,End of 1st Period (7:38 PM EST),,19 - 9,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,105,12,0,2,7:40 PM,10:00,,Start of 2nd Period (7:40 PM EST),,19 - 9,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,106,2,5,2,7:40 PM,9:36,McCarville BLOCK (1 BLK),,MISS Atkinson  Layup,,,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,107,4,0,2,7:40 PM,9:36,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,108,2,1,2,7:41 PM,9:33,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,109,4,0,2,7:41 PM,9:31,Mazzante REBOUND (Off:0 Def:1),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,110,2,1,2,7:41 PM,9:09,MISS Feaster 16' Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,111,4,0,2,7:41 PM,9:06,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,112,8,0,2,7:41 PM,9:06,,,SUB: Bevilaqua FOR Sharp,,,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,113,2,1,2,7:42 PM,8:56,MISS Feaster  3PT Jump Shot,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,114,4,0,2,7:42 PM,8:54,,,Catchings REBOUND (Off:0 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,115,6,1,2,7:42 PM,8:51,Mazzante P.FOUL (P2.T1),,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,116,8,0,2,7:42 PM,8:51,,,SUB: Smith FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,117,8,0,2,7:42 PM,8:51,SUB: Currie FOR Mazzante,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,118,2,1,2,7:42 PM,8:43,,,MISS White 17' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,119,4,0,2,7:42 PM,8:40,McCarville REBOUND (Off:0 Def:1),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,120,2,1,2,7:42 PM,8:32,MISS Currie  3PT Jump Shot,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,121,4,0,2,7:43 PM,8:29,,,Bevilaqua REBOUND (Off:0 Def:1),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,122,1,1,2,7:43 PM,8:20,,,Scott 18' Jump Shot (2 PTS) (Bevilaqua 1 AST),21 - 9,-12,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,123,5,40,2,7:43 PM,7:56,Currie Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,124,6,1,2,7:44 PM,7:34,Currie P.FOUL (P1.T2),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,125,2,1,2,7:44 PM,7:22,,,MISS Smith  3PT Jump Shot,,,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,126,4,0,2,7:44 PM,7:22,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,127,6,3,2,7:44 PM,7:22,,,Smith L.B.FOUL (P1.T1),,,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,128,5,1,2,7:45 PM,7:06,Currie Bad Pass Turnover (P2.T8),,Atkinson STEAL (1 STL),,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,129,8,0,2,7:45 PM,7:00,SUB: Darling FOR Bond,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,130,8,0,2,7:45 PM,7:00,,,SUB: DeForge FOR Atkinson,,,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,132,8,0,2,7:46 PM,7:00,SUB: Sam FOR Feaster,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,133,8,0,2,7:46 PM,7:00,SUB: Sutton-Brown FOR Fluker,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,134,10,0,2,7:46 PM,7:00,Jump Ball Currie vs. Smith: Tip to Bevilaqua,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0
+1020600046,135,2,5,2,7:46 PM,6:41,McCarville BLOCK (2 BLK),,MISS Scott  Layup,,,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,136,4,0,2,7:46 PM,6:41,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,137,5,11,2,7:46 PM,6:41,,,Fever Turnover: Shot Clock (T#7),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600046,138,8,0,2,7:46 PM,6:41,,,SUB: Whitmore FOR Scott,,,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,139,1,5,2,7:47 PM,6:19,Sutton-Brown  Layup (3 PTS) (Currie 1 AST),,,21 - 11,-10,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,140,6,2,2,7:47 PM,6:19,,,Whitmore S.FOUL (P1.T2),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,141,8,0,2,7:47 PM,6:19,SUB: Smith FOR McCarville,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,142,3,10,2,7:47 PM,6:19,MISS Sutton-Brown Free Throw 1 of 1,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,143,4,0,2,7:48 PM,6:19,Sam REBOUND (Off:1 Def:2),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,144,6,1,2,7:48 PM,6:19,,,Smith P.FOUL (P2.T3),,,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,145,1,1,2,7:48 PM,6:14,Darling  3PT Jump Shot (3 PTS),,,21 - 14,-7,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,146,5,1,2,7:48 PM,6:08,Darling STEAL (2 STL),,Smith Bad Pass Turnover (P1.T8),,,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,147,1,5,2,7:48 PM,6:04,Smith  Layup (4 PTS) (Darling 1 AST),,,21 - 16,-5,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,148,9,1,2,7:48 PM,6:02,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,150,8,0,2,7:50 PM,6:02,,,SUB: Hoffman FOR Smith,,,5,100371,Charlotte Smith,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,151,2,1,2,7:51 PM,5:39,,,MISS Whitmore 13' Jump Shot,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,152,4,0,2,7:51 PM,5:37,Smith REBOUND (Off:2 Def:2),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,153,6,2,2,7:51 PM,5:30,,,Whitmore S.FOUL (P2.T4),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,154,8,0,2,7:51 PM,5:30,,,SUB: Catchings FOR White,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,155,3,11,2,7:51 PM,5:30,Sutton-Brown Free Throw 1 of 2 (4 PTS),,,21 - 17,-4,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,156,3,12,2,7:52 PM,5:30,MISS Sutton-Brown Free Throw 2 of 2,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,157,4,0,2,7:52 PM,5:27,Currie REBOUND (Off:1 Def:0),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,158,1,1,2,7:52 PM,5:09,Smith 11' Jump Shot (6 PTS) (Darling 2 AST),,,21 - 19,-2,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,159,1,1,2,7:53 PM,4:47,,,Whitmore 17' Jump Shot (2 PTS) (Catchings 2 AST),23 - 19,-4,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,160,1,42,2,7:53 PM,4:30,Darling  Driving Layup (5 PTS),,,23 - 21,-2,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,161,6,1,2,7:53 PM,4:22,Smith P.FOUL (P2.T3),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,162,2,1,2,7:54 PM,4:17,,,MISS DeForge  3PT Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,163,4,0,2,7:54 PM,4:15,Darling REBOUND (Off:0 Def:1),,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,164,1,5,2,7:54 PM,4:08,Sutton-Brown  Layup (6 PTS) (Darling 3 AST),,,23 - 23,TIE,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,165,2,5,2,7:54 PM,3:45,Sutton-Brown BLOCK (1 BLK),,MISS Whitmore  Layup,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,166,4,0,2,7:54 PM,3:45,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,167,2,1,2,7:55 PM,3:42,,,MISS DeForge 19' Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,168,4,0,2,7:55 PM,3:40,Currie REBOUND (Off:1 Def:1),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,169,5,2,2,7:55 PM,3:23,Darling Lost Ball Turnover (P2.T9),,Bevilaqua STEAL (1 STL),,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,170,6,2,2,7:55 PM,3:16,Sam S.FOUL (P2.T4),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,171,3,11,2,7:56 PM,3:16,,,Whitmore Free Throw 1 of 2 (3 PTS),24 - 23,-1,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,172,3,12,2,7:56 PM,3:16,,,Whitmore Free Throw 2 of 2 (4 PTS),25 - 23,-2,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,173,2,5,2,7:56 PM,2:56,MISS Sutton-Brown  Layup,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,175,4,0,2,7:56 PM,2:56,Sutton-Brown REBOUND (Off:2 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,174,1,5,2,7:56 PM,2:56,Sutton-Brown  Layup (8 PTS),,,25 - 25,TIE,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,176,6,2,2,7:56 PM,2:56,,,Whitmore S.FOUL (P3.PN),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,177,9,4,2,7:57 PM,2:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,179,8,0,2,7:59 PM,2:56,,,SUB: Scott FOR Whitmore,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,180,3,10,2,7:59 PM,2:56,MISS Sutton-Brown Free Throw 1 of 1,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,181,4,0,2,7:59 PM,2:53,,,Scott REBOUND (Off:0 Def:1),,,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,182,2,1,2,8:00 PM,2:34,,,MISS Catchings 18' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,183,4,0,2,8:00 PM,2:31,Currie REBOUND (Off:1 Def:2),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,184,2,1,2,8:00 PM,2:25,MISS Sam 7' Jump Shot,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,185,4,0,2,8:00 PM,2:22,Sutton-Brown REBOUND (Off:3 Def:1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,186,5,8,2,8:00 PM,2:10,Sutton-Brown 3 Second Violation Turnover (P1.T10),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,1,0,,,,,,0
+1020600046,187,6,4,2,8:01 PM,1:59,,,Catchings OFF.Foul (P1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,188,5,5,2,8:01 PM,1:59,,,Catchings Foul Turnover (P3.T9),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020600046,189,2,5,2,8:01 PM,1:54,MISS Sutton-Brown  Layup,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,190,4,0,2,8:01 PM,1:52,,,Scott REBOUND (Off:0 Def:2),,,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,191,2,5,2,8:01 PM,1:35,,,MISS Catchings  Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,192,4,0,2,8:01 PM,1:35,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,193,8,0,2,8:01 PM,1:35,,,SUB: White FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,194,2,1,2,8:02 PM,1:33,Sutton-Brown BLOCK (2 BLK),,MISS White 17' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,195,4,0,2,8:02 PM,1:32,,,DeForge REBOUND (Off:3 Def:3),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,196,6,1,2,8:02 PM,1:32,Currie P.FOUL (P2.PN),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,197,3,11,2,8:02 PM,1:32,,,DeForge Free Throw 1 of 2 (9 PTS),26 - 25,-1,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,198,3,12,2,8:02 PM,1:32,,,DeForge Free Throw 2 of 2 (10 PTS),27 - 25,-2,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,199,5,40,2,8:03 PM,1:14,Sutton-Brown Out of Bounds Lost Ball Turnover (P2.T11),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,200,9,1,2,8:03 PM,1:14,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,202,2,1,2,8:05 PM,0:51,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,203,4,0,2,8:05 PM,0:48,Sam REBOUND (Off:1 Def:3),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,204,6,2,2,8:05 PM,0:36,,,Scott S.FOUL (P1.PN),,,5,100243,Olympia Scott,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,205,3,11,2,8:06 PM,0:36,Sutton-Brown Free Throw 1 of 2 (9 PTS),,,27 - 26,-1,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,206,8,0,2,8:06 PM,0:36,SUB: Walker FOR Smith,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,207,8,0,2,8:06 PM,0:36,SUB: Bond FOR Darling,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,208,3,12,2,8:06 PM,0:36,Sutton-Brown Free Throw 2 of 2 (10 PTS),,,27 - 27,TIE,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,209,5,1,2,8:06 PM,0:17,Bond STEAL (1 STL),,White Bad Pass Turnover (P1.T10),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,210,1,5,2,8:07 PM,0:10,Sam  Layup (2 PTS),,,27 - 29,2,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,211,13,0,2,8:07 PM,0:00,,End of 2nd Period (8:07 PM EST),,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,213,12,0,3,8:22 PM,10:00,,Start of 3rd Period (8:22 PM EST),,27 - 29,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,214,2,1,3,8:23 PM,9:37,,,MISS Bevilaqua 13' Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,216,4,0,3,8:23 PM,9:34,,,Whitmore REBOUND (Off:1 Def:1),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,215,2,5,3,8:23 PM,9:34,,,MISS Whitmore  Layup,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,217,4,0,3,8:23 PM,9:31,,,Catchings REBOUND (Off:1 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,218,2,1,3,8:23 PM,9:29,,,MISS DeForge 15' Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,219,4,0,3,8:23 PM,9:27,Currie REBOUND (Off:1 Def:3),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,220,2,1,3,8:23 PM,9:22,MISS Darling 11' Jump Shot,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,222,4,0,3,8:23 PM,9:20,Currie REBOUND (Off:2 Def:3),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,221,2,4,3,8:23 PM,9:20,MISS Currie  Tip Shot,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,223,4,0,3,8:23 PM,9:20,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,224,1,1,3,8:23 PM,9:17,Smith 17' Jump Shot (8 PTS) (Darling 4 AST),,,27 - 31,4,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,225,1,44,3,8:24 PM,9:00,,,Bevilaqua  Reverse Layup (2 PTS) (DeForge 3 AST),29 - 31,2,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,226,2,1,3,8:24 PM,8:44,MISS Smith 9' Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,227,4,0,3,8:24 PM,8:44,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,228,6,3,3,8:24 PM,8:44,Sutton-Brown L.B.FOUL (P1.T1),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,229,5,40,3,8:25 PM,8:24,,,Hoffman Out of Bounds Lost Ball Turnover (P1.T11),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,230,1,1,3,8:25 PM,8:01,Currie  3PT Jump Shot (3 PTS) (Darling 5 AST),,,29 - 34,5,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,231,2,1,3,8:26 PM,7:47,,,MISS Hoffman 12' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,232,4,0,3,8:26 PM,7:47,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,233,6,3,3,8:26 PM,7:47,Smith L.B.FOUL (P3.T2),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,234,1,1,3,8:26 PM,7:34,,,Bevilaqua  3PT Jump Shot (5 PTS) (Hoffman 1 AST),32 - 34,2,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,235,1,5,3,8:26 PM,7:17,Sutton-Brown  Layup (12 PTS) (Sam 1 AST),,,32 - 36,4,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,236,6,2,3,8:26 PM,7:17,,,Hoffman S.FOUL (P3.T1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,237,3,10,3,8:27 PM,7:17,MISS Sutton-Brown Free Throw 1 of 1,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,238,4,0,3,8:27 PM,7:15,,,Whitmore REBOUND (Off:1 Def:2),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,239,2,3,3,8:27 PM,7:03,,,MISS Hoffman 7' Hook Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,240,4,0,3,8:27 PM,7:00,Smith REBOUND (Off:2 Def:3),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,241,5,2,3,8:27 PM,6:55,Sam Lost Ball Turnover (P4.T12),,Catchings STEAL (4 STL),,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,242,2,1,3,8:27 PM,6:47,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,243,4,0,3,8:27 PM,6:46,,,Hoffman REBOUND (Off:1 Def:3),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,244,6,1,3,8:28 PM,6:46,Currie P.FOUL (P3.T3),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,245,6,1,3,8:28 PM,6:33,Sam P.FOUL (P3.T4),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,246,1,1,3,8:28 PM,6:23,,,Hoffman 17' Jump Shot (9 PTS) (Catchings 3 AST),34 - 36,2,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,247,5,1,3,8:29 PM,6:11,Darling Bad Pass Turnover (P3.T13),,Bevilaqua STEAL (2 STL),,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,248,1,5,3,8:29 PM,6:00,,,DeForge  Layup (12 PTS) (Bevilaqua 2 AST),36 - 36,TIE,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,249,9,1,3,8:29 PM,5:55,STING Timeout: Regular (Full 2 Short 1),,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,251,6,1,3,8:32 PM,5:35,,,DeForge P.FOUL (P1.T2),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,252,1,5,3,8:32 PM,5:22,Sutton-Brown  Layup (14 PTS) (Sam 2 AST),,,36 - 38,2,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,253,2,5,3,8:33 PM,5:04,,,MISS Whitmore  Layup,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,254,4,0,3,8:33 PM,5:01,Smith REBOUND (Off:2 Def:4),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,255,1,1,3,8:33 PM,4:55,Sam 18' Jump Shot (4 PTS) (Darling 6 AST),,,36 - 40,4,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,256,6,11,3,8:33 PM,4:45,,Brian Winters Foul:T.FOUL,,,,7,100622,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600046,257,3,16,3,8:33 PM,4:45,MISS Sam Free Throw Technical,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,258,4,1,3,8:33 PM,4:45,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,259,1,5,3,8:34 PM,4:34,,,Hoffman  Layup (11 PTS) (Catchings 4 AST),38 - 40,2,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,260,1,1,3,8:34 PM,4:25,Sam  3PT Jump Shot (7 PTS) (Sutton-Brown 1 AST),,,38 - 43,5,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,261,2,1,3,8:34 PM,4:10,,,MISS Catchings 19' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,262,4,0,3,8:34 PM,4:08,Currie REBOUND (Off:2 Def:4),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,263,6,2,3,8:35 PM,3:58,,,Whitmore S.FOUL (P4.T3),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,264,8,0,3,8:35 PM,3:58,,,SUB: White FOR Whitmore,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,265,3,11,3,8:35 PM,3:58,Smith Free Throw 1 of 2 (9 PTS),,,38 - 44,6,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,266,3,12,3,8:35 PM,3:58,Smith Free Throw 2 of 2 (10 PTS),,,38 - 45,7,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,267,1,1,3,8:36 PM,3:44,,,Hoffman 14' Jump Shot (13 PTS),40 - 45,5,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,268,5,1,3,8:36 PM,3:20,Smith Bad Pass Turnover (P1.T14),,Hoffman STEAL (1 STL),,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,269,1,5,3,8:36 PM,3:16,,,Bevilaqua  Layup (7 PTS) (Hoffman 2 AST),42 - 45,3,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,270,1,5,3,8:36 PM,2:58,Sutton-Brown  Layup (16 PTS) (Darling 7 AST),,,42 - 47,5,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,271,6,2,3,8:37 PM,2:40,Sutton-Brown S.FOUL (P2.PN),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,272,8,0,3,8:37 PM,2:40,SUB: Mazzante FOR Currie,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,273,3,11,3,8:37 PM,2:40,,,MISS Hoffman Free Throw 1 of 2,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,274,4,1,3,8:37 PM,2:40,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,275,3,12,3,8:38 PM,2:40,,,MISS Hoffman Free Throw 2 of 2,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,276,4,0,3,8:38 PM,2:38,Sutton-Brown REBOUND (Off:3 Def:2),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,277,2,1,3,8:38 PM,2:18,MISS Sutton-Brown 10' Jump Shot,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,278,4,0,3,8:38 PM,2:16,Sutton-Brown REBOUND (Off:4 Def:2),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,279,5,1,3,8:38 PM,2:04,Sutton-Brown Bad Pass Turnover (P3.T15),,Catchings STEAL (5 STL),,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,280,5,1,3,8:38 PM,1:46,Sam STEAL (1 STL),,Catchings Bad Pass Turnover (P4.T12),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,281,2,1,3,8:39 PM,1:34,MISS Sam 15' Jump Shot,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,282,4,0,3,8:39 PM,1:32,Smith REBOUND (Off:3 Def:4),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,283,2,1,3,8:39 PM,1:20,MISS Smith 9' Jump Shot,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,284,4,0,3,8:39 PM,1:20,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,285,6,3,3,8:39 PM,1:20,Smith L.B.FOUL (P4.PN),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,286,8,0,3,8:39 PM,1:20,,,SUB: Sharp FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,287,8,0,3,8:40 PM,1:20,SUB: Walker FOR Smith,,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,288,3,11,3,8:40 PM,1:20,,,Catchings Free Throw 1 of 2 (5 PTS),43 - 47,4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,289,8,0,3,8:40 PM,1:20,SUB: Bond FOR Darling,,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,290,8,0,3,8:40 PM,1:20,SUB: Fluker FOR Sutton-Brown,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,291,3,12,3,8:40 PM,1:20,,,Catchings Free Throw 2 of 2 (6 PTS),44 - 47,3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,292,2,1,3,8:40 PM,1:03,MISS Fluker 7' Jump Shot,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,293,4,0,3,8:40 PM,1:01,,,Hoffman REBOUND (Off:1 Def:4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,294,1,5,3,8:41 PM,0:56,,,White  Layup (2 PTS),46 - 47,1,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,295,5,2,3,8:41 PM,0:38,Walker Lost Ball Turnover (P1.T16),,White STEAL (1 STL),,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,296,2,1,3,8:41 PM,0:17,,,MISS DeForge 17' Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,297,4,0,3,8:41 PM,0:15,Walker REBOUND (Off:0 Def:1),,,,,4,100740,Ayana Walker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,298,2,1,3,8:42 PM,0:00,MISS Bond  3PT Jump Shot,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,300,4,0,3,8:42 PM,0:00,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,299,13,0,3,8:42 PM,0:00,,End of 3rd Period (8:42 PM EST),,46 - 47,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,302,12,0,4,8:44 PM,10:00,,Start of 4th Period (8:44 PM EST),,46 - 47,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,303,1,5,4,8:44 PM,9:47,McCarville  Layup (2 PTS) (Bond 2 AST),,,46 - 49,3,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,304,10,0,4,8:45 PM,9:37,Jump Ball Bond vs. Catchings: Tip to Sharp,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,0
+1020600046,305,6,2,4,8:45 PM,9:29,McCarville S.FOUL (P1.T1),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,306,3,11,4,8:45 PM,9:29,,,Catchings Free Throw 1 of 2 (7 PTS),47 - 49,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,307,8,0,4,8:45 PM,9:29,,,SUB: Atkinson FOR DeForge,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,308,3,12,4,8:45 PM,9:29,,,Catchings Free Throw 2 of 2 (8 PTS),48 - 49,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,309,5,1,4,8:46 PM,9:17,Bond Bad Pass Turnover (P2.T17),,Atkinson STEAL (2 STL),,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,310,1,5,4,8:46 PM,9:13,,,Atkinson  Layup (2 PTS),50 - 49,-1,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,311,2,1,4,8:46 PM,8:58,MISS Bond  3PT Jump Shot,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,312,4,0,4,8:46 PM,8:56,Fluker REBOUND (Off:1 Def:0),,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,313,6,1,4,8:47 PM,8:50,,,Catchings P.FOUL (P2.T1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,314,2,1,4,8:47 PM,8:38,MISS Mazzante  3PT Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,315,4,0,4,8:47 PM,8:36,McCarville REBOUND (Off:1 Def:1),,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,316,2,1,4,8:47 PM,8:21,MISS Mazzante  3PT Jump Shot,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,317,4,0,4,8:47 PM,8:19,,,White REBOUND (Off:0 Def:1),,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,318,1,5,4,8:47 PM,8:13,,,White  Layup (4 PTS),52 - 49,-3,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,319,1,1,4,8:48 PM,7:58,Feaster 16' Jump Shot (2 PTS),,,52 - 51,-1,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,320,1,1,4,8:48 PM,7:44,,,Whitmore  3PT Jump Shot (7 PTS) (Catchings 5 AST),55 - 51,-4,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,321,2,1,4,8:48 PM,7:21,MISS McCarville 12' Jump Shot,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,322,4,0,4,8:48 PM,7:18,Fluker REBOUND (Off:2 Def:0),,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,323,1,1,4,8:48 PM,7:15,Mazzante 9' Jump Shot (5 PTS) (Fluker 1 AST),,,55 - 53,-2,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,324,9,2,4,8:49 PM,7:05,,,Fever Timeout: Short (Reg.2 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,326,8,0,4,8:49 PM,7:05,SUB: Sutton-Brown FOR Bond,,,,,4,200697,LaToya Bond,1611661314.0,Charlotte,Sting,CHA,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,327,8,0,4,8:49 PM,7:05,SUB: Smith FOR Fluker,,,,,4,200680,Tye'sha Fluker,1611661314.0,Charlotte,Sting,CHA,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,328,8,0,4,8:49 PM,7:05,SUB: Darling FOR McCarville,,,,,4,101019,Janel McCarville,1611661314.0,Charlotte,Sting,CHA,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,329,8,0,4,8:49 PM,7:05,SUB: Sam FOR Feaster,,,,,4,100170,Allison Feaster,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,330,8,0,4,8:49 PM,7:05,,,SUB: Bevilaqua FOR Sharp,,,5,100834,K.B. Sharp,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,331,5,1,4,8:50 PM,6:53,,,Whitmore Bad Pass Turnover (P1.T13),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,332,5,11,4,8:50 PM,6:28,STING Turnover: Shot Clock (T#18),,,,,2,1611661314,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600046,333,8,0,4,8:51 PM,6:28,,,SUB: Hoffman FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,334,8,0,4,8:51 PM,6:27,SUB: Currie FOR Mazzante,,,,,4,100920,Kelly Mazzante,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,335,2,1,4,8:51 PM,6:12,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,336,4,0,4,8:52 PM,6:09,Sutton-Brown REBOUND (Off:4 Def:3),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,337,6,2,4,8:52 PM,6:01,,,Whitmore S.FOUL (P5.T2),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,338,3,11,4,8:52 PM,6:01,Smith Free Throw 1 of 2 (11 PTS),,,55 - 54,-1,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,339,8,0,4,8:52 PM,6:01,,,SUB: Catchings FOR Whitmore,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,340,3,12,4,8:52 PM,6:01,Smith Free Throw 2 of 2 (12 PTS),,,55 - 55,TIE,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,341,6,1,4,8:53 PM,5:44,Darling P.FOUL (P3.T2),,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,342,9,4,4,8:53 PM,5:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,344,2,1,4,8:56 PM,5:31,,,MISS Catchings 13' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,345,4,0,4,8:56 PM,5:29,Sam REBOUND (Off:1 Def:4),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,346,1,66,4,8:56 PM,5:22,Currie 7' Jump Bank Shot (5 PTS),,,55 - 57,2,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,347,6,2,4,8:56 PM,5:00,Sam S.FOUL (P4.T3),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,348,8,0,4,8:57 PM,5:00,,,SUB: DeForge FOR Atkinson,,,5,200679,La'Tangela Atkinson,1611661325.0,Indiana,Fever,IND,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,349,3,11,4,8:57 PM,5:00,,,Catchings Free Throw 1 of 2 (9 PTS),56 - 57,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,350,3,12,4,8:57 PM,5:00,,,MISS Catchings Free Throw 2 of 2,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,351,4,0,4,8:57 PM,4:56,Smith REBOUND (Off:3 Def:5),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,353,1,1,4,8:57 PM,4:37,Smith 15' Jump Shot (14 PTS) (Sutton-Brown 2 AST),,,56 - 59,3,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,354,6,2,4,8:57 PM,4:19,Sutton-Brown S.FOUL (P3.T4),,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,355,3,11,4,8:58 PM,4:19,,,Hoffman Free Throw 1 of 2 (14 PTS),57 - 59,2,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,356,3,12,4,8:58 PM,4:19,,,MISS Hoffman Free Throw 2 of 2,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,357,4,0,4,8:58 PM,4:17,Sam REBOUND (Off:1 Def:5),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,358,1,1,4,8:58 PM,4:01,Sutton-Brown 13' Jump Shot (18 PTS),,,57 - 61,4,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,359,2,1,4,8:59 PM,3:44,Sutton-Brown BLOCK (3 BLK),,MISS White 11' Jump Shot,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,360,4,0,4,8:59 PM,3:41,Sam REBOUND (Off:1 Def:6),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,361,6,2,4,8:59 PM,3:38,,,Bevilaqua S.FOUL (P1.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,362,3,11,4,8:59 PM,3:38,MISS Currie Free Throw 1 of 2,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,363,4,1,4,8:59 PM,3:38,STING Rebound,,,,,2,1611661314,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,364,8,0,4,8:59 PM,3:38,,,SUB: Whitmore FOR White,,,5,101020,Tan White,1611661325.0,Indiana,Fever,IND,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020600046,365,3,12,4,9:00 PM,3:38,Currie Free Throw 2 of 2 (6 PTS),,,57 - 62,5,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,366,2,1,4,9:00 PM,3:17,,,MISS Hoffman 19' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,368,4,0,4,9:00 PM,3:15,,,DeForge REBOUND (Off:4 Def:3),,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,367,1,5,4,9:00 PM,3:15,,,DeForge  Layup (14 PTS),59 - 62,3,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,369,6,2,4,9:00 PM,3:15,Sam S.FOUL (P5.PN),,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020600046,370,3,10,4,9:00 PM,3:15,,,MISS DeForge Free Throw 1 of 1,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,371,4,0,4,9:01 PM,3:12,Smith REBOUND (Off:3 Def:6),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,372,9,1,4,9:01 PM,2:53,,,Fever Timeout: Regular (Reg.3 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,374,2,1,4,9:04 PM,2:50,MISS Sam 8' Jump Shot,,,,,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,375,4,0,4,9:04 PM,2:45,,,Catchings REBOUND (Off:1 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,376,5,1,4,9:04 PM,2:34,,,Catchings Bad Pass Turnover (P5.T14),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,377,2,5,4,9:05 PM,2:22,MISS Currie  Layup,,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,378,4,0,4,9:05 PM,2:20,,,Bevilaqua REBOUND (Off:0 Def:2),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,379,2,1,4,9:05 PM,2:07,,,MISS Hoffman 18' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,380,4,0,4,9:05 PM,2:05,Smith REBOUND (Off:3 Def:7),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,381,1,5,4,9:05 PM,1:56,Currie  Layup (8 PTS) (Sam 3 AST),,,59 - 64,5,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,382,2,1,4,9:05 PM,1:29,Sutton-Brown BLOCK (4 BLK),,MISS Hoffman 9' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,383,4,0,4,9:05 PM,1:28,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,384,5,11,4,9:06 PM,1:28,,,Fever Turnover: Shot Clock (T#15),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600046,385,1,5,4,9:06 PM,1:07,Sam  Layup (9 PTS),,,59 - 66,7,4,100416,Sheri Sam,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,386,9,1,4,9:06 PM,1:02,,,Fever Timeout: Regular (Reg.4 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,388,2,1,4,9:08 PM,0:54,,,MISS DeForge 14' Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,389,4,0,4,9:08 PM,0:51,,,Whitmore REBOUND (Off:2 Def:2),,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,390,2,1,4,9:08 PM,0:49,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,391,4,0,4,9:08 PM,0:47,,,Catchings REBOUND (Off:2 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,392,2,1,4,9:08 PM,0:43,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,393,4,0,4,9:08 PM,0:40,Currie REBOUND (Off:2 Def:5),,,,,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,394,1,5,4,9:08 PM,0:36,Smith  Layup (16 PTS) (Currie 2 AST),,,59 - 68,9,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,4,200673,Monique Currie,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0
+1020600046,395,2,1,4,9:08 PM,0:28,,,MISS Whitmore 19' Jump Shot,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,396,4,0,4,9:09 PM,0:26,,,Bevilaqua REBOUND (Off:1 Def:2),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,397,9,2,4,9:09 PM,0:26,,,Fever Timeout: Short (Reg.4 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600046,399,2,1,4,9:10 PM,0:18,,,MISS Whitmore  3PT Jump Shot,,,5,100347,Tamika Whitmore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020600046,400,4,0,4,9:10 PM,0:16,Smith REBOUND (Off:3 Def:8),,,,,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,401,6,1,4,9:10 PM,0:16,,,Catchings P.FOUL (P3.T4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100236,Tangela Smith,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,402,6,1,4,9:10 PM,0:13,,,Bevilaqua P.FOUL (P2.PN),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,1,0,,,,,,0
+1020600046,403,3,11,4,9:10 PM,0:13,Darling Free Throw 1 of 2 (6 PTS),,,59 - 69,10,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,404,3,12,4,9:11 PM,0:13,Darling Free Throw 2 of 2 (7 PTS),,,59 - 70,11,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,405,2,1,4,9:11 PM,0:06,Sutton-Brown BLOCK (5 BLK),,MISS DeForge 24' 3PT Jump Shot,,,5,100493,Anna DeForge,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,100628,Tammy Sutton-Brown,1611661314.0,Charlotte,Sting,CHA,0
+1020600046,406,4,0,4,9:11 PM,0:03,Darling REBOUND (Off:0 Def:2),,,,,4,100457,Helen Darling,1611661314.0,Charlotte,Sting,CHA,0,0,,,,,,0,0,,,,,,0
+1020600046,407,13,0,4,9:11 PM,0:00,,End of 4th Period (9:11 PM EST),,59 - 70,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

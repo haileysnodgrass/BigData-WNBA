@@ -1,0 +1,374 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020000146,0,12,0,1,2:05 PM,20:00,,Start of 1st Half (2:05 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,1,10,0,1,2:06 PM,20:00,Jump Ball Crawley vs. Holdsclaw: Tip to Bevilaqua,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020000146,2,6,1,1,2:06 PM,19:47,,,Bullett P.FOUL (P1.T1),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,3,2,1,1,2:07 PM,19:30,MISS Crawley 10' Jump Shot,,Bullett BLOCK (1 BLK),,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0
+1020000146,4,4,0,1,2:07 PM,19:28,,,Holdsclaw REBOUND (Off:0 Def:1),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,5,1,1,1,2:07 PM,19:20,,,Holdsclaw 14' Jump Shot (2 PTS),2 - 0,-2,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,6,5,4,1,2:07 PM,19:04,Witherspoon Traveling Turnover (P1.T1),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,7,5,1,1,2:08 PM,18:52,Witherspoon STEAL (1 STL),,Nagy Bad Pass Turnover (P1.T1),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,8,2,6,1,2:08 PM,18:48,MISS Witherspoon Driving Layup,,Bullett BLOCK (2 BLK),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0
+1020000146,9,4,0,1,2:08 PM,18:47,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,10,1,1,1,2:08 PM,18:45,Nygaard 3PT Jump Shot (3 PTS) (Thomas 1 AST),,,2 - 3,1,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,11,2,1,1,2:08 PM,18:31,,,MISS Bullett 16' Jump Shot,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,12,4,0,1,2:08 PM,18:28,Nygaard REBOUND (Off:0 Def:1),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,13,1,1,1,2:09 PM,18:05,Witherspoon 3PT Jump Shot (3 PTS) (Bevilaqua 1 AST),,,2 - 6,4,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,14,2,1,1,2:09 PM,17:49,,,MISS Holdsclaw 15' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,15,4,0,1,2:09 PM,17:48,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,16,6,3,1,2:09 PM,17:48,,,Page L.B.FOUL (P1.T2),,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,17,2,1,1,2:10 PM,17:30,MISS Crawley 14' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,18,4,0,1,2:10 PM,17:28,,,Holdsclaw REBOUND (Off:0 Def:2),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,19,5,1,1,2:10 PM,17:07,Bevilaqua STEAL (1 STL),,Bullett Bad Pass Turnover (P1.T2),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,20,6,2,1,2:11 PM,16:51,,,Page S.FOUL (P2.T3),,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,21,3,11,1,2:11 PM,16:51,Crawley Free Throw 1 of 2 (1 PTS),,,2 - 7,5,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,22,3,12,1,2:11 PM,16:51,MISS Crawley Free Throw 2 of 2,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,23,4,0,1,2:11 PM,16:51,,,Bullett REBOUND (Off:0 Def:1),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,24,2,1,1,2:12 PM,16:34,,,MISS McCray 3PT Jump Shot,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,25,4,0,1,2:12 PM,16:32,Bevilaqua REBOUND (Off:0 Def:1),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,26,2,6,1,2:12 PM,16:26,MISS Bevilaqua Driving Layup,,Nagy BLOCK (1 BLK),,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0
+1020000146,27,10,0,1,2:12 PM,16:26,Jump Ball Bevilaqua vs. Nagy: Tip to Nygaard,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0
+1020000146,28,4,0,1,2:12 PM,16:26,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,29,2,1,1,2:12 PM,16:24,MISS Nygaard 3PT Jump Shot,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,30,4,0,1,2:12 PM,16:22,,,Page REBOUND (Off:0 Def:1),,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,31,1,5,1,2:12 PM,16:03,,,Page Layup (2 PTS) (McCray 1 AST),4 - 7,3,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,32,2,1,1,2:13 PM,15:50,MISS Crawley 14' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,33,4,0,1,2:13 PM,15:48,Thomas REBOUND (Off:1 Def:0),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,34,2,1,1,2:13 PM,15:44,MISS Crawley 4' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,35,4,0,1,2:13 PM,15:43,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,36,9,4,1,2:13 PM,15:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,38,5,1,1,2:15 PM,15:42,Crawley Bad Pass Turnover (P1.T2),,McCray STEAL (1 STL),,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,39,1,6,1,2:15 PM,15:37,,,McCray Driving Layup (2 PTS),6 - 7,1,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,40,6,4,1,2:16 PM,15:21,Crawley OFF.Foul (P1),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,41,5,5,1,2:16 PM,15:21,Crawley Foul Turnover (P2.T3),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,42,2,1,1,2:16 PM,14:57,,,MISS Bullett 17' Jump Shot,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,43,4,0,1,2:16 PM,14:55,Witherspoon REBOUND (Off:0 Def:1),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,44,1,6,1,2:17 PM,14:36,Bevilaqua Driving Layup (2 PTS),,,6 - 9,3,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,45,2,1,1,2:17 PM,14:08,,,MISS Holdsclaw 15' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,46,4,0,1,2:17 PM,14:06,,,Bullett REBOUND (Off:1 Def:1),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,47,6,1,1,2:17 PM,14:00,Witherspoon P.FOUL (P1.T1),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,48,8,0,1,2:18 PM,14:00,SUB: Burras FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,49,8,0,1,2:18 PM,14:00,,,SUB: Mills FOR Page,,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,50,2,2,1,2:18 PM,13:48,,,MISS Mills 4' Running Jump Shot,,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,51,4,0,1,2:18 PM,13:45,Thomas REBOUND (Off:1 Def:1),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,52,1,1,1,2:18 PM,13:40,Bevilaqua 15' Jump Shot (4 PTS) (Thomas 2 AST),,,6 - 11,5,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,53,5,4,1,2:19 PM,13:10,,,Nagy Traveling Turnover (P2.T3),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,54,2,1,1,2:19 PM,12:57,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,55,4,0,1,2:19 PM,12:55,,,Nagy REBOUND (Off:0 Def:1),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,56,5,2,1,2:20 PM,12:46,,,McCray Lost Ball Turnover (P1.T4),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,57,8,0,1,2:20 PM,12:46,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,58,8,0,1,2:20 PM,12:36,SUB: Pride FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,59,5,1,1,2:20 PM,12:32,Marciniak Bad Pass Turnover (P1.T4),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,60,7,6,1,2:21 PM,12:18,Nygaard Violation:Double Lane,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,61,6,2,1,2:21 PM,12:14,Pride S.FOUL (P1.T2),,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,62,3,11,1,2:21 PM,12:14,,,MISS Holdsclaw Free Throw 1 of 2,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,63,4,1,1,2:21 PM,12:14,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,64,3,12,1,2:21 PM,12:14,,,MISS Holdsclaw Free Throw 2 of 2,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,65,4,0,1,2:22 PM,12:14,,,Mills REBOUND (Off:1 Def:0),,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,66,2,1,1,2:22 PM,12:12,,,MISS Mills 4' Jump Shot,,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,67,4,0,1,2:22 PM,12:11,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,68,8,0,1,2:22 PM,12:11,SUB: Crawley FOR Nygaard,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,69,1,2,1,2:22 PM,12:07,,,Mills 5' Running Jump Shot (2 PTS) (Nagy 1 AST),8 - 11,3,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,70,5,2,1,2:23 PM,11:44,Witherspoon Lost Ball Turnover (P2.T5),,Bullett STEAL (1 STL),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,71,5,1,1,2:23 PM,11:20,Burras STEAL (1 STL),,Holdsclaw Bad Pass Turnover (P1.T5),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,72,1,3,1,2:23 PM,11:13,Crawley 3' Hook Shot (3 PTS) (Pride 1 AST),,,8 - 13,5,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,73,9,4,1,2:23 PM,10:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,75,8,0,1,2:26 PM,10:52,SUB: Thomas FOR Witherspoon,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,76,1,1,1,2:26 PM,10:39,,,McCray 4' Jump Shot (4 PTS),10 - 13,3,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,77,6,2,1,2:26 PM,10:39,Crawley S.FOUL (P2.T3),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,78,3,10,1,2:27 PM,10:39,,,McCray Free Throw 1 of 1 (5 PTS),11 - 13,2,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,79,1,6,1,2:27 PM,10:32,Marciniak Driving Layup (2 PTS),,,11 - 15,4,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,80,6,2,1,2:27 PM,10:17,Crawley S.FOUL (P3.T4),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,81,8,0,1,2:27 PM,10:17,SUB: Nygaard FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,82,3,11,1,2:27 PM,10:17,,,Bullett Free Throw 1 of 2 (1 PTS),12 - 15,3,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,83,3,12,1,2:28 PM,10:17,,,Bullett Free Throw 2 of 2 (2 PTS),13 - 15,2,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,84,2,1,1,2:28 PM,9:55,MISS Thomas 19' Jump Shot,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,85,4,0,1,2:28 PM,9:53,,,Holdsclaw REBOUND (Off:0 Def:3),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,86,5,2,1,2:28 PM,9:49,Pride STEAL (1 STL),,McCray Lost Ball Turnover (P2.T6),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,87,8,0,1,2:29 PM,9:31,SUB: Witherspoon FOR Pride,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,88,8,0,1,2:29 PM,9:31,SUB: Bevilaqua FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,89,8,0,1,2:29 PM,9:31,,,SUB: Page FOR Bullett,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,90,8,0,1,2:29 PM,9:31,,,SUB: Owen FOR Mills,,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100354,Heather Owen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,91,8,0,1,2:29 PM,9:31,,,SUB: Aldridge FOR McCray,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,92,2,1,1,2:30 PM,9:30,MISS Witherspoon 16' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,93,4,0,1,2:30 PM,9:27,,,Page REBOUND (Off:0 Def:2),,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,94,2,1,1,2:30 PM,9:10,,,MISS Aldridge 18' Jump Shot,,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,95,4,0,1,2:30 PM,9:08,Thomas REBOUND (Off:1 Def:2),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,96,6,1,1,2:30 PM,9:01,,,Aldridge P.FOUL (P1.T4),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,97,5,2,1,2:30 PM,8:57,Burras Lost Ball Turnover (P1.T6),,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,98,5,1,1,2:31 PM,8:31,,,Aldridge Bad Pass Turnover (P1.T7),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,99,2,1,1,2:32 PM,8:07,MISS Burras 9' Jump Shot,,Nagy BLOCK (2 BLK),,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0
+1020000146,100,4,0,1,2:32 PM,8:05,,,Holdsclaw REBOUND (Off:0 Def:4),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,101,6,2,1,2:32 PM,7:48,Witherspoon S.FOUL (P2.PN),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,102,9,4,1,2:32 PM,7:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,104,8,0,1,2:34 PM,7:48,SUB: Van Gorp FOR Burras,,,,,4,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,105,8,0,1,2:34 PM,7:48,,,SUB: McCray FOR Holdsclaw,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,106,3,11,1,2:34 PM,7:48,,,Aldridge Free Throw 1 of 2 (1 PTS),14 - 15,1,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,107,3,12,1,2:35 PM,7:48,,,Aldridge Free Throw 2 of 2 (2 PTS),15 - 15,TIE,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,108,6,2,1,2:35 PM,7:26,,,McCray S.FOUL (P1.PN),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,109,3,11,1,2:35 PM,7:26,Witherspoon Free Throw 1 of 2 (4 PTS),,,15 - 16,1,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,110,3,12,1,2:36 PM,7:26,Witherspoon Free Throw 2 of 2 (5 PTS),,,15 - 17,2,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,111,1,1,1,2:36 PM,7:15,,,Aldridge 7' Jump Shot (4 PTS) (Nagy 2 AST),17 - 17,TIE,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,113,2,1,1,2:37 PM,6:43,MISS Thomas 16' Jump Shot,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,114,4,0,1,2:37 PM,6:38,Thomas REBOUND (Off:2 Def:2),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,115,6,1,1,2:37 PM,6:31,,,Owen P.FOUL (P1.PN),,,5,100354,Heather Owen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,116,6,2,1,2:37 PM,6:22,,,Page S.FOUL (P3.PN),,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,117,3,11,1,2:37 PM,6:22,MISS Witherspoon Free Throw 1 of 2,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,118,4,1,1,2:37 PM,6:22,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,119,8,0,1,2:38 PM,6:22,,,SUB: Holdsclaw FOR Page,,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,120,3,12,1,2:38 PM,6:22,Witherspoon Free Throw 2 of 2 (6 PTS),,,17 - 18,1,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,121,5,2,1,2:38 PM,6:07,Thomas STEAL (1 STL),,McCray Lost Ball Turnover (P3.T8),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,122,6,2,1,2:39 PM,6:03,,,Owen S.FOUL (P2.PN),,,5,100354,Heather Owen,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,123,8,0,1,2:39 PM,6:03,SUB: Walker FOR Van Gorp,,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,124,3,11,1,2:39 PM,6:03,Thomas Free Throw 1 of 2 (1 PTS),,,17 - 19,2,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,125,8,0,1,2:39 PM,6:03,,,SUB: Bullett FOR Owen,,,5,100354,Heather Owen,1611661322.0,Washington,Mystics,WAS,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,126,3,12,1,2:39 PM,6:03,MISS Thomas Free Throw 2 of 2,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,127,4,0,1,2:39 PM,6:02,,,Bullett REBOUND (Off:1 Def:2),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,128,1,2,1,2:40 PM,5:43,,,McCray 3' Running Jump Shot (7 PTS),19 - 19,TIE,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,129,6,2,1,2:40 PM,5:43,Nygaard S.FOUL (P1.PN),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,130,3,10,1,2:40 PM,5:43,,,MISS McCray Free Throw 1 of 1,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,131,4,0,1,2:40 PM,5:43,Nygaard REBOUND (Off:0 Def:2),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,132,2,1,1,2:40 PM,5:27,MISS Walker 5' Jump Shot,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,133,4,0,1,2:40 PM,5:24,,,Holdsclaw REBOUND (Off:0 Def:5),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,134,1,1,1,2:41 PM,5:09,,,Aldridge 3PT Jump Shot (7 PTS) (Nagy 3 AST),22 - 19,-3,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,135,5,1,1,2:41 PM,4:36,Bevilaqua Bad Pass Turnover (P1.T7),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,136,8,0,1,2:41 PM,4:36,,,SUB: Anderson FOR Nagy,,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,5,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,137,6,1,1,2:42 PM,4:24,Bevilaqua P.FOUL (P1.PN),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,138,8,0,1,2:42 PM,4:24,SUB: Pride FOR Witherspoon,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,139,2,1,1,2:43 PM,4:20,,,MISS Holdsclaw 16' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,140,4,0,1,2:43 PM,4:18,Pride REBOUND (Off:0 Def:1),,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,141,2,1,1,2:43 PM,4:08,MISS Pride 3PT Jump Shot,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,142,4,0,1,2:43 PM,4:07,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,143,2,1,1,2:43 PM,4:02,MISS Walker 10' Jump Shot,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,144,4,0,1,2:43 PM,4:00,,,Holdsclaw REBOUND (Off:0 Def:6),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,145,1,1,1,2:43 PM,3:54,,,Bullett 17' Jump Shot (4 PTS) (Anderson 1 AST),24 - 19,-5,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,5,100553,Keisha Anderson,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,146,1,5,1,2:44 PM,3:40,Pride Layup (2 PTS) (Walker 1 AST),,,24 - 21,-3,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,147,5,4,1,2:44 PM,3:17,,,McCray Traveling Turnover (P4.T9),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,148,9,4,1,2:44 PM,3:17,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,150,8,0,1,2:46 PM,3:17,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,151,2,1,1,2:47 PM,3:01,MISS Thomas 4' Jump Shot,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,153,4,0,1,2:47 PM,2:59,Marciniak REBOUND (Off:1 Def:0),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,152,2,1,1,2:47 PM,2:58,MISS Marciniak 14' Jump Shot,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,154,4,0,1,2:47 PM,2:57,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,155,6,3,1,2:47 PM,2:57,,,Aldridge L.B.FOUL (P2.PN),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,156,3,11,1,2:47 PM,2:57,Thomas Free Throw 1 of 2 (2 PTS),,,24 - 22,-2,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,157,3,12,1,2:48 PM,2:57,MISS Thomas Free Throw 2 of 2,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,158,4,0,1,2:48 PM,2:55,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,159,2,6,1,2:48 PM,2:48,MISS Thomas Driving Layup,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,160,4,0,1,2:48 PM,2:46,Walker REBOUND (Off:1 Def:0),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,161,2,5,1,2:48 PM,2:46,MISS Walker Layup,,Holdsclaw BLOCK (1 BLK),,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0
+1020000146,162,4,0,1,2:48 PM,2:46,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,163,1,6,1,2:49 PM,2:30,,,Aldridge Driving Layup (9 PTS) (McCray 2 AST),26 - 22,-4,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,164,2,5,1,2:49 PM,2:23,MISS Pride Layup,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,165,4,0,1,2:49 PM,2:21,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,166,5,2,1,2:49 PM,2:05,,,Holdsclaw Lost Ball Turnover (P2.T10),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,167,8,0,1,2:49 PM,2:05,SUB: Witherspoon FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,168,1,1,1,2:50 PM,1:48,Witherspoon 3PT Jump Shot (9 PTS) (Walker 2 AST),,,26 - 25,-1,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,169,1,1,1,2:50 PM,1:20,,,McCray 3PT Jump Shot (10 PTS),29 - 25,-4,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,170,1,1,1,2:51 PM,0:47,Marciniak 13' Jump Shot (4 PTS),,,29 - 27,-2,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,171,2,1,1,2:51 PM,0:31,,,MISS Holdsclaw 8' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,172,4,0,1,2:51 PM,0:28,Marciniak REBOUND (Off:1 Def:1),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,173,2,5,1,2:52 PM,0:06,MISS Pride Layup,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,174,4,0,1,2:52 PM,0:04,,,McCray REBOUND (Off:0 Def:1),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,175,2,2,1,2:52 PM,0:00,,,MISS McCray 10' Running Jump Shot,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,176,4,0,1,2:52 PM,0:00,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,177,13,0,1,2:52 PM,0:00,,End of 1st Half (2:52 PM EST),,29 - 27,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,179,12,0,2,3:08 PM,20:00,,Start of 2nd Half (3:08 PM EST),,29 - 27,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,180,10,0,2,3:08 PM,20:00,,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,2,1611661327,,,,,,0
+1020000146,181,1,1,2,3:09 PM,19:45,Crawley 6' Jump Shot (5 PTS) (Bevilaqua 2 AST),,,29 - 29,TIE,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,182,2,1,2,3:09 PM,19:21,,,MISS Nagy 3PT Jump Shot,,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,183,4,0,2,3:09 PM,19:19,Crawley REBOUND (Off:0 Def:1),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,184,2,1,2,3:09 PM,19:02,MISS Witherspoon 17' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,185,4,0,2,3:09 PM,18:59,,,Holdsclaw REBOUND (Off:0 Def:7),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,186,6,2,2,3:10 PM,18:46,Nygaard S.FOUL (P2.T1),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,187,8,0,2,3:10 PM,18:46,SUB: Walker FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,188,3,11,2,3:10 PM,18:46,,,Holdsclaw Free Throw 1 of 2 (3 PTS),30 - 29,-1,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,189,3,12,2,3:10 PM,18:46,,,Holdsclaw Free Throw 2 of 2 (4 PTS),31 - 29,-2,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,190,1,1,2,3:11 PM,18:32,Bevilaqua 3PT Jump Shot (7 PTS) (Thomas 3 AST),,,31 - 32,1,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,191,2,1,2,3:11 PM,18:07,,,MISS Holdsclaw 6' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,192,4,0,2,3:11 PM,18:05,Bevilaqua REBOUND (Off:0 Def:2),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,193,5,1,2,3:11 PM,17:58,Witherspoon Bad Pass Turnover (P3.T8),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,194,2,6,2,3:12 PM,17:46,,,MISS McCray Driving Layup,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,195,4,0,2,3:12 PM,17:44,Nygaard REBOUND (Off:0 Def:3),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,196,2,1,2,3:12 PM,17:36,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,197,4,0,2,3:12 PM,17:34,,,Bullett REBOUND (Off:1 Def:3),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,198,6,2,2,3:12 PM,17:30,Nygaard S.FOUL (P3.T2),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,199,3,11,2,3:12 PM,17:30,,,MISS Page Free Throw 1 of 2,,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,200,4,1,2,3:12 PM,17:30,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,201,3,12,2,3:12 PM,17:30,,,Page Free Throw 2 of 2 (3 PTS),32 - 32,TIE,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,202,1,5,2,3:13 PM,17:08,Nygaard Layup (5 PTS) (Walker 3 AST),,,32 - 34,2,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,203,5,1,2,3:13 PM,16:57,Walker STEAL (1 STL),,Nagy Bad Pass Turnover (P3.T11),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,204,1,6,2,3:13 PM,16:49,Witherspoon Driving Layup (11 PTS),,,32 - 36,4,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,205,9,2,2,3:13 PM,16:44,,,Mystics Timeout: Short (Reg.0 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,207,5,1,2,3:14 PM,16:43,Thomas STEAL (2 STL),,Nagy Bad Pass Turnover (P4.T12),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,208,1,6,2,3:15 PM,16:40,Thomas Driving Layup (4 PTS),,,32 - 38,6,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,209,2,1,2,3:15 PM,16:25,,,MISS Page 7' Jump Shot,,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,210,4,0,2,3:15 PM,16:23,,,Nagy REBOUND (Off:1 Def:1),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,211,5,4,2,3:15 PM,16:21,,,Holdsclaw Traveling Turnover (P3.T13),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,212,2,1,2,3:15 PM,16:07,MISS Witherspoon 18' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,213,10,0,2,3:16 PM,16:03,Jump Ball Thomas vs. Page: Tip to Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0
+1020000146,214,4,0,2,3:16 PM,16:03,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,215,1,6,2,3:16 PM,15:47,Walker Driving Layup (2 PTS),,,32 - 40,8,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,216,2,1,2,3:16 PM,15:31,,,MISS Holdsclaw 7' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,217,4,0,2,3:16 PM,15:28,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,218,9,4,2,3:16 PM,15:28,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,220,8,0,2,3:19 PM,15:28,SUB: Crawley FOR Nygaard,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,221,1,1,2,3:19 PM,15:19,Witherspoon 3PT Jump Shot (14 PTS) (Bevilaqua 3 AST),,,32 - 43,11,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,222,6,2,2,3:20 PM,14:52,Walker S.FOUL (P1.T3),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,223,3,11,2,3:20 PM,14:52,,,Bullett Free Throw 1 of 2 (5 PTS),33 - 43,10,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,224,3,12,2,3:20 PM,14:52,,,MISS Bullett Free Throw 2 of 2,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,225,4,0,2,3:20 PM,14:52,Crawley REBOUND (Off:0 Def:2),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,226,1,5,2,3:20 PM,14:27,Witherspoon Layup (16 PTS) (Walker 4 AST),,,33 - 45,12,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,227,2,1,2,3:21 PM,14:06,Crawley BLOCK (1 BLK),,MISS Bullett 4' Jump Shot,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0
+1020000146,228,4,0,2,3:21 PM,14:04,Walker REBOUND (Off:1 Def:1),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,229,8,0,2,3:21 PM,13:50,,,SUB: Mills FOR Page,,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,230,2,1,2,3:21 PM,13:48,MISS Crawley 9' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,231,4,0,2,3:21 PM,13:46,Bevilaqua REBOUND (Off:1 Def:2),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,232,1,1,2,3:22 PM,13:32,Crawley 3' Jump Shot (7 PTS) (Witherspoon 1 AST),,,33 - 47,14,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,233,1,5,2,3:22 PM,13:13,,,Mills Layup (4 PTS) (McCray 3 AST),35 - 47,12,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,234,6,2,2,3:22 PM,13:07,,,Mills S.FOUL (P1.T1),,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,235,3,11,2,3:23 PM,13:07,MISS Walker Free Throw 1 of 2,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,236,4,1,2,3:23 PM,13:07,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,237,8,0,2,3:23 PM,13:07,SUB: Pride FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,238,3,12,2,3:23 PM,13:07,Walker Free Throw 2 of 2 (3 PTS),,,35 - 48,13,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,239,2,1,2,3:24 PM,12:47,,,MISS Holdsclaw 9' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,240,4,0,2,3:24 PM,12:46,,,Mills REBOUND (Off:2 Def:0),,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,241,6,1,2,3:24 PM,12:46,Walker P.FOUL (P2.T4),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,242,8,0,2,3:24 PM,12:46,SUB: Nygaard FOR Walker,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,243,6,1,2,3:24 PM,12:36,Nygaard P.FOUL (P4.PN),,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,244,2,1,2,3:25 PM,12:21,,,MISS McCray 3PT Jump Shot,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,245,4,0,2,3:25 PM,12:20,,,Holdsclaw REBOUND (Off:1 Def:7),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,246,6,2,2,3:25 PM,12:19,Bevilaqua S.FOUL (P2.PN),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,247,3,11,2,3:25 PM,12:19,,,MISS Holdsclaw Free Throw 1 of 2,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,248,4,1,2,3:25 PM,12:19,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,249,8,0,2,3:25 PM,12:19,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,250,3,12,2,3:25 PM,12:19,,,Holdsclaw Free Throw 2 of 2 (5 PTS),36 - 48,12,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,251,5,1,2,3:26 PM,12:01,Marciniak Bad Pass Turnover (P2.T9),,Bullett STEAL (2 STL),,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,253,6,2,2,3:26 PM,11:43,Crawley S.FOUL (P4.PN),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,254,9,4,2,3:27 PM,11:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,256,8,0,2,3:29 PM,11:43,SUB: Bevilaqua FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,257,3,11,2,3:29 PM,11:43,,,MISS McCray Free Throw 1 of 2,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,258,4,1,2,3:29 PM,11:43,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,259,3,12,2,3:29 PM,11:43,,,McCray Free Throw 2 of 2 (11 PTS),37 - 48,11,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,260,2,1,2,3:30 PM,11:26,MISS Crawley 15' Jump Shot,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,261,4,0,2,3:30 PM,11:23,Bevilaqua REBOUND (Off:2 Def:2),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,262,6,1,2,3:30 PM,11:23,,,Mills P.FOUL (P2.T2),,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,263,2,1,2,3:31 PM,11:05,MISS Bevilaqua 3PT Jump Shot,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,264,4,0,2,3:31 PM,11:04,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,265,1,1,2,3:31 PM,10:57,Crawley 15' Jump Shot (9 PTS),,,37 - 50,13,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,266,1,1,2,3:32 PM,10:33,,,Mills 6' Jump Shot (6 PTS) (Holdsclaw 1 AST),39 - 50,11,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,267,1,1,2,3:32 PM,10:18,Crawley 7' Jump Shot (11 PTS) (Witherspoon 2 AST),,,39 - 52,13,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,268,6,2,2,3:32 PM,10:18,,,Mills S.FOUL (P3.T3),,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,269,8,0,2,3:32 PM,10:18,,,SUB: Page FOR Mills,,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,270,3,10,2,3:33 PM,10:18,Crawley Free Throw 1 of 1 (12 PTS),,,39 - 53,14,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,271,5,1,2,3:33 PM,10:06,Crawley STEAL (1 STL),,McCray Bad Pass Turnover (P5.T14),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,272,1,1,2,3:33 PM,9:56,Witherspoon 3PT Jump Shot (19 PTS) (Pride 2 AST),,,39 - 56,17,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,273,1,1,2,3:33 PM,9:38,,,Holdsclaw 11' Jump Shot (7 PTS),41 - 56,15,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,274,5,4,2,3:34 PM,9:18,Bevilaqua Traveling Turnover (P2.T10),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,275,8,0,2,3:34 PM,9:18,,,SUB: Aldridge FOR McCray,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,276,1,1,2,3:34 PM,9:11,,,Holdsclaw 3PT Jump Shot (10 PTS),44 - 56,12,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,277,2,1,2,3:34 PM,8:47,MISS Witherspoon 14' Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,278,4,0,2,3:34 PM,8:46,,,Holdsclaw REBOUND (Off:1 Def:8),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,279,1,6,2,3:35 PM,8:41,,,Holdsclaw Driving Layup (12 PTS),46 - 56,10,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,280,5,1,2,3:35 PM,8:11,Bevilaqua Bad Pass Turnover (P3.T11),,Bullett STEAL (3 STL),,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,281,6,1,2,3:35 PM,8:07,Pride P.FOUL (P2.PN),,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,282,8,0,2,3:35 PM,8:07,SUB: Marciniak FOR Bevilaqua,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,283,8,0,2,3:35 PM,8:07,SUB: Thomas FOR Pride,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,284,3,11,2,3:36 PM,8:07,,,MISS Aldridge Free Throw 1 of 2,,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,285,4,1,2,3:36 PM,8:07,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,286,8,0,2,3:36 PM,8:07,,,SUB: Mills FOR Bullett,,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,287,3,12,2,3:36 PM,8:07,,,MISS Aldridge Free Throw 2 of 2,,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,288,4,0,2,3:36 PM,8:06,,,Mills REBOUND (Off:3 Def:0),,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,289,8,0,2,3:36 PM,8:04,SUB: Walker FOR Nygaard,,,,,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,290,10,0,2,3:36 PM,8:04,Jump Ball Marciniak vs. Mills: Tip to Nagy,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0
+1020000146,291,2,1,2,3:37 PM,7:55,Thomas BLOCK (1 BLK),,MISS Holdsclaw 10' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0
+1020000146,292,4,0,2,3:37 PM,7:53,Crawley REBOUND (Off:0 Def:3),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,293,5,1,2,3:37 PM,7:47,Witherspoon Bad Pass Turnover (P4.T12),,Page STEAL (1 STL),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,294,9,4,2,3:37 PM,7:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,296,2,1,2,3:40 PM,7:39,,,MISS Holdsclaw 6' Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,297,4,0,2,3:40 PM,7:36,Marciniak REBOUND (Off:1 Def:2),,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,298,2,1,2,3:40 PM,7:17,MISS Witherspoon 5' Jump Shot,,Holdsclaw BLOCK (2 BLK),,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0
+1020000146,300,4,0,2,3:40 PM,7:14,Witherspoon REBOUND (Off:1 Def:1),,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,299,1,5,2,3:40 PM,7:14,Witherspoon Layup (21 PTS),,,46 - 58,12,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,301,2,1,2,3:40 PM,6:54,,,MISS Page 17' Jump Shot,,,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,302,4,0,2,3:40 PM,6:52,,,Holdsclaw REBOUND (Off:2 Def:8),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,303,2,3,2,3:40 PM,6:51,,,MISS Holdsclaw 3' Hook Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,304,4,0,2,3:40 PM,6:48,,,Holdsclaw REBOUND (Off:3 Def:8),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,305,6,2,2,3:41 PM,6:46,Thomas S.FOUL (P1.PN),,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,306,3,11,2,3:41 PM,6:46,,,MISS Holdsclaw Free Throw 1 of 2,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,307,4,1,2,3:41 PM,6:46,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,308,3,12,2,3:41 PM,6:46,,,Holdsclaw Free Throw 2 of 2 (13 PTS),47 - 58,11,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,309,1,5,2,3:41 PM,6:41,Walker Layup (5 PTS) (Marciniak 1 AST),,,47 - 60,13,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,310,5,2,2,3:42 PM,6:20,Marciniak STEAL (1 STL),,Aldridge Lost Ball Turnover (P2.T15),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,311,1,1,2,3:42 PM,6:15,Crawley 7' Jump Shot (14 PTS) (Witherspoon 3 AST),,,47 - 62,15,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,312,6,2,2,3:42 PM,5:56,Walker S.FOUL (P3.PN),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,313,8,0,2,3:42 PM,5:56,,,SUB: McCray FOR Nagy,,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,314,8,0,2,3:42 PM,5:56,,,SUB: Bullett FOR Mills,,,5,100555,Tausha Mills,1611661322.0,Washington,Mystics,WAS,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,315,3,11,2,3:42 PM,5:56,,,Page Free Throw 1 of 2 (4 PTS),48 - 62,14,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,316,3,12,2,3:43 PM,5:56,,,Page Free Throw 2 of 2 (5 PTS),49 - 62,13,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,317,1,1,2,3:43 PM,5:37,Witherspoon 17' Jump Shot (23 PTS),,,49 - 64,15,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,318,6,2,2,3:43 PM,5:37,,,McCray S.FOUL (P2.T4),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,319,3,10,2,3:43 PM,5:37,Witherspoon Free Throw 1 of 1 (24 PTS),,,49 - 65,16,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,320,5,2,2,3:44 PM,5:33,Marciniak STEAL (2 STL),,Aldridge Lost Ball Turnover (P3.T16),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,321,9,2,2,3:44 PM,5:33,FIRE Timeout: Short (Full 0 Short 1),,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,323,1,5,2,3:45 PM,5:19,Thomas Layup (6 PTS) (Walker 5 AST),,,49 - 67,18,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,324,5,2,2,3:45 PM,5:11,Marciniak STEAL (3 STL),,Aldridge Lost Ball Turnover (P4.T17),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,325,6,1,2,3:45 PM,5:11,,,Aldridge P.FOUL (P3.PN),,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,326,8,0,2,3:45 PM,5:11,,,SUB: Nagy FOR Aldridge,,,5,100348,Markita Aldridge,1611661322.0,Washington,Mystics,WAS,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,327,1,1,2,3:46 PM,4:45,Walker 13' Jump Shot (7 PTS) (Marciniak 2 AST),,,49 - 69,20,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,328,2,1,2,3:46 PM,4:26,,,MISS McCray 6' Jump Shot,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,329,4,0,2,3:46 PM,4:24,Crawley REBOUND (Off:0 Def:4),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,330,2,5,2,3:46 PM,4:20,MISS Marciniak Layup,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,331,4,0,2,3:46 PM,4:18,Walker REBOUND (Off:2 Def:1),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,332,9,2,2,3:47 PM,4:02,,,Mystics Timeout: Short (Reg.0 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,334,10,0,2,3:48 PM,4:02,Jump Ball Crawley vs. Nagy: Tip to Witherspoon,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0
+1020000146,335,2,1,2,3:48 PM,3:52,MISS Witherspoon 3PT Jump Shot,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,336,4,0,2,3:48 PM,3:50,,,Nagy REBOUND (Off:1 Def:2),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,337,5,1,2,3:48 PM,3:47,,,Nagy Bad Pass Turnover (P5.T18),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,338,9,4,2,3:48 PM,3:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,347,8,0,2,3:48 PM,3:47,SUB: Bevilaqua FOR Marciniak,,,,,4,100570,Michelle Marciniak,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,340,8,0,2,3:51 PM,3:47,SUB: Nygaard FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,341,5,1,2,3:51 PM,3:27,Walker Bad Pass Turnover (P1.T13),,McCray STEAL (2 STL),,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,342,6,1,2,3:52 PM,3:13,Bevilaqua P.FOUL (P3.PN),,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,344,3,11,2,3:52 PM,3:13,,,MISS McCray Free Throw 1 of 2,,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,345,4,1,2,3:52 PM,3:13,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,346,3,12,2,3:52 PM,3:13,,,McCray Free Throw 2 of 2 (12 PTS),50 - 69,19,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,348,2,1,2,3:53 PM,2:43,MISS Bevilaqua 3PT Jump Shot,,,,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,349,4,0,2,3:53 PM,2:41,,,Holdsclaw REBOUND (Off:3 Def:9),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,350,5,1,2,3:53 PM,2:33,Bevilaqua STEAL (2 STL),,Holdsclaw Bad Pass Turnover (P4.T19),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,351,1,5,2,3:53 PM,2:30,Witherspoon Layup (26 PTS) (Bevilaqua 4 AST),,,50 - 71,21,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,352,1,5,2,3:53 PM,2:08,,,Page Layup (7 PTS) (Nagy 4 AST),52 - 71,19,5,100199,Murriel Page,1611661322.0,Washington,Mystics,WAS,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,353,6,1,2,3:54 PM,2:03,,,Holdsclaw P.FOUL (P1.PN),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,354,8,0,2,3:54 PM,2:03,SUB: Pride FOR Witherspoon,,,,,4,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,355,6,1,2,3:54 PM,1:55,,,Holdsclaw P.FOUL (P2.PN),,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,356,5,3,2,3:55 PM,1:41,Walker Out Of Bounds Turnover (P2.T14),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,357,1,6,2,3:55 PM,1:30,,,McCray Driving Layup (14 PTS),54 - 71,17,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,358,5,1,2,3:55 PM,1:26,Bevilaqua Bad Pass Turnover (P4.T15),,Holdsclaw STEAL (1 STL),,,4,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020000146,359,6,2,2,3:55 PM,1:23,Walker S.FOUL (P4.PN),,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,360,3,11,2,3:55 PM,1:23,,,Holdsclaw Free Throw 1 of 2 (14 PTS),55 - 71,16,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,361,8,0,2,3:56 PM,1:23,SUB: Crawley FOR Walker,,,,,4,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,362,3,12,2,3:56 PM,1:23,,,Holdsclaw Free Throw 2 of 2 (15 PTS),56 - 71,15,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,363,2,5,2,3:57 PM,1:03,MISS Thomas Layup,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,365,4,0,2,3:57 PM,1:02,Crawley REBOUND (Off:1 Def:4),,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,364,1,5,2,3:57 PM,1:02,Crawley Layup (16 PTS),,,56 - 73,17,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,366,6,2,2,3:57 PM,1:02,,,Nagy S.FOUL (P1.PN),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,367,3,10,2,3:57 PM,1:02,Crawley Free Throw 1 of 1 (17 PTS),,,56 - 74,18,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,368,1,6,2,3:57 PM,0:51,,,Nagy Driving Layup (2 PTS),58 - 74,16,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,369,6,1,2,3:58 PM,0:32,,,McCray P.FOUL (P3.PN),,,5,100198,Nikki McCray,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,370,8,0,2,3:58 PM,0:32,SUB: Williams FOR Thomas,,,,,4,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,4,100038,Tara Williams,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,371,8,0,2,3:58 PM,0:32,SUB: Van Gorp FOR Crawley,,,,,4,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020000146,372,3,11,2,3:58 PM,0:32,Pride Free Throw 1 of 2 (3 PTS),,,58 - 75,17,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,373,3,12,2,3:58 PM,0:32,MISS Pride Free Throw 2 of 2,,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,374,4,0,2,3:59 PM,0:32,Van Gorp REBOUND (Off:1 Def:0),,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,375,6,1,2,3:59 PM,0:30,,,Nagy P.FOUL (P2.PN),,,5,100353,Andrea Nagy,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,376,3,11,2,3:59 PM,0:30,MISS Van Gorp Free Throw 1 of 2,,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,377,4,1,2,3:59 PM,0:30,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,378,3,12,2,3:59 PM,0:30,MISS Van Gorp Free Throw 2 of 2,,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,379,4,0,2,4:00 PM,0:30,,,Bullett REBOUND (Off:1 Def:4),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,380,2,1,2,4:00 PM,0:23,,,MISS Holdsclaw 3PT Jump Shot,,,5,100356,Chamique Holdsclaw,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,381,4,0,2,4:00 PM,0:21,Van Gorp REBOUND (Off:1 Def:1),,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,382,6,1,2,4:00 PM,0:20,,,Bullett P.FOUL (P2.PN),,,5,100058,Vicky Bullett,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020000146,383,3,11,2,4:00 PM,0:20,MISS Van Gorp Free Throw 1 of 2,,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,384,4,1,2,4:00 PM,0:20,FIRE Rebound,,,,,2,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020000146,385,3,12,2,4:01 PM,0:20,MISS Van Gorp Free Throw 2 of 2,,,,,4,100346,Michele Van Gorp,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,386,4,0,2,4:01 PM,0:20,Pride REBOUND (Off:1 Def:1),,,,,4,100530,Lynn Pride,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020000146,387,13,0,2,4:01 PM,0:00,,End of 2nd Half (4:01 PM EST),,58 - 75,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,364 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100150,0,12,0,1,11:12 AM,20:00,,Start of 1st Half (11:12 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,1,10,0,1,11:12 AM,20:00,Jump Ball Riley vs. Ndiaye-Diatta: Tip to Palmer,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0
+1020100150,2,5,1,1,11:13 AM,19:43,Riley STEAL (1 STL),,Kingi-Cross Bad Pass Turnover (P1.T1),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,3,2,1,1,11:13 AM,19:15,MISS Riley 10' Jump Shot,,Ndiaye-Diatta BLOCK (1 BLK),,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0
+1020100150,4,4,0,1,11:13 AM,19:14,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,5,2,1,1,11:14 AM,19:12,MISS Baranova  3PT Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,6,4,0,1,11:14 AM,19:10,,,Canty REBOUND (Off:0 Def:1),,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,7,6,2,1,11:14 AM,19:08,Black S.FOUL (P1.T1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,8,3,11,1,11:14 AM,19:08,,,MISS Kingi-Cross Free Throw 1 of 2,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,9,4,1,1,11:14 AM,19:08,,,Shock Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,10,3,12,1,11:14 AM,19:08,,,MISS Kingi-Cross Free Throw 2 of 2,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,11,4,0,1,11:14 AM,19:06,Riley REBOUND (Off:0 Def:1),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,12,6,1,1,11:15 AM,18:53,,,Palmer P.FOUL (P1.T1),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,13,2,1,1,11:15 AM,18:45,MISS Sam 18' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,14,4,0,1,11:15 AM,18:43,,,Ndiaye-Diatta REBOUND (Off:0 Def:1),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,15,5,1,1,11:15 AM,18:28,Baranova STEAL (1 STL),,Ndiaye-Diatta Bad Pass Turnover (P1.T2),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,16,2,42,1,11:16 AM,18:24,MISS Baranova  Driving Layup,,Ndiaye-Diatta BLOCK (2 BLK),,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0
+1020100150,17,4,0,1,11:16 AM,18:23,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,18,2,1,1,11:16 AM,18:17,MISS Brondello 17' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,19,4,0,1,11:16 AM,18:15,,,Palmer REBOUND (Off:0 Def:1),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,20,5,1,1,11:16 AM,18:07,Baranova STEAL (2 STL),,Tornikidou Bad Pass Turnover (P1.T3),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,21,2,1,1,11:16 AM,17:48,MISS Brondello 17' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,22,4,0,1,11:16 AM,17:46,Riley REBOUND (Off:1 Def:1),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,23,1,5,1,11:16 AM,17:44,Riley  Layup (2 PTS),,,0 - 2,2,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,24,5,1,1,11:17 AM,17:19,Black STEAL (1 STL),,Kingi-Cross Bad Pass Turnover (P2.T4),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,25,1,1,1,11:17 AM,17:00,Baranova  3PT Jump Shot (3 PTS) (Black 1 AST),,,0 - 5,5,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,26,5,1,1,11:17 AM,16:41,Sam STEAL (1 STL),,Canty Bad Pass Turnover (P1.T5),,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,27,1,5,1,11:17 AM,16:35,Sam  Layup (2 PTS),,,0 - 7,7,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,28,9,2,1,11:18 AM,16:25,,,Shock Timeout: Short (Reg.0 Short 1),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,29,2,46,1,11:19 AM,16:18,,,MISS Canty  Running Jump Shot,,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,30,4,0,1,11:19 AM,16:16,Sam REBOUND (Off:0 Def:1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,31,2,1,1,11:19 AM,15:51,MISS Black 19' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,32,4,0,1,11:19 AM,15:49,,,Ndiaye-Diatta REBOUND (Off:0 Def:2),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,33,6,1,1,11:20 AM,15:39,Sam P.FOUL (P1.T2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,34,9,4,1,11:20 AM,15:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,36,2,1,1,11:22 AM,15:29,,,MISS Kingi-Cross 24' 3PT Jump Shot,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,37,4,0,1,11:22 AM,15:27,,,Canty REBOUND (Off:1 Def:1),,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,38,2,1,1,11:22 AM,15:24,,,MISS Canty 4' Jump Shot,,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,39,4,0,1,11:22 AM,15:23,,,Palmer REBOUND (Off:1 Def:1),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,40,2,1,1,11:23 AM,15:21,,,MISS Tornikidou 15' Jump Shot,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,41,4,0,1,11:23 AM,15:19,Riley REBOUND (Off:1 Def:2),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,42,2,1,1,11:23 AM,14:57,MISS Baranova 13' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,43,4,0,1,11:23 AM,14:55,,,Tornikidou REBOUND (Off:0 Def:1),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,44,2,1,1,11:23 AM,14:45,,,MISS Ndiaye-Diatta 6' Jump Shot,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,45,4,0,1,11:23 AM,14:43,Sam REBOUND (Off:0 Def:2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,46,2,1,1,11:23 AM,14:32,MISS Baranova  3PT Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,47,4,0,1,11:23 AM,14:30,,,Palmer REBOUND (Off:1 Def:2),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,48,5,1,1,11:24 AM,14:12,Sam STEAL (2 STL),,Kingi-Cross Bad Pass Turnover (P3.T6),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,49,2,1,1,11:24 AM,13:47,MISS Riley 8' Jump Shot,,Kingi-Cross BLOCK (1 BLK),,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0
+1020100150,50,4,0,1,11:24 AM,13:47,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,51,5,11,1,11:24 AM,13:42,SOL Turnover: Shot Clock (T#1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,52,1,5,1,11:25 AM,13:26,,,Palmer  Layup (2 PTS) (Canty 1 AST),2 - 7,5,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,53,2,58,1,11:25 AM,13:06,MISS Baranova  Turnaround Hook Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,54,4,0,1,11:25 AM,13:03,,,Kingi-Cross REBOUND (Off:0 Def:1),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,55,1,1,1,11:26 AM,12:40,,,Kingi-Cross 16' Jump Shot (2 PTS) (Canty 2 AST),4 - 7,3,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,56,1,44,1,11:26 AM,12:23,Brondello  Reverse Layup (2 PTS) (Sam 1 AST),,,4 - 9,5,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,57,2,1,1,11:27 AM,11:59,,,MISS Ndiaye-Diatta 12' Jump Shot,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,58,4,0,1,11:27 AM,11:57,Black REBOUND (Off:0 Def:1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,59,2,46,1,11:27 AM,11:38,MISS Baranova 10' Running Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,60,4,0,1,11:27 AM,11:36,,,Palmer REBOUND (Off:1 Def:3),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,61,5,4,1,11:27 AM,11:23,,,Canty Traveling Turnover (P2.T7),,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,62,9,4,1,11:27 AM,11:23,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,64,8,0,1,11:30 AM,11:23,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,65,8,0,1,11:30 AM,11:23,SUB: Reid FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,66,8,0,1,11:30 AM,11:23,SUB: Brumfield FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,67,8,0,1,11:30 AM,11:23,,,SUB: Brown FOR Tornikidou,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,68,8,0,1,11:30 AM,11:23,,,SUB: Nolan FOR Ndiaye-Diatta,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,69,8,0,1,11:30 AM,11:23,,,SUB: Farris FOR Canty,,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,5,100494,Barbara Farris,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,70,5,1,1,11:31 AM,11:16,Reid Bad Pass Turnover (P1.T2),,Kingi-Cross STEAL (1 STL),,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,71,2,41,1,11:31 AM,11:13,,,MISS Palmer  Running Layup,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,72,4,0,1,11:31 AM,11:11,Reid REBOUND (Off:0 Def:1),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,73,2,1,1,11:31 AM,10:47,MISS Brumfield 11' Jump Shot,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,74,4,0,1,11:31 AM,10:45,,,Palmer REBOUND (Off:1 Def:4),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,75,5,4,1,11:32 AM,10:21,,,Palmer Traveling Turnover (P1.T8),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,76,1,5,1,11:32 AM,10:06,Riley  Layup (4 PTS) (Brumfield 1 AST),,,4 - 11,7,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,77,2,1,1,11:33 AM,9:43,,,MISS Nolan 12' Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,78,4,0,1,11:33 AM,9:41,,,Brown REBOUND (Off:1 Def:0),,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,79,6,1,1,11:33 AM,9:33,Brumfield P.FOUL (P1.T3),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,80,8,0,1,11:33 AM,9:33,,,SUB: Sporn FOR Palmer,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,81,5,8,1,11:34 AM,9:20,,,Farris 3 Second Violation Turnover (P1.T9),,,5,100494,Barbara Farris,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,82,5,3,1,11:34 AM,8:54,Reid Out Of Bounds Turnover (P2.T3),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,83,6,1,1,11:35 AM,8:40,Riley P.FOUL (P1.T4),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,84,2,3,1,11:35 AM,8:22,,,MISS Sporn 11' Hook Shot,,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,85,4,0,1,11:35 AM,8:21,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,86,5,2,1,11:36 AM,8:01,Brumfield Lost Ball Turnover (P1.T4),,Brown STEAL (1 STL),,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,87,6,2,1,11:36 AM,7:57,Brumfield S.FOUL (P2.PN),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,88,9,4,1,11:36 AM,7:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,90,8,0,1,11:38 AM,7:57,SUB: Brondello FOR Riley,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,91,8,0,1,11:38 AM,7:57,SUB: Askamp FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,92,8,0,1,11:39 AM,7:57,,,SUB: Neves FOR Kingi-Cross,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,93,3,11,1,11:39 AM,7:57,,,Brown Free Throw 1 of 2 (1 PTS),5 - 11,6,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,94,3,12,1,11:39 AM,7:57,,,Brown Free Throw 2 of 2 (2 PTS),6 - 11,5,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,95,1,5,1,11:39 AM,7:36,Askamp  Layup (2 PTS) (Reid 1 AST),,,6 - 13,7,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,96,2,1,1,11:40 AM,7:17,,,MISS Brown  3PT Jump Shot,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,97,4,0,1,11:40 AM,7:14,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,98,8,0,1,11:40 AM,7:14,,,SUB: Palmer FOR Farris,,,5,100494,Barbara Farris,1611661321.0,Detroit,Shock,DET,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,99,8,0,1,11:40 AM,7:14,,,SUB: Ndiaye-Diatta FOR Sporn,,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,100,1,5,1,11:40 AM,6:55,Reid  Layup (2 PTS) (Brondello 1 AST),,,6 - 15,9,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,101,2,1,1,11:41 AM,6:27,,,MISS Nolan 15' Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,102,4,0,1,11:41 AM,6:25,Sam REBOUND (Off:0 Def:3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,103,2,5,1,11:41 AM,6:21,MISS Askamp  Layup,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,104,4,0,1,11:41 AM,6:19,,,Brown REBOUND (Off:1 Def:1),,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,105,1,1,1,11:41 AM,6:11,,,Brown 6' Jump Shot (4 PTS),8 - 15,7,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,106,6,2,1,11:41 AM,5:59,,,Palmer S.FOUL (P2.T2),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,107,8,0,1,11:42 AM,5:59,,,SUB: Boyd FOR Nolan,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,108,3,11,1,11:42 AM,5:59,Askamp Free Throw 1 of 2 (3 PTS),,,8 - 16,8,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,109,3,12,1,11:42 AM,5:59,MISS Askamp Free Throw 2 of 2,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,110,4,0,1,11:42 AM,5:58,,,Palmer REBOUND (Off:1 Def:5),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,111,5,2,1,11:42 AM,5:41,Sam STEAL (3 STL),,Palmer Lost Ball Turnover (P2.T10),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,112,1,1,1,11:42 AM,5:29,Sam 15' Jump Shot (4 PTS),,,8 - 18,10,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,113,6,2,1,11:42 AM,5:29,,,Boyd S.FOUL (P1.T3),,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,114,3,10,1,11:43 AM,5:29,MISS Sam Free Throw 1 of 1,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,115,4,0,1,11:43 AM,5:28,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,116,1,1,1,11:43 AM,5:25,Brondello 18' Jump Shot (4 PTS) (Reid 2 AST),,,8 - 20,12,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,117,2,1,1,11:44 AM,4:57,,,MISS Neves  3PT Jump Shot,,,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,118,4,0,1,11:44 AM,4:55,,,Ndiaye-Diatta REBOUND (Off:1 Def:2),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,119,1,1,1,11:44 AM,4:52,,,Ndiaye-Diatta 15' Jump Shot (2 PTS),10 - 20,10,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,120,5,1,1,11:44 AM,4:38,Reid Bad Pass Turnover (P3.T5),,Boyd STEAL (1 STL),,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,121,2,5,1,11:44 AM,4:31,Sam BLOCK (1 BLK),,MISS Ndiaye-Diatta  Layup,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0
+1020100150,122,4,0,1,11:44 AM,4:29,Rasmussen REBOUND (Off:0 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,123,6,4,1,11:44 AM,4:22,Rasmussen OFF.Foul (P1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,124,5,5,1,11:44 AM,4:22,Rasmussen Foul Turnover (P1.T6),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,125,2,1,1,11:45 AM,4:07,,,MISS Boyd  3PT Jump Shot,,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,126,4,0,1,11:45 AM,4:06,,,Shock Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,127,6,3,1,11:45 AM,4:06,Rasmussen L.B.FOUL (P2.PN),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,128,8,0,1,11:45 AM,4:06,SUB: Baranova FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,129,8,0,1,11:45 AM,4:06,SUB: Ford FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,130,1,5,1,11:45 AM,3:59,,,Ndiaye-Diatta  Layup (4 PTS) (Palmer 1 AST),12 - 20,8,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,131,1,1,1,11:46 AM,3:42,Reid 18' Jump Shot (4 PTS) (Brondello 2 AST),,,12 - 22,10,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,132,9,4,1,11:46 AM,3:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,136,1,1,1,11:48 AM,3:24,,,Ndiaye-Diatta 16' Jump Shot (6 PTS) (Neves 1 AST),14 - 22,8,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,137,5,1,1,11:48 AM,3:17,Brondello Bad Pass Turnover (P1.T7),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,138,2,1,1,11:49 AM,3:02,,,MISS Ndiaye-Diatta 10' Jump Shot,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,139,4,0,1,11:49 AM,3:00,Askamp REBOUND (Off:0 Def:1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,140,2,1,1,11:49 AM,2:51,MISS Brondello 17' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,141,4,0,1,11:49 AM,2:49,,,Neves REBOUND (Off:0 Def:1),,,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,142,2,1,1,11:49 AM,2:37,,,MISS Palmer 12' Jump Shot,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,143,4,0,1,11:49 AM,2:35,,,Boyd REBOUND (Off:1 Def:0),,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,144,5,1,1,11:50 AM,2:21,Askamp STEAL (1 STL),,Neves Bad Pass Turnover (P1.T11),,,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,145,1,46,1,11:50 AM,2:07,Brondello 11' Running Jump Shot (6 PTS),,,14 - 24,10,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,146,2,1,1,11:50 AM,1:35,,,MISS Palmer  3PT Jump Shot,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,147,4,0,1,11:50 AM,1:33,Baranova REBOUND (Off:0 Def:1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,148,6,4,1,11:51 AM,1:22,Baranova OFF.Foul (P1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,149,5,5,1,11:51 AM,1:22,Baranova Foul Turnover (P1.T8),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,150,8,0,1,11:51 AM,1:22,,,SUB: Kingi-Cross FOR Neves,,,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,151,1,5,1,11:51 AM,1:12,,,Palmer  Layup (4 PTS) (Ndiaye-Diatta 1 AST),16 - 24,8,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,152,2,1,1,11:51 AM,0:45,MISS Brondello 10' Jump Shot,,Brown BLOCK (1 BLK),,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0
+1020100150,153,4,0,1,11:51 AM,0:43,Brondello REBOUND (Off:1 Def:0),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,154,6,4,1,11:52 AM,0:40,Baranova OFF.Foul (P2),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,155,5,5,1,11:52 AM,0:40,Baranova Foul Turnover (P2.T9),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,156,8,0,1,11:52 AM,0:40,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,157,8,0,1,11:52 AM,0:40,SUB: Black FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,158,9,1,1,11:52 AM,0:40,,,Shock Timeout: Regular (Reg.1 Short 1),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,160,8,0,1,11:54 AM,0:40,SUB: Sam FOR Reid,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,161,2,1,1,11:54 AM,0:31,,,MISS Brown 12' Jump Shot,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,162,4,0,1,11:54 AM,0:29,,,Ndiaye-Diatta REBOUND (Off:2 Def:2),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,163,2,1,1,11:55 AM,0:15,,,MISS Brown 13' Jump Shot,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,164,4,0,1,11:55 AM,0:12,Ford REBOUND (Off:0 Def:1),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,165,9,1,1,11:55 AM,0:09,SOL Timeout: Regular (Full 1 Short 0),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,167,8,0,1,11:57 AM,0:09,SUB: Riley FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,168,8,0,1,11:57 AM,0:09,SUB: Reid FOR Askamp,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,169,8,0,1,11:57 AM,0:09,SUB: Brondello FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,170,8,0,1,11:57 AM,0:09,,,SUB: Farris FOR Palmer,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,5,100494,Barbara Farris,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,171,6,1,1,11:57 AM,0:07,,,Ndiaye-Diatta P.FOUL (P1.T4),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,172,1,1,1,11:57 AM,0:03,Brondello 19' Jump Shot (8 PTS),,,16 - 26,10,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,173,2,1,1,11:58 AM,0:00,,,MISS Kingi-Cross 40' 3PT Jump Shot,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,174,4,0,1,11:58 AM,0:00,,,Shock Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,175,13,0,1,11:58 AM,0:00,,End of 1st Half (11:58 AM EST),,16 - 26,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,177,12,0,2,12:15 PM,20:00,,Start of 2nd Half (12:15 PM EST),,16 - 26,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,178,10,0,2,12:15 PM,20:00,Jump Ball Baranova vs. Ndiaye-Diatta: Tip to Tornikidou,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0
+1020100150,179,2,1,2,12:16 PM,19:39,,,MISS Kingi-Cross 13' Jump Shot,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,180,4,0,2,12:16 PM,19:38,Brondello REBOUND (Off:1 Def:1),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,181,5,1,2,12:16 PM,19:11,Black Bad Pass Turnover (P1.T10),,Palmer STEAL (1 STL),,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,182,2,1,2,12:16 PM,19:06,,,MISS Ndiaye-Diatta 15' Jump Shot,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,183,4,0,2,12:16 PM,19:03,,,Tornikidou REBOUND (Off:1 Def:1),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,184,2,1,2,12:16 PM,18:57,,,MISS Ndiaye-Diatta 11' Jump Shot,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,185,4,0,2,12:16 PM,18:55,Black REBOUND (Off:0 Def:2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,186,1,1,2,12:17 PM,18:40,Brondello 16' Jump Shot (10 PTS),,,16 - 28,12,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,187,2,5,2,12:17 PM,18:16,,,MISS Ndiaye-Diatta  Layup,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,188,4,0,2,12:17 PM,18:12,,,Tornikidou REBOUND (Off:2 Def:1),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,189,1,1,2,12:17 PM,18:10,,,Tornikidou 15' Jump Shot (2 PTS),18 - 28,10,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,190,5,1,2,12:17 PM,18:02,Sam Bad Pass Turnover (P1.T11),,Palmer STEAL (2 STL),,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,191,1,5,2,12:17 PM,17:52,,,Tornikidou  Layup (4 PTS) (Palmer 2 AST),20 - 28,8,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,192,1,5,2,12:18 PM,17:35,Riley  Layup (6 PTS) (Baranova 1 AST),,,20 - 30,10,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,193,9,2,2,12:18 PM,17:25,,,Shock Timeout: Short (Reg.1 Short 2),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,194,8,0,2,12:19 PM,17:25,,,SUB: Farris FOR Palmer,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,5,100494,Barbara Farris,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,195,1,5,2,12:19 PM,17:21,,,Ndiaye-Diatta  Layup (8 PTS) (Tornikidou 1 AST),22 - 30,8,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,196,1,41,2,12:19 PM,17:10,Brondello  Running Layup (12 PTS) (Baranova 2 AST),,,22 - 32,10,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,197,2,1,2,12:20 PM,16:51,,,MISS Ndiaye-Diatta 15' Jump Shot,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,198,4,0,2,12:20 PM,16:49,Black REBOUND (Off:0 Def:3),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,199,8,0,2,12:20 PM,16:44,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,200,1,1,2,12:20 PM,16:31,Black 17' Jump Shot (2 PTS) (Brondello 3 AST),,,22 - 34,12,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,201,6,4,2,12:21 PM,16:12,,,Tornikidou OFF.Foul (P1),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,202,5,5,2,12:21 PM,16:12,,,Tornikidou Foul Turnover (P2.T12),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,203,2,1,2,12:21 PM,16:08,MISS Brondello 16' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,204,4,0,2,12:21 PM,16:06,,,Tornikidou REBOUND (Off:2 Def:2),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,205,5,1,2,12:21 PM,16:01,,,Tornikidou Bad Pass Turnover (P3.T13),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,206,5,1,2,12:22 PM,15:45,Sam Bad Pass Turnover (P2.T12),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,207,9,4,2,12:22 PM,15:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,210,7,6,2,12:25 PM,15:31,Black Violation:Double Lane,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,211,8,0,2,12:25 PM,15:31,,,SUB: Palmer FOR Ndiaye-Diatta,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,212,1,1,2,12:25 PM,15:23,,,Kingi-Cross  3PT Jump Shot (5 PTS),25 - 34,9,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,213,1,5,2,12:26 PM,14:52,Riley  Layup (8 PTS) (Black 2 AST),,,25 - 36,11,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,214,2,1,2,12:26 PM,14:34,,,MISS Tornikidou 12' Jump Shot,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,215,4,0,2,12:26 PM,14:32,Black REBOUND (Off:0 Def:4),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,216,2,1,2,12:26 PM,14:07,MISS Rasmussen 14' Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,217,4,0,2,12:26 PM,14:05,,,Palmer REBOUND (Off:1 Def:6),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,218,5,1,2,12:26 PM,14:00,,,Kingi-Cross Bad Pass Turnover (P4.T14),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,219,2,1,2,12:27 PM,13:45,MISS Rasmussen 15' Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,220,4,0,2,12:27 PM,13:43,,,Kingi-Cross REBOUND (Off:0 Def:2),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,221,5,2,2,12:27 PM,13:38,Rasmussen STEAL (1 STL),,Kingi-Cross Lost Ball Turnover (P5.T15),,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,222,1,5,2,12:27 PM,13:33,Rasmussen  Layup (2 PTS),,,25 - 38,13,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,223,8,0,2,12:28 PM,13:04,,,SUB: Boyd FOR Tornikidou,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,224,8,0,2,12:28 PM,13:04,,,SUB: Nolan FOR Brown,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,225,2,1,2,12:28 PM,12:59,,,MISS Boyd  3PT Jump Shot,,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,226,4,0,2,12:28 PM,12:57,,,Nolan REBOUND (Off:1 Def:0),,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,227,2,1,2,12:28 PM,12:51,,,MISS Nolan 16' Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,228,4,0,2,12:28 PM,12:49,Sam REBOUND (Off:0 Def:4),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,229,1,1,2,12:29 PM,12:29,Sam  3PT Jump Shot (7 PTS) (Brondello 4 AST),,,25 - 41,16,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,230,2,5,2,12:29 PM,12:10,Rasmussen BLOCK (1 BLK),,MISS Palmer  Layup,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0
+1020100150,231,4,0,2,12:29 PM,12:09,,,Shock Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,232,8,0,2,12:29 PM,12:09,,,SUB: Neves FOR Kingi-Cross,,,5,100626,Jae Kingi-Cross,1611661321.0,Detroit,Shock,DET,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,233,8,0,2,12:29 PM,12:09,SUB: Reid FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,234,1,42,2,12:29 PM,12:03,,,Nolan  Driving Layup (2 PTS),27 - 41,14,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,235,1,44,2,12:30 PM,11:37,Reid  Reverse Layup (6 PTS),,,27 - 43,16,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,236,2,1,2,12:30 PM,11:16,,,MISS Nolan 12' Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,237,4,0,2,12:30 PM,11:14,,,Nolan REBOUND (Off:2 Def:0),,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,238,1,5,2,12:30 PM,11:12,,,Nolan  Layup (4 PTS),29 - 43,14,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,239,6,2,2,12:30 PM,11:12,Rasmussen S.FOUL (P3.T1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,240,9,4,2,12:31 PM,11:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,242,8,0,2,12:33 PM,11:12,,,SUB: Sporn FOR Farris,,,5,100494,Barbara Farris,1611661321.0,Detroit,Shock,DET,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,244,3,10,2,12:34 PM,11:12,,,Nolan Free Throw 1 of 1 (5 PTS),30 - 43,13,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,245,5,1,2,12:34 PM,11:03,Rasmussen Bad Pass Turnover (P2.T13),,Nolan STEAL (1 STL),,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,246,5,2,2,12:34 PM,10:59,Black STEAL (2 STL),,Nolan Lost Ball Turnover (P1.T16),,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,247,1,5,2,12:34 PM,10:53,Sam  Layup (9 PTS) (Black 3 AST),,,30 - 45,15,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,248,6,1,2,12:34 PM,10:39,Riley P.FOUL (P2.T2),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,249,3,11,2,12:35 PM,10:39,,,Palmer Free Throw 1 of 2 (5 PTS),31 - 45,14,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,250,3,12,2,12:35 PM,10:39,,,Palmer Free Throw 2 of 2 (6 PTS),32 - 45,13,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,251,1,1,2,12:36 PM,10:16,Black 17' Jump Shot (4 PTS) (Rasmussen 1 AST),,,32 - 47,15,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,252,2,1,2,12:36 PM,10:04,,,MISS Neves  3PT Jump Shot,,,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,253,4,0,2,12:36 PM,10:00,,,Boyd REBOUND (Off:2 Def:0),,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,254,2,1,2,12:36 PM,9:54,,,MISS Boyd  3PT Jump Shot,,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,255,4,0,2,12:36 PM,9:52,,,Sporn REBOUND (Off:1 Def:0),,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,256,2,1,2,12:36 PM,9:48,,,MISS Nolan 10' Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,257,4,0,2,12:36 PM,9:47,Rasmussen REBOUND (Off:0 Def:2),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,258,2,1,2,12:36 PM,9:26,MISS Reid 17' Jump Shot,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,259,4,0,2,12:36 PM,9:25,,,Sporn REBOUND (Off:1 Def:1),,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,260,2,5,2,12:37 PM,9:15,,,MISS Boyd  Layup,,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,261,4,0,2,12:37 PM,9:13,Sam REBOUND (Off:0 Def:5),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,262,5,2,2,12:37 PM,9:05,Sam Lost Ball Turnover (P3.T14),,Boyd STEAL (2 STL),,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,263,1,5,2,12:37 PM,9:00,,,Neves  Layup (2 PTS),34 - 47,13,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,264,2,5,2,12:37 PM,8:31,MISS Reid  Layup,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,265,4,0,2,12:37 PM,8:28,,,Nolan REBOUND (Off:2 Def:1),,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,266,7,6,2,12:37 PM,8:25,Rasmussen Violation:Double Lane,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,267,8,0,2,12:38 PM,8:25,SUB: Baranova FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,268,8,0,2,12:38 PM,8:25,SUB: Brondello FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,269,1,1,2,12:38 PM,8:22,,,Nolan 24' 3PT Jump Shot (8 PTS) (Sporn 1 AST),37 - 47,10,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,270,1,1,2,12:38 PM,7:52,Brondello 18' Jump Shot (14 PTS),,,37 - 49,12,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,271,2,1,2,12:39 PM,7:36,,,MISS Boyd 4' Jump Shot,,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,272,4,0,2,12:39 PM,7:34,Sam REBOUND (Off:0 Def:6),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,273,2,1,2,12:39 PM,7:11,MISS Sam  3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,274,4,0,2,12:39 PM,7:09,,,Palmer REBOUND (Off:1 Def:7),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,275,6,2,2,12:39 PM,6:54,Brondello S.FOUL (P1.T3),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,276,9,4,2,12:39 PM,6:54,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,278,8,0,2,12:41 PM,6:54,,,SUB: Tornikidou FOR Sporn,,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,279,8,0,2,12:41 PM,6:54,,,SUB: Canty FOR Neves,,,5,100386,Claudia Neves,1611661321.0,Detroit,Shock,DET,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,280,8,0,2,12:41 PM,6:54,,,SUB: Ndiaye-Diatta FOR Boyd,,,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,281,8,0,2,12:42 PM,6:54,SUB: Ford FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,282,8,0,2,12:42 PM,6:54,SUB: Askamp FOR Riley,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,283,3,11,2,12:42 PM,6:54,,,Palmer Free Throw 1 of 2 (7 PTS),38 - 49,11,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,284,3,12,2,12:42 PM,6:54,,,Palmer Free Throw 2 of 2 (8 PTS),39 - 49,10,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,285,5,1,2,12:43 PM,6:50,Ford Bad Pass Turnover (P1.T15),,Canty STEAL (1 STL),,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,286,1,5,2,12:43 PM,6:48,,,Canty  Layup (2 PTS),41 - 49,8,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,287,1,1,2,12:43 PM,6:36,Baranova 17' Jump Shot (5 PTS) (Brondello 5 AST),,,41 - 51,10,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,288,1,44,2,12:43 PM,6:24,,,Tornikidou  Reverse Layup (6 PTS) (Ndiaye-Diatta 2 AST),43 - 51,8,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,289,6,2,2,12:43 PM,6:09,,,Tornikidou S.FOUL (P2.T1),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,290,8,0,2,12:44 PM,6:09,,,SUB: Brown FOR Nolan,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,291,3,11,2,12:44 PM,6:09,Askamp Free Throw 1 of 2 (4 PTS),,,43 - 52,9,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,292,3,12,2,12:44 PM,6:09,MISS Askamp Free Throw 2 of 2,,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,293,4,0,2,12:44 PM,6:08,Baranova REBOUND (Off:1 Def:1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,294,6,2,2,12:44 PM,6:06,,,Palmer S.FOUL (P3.T2),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,295,3,11,2,12:44 PM,6:06,MISS Reid Free Throw 1 of 2,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,296,4,1,2,12:44 PM,6:06,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,297,3,12,2,12:44 PM,6:06,Reid Free Throw 2 of 2 (7 PTS),,,43 - 53,10,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,298,6,1,2,12:45 PM,5:57,Brondello P.FOUL (P2.T4),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,299,5,1,2,12:45 PM,5:53,,,Ndiaye-Diatta Bad Pass Turnover (P2.T17),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,300,1,5,2,12:46 PM,5:34,Reid  Layup (9 PTS) (Brondello 6 AST),,,43 - 55,12,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,301,5,2,2,12:46 PM,5:14,Ford STEAL (1 STL),,Ndiaye-Diatta Lost Ball Turnover (P3.T18),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,302,1,5,2,12:46 PM,5:11,Ford  Layup (2 PTS),,,43 - 57,14,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,303,2,1,2,12:47 PM,4:50,Ford BLOCK (1 BLK),,MISS Canty 6' Jump Shot,,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0
+1020100150,304,4,0,2,12:47 PM,4:50,,,Shock Rebound,,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,305,8,0,2,12:47 PM,4:50,,,SUB: Sporn FOR Ndiaye-Diatta,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,306,6,1,2,12:47 PM,4:46,Reid P.FOUL (P1.PN),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,307,3,11,2,12:47 PM,4:46,,,Tornikidou Free Throw 1 of 2 (7 PTS),44 - 57,13,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,308,3,12,2,12:47 PM,4:46,,,MISS Tornikidou Free Throw 2 of 2,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,309,4,0,2,12:48 PM,4:44,Reid REBOUND (Off:0 Def:2),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,310,6,2,2,12:48 PM,4:23,,,Brown S.FOUL (P1.T3),,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,311,3,11,2,12:48 PM,4:23,MISS Ford Free Throw 1 of 2,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,312,4,1,2,12:48 PM,4:23,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,313,3,12,2,12:48 PM,4:23,Ford Free Throw 2 of 2 (3 PTS),,,44 - 58,14,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,314,5,1,2,12:49 PM,4:15,Reid STEAL (1 STL),,Sporn Bad Pass Turnover (P1.T19),,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,315,5,1,2,12:49 PM,4:15,Reid Bad Pass Turnover (P4.T16),,Palmer STEAL (3 STL),,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,316,6,1,2,12:49 PM,4:15,Brondello P.FOUL (P3.PN),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,317,2,1,2,12:49 PM,4:07,,,MISS Palmer 6' Jump Shot,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,318,4,0,2,12:50 PM,4:06,Askamp REBOUND (Off:0 Def:2),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,319,6,1,2,12:50 PM,4:05,,,Canty P.FOUL (P1.T4),,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,320,8,0,2,12:50 PM,4:05,,,SUB: Ndiaye-Diatta FOR Palmer,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,321,6,2,2,12:50 PM,4:04,,,Canty S.FOUL (P2.PN),,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,322,3,11,2,12:50 PM,4:04,Ford Free Throw 1 of 2 (4 PTS),,,44 - 59,15,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,323,8,0,2,12:51 PM,4:04,,,SUB: Nolan FOR Canty,,,5,100384,Dominique Canty,1611661321.0,Detroit,Shock,DET,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,324,3,12,2,12:51 PM,4:04,Ford Free Throw 2 of 2 (5 PTS),,,44 - 60,16,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,325,6,1,2,12:51 PM,3:49,Brondello P.FOUL (P4.PN),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,326,9,4,2,12:51 PM,3:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,330,2,42,2,12:54 PM,3:39,,,MISS Nolan  Driving Layup,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,331,4,0,2,12:54 PM,3:36,,,Ndiaye-Diatta REBOUND (Off:3 Def:2),,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,332,2,1,2,12:54 PM,3:31,,,MISS Nolan 12' Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,333,4,0,2,12:54 PM,3:29,Brondello REBOUND (Off:1 Def:2),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,334,5,2,2,12:55 PM,3:09,Reid Lost Ball Turnover (P5.T17),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,335,2,1,2,12:55 PM,2:58,,,MISS Brown  3PT Jump Shot,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,336,4,0,2,12:55 PM,2:56,Ford REBOUND (Off:0 Def:2),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,337,2,1,2,12:55 PM,2:26,MISS Reid 14' Jump Shot,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,338,4,0,2,12:55 PM,2:24,Askamp REBOUND (Off:1 Def:2),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,339,2,3,2,12:55 PM,2:22,MISS Askamp 6' Hook Shot,,Ndiaye-Diatta BLOCK (3 BLK),,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,5,100387,Astou Ndiaye-Diatta,1611661321.0,Detroit,Shock,DET,0
+1020100150,340,4,0,2,12:55 PM,2:19,,,Nolan REBOUND (Off:2 Def:2),,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,341,2,1,2,12:56 PM,2:12,,,MISS Tornikidou  3PT Jump Shot,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,342,4,0,2,12:56 PM,2:11,Baranova REBOUND (Off:1 Def:2),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,343,5,10,2,12:56 PM,2:01,SOL Turnover: 8 Second Violation (T#18),,,,,2,1611661326,,,,,,0,0,,,,,,1,0,,,,,,0
+1020100150,344,8,0,2,12:56 PM,2:01,,,SUB: Palmer FOR Sporn,,,5,100255,Rachael Sporn,1611661321.0,Detroit,Shock,DET,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,345,9,2,2,12:56 PM,2:01,,,Shock Timeout: Short (Reg.1 Short 3),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,346,8,0,2,12:57 PM,2:01,SUB: Rasmussen FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,347,8,0,2,12:57 PM,2:01,SUB: Brumfield FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,349,2,1,2,12:57 PM,1:51,,,MISS Brown  3PT Jump Shot,,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,350,4,0,2,12:57 PM,1:48,,,Nolan REBOUND (Off:3 Def:2),,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,351,2,1,2,12:57 PM,1:45,,,MISS Palmer  3PT Jump Shot,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,352,4,0,2,12:57 PM,1:44,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,353,6,1,2,12:58 PM,1:44,,,Tornikidou P.FOUL (P3.PN),,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,354,6,2,2,12:58 PM,1:41,,,Palmer S.FOUL (P4.PN),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,355,3,11,2,12:58 PM,1:41,Ford Free Throw 1 of 2 (6 PTS),,,44 - 61,17,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,356,8,0,2,12:59 PM,1:41,SUB: Colleton FOR Reid,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100150,357,3,12,2,12:59 PM,1:41,Ford Free Throw 2 of 2 (7 PTS),,,44 - 62,18,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,358,2,1,2,12:59 PM,1:34,,,MISS Nolan  3PT Jump Shot,,,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,359,4,0,2,12:59 PM,1:32,Brumfield REBOUND (Off:0 Def:1),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,360,1,42,2,12:59 PM,1:24,Colleton  Driving Layup (2 PTS),,,44 - 64,20,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,361,6,1,2,12:59 PM,1:16,Brumfield P.FOUL (P3.PN),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,362,8,0,2,1:00 PM,1:16,,,SUB: Boyd FOR Tornikidou,,,5,100388,Elena Tornikidou,1611661321.0,Detroit,Shock,DET,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0
+1020100150,363,3,11,2,1:00 PM,1:16,,,Nolan Free Throw 1 of 2 (9 PTS),45 - 64,19,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,364,9,1,2,1:00 PM,1:16,,,Shock Timeout: Regular (Reg.2 Short 3),,,3,1611661321,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100150,367,3,12,2,1:02 PM,1:16,,,Nolan Free Throw 2 of 2 (10 PTS),46 - 64,18,5,100639,Deanna Nolan,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,368,5,4,2,1:03 PM,1:08,Colleton Traveling Turnover (P1.T19),,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,369,1,1,2,1:03 PM,0:57,,,Brown  3PT Jump Shot (7 PTS),49 - 64,15,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,370,2,46,2,1:03 PM,0:48,MISS Ford 5' Running Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,371,4,0,2,1:03 PM,0:46,,,Brown REBOUND (Off:1 Def:2),,,5,100492,Edwina Brown,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,372,2,42,2,1:03 PM,0:40,Rasmussen BLOCK (2 BLK),,MISS Palmer  Driving Layup,,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0
+1020100150,373,4,0,2,1:03 PM,0:37,Askamp REBOUND (Off:1 Def:3),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,374,6,1,2,1:04 PM,0:22,,,Palmer P.FOUL (P5.PN),,,5,100046,Wendy Palmer,1611661321.0,Detroit,Shock,DET,0,0,,,,,,1,0,,,,,,0
+1020100150,375,3,11,2,1:04 PM,0:22,Askamp Free Throw 1 of 2 (5 PTS),,,49 - 65,16,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,376,3,12,2,1:04 PM,0:22,Askamp Free Throw 2 of 2 (6 PTS),,,49 - 66,17,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,377,6,1,2,1:05 PM,0:10,Colleton P.FOUL (P1.PN),,,,,4,100009,Katrina Colleton,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,378,3,11,2,1:05 PM,0:10,,,Boyd Free Throw 1 of 2 (1 PTS),50 - 66,16,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,379,3,12,2,1:05 PM,0:10,,,Boyd Free Throw 2 of 2 (2 PTS),51 - 66,15,5,100269,Carla Boyd,1611661321.0,Detroit,Shock,DET,0,0,,,,,,0,0,,,,,,0
+1020100150,380,6,4,2,1:05 PM,0:05,Askamp OFF.Foul (P1),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100150,381,5,5,2,1:05 PM,0:05,Askamp Foul Turnover (P1.T20),,,,,4,100037,Marlies Askamp,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100150,382,13,0,2,1:06 PM,0:00,,End of 2nd Half (1:06 PM EST),,51 - 66,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

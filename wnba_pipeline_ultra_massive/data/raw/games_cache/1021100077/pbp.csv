@@ -1,0 +1,384 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021100077,0,12,0,1,10:05 PM,10:00,,Start of 1st Period (10:05 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,1,10,0,1,10:06 PM,10:00,Jump Ball Braxton vs. Anosike: Tip to Dupree,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0
+1021100077,2,5,13,1,10:06 PM,9:57,Dupree Backcourt Turnover (P1.T1),,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021100077,3,2,1,1,10:06 PM,9:39,,,MISS Ajavon  3PT Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,4,4,0,1,10:06 PM,9:38,Taylor REBOUND (Off:0 Def:1),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,5,1,5,1,10:06 PM,9:32,Braxton 3' Layup (2 PTS) (Taylor 1 AST),,,0 - 2,2,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,7,6,4,1,10:07 PM,9:17,,,Miller OFF.Foul (P1),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,8,5,5,1,10:07 PM,9:17,,,Miller Foul Turnover (P1.T1),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021100077,9,2,42,1,10:07 PM,9:05,MISS Taylor 3' Driving Layup,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,10,4,0,1,10:07 PM,9:04,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,11,2,1,1,10:08 PM,8:56,MISS Dupree 5' Jump Shot,,Anosike BLOCK (1 BLK),,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0
+1021100077,12,4,0,1,10:08 PM,8:55,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,13,2,85,1,10:08 PM,8:46,MISS Braxton 4' Turnaround Bank Shot,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,14,4,0,1,10:08 PM,8:45,,,Langhorne REBOUND (Off:0 Def:1),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,15,1,5,1,10:09 PM,8:38,,,Langhorne 1' Layup (2 PTS) (Miller 1 AST),2 - 2,TIE,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,16,2,5,1,10:09 PM,8:32,MISS Taylor 2' Layup,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,17,4,0,1,10:09 PM,8:31,Dupree REBOUND (Off:1 Def:0),,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,18,1,5,1,10:09 PM,8:30,Dupree 1' Layup (2 PTS),,,2 - 4,2,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,19,5,4,1,10:09 PM,8:12,,,Langhorne Traveling Turnover (P1.T2),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021100077,20,6,1,1,10:09 PM,8:07,,,Ajavon P.FOUL (P1.T1),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,21,2,1,1,10:10 PM,8:02,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,22,4,0,1,10:10 PM,8:01,,,Miller REBOUND (Off:0 Def:1),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,23,5,1,1,10:10 PM,7:47,,,Coleman Bad Pass Turnover (P1.T3),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,24,1,5,1,10:10 PM,7:27,Braxton 2' Layup (4 PTS),,,2 - 6,4,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,25,2,1,1,10:11 PM,7:12,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,26,4,0,1,10:11 PM,7:11,,,Anosike REBOUND (Off:1 Def:0),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,27,1,5,1,10:11 PM,7:01,,,Langhorne 1' Layup (4 PTS) (Ajavon 1 AST),4 - 6,2,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,28,6,2,1,10:11 PM,7:01,Johnson S.FOUL (P1.T1),,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,29,3,10,1,10:11 PM,7:01,,,Langhorne Free Throw 1 of 1 (5 PTS),5 - 6,1,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,31,1,1,1,10:11 PM,6:51,Dupree 15' Jump Shot (4 PTS) (Taurasi 1 AST),,,5 - 8,3,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,32,6,1,1,10:12 PM,6:41,Taylor P.FOUL (P1.T2),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,33,1,5,1,10:12 PM,6:27,,,Langhorne 3' Layup (7 PTS) (Coleman 1 AST),7 - 8,1,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,34,2,1,1,10:12 PM,6:07,MISS Taylor 8' Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,35,4,0,1,10:12 PM,6:06,,,Anosike REBOUND (Off:1 Def:1),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,36,2,1,1,10:12 PM,6:00,Taurasi BLOCK (1 BLK),,MISS Langhorne 5' Jump Shot,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1021100077,37,4,0,1,10:13 PM,6:00,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,38,1,66,1,10:13 PM,5:44,Dupree 3' Jump Bank Shot (6 PTS) (Taurasi 2 AST),,,7 - 10,3,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,39,2,1,1,10:13 PM,5:25,,,MISS Anosike 13' Jump Shot,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,40,4,0,1,10:13 PM,5:24,Taylor REBOUND (Off:0 Def:2),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,41,5,1,1,10:13 PM,5:16,Taurasi Bad Pass Turnover (P1.T2),,Anosike STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,42,2,5,1,10:14 PM,5:07,,,MISS Langhorne 2' Layup,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,43,4,0,1,10:14 PM,5:07,,,Anosike REBOUND (Off:2 Def:1),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,44,6,2,1,10:14 PM,5:07,Taurasi S.FOUL (P1.T3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,45,3,11,1,10:14 PM,5:07,,,MISS Anosike Free Throw 1 of 2,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,46,4,1,1,10:14 PM,5:07,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,47,3,12,1,10:14 PM,5:07,,,Anosike Free Throw 2 of 2 (1 PTS),8 - 10,2,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,49,1,1,1,10:14 PM,4:51,Braxton  3PT Jump Shot (7 PTS),,,8 - 13,5,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,50,2,1,1,10:15 PM,4:22,,,MISS Ajavon 13' Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,51,4,0,1,10:15 PM,4:21,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,53,9,4,1,10:15 PM,4:20,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,55,2,86,1,10:18 PM,4:07,MISS Dupree 5' Turnaround Fadeaway Shot,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,56,4,0,1,10:18 PM,4:06,Taylor REBOUND (Off:1 Def:2),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,57,2,1,1,10:18 PM,4:04,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,58,4,0,1,10:18 PM,4:03,,,Anosike REBOUND (Off:2 Def:2),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,59,2,1,1,10:18 PM,3:52,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,60,4,0,1,10:18 PM,3:51,Dupree REBOUND (Off:1 Def:1),,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,61,7,5,1,10:19 PM,3:45,Taurasi Violation:Kicked Ball,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021100077,158,5,19,1,10:19 PM,3:45,Taurasi Kicked Ball Violation Turnover (P2.T3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,62,5,1,1,10:19 PM,3:28,Johnson STEAL (1 STL),,Coleman Bad Pass Turnover (P2.T4),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,63,2,1,1,10:19 PM,3:14,MISS Taurasi 5' Jump Shot,,Langhorne BLOCK (1 BLK),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0
+1021100077,64,4,0,1,10:19 PM,3:14,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,65,8,0,1,10:20 PM,3:14,SUB: Bonner FOR Braxton,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,66,8,0,1,10:20 PM,3:14,SUB: Ferdinand-Harris FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,67,1,1,1,10:20 PM,3:05,Taylor 4' Jump Shot (2 PTS) (Dupree 1 AST),,,8 - 15,7,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,68,1,5,1,10:20 PM,2:41,,,Langhorne 3' Layup (9 PTS) (Miller 2 AST),10 - 15,5,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,69,2,1,1,10:20 PM,2:26,MISS Dupree 19' Jump Shot,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,70,4,0,1,10:20 PM,2:25,Bonner REBOUND (Off:1 Def:0),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,71,1,1,1,10:21 PM,2:14,Johnson  3PT Jump Shot (3 PTS) (Taylor 2 AST),,,10 - 18,8,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,72,2,63,1,10:21 PM,1:58,,,MISS Anosike 6' Fadeaway Jumper,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,73,4,0,1,10:21 PM,1:57,Bonner REBOUND (Off:1 Def:1),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,74,5,1,1,10:21 PM,1:49,Bonner Bad Pass Turnover (P1.T4),,Ajavon STEAL (1 STL),,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,76,2,1,1,10:21 PM,1:32,,,MISS Ajavon  3PT Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,77,4,0,1,10:21 PM,1:31,,,Langhorne REBOUND (Off:1 Def:1),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,78,1,5,1,10:21 PM,1:29,,,Langhorne 2' Layup (11 PTS),12 - 18,6,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,80,2,1,1,10:22 PM,1:17,MISS Taylor 14' Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,81,4,0,1,10:22 PM,1:16,,,Langhorne REBOUND (Off:1 Def:2),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,82,6,4,1,10:22 PM,1:03,,,Langhorne OFF.Foul (P1),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,83,5,5,1,10:22 PM,1:03,,,Langhorne Foul Turnover (P2.T5),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021100077,84,8,0,1,10:22 PM,1:03,,,SUB: Thomas FOR Anosike,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,91,8,0,1,10:22 PM,1:03,SUB: Gray-Lawson FOR Johnson,,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,85,8,0,1,10:22 PM,1:03,,,SUB: Dunlap FOR Ajavon,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,86,1,5,1,10:23 PM,0:46,Dupree 3' Layup (8 PTS) (Taylor 3 AST),,,12 - 20,8,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,87,2,1,1,10:23 PM,0:27,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,88,4,0,1,10:23 PM,0:26,Taylor REBOUND (Off:1 Def:3),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,89,2,1,1,10:23 PM,0:18,MISS Ferdinand-Harris 17' Jump Shot,,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,90,4,0,1,10:23 PM,0:16,,,Langhorne REBOUND (Off:1 Def:3),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,92,5,1,1,10:23 PM,0:05,Taylor STEAL (1 STL),,Thomas Bad Pass Turnover (P1.T6),,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,93,1,5,1,10:23 PM,0:02,Bonner 1' Layup (2 PTS) (Taylor 4 AST),,,12 - 22,10,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,94,13,0,1,10:23 PM,0:00,,End of 1st Period (10:23 PM EST),,12 - 22,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,96,12,0,2,10:26 PM,10:00,,Start of 2nd Period (10:26 PM EST),,12 - 22,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,97,6,2,2,10:27 PM,9:42,Bonner S.FOUL (P1.T1),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,98,3,11,2,10:27 PM,9:42,,,Ajavon Free Throw 1 of 2 (1 PTS),13 - 22,9,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,100,3,12,2,10:27 PM,9:42,,,Ajavon Free Throw 2 of 2 (2 PTS),14 - 22,8,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,102,2,1,2,10:28 PM,9:26,MISS Bonner  3PT Jump Shot,,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,103,4,0,2,10:28 PM,9:25,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,104,2,5,2,10:28 PM,9:03,,,MISS Langhorne 3' Layup,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,105,4,0,2,10:28 PM,9:02,Sanford REBOUND (Off:0 Def:1),,,,,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,106,6,2,2,10:29 PM,8:55,,,Langhorne S.FOUL (P2.T1),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,107,3,11,2,10:29 PM,8:55,Sanford Free Throw 1 of 2 (1 PTS),,,14 - 23,9,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,109,8,0,2,10:29 PM,8:55,,,SUB: Anosike FOR Langhorne,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,110,3,12,2,10:29 PM,8:55,Sanford Free Throw 2 of 2 (2 PTS),,,14 - 24,10,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,112,2,66,2,10:30 PM,8:37,,,MISS Dunlap 5' Jump Bank Shot,,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,113,4,0,2,10:30 PM,8:36,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,114,2,1,2,10:30 PM,8:19,MISS Taurasi 12' Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,115,4,0,2,10:30 PM,8:18,Bonner REBOUND (Off:2 Def:1),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,116,2,1,2,10:30 PM,8:15,MISS Bonner 13' Jump Shot,,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,117,4,0,2,10:30 PM,8:14,,,Anosike REBOUND (Off:2 Def:3),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,118,1,46,2,10:30 PM,8:00,,,Thomas 4' Running Jump Shot (2 PTS),16 - 24,8,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,119,6,2,2,10:30 PM,8:00,Gray-Lawson S.FOUL (P1.T2),,,,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,120,8,0,2,10:31 PM,8:00,,,SUB: Gardin FOR Dunlap,,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,121,3,10,2,10:31 PM,8:00,,,MISS Thomas Free Throw 1 of 1,,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,123,4,0,2,10:31 PM,7:57,Gray-Lawson REBOUND (Off:0 Def:1),,,,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,124,8,0,2,10:31 PM,7:55,,,SUB: Miller FOR Thomas,,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,125,6,1,2,10:31 PM,7:47,,,Anosike P.FOUL (P1.T2),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,126,1,63,2,10:32 PM,7:40,Taurasi 11' Fadeaway Jumper (2 PTS),,,16 - 26,10,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,128,2,80,2,10:32 PM,7:15,,,MISS Coleman 14' Step Back Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,129,4,0,2,10:33 PM,7:14,,,Coleman REBOUND (Off:1 Def:0),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,130,1,77,2,10:33 PM,7:03,,,Gardin 4' Driving Jump Shot (2 PTS),18 - 26,8,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,131,6,1,2,10:33 PM,6:56,,,Coleman P.FOUL (P1.T3),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,132,8,0,2,10:33 PM,6:56,SUB: Taylor FOR Ferdinand-Harris,,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,133,8,0,2,10:33 PM,6:56,SUB: Braxton FOR Sanford,,,,,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,134,6,2,2,10:33 PM,6:51,,,Ajavon S.FOUL (P2.T4),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,135,3,11,2,10:34 PM,6:51,Taurasi Free Throw 1 of 2 (3 PTS),,,18 - 27,9,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,137,8,0,2,10:34 PM,6:51,SUB: Johnson FOR Gray-Lawson,,,,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,138,8,0,2,10:34 PM,6:51,SUB: Dupree FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,139,3,12,2,10:34 PM,6:51,Taurasi Free Throw 2 of 2 (4 PTS),,,18 - 28,10,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,141,2,80,2,10:34 PM,6:35,,,MISS Ajavon 12' Step Back Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,142,4,0,2,10:34 PM,6:34,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,143,2,47,2,10:35 PM,6:16,MISS Taylor 9' Turnaround Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,144,4,0,2,10:35 PM,6:15,,,Gardin REBOUND (Off:0 Def:1),,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,147,6,2,2,10:36 PM,6:11,Johnson S.FOUL (P2.T3),,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,148,3,11,2,10:36 PM,6:11,,,MISS Ajavon Free Throw 1 of 2,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,149,4,1,2,10:36 PM,6:11,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,150,8,0,2,10:36 PM,6:11,,,SUB: Christmas-Kelly FOR Coleman,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,151,3,12,2,10:36 PM,6:11,,,Ajavon Free Throw 2 of 2 (3 PTS),19 - 28,9,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,153,2,1,2,10:36 PM,5:56,MISS Dupree 4' Jump Shot,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,154,4,0,2,10:36 PM,5:55,,,Anosike REBOUND (Off:2 Def:4),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,156,9,1,2,10:37 PM,5:51,MERCURY Timeout: Regular (Full 1 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,160,2,83,2,10:40 PM,5:32,,,MISS Ajavon 9' Fadeaway Bank Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,161,4,0,2,10:40 PM,5:32,,,Miller REBOUND (Off:1 Def:1),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,162,5,11,2,10:40 PM,5:32,,,Mystics Turnover: Shot Clock (T#7),,,3,1611661322,,,,,,0,0,,,,,,1,0,,,,,,0
+1021100077,163,2,1,2,10:40 PM,5:18,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,164,4,0,2,10:41 PM,5:17,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,165,2,1,2,10:41 PM,5:03,MISS Johnson 19' Jump Shot,,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,166,4,0,2,10:41 PM,5:03,,,Miller REBOUND (Off:1 Def:2),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,167,2,1,2,10:41 PM,4:41,,,MISS Ajavon 17' Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,168,4,0,2,10:41 PM,4:40,Braxton REBOUND (Off:0 Def:1),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,169,5,4,2,10:41 PM,4:39,Taurasi Traveling Turnover (P3.T5),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021100077,170,8,0,2,10:42 PM,4:39,,,SUB: Coleman FOR Ajavon,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,171,8,0,2,10:42 PM,4:39,,,SUB: Langhorne FOR Gardin,,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,172,1,1,2,10:42 PM,4:34,,,Miller 19' Jump Shot (2 PTS),21 - 28,7,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,173,6,4,2,10:42 PM,4:22,Taurasi OFF.Foul (P2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,174,5,5,2,10:42 PM,4:22,Taurasi Foul Turnover (P4.T6),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021100077,175,5,41,2,10:42 PM,4:15,Taylor STEAL (2 STL),,Christmas-Kelly Poss Lost Ball Turnover (P1.T8),,,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,176,1,5,2,10:42 PM,4:11,Taurasi 2' Layup (6 PTS) (Taylor 5 AST),,,21 - 30,9,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,177,6,1,2,10:43 PM,4:06,Johnson P.FOUL (P3.T4),,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,178,5,8,2,10:43 PM,3:43,,,Langhorne 3 Second Violation Turnover (P3.T9),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021100077,179,2,3,2,10:44 PM,3:29,MISS Dupree 9' Hook Shot,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,180,4,0,2,10:44 PM,3:28,Taurasi REBOUND (Off:1 Def:0),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,181,2,1,2,10:44 PM,3:26,MISS Taurasi 16' Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,182,4,0,2,10:44 PM,3:26,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,183,2,1,2,10:44 PM,3:10,,,MISS Christmas-Kelly  3PT Jump Shot,,,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,184,4,0,2,10:44 PM,3:09,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,185,8,0,2,10:45 PM,3:09,SUB: Gray-Lawson FOR Johnson,,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,186,8,0,2,10:45 PM,3:09,,,SUB: Thomas FOR Christmas-Kelly,,,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,187,1,47,2,10:45 PM,2:55,Taurasi 10' Turnaround Jump Shot (8 PTS) (Gray-Lawson 1 AST),,,21 - 32,11,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,188,2,1,2,10:45 PM,2:39,,,MISS Miller  3PT Jump Shot,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,189,4,0,2,10:45 PM,2:38,,,Langhorne REBOUND (Off:2 Def:3),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,190,1,41,2,10:45 PM,2:35,,,Langhorne 3' Running Layup (13 PTS),23 - 32,9,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,191,1,5,2,10:45 PM,2:23,Dupree 2' Layup (10 PTS) (Braxton 1 AST),,,23 - 34,11,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,192,2,1,2,10:46 PM,1:56,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,193,4,0,2,10:46 PM,1:55,Braxton REBOUND (Off:0 Def:2),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,194,5,1,2,10:46 PM,1:53,Taurasi Bad Pass Turnover (P5.T7),,Thomas STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,195,2,5,2,10:46 PM,1:48,Taurasi BLOCK (2 BLK),,MISS Anosike 2' Layup,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1021100077,196,4,0,2,10:46 PM,1:47,,,Anosike REBOUND (Off:3 Def:4),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,197,6,2,2,10:46 PM,1:47,Braxton S.FOUL (P1.PN),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,198,9,1,2,10:46 PM,1:47,,,Mystics Timeout: Regular (Reg.1 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,200,8,0,2,10:48 PM,1:47,,,SUB: Ajavon FOR Miller,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,201,8,0,2,10:49 PM,1:47,SUB: Bonner FOR Braxton,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,202,3,11,2,10:49 PM,1:47,,,Anosike Free Throw 1 of 2 (2 PTS),24 - 34,10,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,204,3,12,2,10:49 PM,1:47,,,Anosike Free Throw 2 of 2 (3 PTS),25 - 34,9,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,206,2,1,2,10:50 PM,1:29,MISS Bonner 5' Jump Shot,,Anosike BLOCK (2 BLK),,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0
+1021100077,207,4,0,2,10:50 PM,1:26,,,Anosike REBOUND (Off:3 Def:5),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,208,1,47,2,10:50 PM,1:14,,,Anosike 6' Turnaround Jump Shot (5 PTS),27 - 34,7,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,209,2,1,2,10:50 PM,1:00,MISS Taylor 9' Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,210,4,0,2,10:50 PM,0:59,,,Langhorne REBOUND (Off:2 Def:4),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,211,5,1,2,10:50 PM,0:42,Taylor STEAL (3 STL),,Langhorne Bad Pass Turnover (P4.T10),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,212,1,5,2,10:51 PM,0:34,Dupree 2' Layup (12 PTS) (Taurasi 3 AST),,,27 - 36,9,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,213,6,4,2,10:51 PM,0:25,,,Anosike OFF.Foul (P2),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,214,5,5,2,10:51 PM,0:25,,,Anosike Foul Turnover (P1.T11),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021100077,215,8,0,2,10:51 PM,0:25,,,SUB: Gardin FOR Anosike,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,216,9,1,2,10:51 PM,0:25,MERCURY Timeout: Regular (Full 2 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,220,5,11,2,10:54 PM,0:01,MERCURY Turnover: Shot Clock (T#8),,,,,2,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1021100077,221,13,0,2,10:54 PM,0:00,,End of 2nd Period (10:54 PM EST),,27 - 36,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,224,12,0,3,11:09 PM,10:00,,Start of 3rd Period (11:09 PM EST),,27 - 36,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,225,5,40,3,11:09 PM,9:45,,,Anosike Out of Bounds Lost Ball Turnover (P2.T12),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,226,6,2,3,11:10 PM,9:35,,,Ajavon S.FOUL (P3.T1),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,227,3,11,3,11:10 PM,9:35,Dupree Free Throw 1 of 2 (13 PTS),,,27 - 37,10,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,229,3,12,3,11:10 PM,9:35,Dupree Free Throw 2 of 2 (14 PTS),,,27 - 38,11,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,231,1,1,3,11:11 PM,9:17,,,Langhorne 18' Jump Shot (15 PTS) (Coleman 2 AST),29 - 38,9,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,232,5,1,3,11:11 PM,9:04,Taurasi Bad Pass Turnover (P6.T9),,Anosike STEAL (2 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,233,1,1,3,11:11 PM,8:59,,,Ajavon 16' Jump Shot (5 PTS) (Coleman 3 AST),31 - 38,7,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,234,1,5,3,11:11 PM,8:51,Braxton 2' Layup (9 PTS) (Taurasi 4 AST),,,31 - 40,9,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,235,1,1,3,11:11 PM,8:32,,,Coleman  3PT Jump Shot (3 PTS) (Miller 3 AST),34 - 40,6,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,236,1,1,3,11:12 PM,8:14,Johnson 15' Jump Shot (5 PTS) (Taylor 6 AST),,,34 - 42,8,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,237,5,4,3,11:12 PM,7:50,,,Langhorne Traveling Turnover (P5.T13),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1021100077,238,6,1,3,11:13 PM,7:35,,,Langhorne P.FOUL (P3.T2),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,239,8,0,3,11:13 PM,7:35,,,SUB: Gardin FOR Anosike,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,240,1,5,3,11:13 PM,7:30,Dupree 2' Layup (16 PTS) (Taurasi 5 AST),,,34 - 44,10,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,241,2,1,3,11:13 PM,7:12,,,MISS Miller 10' Jump Shot,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,242,4,0,3,11:13 PM,7:11,Taylor REBOUND (Off:1 Def:4),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,243,5,1,3,11:13 PM,7:08,Johnson Bad Pass Turnover (P1.T10),,Ajavon STEAL (2 STL),,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,244,1,5,3,11:14 PM,7:05,,,Ajavon 2' Layup (7 PTS) (Gardin 1 AST),36 - 44,8,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,245,1,5,3,11:14 PM,6:59,Braxton 2' Layup (11 PTS) (Dupree 2 AST),,,36 - 46,10,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,246,6,2,3,11:14 PM,6:37,Braxton S.FOUL (P2.T1),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,247,3,11,3,11:14 PM,6:37,,,Miller Free Throw 1 of 2 (3 PTS),37 - 46,9,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,249,3,12,3,11:14 PM,6:37,,,Miller Free Throw 2 of 2 (4 PTS),38 - 46,8,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,251,9,2,3,11:15 PM,6:37,MERCURY Timeout: Short (Full 2 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,254,8,0,3,11:15 PM,6:37,,,SUB: Thomas FOR Miller,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,255,2,1,3,11:16 PM,6:24,MISS Braxton 12' Jump Shot,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,256,4,0,3,11:16 PM,6:23,,,Gardin REBOUND (Off:0 Def:2),,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,257,6,1,3,11:16 PM,6:22,Braxton P.FOUL (P3.T2),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,258,8,0,3,11:16 PM,6:22,SUB: Bonner FOR Braxton,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,259,1,1,3,11:16 PM,6:02,,,Ajavon  3PT Jump Shot (10 PTS) (Thomas 1 AST),41 - 46,5,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,262,5,2,3,11:17 PM,5:52,Dupree Lost Ball Turnover (P2.T11),,Langhorne STEAL (1 STL),,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,261,10,0,3,11:17 PM,5:52,Jump Ball Dupree vs. Langhorne: Tip to Thomas,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0
+1021100077,263,1,84,3,11:18 PM,5:34,,,Thomas 4' Running Bank Shot (4 PTS),43 - 46,3,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,264,9,1,3,11:18 PM,5:26,MERCURY Timeout: Regular (Full 3 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,268,2,1,3,11:20 PM,5:09,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,269,4,0,3,11:20 PM,5:08,,,Thomas REBOUND (Off:0 Def:1),,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,270,2,1,3,11:21 PM,4:54,,,MISS Coleman 5' Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,271,4,0,3,11:21 PM,4:53,Johnson REBOUND (Off:0 Def:1),,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,272,1,5,3,11:21 PM,4:50,Taurasi 2' Layup (10 PTS) (Taylor 7 AST),,,43 - 48,5,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,273,6,2,3,11:21 PM,4:50,,,Coleman S.FOUL (P2.T3),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,274,8,0,3,11:21 PM,4:50,SUB: Gray-Lawson FOR Johnson,,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,275,8,0,3,11:21 PM,4:50,SUB: Ferdinand-Harris FOR Taylor,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,276,3,10,3,11:21 PM,4:50,Taurasi Free Throw 1 of 1 (11 PTS),,,43 - 49,6,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,278,6,2,3,11:22 PM,4:29,Taurasi S.FOUL (P3.T3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,279,3,11,3,11:22 PM,4:29,,,Coleman Free Throw 1 of 2 (4 PTS),44 - 49,5,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,281,3,12,3,11:22 PM,4:29,,,Coleman Free Throw 2 of 2 (5 PTS),45 - 49,4,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,283,6,1,3,11:23 PM,4:22,,,Thomas P.FOUL (P1.T4),,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,284,2,1,3,11:23 PM,4:07,MISS Gray-Lawson  3PT Jump Shot,,,,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,285,4,0,3,11:23 PM,4:06,Bonner REBOUND (Off:3 Def:1),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,286,1,5,3,11:23 PM,4:05,Bonner 2' Layup (4 PTS),,,45 - 51,6,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,287,5,1,3,11:23 PM,3:50,Dupree STEAL (1 STL),,Ajavon Bad Pass Turnover (P1.T14),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,288,6,2,3,11:24 PM,3:45,,,Coleman S.FOUL (P3.PN),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,289,3,11,3,11:24 PM,3:45,Taurasi Free Throw 1 of 2 (12 PTS),,,45 - 52,7,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,292,8,0,3,11:24 PM,3:45,,,SUB: Miller FOR Thomas,,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,293,8,0,3,11:24 PM,3:45,,,SUB: Dunlap FOR Gardin,,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,294,3,12,3,11:24 PM,3:45,Taurasi Free Throw 2 of 2 (13 PTS),,,45 - 53,8,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,296,9,1,3,11:24 PM,3:45,,,Mystics Timeout: Regular (Reg.2 Short 0),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,298,8,0,3,11:26 PM,3:45,SUB: Taylor FOR Dupree,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,299,8,0,3,11:26 PM,3:45,SUB: Sanford FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,300,5,1,3,11:26 PM,3:27,Gray-Lawson STEAL (1 STL),,Ajavon Bad Pass Turnover (P2.T15),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,301,1,1,3,11:26 PM,3:21,Bonner 6' Jump Shot (6 PTS) (Gray-Lawson 2 AST),,,45 - 55,10,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,302,6,1,3,11:27 PM,2:59,Bonner P.FOUL (P2.T4),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,303,8,0,3,11:27 PM,2:59,,,SUB: Anosike FOR Langhorne,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,304,8,0,3,11:27 PM,2:59,,,SUB: Christmas-Kelly FOR Ajavon,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,305,1,1,3,11:27 PM,2:54,,,Miller 13' Jump Shot (6 PTS),47 - 55,8,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,306,1,5,3,11:28 PM,2:30,Taylor 2' Layup (4 PTS) (Sanford 1 AST),,,47 - 57,10,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,307,2,85,3,11:28 PM,2:09,,,MISS Coleman 6' Turnaround Bank Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,308,4,0,3,11:28 PM,2:08,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,309,6,2,3,11:28 PM,1:53,Ferdinand-Harris S.FOUL (P1.PN),,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,310,3,11,3,11:29 PM,1:53,,,Christmas-Kelly Free Throw 1 of 2 (1 PTS),48 - 57,9,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,312,3,12,3,11:29 PM,1:53,,,Christmas-Kelly Free Throw 2 of 2 (2 PTS),49 - 57,8,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,315,1,1,3,11:30 PM,1:37,Ferdinand-Harris  3PT Jump Shot (3 PTS) (Gray-Lawson 3 AST),,,49 - 60,11,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,316,5,1,3,11:30 PM,1:24,Taylor STEAL (4 STL),,Dunlap Bad Pass Turnover (P1.T16),,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,317,1,5,3,11:30 PM,1:20,Taylor 2' Layup (6 PTS),,,49 - 62,13,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,318,9,2,3,11:30 PM,1:08,,,Mystics Timeout: Short (Reg.2 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,322,5,1,3,11:31 PM,1:01,Taylor STEAL (5 STL),,Dunlap Bad Pass Turnover (P2.T17),,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,323,6,1,3,11:31 PM,0:54,,,Miller P.FOUL (P2.PN),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,324,3,11,3,11:32 PM,0:54,Gray-Lawson Free Throw 1 of 2 (1 PTS),,,49 - 63,14,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,326,8,0,3,11:32 PM,0:54,,,SUB: Langhorne FOR Anosike,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,327,8,0,3,11:32 PM,0:54,,,SUB: Ajavon FOR Dunlap,,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,328,8,0,3,11:32 PM,0:54,,,SUB: Gardin FOR Christmas-Kelly,,,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,329,3,12,3,11:32 PM,0:54,Gray-Lawson Free Throw 2 of 2 (2 PTS),,,49 - 64,15,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,331,2,1,3,11:32 PM,0:40,Bonner BLOCK (1 BLK),,MISS Gardin 5' Jump Shot,,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0
+1021100077,332,4,0,3,11:32 PM,0:38,,,Ajavon REBOUND (Off:1 Def:0),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,333,2,5,3,11:32 PM,0:37,,,MISS Ajavon 3' Layup,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,334,4,0,3,11:32 PM,0:35,,,Gardin REBOUND (Off:1 Def:2),,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,335,1,1,3,11:32 PM,0:31,,,Ajavon 5' Jump Shot (12 PTS),51 - 64,13,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,336,5,1,3,11:33 PM,0:27,Ferdinand-Harris Bad Pass Turnover (P1.T12),,Coleman STEAL (1 STL),,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,337,2,1,3,11:33 PM,0:08,,,MISS Langhorne 5' Jump Shot,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,338,4,0,3,11:33 PM,0:07,,,Miller REBOUND (Off:2 Def:2),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,339,2,1,3,11:33 PM,0:02,,,MISS Ajavon  3PT Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,340,4,0,3,11:33 PM,0:01,Taylor REBOUND (Off:1 Def:5),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,341,13,0,3,11:33 PM,0:00,,End of 3rd Period (11:33 PM EST),,51 - 64,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,343,12,0,4,11:36 PM,10:00,,Start of 4th Period (11:36 PM EST),,51 - 64,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,344,2,5,4,11:36 PM,9:42,MISS Gray-Lawson 2' Layup,,,,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,345,4,0,4,11:36 PM,9:41,,,Langhorne REBOUND (Off:2 Def:5),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,346,2,1,4,11:37 PM,9:20,,,MISS Ajavon  3PT Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,347,4,0,4,11:37 PM,9:19,,,Langhorne REBOUND (Off:3 Def:5),,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,348,2,1,4,11:37 PM,9:15,,,MISS Langhorne 5' Jump Shot,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,349,4,0,4,11:37 PM,9:13,,,Ajavon REBOUND (Off:2 Def:0),,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,350,1,1,4,11:37 PM,9:05,,,Thomas 19' Jump Shot (6 PTS),53 - 64,11,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,351,6,1,4,11:37 PM,8:58,,,Gardin P.FOUL (P1.T1),,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1021100077,352,2,1,4,11:38 PM,8:33,MISS Taylor 25' 3PT Jump Shot,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,353,4,0,4,11:38 PM,8:32,,,Gardin REBOUND (Off:1 Def:3),,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,354,6,1,4,11:38 PM,8:16,Bonner P.FOUL (P3.T1),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,355,8,0,4,11:38 PM,8:16,SUB: Braxton FOR Bonner,,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,356,2,1,4,11:39 PM,8:09,,,MISS Ajavon 7' Jump Shot,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,357,4,0,4,11:39 PM,8:08,Taylor REBOUND (Off:1 Def:6),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,358,1,1,4,11:39 PM,7:57,Dupree 18' Jump Shot (18 PTS) (Ferdinand-Harris 1 AST),,,53 - 66,13,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,359,2,1,4,11:39 PM,7:39,,,MISS Langhorne 19' Jump Shot,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,360,4,0,4,11:39 PM,7:39,Ferdinand-Harris REBOUND (Off:0 Def:1),,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,361,5,2,4,11:39 PM,7:36,Ferdinand-Harris Lost Ball Turnover (P2.T13),,Ajavon STEAL (3 STL),,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,362,1,1,4,11:39 PM,7:21,,,Coleman 7' Jump Shot (7 PTS) (Langhorne 1 AST),55 - 66,11,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,363,1,1,4,11:40 PM,7:03,Braxton 4' Jump Shot (13 PTS) (Gray-Lawson 4 AST),,,55 - 68,13,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,364,6,1,4,11:40 PM,6:43,Taylor P.FOUL (P2.T2),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,365,8,0,4,11:40 PM,6:43,,,SUB: Dunlap FOR Gardin,,,5,200704,Kerri Gardin,1611661322.0,Washington,Mystics,WAS,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,366,8,0,4,11:40 PM,6:43,SUB: Taurasi FOR Ferdinand-Harris,,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,367,8,0,4,11:40 PM,6:43,SUB: Johnson FOR Gray-Lawson,,,,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,368,2,42,4,11:41 PM,6:35,,,MISS Ajavon 3' Driving Layup,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,369,4,0,4,11:41 PM,6:35,Dupree REBOUND (Off:1 Def:2),,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,370,2,1,4,11:41 PM,6:21,MISS Braxton 3' Jump Shot,,Langhorne BLOCK (2 BLK),,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0
+1021100077,371,4,0,4,11:41 PM,6:19,Braxton REBOUND (Off:1 Def:2),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,372,2,1,4,11:41 PM,6:15,MISS Braxton 4' Jump Shot,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,373,4,0,4,11:41 PM,6:14,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,374,8,0,4,11:41 PM,6:14,,,SUB: Miller FOR Thomas,,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,375,6,11,4,11:41 PM,6:14,Braxton T.FOUL (P3.T2),,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1021100077,376,3,16,4,11:42 PM,6:14,,,MISS Ajavon Free Throw Technical,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,377,4,1,4,11:42 PM,6:14,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,378,2,1,4,11:43 PM,6:12,MISS Braxton 10' Jump Shot,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,379,4,0,4,11:43 PM,6:11,Taylor REBOUND (Off:2 Def:6),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,381,5,1,4,11:44 PM,6:01,Taylor Bad Pass Turnover (P1.T14),,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,382,2,1,4,11:44 PM,5:42,,,MISS Coleman 17' Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,383,4,0,4,11:44 PM,5:41,Taurasi REBOUND (Off:1 Def:1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,384,5,2,4,11:44 PM,5:40,Taurasi Lost Ball Turnover (P7.T15),,Ajavon STEAL (4 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,385,1,5,4,11:44 PM,5:36,,,Langhorne 3' Layup (17 PTS) (Ajavon 2 AST),57 - 68,11,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,386,1,1,4,11:44 PM,5:31,Taylor 4' Jump Shot (8 PTS) (Dupree 3 AST),,,57 - 70,13,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,387,2,1,4,11:44 PM,5:15,Braxton BLOCK (1 BLK),,MISS Langhorne 5' Jump Shot,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,0
+1021100077,388,4,0,4,11:45 PM,5:15,,,Mystics Rebound,,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,389,9,4,4,11:45 PM,5:15,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,391,8,0,4,11:47 PM,5:15,SUB: Bonner FOR Taylor,,,,,4,100634,Penny Taylor,1611661317.0,Phoenix,Mercury,PHO,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,393,2,1,4,11:47 PM,5:12,,,MISS Langhorne 14' Jump Shot,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,394,4,0,4,11:47 PM,5:11,Bonner REBOUND (Off:3 Def:2),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,395,1,5,4,11:48 PM,4:53,Braxton 2' Layup (15 PTS) (Bonner 1 AST),,,57 - 72,15,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,396,2,5,4,11:48 PM,4:30,,,MISS Langhorne 3' Layup,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,397,4,0,4,11:48 PM,4:29,Bonner REBOUND (Off:3 Def:3),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,398,1,5,4,11:48 PM,4:25,Braxton 2' Layup (17 PTS) (Bonner 2 AST),,,57 - 74,17,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,399,2,1,4,11:48 PM,4:04,,,MISS Miller 18' Jump Shot,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,400,4,0,4,11:48 PM,4:03,Dupree REBOUND (Off:1 Def:3),,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,401,2,3,4,11:49 PM,3:53,MISS Dupree 3' Hook Shot,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,402,4,0,4,11:49 PM,3:52,,,Coleman REBOUND (Off:1 Def:1),,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,403,2,1,4,11:49 PM,3:46,,,MISS Coleman 5' Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,404,4,0,4,11:49 PM,3:45,Johnson REBOUND (Off:0 Def:2),,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,405,5,1,4,11:49 PM,3:44,Johnson Bad Pass Turnover (P2.T16),,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,406,8,0,4,11:49 PM,3:44,,,SUB: Anosike FOR Dunlap,,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,407,2,1,4,11:49 PM,3:41,,,MISS Miller 18' Jump Shot,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,408,4,0,4,11:49 PM,3:40,Dupree REBOUND (Off:1 Def:4),,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,409,5,1,4,11:49 PM,3:34,Taurasi Bad Pass Turnover (P8.T17),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,410,2,1,4,11:50 PM,3:16,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,411,4,0,4,11:50 PM,3:16,Bonner REBOUND (Off:3 Def:4),,,,,4,201886,DeWanna Bonner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,412,1,71,4,11:50 PM,3:10,Dupree 1' Finger Roll Layup (20 PTS) (Johnson 1 AST),,,57 - 76,19,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,413,9,1,4,11:50 PM,3:04,,,Mystics Timeout: Regular (Reg.3 Short 1),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,417,2,1,4,11:54 PM,2:55,,,MISS Coleman  3PT Jump Shot,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,418,4,0,4,11:54 PM,2:54,,,Anosike REBOUND (Off:4 Def:5),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,421,8,0,4,11:54 PM,2:44,SUB: Ferdinand-Harris FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,422,5,1,4,11:55 PM,2:34,,,Miller Bad Pass Turnover (P2.T18),,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,423,5,2,4,11:55 PM,2:18,Ferdinand-Harris Lost Ball Turnover (P3.T18),,Ajavon STEAL (5 STL),,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,425,8,0,4,11:55 PM,2:12,SUB: Gray-Lawson FOR Johnson,,,,,4,101024,Temeka Johnson,1611661317.0,Phoenix,Mercury,PHO,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,426,8,0,4,11:56 PM,2:12,SUB: Sanni FOR Dupree,,,,,4,200676,Candice Dupree,1611661317.0,Phoenix,Mercury,PHO,4,201489,Olayinka Sanni,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,427,8,0,4,11:56 PM,2:12,,,SUB: Thomas FOR Miller,,,5,100627,Kelly Miller,1611661322.0,Washington,Mystics,WAS,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,428,6,2,4,11:56 PM,1:58,Ferdinand-Harris S.FOUL (P2.T3),,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1021100077,429,3,11,4,11:56 PM,1:58,,,Ajavon Free Throw 1 of 2 (13 PTS),58 - 76,18,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,431,8,0,4,11:56 PM,1:58,,,SUB: Dunlap FOR Langhorne,,,5,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,432,8,0,4,11:57 PM,1:58,SUB: Sanford FOR Braxton,,,,,4,101025,Kara Braxton,1611661317.0,Phoenix,Mercury,PHO,4,100556,Nakia Sanford,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,433,3,12,4,11:57 PM,1:58,,,Ajavon Free Throw 2 of 2 (14 PTS),59 - 76,17,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,435,1,47,4,11:57 PM,1:44,Sanni 6' Turnaround Jump Shot (2 PTS) (Ferdinand-Harris 2 AST),,,59 - 78,19,4,201489,Olayinka Sanni,1611661317.0,Phoenix,Mercury,PHO,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1021100077,436,1,1,4,11:57 PM,1:28,,,Thomas 20' Jump Shot (8 PTS),61 - 78,17,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,449,18,1,4,11:57 PM,1:28,,Overturn Ruling,,,,0,436,Juwan Howard,,,,,0,0,,,,,,1,0,,,,,,0
+1021100077,437,5,1,4,11:58 PM,1:16,Gray-Lawson Bad Pass Turnover (P1.T19),,Thomas STEAL (2 STL),,,4,202280,Alexis Gray-Lawson,1611661317.0,Phoenix,Mercury,PHO,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,438,2,5,4,11:58 PM,1:11,,,MISS Ajavon 2' Layup,,,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,439,4,0,4,11:58 PM,1:09,,,Dunlap REBOUND (Off:1 Def:0),,,5,202643,Victoria Dunlap,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,440,2,1,4,11:58 PM,0:57,,,MISS Thomas  3PT Jump Shot,,,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,441,4,0,4,11:58 PM,0:57,Sanni REBOUND (Off:0 Def:1),,,,,4,201489,Olayinka Sanni,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,442,2,1,4,11:58 PM,0:39,MISS Ferdinand-Harris  3PT Jump Shot,,,,,4,100685,Marie Ferdinand-Harris,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1021100077,443,4,0,4,11:58 PM,0:38,,,Anosike REBOUND (Off:4 Def:6),,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1021100077,444,9,2,4,11:58 PM,0:32,,,Mystics Timeout: Short (Reg.3 Short 2),,,3,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1021100077,446,8,0,4,11:59 PM,0:32,,,SUB: Christmas-Kelly FOR Coleman,,,5,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,202640,Karima Christmas-Kelly,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,447,8,0,4,11:59 PM,0:32,,,SUB: Phillips FOR Anosike,,,5,201500,Nicky Anosike,1611661322.0,Washington,Mystics,WAS,5,202655,Ta'Shia Phillips,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,450,1,1,4,11:59 PM,0:19,,,Thomas  3PT Jump Shot (11 PTS) (Ajavon 3 AST),64 - 78,14,5,202662,Jasmine Thomas,1611661322.0,Washington,Mystics,WAS,5,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1021100077,451,13,0,4,12:00 AM,0:00,,End of 4th Period (12:00 AM EST),,64 - 78,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

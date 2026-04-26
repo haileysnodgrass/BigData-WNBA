@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020100095,0,12,0,1,5:01 AM,20:00,,Start of 1st Half (5:01 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,1,10,0,1,5:06 AM,20:00,Jump Ball Baranova vs. Crawley: Tip to Black,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0
+1020100095,2,2,1,1,5:07 AM,19:33,MISS Sam 15' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,3,4,0,1,5:07 AM,19:31,,,Bevilaqua REBOUND (Off:0 Def:1),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,4,1,1,1,5:07 AM,19:11,,,Stiles 8' Jump Shot (2 PTS),2 - 0,-2,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,5,1,42,1,5:07 AM,18:56,Sam  Driving Layup (2 PTS),,,2 - 2,TIE,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,6,1,1,1,5:08 AM,18:39,,,Stiles 8' Jump Shot (4 PTS),4 - 2,-2,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,7,6,1,1,5:08 AM,18:14,,,Crawley P.FOUL (P1.T1),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,8,2,1,1,5:09 AM,17:56,MISS Brondello 14' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,9,4,0,1,5:09 AM,17:54,Rasmussen REBOUND (Off:1 Def:0),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,10,2,1,1,5:09 AM,17:39,MISS Black 13' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,11,4,0,1,5:09 AM,17:37,,,Folkl REBOUND (Off:0 Def:1),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,12,5,2,1,5:09 AM,17:32,,,Bevilaqua Lost Ball Turnover (P1.T1),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,13,5,2,1,5:10 AM,17:13,Sam Lost Ball Turnover (P1.T1),,Bevilaqua STEAL (1 STL),,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,14,1,1,1,5:10 AM,16:52,,,Witherspoon  3PT Jump Shot (3 PTS) (Crawley 1 AST),7 - 2,-5,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,15,2,1,1,5:10 AM,16:35,MISS Brondello 15' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,16,4,0,1,5:10 AM,16:33,,,Folkl REBOUND (Off:0 Def:2),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,17,6,1,1,5:10 AM,16:23,Baranova P.FOUL (P1.T1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,18,1,1,1,5:11 AM,16:15,,,Witherspoon  3PT Jump Shot (6 PTS),10 - 2,-8,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,19,9,2,1,5:11 AM,16:09,SOL Timeout: Short (Full 0 Short 1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,21,5,3,1,5:12 AM,15:50,Sam Out Of Bounds Turnover (P2.T2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,22,9,4,1,5:12 AM,15:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,23,8,0,1,5:15 AM,15:50,SUB: Ford FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,24,8,0,1,5:15 AM,15:50,SUB: Brumfield FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,25,1,1,1,5:15 AM,15:30,,,Witherspoon  3PT Jump Shot (9 PTS) (Bevilaqua 1 AST),13 - 2,-11,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,26,6,2,1,5:16 AM,15:09,,,Stiles S.FOUL (P1.T2),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,27,3,11,1,5:16 AM,15:09,MISS Ford Free Throw 1 of 2,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,28,4,1,1,5:16 AM,15:09,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,29,3,12,1,5:16 AM,15:09,MISS Ford Free Throw 2 of 2,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,30,4,0,1,5:16 AM,15:07,,,Folkl REBOUND (Off:0 Def:3),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,31,2,1,1,5:16 AM,14:56,,,MISS Stiles 16' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,32,4,0,1,5:16 AM,14:55,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,33,1,1,1,5:17 AM,14:27,Brumfield 12' Jump Shot (2 PTS),,,13 - 4,-9,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,34,5,2,1,5:17 AM,14:12,Baranova STEAL (1 STL),,Witherspoon Lost Ball Turnover (P1.T2),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,35,6,1,1,5:17 AM,14:12,,,Bevilaqua P.FOUL (P1.T3),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,36,8,0,1,5:18 AM,14:12,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,37,2,1,1,5:18 AM,13:53,MISS Sam 10' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,38,4,0,1,5:18 AM,13:51,,,Folkl REBOUND (Off:0 Def:4),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,39,2,1,1,5:18 AM,13:43,,,MISS Crawley 9' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,40,4,0,1,5:18 AM,13:42,,,Crawley REBOUND (Off:1 Def:0),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,41,6,3,1,5:18 AM,13:42,Ford L.B.FOUL (P1.T2),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,42,1,1,1,5:19 AM,13:27,,,Jackson 24' 3PT Jump Shot (3 PTS) (Folkl 1 AST),16 - 4,-12,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,43,6,2,1,5:19 AM,13:08,,,Folkl S.FOUL (P1.T4),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,44,3,11,1,5:19 AM,13:08,Baranova Free Throw 1 of 2 (1 PTS),,,16 - 5,-11,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,45,3,12,1,5:20 AM,13:08,Baranova Free Throw 2 of 2 (2 PTS),,,16 - 6,-10,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,46,5,1,1,5:20 AM,12:59,,,Jackson Bad Pass Turnover (P1.T3),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,47,2,1,1,5:20 AM,12:40,MISS Baranova 11' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,48,4,0,1,5:20 AM,12:38,,,Crawley REBOUND (Off:1 Def:1),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,49,1,1,1,5:20 AM,12:31,,,Witherspoon  3PT Jump Shot (12 PTS) (Folkl 2 AST),19 - 6,-13,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,50,1,1,1,5:21 AM,12:04,Baranova  3PT Jump Shot (5 PTS) (Brumfield 1 AST),,,19 - 9,-10,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,51,1,1,1,5:21 AM,11:47,,,Crawley 16' Jump Shot (2 PTS),21 - 9,-12,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,52,2,5,1,5:21 AM,11:26,MISS Brumfield  Layup,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,53,4,0,1,5:22 AM,11:23,,,Folkl REBOUND (Off:0 Def:5),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,54,1,1,1,5:22 AM,11:11,,,Crawley 8' Jump Shot (4 PTS) (Witherspoon 1 AST),23 - 9,-14,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,55,2,1,1,5:22 AM,10:41,MISS Baranova 16' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,56,4,0,1,5:22 AM,10:39,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,57,6,1,1,5:22 AM,10:39,Ford P.FOUL (P2.T3),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,58,9,4,1,5:22 AM,10:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,60,8,0,1,5:25 AM,10:39,,,SUB: Walker FOR Folkl,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,61,8,0,1,5:25 AM,10:39,,,SUB: Nygaard FOR Crawley,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,62,8,0,1,5:25 AM,10:39,SUB: Brondello FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,63,8,0,1,5:25 AM,10:39,SUB: Reid FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,64,8,0,1,5:25 AM,10:39,SUB: Riley FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,65,5,1,1,5:25 AM,10:26,,,Walker Bad Pass Turnover (P1.T4),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,66,6,1,1,5:25 AM,10:26,,,Walker P.FOUL (P1.PN),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,67,6,1,1,5:26 AM,10:13,,,Walker P.FOUL (P2.PN),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,68,1,1,1,5:26 AM,10:07,Riley 16' Jump Shot (2 PTS) (Brondello 1 AST),,,23 - 11,-12,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,69,5,2,1,5:26 AM,9:50,,,Witherspoon Lost Ball Turnover (P2.T5),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,70,1,5,1,5:27 AM,9:33,Riley  Layup (4 PTS) (Brondello 2 AST),,,23 - 13,-10,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,71,2,1,1,5:27 AM,9:18,,,MISS Stiles  3PT Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,72,4,0,1,5:27 AM,9:16,,,Walker REBOUND (Off:1 Def:0),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,73,2,1,1,5:27 AM,9:12,,,MISS Witherspoon 15' Jump Shot,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,74,4,0,1,5:27 AM,9:10,Brumfield REBOUND (Off:0 Def:1),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,75,2,5,1,5:27 AM,9:07,MISS Reid  Layup,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,76,4,0,1,5:27 AM,9:07,Brondello REBOUND (Off:1 Def:0),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,77,6,1,1,5:27 AM,9:07,,,Nygaard P.FOUL (P1.PN),,,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,78,8,0,1,5:27 AM,9:07,,,SUB: Thomas FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,79,5,4,1,5:28 AM,8:51,Riley Traveling Turnover (P1.T3),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,80,2,1,1,5:28 AM,8:39,,,MISS Stiles  3PT Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,81,4,0,1,5:28 AM,8:38,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,82,6,3,1,5:28 AM,8:38,Brumfield L.B.FOUL (P1.T4),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,83,2,1,1,5:29 AM,8:32,,,MISS Jackson 8' Jump Shot,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,84,4,0,1,5:29 AM,8:30,Brumfield REBOUND (Off:0 Def:2),,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,85,2,1,1,5:29 AM,8:25,MISS Baranova 10' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,86,4,0,1,5:29 AM,8:23,,,Thomas REBOUND (Off:0 Def:1),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,87,1,5,1,5:29 AM,8:18,,,Walker  Layup (2 PTS) (Thomas 1 AST),25 - 13,-12,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,88,2,1,1,5:29 AM,7:55,MISS Baranova 16' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,89,4,0,1,5:29 AM,7:53,,,Nygaard REBOUND (Off:0 Def:1),,,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,90,2,5,1,5:29 AM,7:48,,,MISS Stiles  Layup,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,91,4,0,1,5:30 AM,7:46,,,Thomas REBOUND (Off:1 Def:1),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,92,1,5,1,5:30 AM,7:31,,,Jackson  Layup (5 PTS) (Thomas 2 AST),27 - 13,-14,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,93,9,1,1,5:30 AM,7:21,SOL Timeout: Regular (Full 1 Short 1),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,95,8,0,1,5:32 AM,7:21,,,SUB: Young FOR Stiles,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,96,8,0,1,5:32 AM,7:21,,,SUB: Bevilaqua FOR Jackson,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,97,8,0,1,5:32 AM,7:21,SUB: Black FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,98,8,0,1,5:32 AM,7:21,SUB: Rasmussen FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,99,6,2,1,5:33 AM,7:13,,,Young S.FOUL (P1.PN),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,100,3,11,1,5:33 AM,7:13,Brondello Free Throw 1 of 2 (1 PTS),,,27 - 14,-13,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,101,3,12,1,5:33 AM,7:13,Brondello Free Throw 2 of 2 (2 PTS),,,27 - 15,-12,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,102,6,1,1,5:34 AM,7:11,Reid P.FOUL (P1.PN),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,103,1,1,1,5:34 AM,6:48,,,Bevilaqua  3PT Jump Shot (3 PTS) (Thomas 3 AST),30 - 15,-15,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,104,6,1,1,5:34 AM,6:30,,,Young P.FOUL (P2.PN),,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,105,8,0,1,5:35 AM,6:30,,,SUB: Burras FOR Nygaard,,,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,106,3,11,1,5:35 AM,6:30,Reid Free Throw 1 of 2 (1 PTS),,,30 - 16,-14,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,107,3,12,1,5:35 AM,6:30,Reid Free Throw 2 of 2 (2 PTS),,,30 - 17,-13,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,108,6,2,1,5:35 AM,6:16,Black S.FOUL (P1.PN),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,109,3,11,1,5:36 AM,6:16,,,MISS Thomas Free Throw 1 of 2,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,110,4,1,1,5:36 AM,6:16,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,111,3,12,1,5:36 AM,6:16,,,MISS Thomas Free Throw 2 of 2,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,112,4,0,1,5:36 AM,6:15,Reid REBOUND (Off:0 Def:1),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,113,1,1,1,5:36 AM,6:03,Brondello 18' Jump Shot (4 PTS),,,30 - 19,-11,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,114,1,42,1,5:36 AM,5:53,,,Walker  Driving Layup (4 PTS),32 - 19,-13,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,115,1,1,1,5:37 AM,5:32,Brondello 17' Jump Shot (6 PTS),,,32 - 21,-11,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,116,2,1,1,5:37 AM,5:04,,,MISS Young 14' Jump Shot,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,117,4,0,1,5:37 AM,5:02,Rasmussen REBOUND (Off:1 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,118,2,42,1,5:38 AM,4:39,MISS Rasmussen  Driving Layup,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,119,4,0,1,5:38 AM,4:37,,,Burras REBOUND (Off:0 Def:1),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,120,5,8,1,5:38 AM,4:13,,,Burras 3 Second Violation Turnover (P1.T6),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,121,8,0,1,5:38 AM,4:13,,,SUB: Stiles FOR Young,,,5,100344,Carolyn Young,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,122,6,1,1,5:39 AM,4:04,,,Burras P.FOUL (P1.PN),,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,123,8,0,1,5:39 AM,4:04,,,SUB: Crawley FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,124,8,0,1,5:39 AM,4:04,,,SUB: Folkl FOR Burras,,,5,100429,Alisa Burras,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,125,8,0,1,5:39 AM,4:04,,,SUB: Witherspoon FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,126,3,11,1,5:39 AM,4:04,Riley Free Throw 1 of 2 (5 PTS),,,32 - 22,-10,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,127,3,12,1,5:39 AM,4:04,Riley Free Throw 2 of 2 (6 PTS),,,32 - 23,-9,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,128,9,4,1,5:40 AM,3:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,130,2,1,1,5:42 AM,3:38,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,131,4,0,1,5:42 AM,3:36,Brondello REBOUND (Off:1 Def:1),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,132,5,1,1,5:42 AM,3:19,Rasmussen Bad Pass Turnover (P1.T4),,Bevilaqua STEAL (2 STL),,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,133,1,1,1,5:43 AM,3:12,,,Witherspoon  3PT Jump Shot (15 PTS) (Bevilaqua 2 AST),35 - 23,-12,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,134,1,1,1,5:43 AM,2:55,Brondello 14' Jump Shot (8 PTS) (Black 1 AST),,,35 - 25,-10,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,135,6,1,1,5:43 AM,2:45,Riley P.FOUL (P1.PN),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,136,8,0,1,5:43 AM,2:45,SUB: Sam FOR Reid,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,137,8,0,1,5:43 AM,2:45,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,138,5,1,1,5:44 AM,2:40,Rasmussen STEAL (1 STL),,Crawley Bad Pass Turnover (P1.T7),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,139,2,1,1,5:44 AM,2:30,MISS Brondello  3PT Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,140,4,0,1,5:44 AM,2:28,,,Crawley REBOUND (Off:1 Def:2),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,141,2,1,1,5:44 AM,2:15,,,MISS Stiles 11' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,142,4,0,1,5:44 AM,2:13,Sam REBOUND (Off:0 Def:1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,143,1,1,1,5:44 AM,1:57,Sam  3PT Jump Shot (5 PTS),,,35 - 28,-7,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,144,2,1,1,5:44 AM,1:41,,,MISS Crawley 12' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,145,4,0,1,5:45 AM,1:39,Black REBOUND (Off:0 Def:1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,146,2,1,1,5:45 AM,1:19,MISS Sam 9' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,147,4,0,1,5:45 AM,1:17,,,Folkl REBOUND (Off:0 Def:6),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,148,9,2,1,5:45 AM,1:16,,,Fire Timeout: Short (Reg.0 Short 1),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,149,10,0,1,5:46 AM,1:16,Jump Ball Riley vs. Folkl: Tip to Brondello,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0
+1020100095,150,5,2,1,5:46 AM,1:16,Riley STEAL (1 STL),,Folkl Lost Ball Turnover (P1.T8),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,151,1,46,1,5:46 AM,1:11,Brondello 9' Running Jump Shot (10 PTS),,,35 - 30,-5,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,152,6,2,1,5:46 AM,1:11,,,Stiles S.FOUL (P2.PN),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,153,8,0,1,5:47 AM,1:11,,,SUB: Thomas FOR Stiles,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,154,3,10,1,5:47 AM,1:11,MISS Brondello Free Throw 1 of 1,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,155,4,0,1,5:47 AM,1:09,Black REBOUND (Off:1 Def:1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,156,2,5,1,5:47 AM,1:04,MISS Riley 3' Layup,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,157,4,0,1,5:47 AM,1:02,,,Folkl REBOUND (Off:0 Def:7),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,158,1,5,1,5:47 AM,0:58,,,Crawley  Layup (6 PTS) (Jackson 1 AST),37 - 30,-7,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,159,6,2,1,5:47 AM,0:42,,,Folkl S.FOUL (P2.PN),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,160,3,11,1,5:48 AM,0:42,Riley Free Throw 1 of 2 (7 PTS),,,37 - 31,-6,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,161,3,12,1,5:48 AM,0:42,Riley Free Throw 2 of 2 (8 PTS),,,37 - 32,-5,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,162,2,1,1,5:48 AM,0:26,,,MISS Witherspoon 13' Jump Shot,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,163,4,0,1,5:48 AM,0:24,,,Crawley REBOUND (Off:2 Def:2),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,164,6,2,1,5:48 AM,0:23,Rasmussen S.FOUL (P1.PN),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,165,3,11,1,5:49 AM,0:23,,,Crawley Free Throw 1 of 2 (7 PTS),38 - 32,-6,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,166,3,12,1,5:49 AM,0:23,,,MISS Crawley Free Throw 2 of 2,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,167,4,0,1,5:49 AM,0:22,Riley REBOUND (Off:0 Def:1),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,168,2,1,1,5:49 AM,0:03,MISS Sam  3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,169,4,0,1,5:49 AM,0:01,,,Crawley REBOUND (Off:2 Def:3),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,170,13,0,1,5:50 AM,0:00,,End of 1st Half (5:50 AM EST),,38 - 32,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,172,12,0,2,6:05 AM,20:00,,Start of 2nd Half (6:05 AM EST),,38 - 32,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,173,10,0,2,6:05 AM,20:00,Jump Ball Baranova vs. Crawley: Tip to Bevilaqua,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020100095,174,2,1,2,6:06 AM,19:43,,,MISS Crawley 9' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,175,4,0,2,6:06 AM,19:41,Baranova REBOUND (Off:0 Def:1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,176,2,1,2,6:06 AM,19:27,MISS Baranova 8' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,177,4,0,2,6:06 AM,19:25,,,Bevilaqua REBOUND (Off:0 Def:2),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,178,2,1,2,6:06 AM,19:16,,,MISS Folkl 15' Jump Shot,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,179,4,0,2,6:06 AM,19:14,Black REBOUND (Off:1 Def:2),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,180,2,1,2,6:06 AM,19:02,MISS Black  3PT Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,181,10,0,2,6:06 AM,18:58,Jump Ball Baranova vs. Bevilaqua: Tip to Witherspoon,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0
+1020100095,182,4,0,2,6:06 AM,18:58,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,183,5,1,2,6:07 AM,18:49,Baranova STEAL (2 STL),,Witherspoon Bad Pass Turnover (P3.T9),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,184,2,1,2,6:07 AM,18:41,MISS Brondello 14' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,185,4,0,2,6:07 AM,18:39,,,Folkl REBOUND (Off:0 Def:8),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,186,6,4,2,6:08 AM,18:12,,,Witherspoon OFF.Foul (P1),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,187,5,5,2,6:08 AM,18:12,,,Witherspoon Foul Turnover (P4.T10),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,188,2,1,2,6:08 AM,17:42,MISS Sam 14' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,189,4,0,2,6:09 AM,17:40,,,Bevilaqua REBOUND (Off:0 Def:3),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,190,5,1,2,6:09 AM,17:32,Black STEAL (1 STL),,Bevilaqua Bad Pass Turnover (P2.T11),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,191,1,42,2,6:09 AM,17:18,Baranova  Driving Layup (7 PTS),,,38 - 34,-4,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,192,6,2,2,6:09 AM,17:18,,,Crawley S.FOUL (P2.T1),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,193,3,10,2,6:09 AM,17:18,Baranova Free Throw 1 of 1 (8 PTS),,,38 - 35,-3,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,194,2,1,2,6:10 AM,17:08,,,MISS Stiles  3PT Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,195,4,0,2,6:10 AM,17:06,Brondello REBOUND (Off:1 Def:2),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,196,2,1,2,6:10 AM,17:01,MISS Black 17' Jump Shot,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,197,4,0,2,6:10 AM,16:59,,,Crawley REBOUND (Off:2 Def:4),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,198,6,1,2,6:10 AM,16:52,Black P.FOUL (P2.T1),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,199,1,42,2,6:10 AM,16:41,,,Folkl  Driving Layup (2 PTS),40 - 35,-5,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,200,6,2,2,6:10 AM,16:41,Rasmussen S.FOUL (P2.T2),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,201,3,10,2,6:11 AM,16:41,,,Folkl Free Throw 1 of 1 (3 PTS),41 - 35,-6,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,202,6,2,2,6:11 AM,16:30,,,Bevilaqua S.FOUL (P2.T2),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,203,3,11,2,6:11 AM,16:30,Brondello Free Throw 1 of 2 (11 PTS),,,41 - 36,-5,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,204,3,12,2,6:12 AM,16:30,Brondello Free Throw 2 of 2 (12 PTS),,,41 - 37,-4,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,205,2,1,2,6:12 AM,16:02,,,MISS Crawley 10' Jump Shot,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,206,4,0,2,6:12 AM,16:00,,,Witherspoon REBOUND (Off:1 Def:0),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,207,2,1,2,6:13 AM,15:57,,,MISS Witherspoon  3PT Jump Shot,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,208,4,0,2,6:13 AM,15:55,,,Stiles REBOUND (Off:1 Def:0),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,209,1,1,2,6:13 AM,15:42,,,Witherspoon  3PT Jump Shot (18 PTS) (Stiles 1 AST),44 - 37,-7,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,210,2,3,2,6:13 AM,15:11,MISS Baranova 7' Hook Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,211,4,0,2,6:13 AM,15:10,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,212,9,4,2,6:13 AM,15:10,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,214,8,0,2,6:16 AM,15:10,SUB: Riley FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,215,2,1,2,6:16 AM,15:07,MISS Baranova 5' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,216,4,0,2,6:16 AM,15:05,Riley REBOUND (Off:1 Def:1),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,217,1,1,2,6:16 AM,15:01,Riley 5' Jump Shot (10 PTS),,,44 - 39,-5,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,218,1,1,2,6:16 AM,14:46,,,Folkl 6' Jump Shot (5 PTS),46 - 39,-7,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,219,1,1,2,6:17 AM,14:29,Brondello 14' Jump Shot (14 PTS) (Baranova 1 AST),,,46 - 41,-5,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,220,1,1,2,6:17 AM,14:12,,,Stiles 11' Jump Shot (6 PTS),48 - 41,-7,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,221,2,1,2,6:17 AM,14:03,MISS Brondello 12' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,222,4,0,2,6:17 AM,14:01,,,Stiles REBOUND (Off:1 Def:1),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,223,5,2,2,6:17 AM,13:56,Sam STEAL (1 STL),,Stiles Lost Ball Turnover (P1.T12),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,224,2,1,2,6:17 AM,13:46,MISS Brondello  3PT Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,225,4,0,2,6:17 AM,13:44,,,Crawley REBOUND (Off:2 Def:5),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,226,6,1,2,6:17 AM,13:44,Riley P.FOUL (P2.T3),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,227,8,0,2,6:18 AM,13:44,,,SUB: Jackson FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,228,8,0,2,6:18 AM,13:44,,,SUB: Thomas FOR Stiles,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,229,2,1,2,6:18 AM,13:31,,,MISS Witherspoon  3PT Jump Shot,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,230,4,0,2,6:18 AM,13:29,Black REBOUND (Off:1 Def:3),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,231,1,56,2,6:18 AM,13:21,Baranova 5' Running Hook Shot (10 PTS) (Black 2 AST),,,48 - 43,-5,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,232,5,2,2,6:18 AM,13:03,Baranova STEAL (3 STL),,Crawley Lost Ball Turnover (P2.T13),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,233,1,1,2,6:19 AM,12:53,Black 15' Jump Shot (2 PTS) (Baranova 2 AST),,,48 - 45,-3,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,234,5,1,2,6:19 AM,12:24,,,Jackson Bad Pass Turnover (P2.T14),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,235,8,0,2,6:19 AM,12:24,,,SUB: Walker FOR Crawley,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,236,2,1,2,6:20 AM,12:00,MISS Sam 15' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,237,4,0,2,6:20 AM,11:58,Baranova REBOUND (Off:1 Def:1),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,238,2,1,2,6:20 AM,11:55,MISS Baranova 5' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,239,4,0,2,6:20 AM,11:53,Black REBOUND (Off:2 Def:3),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,240,6,1,2,6:20 AM,11:50,,,Jackson P.FOUL (P1.T3),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,241,9,4,2,6:20 AM,11:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,243,8,0,2,6:23 AM,11:50,,,SUB: Stiles FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,244,8,0,2,6:23 AM,11:50,SUB: Reid FOR Sam,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,245,2,3,2,6:23 AM,11:37,MISS Riley 6' Hook Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,246,4,0,2,6:23 AM,11:35,,,Walker REBOUND (Off:1 Def:1),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,247,5,2,2,6:24 AM,11:14,Black STEAL (2 STL),,Walker Lost Ball Turnover (P2.T15),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,248,1,3,2,6:24 AM,10:50,Baranova 3' Hook Shot (12 PTS) (Riley 1 AST),,,48 - 47,-1,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,249,1,1,2,6:24 AM,10:23,,,Stiles  3PT Jump Shot (9 PTS) (Jackson 2 AST),51 - 47,-4,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,250,6,1,2,6:25 AM,10:08,,,Jackson P.FOUL (P2.T4),,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,251,8,0,2,6:25 AM,10:08,SUB: Ford FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,252,3,11,2,6:25 AM,10:08,Black Free Throw 1 of 2 (3 PTS),,,51 - 48,-3,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,253,3,12,2,6:25 AM,10:08,Black Free Throw 2 of 2 (4 PTS),,,51 - 49,-2,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,254,6,4,2,6:26 AM,10:00,,,Stiles OFF.Foul (P3),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,255,5,5,2,6:26 AM,10:00,,,Stiles Foul Turnover (P2.T16),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,256,2,41,2,6:26 AM,9:44,MISS Reid  Running Layup,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,257,4,0,2,6:26 AM,9:40,,,Walker REBOUND (Off:1 Def:2),,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,258,6,1,2,6:26 AM,9:32,Reid P.FOUL (P2.T4),,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,259,5,13,2,6:27 AM,9:12,,,Fire Turnover: Backcourt (T#17),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,260,8,0,2,6:27 AM,9:12,,,SUB: Bevilaqua FOR Jackson,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,261,8,0,2,6:28 AM,8:46,SUB: Sam FOR Reid,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,262,2,1,2,6:28 AM,8:41,MISS Riley 7' Jump Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,263,4,0,2,6:28 AM,8:41,,,Folkl REBOUND (Off:0 Def:9),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,264,6,1,2,6:29 AM,8:41,Riley P.FOUL (P3.PN),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,265,5,2,2,6:29 AM,8:14,Ford STEAL (1 STL),,Stiles Lost Ball Turnover (P3.T18),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,266,2,1,2,6:29 AM,8:04,MISS Riley 8' Jump Shot,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,267,4,0,2,6:29 AM,8:02,Ford REBOUND (Off:1 Def:0),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,268,2,1,2,6:29 AM,7:59,MISS Ford 5' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,269,4,0,2,6:29 AM,7:57,,,Folkl REBOUND (Off:0 Def:10),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,270,6,2,2,6:29 AM,7:52,Baranova S.FOUL (P2.PN),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,272,9,4,2,6:30 AM,7:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,273,8,0,2,6:32 AM,7:52,SUB: Brumfield FOR Baranova,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,274,8,0,2,6:32 AM,7:52,SUB: Rasmussen FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,275,3,11,2,6:32 AM,7:52,,,Walker Free Throw 1 of 2 (5 PTS),52 - 49,-3,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,276,8,0,2,6:32 AM,7:52,,,SUB: Witherspoon FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,277,3,12,2,6:32 AM,7:52,,,Walker Free Throw 2 of 2 (6 PTS),53 - 49,-4,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,278,1,3,2,6:33 AM,7:35,Riley 3' Hook Shot (12 PTS) (Sam 1 AST),,,53 - 51,-2,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,279,1,1,2,6:33 AM,7:15,,,Folkl 9' Jump Shot (7 PTS) (Walker 1 AST),55 - 51,-4,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,280,2,1,2,6:33 AM,6:53,MISS Ford 15' Jump Shot,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,281,4,0,2,6:34 AM,6:51,Rasmussen REBOUND (Off:2 Def:1),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,282,1,5,2,6:34 AM,6:46,Riley  Layup (14 PTS) (Rasmussen 1 AST),,,55 - 53,-2,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,283,2,1,2,6:34 AM,6:34,,,MISS Folkl 16' Jump Shot,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,284,4,0,2,6:34 AM,6:32,Sam REBOUND (Off:0 Def:2),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,285,1,46,2,6:34 AM,6:18,Sam 6' Running Jump Shot (7 PTS),,,55 - 55,TIE,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,286,9,2,2,6:34 AM,6:10,,,Fire Timeout: Short (Reg.0 Short 2),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,287,8,0,2,6:35 AM,6:10,SUB: Brondello FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,288,2,1,2,6:35 AM,5:57,,,MISS Witherspoon 24' 3PT Jump Shot,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,289,4,0,2,6:35 AM,5:55,,,Stiles REBOUND (Off:2 Def:1),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,290,1,42,2,6:36 AM,5:53,,,Stiles  Driving Layup (11 PTS),57 - 55,-2,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,291,6,2,2,6:36 AM,5:53,Rasmussen S.FOUL (P3.PN),,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,292,8,0,2,6:36 AM,5:53,,,SUB: Crawley FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,293,3,10,2,6:36 AM,5:53,,,Stiles Free Throw 1 of 1 (12 PTS),58 - 55,-3,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,294,2,1,2,6:36 AM,5:38,MISS Sam 5' Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,295,4,0,2,6:36 AM,5:36,,,Crawley REBOUND (Off:2 Def:6),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,296,5,6,2,6:36 AM,5:34,,,Bevilaqua Double Dribble Turnover (P3.T19),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,297,2,1,2,6:37 AM,5:14,MISS Sam  3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,298,4,0,2,6:37 AM,5:12,,,Witherspoon REBOUND (Off:1 Def:1),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,299,6,1,2,6:37 AM,5:08,Sam P.FOUL (P1.PN),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,300,3,11,2,6:37 AM,5:08,,,Witherspoon Free Throw 1 of 2 (19 PTS),59 - 55,-4,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,301,8,0,2,6:38 AM,5:08,SUB: Black FOR Brumfield,,,,,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,302,8,0,2,6:38 AM,5:08,SUB: Baranova FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,303,3,12,2,6:38 AM,5:08,,,Witherspoon Free Throw 2 of 2 (20 PTS),60 - 55,-5,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,304,6,2,2,6:38 AM,4:56,,,Bevilaqua S.FOUL (P3.PN),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,305,3,11,2,6:38 AM,4:56,Brondello Free Throw 1 of 2 (15 PTS),,,60 - 56,-4,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,306,3,12,2,6:39 AM,4:56,Brondello Free Throw 2 of 2 (16 PTS),,,60 - 57,-3,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,307,5,1,2,6:39 AM,4:39,,,Bevilaqua Bad Pass Turnover (P4.T20),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,308,2,1,2,6:40 AM,4:18,MISS Baranova  3PT Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,309,4,0,2,6:40 AM,4:16,Black REBOUND (Off:3 Def:3),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,310,5,1,2,6:40 AM,4:11,Riley Bad Pass Turnover (P2.T5),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,311,6,1,2,6:40 AM,4:01,Brondello P.FOUL (P1.PN),,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,312,3,11,2,6:40 AM,4:01,,,Stiles Free Throw 1 of 2 (13 PTS),61 - 57,-4,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,313,3,12,2,6:40 AM,4:01,,,Stiles Free Throw 2 of 2 (14 PTS),62 - 57,-5,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,314,2,46,2,6:41 AM,3:48,MISS Sam 10' Running Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,315,4,0,2,6:41 AM,3:47,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,316,6,3,2,6:41 AM,3:47,,,Bevilaqua L.B.FOUL (P4.PN),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,317,9,4,2,6:41 AM,3:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,319,2,1,2,6:44 AM,3:32,MISS Brondello 15' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,320,4,0,2,6:44 AM,3:31,,,Crawley REBOUND (Off:2 Def:7),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,321,10,0,2,6:44 AM,3:31,Jump Ball Black vs. Crawley: Tip to Bevilaqua,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020100095,322,6,14,2,6:45 AM,3:27,Sam FLAGRANT.FOUL.TYPE1 (P2.PN),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,323,3,18,2,6:45 AM,3:27,,,MISS Bevilaqua Free Throw Flagrant 1 of 2,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,324,4,1,2,6:45 AM,3:27,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,325,3,19,2,6:45 AM,3:27,,,MISS Bevilaqua Free Throw Flagrant 2 of 2,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,326,4,1,2,6:45 AM,3:27,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,327,2,1,2,6:46 AM,3:03,,,MISS Stiles 14' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,328,4,0,2,6:46 AM,3:01,Sam REBOUND (Off:0 Def:3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,329,1,1,2,6:46 AM,2:51,Brondello 13' Jump Shot (18 PTS),,,62 - 59,-3,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,330,6,2,2,6:47 AM,2:34,Baranova S.FOUL (P3.PN),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,331,3,11,2,6:47 AM,2:34,,,Stiles Free Throw 1 of 2 (15 PTS),63 - 59,-4,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,332,3,12,2,6:47 AM,2:34,,,Stiles Free Throw 2 of 2 (16 PTS),64 - 59,-5,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,333,9,2,2,6:47 AM,2:30,SOL Timeout: Short (Full 1 Short 2),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,335,7,1,2,6:48 AM,2:30,,,Fire Violation: Delay of game Violation,,,3,1611661327,,,,,,0,0,,,,,,1,0,,,,,,0
+1020100095,336,7,1,2,6:48 AM,2:30,SOL Violation: Delay of game Violation,,,,,2,1611661326,,,,,,0,0,,,,,,1,0,,,,,,0
+1020100095,337,2,1,2,6:48 AM,2:24,MISS Brondello  3PT Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,338,4,0,2,6:49 AM,2:22,Sam REBOUND (Off:1 Def:3),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,339,1,1,2,6:49 AM,2:17,Sam 4' Jump Shot (9 PTS),,,64 - 61,-3,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,340,6,1,2,6:49 AM,2:10,Baranova P.FOUL (P4.PN),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,341,3,11,2,6:49 AM,2:10,,,Crawley Free Throw 1 of 2 (8 PTS),65 - 61,-4,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,342,3,12,2,6:49 AM,2:10,,,Crawley Free Throw 2 of 2 (9 PTS),66 - 61,-5,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,343,5,2,2,6:50 AM,1:56,Sam Lost Ball Turnover (P3.T6),,Stiles STEAL (1 STL),,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,344,5,4,2,6:50 AM,1:49,,,Witherspoon Traveling Turnover (P5.T21),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,345,6,2,2,6:50 AM,1:34,,,Witherspoon S.FOUL (P2.PN),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,346,3,11,2,6:50 AM,1:34,Brondello Free Throw 1 of 2 (19 PTS),,,66 - 62,-4,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,347,3,12,2,6:51 AM,1:34,Brondello Free Throw 2 of 2 (20 PTS),,,66 - 63,-3,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,348,1,1,2,6:51 AM,1:07,,,Witherspoon  3PT Jump Shot (23 PTS) (Stiles 2 AST),69 - 63,-6,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,349,9,2,2,6:52 AM,1:00,SOL Timeout: Short (Full 1 Short 3),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,351,8,0,2,6:52 AM,1:00,,,SUB: Walker FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,352,8,0,2,6:52 AM,1:00,,,SUB: Jackson FOR Folkl,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,353,8,0,2,6:52 AM,1:00,,,SUB: Thomas FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,354,2,1,2,6:53 AM,0:48,MISS Baranova 7' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,355,4,0,2,6:53 AM,0:48,Black REBOUND (Off:4 Def:3),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,356,1,3,2,6:53 AM,0:47,Black 4' Hook Shot (6 PTS),,,69 - 65,-4,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,357,6,2,2,6:53 AM,0:47,,,Stiles S.FOUL (P4.PN),,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,358,8,0,2,6:53 AM,0:47,,,SUB: Witherspoon FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,359,8,0,2,6:53 AM,0:47,,,SUB: Bevilaqua FOR Jackson,,,5,100496,Tamicha Jackson,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,360,8,0,2,6:53 AM,0:47,,,SUB: Folkl FOR Walker,,,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,361,3,10,2,6:53 AM,0:47,MISS Black Free Throw 1 of 1,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,362,4,0,2,6:53 AM,0:45,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,363,6,1,2,6:54 AM,0:37,,,Folkl P.FOUL (P3.PN),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,364,3,11,2,6:54 AM,0:37,Baranova Free Throw 1 of 2 (13 PTS),,,69 - 66,-3,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,365,8,0,2,6:54 AM,0:37,SUB: Ford FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,366,3,12,2,6:54 AM,0:37,Baranova Free Throw 2 of 2 (14 PTS),,,69 - 67,-2,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,367,2,42,2,6:55 AM,0:09,,,MISS Bevilaqua  Driving Layup,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,368,4,0,2,6:55 AM,0:07,Baranova REBOUND (Off:1 Def:2),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,369,9,1,2,6:55 AM,0:06,SOL Timeout: Regular (Full 2 Short 3),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,371,8,0,2,6:58 AM,0:06,,,SUB: Thomas FOR Crawley,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,372,8,0,2,6:58 AM,0:06,SUB: Brondello FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,373,1,1,2,6:58 AM,0:00,Black 14' Jump Shot (8 PTS) (Sam 2 AST),,,69 - 69,TIE,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,375,13,0,2,6:59 AM,0:00,,End of 2nd Half (6:59 AM EST),,69 - 69,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,377,12,0,3,7:01 AM,5:00,,Start of 1st OT (7:01 AM EST),,69 - 69,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,378,10,0,3,7:01 AM,5:00,Jump Ball Riley vs. Crawley: Tip to Bevilaqua,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0
+1020100095,379,2,1,3,7:01 AM,4:30,,,MISS Folkl 10' Jump Shot,,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,380,4,0,3,7:01 AM,4:28,Sam REBOUND (Off:1 Def:4),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,381,2,1,3,7:02 AM,4:00,MISS Baranova 7' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,382,4,0,3,7:02 AM,3:58,,,Folkl REBOUND (Off:0 Def:11),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,383,2,1,3,7:02 AM,3:45,,,MISS Stiles 10' Jump Shot,,,5,100676,Jackie Stiles,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,384,4,0,3,7:02 AM,3:43,Baranova REBOUND (Off:1 Def:3),,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,385,2,1,3,7:03 AM,3:24,MISS Sam  3PT Jump Shot,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,386,4,0,3,7:03 AM,3:23,,,Fire Rebound,,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,387,1,42,3,7:03 AM,3:09,,,Witherspoon  Driving Layup (25 PTS),71 - 69,-2,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,388,6,2,3,7:03 AM,3:09,Sam S.FOUL (P3.T1),,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,389,3,10,3,7:11 AM,3:09,,,Witherspoon Free Throw 1 of 1 (26 PTS),72 - 69,-3,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,390,2,1,3,7:11 AM,2:56,MISS Brondello 18' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,391,4,0,3,7:11 AM,2:54,,,Folkl REBOUND (Off:0 Def:12),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,392,5,2,3,7:12 AM,2:43,Brondello STEAL (1 STL),,Crawley Lost Ball Turnover (P3.T22),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,393,6,2,3,7:12 AM,2:38,,,Witherspoon S.FOUL (P3.T1),,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,394,3,11,3,7:12 AM,2:38,Sam Free Throw 1 of 2 (10 PTS),,,72 - 70,-2,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,395,3,12,3,7:12 AM,2:38,MISS Sam Free Throw 2 of 2,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,396,4,0,3,7:13 AM,2:37,,,Crawley REBOUND (Off:2 Def:8),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,397,2,1,3,7:13 AM,2:07,,,MISS Witherspoon 16' Jump Shot,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,398,4,0,3,7:13 AM,2:07,,,Crawley REBOUND (Off:3 Def:8),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,399,5,11,3,7:13 AM,2:07,,,Fire Turnover: Shot Clock (T#23),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,400,6,4,3,7:13 AM,1:48,Riley OFF.Foul (P4),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,401,5,5,3,7:13 AM,1:48,Riley Foul Turnover (P3.T7),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,402,2,42,3,7:13 AM,1:24,,,MISS Witherspoon  Driving Layup,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,403,4,0,3,7:14 AM,1:22,,,Crawley REBOUND (Off:4 Def:8),,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,404,2,1,3,7:14 AM,0:58,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,405,4,0,3,7:14 AM,0:56,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,406,2,1,3,7:14 AM,0:43,MISS Brondello 17' Jump Shot,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,407,4,0,3,7:14 AM,0:41,,,Folkl REBOUND (Off:0 Def:13),,,5,100400,Kristin Folkl,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,408,9,2,3,7:14 AM,0:34,,,Fire Timeout: Short (Reg.0 Short 3),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,409,8,0,3,7:14 AM,0:34,,,SUB: Nygaard FOR Crawley,,,5,100529,Sylvia Crawley,1611661327.0,Portland,Fire,POR,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,410,8,0,3,7:15 AM,0:34,SUB: Ford FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,411,2,1,3,7:15 AM,0:26,,,MISS Nygaard  3PT Jump Shot,,,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,412,4,0,3,7:15 AM,0:26,,,Bevilaqua REBOUND (Off:1 Def:3),,,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,413,6,1,3,7:15 AM,0:23,Ford P.FOUL (P3.T2),,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,414,9,1,3,7:16 AM,0:13,,,Fire Timeout: Regular (Reg.1 Short 3),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,415,6,1,3,7:16 AM,0:13,Black P.FOUL (P3.PN),,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,1,0,,,,,,0
+1020100095,416,3,11,3,7:17 AM,0:13,,,Bevilaqua Free Throw 1 of 2 (4 PTS),73 - 70,-3,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,417,3,12,3,7:17 AM,0:13,,,Bevilaqua Free Throw 2 of 2 (5 PTS),74 - 70,-4,5,100284,Tully Bevilaqua,1611661327.0,Portland,Fire,POR,0,0,,,,,,0,0,,,,,,0
+1020100095,420,9,1,3,7:17 AM,0:12,SOL Timeout: Regular (Full 3 Short 3),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,418,8,0,3,7:17 AM,0:12,SUB: Reid FOR Riley,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,419,8,0,3,7:17 AM,0:12,,,SUB: Thomas FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,441,9,2,3,7:18 AM,0:07,,,Fire Timeout: Short (Reg.1 Short 4),,,3,1611661327,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,421,8,0,3,7:18 AM,0:07,SUB: Brumfield FOR Black,,,,,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,422,8,0,3,7:18 AM,0:07,SUB: Brondello FOR Ford,,,,,4,100107,Kisha Ford,1611661326.0,Miami,Sol,MIA,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,423,8,0,3,7:18 AM,0:07,SUB: Riley FOR Reid,,,,,4,100182,Tracy Reid,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,424,2,42,3,7:18 AM,0:06,MISS Sam  Driving Layup,,,,,4,100416,Sheri Sam,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,425,4,0,3,7:18 AM,0:06,Riley REBOUND (Off:2 Def:1),,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,426,6,2,3,7:18 AM,0:05,,,Thomas S.FOUL (P1.T2),,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,1,0,,,,,,0
+1020100095,427,3,11,3,7:19 AM,0:05,Riley Free Throw 1 of 2 (15 PTS),,,74 - 71,-3,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,428,3,12,3,7:19 AM,0:05,Riley Free Throw 2 of 2 (16 PTS),,,74 - 72,-2,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,429,8,0,3,7:19 AM,0:05,,,SUB: Witherspoon FOR Thomas,,,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,430,8,0,3,7:19 AM,0:05,SUB: Black FOR Brondello,,,,,4,100247,Sandy Brondello,1611661326.0,Miami,Sol,MIA,4,100359,Debbie Black,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,432,8,0,3,7:20 AM,0:05,SUB: Rasmussen FOR Riley,,,,,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,433,5,1,3,7:20 AM,0:04,Brumfield STEAL (1 STL),,Nygaard Bad Pass Turnover (P1.T24),,,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,4,100481,Marla Brumfield,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,435,9,1,3,7:20 AM,0:03,SOL Timeout: Regular (Full 4 Short 3),,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,434,8,0,3,7:20 AM,0:03,SUB: Riley FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661326.0,Miami,Sol,MIA,4,100656,Ruth Riley,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0
+1020100095,436,8,0,3,7:20 AM,0:03,,,SUB: Thomas FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661327.0,Portland,Fire,POR,5,100532,Stacey Thomas,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,437,8,0,3,7:20 AM,0:03,,,SUB: Walker FOR Nygaard,,,5,100215,Vanessa Nygaard,1611661327.0,Portland,Fire,POR,5,100533,DeMya Walker,1611661327.0,Portland,Fire,POR,0,0,,,,,,0
+1020100095,438,2,1,3,7:21 AM,0:00,MISS Baranova 11' Jump Shot,,,,,4,100043,Elena Baranova,1611661326.0,Miami,Sol,MIA,0,0,,,,,,0,0,,,,,,0
+1020100095,439,4,0,3,7:21 AM,0:00,SOL Rebound,,,,,2,1611661326,,,,,,0,0,,,,,,0,0,,,,,,0
+1020100095,440,13,0,3,7:22 AM,0:00,,End of 1st OT (7:22 AM EST),,74 - 72,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

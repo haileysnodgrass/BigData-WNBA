@@ -1,0 +1,398 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1029800080,0,12,0,1,8:04 PM,20:00,,Start of 1st Half (8:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,1,10,0,1,8:04 PM,20:00,Jump Ball Gillom vs. Hampton: Tip to Brogan,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0
+1029800080,2,2,5,1,8:05 PM,19:54,MISS Timms  Layup,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,3,4,0,1,8:05 PM,19:53,,,Johnson REBOUND (Off:0 Def:1),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,4,2,1,1,8:05 PM,19:42,,,MISS Lobo 16' Jump Shot,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,5,4,0,1,8:05 PM,19:41,Pettis REBOUND (Off:0 Def:1),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,6,5,2,1,8:05 PM,19:21,Brogan Lost Ball Turnover (P1.T1),,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,7,2,5,1,8:06 PM,19:08,,,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,8,4,0,1,8:06 PM,19:06,Gillom REBOUND (Off:0 Def:1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,9,1,1,1,8:06 PM,18:48,Pettis 16' Jump Shot (2 PTS) (Timms 1 AST),,,0 - 2,2,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,10,1,5,1,8:06 PM,18:26,,,Hampton  Layup (2 PTS) (Johnson 1 AST),2 - 2,TIE,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,11,2,5,1,8:07 PM,18:15,MISS Brogan  Layup,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,12,4,0,1,8:07 PM,18:10,,,Lobo REBOUND (Off:0 Def:1),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,13,1,6,1,8:07 PM,18:02,,,Hampton  Driving Layup (4 PTS),4 - 2,-2,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,14,1,1,1,8:07 PM,17:46,Gillom 12' Jump Shot (2 PTS) (Pettis 1 AST),,,4 - 4,TIE,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,15,2,1,1,8:07 PM,17:42,,,MISS Johnson 11' Jump Shot,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,16,4,0,1,8:08 PM,17:40,Webb REBOUND (Off:0 Def:1),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,17,2,1,1,8:08 PM,17:10,MISS Gillom 12' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,18,4,0,1,8:08 PM,17:08,,,Weatherspoon REBOUND (Off:0 Def:1),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,19,1,1,1,8:08 PM,17:03,,,Witherspoon 11' Jump Shot (2 PTS) (Weatherspoon 1 AST),6 - 4,-2,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,20,1,5,1,8:08 PM,16:53,Brogan  Layup (2 PTS) (Timms 2 AST),,,6 - 6,TIE,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,21,2,5,1,8:08 PM,16:38,,,MISS Lobo  Layup,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,22,4,0,1,8:08 PM,16:37,Pettis REBOUND (Off:0 Def:2),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,23,2,1,1,8:08 PM,16:27,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,24,4,0,1,8:08 PM,16:25,,,Lobo REBOUND (Off:0 Def:2),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,25,1,1,1,8:09 PM,16:06,,,Hampton 18' Jump Shot (6 PTS) (Weatherspoon 2 AST),8 - 6,-2,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,26,6,1,1,8:09 PM,15:44,,,Hampton P.FOUL (P1.T1),,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,27,9,4,1,8:09 PM,15:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,29,6,4,1,8:12 PM,15:31,Gillom OFF.Foul (P1),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,30,5,5,1,8:12 PM,15:31,Gillom Foul Turnover (P1.T2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,31,2,1,1,8:12 PM,15:27,,,MISS Johnson 4' Jump Shot,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,32,4,0,1,8:13 PM,15:26,Gillom REBOUND (Off:0 Def:2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,33,6,1,1,8:13 PM,15:25,,,Hampton P.FOUL (P2.T2),,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,34,6,2,1,8:13 PM,15:13,,,Johnson S.FOUL (P1.T3),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,35,3,11,1,8:13 PM,15:13,Timms Free Throw 1 of 2 (1 PTS),,,8 - 7,-1,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,36,3,12,1,8:13 PM,15:13,Timms Free Throw 2 of 2 (2 PTS),,,8 - 8,TIE,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,37,1,1,1,8:14 PM,14:48,,,Hampton 13' Jump Shot (8 PTS),10 - 8,-2,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,38,6,1,1,8:14 PM,14:32,,,Hampton P.FOUL (P3.T4),,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,39,8,0,1,8:14 PM,14:32,,,SUB: Wicks FOR Hampton,,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,40,2,1,1,8:15 PM,14:27,MISS Webb 10' Jump Shot,,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,41,4,0,1,8:15 PM,14:26,,,Lobo REBOUND (Off:0 Def:3),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,42,5,4,1,8:15 PM,14:20,,,Witherspoon Traveling Turnover (P1.T1),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,43,2,1,1,8:15 PM,14:07,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,44,4,0,1,8:15 PM,14:06,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,45,2,1,1,8:16 PM,14:04,MISS Timms  3PT Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,46,4,0,1,8:16 PM,13:56,,,Witherspoon REBOUND (Off:0 Def:1),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,47,5,2,1,8:16 PM,13:43,Timms STEAL (1 STL),,Lobo Lost Ball Turnover (P1.T2),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,48,6,2,1,8:16 PM,13:37,,,Wicks S.FOUL (P1.PN),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,49,3,11,1,8:16 PM,13:37,Webb Free Throw 1 of 2 (1 PTS),,,10 - 9,-1,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,50,8,0,1,8:17 PM,13:37,SUB: Askamp FOR Brogan,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,51,3,12,1,8:17 PM,13:37,Webb Free Throw 2 of 2 (2 PTS),,,10 - 10,TIE,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,52,2,1,1,8:17 PM,13:25,,,MISS Witherspoon  3PT Jump Shot,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,53,4,0,1,8:17 PM,13:24,Webb REBOUND (Off:0 Def:2),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,54,2,1,1,8:18 PM,13:05,MISS Gillom 14' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,55,4,0,1,8:18 PM,13:04,,,Johnson REBOUND (Off:0 Def:2),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,56,1,1,1,8:18 PM,12:37,,,Weatherspoon  3PT Jump Shot (3 PTS),13 - 10,-3,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,57,1,5,1,8:19 PM,12:18,Askamp  Layup (2 PTS) (Webb 1 AST),,,13 - 12,-1,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,58,2,5,1,8:19 PM,12:14,,,MISS Weatherspoon  Layup,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,59,4,0,1,8:19 PM,12:06,Timms REBOUND (Off:0 Def:1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,60,5,2,1,8:19 PM,12:02,Timms Lost Ball Turnover (P1.T3),,Weatherspoon STEAL (1 STL),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,61,1,1,1,8:19 PM,11:46,,,Lobo 18' Jump Shot (2 PTS) (Weatherspoon 3 AST),15 - 12,-3,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,62,2,1,1,8:20 PM,11:14,MISS Askamp 12' Jump Shot,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,63,4,0,1,8:20 PM,11:12,Gillom REBOUND (Off:1 Def:2),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,64,6,2,1,8:20 PM,11:11,,,Wicks S.FOUL (P2.PN),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,65,9,4,1,8:20 PM,11:11,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,67,8,0,1,8:23 PM,11:11,,,SUB: Ford FOR Lobo,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,68,8,0,1,8:23 PM,11:11,,,SUB: Cebrian FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,69,8,0,1,8:23 PM,11:11,SUB: Kuklova FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,70,3,11,1,8:23 PM,11:11,Gillom Free Throw 1 of 2 (3 PTS),,,15 - 13,-2,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,71,3,12,1,8:23 PM,11:11,Gillom Free Throw 2 of 2 (4 PTS),,,15 - 14,-1,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,72,2,1,1,8:24 PM,11:11,,,MISS Ford 15' Jump Shot,,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,73,4,0,1,8:24 PM,11:10,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,74,6,3,1,8:24 PM,11:06,,,Cebrian L.B.FOUL (P1.PN),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,75,8,0,1,8:24 PM,11:06,SUB: Brogan FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,76,10,0,1,8:24 PM,10:49,Jump Ball Brogan vs. Wicks: Tip to Timms,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0
+1029800080,77,10,0,1,8:25 PM,10:08,Jump Ball Kuklova vs. Weatherspoon: Tip to Brogan,,,,,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0
+1029800080,78,6,1,1,8:26 PM,9:58,,,Johnson P.FOUL (P2.PN),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,79,3,11,1,8:26 PM,9:58,MISS Askamp Free Throw 1 of 2,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,80,4,0,1,8:26 PM,9:58,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,81,3,12,1,8:26 PM,9:58,MISS Askamp Free Throw 2 of 2,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,82,4,0,1,8:26 PM,9:58,Brogan REBOUND (Off:1 Def:0),,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,83,1,5,1,8:26 PM,9:55,Brogan  Layup (4 PTS),,,15 - 16,1,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,84,1,5,1,8:26 PM,9:45,,,Weatherspoon  Layup (5 PTS),17 - 16,-1,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,85,6,2,1,8:26 PM,9:45,Brogan S.FOUL (P1.T1),,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,86,3,10,1,8:26 PM,9:45,,,Weatherspoon Free Throw 1 of 1 (6 PTS),18 - 16,-2,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,87,1,5,1,8:27 PM,9:30,Brogan  Layup (6 PTS) (Timms 3 AST),,,18 - 18,TIE,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,88,6,4,1,8:27 PM,9:06,,,Weatherspoon OFF.Foul (P1),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,89,5,5,1,8:27 PM,9:06,,,Weatherspoon Foul Turnover (P1.T3),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,90,8,0,1,8:28 PM,9:06,,,SUB: Witherspoon FOR Johnson,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,91,8,0,1,8:28 PM,9:06,SUB: Reed FOR Webb,,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,92,1,1,1,8:28 PM,8:49,Brogan 9' Jump Shot (8 PTS) (Timms 4 AST),,,18 - 20,2,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,93,2,1,1,8:28 PM,8:38,,,MISS Wicks 10' Jump Shot,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,94,4,0,1,8:28 PM,8:36,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,95,5,4,1,8:29 PM,8:30,,,Cebrian Traveling Turnover (P1.T4),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,96,1,1,1,8:29 PM,8:30,Brogan 8' Jump Shot (10 PTS) (Timms 5 AST),,,18 - 22,4,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,97,6,2,1,8:30 PM,7:51,Kuklova S.FOUL (P1.T2),,,,,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,98,9,4,1,8:30 PM,7:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,100,8,0,1,8:32 PM,7:51,,,SUB: Lobo FOR Wicks,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,101,8,0,1,8:32 PM,7:51,SUB: Gillom FOR Askamp,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,102,3,11,1,8:32 PM,7:51,,,MISS Witherspoon Free Throw 1 of 2,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,103,4,0,1,8:32 PM,7:51,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,104,3,12,1,8:33 PM,7:51,,,Witherspoon Free Throw 2 of 2 (3 PTS),19 - 22,3,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,105,1,1,1,8:33 PM,7:33,Timms  3PT Jump Shot (5 PTS) (Gillom 1 AST),,,19 - 25,6,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,106,6,1,1,8:34 PM,7:27,Kuklova P.FOUL (P2.T3),,,,,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,107,8,0,1,8:34 PM,7:21,SUB: Pettis FOR Kuklova,,,,,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,108,2,5,1,8:34 PM,7:19,,,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,110,4,0,1,8:34 PM,7:16,,,Cebrian REBOUND (Off:1 Def:0),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,109,1,5,1,8:34 PM,7:16,,,Cebrian  Layup (2 PTS),21 - 25,4,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,111,2,1,1,8:34 PM,7:08,MISS Reed 13' Jump Shot,,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,113,4,0,1,8:34 PM,6:50,Brogan REBOUND (Off:2 Def:0),,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,112,2,5,1,8:34 PM,6:50,MISS Brogan  Layup,,Lobo BLOCK (1 BLK),,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0
+1029800080,114,4,0,1,8:34 PM,6:48,,,Weatherspoon REBOUND (Off:0 Def:2),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,115,5,1,1,8:35 PM,6:45,Brogan STEAL (1 STL),,Cebrian Bad Pass Turnover (P2.T5),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,116,6,4,1,8:35 PM,6:41,Reed OFF.Foul (P1),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,117,5,5,1,8:35 PM,6:41,Reed Foul Turnover (P1.T4),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,118,9,2,1,8:35 PM,6:41,,,Liberty Timeout: Short (Reg.0 Short 1),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,120,8,0,1,8:36 PM,6:41,,,SUB: Washington FOR Weatherspoon,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,121,8,0,1,8:36 PM,6:41,,,SUB: Johnson FOR Ford,,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,123,1,1,1,8:37 PM,6:24,,,Witherspoon 11' Jump Shot (5 PTS) (Washington 1 AST),23 - 25,2,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,124,1,1,1,8:37 PM,6:15,Pettis 15' Jump Shot (4 PTS) (Timms 6 AST),,,23 - 27,4,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,125,8,0,1,8:37 PM,5:59,SUB: Hagiwara FOR Reed,,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,4,100019,Mikiko Hagiwara,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,126,8,0,1,8:37 PM,5:59,SUB: Harrower FOR Timms,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,127,1,1,1,8:38 PM,5:52,,,Johnson 12' Jump Shot (2 PTS),25 - 27,2,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,128,2,5,1,8:38 PM,5:39,MISS Pettis  Layup,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,129,4,0,1,8:38 PM,5:36,,,Washington REBOUND (Off:0 Def:1),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,130,5,1,1,8:38 PM,5:35,Brogan STEAL (2 STL),,Washington Bad Pass Turnover (P1.T6),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,131,2,1,1,8:38 PM,5:31,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,132,4,0,1,8:38 PM,5:29,,,Lobo REBOUND (Off:0 Def:4),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,133,2,1,1,8:38 PM,5:15,,,MISS Lobo 11' Jump Shot,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,134,4,0,1,8:38 PM,5:13,Pettis REBOUND (Off:0 Def:3),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,135,2,1,1,8:39 PM,4:46,MISS Hagiwara  3PT Jump Shot,,,,,4,100019,Mikiko Hagiwara,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,136,4,0,1,8:39 PM,4:44,Pettis REBOUND (Off:1 Def:3),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,137,2,5,1,8:39 PM,4:43,MISS Pettis  Layup,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,138,4,0,1,8:39 PM,4:42,,,Washington REBOUND (Off:0 Def:2),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,139,1,6,1,8:39 PM,4:36,,,Witherspoon  Driving Layup (7 PTS),27 - 27,TIE,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,140,6,1,1,8:39 PM,4:10,,,Cebrian P.FOUL (P2.PN),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,141,3,11,1,8:40 PM,4:10,Gillom Free Throw 1 of 2 (5 PTS),,,27 - 28,1,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,142,8,0,1,8:40 PM,4:10,SUB: Webb FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,143,3,12,1,8:40 PM,4:10,Gillom Free Throw 2 of 2 (6 PTS),,,27 - 29,2,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,144,1,5,1,8:40 PM,3:57,,,Cebrian  Layup (4 PTS),29 - 29,TIE,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,145,2,1,1,8:41 PM,3:40,MISS Gillom 12' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,146,4,0,1,8:41 PM,3:39,,,Witherspoon REBOUND (Off:0 Def:2),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,147,1,5,1,8:41 PM,3:34,,,Lobo  Layup (4 PTS) (Johnson 2 AST),31 - 29,-2,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,148,5,1,1,8:41 PM,3:24,Hagiwara Bad Pass Turnover (P1.T5),,Witherspoon STEAL (1 STL),,,4,100019,Mikiko Hagiwara,1611661317.0,Phoenix,Mercury,PHO,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,149,6,4,1,8:41 PM,3:06,,,Witherspoon OFF.Foul (P1),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,150,5,5,1,8:41 PM,3:06,,,Witherspoon Foul Turnover (P2.T7),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,151,9,4,1,8:41 PM,3:06,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,154,8,0,1,8:44 PM,3:05,SUB: Stepanova FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,155,8,0,1,8:44 PM,3:05,SUB: Kuklova FOR Hagiwara,,,,,4,100019,Mikiko Hagiwara,1611661317.0,Phoenix,Mercury,PHO,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,156,8,0,1,8:44 PM,3:05,SUB: Timms FOR Harrower,,,,,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,157,5,1,1,8:45 PM,2:46,Webb Bad Pass Turnover (P1.T6),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,158,6,4,1,8:45 PM,2:34,,,Cebrian OFF.Foul (P3),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,159,5,5,1,8:45 PM,2:34,,,Cebrian Foul Turnover (P3.T8),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,160,1,5,1,8:45 PM,2:20,Kuklova  Layup (2 PTS) (Stepanova 1 AST),,,31 - 31,TIE,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,161,6,2,1,8:45 PM,2:09,Webb S.FOUL (P1.T4),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,162,3,11,1,8:46 PM,2:09,,,Witherspoon Free Throw 1 of 2 (8 PTS),32 - 31,-1,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,163,8,0,1,8:46 PM,2:09,,,SUB: Wicks FOR Cebrian,,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,164,8,0,1,8:46 PM,2:09,,,SUB: Weatherspoon FOR Johnson,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,165,3,12,1,8:46 PM,2:09,,,Witherspoon Free Throw 2 of 2 (9 PTS),33 - 31,-2,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,166,5,2,1,8:46 PM,1:56,Kuklova Lost Ball Turnover (P1.T7),,Washington STEAL (1 STL),,,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,167,1,5,1,8:47 PM,1:51,,,Witherspoon  Layup (11 PTS) (Washington 2 AST),35 - 31,-4,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,168,5,2,1,8:47 PM,1:32,Stepanova Lost Ball Turnover (P1.T8),,Washington STEAL (2 STL),,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,169,6,2,1,8:47 PM,1:26,Stepanova S.FOUL (P1.PN),,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,170,3,11,1,8:47 PM,1:26,,,MISS Wicks Free Throw 1 of 2,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,171,4,0,1,8:47 PM,1:26,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,172,8,0,1,8:48 PM,1:26,SUB: Gillom FOR Stepanova,,,,,4,100227,Maria Stepanova,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,173,8,0,1,8:48 PM,1:26,SUB: Pettis FOR Kuklova,,,,,4,100224,Andrea Kuklova,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,174,3,12,1,8:48 PM,1:26,,,Wicks Free Throw 2 of 2 (1 PTS),36 - 31,-5,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,175,5,2,1,8:48 PM,1:07,Timms Lost Ball Turnover (P2.T9),,Washington STEAL (3 STL),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,176,6,1,1,8:49 PM,0:58,Pettis P.FOUL (P1.PN),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,178,9,2,1,8:49 PM,0:58,,,Liberty Timeout: Short (Reg.0 Short 2),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,179,6,11,1,8:49 PM,0:58,,Cynthia Cooper Foul:T.FOUL,,,,6,100148,,,,,,0,0,,,,,,1,0,,,,,,0
+1029800080,180,3,16,1,8:50 PM,0:58,,,Witherspoon Free Throw Technical (12 PTS),37 - 31,-6,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,181,6,1,1,8:50 PM,0:44,Pettis P.FOUL (P2.PN),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,182,3,11,1,8:51 PM,0:44,,,MISS Weatherspoon Free Throw 1 of 2,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,183,4,0,1,8:51 PM,0:44,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,184,3,12,1,8:51 PM,0:44,,,MISS Weatherspoon Free Throw 2 of 2,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,186,4,0,1,8:51 PM,0:42,Gillom REBOUND (Off:1 Def:3),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,187,6,1,1,8:51 PM,0:41,,,Wicks P.FOUL (P3.PN),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,188,3,11,1,8:51 PM,0:41,MISS Gillom Free Throw 1 of 2,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,190,4,0,1,8:52 PM,0:41,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,189,3,12,1,8:52 PM,0:41,Gillom Free Throw 2 of 2 (7 PTS),,,37 - 32,-5,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,191,5,2,1,8:52 PM,0:35,Pettis STEAL (1 STL),,Washington Lost Ball Turnover (P2.T9),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,192,1,5,1,8:52 PM,0:32,Pettis  Layup (6 PTS),,,37 - 34,-3,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,193,6,2,1,8:52 PM,0:32,,,Washington S.FOUL (P1.PN),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,194,9,1,1,8:52 PM,0:32,,,Liberty Timeout: Regular (Reg.1 Short 2),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,196,3,10,1,8:54 PM,0:32,Pettis Free Throw 1 of 1 (7 PTS),,,37 - 35,-2,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,197,1,1,1,8:55 PM,0:06,,,Wicks 12' Jump Shot (3 PTS) (Weatherspoon 4 AST),39 - 35,-4,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,198,2,1,1,8:55 PM,0:03,MISS Timms 19' Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,199,4,0,1,8:55 PM,0:00,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,200,13,0,1,8:55 PM,0:00,,End of 1st Half (8:55 PM EST),,39 - 35,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,202,12,0,2,9:10 PM,20:00,,Start of 2nd Half (9:10 PM EST),,39 - 35,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,203,10,0,2,9:10 PM,20:00,Jump Ball Gillom vs. Wicks: Tip to Webb,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0
+1029800080,204,2,1,2,9:11 PM,19:46,MISS Webb 5' Jump Shot,,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,205,4,0,2,9:11 PM,19:43,,,Wicks REBOUND (Off:0 Def:1),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,206,1,1,2,9:12 PM,19:16,,,Wicks 16' Jump Shot (5 PTS),41 - 35,-6,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,207,6,1,2,9:12 PM,19:06,,,Wicks P.FOUL (P4.T1),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,209,1,5,2,9:12 PM,19:06,Brogan  Layup (12 PTS) (Pettis 2 AST),,,41 - 37,-4,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,210,1,5,2,9:12 PM,18:38,,,Witherspoon  Layup (14 PTS) (Weatherspoon 5 AST),43 - 37,-6,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,211,1,5,2,9:13 PM,18:25,Pettis  Layup (9 PTS) (Webb 2 AST),,,43 - 39,-4,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,212,6,1,2,9:13 PM,18:03,Timms P.FOUL (P1.T1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,213,8,0,2,9:13 PM,18:03,,,SUB: Ford FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,214,8,0,2,9:13 PM,18:03,,,SUB: Hampton FOR Wicks,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,215,5,1,2,9:14 PM,17:58,,,Lobo Bad Pass Turnover (P2.T10),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,216,2,1,2,9:14 PM,17:55,MISS Timms 5' Jump Shot,,Ford BLOCK (1 BLK),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0
+1029800080,217,4,0,2,9:14 PM,17:53,Timms REBOUND (Off:1 Def:1),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,218,1,1,2,9:14 PM,17:49,Timms  3PT Jump Shot (8 PTS) (Brogan 1 AST),,,43 - 42,-1,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,219,7,1,2,9:14 PM,17:39,MERCURY Violation: Delay of game Violation,,,,,2,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1029800080,220,6,4,2,9:15 PM,17:06,,,Weatherspoon OFF.Foul (P2),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,221,5,5,2,9:15 PM,17:06,,,Weatherspoon Foul Turnover (P2.T11),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,222,6,2,2,9:15 PM,16:50,,,Johnson S.FOUL (P3.T2),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,223,3,11,2,9:15 PM,16:50,MISS Timms Free Throw 1 of 2,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,224,4,0,2,9:15 PM,16:50,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,225,3,12,2,9:15 PM,16:50,MISS Timms Free Throw 2 of 2,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,226,4,0,2,9:16 PM,16:50,Brogan REBOUND (Off:3 Def:0),,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,227,1,5,2,9:16 PM,16:50,Gillom  Layup (9 PTS) (Brogan 2 AST),,,43 - 44,1,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,228,1,5,2,9:16 PM,16:48,,,Lobo  Layup (6 PTS) (Ford 1 AST),45 - 44,-1,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,229,6,1,2,9:16 PM,16:32,,,Ford P.FOUL (P1.T3),,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,230,2,1,2,9:17 PM,16:22,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,231,4,0,2,9:17 PM,16:22,,,Weatherspoon REBOUND (Off:0 Def:3),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,232,9,4,2,9:17 PM,15:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,236,6,1,2,9:20 PM,15:54,Timms P.FOUL (P2.T2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,237,1,1,2,9:20 PM,15:49,,,Johnson 14' Jump Shot (4 PTS),47 - 44,-3,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,238,6,4,2,9:21 PM,15:25,Webb OFF.Foul (P2),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,239,5,5,2,9:21 PM,15:25,Webb Foul Turnover (P2.T10),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,240,2,1,2,9:21 PM,15:07,,,MISS Ford 11' Jump Shot,,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,241,4,0,2,9:21 PM,15:06,,,Ford REBOUND (Off:1 Def:0),,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,242,5,2,2,9:21 PM,15:03,Brogan STEAL (3 STL),,Ford Lost Ball Turnover (P1.T12),,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,243,5,1,2,9:21 PM,15:00,Brogan Bad Pass Turnover (P2.T11),,Weatherspoon STEAL (2 STL),,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,244,1,1,2,9:21 PM,14:56,,,Hampton 11' Jump Shot (10 PTS) (Ford 2 AST),49 - 44,-5,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,245,2,1,2,9:22 PM,14:43,MISS Timms  3PT Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,246,4,0,2,9:22 PM,14:41,Webb REBOUND (Off:1 Def:2),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,247,5,1,2,9:22 PM,14:22,Pettis Bad Pass Turnover (P1.T12),,Weatherspoon STEAL (3 STL),,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,248,2,1,2,9:22 PM,14:17,,,MISS Johnson 15' Jump Shot,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,249,4,0,2,9:22 PM,14:16,Gillom REBOUND (Off:1 Def:4),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,250,6,2,2,9:22 PM,14:02,,,Johnson S.FOUL (P4.T4),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,251,3,13,2,9:23 PM,14:02,Timms Free Throw 1 of 3 (9 PTS),,,49 - 45,-4,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,252,8,0,2,9:23 PM,14:02,SUB: Reed FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,253,3,14,2,9:23 PM,14:02,MISS Timms Free Throw 2 of 3,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,254,4,0,2,9:23 PM,14:02,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,256,8,0,2,9:23 PM,14:02,,,SUB: Witherspoon FOR Johnson,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,257,3,15,2,9:23 PM,14:02,Timms Free Throw 3 of 3 (10 PTS),,,49 - 46,-3,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,258,6,4,2,9:24 PM,13:50,,,Weatherspoon OFF.Foul (P3),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,259,5,5,2,9:24 PM,13:50,,,Weatherspoon Foul Turnover (P3.T13),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,260,2,1,2,9:24 PM,13:32,MISS Brogan 9' Jump Shot,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,261,4,0,2,9:24 PM,13:30,,,Weatherspoon REBOUND (Off:0 Def:4),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,262,2,1,2,9:24 PM,13:18,,,MISS Lobo 12' Jump Shot,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,263,4,0,2,9:24 PM,13:16,Reed REBOUND (Off:0 Def:1),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,264,6,1,2,9:24 PM,13:12,,,Ford P.FOUL (P2.PN),,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,265,8,0,2,9:25 PM,13:12,SUB: Askamp FOR Brogan,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,266,5,4,2,9:25 PM,12:55,Askamp Traveling Turnover (P1.T13),,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,267,2,1,2,9:26 PM,12:26,,,MISS Lobo 14' Jump Shot,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,268,4,0,2,9:26 PM,12:25,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,269,5,1,2,9:26 PM,12:00,Gillom Bad Pass Turnover (P2.T14),,Witherspoon STEAL (2 STL),,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,270,1,5,2,9:26 PM,11:56,,,Witherspoon  Layup (16 PTS),51 - 46,-5,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,271,2,1,2,9:27 PM,11:44,MISS Gillom 18' Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,272,4,0,2,9:27 PM,11:42,Reed REBOUND (Off:1 Def:1),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,273,2,5,2,9:27 PM,11:41,MISS Reed  Layup,,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,274,4,0,2,9:27 PM,11:38,,,Witherspoon REBOUND (Off:0 Def:3),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,275,5,1,2,9:27 PM,11:20,Reed STEAL (1 STL),,Lobo Bad Pass Turnover (P3.T14),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,276,1,5,2,9:27 PM,11:12,Askamp  Layup (4 PTS) (Webb 3 AST),,,51 - 48,-3,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,277,2,5,2,9:28 PM,10:56,,,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,278,4,0,2,9:28 PM,10:54,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,279,6,2,2,9:28 PM,10:53,Gillom S.FOUL (P2.T3),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,281,9,4,2,9:30 PM,10:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,282,8,0,2,9:30 PM,10:53,SUB: Brogan FOR Gillom,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,283,8,0,2,9:30 PM,10:53,,,SUB: Wicks FOR Hampton,,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,284,3,11,2,9:31 PM,10:53,,,Witherspoon Free Throw 1 of 2 (17 PTS),52 - 48,-4,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,285,3,12,2,9:31 PM,10:53,,,Witherspoon Free Throw 2 of 2 (18 PTS),53 - 48,-5,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,286,1,1,2,9:31 PM,10:37,Reed  3PT Jump Shot (3 PTS) (Timms 7 AST),,,53 - 51,-2,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,287,6,2,2,9:32 PM,10:12,Reed S.FOUL (P2.T4),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,288,3,11,2,9:32 PM,10:12,,,Lobo Free Throw 1 of 2 (7 PTS),54 - 51,-3,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,289,3,12,2,9:32 PM,10:12,,,Lobo Free Throw 2 of 2 (8 PTS),55 - 51,-4,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,290,2,1,2,9:33 PM,10:00,MISS Webb 11' Jump Shot,,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,291,4,0,2,9:33 PM,9:59,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,292,5,1,2,9:33 PM,9:41,Reed STEAL (2 STL),,Wicks Bad Pass Turnover (P1.T15),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,293,2,5,2,9:33 PM,9:37,MISS Timms  Layup,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,294,4,0,2,9:33 PM,9:35,Askamp REBOUND (Off:1 Def:0),,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,295,6,2,2,9:33 PM,9:33,,,Ford S.FOUL (P3.PN),,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,297,3,11,2,9:34 PM,9:33,MISS Askamp Free Throw 1 of 2,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,298,4,0,2,9:34 PM,9:33,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,299,8,0,2,9:34 PM,9:33,,,SUB: Washington FOR Weatherspoon,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,300,8,0,2,9:34 PM,9:33,,,SUB: Johnson FOR Ford,,,5,100107,Kisha Ford,1611661313.0,New York,Liberty,NYL,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,301,8,0,2,9:34 PM,9:33,,,SUB: Hampton FOR Lobo,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,302,3,12,2,9:34 PM,9:33,MISS Askamp Free Throw 2 of 2,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,304,4,0,2,9:35 PM,9:24,,,Witherspoon REBOUND (Off:0 Def:4),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,306,6,1,2,9:35 PM,9:18,Askamp P.FOUL (P1.PN),,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,307,2,1,2,9:35 PM,9:05,,,MISS Washington 9' Jump Shot,,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,308,4,0,2,9:35 PM,9:04,Timms REBOUND (Off:1 Def:2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,309,6,1,2,9:35 PM,9:03,,,Washington P.FOUL (P2.PN),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,310,1,5,2,9:36 PM,8:43,Reed  Layup (5 PTS) (Timms 8 AST),,,55 - 53,-2,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,311,2,5,2,9:36 PM,8:28,,,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,313,4,0,2,9:36 PM,8:26,,,Wicks REBOUND (Off:1 Def:1),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,312,2,5,2,9:36 PM,8:26,,,MISS Wicks  Layup,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,314,10,0,2,9:36 PM,8:18,Jump Ball Askamp vs. Wicks: Tip to Brogan,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0
+1029800080,315,4,0,2,9:36 PM,8:18,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,316,5,2,2,9:37 PM,8:18,Reed Lost Ball Turnover (P2.T15),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,317,8,0,2,9:37 PM,8:18,SUB: Gillom FOR Brogan,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,318,2,1,2,9:37 PM,7:50,,,MISS Hampton 14' Jump Shot,,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,319,4,0,2,9:37 PM,7:49,Reed REBOUND (Off:1 Def:2),,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,320,2,1,2,9:37 PM,7:33,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,321,4,0,2,9:37 PM,7:32,,,Washington REBOUND (Off:0 Def:3),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,322,1,5,2,9:38 PM,7:25,,,Washington  Layup (2 PTS),57 - 53,-4,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,323,2,1,2,9:38 PM,7:11,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,324,4,0,2,9:38 PM,7:09,Timms REBOUND (Off:2 Def:2),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,325,2,1,2,9:38 PM,7:06,MISS Timms  3PT Jump Shot,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,326,4,0,2,9:38 PM,7:04,,,Johnson REBOUND (Off:0 Def:3),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,327,1,6,2,9:38 PM,6:43,,,Witherspoon  Driving Layup (20 PTS),59 - 53,-6,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,328,1,6,2,9:39 PM,6:21,Reed  Driving Layup (7 PTS) (Webb 4 AST),,,59 - 55,-4,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,329,6,1,2,9:39 PM,6:04,Webb P.FOUL (P3.PN),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,330,9,4,2,9:39 PM,6:04,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,331,6,11,2,9:39 PM,6:04,Webb T.FOUL (P3.PN),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,333,8,0,2,9:41 PM,6:04,SUB: Harrower FOR Webb,,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,334,8,0,2,9:41 PM,6:04,SUB: Pettis FOR Timms,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,335,8,0,2,9:41 PM,6:04,,,SUB: Lobo FOR Hampton,,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,336,3,16,2,9:41 PM,6:04,,,Witherspoon Free Throw Technical (21 PTS),60 - 55,-5,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,337,6,2,2,9:42 PM,6:03,Askamp S.FOUL (P2.PN),,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,338,3,11,2,9:42 PM,6:03,,,Lobo Free Throw 1 of 2 (9 PTS),61 - 55,-6,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,339,3,12,2,9:42 PM,6:03,,,MISS Lobo Free Throw 2 of 2,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,340,4,0,2,9:43 PM,5:55,Gillom REBOUND (Off:1 Def:5),,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,341,6,1,2,9:43 PM,5:53,,,Washington P.FOUL (P3.PN),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,342,8,0,2,9:43 PM,5:53,SUB: Timms FOR Reed,,,,,4,100225,Brandy Reed,1611661317.0,Phoenix,Mercury,PHO,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,343,3,11,2,9:43 PM,5:53,MISS Harrower Free Throw 1 of 2,,,,,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,344,4,0,2,9:43 PM,5:53,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,345,8,0,2,9:43 PM,5:53,SUB: Brogan FOR Askamp,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,346,3,12,2,9:43 PM,5:53,Harrower Free Throw 2 of 2 (1 PTS),,,61 - 56,-5,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,347,2,1,2,9:44 PM,5:40,,,MISS Wicks 14' Jump Shot,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,348,4,0,2,9:44 PM,5:39,Pettis REBOUND (Off:1 Def:4),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,349,2,1,2,9:44 PM,5:07,MISS Gillom  3PT Jump Shot,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,350,4,0,2,9:44 PM,5:06,,,Johnson REBOUND (Off:0 Def:4),,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,351,6,4,2,9:45 PM,4:54,,,Lobo OFF.Foul (P1),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,352,5,5,2,9:45 PM,4:54,,,Lobo Foul Turnover (P4.T16),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,353,6,1,2,9:45 PM,4:32,,,Washington P.FOUL (P4.PN),,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,354,3,11,2,9:45 PM,4:32,Harrower Free Throw 1 of 2 (2 PTS),,,61 - 57,-4,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,355,8,0,2,9:46 PM,4:32,SUB: Webb FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,356,8,0,2,9:46 PM,4:32,,,SUB: Cebrian FOR Lobo,,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,357,8,0,2,9:46 PM,4:32,,,SUB: Weatherspoon FOR Washington,,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,358,3,12,2,9:46 PM,4:32,Harrower Free Throw 2 of 2 (3 PTS),,,61 - 58,-3,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,359,1,1,2,9:46 PM,4:09,,,Johnson 6' Jump Shot (6 PTS),63 - 58,-5,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,360,2,5,2,9:47 PM,4:00,MISS Brogan  Layup,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,385,4,0,2,9:47 PM,4:00,,,Wicks REBOUND (Off:1 Def:2),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,362,5,1,2,9:47 PM,3:56,Harrower STEAL (1 STL),,Wicks Bad Pass Turnover (P2.T17),,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,363,7,6,2,9:47 PM,3:55,,,Weatherspoon Violation:Double Lane,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,364,9,1,2,9:47 PM,3:55,,,Liberty Timeout: Regular (Reg.2 Short 2),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,366,1,5,2,9:49 PM,3:39,Gillom  Layup (11 PTS) (Harrower 1 AST),,,63 - 60,-3,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,367,2,5,2,9:50 PM,3:08,,,MISS Wicks  Layup,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,372,4,0,2,9:50 PM,3:05,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,371,8,0,2,9:50 PM,3:05,,,SUB: Lobo FOR Wicks,,,5,100104,Sue Wicks,1611661313.0,New York,Liberty,NYL,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,373,10,0,2,9:50 PM,3:05,Jump Ball Gillom vs. Cebrian: Tip to Johnson,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0
+1029800080,374,2,1,2,9:51 PM,2:38,,,MISS Johnson 15' Jump Shot,,,5,100103,Vickie Johnson,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,375,4,0,2,9:51 PM,2:37,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,376,6,3,2,9:51 PM,2:37,,,Cebrian L.B.FOUL (P4.PN),,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,377,8,0,2,9:51 PM,2:37,,,SUB: Hampton FOR Cebrian,,,5,100213,Elisabeth Cebrian,1611661313.0,New York,Liberty,NYL,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,378,3,11,2,9:51 PM,2:37,MISS Timms Free Throw 1 of 2,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,379,4,0,2,9:51 PM,2:37,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,380,3,12,2,9:51 PM,2:37,Timms Free Throw 2 of 2 (11 PTS),,,63 - 61,-2,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,381,5,1,2,9:52 PM,2:18,Brogan STEAL (4 STL),,Weatherspoon Bad Pass Turnover (P4.T18),,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,382,6,1,2,9:52 PM,2:12,,,Lobo P.FOUL (P2.PN),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,0
+1029800080,383,9,2,2,9:52 PM,2:12,,,Liberty Timeout: Short (Reg.2 Short 3),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,386,8,0,2,9:53 PM,2:12,,,SUB: Washington FOR Witherspoon,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,387,3,11,2,9:53 PM,2:12,Brogan Free Throw 1 of 2 (13 PTS),,,63 - 62,-1,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,388,3,12,2,9:54 PM,2:12,Brogan Free Throw 2 of 2 (14 PTS),,,63 - 63,TIE,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,389,2,1,2,9:54 PM,1:54,,,MISS Washington 20' Jump Shot,,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,390,4,0,2,9:54 PM,1:53,Timms REBOUND (Off:2 Def:3),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,391,9,2,2,9:54 PM,1:44,MERCURY Timeout: Short (Full 0 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,393,8,0,2,9:55 PM,1:44,SUB: Askamp FOR Brogan,,,,,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,394,8,0,2,9:55 PM,1:44,,,SUB: Witherspoon FOR Weatherspoon,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,395,2,1,2,9:56 PM,1:21,MISS Harrower  3PT Jump Shot,,,,,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,396,4,0,2,9:56 PM,1:19,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,397,8,0,2,9:56 PM,1:06,SUB: Brogan FOR Askamp,,,,,4,100037,Marlies Askamp,1611661317.0,Phoenix,Mercury,PHO,4,100221,Michelle Brogan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,398,2,5,2,9:56 PM,1:05,MISS Gillom  Layup,,,,,4,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,399,4,0,2,9:56 PM,1:03,,,Witherspoon REBOUND (Off:0 Def:5),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,400,6,1,2,9:57 PM,0:49,Timms P.FOUL (P3.PN),,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,401,3,11,2,9:57 PM,0:49,,,Witherspoon Free Throw 1 of 2 (22 PTS),64 - 63,-1,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,403,8,0,2,9:57 PM,0:49,,,SUB: Weatherspoon FOR Washington,,,5,100217,Coquese Washington,1611661313.0,New York,Liberty,NYL,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,404,3,12,2,9:57 PM,0:49,,,MISS Witherspoon Free Throw 2 of 2,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,406,4,0,2,9:57 PM,0:49,,,Lobo REBOUND (Off:1 Def:4),,,5,100002,Rebecca Lobo,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,407,9,2,2,9:58 PM,0:44,,,Liberty Timeout: Short (Reg.2 Short 4),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,409,2,5,2,9:59 PM,0:29,,,MISS Witherspoon  Layup,,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,410,4,0,2,9:59 PM,0:26,,,Hampton REBOUND (Off:1 Def:0),,,5,100102,Kym Hampton,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,411,6,1,2,10:00 PM,0:24,Harrower P.FOUL (P1.PN),,,,,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,412,3,11,2,10:00 PM,0:24,,,MISS Weatherspoon Free Throw 1 of 2,,,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,413,4,0,2,10:00 PM,0:24,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,414,3,12,2,10:00 PM,0:24,,,Weatherspoon Free Throw 2 of 2 (7 PTS),65 - 63,-2,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,415,9,1,2,10:00 PM,0:24,MERCURY Timeout: Regular (Full 1 Short 1),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,418,8,0,2,10:03 PM,0:24,SUB: Pettis FOR Harrower,,,,,4,100222,Kristi Harrower,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1029800080,419,2,5,2,10:03 PM,0:16,MISS Timms  Layup,,,,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,420,4,0,2,10:03 PM,0:14,,,Witherspoon REBOUND (Off:0 Def:6),,,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,421,6,1,2,10:03 PM,0:11,Webb P.FOUL (P4.PN),,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1029800080,422,3,11,2,10:04 PM,0:11,,,Witherspoon Free Throw 1 of 2 (23 PTS),66 - 63,-3,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,423,3,12,2,10:04 PM,0:11,,,Witherspoon Free Throw 2 of 2 (24 PTS),67 - 63,-4,5,100105,Sophia Witherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,424,9,2,2,10:04 PM,0:11,MERCURY Timeout: Short (Full 1 Short 2),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,426,5,1,2,10:05 PM,0:11,Timms Bad Pass Turnover (P3.T16),,Weatherspoon STEAL (4 STL),,,4,100029,Michele Timms,1611661317.0,Phoenix,Mercury,PHO,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1029800080,427,1,5,2,10:05 PM,0:06,,,Weatherspoon  Layup (9 PTS),69 - 63,-6,5,100101,Teresa Weatherspoon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1029800080,428,2,5,2,10:06 PM,0:02,MISS Webb  Layup,,,,,4,100035,Umeki Webb,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1029800080,429,4,0,2,10:06 PM,0:00,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1029800080,430,13,0,2,10:06 PM,0:00,,End of 2nd Half (10:06 PM EST),,69 - 63,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

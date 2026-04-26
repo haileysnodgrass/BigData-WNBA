@@ -1,0 +1,414 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022400051,2,12,0,1,10:03 PM,10:00,,Start of 1st Period (10:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,4,10,0,1,10:03 PM,10:00,Jump Ball Magbegor vs. Mack: Tip to Taurasi,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1022400051,7,2,1,1,10:04 PM,9:46,,,MISS Taurasi 24' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,8,4,0,1,10:04 PM,9:42,Magbegor REBOUND (Off:0 Def:1),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,9,2,79,1,10:04 PM,9:34,MISS Vivians 18' Pullup Jump Shot,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,10,4,0,1,10:04 PM,9:30,,,Copper REBOUND (Off:0 Def:1),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,11,2,5,1,10:04 PM,9:23,Magbegor BLOCK (1 BLK),,MISS Mack 3' Layup,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1
+1022400051,13,4,0,1,10:04 PM,9:22,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,14,5,1,1,10:04 PM,9:20,Russell STEAL (1 STL),,Cloud Bad Pass Turnover (P1.T1),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,16,5,2,1,10:04 PM,9:13,Magbegor Lost Ball Turnover (P1.T1),,Cloud STEAL (1 STL),,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,18,1,41,1,10:04 PM,9:07,,,Cloud 3' Running Layup (2 PTS),2 - 0,-2,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,19,1,47,1,10:05 PM,8:51,Magbegor 8' Turnaround Jump Shot (2 PTS) (Vivians 1 AST),,,2 - 2,TIE,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,21,1,80,1,10:05 PM,8:38,,,Cloud 17' Step Back Jump Shot (4 PTS),4 - 2,-2,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,23,1,5,1,10:05 PM,8:26,Magbegor 2' Layup (4 PTS) (Loyd 1 AST),,,4 - 4,TIE,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,25,2,101,1,10:05 PM,8:08,,,MISS Copper 7' Driving Floating Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,26,4,0,1,10:05 PM,8:04,Loyd REBOUND (Off:0 Def:1),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,27,6,2,1,10:06 PM,7:57,,,Cloud S.FOUL (P1.T1),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,29,3,11,1,10:06 PM,7:57,Loyd Free Throw 1 of 2 (1 PTS),,,4 - 5,1,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,30,3,12,1,10:06 PM,7:57,Loyd Free Throw 2 of 2 (2 PTS),,,4 - 6,2,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,31,2,79,1,10:07 PM,7:43,,,MISS Copper 18' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,32,4,0,1,10:07 PM,7:40,Russell REBOUND (Off:0 Def:1),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,33,5,1,1,10:07 PM,7:30,Magbegor Bad Pass Turnover (P2.T2),,Copper STEAL (1 STL),,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,35,5,2,1,10:07 PM,7:23,Diggins-Smith STEAL (1 STL),,Copper Lost Ball Turnover (P1.T2),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,37,2,101,1,10:07 PM,7:17,MISS Diggins-Smith 8' Driving Floating Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,38,4,0,1,10:07 PM,7:13,,,Mack REBOUND (Off:0 Def:1),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,39,5,1,1,10:07 PM,7:09,Loyd STEAL (1 STL),,Cloud Bad Pass Turnover (P2.T3),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,41,1,41,1,10:07 PM,7:06,Loyd 2' Running Layup (4 PTS),,,4 - 8,4,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,42,2,1,1,10:07 PM,6:48,,,MISS Taurasi 25' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,43,4,0,1,10:08 PM,6:44,Vivians REBOUND (Off:0 Def:1),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,44,6,2,1,10:08 PM,6:33,,,Mack S.FOUL (P1.T2),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,46,3,11,1,10:08 PM,6:33,MISS Russell Free Throw 1 of 2,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,47,4,1,1,10:08 PM,6:33,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,50,3,12,1,10:08 PM,6:33,MISS Russell Free Throw 2 of 2,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,48,8,0,1,10:08 PM,6:33,,,SUB: Dixon FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,51,4,0,1,10:08 PM,6:31,,,Dixon REBOUND (Off:0 Def:1),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,52,6,4,1,10:09 PM,6:20,,,Cunningham OFF.Foul (P1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,54,5,37,1,10:09 PM,6:20,,,Cunningham Offensive Foul Turnover (P1.T4),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022400051,62,2,71,1,10:09 PM,6:02,MISS Loyd 6' Finger Roll Layup,,Cloud BLOCK (1 BLK),,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,1
+1022400051,64,4,0,1,10:09 PM,6:01,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,57,9,4,1,10:10 PM,6:00,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,58,18,5,1,10:10 PM,6:00,,Instant Replay1st Period (10:10 PM EST),,4 - 8,4,0,55,Marty Conlon,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,59,2,78,1,10:13 PM,5:53,MISS Loyd 10' Floating Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,60,4,0,1,10:13 PM,5:51,Magbegor REBOUND (Off:1 Def:1),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,61,1,72,1,10:13 PM,5:50,Magbegor 2' Putback Layup (6 PTS),,,4 - 10,6,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,65,2,79,1,10:13 PM,5:34,,,MISS Copper 19' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,66,4,0,1,10:13 PM,5:34,Russell REBOUND (Off:0 Def:2),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,67,1,79,1,10:13 PM,5:15,Magbegor 10' Pullup Jump Shot (8 PTS) (Vivians 2 AST),,,4 - 12,8,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,69,8,0,1,10:14 PM,4:52,,,SUB: Sutton FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,71,5,11,1,10:14 PM,4:49,,,Mercury Turnover: Shot Clock (T#5),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,72,2,1,1,10:15 PM,4:36,MISS Vivians 25' 3PT Jump Shot,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,73,4,0,1,10:15 PM,4:31,,,Cloud REBOUND (Off:0 Def:1),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,74,2,1,1,10:15 PM,4:17,,,MISS Cloud 24' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,75,4,0,1,10:15 PM,4:13,Diggins-Smith REBOUND (Off:0 Def:1),,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,78,10,0,1,10:16 PM,4:05,Jump Ball Magbegor vs. Cloud: Tip to Loyd,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,1
+1022400051,76,8,0,1,10:16 PM,4:05,SUB: Holmes FOR Russell,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,81,1,102,1,10:16 PM,3:53,Diggins-Smith 7' Driving Floating Bank Jump Shot (2 PTS) (Loyd 2 AST),,,4 - 14,10,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,83,6,2,1,10:17 PM,3:42,Magbegor S.FOUL (P1.T1),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,85,3,11,1,10:17 PM,3:42,,,Dixon Free Throw 1 of 2 (1 PTS),5 - 14,9,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,86,8,0,1,10:17 PM,3:42,SUB: Horston FOR Vivians,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,87,8,0,1,10:17 PM,3:42,,,SUB: Herbert Harrigan FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,90,3,12,1,10:17 PM,3:42,,,Dixon Free Throw 2 of 2 (2 PTS),6 - 14,8,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,91,2,1,1,10:18 PM,3:30,MISS Horston 24' 3PT Jump Shot,,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,92,4,0,1,10:18 PM,3:28,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,93,2,78,1,10:18 PM,3:21,MISS Diggins-Smith 13' Floating Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,94,4,0,1,10:18 PM,3:18,,,Dixon REBOUND (Off:0 Def:2),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,95,2,79,1,10:18 PM,3:10,,,MISS Cloud 13' Pullup Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,96,4,0,1,10:18 PM,3:05,,,Dixon REBOUND (Off:1 Def:2),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,97,2,1,1,10:18 PM,3:03,,,MISS Copper 24' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,98,4,0,1,10:18 PM,3:00,Loyd REBOUND (Off:0 Def:2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,99,2,103,1,10:18 PM,2:57,MISS Loyd 25' 3PT Running Pull-Up Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,100,4,0,1,10:18 PM,2:54,Magbegor REBOUND (Off:2 Def:1),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,101,1,72,1,10:18 PM,2:53,Magbegor 2' Putback Layup (10 PTS),,,6 - 16,10,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,104,8,0,1,10:19 PM,2:35,SUB: Whitcomb FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,105,8,0,1,10:19 PM,2:35,,,SUB: Taurasi FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,106,8,0,1,10:19 PM,2:35,,,SUB: Mack FOR Dixon,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,111,2,79,1,10:19 PM,2:28,,,MISS Taurasi 25' 3PT Pullup Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,112,4,0,1,10:19 PM,2:24,Loyd REBOUND (Off:0 Def:3),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,113,1,102,1,10:20 PM,2:11,Horston 7' Driving Floating Bank Jump Shot (2 PTS) (Whitcomb 1 AST),,,6 - 18,12,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,115,1,1,1,10:20 PM,2:00,,,Herbert Harrigan 3PT Jump Shot (3 PTS) (Cloud 1 AST),9 - 18,9,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,117,1,102,1,10:20 PM,1:45,Loyd 6' Driving Floating Bank Jump Shot (6 PTS),,,9 - 20,11,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,118,1,1,1,10:20 PM,1:26,,,Mack 12' Jump Shot (2 PTS) (Sutton 1 AST),11 - 20,9,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,120,1,1,1,10:21 PM,1:12,Magbegor 25' 3PT Jump Shot (13 PTS) (Holmes 1 AST),,,11 - 23,12,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,122,2,1,1,10:21 PM,0:54,,,MISS Sutton 3PT Jump Shot,,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,123,4,0,1,10:21 PM,0:53,Magbegor REBOUND (Off:2 Def:2),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,124,2,41,1,10:21 PM,0:43,MISS Horston 4' Running Layup,,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,125,4,0,1,10:21 PM,0:39,,,Cloud REBOUND (Off:0 Def:2),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,127,6,2,1,10:21 PM,0:33,Holmes S.FOUL (P1.T2),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,129,3,11,1,10:22 PM,0:33,,,Herbert Harrigan Free Throw 1 of 2 (4 PTS),12 - 23,11,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,132,3,12,1,10:22 PM,0:33,,,MISS Herbert Harrigan Free Throw 2 of 2,,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,130,8,0,1,10:22 PM,0:33,SUB: Russell FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,133,4,0,1,10:22 PM,0:31,Horston REBOUND (Off:0 Def:1),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,134,1,5,1,10:22 PM,0:19,Horston 3' Layup (4 PTS) (Loyd 3 AST),,,12 - 25,13,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,136,2,1,1,10:23 PM,0:02,,,MISS Herbert Harrigan 25' 3PT Jump Shot,,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,137,4,0,1,10:23 PM,0:02,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,138,13,0,1,10:23 PM,0:00,,End of 1st Period (10:23 PM EST),,12 - 25,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022400051,141,12,0,2,10:26 PM,10:00,,Start of 2nd Period (10:26 PM EST),,12 - 25,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,142,5,1,2,10:26 PM,9:43,Horston Bad Pass Turnover (P1.T3),,Cloud STEAL (2 STL),,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,144,1,41,2,10:26 PM,9:39,,,Cloud 3' Running Layup (6 PTS),14 - 25,11,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,145,5,45,2,10:27 PM,9:21,Whitcomb Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,146,8,0,2,10:27 PM,9:21,SUB: Vivians FOR Horston,,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,148,6,2,2,10:27 PM,9:14,Diggins-Smith S.FOUL (P1.T1),,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,150,3,11,2,10:27 PM,9:14,,,Cloud Free Throw 1 of 2 (7 PTS),15 - 25,10,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,151,3,12,2,10:28 PM,9:14,,,Cloud Free Throw 2 of 2 (8 PTS),16 - 25,9,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,152,1,6,2,10:28 PM,9:04,Diggins-Smith 8' Driving Layup (4 PTS) (Russell 1 AST),,,16 - 27,11,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,153,1,6,2,10:28 PM,8:45,,,Herbert Harrigan 2' Driving Layup (6 PTS) (Mack 1 AST),18 - 27,9,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,155,6,2,2,10:28 PM,8:34,,,Sutton S.FOUL (P1.T1),,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,157,3,11,2,10:29 PM,8:34,Diggins-Smith Free Throw 1 of 2 (5 PTS),,,18 - 28,10,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,158,8,0,2,10:29 PM,8:34,,,SUB: Cunningham FOR Cloud,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,159,8,0,2,10:29 PM,8:34,,,SUB: Dixon FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,162,8,0,2,10:29 PM,8:34,,,SUB: Copper FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,164,3,12,2,10:29 PM,8:34,Diggins-Smith Free Throw 2 of 2 (6 PTS),,,18 - 29,11,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,165,2,1,2,10:30 PM,8:15,,,MISS Herbert Harrigan 25' 3PT Jump Shot,,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,166,4,0,2,10:30 PM,8:12,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,167,5,4,2,10:30 PM,7:58,,,Dixon Traveling Turnover (P1.T6),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022400051,169,2,80,2,10:31 PM,7:48,MISS Whitcomb 24' 3PT Step Back Jump Shot,,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,170,4,0,2,10:31 PM,7:43,,,Cunningham REBOUND (Off:0 Def:1),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,171,2,98,2,10:31 PM,7:36,,,MISS Dixon 3' Cutting Layup Shot,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,172,4,0,2,10:31 PM,7:36,Diggins-Smith REBOUND (Off:0 Def:2),,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,173,1,103,2,10:31 PM,7:30,Vivians 24' 3PT Running Pull-Up Jump Shot (3 PTS) (Diggins-Smith 1 AST),,,18 - 32,14,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,176,2,47,2,10:31 PM,7:02,,,MISS Cunningham 11' Turnaround Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,177,4,0,2,10:31 PM,7:02,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,178,5,11,2,10:31 PM,7:02,,,Mercury Turnover: Shot Clock (T#7),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,179,8,0,2,10:31 PM,7:02,SUB: Loyd FOR Holmes,,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,180,8,0,2,10:31 PM,7:02,SUB: Magbegor FOR Whitcomb,,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,181,8,0,2,10:31 PM,7:02,,,SUB: Bertsch FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,185,1,5,2,10:32 PM,6:41,Russell 4' Layup (2 PTS) (Diggins-Smith 2 AST),,,18 - 34,16,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,187,6,2,2,10:32 PM,6:41,,,Bertsch S.FOUL (P1.T2),,,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,189,8,0,2,10:32 PM,6:41,,,SUB: Cloud FOR Herbert Harrigan,,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,191,3,10,2,10:33 PM,6:41,MISS Russell Free Throw 1 of 1,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,192,4,0,2,10:33 PM,6:36,,,Bertsch REBOUND (Off:0 Def:1),,,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,193,2,1,2,10:33 PM,6:22,,,MISS Bertsch 3PT Jump Shot,,,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,194,4,0,2,10:33 PM,6:18,Russell REBOUND (Off:0 Def:3),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,195,6,2,2,10:33 PM,6:09,,,Dixon S.FOUL (P1.T3),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,197,3,11,2,10:34 PM,6:09,Magbegor Free Throw 1 of 2 (14 PTS),,,18 - 35,17,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,198,8,0,2,10:34 PM,6:09,,,SUB: Taurasi FOR Sutton,,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,200,3,12,2,10:34 PM,6:09,Magbegor Free Throw 2 of 2 (15 PTS),,,18 - 36,18,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,201,5,1,2,10:34 PM,5:59,Magbegor STEAL (1 STL),,Copper Bad Pass Turnover (P2.T8),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,203,6,2,2,10:34 PM,5:56,,,Cloud S.FOUL (P2.T4),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,205,9,1,2,10:35 PM,5:56,STORM Timeout: Regular (Full 1 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,206,8,0,2,10:35 PM,5:56,,,SUB: Mack FOR Dixon,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,208,3,11,2,10:38 PM,5:56,Diggins-Smith Free Throw 1 of 2 (7 PTS),,,18 - 37,19,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,209,3,12,2,10:38 PM,5:56,Diggins-Smith Free Throw 2 of 2 (8 PTS),,,18 - 38,20,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,210,1,80,2,10:38 PM,5:44,,,Taurasi 18' Step Back Jump Shot (2 PTS) (Copper 1 AST),20 - 38,18,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,212,2,1,2,10:39 PM,5:28,MISS Loyd 24' 3PT Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,213,4,0,2,10:39 PM,5:24,,,Copper REBOUND (Off:0 Def:2),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,214,2,1,2,10:39 PM,5:12,Diggins-Smith BLOCK (1 BLK),,MISS Copper 24' 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1
+1022400051,216,4,0,2,10:39 PM,5:06,Vivians REBOUND (Off:0 Def:2),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,217,6,1,2,10:39 PM,5:01,,,Bertsch P.FOUL (P2.PN),,,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,219,3,11,2,10:40 PM,5:01,Russell Free Throw 1 of 2 (3 PTS),,,20 - 39,19,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,222,3,12,2,10:40 PM,5:01,MISS Russell Free Throw 2 of 2,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,220,8,0,2,10:40 PM,5:01,,,SUB: Cunningham FOR Bertsch,,,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,223,4,0,2,10:40 PM,4:57,,,Taurasi REBOUND (Off:0 Def:1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,224,1,101,2,10:40 PM,4:50,,,Cloud 9' Driving Floating Jump Shot (10 PTS),22 - 39,17,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,225,2,5,2,10:40 PM,4:36,MISS Magbegor 5' Layup,,Mack BLOCK (1 BLK),,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,1
+1022400051,227,4,0,2,10:40 PM,4:36,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,228,2,1,2,10:41 PM,4:35,MISS Magbegor 14' Jump Shot,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,229,4,0,2,10:41 PM,4:34,Diggins-Smith REBOUND (Off:1 Def:2),,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,230,6,2,2,10:41 PM,4:34,,,Cloud S.FOUL (P3.PN),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,232,3,11,2,10:41 PM,4:34,Diggins-Smith Free Throw 1 of 2 (9 PTS),,,22 - 40,18,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,233,3,12,2,10:41 PM,4:34,Diggins-Smith Free Throw 2 of 2 (10 PTS),,,22 - 41,19,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,234,2,6,2,10:42 PM,4:18,,,MISS Taurasi 15' Driving Layup,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,236,4,0,2,10:42 PM,4:13,Vivians REBOUND (Off:0 Def:3),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,237,6,2,2,10:42 PM,4:13,,,Cunningham S.FOUL (P2.PN),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,240,3,11,2,10:42 PM,4:13,Vivians Free Throw 1 of 2 (4 PTS),,,22 - 42,20,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,241,3,12,2,10:42 PM,4:13,Vivians Free Throw 2 of 2 (5 PTS),,,22 - 43,21,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,242,2,1,2,10:43 PM,4:06,,,MISS Cunningham 26' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,243,4,0,2,10:43 PM,4:02,Russell REBOUND (Off:0 Def:4),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,244,2,6,2,10:43 PM,3:50,MISS Diggins-Smith 8' Driving Layup,,Mack BLOCK (2 BLK),,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,1
+1022400051,246,4,0,2,10:43 PM,3:50,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,247,6,3,2,10:43 PM,3:50,Magbegor L.B.FOUL (P2.T2),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,249,2,6,2,10:43 PM,3:42,Magbegor BLOCK (2 BLK),,MISS Copper 7' Driving Layup,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1
+1022400051,250,4,0,2,10:43 PM,3:41,Loyd REBOUND (Off:0 Def:4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,251,2,101,2,10:43 PM,3:32,MISS Loyd 7' Driving Floating Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,252,4,0,2,10:44 PM,3:31,,,Copper REBOUND (Off:0 Def:3),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,254,1,41,2,10:44 PM,3:25,,,Copper 2' Running Layup (2 PTS),24 - 43,19,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,255,6,2,2,10:44 PM,3:25,Diggins-Smith S.FOUL (P2.T3),,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,257,9,1,2,10:44 PM,3:25,STORM Timeout: Regular (Full 2 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,258,18,3,2,10:45 PM,3:25,,Instant Replay2nd Period (10:45 PM EST),,24 - 43,19,0,255,Grant Hill,,,,,0,0,,,,,,1,0,,,,,,0
+1022400051,259,6,11,2,10:47 PM,3:25,,,Copper T.FOUL (P0.PN),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022400051,260,8,0,2,10:48 PM,3:25,SUB: Holmes FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,262,3,16,2,10:48 PM,3:25,Diggins-Smith Free Throw Technical (11 PTS),,,24 - 44,20,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,263,8,0,2,10:49 PM,3:25,SUB: Whitcomb FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,265,3,10,2,10:49 PM,3:25,,,Copper Free Throw 1 of 1 (3 PTS),25 - 44,19,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,266,2,63,2,10:49 PM,3:01,MISS Loyd 15' Fadeaway Jumper,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,267,4,0,2,10:49 PM,2:58,Holmes REBOUND (Off:1 Def:0),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,268,1,72,2,10:49 PM,2:56,Holmes 4' Putback Layup (2 PTS),,,25 - 46,21,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,269,1,79,2,10:50 PM,2:42,,,Copper 12' Pullup Jump Shot (5 PTS) (Cloud 2 AST),27 - 46,19,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,270,5,4,2,10:50 PM,2:30,Holmes Traveling Turnover (P1.T5),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,271,2,79,2,10:50 PM,2:19,,,MISS Copper 8' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,272,4,0,2,10:50 PM,2:14,Vivians REBOUND (Off:0 Def:4),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,273,2,85,2,10:51 PM,1:57,MISS Loyd 3' Turnaround Bank Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,274,4,0,2,10:51 PM,1:53,,,Cunningham REBOUND (Off:0 Def:2),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,275,1,41,2,10:51 PM,1:49,,,Cunningham 2' Running Layup (2 PTS),29 - 46,17,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,276,5,40,2,10:51 PM,1:37,Vivians Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,277,2,80,2,10:51 PM,1:25,,,MISS Cloud 20' Step Back Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,278,4,0,2,10:51 PM,1:20,Vivians REBOUND (Off:0 Def:5),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,279,6,4,2,10:52 PM,1:04,Russell OFF.Foul (P1),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,281,5,37,2,10:52 PM,1:04,Russell Offensive Foul Turnover (P1.T7),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,282,6,1,2,10:52 PM,0:53,Russell P.FOUL (P2.T4),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,284,1,79,2,10:53 PM,0:46,,,Copper 8' Pullup Jump Shot (7 PTS),31 - 46,15,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,285,5,2,2,10:53 PM,0:34,Loyd Lost Ball Turnover (P1.T8),,Mack STEAL (1 STL),,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,287,6,2,2,10:53 PM,0:31,Whitcomb S.FOUL (P1.PN),,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,289,3,11,2,10:53 PM,0:31,,,Copper Free Throw 1 of 2 (8 PTS),32 - 46,14,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,290,3,12,2,10:54 PM,0:31,,,Copper Free Throw 2 of 2 (9 PTS),33 - 46,13,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,291,2,1,2,10:54 PM,0:07,MISS Whitcomb 35' 3PT Jump Shot,,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,292,4,0,2,10:54 PM,0:02,Loyd REBOUND (Off:1 Def:4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,294,2,75,2,10:54 PM,0:00,MISS Loyd 9' Driving Finger Roll Layup,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,295,4,0,2,10:54 PM,0:00,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,1
+1022400051,296,13,0,2,10:54 PM,0:00,,End of 2nd Period (10:54 PM EST),,33 - 46,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022400051,301,12,0,3,11:11 PM,10:00,,Start of 3rd Period (11:11 PM EST),,33 - 46,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,302,1,1,3,11:11 PM,9:45,Vivians 26' 3PT Jump Shot (8 PTS) (Loyd 4 AST),,,33 - 49,16,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,304,5,1,3,11:11 PM,9:27,Russell STEAL (2 STL),,Copper Bad Pass Turnover (P3.T9),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,306,1,41,3,11:11 PM,9:22,Magbegor 2' Running Layup (17 PTS) (Loyd 5 AST),,,33 - 51,18,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,308,2,63,3,11:12 PM,8:57,,,MISS Cloud 9' Fadeaway Jumper,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,309,4,0,3,11:12 PM,8:57,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,311,5,11,3,11:12 PM,8:56,,,Mercury Turnover: Shot Clock (T#10),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1022400051,312,5,45,3,11:13 PM,8:43,Diggins-Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,314,2,1,3,11:13 PM,8:27,,,MISS Copper 3PT Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,315,4,0,3,11:13 PM,8:23,Russell REBOUND (Off:0 Def:5),,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,316,2,1,3,11:13 PM,8:17,MISS Diggins-Smith 25' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,317,4,0,3,11:13 PM,8:13,Loyd REBOUND (Off:2 Def:4),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,318,2,6,3,11:13 PM,8:04,MISS Vivians 7' Driving Layup,,Mack BLOCK (3 BLK),,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,1
+1022400051,320,4,0,3,11:13 PM,8:00,,,Copper REBOUND (Off:0 Def:4),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,321,2,2,3,11:14 PM,7:58,,,MISS Cloud 25' 3PT Running Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,322,4,0,3,11:14 PM,7:57,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,323,6,3,3,11:14 PM,7:57,Vivians L.B.FOUL (P1.T1),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,325,5,45,3,11:14 PM,7:52,,,Cloud Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022400051,330,5,40,3,11:14 PM,7:42,Loyd Out of Bounds Lost Ball Turnover (P2.T10),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,328,9,1,3,11:15 PM,7:42,,,Mercury Timeout: Regular (Reg.1 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,329,18,5,3,11:15 PM,7:42,,Instant Replay3rd Period (11:15 PM EST),,33 - 51,18,0,326,,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,331,2,78,3,11:18 PM,7:27,,,MISS Cloud 7' Floating Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,332,4,0,3,11:18 PM,7:23,Magbegor REBOUND (Off:2 Def:3),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,333,1,6,3,11:18 PM,7:16,Magbegor 3' Driving Layup (19 PTS) (Loyd 6 AST),,,33 - 53,20,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,335,5,2,3,11:18 PM,7:02,Russell STEAL (3 STL),,Copper Lost Ball Turnover (P4.T12),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,337,2,2,3,11:18 PM,6:57,MISS Loyd 25' 3PT Running Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,338,4,0,3,11:18 PM,6:53,,,Taurasi REBOUND (Off:0 Def:2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,339,6,2,3,11:18 PM,6:47,Loyd S.FOUL (P1.T2),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,341,3,11,3,11:19 PM,6:47,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,342,4,1,3,11:19 PM,6:47,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,343,8,0,3,11:19 PM,6:47,,,SUB: Dixon FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,345,3,12,3,11:19 PM,6:47,,,MISS Copper Free Throw 2 of 2,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,346,4,0,3,11:19 PM,6:45,Magbegor REBOUND (Off:2 Def:4),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,347,2,1,3,11:19 PM,6:32,MISS Magbegor 3PT Jump Shot,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,348,4,0,3,11:19 PM,6:27,,,Taurasi REBOUND (Off:0 Def:3),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,349,2,80,3,11:19 PM,6:20,,,MISS Taurasi 25' 3PT Step Back Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,350,4,0,3,11:19 PM,6:20,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,351,2,1,3,11:20 PM,6:02,MISS Vivians 3PT Jump Shot,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,352,4,0,3,11:20 PM,5:59,,,Cloud REBOUND (Off:0 Def:3),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,353,2,2,3,11:20 PM,5:54,,,MISS Copper 24' 3PT Running Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,354,4,0,3,11:20 PM,5:53,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,355,1,78,3,11:21 PM,5:35,Russell 7' Floating Jump Shot (5 PTS) (Diggins-Smith 3 AST),,,33 - 55,22,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,357,1,1,3,11:21 PM,5:16,,,Copper 3PT Jump Shot (12 PTS) (Cunningham 1 AST),36 - 55,19,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,359,5,40,3,11:21 PM,4:55,Magbegor Out of Bounds Lost Ball Turnover (P3.T11),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,1
+1022400051,361,8,0,3,11:21 PM,4:55,SUB: Holmes FOR Russell,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,362,8,0,3,11:21 PM,4:55,SUB: Horston FOR Vivians,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,365,1,98,3,11:22 PM,4:41,,,Taurasi 3' Cutting Layup Shot (4 PTS) (Dixon 1 AST),38 - 55,17,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,367,2,79,3,11:22 PM,4:29,MISS Diggins-Smith 16' Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,368,4,0,3,11:22 PM,4:28,Holmes REBOUND (Off:2 Def:0),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,370,6,1,3,11:22 PM,4:26,,,Taurasi P.FOUL (P1.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,372,8,0,3,11:22 PM,4:26,,,SUB: Sutton FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,382,7,1,3,11:23 PM,4:26,,,Mercury Violation: Delay of game Violation,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,374,6,11,3,11:23 PM,4:26,,,Cloud T.FOUL (P3.T1),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022400051,375,3,16,3,11:23 PM,4:26,Loyd Free Throw Technical (7 PTS),,,38 - 56,18,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,376,6,2,3,11:23 PM,4:24,,,Sutton S.FOUL (P2.T2),,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,378,3,11,3,11:24 PM,4:24,Diggins-Smith Free Throw 1 of 2 (12 PTS),,,38 - 57,19,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,379,3,12,3,11:24 PM,4:24,MISS Diggins-Smith Free Throw 2 of 2,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,380,4,0,3,11:24 PM,4:21,,,Copper REBOUND (Off:0 Def:5),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,381,5,11,3,11:24 PM,3:59,,,Mercury Turnover: Shot Clock (T#13),,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,383,2,1,3,11:25 PM,3:49,MISS Diggins-Smith 25' 3PT Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,384,4,0,3,11:25 PM,3:43,,,Copper REBOUND (Off:0 Def:6),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,385,1,1,3,11:25 PM,3:34,,,Copper 24' 3PT Jump Shot (15 PTS) (Sutton 2 AST),41 - 57,16,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,387,2,78,3,11:25 PM,3:21,MISS Horston 10' Floating Jump Shot,,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,388,4,0,3,11:25 PM,3:19,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,389,8,0,3,11:25 PM,3:19,,,SUB: Taurasi FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,391,2,6,3,11:26 PM,3:02,,,MISS Cloud 4' Driving Layup,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,393,4,0,3,11:26 PM,3:02,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,394,8,0,3,11:26 PM,3:02,,,SUB: Herbert Harrigan FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,396,6,2,3,11:27 PM,2:54,Holmes S.FOUL (P2.T3),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,398,3,11,3,11:27 PM,2:54,,,Dixon Free Throw 1 of 2 (3 PTS),42 - 57,15,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,400,3,12,3,11:27 PM,2:54,,,Dixon Free Throw 2 of 2 (4 PTS),43 - 57,14,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,401,2,1,3,11:28 PM,2:35,MISS Holmes 20' Jump Shot,,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,403,4,0,3,11:28 PM,2:30,,,Herbert Harrigan REBOUND (Off:0 Def:1),,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,404,5,1,3,11:28 PM,2:26,Magbegor STEAL (2 STL),,Cloud Bad Pass Turnover (P4.T14),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,406,1,63,3,11:28 PM,2:16,Loyd 13' Fadeaway Jumper (9 PTS),,,43 - 59,16,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,407,2,1,3,11:28 PM,2:04,,,MISS Dixon 12' Jump Shot,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,408,4,0,3,11:28 PM,2:02,Magbegor REBOUND (Off:2 Def:5),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,409,1,5,3,11:28 PM,1:48,Magbegor 3' Layup (21 PTS) (Diggins-Smith 4 AST),,,43 - 61,18,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,411,9,1,3,11:28 PM,1:48,,,Mercury Timeout: Regular (Reg.2 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,412,8,0,3,11:29 PM,1:48,,,SUB: Mack FOR Dixon,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,413,8,0,3,11:29 PM,1:48,,,SUB: Copper FOR Herbert Harrigan,,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,416,6,2,3,11:30 PM,1:35,Horston S.FOUL (P1.T4),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,418,18,4,3,11:31 PM,1:35,,Instant Replay3rd Period (11:31 PM EST),,43 - 61,18,0,416,Willie Burton,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,419,9,1,3,11:31 PM,1:35,STORM Timeout: Regular (Full 3 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,420,3,11,3,11:32 PM,1:35,,,MISS Copper Free Throw 1 of 2,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,421,4,1,3,11:32 PM,1:35,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,422,3,12,3,11:32 PM,1:35,,,MISS Copper Free Throw 2 of 2,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,423,4,0,3,11:33 PM,1:33,Magbegor REBOUND (Off:2 Def:6),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,424,1,1,3,11:33 PM,1:17,Horston 24' 3PT Jump Shot (7 PTS) (Holmes 2 AST),,,43 - 64,21,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,426,2,79,3,11:33 PM,0:52,,,MISS Copper 21' Pullup Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,427,4,0,3,11:34 PM,0:48,Horston REBOUND (Off:0 Def:2),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,428,2,2,3,11:34 PM,0:44,MISS Diggins-Smith 3PT Running Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,429,4,0,3,11:34 PM,0:40,,,Taurasi REBOUND (Off:0 Def:4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,430,5,2,3,11:34 PM,0:38,Horston STEAL (1 STL),,Taurasi Lost Ball Turnover (P1.T15),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,432,5,1,3,11:34 PM,0:34,Horston Bad Pass Turnover (P2.T12),,Cloud STEAL (3 STL),,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,434,2,1,3,11:34 PM,0:15,,,MISS Taurasi 31' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,435,4,0,3,11:34 PM,0:10,Horston REBOUND (Off:0 Def:3),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,436,6,1,3,11:34 PM,0:04,,,Copper P.FOUL (P1.T3),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,1
+1022400051,438,2,63,3,11:35 PM,0:02,MISS Loyd 20' Fadeaway Jumper,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,439,4,0,3,11:35 PM,0:02,,,Cloud REBOUND (Off:0 Def:4),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,440,13,0,3,11:35 PM,0:00,,End of 3rd Period (11:35 PM EST),,43 - 64,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022400051,443,12,0,4,11:38 PM,10:00,,Start of 4th Period (11:38 PM EST),,43 - 64,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,444,2,5,4,11:39 PM,9:38,,,MISS Sutton 4' Layup,,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,445,4,0,4,11:39 PM,9:34,Holmes REBOUND (Off:2 Def:1),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,473,2,47,4,11:39 PM,9:14,MISS Holmes 13' Turnaround Jump Shot,,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,474,4,0,4,11:39 PM,9:13,STORM Rebound,,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,447,5,11,4,11:39 PM,9:13,STORM Turnover: Shot Clock (T#13),,,,,2,1611661328,,,,,,0,0,,,,,,1,0,,,,,,1
+1022400051,448,2,1,4,11:40 PM,9:03,,,MISS Cunningham 24' 3PT Jump Shot,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,449,4,0,4,11:40 PM,8:58,Loyd REBOUND (Off:2 Def:5),,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,510,5,1,4,11:40 PM,8:48,Magbegor Bad Pass Turnover (P4.T14),,Cunningham STEAL (1 STL),,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,453,2,1,4,11:40 PM,8:35,,,MISS Taurasi 25' 3PT Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,454,4,0,4,11:40 PM,8:30,,,Mack REBOUND (Off:1 Def:1),,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,455,2,72,4,11:40 PM,8:29,,,MISS Mack 4' Putback Layup,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,456,4,0,4,11:40 PM,8:29,Horston REBOUND (Off:0 Def:4),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,457,2,1,4,11:40 PM,8:20,MISS Magbegor 24' 3PT Jump Shot,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,458,4,0,4,11:40 PM,8:16,,,Cloud REBOUND (Off:0 Def:5),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,459,1,44,4,11:41 PM,8:10,,,Cunningham 3' Reverse Layup (4 PTS) (Cloud 3 AST),45 - 64,19,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022400051,461,2,79,4,11:41 PM,7:48,MISS Loyd 16' Pullup Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,1
+1022400051,462,4,0,4,11:41 PM,7:44,,,Cloud REBOUND (Off:0 Def:6),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022400051,465,8,0,4,11:41 PM,7:41,SUB: Russell FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,466,8,0,4,11:41 PM,7:41,SUB: Whitcomb FOR Loyd,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,467,8,0,4,11:41 PM,7:41,,,SUB: Copper FOR Sutton,,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,468,8,0,4,11:41 PM,7:41,,,SUB: Dixon FOR Mack,,,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,475,6,1,4,11:42 PM,7:35,Holmes P.FOUL (P3.T1),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022400051,477,2,1,4,11:42 PM,7:25,,,MISS Cloud 25' 3PT Jump Shot,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,478,4,0,4,11:42 PM,7:20,Horston REBOUND (Off:0 Def:5),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,479,2,98,4,11:43 PM,7:08,MISS Holmes 2' Cutting Layup Shot,,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,480,4,0,4,11:43 PM,7:05,,,Dixon REBOUND (Off:1 Def:3),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,481,2,6,4,11:43 PM,6:58,,,MISS Cloud 3' Driving Layup,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,483,4,0,4,11:43 PM,6:58,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,484,1,6,4,11:43 PM,6:54,,,Taurasi 3' Driving Layup (6 PTS),47 - 64,17,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,485,6,2,4,11:43 PM,6:54,Horston S.FOUL (P2.T2),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1022400051,487,8,0,4,11:44 PM,6:54,,,SUB: Herbert Harrigan FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,489,3,10,4,11:44 PM,6:54,,,Taurasi Free Throw 1 of 1 (7 PTS),48 - 64,16,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,490,6,1,4,11:44 PM,6:39,,,Taurasi P.FOUL (P2.T1),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1022400051,496,8,0,4,11:45 PM,6:39,SUB: Vivians FOR Holmes,,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,497,8,0,4,11:45 PM,6:39,SUB: Magbegor FOR Horston,,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,492,5,1,4,11:45 PM,6:24,Diggins-Smith Bad Pass Turnover (P2.T15),,Cloud STEAL (4 STL),,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,494,5,1,4,11:45 PM,6:15,Diggins-Smith STEAL (2 STL),,Cloud Bad Pass Turnover (P5.T16),,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,500,2,79,4,11:46 PM,5:54,MISS Vivians 11' Pullup Jump Shot,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,501,4,0,4,11:46 PM,5:51,,,Dixon REBOUND (Off:1 Def:4),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,502,2,5,4,11:46 PM,5:36,Magbegor BLOCK (3 BLK),,MISS Dixon 1' Layup,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0
+1022400051,504,4,0,4,11:46 PM,5:35,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,505,8,0,4,11:46 PM,5:35,SUB: Loyd FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,506,8,0,4,11:46 PM,5:35,,,SUB: Sutton FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,509,9,4,4,11:46 PM,5:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,512,2,1,4,11:49 PM,5:33,,,MISS Copper 17' Jump Shot,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,513,4,0,4,11:49 PM,5:28,Whitcomb REBOUND (Off:0 Def:1),,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,514,1,79,4,11:50 PM,5:06,Loyd 26' 3PT Pullup Jump Shot (12 PTS) (Vivians 3 AST),,,48 - 67,19,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,516,2,1,4,11:50 PM,4:49,,,MISS Dixon 12' Jump Shot,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,517,4,0,4,11:50 PM,4:44,Magbegor REBOUND (Off:2 Def:7),,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,518,2,101,4,11:50 PM,4:34,MISS Loyd 13' Driving Floating Jump Shot,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,519,4,0,4,11:50 PM,4:30,,,Copper REBOUND (Off:0 Def:7),,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,520,6,31,4,11:50 PM,4:29,Vivians Transition Take Foul (P2.T3),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1022400051,528,3,10,4,11:51 PM,4:29,,,Copper Free Throw 1 of 1 (16 PTS),49 - 67,18,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,522,8,0,4,11:51 PM,4:29,,,SUB: Taurasi FOR Dixon,,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,523,8,0,4,11:51 PM,4:29,,,SUB: Cunningham FOR Herbert Harrigan,,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,526,2,75,4,11:51 PM,4:20,,,MISS Copper 6' Driving Finger Roll Layup,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,527,4,0,4,11:51 PM,4:17,Vivians REBOUND (Off:0 Def:6),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,529,7,5,4,11:51 PM,4:06,,,Cunningham Violation:Kicked Ball,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1022400051,530,8,0,4,11:52 PM,4:06,SUB: Diggins-Smith FOR Russell,,,,,4,1628920,Mercedes Russell,1611661328.0,Seattle,Storm,SEA,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,532,2,1,4,11:52 PM,4:03,MISS Whitcomb 26' 3PT Jump Shot,,,,,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,533,4,0,4,11:52 PM,3:58,,,Cunningham REBOUND (Off:0 Def:3),,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,534,1,41,4,11:52 PM,3:52,,,Sutton 2' Running Layup (2 PTS) (Cunningham 2 AST),51 - 67,16,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,536,1,1,4,11:52 PM,3:40,Loyd 24' 3PT Jump Shot (15 PTS) (Magbegor 1 AST),,,51 - 70,19,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,538,1,47,4,11:53 PM,3:22,,,Sutton 7' Turnaround Jump Shot (4 PTS) (Cloud 4 AST),53 - 70,17,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,541,2,6,4,11:53 PM,3:03,MISS Vivians 2' Driving Layup,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,542,4,0,4,11:53 PM,3:00,,,Sutton REBOUND (Off:0 Def:1),,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,543,1,101,4,11:53 PM,2:57,,,Sutton 11' Driving Floating Jump Shot (6 PTS),55 - 70,15,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,544,9,1,4,11:53 PM,2:55,STORM Timeout: Regular (Full 4 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,545,6,1,4,11:56 PM,2:41,,,Taurasi P.FOUL (P3.T2),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,1,0,,,,,,0
+1022400051,547,1,6,4,11:57 PM,2:34,Diggins-Smith 3' Driving Layup (14 PTS),,,55 - 72,17,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,548,1,1,4,11:57 PM,2:11,,,Copper 24' 3PT Jump Shot (19 PTS) (Cloud 5 AST),58 - 72,14,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,550,1,1,4,11:57 PM,1:50,Diggins-Smith 25' 3PT Jump Shot (17 PTS) (Magbegor 2 AST),,,58 - 75,17,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,552,2,101,4,11:58 PM,1:38,,,MISS Taurasi 7' Driving Floating Jump Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,553,4,0,4,11:58 PM,1:33,,,Taurasi REBOUND (Off:1 Def:4),,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,554,2,97,4,11:58 PM,1:33,,,MISS Taurasi 1' Tip Layup Shot,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,555,4,0,4,11:58 PM,1:31,Vivians REBOUND (Off:0 Def:7),,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,556,1,6,4,11:58 PM,1:27,Vivians 2' Driving Layup (10 PTS),,,58 - 77,19,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,557,9,1,4,11:58 PM,1:27,,,Mercury Timeout: Regular (Reg.3 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,558,8,0,4,11:58 PM,1:27,SUB: Mühl FOR Magbegor,,,,,4,1629496,Ezi Magbegor,1611661328.0,Seattle,Storm,SEA,4,1642299,Nika Mühl,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,559,8,0,4,11:58 PM,1:27,SUB: Holmes FOR Loyd,,,,,4,204319,Jewell Loyd,1611661328.0,Seattle,Storm,SEA,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,560,8,0,4,11:58 PM,1:27,SUB: Horston FOR Vivians,,,,,4,1628927,Victoria Vivians,1611661328.0,Seattle,Storm,SEA,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,561,8,0,4,11:58 PM,1:27,SUB: Williams FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661328.0,Seattle,Storm,SEA,4,1630461,Kiana Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1022400051,566,9,1,4,12:01 AM,1:27,,,Mercury Timeout: Regular (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,567,8,0,4,12:01 AM,1:27,,,SUB: Bertsch FOR Cloud,,,5,204333,Natasha Cloud,1611661317.0,Phoenix,Mercury,PHO,5,1629571,Morgan Bertsch,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,568,8,0,4,12:01 AM,1:27,,,SUB: Mack FOR Copper,,,5,1627674,Kahleah Copper,1611661317.0,Phoenix,Mercury,PHO,5,1630442,Natasha Mack,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,569,8,0,4,12:01 AM,1:27,,,SUB: Dixon FOR Taurasi,,,5,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,570,8,0,4,12:01 AM,1:27,,,SUB: Herbert Harrigan FOR Cunningham,,,5,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,575,1,5,4,12:01 AM,1:14,,,Dixon 3' Layup (6 PTS) (Sutton 3 AST),60 - 77,17,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022400051,577,2,79,4,12:02 AM,1:01,MISS Williams 21' Pullup Jump Shot,,,,,4,1630461,Kiana Williams,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,578,4,0,4,12:02 AM,0:59,,,Herbert Harrigan REBOUND (Off:0 Def:2),,,5,1630114,Mikiah Herbert Harrigan,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,579,9,6,4,12:02 AM,0:59,,,Mercury Timeout: Reset (Reg.4 Short 0),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,580,2,101,4,12:02 AM,0:51,,,MISS Sutton 10' Driving Floating Jump Shot,,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,581,4,0,4,12:02 AM,0:48,Holmes REBOUND (Off:2 Def:2),,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,582,2,79,4,12:02 AM,0:42,MISS Horston 13' Pullup Jump Shot,,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,583,4,0,4,12:02 AM,0:39,,,Dixon REBOUND (Off:1 Def:5),,,5,1641700,Liz Dixon,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,584,1,6,4,12:03 AM,0:26,,,Sutton 3' Driving Layup (8 PTS),62 - 77,15,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022400051,585,9,6,4,12:03 AM,0:26,STORM Timeout: Reset (Full 4 Short 0),,,,,2,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1022400051,586,2,1,4,12:03 AM,0:20,MISS Holmes 25' 3PT Jump Shot,,,,,4,1630115,Joyner Holmes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,587,4,0,4,12:03 AM,0:16,Horston REBOUND (Off:1 Def:5),,,,,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1022400051,588,1,1,4,12:03 AM,0:15,Williams 24' 3PT Jump Shot (3 PTS) (Horston 1 AST),,,62 - 80,18,4,1630461,Kiana Williams,1611661328.0,Seattle,Storm,SEA,4,1641651,Jordan Horston,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,590,5,2,4,12:03 AM,0:00,Whitcomb STEAL (1 STL),,Sutton Lost Ball Turnover (P1.T17),,,5,1630134,Sug Sutton,1611661317.0,Phoenix,Mercury,PHO,4,1628244,Sami Whitcomb,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1
+1022400051,592,13,0,4,12:04 AM,0:00,,End of 4th Period (12:04 AM EST),,62 - 80,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

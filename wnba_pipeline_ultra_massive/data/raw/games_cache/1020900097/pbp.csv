@@ -1,0 +1,422 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020900097,0,12,0,1,7:09 PM,10:00,,Start of 1st Period (7:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,1,10,0,1,7:09 PM,10:00,Jump Ball Melvin vs. Sutton-Brown: Tip to,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,3,1611661325,,,,,,0
+1020900097,2,5,2,1,7:10 PM,9:41,Harding STEAL (1 STL),,Sutton-Brown Lost Ball Turnover (P1.T1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,3,2,1,1,7:11 PM,9:25,MISS Melvin 3' Jump Shot,,Sutton-Brown BLOCK (1 BLK),,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0
+1020900097,4,4,0,1,7:11 PM,9:23,,,Sutton-Brown REBOUND (Off:0 Def:1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,5,6,2,1,7:11 PM,9:12,Beard S.FOUL (P1.T1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,6,3,11,1,7:11 PM,9:12,,,Catchings Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,8,3,12,1,7:11 PM,9:12,,,Catchings Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,10,1,1,1,7:12 PM,8:48,Currie 17' Jump Shot (2 PTS) (Harding 1 AST),,,2 - 2,TIE,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,11,1,5,1,7:12 PM,8:37,,,Sutton-Brown 3' Layup (2 PTS) (Bevilaqua 1 AST),4 - 2,-2,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,12,1,79,1,7:12 PM,8:23,Harding 15' Pullup Jump Shot (2 PTS),,,4 - 4,TIE,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,13,1,1,1,7:13 PM,8:11,,,Hoffman 15' Jump Shot (2 PTS),6 - 4,-2,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,15,10,0,1,7:13 PM,7:57,Jump Ball Melvin vs. Bevilaqua: Tip to Harding,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0
+1020900097,16,2,1,1,7:14 PM,7:46,MISS Currie 12' Jump Shot,,Bevilaqua BLOCK (1 BLK),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0
+1020900097,17,4,0,1,7:14 PM,7:43,,,Catchings REBOUND (Off:0 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,18,6,2,1,7:14 PM,7:36,Langhorne S.FOUL (P1.T2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,19,3,11,1,7:14 PM,7:36,,,MISS Sutton-Brown Free Throw 1 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,20,4,1,1,7:14 PM,7:36,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,21,3,12,1,7:14 PM,7:36,,,MISS Sutton-Brown Free Throw 2 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,23,4,0,1,7:15 PM,7:35,Currie REBOUND (Off:0 Def:1),,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,24,10,0,1,7:15 PM,7:25,Jump Ball Currie vs. Douglas: Tip to Hoffman,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0
+1020900097,25,5,2,1,7:15 PM,7:25,Currie Lost Ball Turnover (P1.T1),,Douglas STEAL (1 STL),,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,26,5,1,1,7:15 PM,7:17,Currie STEAL (1 STL),,Douglas Bad Pass Turnover (P1.T2),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,27,1,79,1,7:15 PM,7:11,Harding 10' Pullup Jump Shot (4 PTS) (Beard 1 AST),,,6 - 6,TIE,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,28,1,41,1,7:15 PM,7:05,,,Sutton-Brown  Running Layup (4 PTS) (Bevilaqua 2 AST),8 - 6,-2,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,29,2,1,1,7:16 PM,6:46,MISS Harding  3PT Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,30,4,0,1,7:16 PM,6:45,Beard REBOUND (Off:1 Def:0),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,31,1,1,1,7:16 PM,6:41,Beard  3PT Jump Shot (3 PTS),,,8 - 9,1,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,32,5,1,1,7:16 PM,6:25,Melvin STEAL (1 STL),,Bevilaqua Bad Pass Turnover (P1.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,33,6,1,1,7:16 PM,6:22,,,Bevilaqua P.FOUL (P1.T1),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,35,6,4,1,7:17 PM,6:18,Langhorne OFF.Foul (P2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,36,5,5,1,7:17 PM,6:18,Langhorne Foul Turnover (P1.T2),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,37,2,1,1,7:17 PM,5:59,Currie BLOCK (1 BLK),,MISS Catchings 18' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0
+1020900097,38,4,0,1,7:17 PM,5:57,,,Catchings REBOUND (Off:1 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,39,2,1,1,7:17 PM,5:55,,,MISS Catchings 15' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,40,4,0,1,7:17 PM,5:54,,,Catchings REBOUND (Off:2 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,41,2,1,1,7:18 PM,5:51,,,MISS Bevilaqua 15' Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,42,4,0,1,7:18 PM,5:50,Harding REBOUND (Off:0 Def:1),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,43,1,79,1,7:18 PM,5:47,Beard 11' Pullup Jump Shot (5 PTS) (Harding 2 AST),,,8 - 11,3,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,45,2,1,1,7:18 PM,5:25,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,46,4,0,1,7:18 PM,5:24,,,Sutton-Brown REBOUND (Off:1 Def:1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,47,1,5,1,7:18 PM,5:18,,,Sutton-Brown 2' Layup (6 PTS),10 - 11,1,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,48,6,2,1,7:18 PM,5:10,,,Sutton-Brown S.FOUL (P1.T2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,49,3,11,1,7:18 PM,5:10,MISS Langhorne Free Throw 1 of 2,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,50,4,1,1,7:18 PM,5:10,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,51,3,12,1,7:19 PM,5:10,Langhorne Free Throw 2 of 2 (1 PTS),,,10 - 12,2,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,54,2,1,1,7:19 PM,4:48,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,55,4,0,1,7:19 PM,4:46,Beard REBOUND (Off:1 Def:1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,56,2,1,1,7:19 PM,4:39,MISS Currie  3PT Jump Shot,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,57,4,0,1,7:19 PM,4:38,,,Sutton-Brown REBOUND (Off:1 Def:2),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,58,2,1,1,7:20 PM,4:31,,,MISS Catchings 16' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,59,4,0,1,7:20 PM,4:30,Beard REBOUND (Off:1 Def:2),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,60,2,1,1,7:20 PM,4:21,MISS Melvin 9' Jump Shot,,Sutton-Brown BLOCK (2 BLK),,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0
+1020900097,61,4,0,1,7:20 PM,4:21,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,62,8,0,1,7:20 PM,4:21,SUB: Mosby FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,63,9,4,1,7:20 PM,4:21,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,65,8,0,1,7:20 PM,4:21,SUB: Coleman FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,66,5,2,1,7:23 PM,4:13,Mosby Lost Ball Turnover (P1.T3),,Douglas STEAL (2 STL),,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,67,5,1,1,7:23 PM,4:05,,,Hoffman Bad Pass Turnover (P1.T4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020900097,68,1,63,1,7:23 PM,3:48,Coleman 17' Fadeaway Jumper (2 PTS),,,10 - 14,4,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,69,2,5,1,7:24 PM,3:29,,,MISS Catchings 2' Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,70,4,0,1,7:24 PM,3:28,Coleman REBOUND (Off:0 Def:1),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,71,5,40,1,7:24 PM,3:22,Harding Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,72,2,1,1,7:24 PM,3:01,,,MISS Catchings 12' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,73,4,0,1,7:24 PM,2:59,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,74,1,1,1,7:25 PM,2:48,,,Sutton-Brown 15' Jump Shot (8 PTS),12 - 14,2,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,75,2,1,1,7:25 PM,2:30,MISS Mosby 13' Jump Shot,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,76,4,0,1,7:25 PM,2:28,,,Sutton-Brown REBOUND (Off:1 Def:3),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,77,2,5,1,7:25 PM,2:23,Harding BLOCK (1 BLK),,MISS Catchings 2' Layup,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0
+1020900097,78,4,0,1,7:25 PM,2:21,,,Catchings REBOUND (Off:3 Def:1),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,79,1,72,1,7:25 PM,2:19,,,Catchings 2' Putback Layup (4 PTS),14 - 14,TIE,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,80,5,2,1,7:26 PM,2:05,Harding Lost Ball Turnover (P2.T5),,Bevilaqua STEAL (1 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,81,1,5,1,7:26 PM,1:58,,,Douglas 1' Layup (2 PTS) (Bevilaqua 3 AST),16 - 14,-2,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,82,2,1,1,7:26 PM,1:38,MISS Mosby 15' Jump Shot,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,83,4,0,1,7:26 PM,1:37,,,Sutton-Brown REBOUND (Off:1 Def:4),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,84,1,1,1,7:26 PM,1:25,,,Bevilaqua  3PT Jump Shot (3 PTS) (Hoffman 1 AST),19 - 14,-5,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,85,5,2,1,7:26 PM,1:10,Beard Lost Ball Turnover (P1.T6),,Douglas STEAL (3 STL),,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,86,2,5,1,7:27 PM,0:53,,,MISS Sutton-Brown 3' Layup,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,87,4,0,1,7:27 PM,0:51,Mosby REBOUND (Off:0 Def:1),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,88,2,5,1,7:27 PM,0:47,MISS Melvin 2' Layup,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,89,4,0,1,7:27 PM,0:45,,,Catchings REBOUND (Off:3 Def:2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,90,6,2,1,7:27 PM,0:41,Beard S.FOUL (P2.T3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,91,8,0,1,7:27 PM,0:41,,,SUB: Dixon FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,92,8,0,1,7:27 PM,0:41,SUB: Sanford FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,93,3,11,1,7:27 PM,0:41,,,Sutton-Brown Free Throw 1 of 2 (9 PTS),20 - 14,-6,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,95,8,0,1,7:28 PM,0:41,,,SUB: January FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,96,8,0,1,7:28 PM,0:41,SUB: Ajavon FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,100,7,3,1,7:28 PM,0:41,Mosby Violation:Lane,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,102,3,12,1,7:28 PM,0:41,,,MISS Sutton-Brown Free Throw 2 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,104,4,0,1,7:28 PM,0:40,,,Hoffman REBOUND (Off:1 Def:0),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,105,1,72,1,7:28 PM,0:39,,,Hoffman 2' Putback Layup (4 PTS),22 - 14,-8,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,107,1,1,1,7:29 PM,0:23,Coleman  3PT Jump Shot (5 PTS) (Harding 3 AST),,,22 - 17,-5,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,108,9,1,1,7:29 PM,0:23,,,Fever Timeout: Regular (Reg.1 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,110,8,0,1,7:30 PM,0:23,,,SUB: Davenport FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,111,8,0,1,7:31 PM,0:23,,,SUB: Moore FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,112,6,2,1,7:31 PM,0:07,Ajavon S.FOUL (P1.PN),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,113,3,11,1,7:31 PM,0:07,,,January Free Throw 1 of 2 (1 PTS),23 - 17,-6,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,115,3,12,1,7:32 PM,0:07,,,January Free Throw 2 of 2 (2 PTS),24 - 17,-7,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,117,2,1,1,7:32 PM,0:00,MISS Ajavon 30' 3PT Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,118,4,0,1,7:32 PM,0:00,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,119,13,0,1,7:32 PM,0:00,,End of 1st Period (7:32 PM EST),,24 - 17,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,121,12,0,2,7:35 PM,10:00,,Start of 2nd Period (7:35 PM EST),,24 - 17,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,122,2,1,2,7:35 PM,9:47,MISS Sanford 11' Jump Shot,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,123,4,0,2,7:35 PM,9:44,Langhorne REBOUND (Off:1 Def:0),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,124,1,5,2,7:35 PM,9:43,Langhorne 1' Layup (3 PTS),,,24 - 19,-5,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,125,6,2,2,7:35 PM,9:43,,,Davenport S.FOUL (P1.T1),,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,126,3,10,2,7:35 PM,9:43,Langhorne Free Throw 1 of 1 (4 PTS),,,24 - 20,-4,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,128,2,1,2,7:36 PM,9:32,,,MISS January 16' Jump Shot,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,129,4,0,2,7:36 PM,9:30,,,Davenport REBOUND (Off:1 Def:0),,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,130,5,1,2,7:36 PM,9:15,Sanford STEAL (1 STL),,Douglas Bad Pass Turnover (P2.T5),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,131,6,1,2,7:36 PM,9:15,,,Moore P.FOUL (P1.T2),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,132,8,0,2,7:36 PM,9:15,,,SUB: Murphy FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,134,6,1,2,7:37 PM,9:03,,,January P.FOUL (P1.T3),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,135,6,1,2,7:37 PM,8:55,,,January P.FOUL (P2.T4),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,136,6,1,2,7:38 PM,8:45,,,Dixon P.FOUL (P1.PN),,,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,137,3,11,2,7:38 PM,8:45,Ajavon Free Throw 1 of 2 (1 PTS),,,24 - 21,-3,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,139,3,12,2,7:38 PM,8:45,Ajavon Free Throw 2 of 2 (2 PTS),,,24 - 22,-2,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,141,5,10,2,7:39 PM,8:36,,,Fever Turnover: 8 Second Violation (T#6),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900097,143,6,2,2,7:39 PM,8:21,,,January S.FOUL (P3.PN),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,144,18,0,2,7:40 PM,8:21,,Instant Replay2nd Period (7:40 PM EST),,24 - 22,-2,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900097,145,3,11,2,7:40 PM,8:21,MISS Ajavon Free Throw 1 of 2,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,146,4,1,2,7:40 PM,8:21,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,147,8,0,2,7:40 PM,8:21,,,SUB: Bevilaqua FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,148,3,12,2,7:41 PM,8:21,Ajavon Free Throw 2 of 2 (3 PTS),,,24 - 23,-1,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,151,5,4,2,7:41 PM,8:17,,,Bevilaqua Traveling Turnover (P2.T7),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020900097,152,6,2,2,7:41 PM,8:05,,,Moore S.FOUL (P2.PN),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,153,3,11,2,7:42 PM,8:05,Langhorne Free Throw 1 of 2 (5 PTS),,,24 - 24,TIE,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,155,3,12,2,7:42 PM,8:05,Langhorne Free Throw 2 of 2 (6 PTS),,,24 - 25,1,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,157,5,1,2,7:42 PM,8:03,Ajavon STEAL (1 STL),,Moore Bad Pass Turnover (P1.T8),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,159,1,1,2,7:42 PM,7:46,Langhorne 17' Jump Shot (8 PTS) (Harding 4 AST),,,24 - 27,3,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,160,2,1,2,7:42 PM,7:33,,,MISS Dixon 16' Jump Shot,,,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,161,4,0,2,7:42 PM,7:31,Ajavon REBOUND (Off:0 Def:1),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,162,2,5,2,7:43 PM,7:17,MISS Langhorne 1' Layup,,Davenport BLOCK (1 BLK),,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0
+1020900097,163,4,0,2,7:43 PM,7:17,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,164,8,0,2,7:43 PM,7:17,,,SUB: Douglas FOR Dixon,,,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,165,8,0,2,7:43 PM,7:17,,,SUB: Hoffman FOR Davenport,,,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,166,8,0,2,7:43 PM,7:17,,,SUB: Catchings FOR Moore,,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,167,8,0,2,7:43 PM,7:17,,,SUB: Sutton-Brown FOR Murphy,,,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,168,8,0,2,7:43 PM,7:17,SUB: Melvin FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,169,6,2,2,7:43 PM,7:12,,,Douglas S.FOUL (P1.PN),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,171,9,1,2,7:44 PM,7:12,,,Fever Timeout: Regular (Reg.2 Short 0),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,173,3,11,2,7:46 PM,7:12,MISS Melvin Free Throw 1 of 2,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,174,4,1,2,7:46 PM,7:12,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,175,3,12,2,7:46 PM,7:12,MISS Melvin Free Throw 2 of 2,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,177,4,0,2,7:47 PM,7:11,,,Hoffman REBOUND (Off:1 Def:1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,178,6,1,2,7:47 PM,7:07,Sanford P.FOUL (P1.T1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,179,6,2,2,7:47 PM,6:52,Ajavon S.FOUL (P2.T2),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,180,3,11,2,7:48 PM,6:52,,,Catchings Free Throw 1 of 2 (5 PTS),25 - 27,2,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,182,8,0,2,7:48 PM,6:52,SUB: Beard FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,184,8,0,2,7:48 PM,6:52,SUB: Currie FOR Coleman,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,185,3,12,2,7:48 PM,6:52,,,Catchings Free Throw 2 of 2 (6 PTS),26 - 27,1,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,188,2,1,2,7:49 PM,6:31,MISS Harding 11' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,189,4,0,2,7:49 PM,6:30,,,Sutton-Brown REBOUND (Off:1 Def:5),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,190,2,1,2,7:49 PM,6:06,,,MISS Bevilaqua 20' Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,191,4,0,2,7:49 PM,6:05,Beard REBOUND (Off:1 Def:3),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,192,1,1,2,7:50 PM,5:44,Beard 24' 3PT Jump Shot (8 PTS) (Melvin 1 AST),,,26 - 30,4,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,193,2,1,2,7:50 PM,5:23,,,MISS Douglas 16' Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,194,4,0,2,7:50 PM,5:23,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,195,2,1,2,7:51 PM,5:21,,,MISS Hoffman 19' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,196,4,0,2,7:51 PM,5:19,Harding REBOUND (Off:0 Def:2),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,197,2,1,2,7:51 PM,5:14,MISS Beard 11' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,198,4,0,2,7:51 PM,5:13,,,Bevilaqua REBOUND (Off:0 Def:1),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,199,5,40,2,7:51 PM,5:08,,,Sutton-Brown Out of Bounds Lost Ball Turnover (P2.T9),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020900097,201,2,1,2,7:51 PM,4:47,MISS Harding 13' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,202,4,0,2,7:51 PM,4:46,,,Douglas REBOUND (Off:0 Def:1),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,203,1,1,2,7:52 PM,4:33,,,Bevilaqua  3PT Jump Shot (6 PTS) (Douglas 1 AST),29 - 30,1,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,204,9,1,2,7:52 PM,4:24,MYSTICS Timeout: Regular (Full 1 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,206,8,0,2,7:54 PM,4:24,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,207,8,0,2,7:54 PM,4:24,SUB: Coleman FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,208,5,1,2,7:55 PM,4:08,Harding Bad Pass Turnover (P3.T7),,Bevilaqua STEAL (2 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,209,1,5,2,7:55 PM,4:02,,,Douglas  Layup (4 PTS) (Bevilaqua 4 AST),31 - 30,-1,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,210,5,4,2,7:55 PM,3:49,Coleman Traveling Turnover (P1.T8),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,211,8,0,2,7:55 PM,3:49,SUB: Ajavon FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,213,2,1,2,7:55 PM,3:34,,,MISS Catchings 25' 3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,214,4,0,2,7:55 PM,3:32,Harding REBOUND (Off:0 Def:3),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,215,5,1,2,7:56 PM,3:23,Harding Bad Pass Turnover (P4.T9),,Catchings STEAL (1 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,216,1,5,2,7:56 PM,3:18,,,Catchings 1' Layup (8 PTS),33 - 30,-3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,217,2,1,2,7:56 PM,2:53,MISS Harding 11' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,218,4,0,2,7:56 PM,2:52,Ajavon REBOUND (Off:1 Def:1),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,219,1,1,2,7:56 PM,2:49,Ajavon 7' Jump Shot (5 PTS),,,33 - 32,-1,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,220,6,2,2,7:56 PM,2:42,Melvin S.FOUL (P1.T3),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,221,3,11,2,7:56 PM,2:42,,,Sutton-Brown Free Throw 1 of 2 (10 PTS),34 - 32,-2,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,223,8,0,2,7:57 PM,2:42,SUB: Sanford FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,224,3,12,2,7:57 PM,2:42,,,MISS Sutton-Brown Free Throw 2 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,226,4,0,2,7:57 PM,2:41,Sanford REBOUND (Off:0 Def:1),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,227,2,1,2,7:57 PM,2:22,MISS Ajavon  3PT Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,228,4,0,2,7:57 PM,2:21,,,Sutton-Brown REBOUND (Off:1 Def:6),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,229,6,2,2,7:58 PM,2:16,Coleman S.FOUL (P1.T4),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,230,3,11,2,7:58 PM,2:16,,,Catchings Free Throw 1 of 2 (9 PTS),35 - 32,-3,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,232,8,0,2,7:58 PM,2:16,SUB: Beard FOR Coleman,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,233,8,0,2,7:58 PM,2:16,SUB: Langhorne FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,234,3,12,2,7:58 PM,2:16,,,Catchings Free Throw 2 of 2 (10 PTS),36 - 32,-4,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,237,2,1,2,7:59 PM,1:55,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,238,4,0,2,7:59 PM,1:54,,,Catchings REBOUND (Off:3 Def:3),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,239,2,1,2,7:59 PM,1:34,,,MISS Bevilaqua  3PT Jump Shot,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,240,4,0,2,7:59 PM,1:33,Beard REBOUND (Off:1 Def:4),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,241,5,2,2,8:00 PM,1:15,Harding Lost Ball Turnover (P5.T10),,Catchings STEAL (2 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,242,1,5,2,8:00 PM,1:10,,,Catchings 1' Layup (12 PTS),38 - 32,-6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,243,9,1,2,8:00 PM,0:59,MYSTICS Timeout: Regular (Full 2 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,245,5,1,2,8:02 PM,0:53,Beard Bad Pass Turnover (P2.T11),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,246,1,1,2,8:02 PM,0:41,,,Hoffman  3PT Jump Shot (7 PTS) (Bevilaqua 5 AST),41 - 32,-9,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,247,1,1,2,8:03 PM,0:26,Langhorne 17' Jump Shot (10 PTS) (Harding 5 AST),,,41 - 34,-7,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,248,2,1,2,8:03 PM,0:07,,,MISS Hoffman 19' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,249,4,0,2,8:03 PM,0:06,Ajavon REBOUND (Off:1 Def:2),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,250,2,5,2,8:03 PM,0:01,MISS Ajavon 1' Layup,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,251,4,0,2,8:03 PM,0:00,,,Catchings REBOUND (Off:3 Def:4),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,252,13,0,2,8:03 PM,0:00,,End of 2nd Period (8:03 PM EST),,41 - 34,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,254,12,0,3,8:20 PM,10:00,,Start of 3rd Period (8:20 PM EST),,41 - 34,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,255,1,1,3,8:20 PM,9:50,Beard 8' Jump Shot (10 PTS),,,41 - 36,-5,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,256,6,2,3,8:20 PM,9:50,,,Sutton-Brown S.FOUL (P2.T1),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,257,3,10,3,8:20 PM,9:50,Beard Free Throw 1 of 1 (11 PTS),,,41 - 37,-4,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,259,1,1,3,8:21 PM,9:26,,,Hoffman 16' Jump Shot (9 PTS) (Sutton-Brown 1 AST),43 - 37,-6,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,260,1,5,3,8:22 PM,9:10,Melvin 4' Layup (2 PTS),,,43 - 39,-4,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,261,6,2,3,8:22 PM,8:51,Melvin S.FOUL (P2.T1),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,263,3,11,3,8:22 PM,8:51,,,Catchings Free Throw 1 of 2 (13 PTS),44 - 39,-5,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,265,3,12,3,8:22 PM,8:51,,,Catchings Free Throw 2 of 2 (14 PTS),45 - 39,-6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,268,1,5,3,8:23 PM,8:38,Langhorne 4' Layup (12 PTS) (Beard 2 AST),,,45 - 41,-4,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,269,1,1,3,8:23 PM,8:25,,,Catchings 25' 3PT Jump Shot (17 PTS),48 - 41,-7,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,270,2,1,3,8:23 PM,8:11,MISS Beard 10' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,271,4,0,3,8:23 PM,8:09,Melvin REBOUND (Off:1 Def:0),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,272,5,1,3,8:23 PM,8:09,Melvin Bad Pass Turnover (P1.T12),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,273,2,1,3,8:24 PM,7:49,,,MISS Douglas 5' Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,274,4,0,3,8:24 PM,7:48,Langhorne REBOUND (Off:1 Def:1),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,275,5,1,3,8:24 PM,7:42,Harding Bad Pass Turnover (P6.T13),,Sutton-Brown STEAL (1 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,276,2,1,3,8:24 PM,7:30,,,MISS Catchings 18' Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,277,4,0,3,8:24 PM,7:28,Beard REBOUND (Off:1 Def:5),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,278,1,5,3,8:24 PM,7:23,Currie 4' Layup (4 PTS) (Harding 6 AST),,,48 - 43,-5,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,279,2,1,3,8:25 PM,6:58,,,MISS Douglas 7' Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,280,4,0,3,8:25 PM,6:57,,,Douglas REBOUND (Off:1 Def:1),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,281,5,2,3,8:25 PM,6:53,Langhorne STEAL (1 STL),,Douglas Lost Ball Turnover (P3.T10),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,282,2,5,3,8:25 PM,6:47,MISS Currie  Layup,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,283,4,0,3,8:25 PM,6:46,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,285,1,1,3,8:26 PM,6:33,,,Hoffman 17' Jump Shot (11 PTS) (Douglas 2 AST),50 - 43,-7,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,286,6,4,3,8:26 PM,6:23,Langhorne OFF.Foul (P3),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,287,5,5,3,8:26 PM,6:23,Langhorne Foul Turnover (P2.T14),,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,288,8,0,3,8:26 PM,6:23,SUB: Ajavon FOR Harding,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,289,1,42,3,8:26 PM,6:04,,,Douglas 2' Driving Layup (6 PTS) (Bevilaqua 6 AST),52 - 43,-9,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,290,1,5,3,8:27 PM,5:48,Langhorne 3' Layup (14 PTS) (Melvin 2 AST),,,52 - 45,-7,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,291,6,2,3,8:27 PM,5:48,,,Catchings S.FOUL (P1.T2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,292,8,0,3,8:27 PM,5:48,SUB: Coleman FOR Currie,,,,,4,200673,Monique Currie,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,293,3,10,3,8:27 PM,5:48,Langhorne Free Throw 1 of 1 (15 PTS),,,52 - 46,-6,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,296,5,2,3,8:28 PM,5:27,Langhorne STEAL (2 STL),,Hoffman Lost Ball Turnover (P2.T11),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,297,5,4,3,8:28 PM,5:25,Ajavon Traveling Turnover (P1.T15),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,298,8,0,3,8:28 PM,5:25,,,SUB: Moore FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,299,6,1,3,8:28 PM,5:16,Melvin P.FOUL (P3.T2),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,300,1,5,3,8:29 PM,5:07,,,Bevilaqua 3' Layup (8 PTS),54 - 46,-8,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,301,1,1,3,8:29 PM,4:52,Beard 18' Jump Shot (13 PTS),,,54 - 48,-6,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,302,2,1,3,8:29 PM,4:42,,,MISS Hoffman 3' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,303,4,0,3,8:29 PM,4:41,Beard REBOUND (Off:1 Def:6),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,304,2,1,3,8:29 PM,4:35,MISS Beard  3PT Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,305,4,0,3,8:29 PM,4:34,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,306,8,0,3,8:29 PM,4:34,SUB: Mosby FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,307,9,4,3,8:29 PM,4:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,309,8,0,3,8:31 PM,4:34,,,SUB: Dixon FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,310,8,0,3,8:32 PM,4:34,SUB: Harding FOR Beard,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,311,5,1,3,8:32 PM,4:19,,,Catchings Bad Pass Turnover (P1.T12),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020900097,312,1,1,3,8:33 PM,4:04,Mosby 10' Jump Shot (2 PTS) (Ajavon 1 AST),,,54 - 50,-4,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,313,1,1,3,8:33 PM,3:37,,,Catchings 17' Jump Shot (19 PTS) (Dixon 1 AST),56 - 50,-6,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,314,6,1,3,8:33 PM,3:25,,,Bevilaqua P.FOUL (P2.T3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,315,8,0,3,8:34 PM,3:25,,,SUB: January FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,316,8,0,3,8:34 PM,3:25,SUB: Beard FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,317,1,1,3,8:34 PM,3:16,Mosby 5' Jump Shot (4 PTS) (Beard 3 AST),,,56 - 52,-4,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,318,2,1,3,8:34 PM,2:55,,,MISS Hoffman 17' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,319,4,0,3,8:34 PM,2:54,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,320,6,1,3,8:34 PM,2:54,Melvin P.FOUL (P4.T3),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,321,8,0,3,8:35 PM,2:54,SUB: Sanford FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,323,1,47,3,8:35 PM,2:41,,,Hoffman 10' Turnaround Jump Shot (13 PTS),58 - 52,-6,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,324,6,1,3,8:36 PM,2:29,,,Moore P.FOUL (P3.T4),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,325,6,2,3,8:36 PM,2:18,,,Hoffman S.FOUL (P1.PN),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,326,3,11,3,8:36 PM,2:18,Sanford Free Throw 1 of 2 (1 PTS),,,58 - 53,-5,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,328,8,0,3,8:37 PM,2:18,SUB: Ajavon FOR Harding,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,329,8,0,3,8:37 PM,2:18,,,SUB: Douglas FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,330,3,12,3,8:37 PM,2:18,MISS Sanford Free Throw 2 of 2,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,332,4,0,3,8:37 PM,2:17,,,Hoffman REBOUND (Off:1 Def:2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,334,2,1,3,8:37 PM,1:55,,,MISS Hoffman 18' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,335,4,0,3,8:37 PM,1:53,,,January REBOUND (Off:1 Def:0),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,336,6,4,3,8:37 PM,1:42,,,Hoffman OFF.Foul (P2),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,337,5,5,3,8:37 PM,1:42,,,Hoffman Foul Turnover (P3.T13),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020900097,338,2,1,3,8:38 PM,1:25,MISS Ajavon 16' Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,339,4,0,3,8:38 PM,1:23,,,Moore REBOUND (Off:0 Def:1),,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,340,8,0,3,8:38 PM,1:07,SUB: Langhorne FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,341,2,1,3,8:39 PM,1:00,,,MISS Hoffman 24' 3PT Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,342,4,0,3,8:39 PM,0:57,Beard REBOUND (Off:1 Def:7),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,343,5,1,3,8:39 PM,0:47,Beard Bad Pass Turnover (P3.T16),,Hoffman STEAL (1 STL),,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,344,9,2,3,8:39 PM,0:46,,,Fever Timeout: Short (Reg.2 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,346,8,0,3,8:40 PM,0:46,,,SUB: Sutton-Brown FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,347,5,1,3,8:41 PM,0:27,Sanford STEAL (2 STL),,Douglas Bad Pass Turnover (P4.T14),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,348,5,7,3,8:41 PM,0:06,Ajavon Discontinue Dribble Turnover (P2.T17),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,349,6,1,3,8:41 PM,0:06,Ajavon P.FOUL (P3.T4),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,350,2,1,3,8:42 PM,0:00,,,MISS Sutton-Brown 20' Jump Shot,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,351,4,0,3,8:42 PM,0:00,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,352,13,0,3,8:42 PM,0:00,,End of 3rd Period (8:42 PM EST),,58 - 53,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,354,12,0,4,8:45 PM,10:00,,Start of 4th Period (8:45 PM EST),,58 - 53,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,355,5,11,4,8:45 PM,9:36,,,Fever Turnover: Shot Clock (T#15),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900097,356,2,1,4,8:46 PM,9:20,MISS Coleman  3PT Jump Shot,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,357,4,0,4,8:46 PM,9:19,MYSTICS Rebound,,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,358,8,0,4,8:46 PM,9:19,,,SUB: Catchings FOR Dixon,,,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,359,2,1,4,8:47 PM,9:04,MISS Beard 4' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,360,4,0,4,8:47 PM,9:03,,,Catchings REBOUND (Off:3 Def:5),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,361,6,1,4,8:47 PM,9:02,Beard P.FOUL (P3.T1),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,362,2,1,4,8:47 PM,8:47,,,MISS Catchings  3PT Jump Shot,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,363,4,0,4,8:47 PM,8:47,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,364,8,0,4,8:47 PM,8:45,SUB: Sanford FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,365,1,79,4,8:48 PM,8:31,,,January 7' Pullup Jump Shot (4 PTS),60 - 53,-7,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,366,1,42,4,8:48 PM,8:22,Harding 2' Driving Layup (6 PTS),,,60 - 55,-5,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,367,6,4,4,8:48 PM,7:57,,,Catchings OFF.Foul (P2),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,368,5,5,4,8:48 PM,7:57,,,Catchings Foul Turnover (P2.T16),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020900097,369,6,4,4,8:49 PM,7:43,Sanford OFF.Foul (P2),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,370,5,5,4,8:49 PM,7:43,Sanford Foul Turnover (P1.T18),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,1,0,,,,,,0
+1020900097,372,6,1,4,8:50 PM,7:32,Coleman P.FOUL (P2.T2),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,373,8,0,4,8:50 PM,7:32,,,SUB: Hoffman FOR Moore,,,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,374,1,5,4,8:51 PM,7:25,,,Sutton-Brown 3' Layup (12 PTS) (Douglas 3 AST),62 - 55,-7,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,375,6,1,4,8:51 PM,7:10,,,Hoffman P.FOUL (P3.T1),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,376,8,0,4,8:51 PM,7:10,SUB: Mosby FOR Sanford,,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,377,6,1,4,8:52 PM,7:00,,,January P.FOUL (P4.T2),,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,378,8,0,4,8:52 PM,7:00,,,SUB: Bevilaqua FOR January,,,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,379,2,1,4,8:52 PM,6:49,MISS Beard 6' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,380,4,0,4,8:52 PM,6:48,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,381,2,1,4,8:53 PM,6:26,,,MISS Hoffman 15' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,382,4,0,4,8:53 PM,6:24,Coleman REBOUND (Off:0 Def:2),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,383,6,2,4,8:53 PM,6:19,,,Sutton-Brown S.FOUL (P3.T3),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,384,3,11,4,8:53 PM,6:19,Coleman Free Throw 1 of 2 (6 PTS),,,62 - 56,-6,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,386,8,0,4,8:54 PM,6:19,SUB: Melvin FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,387,3,12,4,8:54 PM,6:19,MISS Coleman Free Throw 2 of 2,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,389,4,0,4,8:54 PM,6:18,,,Sutton-Brown REBOUND (Off:1 Def:7),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,390,1,1,4,8:54 PM,5:55,,,Catchings  3PT Jump Shot (22 PTS) (Bevilaqua 7 AST),65 - 56,-9,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,391,2,1,4,8:55 PM,5:40,MISS Harding 6' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,392,4,0,4,8:55 PM,5:39,Harding REBOUND (Off:1 Def:3),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,393,9,1,4,8:55 PM,5:37,MYSTICS Timeout: Regular (Full 3 Short 0),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,395,2,5,4,8:58 PM,5:26,MISS Harding 2' Layup,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,396,4,0,4,8:58 PM,5:25,,,Catchings REBOUND (Off:3 Def:6),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,397,2,1,4,8:58 PM,5:04,,,MISS Hoffman 11' Jump Shot,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,398,4,0,4,8:58 PM,5:03,Mosby REBOUND (Off:0 Def:2),,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,399,2,1,4,8:59 PM,4:51,MISS Mosby 17' Jump Shot,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,400,4,0,4,8:59 PM,4:49,Melvin REBOUND (Off:2 Def:0),,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,401,2,5,4,8:59 PM,4:46,MISS Melvin 1' Layup,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,402,4,0,4,8:59 PM,4:46,,,Hoffman REBOUND (Off:1 Def:3),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,403,6,2,4,8:59 PM,4:42,Harding S.FOUL (P1.T3),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,404,3,11,4,8:59 PM,4:42,,,MISS Sutton-Brown Free Throw 1 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,405,4,1,4,8:59 PM,4:42,,,Fever Rebound,,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,406,8,0,4,8:59 PM,4:42,SUB: Langhorne FOR Mosby,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,407,3,12,4,8:59 PM,4:42,,,MISS Sutton-Brown Free Throw 2 of 2,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,409,4,0,4,9:00 PM,4:41,Coleman REBOUND (Off:0 Def:3),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,410,5,1,4,9:00 PM,4:30,Coleman Bad Pass Turnover (P2.T19),,Catchings STEAL (3 STL),,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,411,6,2,4,9:00 PM,4:26,Beard S.FOUL (P4.T4),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,412,3,11,4,9:00 PM,4:26,,,Catchings Free Throw 1 of 2 (23 PTS),66 - 56,-10,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,414,3,12,4,9:00 PM,4:26,,,Catchings Free Throw 2 of 2 (24 PTS),67 - 56,-11,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,416,6,2,4,9:01 PM,4:16,,,Hoffman S.FOUL (P4.T4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,417,3,11,4,9:01 PM,4:16,Harding Free Throw 1 of 2 (7 PTS),,,67 - 57,-10,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,419,3,12,4,9:01 PM,4:16,Harding Free Throw 2 of 2 (8 PTS),,,67 - 58,-9,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,421,1,1,4,9:02 PM,3:53,,,Hoffman 24' 3PT Jump Shot (16 PTS) (Bevilaqua 8 AST),70 - 58,-12,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,423,2,5,4,9:02 PM,3:36,MISS Harding 1' Layup,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,424,4,0,4,9:02 PM,3:36,,,Bevilaqua REBOUND (Off:0 Def:2),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,426,8,0,4,9:03 PM,3:36,SUB: Ajavon FOR Coleman,,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,427,10,0,4,9:03 PM,3:36,Jump Ball Langhorne vs. Bevilaqua: Tip to Beard,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020900097,428,5,2,4,9:03 PM,3:36,Langhorne STEAL (3 STL),,Bevilaqua Lost Ball Turnover (P3.T17),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,429,2,1,4,9:03 PM,3:27,MISS Beard 16' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,430,4,0,4,9:03 PM,3:26,,,Hoffman REBOUND (Off:1 Def:4),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,431,5,2,4,9:03 PM,3:05,Melvin STEAL (2 STL),,Douglas Lost Ball Turnover (P5.T18),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,432,1,5,4,9:03 PM,3:01,Harding  Layup (10 PTS) (Ajavon 2 AST),,,70 - 60,-10,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,434,5,10,4,9:04 PM,2:46,,,Fever Turnover: 8 Second Violation (T#19),,,3,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020900097,435,9,1,4,9:04 PM,2:46,,,Fever Timeout: Regular (Reg.3 Short 1),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,437,2,1,4,9:07 PM,2:40,MISS Beard 12' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,438,4,0,4,9:07 PM,2:39,,,Bevilaqua REBOUND (Off:0 Def:3),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,439,6,1,4,9:07 PM,2:30,Ajavon P.FOUL (P4.PN),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,440,3,11,4,9:07 PM,2:30,,,Catchings Free Throw 1 of 2 (25 PTS),71 - 60,-11,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,442,3,12,4,9:08 PM,2:30,,,Catchings Free Throw 2 of 2 (26 PTS),72 - 60,-12,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,445,2,1,4,9:08 PM,2:16,MISS Harding 4' Jump Shot,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,446,4,0,4,9:08 PM,2:15,,,Hoffman REBOUND (Off:1 Def:5),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,447,5,1,4,9:08 PM,2:11,Harding STEAL (2 STL),,Hoffman Bad Pass Turnover (P4.T20),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,448,1,5,4,9:08 PM,2:07,Harding 2' Layup (12 PTS),,,72 - 62,-10,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,449,6,2,4,9:09 PM,1:45,Beard S.FOUL (P5.PN),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,450,3,11,4,9:09 PM,1:45,,,Sutton-Brown Free Throw 1 of 2 (13 PTS),73 - 62,-11,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,452,8,0,4,9:10 PM,1:45,SUB: Mosby FOR Langhorne,,,,,4,201518,Crystal Langhorne,1611661322.0,Washington,Mystics,WAS,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,453,8,0,4,9:10 PM,1:45,SUB: Sanford FOR Melvin,,,,,4,100433,Chasity Melvin,1611661322.0,Washington,Mystics,WAS,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,454,3,12,4,9:10 PM,1:45,,,Sutton-Brown Free Throw 2 of 2 (14 PTS),74 - 62,-12,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,456,6,2,4,9:10 PM,1:39,,,Bevilaqua S.FOUL (P3.PN),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,457,3,11,4,9:10 PM,1:39,Harding Free Throw 1 of 2 (13 PTS),,,74 - 63,-11,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,459,3,12,4,9:11 PM,1:39,MISS Harding Free Throw 2 of 2,,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,461,4,0,4,9:11 PM,1:38,,,Hoffman REBOUND (Off:1 Def:6),,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,462,2,1,4,9:11 PM,1:19,,,MISS Douglas  3PT Jump Shot,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,463,4,0,4,9:11 PM,1:18,Harding REBOUND (Off:1 Def:4),,,,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,464,2,1,4,9:11 PM,1:13,MISS Ajavon  3PT Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,465,4,0,4,9:11 PM,1:12,,,Sutton-Brown REBOUND (Off:1 Def:8),,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,466,6,1,4,9:11 PM,1:12,Sanford P.FOUL (P3.PN),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,467,3,11,4,9:12 PM,1:12,,,Sutton-Brown Free Throw 1 of 2 (15 PTS),75 - 63,-12,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,468,3,12,4,9:12 PM,1:12,,,Sutton-Brown Free Throw 2 of 2 (16 PTS),76 - 63,-13,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,470,1,79,4,9:12 PM,1:04,Harding 14' Pullup Jump Shot (15 PTS),,,76 - 65,-11,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,471,10,0,4,9:13 PM,0:46,Jump Ball Mosby vs. Bevilaqua: Tip to Harding,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0
+1020900097,472,5,2,4,9:13 PM,0:46,Ajavon STEAL (2 STL),,Bevilaqua Lost Ball Turnover (P4.T21),,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,473,6,2,4,9:14 PM,0:41,,,Douglas S.FOUL (P2.PN),,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,1,0,,,,,,0
+1020900097,474,3,11,4,9:14 PM,0:41,Harding Free Throw 1 of 2 (16 PTS),,,76 - 66,-10,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,476,3,12,4,9:14 PM,0:41,Harding Free Throw 2 of 2 (17 PTS),,,76 - 67,-9,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,478,9,2,4,9:15 PM,0:41,,,Fever Timeout: Short (Reg.3 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,480,6,1,4,9:16 PM,0:34,Ajavon P.FOUL (P5.PN),,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,481,3,11,4,9:16 PM,0:34,,,Douglas Free Throw 1 of 2 (7 PTS),77 - 67,-10,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,483,3,12,4,9:16 PM,0:34,,,Douglas Free Throw 2 of 2 (8 PTS),78 - 67,-11,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,485,9,2,4,9:16 PM,0:34,MYSTICS Timeout: Short (Full 3 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,486,2,1,4,9:18 PM,0:29,MISS Ajavon 24' 3PT Jump Shot,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,487,4,0,4,9:18 PM,0:28,,,Catchings REBOUND (Off:3 Def:7),,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,488,6,1,4,9:18 PM,0:27,Sanford P.FOUL (P4.PN),,,,,4,100556,Nakia Sanford,1611661322.0,Washington,Mystics,WAS,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,489,3,11,4,9:18 PM,0:27,,,Catchings Free Throw 1 of 2 (27 PTS),79 - 67,-12,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,491,8,0,4,9:18 PM,0:27,,,SUB: Davenport FOR Sutton-Brown,,,5,100628,Tammy Sutton-Brown,1611661325.0,Indiana,Fever,IND,5,201047,Jessica Davenport,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,492,3,12,4,9:18 PM,0:27,,,Catchings Free Throw 2 of 2 (28 PTS),80 - 67,-13,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,494,9,1,4,9:18 PM,0:27,MYSTICS Timeout: Regular (Full 4 Short 1),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,496,8,0,4,9:19 PM,0:27,,,SUB: Dixon FOR Catchings,,,5,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100008,Tamecka Dixon,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,497,8,0,4,9:20 PM,0:27,,,SUB: Moore FOR Hoffman,,,5,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,5,101042,Jessica Moore,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,498,8,0,4,9:20 PM,0:27,SUB: Coleman FOR Ajavon,,,,,4,201492,Matee Ajavon,1611661322.0,Washington,Mystics,WAS,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,499,1,1,4,9:20 PM,0:25,Coleman  3PT Jump Shot (9 PTS) (Beard 4 AST),,,80 - 70,-10,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0
+1020900097,500,9,1,4,9:20 PM,0:25,,,Fever Timeout: Regular (Reg.4 Short 2),,,3,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,501,6,1,4,9:22 PM,0:24,Coleman P.FOUL (P3.PN),,,,,4,201889,Marissa Coleman,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,1,0,,,,,,0
+1020900097,502,3,11,4,9:22 PM,0:24,,,Bevilaqua Free Throw 1 of 2 (9 PTS),81 - 70,-11,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,504,3,12,4,9:22 PM,0:24,,,Bevilaqua Free Throw 2 of 2 (10 PTS),82 - 70,-12,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020900097,506,9,2,4,9:23 PM,0:24,MYSTICS Timeout: Short (Full 4 Short 2),,,,,2,1611661322,,,,,,0,0,,,,,,0,0,,,,,,0
+1020900097,508,10,0,4,9:24 PM,0:23,Jump Ball Mosby vs. Bevilaqua: Tip to Beard,,,,,4,201051,Bernice Mosby,1611661322.0,Washington,Mystics,WAS,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0
+1020900097,509,8,0,4,9:24 PM,0:17,,,SUB: January FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661325.0,Indiana,Fever,IND,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,510,8,0,4,9:25 PM,0:17,,,SUB: Murphy FOR Douglas,,,5,100666,Katie Douglas,1611661325.0,Indiana,Fever,IND,5,201062,Shay Murphy,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,511,2,1,4,9:25 PM,0:12,MISS Beard 17' Jump Shot,,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,512,4,0,4,9:25 PM,0:11,Beard REBOUND (Off:2 Def:7),,,,,4,100949,Alana Beard,1611661322.0,Washington,Mystics,WAS,0,0,,,,,,0,0,,,,,,0
+1020900097,513,5,1,4,9:25 PM,0:05,Harding Bad Pass Turnover (P7.T20),,January STEAL (1 STL),,,4,201046,Lindsey Harding,1611661322.0,Washington,Mystics,WAS,5,201896,Briann January,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020900097,514,13,0,4,9:25 PM,0:00,,End of 4th Period (9:25 PM EST),,82 - 70,-12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,424 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1022001114,2,12,0,1,8:04 PM,10:00,,Start of 1st Period (8:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,4,10,0,1,8:04 PM,10:00,Jump Ball Turner vs. Stokes: Tip to Clarendon,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1
+1022001114,7,2,6,1,8:04 PM,9:42,,,MISS Kea 8' Driving Layup,,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,8,4,0,1,8:04 PM,9:39,,,Kea REBOUND (Off:1 Def:0),,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,9,5,2,1,8:04 PM,9:39,Taurasi STEAL (1 STL),,Kea Lost Ball Turnover (P1.T1),,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,11,1,79,1,8:04 PM,9:34,Walker-Kimbrough 24' 3PT Pullup Jump Shot (3 PTS) (Taurasi 1 AST),,,0 - 3,3,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,13,2,101,1,8:05 PM,9:15,Taurasi BLOCK (1 BLK),,MISS Odom 11' Driving Floating Jump Shot,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,15,4,0,1,8:05 PM,9:10,Turner REBOUND (Off:0 Def:1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,16,1,79,1,8:05 PM,9:08,Taurasi 25' 3PT Pullup Jump Shot (3 PTS),,,0 - 6,6,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,17,2,6,1,8:05 PM,8:47,Walker-Kimbrough BLOCK (1 BLK),,MISS Kea 10' Driving Layup,,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,19,4,0,1,8:05 PM,8:44,,,Kea REBOUND (Off:2 Def:0),,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,20,1,79,1,8:05 PM,8:42,,,Zahui B 25' 3PT Pullup Jump Shot (3 PTS) (Kea 1 AST),3 - 6,3,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,22,2,79,1,8:05 PM,8:38,MISS Diggins-Smith 3PT Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,23,4,0,1,8:05 PM,8:38,,,Clarendon REBOUND (Off:0 Def:1),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,24,2,47,1,8:05 PM,8:27,,,MISS Zahui B 8' Turnaround Jump Shot,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,25,4,0,1,8:06 PM,8:20,Vaughn REBOUND (Off:0 Def:1),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,26,6,2,1,8:06 PM,8:20,,,Kea S.FOUL (P1.T1),,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,28,3,11,1,8:06 PM,8:20,Diggins-Smith Free Throw 1 of 2 (1 PTS),,,3 - 7,4,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,29,3,12,1,8:06 PM,8:20,Diggins-Smith Free Throw 2 of 2 (2 PTS),,,3 - 8,5,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,30,2,79,1,8:07 PM,8:02,,,MISS Stokes 3PT Pullup Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,31,4,0,1,8:07 PM,8:00,,,Odom REBOUND (Off:1 Def:0),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,32,2,79,1,8:07 PM,7:54,,,MISS Stokes 25' 3PT Pullup Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,33,4,0,1,8:07 PM,7:50,Turner REBOUND (Off:0 Def:2),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,34,2,6,1,8:07 PM,7:42,MISS Turner 3' Driving Layup,,Zahui B BLOCK (1 BLK),,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,1
+1022001114,36,4,0,1,8:07 PM,7:31,,,Odom REBOUND (Off:1 Def:1),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,37,2,79,1,8:07 PM,7:27,,,MISS Kea 25' 3PT Pullup Jump Shot,,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,38,4,0,1,8:07 PM,7:17,Diggins-Smith REBOUND (Off:0 Def:1),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,39,1,6,1,8:07 PM,7:15,Diggins-Smith 7' Driving Layup (4 PTS),,,3 - 10,7,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,40,2,6,1,8:08 PM,6:57,Walker-Kimbrough BLOCK (2 BLK),,MISS Kea 6' Driving Layup,,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,42,4,0,1,8:08 PM,6:51,Vaughn REBOUND (Off:0 Def:2),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,43,1,6,1,8:08 PM,6:50,Diggins-Smith 6' Driving Layup (6 PTS),,,3 - 12,9,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,44,9,1,1,8:08 PM,6:48,,,Liberty Timeout: Regular (Reg.1 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,45,8,0,1,8:09 PM,6:48,,,SUB: Holmes FOR Zahui B,,,5,204320,Amanda Zahui B,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,47,5,2,1,8:11 PM,6:35,Taurasi STEAL (2 STL),,Clarendon Lost Ball Turnover (P1.T2),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,49,5,1,1,8:11 PM,6:30,Taurasi Bad Pass Turnover (P1.T1),,Clarendon STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,51,1,6,1,8:11 PM,6:25,,,Clarendon 2' Driving Layup (2 PTS),5 - 12,7,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,52,2,1,1,8:12 PM,6:05,MISS Vaughn 15' Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,53,4,0,1,8:12 PM,6:02,,,Kea REBOUND (Off:2 Def:1),,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,54,6,2,1,8:12 PM,5:49,Turner S.FOUL (P1.T1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,56,3,11,1,8:12 PM,5:49,,,Clarendon Free Throw 1 of 2 (3 PTS),6 - 12,6,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,57,8,0,1,8:12 PM,5:49,,,SUB: Nurse FOR Kea,,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,59,3,12,1,8:13 PM,5:49,,,Clarendon Free Throw 2 of 2 (4 PTS),7 - 12,5,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,60,2,80,1,8:13 PM,5:31,MISS Diggins-Smith 24' 3PT Step Back Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,61,4,0,1,8:13 PM,5:29,,,Stokes REBOUND (Off:0 Def:1),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,62,6,1,1,8:13 PM,5:23,Diggins-Smith P.FOUL (P1.T2),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,64,8,0,1,8:13 PM,5:23,,,SUB: Jones FOR Odom,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,66,2,79,1,8:14 PM,5:18,,,MISS Nurse 16' Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,67,4,0,1,8:14 PM,5:15,Diggins-Smith REBOUND (Off:0 Def:2),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,68,2,1,1,8:14 PM,5:06,MISS Walker-Kimbrough 24' 3PT Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,69,4,0,1,8:14 PM,5:04,,,Holmes REBOUND (Off:0 Def:1),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,70,2,79,1,8:14 PM,5:00,,,MISS Clarendon 25' 3PT Pullup Jump Shot,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,71,4,0,1,8:14 PM,4:55,,,Holmes REBOUND (Off:1 Def:1),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,72,1,72,1,8:14 PM,4:55,,,Holmes 1' Putback Layup (2 PTS),9 - 12,3,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,73,6,1,1,8:14 PM,4:47,,,Jones P.FOUL (P1.T2),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,75,8,0,1,8:14 PM,4:47,SUB: Cunningham FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,76,8,0,1,8:14 PM,4:47,SUB: Smith FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,79,2,79,1,8:15 PM,4:37,MISS Cunningham 3PT Pullup Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,80,4,0,1,8:15 PM,4:34,Walker-Kimbrough REBOUND (Off:1 Def:0),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,81,6,1,1,8:15 PM,4:34,,,Jones P.FOUL (P2.T3),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,83,8,0,1,8:15 PM,4:34,,,SUB: Willoughby FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,84,8,0,1,8:15 PM,4:34,,,SUB: Walker FOR Stokes,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,87,2,79,1,8:15 PM,4:30,MISS Diggins-Smith 24' 3PT Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,88,4,0,1,8:15 PM,4:26,,,Nurse REBOUND (Off:0 Def:1),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,89,6,2,1,8:16 PM,4:16,Walker-Kimbrough S.FOUL (P1.T3),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,91,3,11,1,8:16 PM,4:16,,,MISS Walker Free Throw 1 of 2,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,92,4,1,1,8:16 PM,4:16,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,93,3,12,1,8:16 PM,4:16,,,Walker Free Throw 2 of 2 (1 PTS),10 - 12,2,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,94,1,6,1,8:16 PM,4:04,Diggins-Smith 5' Driving Layup (8 PTS),,,10 - 14,4,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,95,2,79,1,8:17 PM,3:55,,,MISS Walker 28' 3PT Pullup Jump Shot,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,96,4,0,1,8:17 PM,3:52,Turner REBOUND (Off:0 Def:3),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,97,2,6,1,8:17 PM,3:49,MISS Cunningham 5' Driving Layup,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,98,4,0,1,8:17 PM,3:46,Smith REBOUND (Off:1 Def:0),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,99,1,72,1,8:17 PM,3:46,Smith 1' Putback Layup (2 PTS),,,10 - 16,6,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,100,2,99,1,8:17 PM,3:23,,,MISS Willoughby 7' Cutting Finger Roll Layup Shot,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,101,4,0,1,8:17 PM,3:23,,,Holmes REBOUND (Off:2 Def:1),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,102,1,72,1,8:17 PM,3:23,,,Holmes 7' Putback Layup (4 PTS),12 - 16,4,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,103,6,2,1,8:18 PM,3:23,Walker-Kimbrough S.FOUL (P2.T4),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,133,8,0,1,8:18 PM,3:23,,,SUB: Kea FOR Clarendon,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,105,3,10,1,8:18 PM,3:23,,,MISS Holmes Free Throw 1 of 1,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,106,4,0,1,8:18 PM,3:22,Smith REBOUND (Off:1 Def:1),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,107,6,2,1,8:18 PM,3:15,,,Kea S.FOUL (P2.T4),,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,109,9,1,1,8:19 PM,3:15,,,Liberty Timeout: Regular (Reg.2 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,149,8,0,1,8:20 PM,3:15,,,SUB: Odom FOR Kea,,,5,1629502,Paris Kea,1611661313.0,New York,Liberty,NYL,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,150,8,0,1,8:20 PM,3:15,SUB: Peddy FOR Walker-Kimbrough,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,112,3,11,1,8:20 PM,3:15,Diggins-Smith Free Throw 1 of 2 (9 PTS),,,12 - 17,5,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,113,3,12,1,8:20 PM,3:15,MISS Diggins-Smith Free Throw 2 of 2,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,114,4,0,1,8:20 PM,3:12,,,Holmes REBOUND (Off:2 Def:2),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,115,2,6,1,8:20 PM,3:00,,,MISS Nurse 6' Driving Layup,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,116,4,0,1,8:21 PM,2:58,,,Walker REBOUND (Off:1 Def:0),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,117,2,79,1,8:21 PM,2:54,,,MISS Nurse 25' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,118,4,0,1,8:21 PM,2:50,Turner REBOUND (Off:0 Def:4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,119,6,1,1,8:21 PM,2:45,,,Odom P.FOUL (P1.PN),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,121,3,11,1,8:21 PM,2:45,Turner Free Throw 1 of 2 (1 PTS),,,12 - 18,6,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,122,3,12,1,8:21 PM,2:45,MISS Turner Free Throw 2 of 2,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,123,4,0,1,8:21 PM,2:43,,,Willoughby REBOUND (Off:0 Def:1),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,124,1,98,1,8:22 PM,2:30,,,Odom 6' Cutting Layup Shot (2 PTS) (Nurse 1 AST),14 - 18,4,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,126,2,75,1,8:22 PM,2:20,MISS Turner 4' Driving Finger Roll Layup,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,127,4,0,1,8:22 PM,2:18,,,Walker REBOUND (Off:1 Def:1),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,128,1,6,1,8:22 PM,2:09,,,Holmes 4' Driving Layup (6 PTS),16 - 18,2,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,129,2,79,1,8:22 PM,1:46,MISS Smith 4' Pullup Jump Shot,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,130,4,0,1,8:22 PM,1:43,,,Holmes REBOUND (Off:2 Def:3),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,131,2,79,1,8:23 PM,1:33,,,MISS Odom 10' Pullup Jump Shot,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,132,4,0,1,8:23 PM,1:29,Smith REBOUND (Off:1 Def:2),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,135,1,79,1,8:23 PM,1:20,Diggins-Smith 24' 3PT Pullup Jump Shot (12 PTS),,,16 - 21,5,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,137,1,79,1,8:23 PM,1:03,,,Holmes 24' 3PT Pullup Jump Shot (9 PTS) (Willoughby 1 AST),19 - 21,2,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,139,2,79,1,8:23 PM,0:44,MISS Peddy 24' 3PT Pullup Jump Shot,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,140,4,0,1,8:24 PM,0:34,,,Nurse REBOUND (Off:0 Def:2),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,141,2,79,1,8:24 PM,0:31,,,MISS Walker 27' 3PT Pullup Jump Shot,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,142,4,0,1,8:24 PM,0:26,,,Willoughby REBOUND (Off:1 Def:1),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,143,2,5,1,8:24 PM,0:18,,,MISS Nurse 5' Layup,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,144,4,0,1,8:24 PM,0:17,,,Holmes REBOUND (Off:3 Def:3),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,145,2,47,1,8:24 PM,0:15,,,MISS Holmes 12' Turnaround Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,146,4,0,1,8:24 PM,0:13,Smith REBOUND (Off:1 Def:3),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,147,1,47,1,8:24 PM,0:01,Diggins-Smith 5' Turnaround Jump Shot (14 PTS),,,19 - 23,4,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,148,13,0,1,8:24 PM,0:00,,End of 1st Period (8:24 PM EST),,19 - 23,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001114,160,12,0,2,8:27 PM,10:00,,Start of 2nd Period (8:27 PM EST),,19 - 23,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,161,2,79,2,8:27 PM,9:45,MISS Taurasi 25' 3PT Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,162,4,0,2,8:28 PM,9:42,,,Willoughby REBOUND (Off:1 Def:2),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,163,1,105,2,8:28 PM,9:37,,,Odom 3' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Willoughby 2 AST),21 - 23,2,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,165,2,79,2,8:28 PM,9:13,MISS Vaughn 15' Pullup Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,166,4,0,2,8:28 PM,9:08,,,Jones REBOUND (Off:0 Def:1),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,167,6,2,2,8:28 PM,9:00,Peddy S.FOUL (P1.T1),,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,169,3,11,2,8:29 PM,9:00,,,Nurse Free Throw 1 of 2 (1 PTS),22 - 23,1,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,170,8,0,2,8:29 PM,9:00,SUB: Turner FOR Smith,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,172,3,12,2,8:29 PM,9:00,,,Nurse Free Throw 2 of 2 (2 PTS),23 - 23,TIE,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,173,5,1,2,8:29 PM,8:44,Taurasi Bad Pass Turnover (P2.T2),,Jones STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,175,1,6,2,8:29 PM,8:41,,,Jones 3' Driving Layup (2 PTS),25 - 23,-2,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,176,9,1,2,8:30 PM,8:34,MERCURY Timeout: Regular (Full 1 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,177,2,79,2,8:33 PM,8:25,MISS Cunningham 25' 3PT Pullup Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,178,4,0,2,8:33 PM,8:23,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,179,2,79,2,8:33 PM,8:20,MISS Taurasi 29' 3PT Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,180,4,0,2,8:33 PM,8:17,Turner REBOUND (Off:1 Def:4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,181,6,1,2,8:33 PM,8:16,,,Stokes P.FOUL (P1.T1),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,183,8,0,2,8:33 PM,8:16,SUB: Coffey FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,185,2,63,2,8:34 PM,8:08,MISS Taurasi 17' Fadeaway Jumper,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,186,4,0,2,8:34 PM,8:05,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,187,2,63,2,8:34 PM,7:41,,,MISS Stokes 12' Fadeaway Jumper,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,188,4,0,2,8:34 PM,7:41,,,Willoughby REBOUND (Off:2 Def:2),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,201,5,11,2,8:34 PM,7:41,,,Liberty Turnover: Shot Clock (T#3),,,3,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001114,190,8,0,2,8:35 PM,7:41,SUB: Walker-Kimbrough FOR Peddy,,,,,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,192,2,79,2,8:35 PM,7:31,MISS Walker-Kimbrough 7' Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,193,4,0,2,8:35 PM,7:29,,,Jones REBOUND (Off:0 Def:2),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,194,5,40,2,8:35 PM,7:28,,,Jones Out of Bounds Lost Ball Turnover (P1.T4),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001114,195,1,79,2,8:35 PM,7:20,Vaughn 8' Pullup Jump Shot (2 PTS) (Walker-Kimbrough 1 AST),,,25 - 25,TIE,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,196,2,79,2,8:36 PM,7:02,,,MISS Nurse 24' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,197,4,0,2,8:36 PM,7:02,Turner REBOUND (Off:1 Def:5),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,198,2,79,2,8:36 PM,6:55,MISS Taurasi 24' 3PT Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,199,4,0,2,8:36 PM,6:54,Vaughn REBOUND (Off:1 Def:2),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,200,1,5,2,8:36 PM,6:53,Vaughn 3' Layup (4 PTS),,,25 - 27,2,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,202,1,79,2,8:36 PM,6:40,,,Willoughby 26' 3PT Pullup Jump Shot (3 PTS) (Stokes 1 AST),28 - 27,-1,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,204,6,1,2,8:36 PM,6:29,,,Jones P.FOUL (P3.T2),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,206,8,0,2,8:36 PM,6:29,,,SUB: Clarendon FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,208,1,58,2,8:37 PM,6:13,Vaughn 12' Turnaround Hook Shot (6 PTS) (Walker-Kimbrough 2 AST),,,28 - 29,1,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,209,2,79,2,8:37 PM,6:05,,,MISS Clarendon 24' 3PT Pullup Jump Shot,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,210,4,0,2,8:37 PM,6:01,Turner REBOUND (Off:1 Def:6),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,212,2,79,2,8:37 PM,5:50,MISS Coffey 26' 3PT Pullup Jump Shot,,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,213,4,0,2,8:37 PM,5:48,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,214,6,2,2,8:38 PM,5:37,Coffey S.FOUL (P1.T2),,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,216,3,11,2,8:38 PM,5:37,,,Nurse Free Throw 1 of 2 (3 PTS),29 - 29,TIE,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,217,8,0,2,8:38 PM,5:37,SUB: Diggins-Smith FOR Coffey,,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,219,3,12,2,8:38 PM,5:37,,,Nurse Free Throw 2 of 2 (4 PTS),30 - 29,-1,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,220,1,47,2,8:39 PM,5:30,Taurasi 25' 3PT Turnaround Jump Shot (6 PTS) (Diggins-Smith 1 AST),,,30 - 32,2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,222,2,79,2,8:39 PM,5:17,,,MISS Nurse 25' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,223,4,0,2,8:39 PM,5:14,Vaughn REBOUND (Off:1 Def:3),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,224,1,79,2,8:39 PM,5:01,Walker-Kimbrough 24' 3PT Pullup Jump Shot (6 PTS),,,30 - 35,5,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,225,2,5,2,8:39 PM,4:52,,,MISS Willoughby 4' Layup,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,226,4,0,2,8:39 PM,4:52,Turner REBOUND (Off:1 Def:7),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,227,6,1,2,8:39 PM,4:50,,,Odom P.FOUL (P2.T3),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,229,8,0,2,8:40 PM,4:50,,,SUB: Holmes FOR Willoughby,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,231,1,86,2,8:40 PM,4:38,Vaughn 11' Turnaround Fadeaway (8 PTS),,,30 - 37,7,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,232,2,79,2,8:41 PM,4:23,,,MISS Holmes 25' 3PT Pullup Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,233,4,0,2,8:41 PM,4:19,,,Odom REBOUND (Off:2 Def:1),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,234,6,1,2,8:41 PM,4:15,Taurasi P.FOUL (P1.T3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,236,8,0,2,8:41 PM,4:15,SUB: Cunningham FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,239,2,79,2,8:41 PM,4:00,Cunningham BLOCK (1 BLK),,MISS Nurse 26' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,241,4,0,2,8:41 PM,3:58,Diggins-Smith REBOUND (Off:0 Def:3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,242,2,79,2,8:41 PM,3:55,MISS Diggins-Smith 15' Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,243,4,0,2,8:42 PM,3:52,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,244,2,79,2,8:42 PM,3:50,MISS Vaughn 17' Pullup Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,245,4,0,2,8:42 PM,3:46,,,Nurse REBOUND (Off:0 Def:3),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,246,2,6,2,8:42 PM,3:40,Diggins-Smith BLOCK (1 BLK),,MISS Nurse 8' Driving Layup,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,248,4,0,2,8:42 PM,3:37,Cunningham REBOUND (Off:0 Def:1),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,249,2,44,2,8:42 PM,3:23,MISS Turner 3' Reverse Layup,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,250,4,0,2,8:42 PM,3:21,,,Stokes REBOUND (Off:0 Def:2),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,251,1,79,2,8:42 PM,3:15,,,Nurse 29' 3PT Pullup Jump Shot (7 PTS) (Clarendon 1 AST),33 - 37,4,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,253,1,76,2,8:43 PM,3:01,Diggins-Smith 4' Running Finger Roll Layup (16 PTS) (Turner 1 AST),,,33 - 39,6,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,255,6,2,2,8:43 PM,2:46,Turner S.FOUL (P2.T4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,257,9,4,2,8:43 PM,2:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,258,8,0,2,8:43 PM,2:46,SUB: Smith FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,259,8,0,2,8:43 PM,2:46,,,SUB: Willoughby FOR Nurse,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,262,3,11,2,8:46 PM,2:46,,,Odom Free Throw 1 of 2 (5 PTS),34 - 39,5,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,263,3,12,2,8:47 PM,2:46,,,Odom Free Throw 2 of 2 (6 PTS),35 - 39,4,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,264,2,79,2,8:47 PM,2:35,MISS Diggins-Smith 24' 3PT Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,265,4,0,2,8:47 PM,2:30,,,Holmes REBOUND (Off:3 Def:4),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,266,2,98,2,8:47 PM,2:19,,,MISS Clarendon 5' Cutting Layup Shot,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,267,4,0,2,8:47 PM,2:18,Turner REBOUND (Off:1 Def:8),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,269,1,76,2,8:48 PM,2:03,Walker-Kimbrough 5' Running Finger Roll Layup (8 PTS),,,35 - 41,6,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,270,1,44,2,8:48 PM,1:46,,,Stokes 4' Reverse Layup (2 PTS) (Clarendon 2 AST),37 - 41,4,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,272,1,79,2,8:48 PM,1:29,Walker-Kimbrough 24' 3PT Pullup Jump Shot (11 PTS) (Turner 2 AST),,,37 - 44,7,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,274,2,86,2,8:49 PM,1:06,,,MISS Holmes 15' Turnaround Fadeaway Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,275,4,0,2,8:49 PM,1:03,Cunningham REBOUND (Off:0 Def:2),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,276,6,2,2,8:49 PM,0:55,,,Stokes S.FOUL (P2.T4),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,278,3,11,2,8:49 PM,0:55,MISS Smith Free Throw 1 of 2,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,279,4,1,2,8:49 PM,0:55,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,280,8,0,2,8:49 PM,0:55,,,SUB: Walker FOR Odom,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,282,3,12,2,8:49 PM,0:55,Smith Free Throw 2 of 2 (3 PTS),,,37 - 45,8,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,283,2,79,2,8:50 PM,0:39,,,MISS Stokes 27' 3PT Pullup Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,284,4,0,2,8:50 PM,0:36,Diggins-Smith REBOUND (Off:0 Def:4),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,285,5,2,2,8:50 PM,0:31,Diggins-Smith Lost Ball Turnover (P1.T3),,Clarendon STEAL (2 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,287,6,1,2,8:50 PM,0:31,Cunningham P.FOUL (P1.PN),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,289,3,11,2,8:50 PM,0:31,,,MISS Willoughby Free Throw 1 of 2,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,290,4,1,2,8:50 PM,0:31,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,291,3,12,2,8:51 PM,0:31,,,Willoughby Free Throw 2 of 2 (4 PTS),38 - 45,7,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,292,2,79,2,8:51 PM,0:07,MISS Walker-Kimbrough 3PT Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,293,4,0,2,8:51 PM,0:04,,,Walker REBOUND (Off:1 Def:2),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,294,2,102,2,8:51 PM,0:00,,,MISS Walker 13' Driving Floating Bank Jump Shot,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,295,4,0,2,8:51 PM,0:00,,,Holmes REBOUND (Off:4 Def:4),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,297,18,1,2,8:51 PM,0:00,,Instant Replay2nd Period (8:51 PM EST),,38 - 45,7,0,296,Rick Fox,,,,,0,0,,,,,,1,0,,,,,,0
+1022001114,298,13,0,2,8:53 PM,0:00,,End of 2nd Period (8:53 PM EST),,38 - 45,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001114,307,12,0,3,9:06 PM,10:00,,Start of 3rd Period (9:06 PM EST),,38 - 45,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,308,1,79,3,9:07 PM,9:37,Diggins-Smith 26' 3PT Pullup Jump Shot (19 PTS),,,38 - 48,10,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,309,2,79,3,9:07 PM,9:11,,,MISS Nurse 27' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,310,4,0,3,9:07 PM,9:11,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,311,2,79,3,9:07 PM,8:56,MISS Vaughn 21' Pullup Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,312,4,0,3,9:07 PM,8:51,,,Nurse REBOUND (Off:0 Def:4),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,313,1,79,3,9:08 PM,8:46,,,Nurse 16' Pullup Jump Shot (9 PTS),40 - 48,8,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,314,1,79,3,9:08 PM,8:33,Diggins-Smith 17' Pullup Jump Shot (21 PTS),,,40 - 50,10,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,315,6,2,3,9:08 PM,8:33,,,Clarendon S.FOUL (P1.T1),,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,317,3,10,3,9:08 PM,8:33,Diggins-Smith Free Throw 1 of 1 (22 PTS),,,40 - 51,11,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,318,1,76,3,9:09 PM,8:11,,,Clarendon 7' Running Finger Roll Layup (6 PTS) (Odom 1 AST),42 - 51,9,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,320,6,26,3,9:09 PM,7:55,Turner Offensive Charge Foul (P3.T1),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,322,5,37,3,9:09 PM,7:55,Turner Offensive Foul Turnover (P1.T4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022001114,323,8,0,3,9:09 PM,7:55,SUB: Cunningham FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,325,2,79,3,9:10 PM,7:34,,,MISS Odom 24' 3PT Pullup Jump Shot,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,326,4,0,3,9:10 PM,7:31,,,Stokes REBOUND (Off:1 Def:2),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,327,2,79,3,9:10 PM,7:30,,,MISS Nurse 24' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,328,4,0,3,9:10 PM,7:27,Taurasi REBOUND (Off:0 Def:1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,329,2,79,3,9:10 PM,7:20,MISS Taurasi 24' 3PT Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,330,4,0,3,9:10 PM,7:16,,,Holmes REBOUND (Off:4 Def:5),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,331,1,6,3,9:10 PM,7:07,,,Clarendon 6' Driving Layup (8 PTS),44 - 51,7,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,332,6,1,3,9:10 PM,6:56,,,Odom P.FOUL (P3.T2),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,334,2,79,3,9:11 PM,6:46,MISS Walker-Kimbrough 21' Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,335,4,0,3,9:11 PM,6:43,,,Holmes REBOUND (Off:4 Def:6),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,336,6,1,3,9:11 PM,6:34,Cunningham P.FOUL (P2.T2),,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,338,2,47,3,9:12 PM,6:19,,,MISS Holmes 25' 3PT Turnaround Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,339,4,0,3,9:12 PM,6:19,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,349,5,11,3,9:12 PM,6:19,,,Liberty Turnover: Shot Clock (T#5),,,3,1611661313,,,,,,0,0,,,,,,1,0,,,,,,0
+1022001114,341,1,79,3,9:12 PM,6:03,Taurasi 26' 3PT Pullup Jump Shot (9 PTS) (Turner 3 AST),,,44 - 54,10,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,343,2,79,3,9:12 PM,5:41,,,MISS Holmes 26' 3PT Pullup Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,344,4,0,3,9:12 PM,5:41,Taurasi REBOUND (Off:0 Def:2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,345,2,79,3,9:13 PM,5:25,MISS Vaughn 19' Pullup Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,346,4,0,3,9:13 PM,5:22,,,Holmes REBOUND (Off:4 Def:7),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,347,1,47,3,9:13 PM,5:18,,,Holmes 14' Turnaround Jump Shot (11 PTS),46 - 54,8,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,348,1,79,3,9:13 PM,4:57,Cunningham 24' 3PT Pullup Jump Shot (3 PTS) (Turner 4 AST),,,46 - 57,11,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,350,2,6,3,9:14 PM,4:34,Turner BLOCK (1 BLK),,MISS Holmes 2' Driving Layup,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,352,4,0,3,9:14 PM,4:34,Taurasi REBOUND (Off:0 Def:3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,353,1,79,3,9:14 PM,4:25,Cunningham 24' 3PT Pullup Jump Shot (6 PTS) (Vaughn 1 AST),,,46 - 60,14,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,355,9,1,3,9:14 PM,4:25,,,Liberty Timeout: Regular (Reg.3 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,357,8,0,3,9:16 PM,4:25,SUB: Diggins-Smith FOR Vaughn,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,358,8,0,3,9:16 PM,4:25,SUB: Smith FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,359,8,0,3,9:16 PM,4:25,,,SUB: Jones FOR Odom,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,360,8,0,3,9:16 PM,4:25,,,SUB: Willoughby FOR Clarendon,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,365,5,2,3,9:17 PM,4:09,Walker-Kimbrough STEAL (1 STL),,Nurse Lost Ball Turnover (P1.T6),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,367,6,1,3,9:17 PM,4:06,,,Jones P.FOUL (P4.T3),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,369,1,78,3,9:18 PM,3:59,Walker-Kimbrough 17' Floating Jump Shot (13 PTS),,,46 - 62,16,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,370,2,79,3,9:18 PM,3:36,,,MISS Willoughby 3PT Pullup Jump Shot,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,371,4,0,3,9:18 PM,3:33,Smith REBOUND (Off:1 Def:4),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,372,6,26,3,9:18 PM,3:30,Smith Offensive Charge Foul (P1.T3),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,374,5,37,3,9:18 PM,3:30,Smith Offensive Foul Turnover (P1.T5),,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022001114,375,2,86,3,9:19 PM,3:09,,,MISS Holmes 15' Turnaround Fadeaway Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,376,4,0,3,9:19 PM,3:06,,,Holmes REBOUND (Off:5 Def:7),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,377,1,6,3,9:19 PM,3:03,,,Holmes 7' Driving Layup (13 PTS),48 - 62,14,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,378,9,1,3,9:19 PM,2:59,MERCURY Timeout: Regular (Full 2 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,379,8,0,3,9:20 PM,2:59,SUB: Coffey FOR Smith,,,,,4,1629501,Alanna Smith,1611661317.0,Phoenix,Mercury,PHO,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,380,8,0,3,9:20 PM,2:59,,,SUB: Walker FOR Nurse,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,383,2,79,3,9:21 PM,2:46,MISS Cunningham 24' 3PT Pullup Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,384,4,0,3,9:21 PM,2:42,,,Walker REBOUND (Off:1 Def:3),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,385,2,79,3,9:21 PM,2:24,,,MISS Walker 19' Pullup Jump Shot,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,386,4,0,3,9:21 PM,2:21,Walker-Kimbrough REBOUND (Off:1 Def:1),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,387,6,2,3,9:22 PM,2:14,,,Willoughby S.FOUL (P1.T4),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,389,3,11,3,9:22 PM,2:14,Walker-Kimbrough Free Throw 1 of 2 (14 PTS),,,48 - 63,15,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,390,3,12,3,9:22 PM,2:14,Walker-Kimbrough Free Throw 2 of 2 (15 PTS),,,48 - 64,16,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,391,2,79,3,9:22 PM,2:02,,,MISS Stokes 24' 3PT Pullup Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,392,4,0,3,9:22 PM,1:59,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,393,2,79,3,9:23 PM,1:55,,,MISS Jones 3PT Pullup Jump Shot,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,394,4,0,3,9:23 PM,1:53,Turner REBOUND (Off:1 Def:9),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,395,2,76,3,9:23 PM,1:47,MISS Diggins-Smith 7' Running Finger Roll Layup,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,396,4,0,3,9:23 PM,1:46,,,Holmes REBOUND (Off:5 Def:8),,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,397,2,6,3,9:23 PM,1:42,,,MISS Holmes 17' Driving Layup,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,398,4,0,3,9:23 PM,1:38,,,Jones REBOUND (Off:1 Def:2),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,399,5,2,3,9:23 PM,1:33,Cunningham STEAL (1 STL),,Jones Lost Ball Turnover (P2.T7),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,401,1,6,3,9:23 PM,1:29,Cunningham 5' Driving Layup (8 PTS),,,48 - 66,18,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,402,2,79,3,9:24 PM,1:05,,,MISS Holmes 24' 3PT Pullup Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,403,4,0,3,9:24 PM,1:03,,,Willoughby REBOUND (Off:3 Def:2),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,404,2,72,3,9:24 PM,1:02,Turner BLOCK (2 BLK),,MISS Willoughby 1' Putback Layup,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,405,4,0,3,9:24 PM,1:01,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001114,406,8,0,3,9:24 PM,1:01,,,SUB: Odom FOR Stokes,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,407,8,0,3,9:24 PM,1:01,,,SUB: Clarendon FOR Walker,,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,413,6,6,3,9:26 PM,1:01,Walker-Kimbrough AWAY.FROM.PLAY.FOUL (P3.T4),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1,0,,,,,,0
+1022001114,414,3,10,3,9:26 PM,1:01,,,Willoughby Free Throw 1 of 1 (5 PTS),49 - 66,17,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,415,1,78,3,9:26 PM,0:55,,,Clarendon 7' Floating Jump Shot (10 PTS),51 - 66,15,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,416,5,1,3,9:27 PM,0:40,Diggins-Smith Bad Pass Turnover (P2.T6),,Jones STEAL (2 STL),,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,418,6,2,3,9:27 PM,0:38,Turner S.FOUL (P4.PN),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,420,3,11,3,9:27 PM,0:38,,,MISS Jones Free Throw 1 of 2,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,421,4,1,3,9:27 PM,0:38,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,422,8,0,3,9:27 PM,0:38,SUB: Vaughn FOR Turner,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,424,3,12,3,9:27 PM,0:38,,,Jones Free Throw 2 of 2 (3 PTS),52 - 66,14,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,432,2,6,3,9:28 PM,0:22,MISS Walker-Kimbrough 5' Driving Layup,,Jones BLOCK (1 BLK),,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1
+1022001114,434,4,0,3,9:28 PM,0:22,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,427,1,5,3,9:28 PM,0:14,Diggins-Smith 11' Layup (24 PTS),,,52 - 68,16,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,428,1,6,3,9:28 PM,0:10,,,Jones 3' Driving Layup (5 PTS) (Clarendon 3 AST),54 - 68,14,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,430,5,4,3,9:29 PM,0:00,Vaughn Traveling Turnover (P1.T7),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022001114,431,13,0,3,9:30 PM,0:00,,End of 3rd Period (9:30 PM EST),,54 - 68,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+1022001114,439,12,0,4,9:32 PM,10:00,,Start of 4th Period (9:32 PM EST),,54 - 68,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,440,2,79,4,9:33 PM,9:44,,,MISS Jones 24' 3PT Pullup Jump Shot,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,441,4,0,4,9:33 PM,9:41,Diggins-Smith REBOUND (Off:0 Def:5),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,442,2,47,4,9:33 PM,9:29,MISS Vaughn 10' Turnaround Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,443,4,0,4,9:33 PM,9:25,Coffey REBOUND (Off:1 Def:0),,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,444,2,79,4,9:33 PM,9:25,MISS Taurasi 26' 3PT Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,445,4,0,4,9:33 PM,9:25,,,Odom REBOUND (Off:2 Def:2),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,446,2,79,4,9:33 PM,9:14,,,MISS Stokes 24' 3PT Pullup Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,447,4,0,4,9:33 PM,9:11,,,Jones REBOUND (Off:2 Def:2),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,448,1,47,4,9:33 PM,9:09,,,Jones 7' Turnaround Jump Shot (7 PTS),56 - 68,12,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,449,5,45,4,9:33 PM,9:06,Coffey Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022001114,450,1,6,4,9:34 PM,8:55,,,Clarendon 3' Driving Layup (12 PTS),58 - 68,10,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,451,1,6,4,9:34 PM,8:45,Diggins-Smith 4' Driving Layup (26 PTS),,,58 - 70,12,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,452,5,4,4,9:34 PM,8:32,,,Willoughby Traveling Turnover (P1.T8),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001114,453,2,79,4,9:35 PM,8:24,MISS Diggins-Smith 27' 3PT Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,454,4,0,4,9:35 PM,8:19,,,Willoughby REBOUND (Off:3 Def:3),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,455,2,105,4,9:35 PM,8:06,Coffey BLOCK (1 BLK),,MISS Jones 6' Turnaround Fadeaway Bank Jump Shot,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,456,4,0,4,9:35 PM,8:04,,,Odom REBOUND (Off:3 Def:2),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,457,2,79,4,9:35 PM,8:00,,,MISS Stokes 24' 3PT Pullup Jump Shot,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,458,4,0,4,9:35 PM,7:57,Vaughn REBOUND (Off:1 Def:4),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,459,2,79,4,9:35 PM,7:45,MISS Vaughn 10' Pullup Jump Shot,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,460,4,0,4,9:35 PM,7:42,,,Jones REBOUND (Off:2 Def:3),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,461,6,2,4,9:35 PM,7:39,Vaughn S.FOUL (P1.T1),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,463,3,11,4,9:36 PM,7:39,,,Jones Free Throw 1 of 2 (8 PTS),59 - 70,11,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,464,8,0,4,9:36 PM,7:39,SUB: Turner FOR Coffey,,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,465,8,0,4,9:36 PM,7:39,,,SUB: Nurse FOR Willoughby,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,468,3,12,4,9:36 PM,7:39,,,Jones Free Throw 2 of 2 (9 PTS),60 - 70,10,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,469,2,79,4,9:37 PM,7:22,MISS Diggins-Smith 26' 3PT Pullup Jump Shot,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,470,4,0,4,9:37 PM,7:19,,,Odom REBOUND (Off:3 Def:3),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,471,1,6,4,9:37 PM,7:12,,,Nurse 4' Driving Layup (11 PTS) (Odom 2 AST),62 - 70,8,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1
+1022001114,472,2,79,4,9:37 PM,6:58,MISS Taurasi 17' Pullup Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,473,4,0,4,9:37 PM,6:55,,,Stokes REBOUND (Off:1 Def:3),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,474,6,1,4,9:37 PM,6:53,Taurasi P.FOUL (P2.T2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,476,8,0,4,9:37 PM,6:53,SUB: Walker-Kimbrough FOR Cunningham,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,478,2,79,4,9:38 PM,6:41,Walker-Kimbrough BLOCK (3 BLK),,MISS Nurse 6' Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,1
+1022001114,480,4,0,4,9:38 PM,6:37,Diggins-Smith REBOUND (Off:0 Def:6),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,481,6,1,4,9:38 PM,6:37,,,Jones P.FOUL (P5.T1),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,483,8,0,4,9:38 PM,6:37,,,SUB: Holmes FOR Odom,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,485,1,6,4,9:38 PM,6:33,Diggins-Smith 3' Driving Layup (28 PTS),,,62 - 72,10,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,486,6,2,4,9:38 PM,6:33,,,Stokes S.FOUL (P3.T2),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,488,9,1,4,9:39 PM,6:33,,,Liberty Timeout: Regular (Reg.4 Short 0),,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,489,8,0,4,9:39 PM,6:33,,,SUB: Odom FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,492,3,10,4,9:42 PM,6:33,Diggins-Smith Free Throw 1 of 1 (29 PTS),,,62 - 73,11,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,493,2,2,4,9:42 PM,6:17,,,MISS Nurse 8' Running Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,494,4,0,4,9:42 PM,6:14,Vaughn REBOUND (Off:1 Def:5),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,495,2,79,4,9:42 PM,5:54,MISS Walker-Kimbrough 15' Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,496,4,0,4,9:43 PM,5:53,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,497,6,3,4,9:43 PM,5:53,,,Nurse L.B.FOUL (P1.T3),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,499,2,79,4,9:43 PM,5:42,MISS Walker-Kimbrough 21' Pullup Jump Shot,,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,500,4,0,4,9:43 PM,5:38,Turner REBOUND (Off:2 Def:9),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,501,2,5,4,9:43 PM,5:28,MISS Turner 5' Layup,,Stokes BLOCK (1 BLK),,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,1
+1022001114,503,4,0,4,9:43 PM,5:23,,,Stokes REBOUND (Off:1 Def:4),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,504,2,6,4,9:43 PM,5:20,,,MISS Odom 4' Driving Layup,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,505,4,0,4,9:43 PM,5:18,,,Odom REBOUND (Off:4 Def:3),,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,506,2,79,4,9:44 PM,5:10,,,MISS Holmes 24' 3PT Pullup Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,507,4,0,4,9:44 PM,5:06,Turner REBOUND (Off:2 Def:10),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,508,1,47,4,9:44 PM,4:52,Vaughn 13' Turnaround Jump Shot (10 PTS) (Taurasi 2 AST),,,62 - 75,13,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,510,2,79,4,9:44 PM,4:33,,,MISS Holmes 25' 3PT Pullup Jump Shot,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,511,4,0,4,9:44 PM,4:30,Turner REBOUND (Off:2 Def:11),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,512,2,5,4,9:44 PM,4:19,MISS Vaughn 4' Layup,,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,513,4,0,4,9:44 PM,4:18,Vaughn REBOUND (Off:2 Def:5),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,514,1,6,4,9:45 PM,4:14,Turner 5' Driving Layup (3 PTS) (Walker-Kimbrough 3 AST),,,62 - 77,15,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,516,6,2,4,9:45 PM,4:14,,,Stokes S.FOUL (P4.T4),,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,518,8,0,4,9:45 PM,4:14,SUB: Peddy FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,519,8,0,4,9:45 PM,4:14,,,SUB: Willoughby FOR Holmes,,,5,1630115,Joyner Holmes,1611661313.0,New York,Liberty,NYL,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,522,3,10,4,9:45 PM,4:14,Turner Free Throw 1 of 1 (4 PTS),,,62 - 78,16,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,523,2,79,4,9:45 PM,4:03,,,MISS Willoughby 25' 3PT Pullup Jump Shot,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,524,4,0,4,9:45 PM,3:58,Diggins-Smith REBOUND (Off:0 Def:7),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,525,6,26,4,9:46 PM,3:44,Diggins-Smith Offensive Charge Foul (P2.T3),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,527,5,37,4,9:46 PM,3:44,Diggins-Smith Offensive Foul Turnover (P3.T9),,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022001114,528,8,0,4,9:46 PM,3:44,,,SUB: Jones FOR Stokes,,,5,204329,Kiah Stokes,1611661313.0,New York,Liberty,NYL,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,530,2,5,4,9:46 PM,3:29,,,MISS Clarendon 6' Layup,,,5,203406,Layshia Clarendon,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,531,4,0,4,9:46 PM,3:28,,,Willoughby REBOUND (Off:4 Def:3),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,532,6,2,4,9:46 PM,3:25,Turner S.FOUL (P5.T4),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,534,3,11,4,9:47 PM,3:25,,,Jones Free Throw 1 of 2 (10 PTS),63 - 78,15,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,536,3,12,4,9:47 PM,3:25,,,MISS Jones Free Throw 2 of 2,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,537,4,0,4,9:47 PM,3:23,Walker-Kimbrough REBOUND (Off:1 Def:2),,,,,4,1628278,Shatori Walker-Kimbrough,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,539,6,26,4,9:48 PM,3:07,Vaughn Offensive Charge Foul (P2.PN),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,541,5,37,4,9:48 PM,3:07,Vaughn Offensive Foul Turnover (P2.T10),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,1
+1022001114,542,6,26,4,9:49 PM,2:53,,,Jones Offensive Charge Foul (P6.PN),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,4,203035,Shey Peddy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,1
+1022001114,544,5,37,4,9:49 PM,2:53,,,Jones Offensive Foul Turnover (P3.T9),,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001114,545,8,0,4,9:49 PM,2:53,,,SUB: Walker FOR Jones,,,5,1630119,Jazmine Jones,1611661313.0,New York,Liberty,NYL,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0
+1022001114,547,9,4,4,9:49 PM,2:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,549,6,17,4,9:52 PM,2:35,,,Liberty T.Foul (Def. 3 Sec Willoughby ),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,1,0,,,,,,1
+1022001114,550,3,16,4,9:53 PM,2:35,Diggins-Smith Free Throw Technical (30 PTS),,,63 - 79,16,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1022001114,551,1,79,4,9:53 PM,2:20,Vaughn 18' Pullup Jump Shot (12 PTS),,,63 - 81,18,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,552,2,79,4,9:54 PM,1:57,,,MISS Nurse 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,553,4,0,4,9:54 PM,1:56,,,Willoughby REBOUND (Off:5 Def:3),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,554,6,2,4,9:54 PM,1:56,Turner S.FOUL (P6.PN),,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,556,8,0,4,9:54 PM,1:56,SUB: Cunningham FOR Diggins-Smith,,,,,4,203400,Skylar Diggins-Smith,1611661317.0,Phoenix,Mercury,PHO,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,557,8,0,4,9:54 PM,1:56,SUB: Coffey FOR Turner,,,,,4,1629488,Brianna Turner,1611661317.0,Phoenix,Mercury,PHO,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1022001114,560,3,11,4,9:54 PM,1:56,,,Willoughby Free Throw 1 of 2 (6 PTS),64 - 81,17,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,561,3,12,4,9:54 PM,1:56,,,Willoughby Free Throw 2 of 2 (7 PTS),65 - 81,16,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,562,2,79,4,9:55 PM,1:38,MISS Coffey 26' 3PT Pullup Jump Shot,,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,563,4,0,4,9:55 PM,1:35,,,Nurse REBOUND (Off:0 Def:5),,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,564,2,5,4,9:55 PM,1:27,,,MISS Odom 3' Layup,,,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,565,4,0,4,9:55 PM,1:24,Vaughn REBOUND (Off:2 Def:6),,,,,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,566,2,79,4,9:55 PM,1:02,MISS Cunningham 19' Pullup Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,567,4,0,4,9:55 PM,0:58,,,Walker REBOUND (Off:1 Def:4),,,5,1630136,Megan Walker,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,568,2,79,4,9:55 PM,0:54,,,MISS Nurse 24' 3PT Pullup Jump Shot,,,5,1628915,Kia Nurse,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,569,4,0,4,9:55 PM,0:50,,,Willoughby REBOUND (Off:6 Def:3),,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,570,6,2,4,9:56 PM,0:44,Coffey S.FOUL (P2.PN),,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,1,0,,,,,,1
+1022001114,572,3,11,4,9:56 PM,0:44,,,Odom Free Throw 1 of 2 (7 PTS),66 - 81,15,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,573,3,12,4,9:56 PM,0:44,,,Odom Free Throw 2 of 2 (8 PTS),67 - 81,14,5,1630127,Leaonna Odom,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,0
+1022001114,574,2,79,4,9:56 PM,0:29,MISS Cunningham 25' 3PT Pullup Jump Shot,,,,,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,575,4,0,4,9:56 PM,0:24,Coffey REBOUND (Off:2 Def:0),,,,,4,1628269,Nia Coffey,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,1
+1022001114,576,1,98,4,9:57 PM,0:14,Cunningham 4' Cutting Layup Shot (10 PTS) (Vaughn 2 AST),,,67 - 83,16,4,1629482,Sophie Cunningham,1611661317.0,Phoenix,Mercury,PHO,4,201913,Kia Vaughn,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1
+1022001114,578,2,79,4,9:57 PM,0:01,,,MISS Willoughby 25' 3PT Pullup Jump Shot,,,5,1630139,Jocelyn Willoughby,1611661313.0,New York,Liberty,NYL,0,0,,,,,,0,0,,,,,,1
+1022001114,579,4,0,4,9:57 PM,0:01,,,Liberty Rebound,,,3,1611661313,,,,,,0,0,,,,,,0,0,,,,,,0
+1022001114,580,13,0,4,9:57 PM,0:00,,End of 4th Period (9:57 PM EST),,67 - 83,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

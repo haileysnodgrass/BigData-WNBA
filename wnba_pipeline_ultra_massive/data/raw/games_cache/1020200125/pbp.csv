@@ -1,0 +1,361 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020200125,0,12,0,1,7:41 PM,20:00,,Start of 1st Half (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,1,10,0,1,7:42 PM,20:00,Jump Ball Machanguana vs. Williams-Strong: Tip to Harrison,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0
+1020200125,2,6,4,1,7:43 PM,19:42,,,Williams-Strong OFF.Foul (P1),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,3,5,5,1,7:43 PM,19:42,,,Williams-Strong Foul Turnover (P1.T1),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,4,2,1,1,7:43 PM,19:26,MISS S. Johnson 3PT Jump Shot,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,5,4,0,1,7:43 PM,19:21,S. Johnson REBOUND (Off:1 Def:0),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,6,1,1,1,7:43 PM,19:18,Machanguana 4' Jump Shot (2 PTS),,,0 - 2,2,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,7,1,42,1,7:44 PM,18:48,,,Moises Pinto Driving Layup (2 PTS),2 - 2,TIE,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,8,2,42,1,7:46 PM,18:25,MISS S. Johnson Driving Layup,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,9,4,0,1,7:46 PM,18:23,S. Johnson REBOUND (Off:2 Def:0),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,10,2,1,1,7:46 PM,18:04,MISS S. Johnson 17' Jump Shot,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,11,4,0,1,7:46 PM,18:04,,,Gillom REBOUND (Off:0 Def:1),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,12,6,2,1,7:47 PM,17:53,Douglas S.FOUL (P1.T1),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,13,3,11,1,7:47 PM,17:53,,,Grubin Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,14,3,12,1,7:47 PM,17:53,,,Grubin Free Throw 2 of 2 (2 PTS),4 - 2,-2,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,15,2,5,1,7:47 PM,17:48,MISS Sales Layup,,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,16,4,0,1,7:47 PM,17:45,,,Williams-Strong REBOUND (Off:0 Def:1),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,17,2,5,1,7:48 PM,17:35,,,MISS Gillom Layup,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,18,4,0,1,7:48 PM,17:32,Douglas REBOUND (Off:0 Def:1),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,19,5,1,1,7:48 PM,17:30,Douglas Bad Pass Turnover (P1.T1),,Harrison STEAL (1 STL),,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,20,6,2,1,7:48 PM,17:12,Wyckoff S.FOUL (P1.T2),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,21,3,11,1,7:48 PM,17:12,,,Gillom Free Throw 1 of 2 (1 PTS),5 - 2,-3,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,22,3,12,1,7:48 PM,17:12,,,Gillom Free Throw 2 of 2 (2 PTS),6 - 2,-4,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,23,2,1,1,7:49 PM,17:01,MISS Wyckoff 3PT Jump Shot,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,24,4,0,1,7:49 PM,16:58,Sales REBOUND (Off:1 Def:0),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,25,1,44,1,7:49 PM,16:42,Douglas Reverse Layup (2 PTS),,,6 - 4,-2,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,26,10,0,1,7:49 PM,16:35,Jump Ball S. Johnson vs. Moises Pinto: Tip to Douglas,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0
+1020200125,27,5,2,1,7:49 PM,16:35,S. Johnson STEAL (1 STL),,Moises Pinto Lost Ball Turnover (P1.T2),,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,28,1,5,1,7:50 PM,16:30,Douglas Layup (4 PTS),,,6 - 6,TIE,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,29,1,5,1,7:50 PM,16:07,,,Williams-Strong Layup (2 PTS) (Grubin 1 AST),8 - 6,-2,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,30,2,5,1,7:50 PM,15:54,MISS Machanguana Layup,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,31,4,0,1,7:50 PM,15:52,Douglas REBOUND (Off:1 Def:1),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,32,2,1,1,7:50 PM,15:48,MISS Wyckoff 13' Jump Shot,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,33,4,0,1,7:50 PM,15:46,,,Harrison REBOUND (Off:0 Def:1),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,34,5,1,1,7:51 PM,15:37,Douglas STEAL (1 STL),,Grubin Bad Pass Turnover (P1.T3),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,36,1,5,1,7:51 PM,15:30,Sales Layup (2 PTS) (S. Johnson 1 AST),,,8 - 8,TIE,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,38,1,1,1,7:51 PM,15:13,,,Harrison 18' Jump Shot (2 PTS) (Grubin 2 AST),10 - 8,-2,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,39,6,1,1,7:51 PM,15:01,,,Moises Pinto P.FOUL (P1.T1),,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,41,9,4,1,7:51 PM,15:01,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,45,5,1,1,7:54 PM,14:52,Wyckoff Bad Pass Turnover (P1.T2),,Harrison STEAL (2 STL),,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,46,1,42,1,7:54 PM,14:35,,,Gillom Driving Layup (4 PTS),12 - 8,-4,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,47,6,2,1,7:54 PM,14:35,Sales S.FOUL (P1.T3),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,48,3,10,1,7:55 PM,14:35,,,Gillom Free Throw 1 of 1 (5 PTS),13 - 8,-5,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,49,1,1,1,7:55 PM,14:24,Douglas 3PT Jump Shot (7 PTS) (Wyckoff 1 AST),,,13 - 11,-2,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,50,1,1,1,7:55 PM,14:02,,,Moises Pinto 3PT Jump Shot (5 PTS) (Gillom 1 AST),16 - 11,-5,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,51,1,42,1,7:56 PM,13:45,Wyckoff Driving Layup (2 PTS),,,16 - 13,-3,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,52,2,1,1,7:56 PM,13:27,,,MISS Gillom 3PT Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,53,4,0,1,7:56 PM,13:25,Douglas REBOUND (Off:1 Def:2),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,54,6,2,1,7:56 PM,13:20,,,Moises Pinto S.FOUL (P2.T2),,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,55,8,0,1,7:56 PM,13:20,SUB: Powell FOR Douglas,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,56,3,11,1,7:56 PM,13:20,MISS S. Johnson Free Throw 1 of 2,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,57,4,1,1,7:56 PM,13:20,MIRACLE Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,58,3,12,1,7:57 PM,13:20,S. Johnson Free Throw 2 of 2 (1 PTS),,,16 - 14,-2,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,59,5,1,1,7:57 PM,13:09,S. Johnson STEAL (2 STL),,Moises Pinto Bad Pass Turnover (P2.T4),,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,60,6,1,1,7:57 PM,13:08,,,Moises Pinto P.FOUL (P3.T3),,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,71,8,0,1,7:57 PM,13:08,,,SUB: Bonfiglio FOR Moises Pinto,,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,61,6,1,1,7:58 PM,12:58,,,Bonfiglio P.FOUL (P1.T4),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,63,5,1,1,7:58 PM,12:43,Sales Bad Pass Turnover (P1.T3),,Bonfiglio STEAL (1 STL),,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,64,1,1,1,7:58 PM,12:24,,,Gillom 8' Jump Shot (7 PTS),18 - 14,-4,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,65,2,5,1,7:59 PM,12:17,MISS S. Johnson Layup,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,66,4,0,1,7:59 PM,12:15,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,67,8,0,1,7:59 PM,12:15,SUB: Hicks FOR Machanguana,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,68,9,4,1,7:59 PM,11:57,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,72,8,0,1,8:02 PM,11:57,SUB: A. Johnson FOR Sales,,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,74,2,5,1,8:02 PM,11:53,Wyckoff BLOCK (1 BLK),,MISS Gillom Layup,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0
+1020200125,75,4,0,1,8:02 PM,11:50,S. Johnson REBOUND (Off:2 Def:1),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,76,6,2,1,8:02 PM,11:48,,,Williams-Strong S.FOUL (P2.PN),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,77,3,11,1,8:02 PM,11:48,Hicks Free Throw 1 of 2 (1 PTS),,,18 - 15,-3,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,78,8,0,1,8:02 PM,11:48,,,SUB: Reid FOR Harrison,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,79,8,0,1,8:03 PM,11:48,,,SUB: Christensen FOR Williams-Strong,,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,80,3,12,1,8:03 PM,11:48,Hicks Free Throw 2 of 2 (2 PTS),,,18 - 16,-2,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,82,1,1,1,8:03 PM,11:27,,,Bonfiglio 12' Jump Shot (2 PTS),20 - 16,-4,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,83,1,1,1,8:03 PM,11:13,A. Johnson 18' Jump Shot (2 PTS) (Wyckoff 2 AST),,,20 - 18,-2,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,84,6,1,1,8:04 PM,11:02,Hicks P.FOUL (P1.T4),,,,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,85,1,61,1,8:04 PM,10:58,,,Grubin Driving Finger Roll (4 PTS) (Reid 1 AST),22 - 18,-4,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,86,6,4,1,8:04 PM,10:42,Wyckoff OFF.Foul (P2),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,87,5,5,1,8:04 PM,10:42,Wyckoff Foul Turnover (P2.T4),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,88,5,1,1,8:05 PM,10:37,,,Grubin Bad Pass Turnover (P2.T5),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,89,5,4,1,8:05 PM,10:26,Hicks Traveling Turnover (P1.T5),,,,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,90,5,2,1,8:05 PM,10:12,,,Grubin Lost Ball Turnover (P3.T6),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,91,5,2,1,8:05 PM,10:05,Hicks Lost Ball Turnover (P2.T6),,Christensen STEAL (1 STL),,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,92,6,1,1,8:06 PM,9:55,Wyckoff P.FOUL (P3.PN),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,93,8,0,1,8:06 PM,9:55,,,SUB: Veal FOR Grubin,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,5,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,95,8,0,1,8:06 PM,9:55,SUB: Cunningham FOR Wyckoff,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,96,2,1,1,8:06 PM,9:39,,,MISS Reid 14' Jump Shot,,,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,97,4,0,1,8:07 PM,9:37,,,Christensen REBOUND (Off:1 Def:0),,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,98,2,1,1,8:07 PM,9:32,,,MISS Bonfiglio 5' Jump Shot,,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,99,4,0,1,8:07 PM,9:31,A. Johnson REBOUND (Off:0 Def:1),,,,,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,100,2,1,1,8:07 PM,9:25,MISS S. Johnson 3PT Jump Shot,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,101,4,0,1,8:07 PM,9:21,,,Gillom REBOUND (Off:0 Def:2),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,102,5,1,1,8:07 PM,9:16,Cunningham STEAL (1 STL),,Bonfiglio Bad Pass Turnover (P1.T7),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,103,1,5,1,8:07 PM,9:11,Powell Layup (2 PTS) (S. Johnson 2 AST),,,22 - 20,-2,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,104,8,0,1,8:07 PM,8:55,SUB: Douglas FOR S. Johnson,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,105,8,0,1,8:07 PM,8:55,,,SUB: Harrison FOR Reid,,,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,106,1,5,1,8:08 PM,8:48,,,Gillom Layup (9 PTS) (Christensen 1 AST),24 - 20,-4,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,107,2,5,1,8:08 PM,8:18,MISS Hicks Layup,,Christensen BLOCK (1 BLK),,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0
+1020200125,108,4,0,1,8:08 PM,8:15,,,Christensen REBOUND (Off:1 Def:1),,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,109,2,1,1,8:08 PM,8:12,Douglas BLOCK (1 BLK),,MISS Harrison 7' Jump Shot,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0
+1020200125,110,4,0,1,8:08 PM,8:11,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,111,8,0,1,8:08 PM,8:11,,,SUB: Williams-Strong FOR Gillom,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,112,2,1,1,8:09 PM,8:07,,,MISS Bonfiglio 16' Jump Shot,,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,113,4,0,1,8:09 PM,8:05,Hicks REBOUND (Off:0 Def:1),,,,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,114,9,4,1,8:09 PM,7:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,116,8,0,1,8:11 PM,7:58,,,SUB: Grubin FOR Bonfiglio,,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,118,2,1,1,8:12 PM,7:56,MISS A. Johnson 14' Jump Shot,,,,,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,119,4,0,1,8:12 PM,7:54,A. Johnson REBOUND (Off:1 Def:1),,,,,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,120,6,2,1,8:12 PM,7:53,,,Christensen S.FOUL (P1.PN),,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,121,3,11,1,8:12 PM,7:53,A. Johnson Free Throw 1 of 2 (3 PTS),,,24 - 21,-3,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,122,3,12,1,8:12 PM,7:53,A. Johnson Free Throw 2 of 2 (4 PTS),,,24 - 22,-2,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,123,1,5,1,8:13 PM,7:25,,,Harrison Layup (4 PTS) (Veal 1 AST),26 - 22,-4,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,124,6,1,1,8:13 PM,7:14,,,Harrison P.FOUL (P1.PN),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,125,8,0,1,8:13 PM,7:14,SUB: Machanguana FOR Cunningham,,,,,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,126,6,1,1,8:13 PM,7:02,,,Grubin P.FOUL (P1.PN),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,127,3,11,1,8:14 PM,7:02,Hicks Free Throw 1 of 2 (3 PTS),,,26 - 23,-3,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,128,8,0,1,8:14 PM,7:02,,,SUB: Gillom FOR Williams-Strong,,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,129,3,12,1,8:14 PM,7:02,MISS Hicks Free Throw 2 of 2,,,,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,130,4,0,1,8:14 PM,7:00,Hicks REBOUND (Off:1 Def:1),,,,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,131,1,5,1,8:14 PM,6:56,Hicks Layup (5 PTS),,,26 - 25,-1,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,132,1,1,1,8:15 PM,6:29,,,Harrison 8' Jump Shot (6 PTS) (Veal 2 AST),28 - 25,-3,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,133,2,1,1,8:15 PM,6:14,MISS Powell 11' Jump Shot,,,,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,134,4,0,1,8:15 PM,6:12,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,135,2,1,1,8:15 PM,5:46,,,MISS Gillom 3PT Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,136,4,0,1,8:16 PM,5:43,Machanguana REBOUND (Off:0 Def:1),,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,137,5,2,1,8:16 PM,5:38,Douglas Lost Ball Turnover (P2.T7),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,138,2,1,1,8:16 PM,5:12,,,MISS Harrison 12' Jump Shot,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,139,4,0,1,8:16 PM,5:08,Douglas REBOUND (Off:1 Def:3),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,140,2,5,1,8:16 PM,5:04,MISS Powell Layup,,,,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,141,4,0,1,8:16 PM,5:02,,,Grubin REBOUND (Off:0 Def:1),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,142,2,1,1,8:16 PM,4:53,,,MISS Harrison 11' Jump Shot,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,143,4,0,1,8:17 PM,4:51,,,Gillom REBOUND (Off:1 Def:2),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,144,1,5,1,8:17 PM,4:49,,,Gillom Layup (11 PTS),30 - 25,-5,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,145,9,1,1,8:17 PM,4:42,MIRACLE Timeout: Regular (Full 1 Short 0),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,147,8,0,1,8:19 PM,4:42,SUB: Sales FOR Hicks,,,,,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,148,8,0,1,8:19 PM,4:42,SUB: dos Santos FOR A. Johnson,,,,,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,149,8,0,1,8:19 PM,4:42,,,SUB: Reid FOR Harrison,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,150,8,0,1,8:19 PM,4:42,,,SUB: Tuvic FOR Christensen,,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,151,1,47,1,8:19 PM,4:23,Machanguana 6' Turnaround Jump Shot (4 PTS),,,30 - 27,-3,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,152,1,1,1,8:20 PM,4:03,,,Grubin 3PT Jump Shot (7 PTS) (Gillom 2 AST),33 - 27,-6,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,153,5,1,1,8:20 PM,3:49,Powell Bad Pass Turnover (P1.T8),,,,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,154,2,1,1,8:20 PM,3:27,,,MISS Gillom 15' Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,155,4,0,1,8:21 PM,3:25,Sales REBOUND (Off:1 Def:1),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,156,5,2,1,8:21 PM,3:17,Sales Lost Ball Turnover (P2.T9),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,157,8,0,1,8:21 PM,3:17,SUB: S. Johnson FOR Powell,,,,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,158,2,1,1,8:21 PM,3:03,,,MISS Veal 3PT Jump Shot,,,5,100670,Kristen Veal,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,159,4,0,1,8:21 PM,3:00,Douglas REBOUND (Off:1 Def:4),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,160,2,1,1,8:22 PM,2:34,MISS Machanguana 4' Jump Shot,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,161,4,0,1,8:22 PM,2:34,,,Reid REBOUND (Off:0 Def:1),,,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,162,2,1,1,8:22 PM,2:28,,,MISS Grubin 3PT Jump Shot,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,163,4,0,1,8:22 PM,2:27,Sales REBOUND (Off:1 Def:2),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,164,6,1,1,8:22 PM,2:26,,,Grubin P.FOUL (P2.PN),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,165,3,11,1,8:22 PM,2:26,Sales Free Throw 1 of 2 (3 PTS),,,33 - 28,-5,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,167,7,3,1,8:22 PM,2:26,dos Santos Violation:Lane,,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,168,5,17,1,8:23 PM,2:26,dos Santos Lane Violation Turnover (P1.T10),,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,170,9,2,1,8:23 PM,2:26,,,Mercury Timeout: Short (Reg.0 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,174,5,4,1,8:24 PM,2:17,,,Tuvic Traveling Turnover (P1.T8),,,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,175,6,2,1,8:24 PM,2:06,,,Gillom S.FOUL (P1.PN),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,176,7,1,1,8:24 PM,2:06,MIRACLE Violation: Delay of game Violation,,,,,2,1611661323,,,,,,0,0,,,,,,1,0,,,,,,0
+1020200125,177,7,1,1,8:24 PM,2:06,,,Mercury Violation: Delay of game Violation,,,3,1611661317,,,,,,0,0,,,,,,1,0,,,,,,0
+1020200125,178,3,11,1,8:25 PM,2:06,MISS dos Santos Free Throw 1 of 2,,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,179,4,1,1,8:25 PM,2:06,MIRACLE Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,180,3,12,1,8:25 PM,2:06,dos Santos Free Throw 2 of 2 (1 PTS),,,33 - 29,-4,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,181,2,1,1,8:25 PM,1:48,,,MISS Gillom 14' Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,182,4,0,1,8:25 PM,1:46,,,Gillom REBOUND (Off:2 Def:2),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,183,6,1,1,8:25 PM,1:44,Douglas P.FOUL (P2.PN),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,184,6,1,1,8:26 PM,1:33,Machanguana P.FOUL (P1.PN),,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,185,5,2,1,8:26 PM,1:26,Sales STEAL (1 STL),,Tuvic Lost Ball Turnover (P2.T9),,,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,186,2,1,1,8:26 PM,1:19,MISS Douglas 3PT Jump Shot,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,187,4,0,1,8:26 PM,1:16,,,Reid REBOUND (Off:0 Def:2),,,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,188,1,1,1,8:27 PM,1:10,,,Grubin 9' Jump Shot (9 PTS) (Reid 2 AST),35 - 29,-6,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,189,2,1,1,8:27 PM,0:49,MISS Machanguana 8' Jump Shot,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,190,4,0,1,8:27 PM,0:45,,,Grubin REBOUND (Off:0 Def:2),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,191,2,5,1,8:27 PM,0:41,,,MISS Gillom Layup,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,192,4,0,1,8:27 PM,0:39,S. Johnson REBOUND (Off:2 Def:2),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,193,1,5,1,8:27 PM,0:34,Douglas Layup (9 PTS) (S. Johnson 3 AST),,,35 - 31,-4,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,194,2,5,1,8:27 PM,0:29,Machanguana BLOCK (1 BLK),,MISS Reid Layup,,,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0
+1020200125,195,4,0,1,8:27 PM,0:26,Sales REBOUND (Off:1 Def:3),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,196,1,1,1,8:28 PM,0:21,Sales 9' Jump Shot (5 PTS) (S. Johnson 4 AST),,,35 - 33,-2,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,197,9,1,1,8:28 PM,0:21,,,Mercury Timeout: Regular (Reg.1 Short 1),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,199,8,0,1,8:30 PM,0:21,SUB: Hicks FOR Machanguana,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,4,100048,Jessie Hicks,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,200,8,0,1,8:30 PM,0:21,,,SUB: Harrison FOR Reid,,,5,100182,Tracy Reid,1611661317.0,Phoenix,Mercury,PHO,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,201,8,0,1,8:30 PM,0:21,,,SUB: Williams-Strong FOR Tuvic,,,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,202,13,0,1,8:30 PM,0:00,,End of 1st Half (8:30 PM EST),,35 - 33,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,205,12,0,2,8:47 PM,20:00,,Start of 2nd Half (8:47 PM EST),,35 - 33,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,206,10,0,2,8:47 PM,20:00,Jump Ball Machanguana vs. Williams-Strong: Tip to Harrison,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0
+1020200125,207,2,5,2,8:47 PM,19:47,Wyckoff BLOCK (2 BLK),,MISS Moises Pinto Layup,,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0
+1020200125,208,4,0,2,8:47 PM,19:46,MIRACLE Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,209,1,5,2,8:48 PM,19:30,Machanguana Layup (6 PTS),,,35 - 35,TIE,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,210,5,2,2,8:48 PM,19:01,Sales STEAL (2 STL),,Moises Pinto Lost Ball Turnover (P3.T10),,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,211,5,1,2,8:48 PM,18:55,S. Johnson Bad Pass Turnover (P1.T11),,Harrison STEAL (3 STL),,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,212,6,1,2,8:48 PM,18:37,Machanguana P.FOUL (P2.T1),,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,213,2,5,2,8:49 PM,18:34,,,MISS Williams-Strong Layup,,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,214,4,0,2,8:49 PM,18:33,Douglas REBOUND (Off:1 Def:5),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,215,1,5,2,8:49 PM,18:24,Wyckoff Layup (4 PTS) (S. Johnson 5 AST),,,35 - 37,2,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,216,2,1,2,8:49 PM,18:01,,,MISS Moises Pinto 3PT Jump Shot,,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,217,4,0,2,8:49 PM,17:59,Machanguana REBOUND (Off:0 Def:2),,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,218,6,1,2,8:49 PM,17:59,,,Harrison P.FOUL (P2.T1),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,219,5,1,2,8:50 PM,17:39,Sales Bad Pass Turnover (P3.T12),,Gillom STEAL (1 STL),,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,220,1,45,2,8:50 PM,17:32,,,Grubin 4' Jump Shot (11 PTS),37 - 37,TIE,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,221,5,2,2,8:50 PM,17:25,Sales Lost Ball Turnover (P4.T13),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,222,6,1,2,8:51 PM,17:18,S. Johnson P.FOUL (P1.T2),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,223,2,1,2,8:51 PM,17:10,,,MISS Gillom 3PT Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,224,4,0,2,8:51 PM,17:08,MIRACLE Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,225,6,3,2,8:51 PM,17:07,,,Harrison L.B.FOUL (P3.T2),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,226,1,1,2,8:51 PM,16:53,Douglas 12' Jump Shot (11 PTS) (S. Johnson 6 AST),,,37 - 39,2,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,227,2,1,2,8:52 PM,16:38,,,MISS Grubin 15' Jump Shot,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,228,4,0,2,8:52 PM,16:36,Wyckoff REBOUND (Off:0 Def:1),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,229,2,1,2,8:52 PM,16:26,MISS Machanguana 15' Jump Shot,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,230,4,0,2,8:52 PM,16:24,,,Harrison REBOUND (Off:0 Def:2),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,231,6,1,2,8:52 PM,16:10,Sales P.FOUL (P2.T3),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,232,1,1,2,8:53 PM,16:00,,,Gillom 3PT Jump Shot (14 PTS) (Moises Pinto 1 AST),40 - 39,-1,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,233,1,1,2,8:53 PM,15:41,Wyckoff 8' Jump Shot (6 PTS) (Sales 1 AST),,,40 - 41,1,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,234,5,1,2,8:53 PM,15:38,Douglas STEAL (2 STL),,Grubin Bad Pass Turnover (P4.T11),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,235,6,1,2,8:53 PM,15:36,,,Williams-Strong P.FOUL (P3.T3),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,236,9,4,2,8:53 PM,15:36,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,239,8,0,2,8:55 PM,15:36,,,SUB: Christensen FOR Williams-Strong,,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,241,3,11,2,8:56 PM,15:36,Douglas Free Throw 1 of 2 (12 PTS),,,40 - 42,2,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,242,3,12,2,8:56 PM,15:36,Douglas Free Throw 2 of 2 (13 PTS),,,40 - 43,3,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,243,2,1,2,8:57 PM,15:14,,,MISS Harrison 14' Jump Shot,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,244,4,0,2,8:57 PM,15:12,Wyckoff REBOUND (Off:0 Def:2),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,245,6,1,2,8:57 PM,14:47,,,Harrison P.FOUL (P4.T4),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,246,2,1,2,8:57 PM,14:40,MISS Machanguana 6' Jump Shot,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,247,4,0,2,8:58 PM,14:38,,,Gillom REBOUND (Off:2 Def:3),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,248,2,1,2,8:58 PM,14:16,,,MISS Grubin 3PT Jump Shot,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,249,4,0,2,8:58 PM,14:14,Douglas REBOUND (Off:1 Def:6),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,250,5,1,2,8:58 PM,13:56,Douglas Bad Pass Turnover (P3.T14),,Gillom STEAL (2 STL),,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,251,1,1,2,8:58 PM,13:45,,,Harrison 18' Jump Shot (8 PTS) (Moises Pinto 2 AST),42 - 43,1,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,252,2,5,2,8:59 PM,13:25,MISS Machanguana Layup,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,253,4,0,2,8:59 PM,13:23,,,Christensen REBOUND (Off:1 Def:2),,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,254,6,1,2,8:59 PM,13:21,Sales P.FOUL (P3.T4),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,255,2,1,2,8:59 PM,13:10,,,MISS Harrison 5' Jump Shot,,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,256,4,0,2,8:59 PM,13:08,Douglas REBOUND (Off:1 Def:7),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,257,5,2,2,8:59 PM,13:00,Douglas Lost Ball Turnover (P4.T15),,Grubin STEAL (1 STL),,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,258,1,5,2,8:59 PM,12:54,,,Grubin Layup (13 PTS),44 - 43,-1,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,259,2,1,2,9:00 PM,12:40,MISS S. Johnson 15' Jump Shot,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,260,4,0,2,9:00 PM,12:38,Wyckoff REBOUND (Off:1 Def:2),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,261,1,1,2,9:00 PM,12:33,Douglas 15' Jump Shot (15 PTS),,,44 - 45,1,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,262,8,0,2,9:00 PM,12:24,SUB: dos Santos FOR Machanguana,,,,,4,100395,Clarisse Machanguana,1611661323.0,Orlando,Miracle,ORL,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,263,10,0,2,9:00 PM,12:24,Jump Ball Douglas vs. Christensen: Tip to Harrison,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0
+1020200125,264,2,1,2,9:01 PM,12:08,,,MISS Christensen 3PT Jump Shot,,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,265,4,0,2,9:01 PM,12:06,Wyckoff REBOUND (Off:1 Def:3),,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,266,1,5,2,9:01 PM,11:59,dos Santos Layup (3 PTS) (S. Johnson 7 AST),,,44 - 47,3,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,267,9,2,2,9:01 PM,11:49,,,Mercury Timeout: Short (Reg.1 Short 2),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,272,1,47,2,9:02 PM,11:35,,,Harrison 6' Turnaround Jump Shot (10 PTS),46 - 47,1,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,273,1,5,2,9:02 PM,11:28,dos Santos Layup (5 PTS) (S. Johnson 8 AST),,,46 - 49,3,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,274,1,1,2,9:03 PM,10:57,,,Grubin 3PT Jump Shot (16 PTS) (Gillom 3 AST),49 - 49,TIE,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,275,6,2,2,9:03 PM,10:43,,,Christensen S.FOUL (P2.PN),,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,276,9,4,2,9:03 PM,10:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,279,8,0,2,9:06 PM,10:43,,,SUB: Bonfiglio FOR Moises Pinto,,,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,280,8,0,2,9:06 PM,10:43,,,SUB: Tuvic FOR Christensen,,,5,100759,Kayte Christensen,1611661317.0,Phoenix,Mercury,PHO,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,281,3,11,2,9:06 PM,10:43,dos Santos Free Throw 1 of 2 (6 PTS),,,49 - 50,1,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,282,3,12,2,9:06 PM,10:43,dos Santos Free Throw 2 of 2 (7 PTS),,,49 - 51,2,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,283,1,1,2,9:07 PM,10:32,,,Grubin 8' Jump Shot (18 PTS),51 - 51,TIE,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,284,6,2,2,9:07 PM,10:32,S. Johnson S.FOUL (P2.PN),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,285,3,10,2,9:07 PM,10:32,,,Grubin Free Throw 1 of 1 (19 PTS),52 - 51,-1,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,286,2,1,2,9:07 PM,10:14,MISS Wyckoff 12' Jump Shot,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,287,4,0,2,9:07 PM,10:10,,,Harrison REBOUND (Off:0 Def:3),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,288,2,1,2,9:08 PM,9:51,,,MISS Gillom 3PT Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,289,4,0,2,9:08 PM,9:48,,,Tuvic REBOUND (Off:1 Def:0),,,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,290,1,1,2,9:08 PM,9:30,,,Bonfiglio 15' Jump Shot (4 PTS) (Gillom 4 AST),54 - 51,-3,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,291,5,2,2,9:08 PM,9:17,S. Johnson Lost Ball Turnover (P2.T16),,Grubin STEAL (2 STL),,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,292,1,5,2,9:08 PM,9:11,,,Bonfiglio Layup (6 PTS) (Grubin 3 AST),56 - 51,-5,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,293,9,2,2,9:08 PM,9:02,MIRACLE Timeout: Short (Full 1 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,295,8,0,2,9:09 PM,9:02,SUB: A. Johnson FOR Douglas,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,297,5,1,2,9:09 PM,8:54,Sales Bad Pass Turnover (P5.T17),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,298,2,42,2,9:10 PM,8:46,,,MISS Grubin Driving Layup,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,299,4,0,2,9:10 PM,8:44,,,Bonfiglio REBOUND (Off:1 Def:0),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,300,1,63,2,9:10 PM,8:27,,,Gillom 10' Fadeaway Jumper (16 PTS) (Bonfiglio 1 AST),58 - 51,-7,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,301,2,1,2,9:10 PM,8:13,MISS S. Johnson 8' Jump Shot,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,302,4,0,2,9:10 PM,8:11,dos Santos REBOUND (Off:1 Def:0),,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,303,8,0,2,9:10 PM,8:11,SUB: Cunningham FOR Wyckoff,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,304,6,2,2,9:10 PM,8:11,,,Bonfiglio S.FOUL (P2.PN),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,305,3,11,2,9:11 PM,8:11,dos Santos Free Throw 1 of 2 (8 PTS),,,58 - 52,-6,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,306,3,12,2,9:11 PM,8:11,dos Santos Free Throw 2 of 2 (9 PTS),,,58 - 53,-5,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,307,1,1,2,9:11 PM,7:56,,,Grubin 14' Jump Shot (21 PTS),60 - 53,-7,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,308,6,2,2,9:11 PM,7:39,,,Gillom S.FOUL (P2.PN),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,309,9,4,2,9:12 PM,7:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,311,8,0,2,9:14 PM,7:39,SUB: Powell FOR S. Johnson,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,312,8,0,2,9:14 PM,7:39,,,SUB: Williams-Strong FOR Gillom,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,313,3,11,2,9:14 PM,7:39,dos Santos Free Throw 1 of 2 (10 PTS),,,60 - 54,-6,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,314,3,12,2,9:15 PM,7:39,MISS dos Santos Free Throw 2 of 2,,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,315,4,0,2,9:15 PM,7:37,Sales REBOUND (Off:2 Def:3),,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,316,2,1,2,9:15 PM,7:35,MISS Sales 15' Jump Shot,,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,317,4,0,2,9:15 PM,7:32,,,Williams-Strong REBOUND (Off:0 Def:2),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,318,6,1,2,9:15 PM,7:20,dos Santos P.FOUL (P1.PN),,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,319,8,0,2,9:15 PM,7:20,SUB: Douglas FOR Sales,,,,,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,321,6,1,2,9:15 PM,7:16,Cunningham P.FOUL (P1.PN),,,,,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,322,6,1,2,9:16 PM,7:11,Powell P.FOUL (P1.PN),,,,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,323,3,11,2,9:16 PM,7:11,,,MISS Grubin Free Throw 1 of 2,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,324,4,1,2,9:16 PM,7:11,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,325,8,0,2,9:16 PM,7:11,,,SUB: Gillom FOR Tuvic,,,5,100713,Slobodanka Tuvic,1611661317.0,Phoenix,Mercury,PHO,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,326,3,12,2,9:16 PM,7:11,,,MISS Grubin Free Throw 2 of 2,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,327,4,0,2,9:17 PM,7:09,Cunningham REBOUND (Off:0 Def:1),,,,,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,328,5,1,2,9:17 PM,6:49,Powell Bad Pass Turnover (P2.T18),,Gillom STEAL (3 STL),,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,329,6,1,2,9:17 PM,6:32,Cunningham P.FOUL (P2.PN),,,,,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,330,3,11,2,9:17 PM,6:32,,,Gillom Free Throw 1 of 2 (17 PTS),61 - 54,-7,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,331,3,12,2,9:18 PM,6:32,,,Gillom Free Throw 2 of 2 (18 PTS),62 - 54,-8,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,332,6,2,2,9:18 PM,6:21,,,Gillom S.FOUL (P3.PN),,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,333,8,0,2,9:18 PM,6:21,SUB: Wyckoff FOR Cunningham,,,,,4,100743,Davalyn Cunningham,1611661323.0,Orlando,Miracle,ORL,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,334,3,11,2,9:18 PM,6:21,dos Santos Free Throw 1 of 2 (11 PTS),,,62 - 55,-7,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,335,3,12,2,9:19 PM,6:21,dos Santos Free Throw 2 of 2 (12 PTS),,,62 - 56,-6,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,336,1,1,2,9:19 PM,6:00,,,Gillom 7' Jump Shot (20 PTS),64 - 56,-8,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,337,1,5,2,9:20 PM,5:37,dos Santos Layup (14 PTS) (Wyckoff 3 AST),,,64 - 58,-6,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,338,6,4,2,9:20 PM,5:16,,,Williams-Strong OFF.Foul (P4),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,339,5,5,2,9:20 PM,5:16,,,Williams-Strong Foul Turnover (P2.T12),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,340,2,1,2,9:20 PM,5:08,MISS Wyckoff 3PT Jump Shot,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,341,4,0,2,9:20 PM,5:06,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,342,6,3,2,9:20 PM,5:06,A. Johnson L.B.FOUL (P1.PN),,,,,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,343,3,11,2,9:21 PM,5:06,,,MISS Bonfiglio Free Throw 1 of 2,,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,344,4,1,2,9:21 PM,5:06,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,345,3,12,2,9:21 PM,5:06,,,Bonfiglio Free Throw 2 of 2 (7 PTS),65 - 58,-7,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,346,6,2,2,9:21 PM,4:48,,,Bonfiglio S.FOUL (P3.PN),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,347,3,11,2,9:22 PM,4:48,dos Santos Free Throw 1 of 2 (15 PTS),,,65 - 59,-6,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,348,8,0,2,9:22 PM,4:48,SUB: S. Johnson FOR Powell,,,,,4,100414,Elaine Powell,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,349,3,12,2,9:22 PM,4:48,dos Santos Free Throw 2 of 2 (16 PTS),,,65 - 60,-5,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,350,10,0,2,9:23 PM,4:34,Jump Ball Douglas vs. Bonfiglio: Tip to Bonfiglio,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0
+1020200125,351,2,1,2,9:24 PM,4:14,,,MISS Gillom 3PT Jump Shot,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,352,4,0,2,9:24 PM,4:12,Douglas REBOUND (Off:1 Def:8),,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,353,2,1,2,9:25 PM,4:00,MISS Wyckoff 3PT Jump Shot,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,354,4,0,2,9:25 PM,3:58,,,Bonfiglio REBOUND (Off:1 Def:1),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,355,5,1,2,9:25 PM,3:54,Douglas STEAL (3 STL),,Bonfiglio Bad Pass Turnover (P2.T13),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,356,1,5,2,9:25 PM,3:47,Douglas Layup (17 PTS) (S. Johnson 9 AST),,,65 - 62,-3,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,357,9,2,2,9:25 PM,3:35,,,Mercury Timeout: Short (Reg.1 Short 3),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,362,6,1,2,9:26 PM,3:24,dos Santos P.FOUL (P2.PN),,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,363,9,4,2,9:27 PM,3:24,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,365,8,0,2,9:29 PM,3:24,SUB: Sales FOR Wyckoff,,,,,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,4,100415,Nykesha Sales,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,367,3,11,2,9:29 PM,3:24,,,MISS Gillom Free Throw 1 of 2,,,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,368,4,1,2,9:29 PM,3:24,,,Mercury Rebound,,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,369,3,12,2,9:29 PM,3:24,,,Gillom Free Throw 2 of 2 (21 PTS),66 - 62,-4,5,100030,Jennifer Gillom,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,370,1,42,2,9:30 PM,3:11,Douglas Driving Layup (19 PTS),,,66 - 64,-2,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,371,1,5,2,9:30 PM,2:38,,,Bonfiglio Layup (9 PTS) (Grubin 4 AST),68 - 64,-4,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,372,1,5,2,9:30 PM,2:24,dos Santos Layup (18 PTS) (S. Johnson 10 AST),,,68 - 66,-2,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,373,2,47,2,9:31 PM,1:51,,,MISS Grubin 11' Turnaround Jump Shot,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,374,4,0,2,9:31 PM,1:49,dos Santos REBOUND (Off:1 Def:1),,,,,4,100514,Cintia dos Santos,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,375,1,5,2,9:31 PM,1:38,S. Johnson Layup (3 PTS) (A. Johnson 1 AST),,,68 - 68,TIE,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,376,9,1,2,9:31 PM,1:29,,,Mercury Timeout: Regular (Reg.2 Short 3),,,3,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,382,6,4,2,9:34 PM,1:10,,,Williams-Strong OFF.Foul (P5),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,383,5,5,2,9:34 PM,1:10,,,Williams-Strong Foul Turnover (P3.T14),,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,384,2,5,2,9:35 PM,0:55,MISS Douglas Layup,,,,,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,385,4,0,2,9:35 PM,0:54,,,Grubin REBOUND (Off:0 Def:3),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,386,6,1,2,9:35 PM,0:53,S. Johnson P.FOUL (P3.PN),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,1,0,,,,,,0
+1020200125,387,3,11,2,9:35 PM,0:53,,,Grubin Free Throw 1 of 2 (22 PTS),69 - 68,-1,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,388,3,12,2,9:35 PM,0:53,,,Grubin Free Throw 2 of 2 (23 PTS),70 - 68,-2,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,390,6,1,2,9:36 PM,0:47,,,Grubin P.FOUL (P3.PN),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,391,3,11,2,9:36 PM,0:47,S. Johnson Free Throw 1 of 2 (4 PTS),,,70 - 69,-1,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,392,3,12,2,9:36 PM,0:47,S. Johnson Free Throw 2 of 2 (5 PTS),,,70 - 70,TIE,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,393,2,1,2,9:37 PM,0:26,,,MISS Grubin 13' Jump Shot,,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,394,4,0,2,9:37 PM,0:24,,,Bonfiglio REBOUND (Off:2 Def:1),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020200125,395,5,1,2,9:37 PM,0:21,Douglas STEAL (4 STL),,Bonfiglio Bad Pass Turnover (P3.T15),,,5,100799,Susanna Bonfiglio,1611661317.0,Phoenix,Mercury,PHO,4,100666,Katie Douglas,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,396,9,1,2,9:37 PM,0:14,MIRACLE Timeout: Regular (Full 2 Short 1),,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,400,6,2,2,9:40 PM,0:03,,,Grubin S.FOUL (P4.PN),,,5,100394,Gordana Grubin,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,401,3,11,2,9:40 PM,0:03,S. Johnson Free Throw 1 of 2 (6 PTS),,,70 - 71,1,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,402,8,0,2,9:40 PM,0:03,SUB: Wyckoff FOR A. Johnson,,,,,4,100100,Adrienne Johnson,1611661323.0,Orlando,Miracle,ORL,4,100667,Brooke Wyckoff,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0
+1020200125,403,8,0,2,9:40 PM,0:03,,,SUB: Moises Pinto FOR Williams-Strong,,,5,100526,Adrian Williams-Strong,1611661317.0,Phoenix,Mercury,PHO,5,100718,Adriana Moises Pinto,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020200125,404,3,12,2,9:40 PM,0:03,MISS S. Johnson Free Throw 2 of 2,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,405,4,0,2,9:40 PM,0:01,S. Johnson REBOUND (Off:3 Def:2),,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,406,6,1,2,9:41 PM,0:00,,,Harrison P.FOUL (P5.PN),,,5,100378,Lisa Harrison,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020200125,407,3,11,2,9:41 PM,0:00,S. Johnson Free Throw 1 of 2 (7 PTS),,,70 - 72,2,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,408,3,12,2,9:41 PM,0:00,MISS S. Johnson Free Throw 2 of 2,,,,,4,100410,Shannon Johnson,1611661323.0,Orlando,Miracle,ORL,0,0,,,,,,0,0,,,,,,0
+1020200125,410,4,0,2,9:42 PM,0:00,MIRACLE Rebound,,,,,2,1611661323,,,,,,0,0,,,,,,0,0,,,,,,0
+1020200125,409,13,0,2,9:42 PM,0:00,,End of 2nd Half (9:42 PM EST),,70 - 72,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

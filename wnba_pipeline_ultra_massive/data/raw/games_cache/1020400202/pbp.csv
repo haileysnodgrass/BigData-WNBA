@@ -1,0 +1,382 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020400202,0,12,0,1,7:17 PM,20:00,,Start of 1st Half (7:17 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,1,10,0,1,7:17 PM,20:00,Jump Ball Schumacher vs. Jackson: Tip to Bird,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1020400202,2,5,4,1,7:18 PM,19:45,,,Lennox Traveling Turnover (P1.T1),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,3,1,1,1,7:18 PM,19:29,Catchings 24' 3PT Jump Shot (3 PTS) (Jackson 1 AST),,,0 - 3,3,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,4,1,1,1,7:19 PM,19:14,,,Jackson  3PT Jump Shot (3 PTS) (Lennox 1 AST),3 - 3,TIE,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,5,2,1,1,7:19 PM,18:56,MISS Williams 8' Jump Shot,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,6,4,0,1,7:19 PM,18:54,,,Bird REBOUND (Off:0 Def:1),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,7,5,1,1,7:19 PM,18:40,Williams STEAL (1 STL),,Bird Bad Pass Turnover (P1.T2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,8,1,47,1,7:19 PM,18:32,Schumacher 5' Turnaround Jump Shot (2 PTS),,,3 - 5,2,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,9,1,1,1,7:20 PM,18:12,,,Vodichkova 15' Jump Shot (2 PTS) (Sam 1 AST),5 - 5,TIE,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,10,5,1,1,7:20 PM,17:52,Jackson Bad Pass Turnover (P1.T1),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,11,6,1,1,7:21 PM,17:36,Miller P.FOUL (P1.T1),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,12,6,2,1,7:21 PM,17:33,Schumacher S.FOUL (P1.T2),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,13,3,11,1,7:21 PM,17:33,,,MISS Jackson Free Throw 1 of 2,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,14,4,1,1,7:21 PM,17:33,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,15,3,12,1,7:21 PM,17:33,,,MISS Jackson Free Throw 2 of 2,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,16,4,0,1,7:22 PM,17:32,Miller REBOUND (Off:0 Def:1),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,17,6,1,1,7:22 PM,17:14,,,Sam P.FOUL (P1.T1),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,18,1,1,1,7:23 PM,17:06,Miller 12' Jump Shot (2 PTS) (Catchings 1 AST),,,5 - 7,2,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,19,1,1,1,7:23 PM,16:54,,,Sam 18' Jump Shot (2 PTS) (Bird 1 AST),7 - 7,TIE,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,20,6,1,1,7:23 PM,16:34,,,Lennox P.FOUL (P1.T2),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,21,2,1,1,7:24 PM,16:26,MISS Jackson  3PT Jump Shot,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,22,4,0,1,7:24 PM,16:24,Schumacher REBOUND (Off:1 Def:0),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,23,5,39,1,7:24 PM,16:13,Williams Step Out of Bounds Turnover (P1.T2),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,24,2,1,1,7:24 PM,15:51,,,MISS Lennox 16' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,25,4,0,1,7:24 PM,15:50,Catchings REBOUND (Off:0 Def:1),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,26,1,42,1,7:24 PM,15:43,Jackson 2' Driving Layup (2 PTS) (Miller 1 AST),,,7 - 9,2,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,27,2,1,1,7:25 PM,15:24,,,MISS Vodichkova 3' Jump Shot,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,28,4,0,1,7:25 PM,15:22,Miller REBOUND (Off:0 Def:2),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,29,1,1,1,7:25 PM,15:13,Miller  3PT Jump Shot (5 PTS) (Schumacher 1 AST),,,7 - 12,5,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,30,5,2,1,7:25 PM,14:49,Williams STEAL (2 STL),,Bird Lost Ball Turnover (P2.T3),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,31,8,0,1,7:25 PM,14:45,,,SUB: Burse FOR Vodichkova,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,32,9,4,1,7:25 PM,14:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,34,1,63,1,7:28 PM,14:31,Catchings 16' Fadeaway Jumper (5 PTS),,,7 - 14,7,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,35,1,46,1,7:28 PM,14:13,,,Jackson 13' Running Jump Shot (5 PTS) (Bird 2 AST),9 - 14,5,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,36,1,1,1,7:28 PM,13:59,Williams 3' Jump Shot (2 PTS) (Miller 2 AST),,,9 - 16,7,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,37,1,1,1,7:29 PM,13:46,,,Lennox  3PT Jump Shot (3 PTS) (Sam 2 AST),12 - 16,4,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,38,2,1,1,7:29 PM,13:33,MISS Schumacher 3' Jump Shot,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,39,4,0,1,7:29 PM,13:32,,,Jackson REBOUND (Off:0 Def:1),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,40,1,5,1,7:29 PM,13:23,,,Burse 1' Layup (2 PTS) (Bird 3 AST),14 - 16,2,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,41,2,1,1,7:29 PM,13:08,MISS Catchings  3PT Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,42,4,0,1,7:29 PM,13:06,Miller REBOUND (Off:1 Def:2),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,43,5,1,1,7:30 PM,12:54,Schumacher Bad Pass Turnover (P1.T3),,Burse STEAL (1 STL),,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,44,2,1,1,7:30 PM,12:37,,,MISS Sam 17' Jump Shot,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,45,4,0,1,7:30 PM,12:35,Catchings REBOUND (Off:0 Def:2),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,46,1,1,1,7:30 PM,12:22,Jackson 18' Jump Shot (4 PTS) (Catchings 2 AST),,,14 - 18,4,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,47,5,1,1,7:31 PM,11:58,Catchings STEAL (1 STL),,Bird Bad Pass Turnover (P3.T4),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,48,9,4,1,7:31 PM,11:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,50,8,0,1,7:32 PM,11:51,SUB: Ivey FOR Miller,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,51,8,0,1,7:32 PM,11:51,SUB: Rasmussen FOR Jackson,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,52,8,0,1,7:32 PM,11:51,,,SUB: Bevilaqua FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,53,8,0,1,7:33 PM,11:51,,,SUB: Thompson FOR Sam,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,54,10,0,1,7:33 PM,11:51,Jump Ball Williams vs. Lennox: Tip to Bevilaqua,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,0
+1020400202,55,5,2,1,7:33 PM,11:51,Williams Lost Ball Turnover (P2.T4),,Lennox STEAL (1 STL),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,56,1,5,1,7:34 PM,11:37,,,Burse 2' Layup (4 PTS) (Lennox 2 AST),16 - 18,2,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,57,6,1,1,7:34 PM,11:31,,,Thompson P.FOUL (P1.T3),,,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,58,5,1,1,7:34 PM,11:21,Catchings Bad Pass Turnover (P1.T5),,Burse STEAL (2 STL),,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,59,2,1,1,7:34 PM,11:06,,,MISS Thompson 18' Jump Shot,,,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,60,4,0,1,7:34 PM,11:04,Williams REBOUND (Off:0 Def:1),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,61,5,1,1,7:35 PM,10:54,Ivey Bad Pass Turnover (P1.T6),,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,62,1,5,1,7:35 PM,10:37,,,Thompson 1' Layup (2 PTS) (Burse 1 AST),18 - 18,TIE,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,63,2,1,1,7:35 PM,10:18,MISS Catchings  3PT Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,64,4,0,1,7:35 PM,10:17,Williams REBOUND (Off:1 Def:1),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,65,2,1,1,7:35 PM,10:06,MISS Ivey  3PT Jump Shot,,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,66,4,0,1,7:35 PM,10:04,,,Jackson REBOUND (Off:0 Def:2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,67,1,5,1,7:36 PM,9:49,,,Jackson 2' Layup (7 PTS) (Burse 2 AST),20 - 18,-2,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,68,1,1,1,7:36 PM,9:34,Rasmussen  3PT Jump Shot (3 PTS) (Williams 1 AST),,,20 - 21,1,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,71,6,2,1,7:37 PM,9:17,Ivey S.FOUL (P1.T3),,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,72,8,0,1,7:37 PM,9:17,,,SUB: Bird FOR Lennox,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,73,8,0,1,7:37 PM,9:17,SUB: Miller FOR Catchings,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,74,3,11,1,7:37 PM,9:17,,,MISS Jackson Free Throw 1 of 2,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,75,4,1,1,7:37 PM,9:17,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,76,3,12,1,7:37 PM,9:17,,,Jackson Free Throw 2 of 2 (8 PTS),21 - 21,TIE,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,77,6,2,1,7:37 PM,9:04,,,Burse S.FOUL (P1.T4),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,78,8,0,1,7:37 PM,9:04,,,SUB: Vodichkova FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,79,3,11,1,7:37 PM,9:04,Williams Free Throw 1 of 2 (3 PTS),,,21 - 22,1,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,81,8,0,1,7:38 PM,9:04,SUB: Hoffman FOR Schumacher,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,82,3,12,1,7:38 PM,9:04,Williams Free Throw 2 of 2 (4 PTS),,,21 - 23,2,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,83,1,63,1,7:38 PM,8:50,,,Bird 12' Fadeaway Jumper (2 PTS),23 - 23,TIE,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,84,1,1,1,7:39 PM,8:38,Miller  3PT Jump Shot (8 PTS) (Rasmussen 1 AST),,,23 - 26,3,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,85,5,2,1,7:39 PM,8:11,Williams STEAL (3 STL),,Vodichkova Lost Ball Turnover (P1.T5),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,86,5,1,1,7:39 PM,8:01,Rasmussen Bad Pass Turnover (P1.T7),,Burse STEAL (3 STL),,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,87,2,1,1,7:40 PM,7:41,Rasmussen BLOCK (1 BLK),,MISS Thompson 13' Jump Shot,,,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0
+1020400202,88,4,0,1,7:40 PM,7:41,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,89,9,4,1,7:40 PM,7:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,90,8,0,1,7:40 PM,7:41,,,SUB: Edwards FOR Vodichkova,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,92,8,0,1,7:40 PM,7:41,,,SUB: Jackson FOR Thompson,,,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,93,8,0,1,7:41 PM,7:41,,,SUB: Sam FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,94,8,0,1,7:42 PM,7:41,SUB: Schumacher FOR Williams,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,95,6,4,1,7:42 PM,7:35,,,Sam OFF.Foul (P2),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,96,5,5,1,7:42 PM,7:35,,,Sam Foul Turnover (P1.T6),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,97,1,47,1,7:43 PM,7:07,Rasmussen 12' Turnaround Jump Shot (5 PTS),,,23 - 28,5,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,98,6,2,1,7:43 PM,6:46,Hoffman S.FOUL (P1.T4),,,,,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,99,8,0,1,7:43 PM,6:46,,,SUB: Lennox FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,100,3,11,1,7:43 PM,6:46,,,Jackson Free Throw 1 of 2 (9 PTS),24 - 28,4,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,101,8,0,1,7:44 PM,6:46,SUB: Jackson FOR Ivey,,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,102,3,12,1,7:44 PM,6:46,,,Jackson Free Throw 2 of 2 (10 PTS),25 - 28,3,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,103,2,1,1,7:44 PM,6:35,MISS Miller 10' Jump Shot,,Bird BLOCK (1 BLK),,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1020400202,104,4,0,1,7:44 PM,6:33,Jackson REBOUND (Off:1 Def:0),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,105,2,1,1,7:44 PM,6:32,MISS Jackson 3' Jump Shot,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,106,4,0,1,7:44 PM,6:30,Hoffman REBOUND (Off:1 Def:0),,,,,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,107,1,1,1,7:45 PM,6:05,Schumacher 11' Jump Shot (4 PTS) (Rasmussen 2 AST),,,25 - 30,5,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,108,6,2,1,7:45 PM,5:42,Jackson S.FOUL (P1.PN),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,109,3,11,1,7:46 PM,5:42,,,Lennox Free Throw 1 of 2 (4 PTS),26 - 30,4,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,110,8,0,1,7:46 PM,5:42,,,SUB: Burse FOR Edwards,,,5,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,111,8,0,1,7:46 PM,5:42,SUB: Catchings FOR Hoffman,,,,,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,112,3,12,1,7:46 PM,5:42,,,Lennox Free Throw 2 of 2 (5 PTS),27 - 30,3,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,113,5,2,1,7:46 PM,5:26,Jackson Lost Ball Turnover (P2.T8),,Lennox STEAL (2 STL),,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,114,2,1,1,7:47 PM,5:09,,,MISS Sam  3PT Jump Shot,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,115,4,0,1,7:47 PM,5:07,Rasmussen REBOUND (Off:0 Def:1),,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,116,1,5,1,7:47 PM,4:51,Schumacher 3' Layup (6 PTS) (Jackson 2 AST),,,27 - 32,5,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,117,2,1,1,7:47 PM,4:30,Jackson BLOCK (1 BLK),,MISS Jackson 4' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0
+1020400202,118,4,0,1,7:47 PM,4:27,,,Jackson REBOUND (Off:1 Def:2),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,119,2,5,1,7:47 PM,4:24,Miller BLOCK (1 BLK),,MISS Sam 1' Layup,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0
+1020400202,120,4,0,1,7:48 PM,4:20,Catchings REBOUND (Off:0 Def:3),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,121,2,5,1,7:48 PM,4:18,MISS Miller 3' Layup,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,122,4,0,1,7:48 PM,4:16,,,Lennox REBOUND (Off:0 Def:1),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,123,6,1,1,7:48 PM,4:10,Miller P.FOUL (P2.PN),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,124,8,0,1,7:48 PM,4:10,,,SUB: Thompson FOR Sam,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,125,8,0,1,7:48 PM,4:10,SUB: Williams FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,126,2,1,1,7:48 PM,4:04,,,MISS Burse 17' Jump Shot,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,127,4,0,1,7:48 PM,4:03,Catchings REBOUND (Off:0 Def:4),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,128,2,5,1,7:49 PM,3:48,MISS Williams 3' Layup,,Lennox BLOCK (1 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0
+1020400202,129,4,0,1,7:49 PM,3:48,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,130,9,4,1,7:49 PM,3:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,132,6,2,1,7:51 PM,3:47,,,Jackson S.FOUL (P1.PN),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,133,3,11,1,7:52 PM,3:47,Schumacher Free Throw 1 of 2 (7 PTS),,,27 - 33,6,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,134,3,12,1,7:52 PM,3:47,Schumacher Free Throw 2 of 2 (8 PTS),,,27 - 34,7,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,135,2,1,1,7:52 PM,3:29,,,MISS Thompson  3PT Jump Shot,,,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,136,4,0,1,7:52 PM,3:27,Jackson REBOUND (Off:1 Def:1),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,137,6,1,1,7:52 PM,3:19,,,Burse P.FOUL (P2.PN),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,138,1,5,1,7:53 PM,3:09,Williams 2' Layup (6 PTS) (Catchings 3 AST),,,27 - 36,9,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,139,6,2,1,7:53 PM,2:39,Williams S.FOUL (P1.PN),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,140,3,11,1,7:54 PM,2:39,,,Burse Free Throw 1 of 2 (5 PTS),28 - 36,8,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,141,3,12,1,7:54 PM,2:39,,,MISS Burse Free Throw 2 of 2,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,142,4,0,1,7:54 PM,2:37,Williams REBOUND (Off:1 Def:2),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,143,6,2,1,7:54 PM,2:21,,,Bird S.FOUL (P1.PN),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,144,3,11,1,7:55 PM,2:21,Catchings Free Throw 1 of 2 (6 PTS),,,28 - 37,9,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,145,3,12,1,7:55 PM,2:21,Catchings Free Throw 2 of 2 (7 PTS),,,28 - 38,10,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,146,1,47,1,7:55 PM,2:05,,,Jackson 10' Turnaround Jump Shot (12 PTS) (Bird 4 AST),30 - 38,8,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,147,2,1,1,7:56 PM,1:45,MISS Catchings 17' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,148,4,0,1,7:56 PM,1:43,,,Lennox REBOUND (Off:0 Def:2),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,149,2,1,1,7:56 PM,1:28,,,MISS Jackson 15' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,150,4,0,1,7:56 PM,1:27,Catchings REBOUND (Off:0 Def:5),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,151,5,1,1,7:56 PM,1:16,Williams Bad Pass Turnover (P3.T9),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,152,8,0,1,7:56 PM,1:16,,,SUB: Sam FOR Thompson,,,5,100216,Alicia Thompson,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,153,8,0,1,7:56 PM,1:16,SUB: Ivey FOR Miller,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,154,5,1,1,7:57 PM,1:05,Catchings STEAL (2 STL),,Burse Bad Pass Turnover (P1.T7),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,155,9,2,1,7:57 PM,1:01,FEVER Timeout: Short (Full 0 Short 1),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,157,2,1,1,7:58 PM,0:41,MISS Jackson 15' Jump Shot,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,158,4,0,1,7:58 PM,0:39,Schumacher REBOUND (Off:2 Def:0),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,159,2,1,1,7:58 PM,0:38,MISS Schumacher 3' Jump Shot,,Burse BLOCK (1 BLK),,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0
+1020400202,160,4,0,1,7:58 PM,0:36,Jackson REBOUND (Off:2 Def:1),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,161,9,1,1,7:59 PM,0:31,FEVER Timeout: Regular (Full 1 Short 1),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,163,8,0,1,8:00 PM,0:31,,,SUB: Edwards FOR Jackson,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100111,Simone Edwards,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,164,2,1,1,8:01 PM,0:12,MISS Ivey  3PT Jump Shot,,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,165,4,0,1,8:01 PM,0:10,,,Sam REBOUND (Off:0 Def:1),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,166,5,2,1,8:02 PM,0:04,Ivey STEAL (1 STL),,Bird Lost Ball Turnover (P4.T8),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,167,6,3,1,8:02 PM,0:04,,,Bird L.B.FOUL (P2.PN),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,168,3,11,1,8:02 PM,0:04,MISS Ivey Free Throw 1 of 2,,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,169,4,1,1,8:02 PM,0:04,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,170,3,12,1,8:02 PM,0:04,Ivey Free Throw 2 of 2 (1 PTS),,,30 - 39,9,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,171,2,1,1,8:02 PM,0:00,,,MISS Lennox 16' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,172,4,0,1,8:02 PM,0:00,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,173,13,0,1,8:02 PM,0:00,,End of 1st Half (8:02 PM EST),,30 - 39,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,175,12,0,2,8:18 PM,20:00,,Start of 2nd Half (8:18 PM EST),,30 - 39,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,177,10,0,2,8:18 PM,19:56,Jump Ball Schumacher vs. Jackson: Tip to Bird,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1020400202,178,5,1,2,8:18 PM,19:47,Miller STEAL (1 STL),,Jackson Bad Pass Turnover (P1.T9),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,179,1,5,2,8:18 PM,19:42,Miller 3' Layup (10 PTS),,,30 - 41,11,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,180,2,1,2,8:19 PM,19:26,,,MISS Lennox 3' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,181,4,0,2,8:19 PM,19:24,Catchings REBOUND (Off:0 Def:6),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,182,5,1,2,8:19 PM,19:20,Catchings Bad Pass Turnover (P2.T10),,Bird STEAL (1 STL),,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,183,1,1,2,8:19 PM,19:17,,,Bird  3PT Jump Shot (5 PTS),33 - 41,8,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,184,6,1,2,8:19 PM,19:02,,,Vodichkova P.FOUL (P1.T1),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,185,2,1,2,8:20 PM,18:57,MISS Williams 3' Jump Shot,,Vodichkova BLOCK (1 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0
+1020400202,187,4,0,2,8:20 PM,18:55,Schumacher REBOUND (Off:3 Def:0),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,186,2,5,2,8:20 PM,18:55,MISS Schumacher 2' Layup,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,188,4,0,2,8:20 PM,18:53,,,Sam REBOUND (Off:0 Def:2),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,189,6,2,2,8:20 PM,18:32,Williams S.FOUL (P2.T1),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,190,3,11,2,8:20 PM,18:32,,,Sam Free Throw 1 of 2 (3 PTS),34 - 41,7,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,192,3,12,2,8:21 PM,18:32,,,Sam Free Throw 2 of 2 (4 PTS),35 - 41,6,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,194,1,1,2,8:21 PM,18:06,Jackson 11' Jump Shot (6 PTS),,,35 - 43,8,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,195,2,1,2,8:22 PM,17:51,,,MISS Jackson  3PT Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,196,4,0,2,8:22 PM,17:49,,,Sam REBOUND (Off:1 Def:2),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,197,1,1,2,8:22 PM,17:45,,,Bird 17' Jump Shot (7 PTS) (Sam 3 AST),37 - 43,6,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,198,2,5,2,8:22 PM,17:30,MISS Williams 2' Layup,,Vodichkova BLOCK (2 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0
+1020400202,199,4,0,2,8:22 PM,17:28,,,Vodichkova REBOUND (Off:0 Def:1),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,200,6,2,2,8:22 PM,17:22,Miller S.FOUL (P3.T2),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,201,3,11,2,8:22 PM,17:22,,,Bird Free Throw 1 of 2 (8 PTS),38 - 43,5,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,202,3,12,2,8:23 PM,17:22,,,Bird Free Throw 2 of 2 (9 PTS),39 - 43,4,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,203,2,1,2,8:23 PM,17:07,MISS Catchings 9' Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,204,4,0,2,8:23 PM,17:07,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,205,1,5,2,8:23 PM,17:03,Jackson 2' Layup (8 PTS) (Catchings 4 AST),,,39 - 45,6,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,206,2,1,2,8:24 PM,16:53,,,MISS Vodichkova 12' Jump Shot,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,207,4,0,2,8:24 PM,16:51,,,Vodichkova REBOUND (Off:1 Def:1),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,208,6,4,2,8:24 PM,16:38,,,Vodichkova OFF.Foul (P2),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,209,5,5,2,8:24 PM,16:38,,,Vodichkova Foul Turnover (P2.T10),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,210,5,1,2,8:24 PM,16:26,Catchings Bad Pass Turnover (P3.T11),,Bird STEAL (2 STL),,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,211,1,5,2,8:24 PM,16:22,,,Bird 1' Layup (11 PTS),41 - 45,4,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,212,6,2,2,8:25 PM,16:02,,,Vodichkova S.FOUL (P3.T2),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,213,3,11,2,8:25 PM,16:02,Catchings Free Throw 1 of 2 (8 PTS),,,41 - 46,5,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,214,8,0,2,8:25 PM,16:02,,,SUB: Burse FOR Vodichkova,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,215,3,12,2,8:25 PM,16:02,Catchings Free Throw 2 of 2 (9 PTS),,,41 - 47,6,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,216,6,1,2,8:26 PM,15:49,Miller P.FOUL (P4.T3),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,217,9,4,2,8:26 PM,15:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,219,8,0,2,8:29 PM,15:49,SUB: Ivey FOR Miller,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,220,1,1,2,8:29 PM,15:37,,,Lennox 17' Jump Shot (7 PTS) (Sam 4 AST),43 - 47,4,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,221,2,1,2,8:29 PM,15:19,MISS Williams 14' Jump Shot,,Burse BLOCK (2 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0
+1020400202,222,4,0,2,8:30 PM,15:17,Williams REBOUND (Off:2 Def:2),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,223,2,5,2,8:30 PM,15:16,MISS Williams 3' Layup,,Burse BLOCK (3 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0
+1020400202,224,10,0,2,8:30 PM,15:16,Jump Ball Jackson vs. Lennox: Tip to Bird,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0
+1020400202,225,4,0,2,8:30 PM,15:16,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,226,1,1,2,8:30 PM,14:58,,,Burse 17' Jump Shot (7 PTS) (Lennox 3 AST),45 - 47,2,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,227,6,1,2,8:31 PM,14:43,,,Burse P.FOUL (P3.T3),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,228,6,2,2,8:31 PM,14:32,,,Jackson S.FOUL (P2.T4),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,229,3,11,2,8:31 PM,14:32,MISS Schumacher Free Throw 1 of 2,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,230,4,1,2,8:31 PM,14:32,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,231,8,0,2,8:32 PM,14:32,SUB: Rasmussen FOR Jackson,,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,232,3,12,2,8:32 PM,14:32,Schumacher Free Throw 2 of 2 (9 PTS),,,45 - 48,3,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,233,2,1,2,8:32 PM,14:16,,,MISS Burse 17' Jump Shot,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,234,4,0,2,8:32 PM,14:14,Williams REBOUND (Off:2 Def:3),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,235,6,2,2,8:32 PM,14:03,,,Burse S.FOUL (P4.PN),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,236,3,11,2,8:32 PM,14:03,MISS Williams Free Throw 1 of 2,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,237,4,1,2,8:32 PM,14:03,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,238,8,0,2,8:33 PM,14:03,,,SUB: Vodichkova FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,239,3,12,2,8:33 PM,14:03,MISS Williams Free Throw 2 of 2,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,240,4,0,2,8:33 PM,14:02,Schumacher REBOUND (Off:4 Def:0),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,241,2,1,2,8:34 PM,13:35,MISS Catchings  3PT Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,242,4,0,2,8:34 PM,13:33,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,243,2,1,2,8:34 PM,13:15,,,MISS Lennox 15' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,244,4,0,2,8:34 PM,13:13,Catchings REBOUND (Off:0 Def:7),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,245,2,1,2,8:34 PM,13:04,MISS Rasmussen  3PT Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,246,4,0,2,8:34 PM,13:02,,,Sam REBOUND (Off:1 Def:3),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,247,6,1,2,8:34 PM,12:59,Rasmussen P.FOUL (P1.T4),,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,248,2,1,2,8:35 PM,12:47,,,MISS Vodichkova 16' Jump Shot,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,249,4,0,2,8:35 PM,12:45,Rasmussen REBOUND (Off:0 Def:2),,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,250,2,1,2,8:35 PM,12:17,MISS Rasmussen 7' Jump Shot,,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,251,4,0,2,8:35 PM,12:17,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,252,6,3,2,8:36 PM,12:17,,,Sam L.B.FOUL (P3.PN),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,253,2,1,2,8:36 PM,12:08,MISS Schumacher 10' Jump Shot,,Vodichkova BLOCK (3 BLK),,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0
+1020400202,254,4,0,2,8:36 PM,12:07,,,Jackson REBOUND (Off:1 Def:3),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,255,1,1,2,8:36 PM,11:59,,,Sam 17' Jump Shot (6 PTS) (Jackson 1 AST),47 - 48,1,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,256,9,2,2,8:36 PM,11:51,FEVER Timeout: Short (Full 1 Short 2),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,258,2,1,2,8:38 PM,11:35,MISS Schumacher 18' Jump Shot,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,259,4,0,2,8:38 PM,11:34,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,260,6,3,2,8:38 PM,11:34,,,Lennox L.B.FOUL (P2.PN),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,261,9,4,2,8:38 PM,11:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,263,8,0,2,8:40 PM,11:34,SUB: Miller FOR Ivey,,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,264,6,1,2,8:40 PM,11:33,,,Vodichkova P.FOUL (P4.PN),,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,265,3,11,2,8:40 PM,11:33,MISS Williams Free Throw 1 of 2,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,266,4,1,2,8:40 PM,11:33,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,267,3,12,2,8:41 PM,11:33,MISS Williams Free Throw 2 of 2,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,268,4,0,2,8:41 PM,11:32,,,Lennox REBOUND (Off:0 Def:3),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,269,1,1,2,8:41 PM,11:15,,,Sam 3' Jump Shot (8 PTS) (Lennox 4 AST),49 - 48,-1,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,270,5,13,2,8:42 PM,10:56,FEVER Turnover: Backcourt (T#12),,,,,2,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020400202,272,2,1,2,8:42 PM,10:37,Catchings BLOCK (1 BLK),,MISS Sam 10' Jump Shot,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0
+1020400202,273,4,0,2,8:42 PM,10:37,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,274,2,1,2,8:42 PM,10:34,,,MISS Lennox 13' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,275,4,0,2,8:42 PM,10:32,,,Sam REBOUND (Off:2 Def:3),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,276,1,1,2,8:43 PM,10:17,,,Bird 15' Jump Shot (13 PTS) (Jackson 2 AST),51 - 48,-3,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,277,6,1,2,8:43 PM,10:03,,,Lennox P.FOUL (P3.PN),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,278,3,11,2,8:43 PM,10:03,Williams Free Throw 1 of 2 (7 PTS),,,51 - 49,-2,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,279,8,0,2,8:43 PM,10:03,,,SUB: Burse FOR Vodichkova,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,280,8,0,2,8:44 PM,10:03,SUB: Jackson FOR Catchings,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,281,3,12,2,8:44 PM,10:03,Williams Free Throw 2 of 2 (8 PTS),,,51 - 50,-1,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,282,2,5,2,8:44 PM,9:51,,,MISS Burse 2' Layup,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,283,4,0,2,8:44 PM,9:50,,,Jackson REBOUND (Off:2 Def:3),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,284,2,1,2,8:44 PM,9:48,,,MISS Jackson 11' Jump Shot,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,285,4,0,2,8:44 PM,9:47,Miller REBOUND (Off:1 Def:3),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,286,2,1,2,8:44 PM,9:42,MISS Miller 12' Jump Shot,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,287,4,0,2,8:44 PM,9:40,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,288,1,47,2,8:45 PM,9:28,Schumacher 6' Turnaround Jump Shot (11 PTS) (Williams 2 AST),,,51 - 52,1,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,289,8,0,2,8:45 PM,9:12,,,SUB: Barnes FOR Sam,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,290,9,2,2,8:45 PM,9:12,,,Storm Timeout: Short (Reg.0 Short 1),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,292,2,1,2,8:46 PM,9:02,,,MISS Bird  3PT Jump Shot,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,293,4,0,2,8:46 PM,9:00,,,Lennox REBOUND (Off:1 Def:3),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,294,2,1,2,8:47 PM,8:46,,,MISS Lennox 4' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,295,4,0,2,8:47 PM,8:44,Rasmussen REBOUND (Off:0 Def:3),,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,296,2,1,2,8:47 PM,8:27,MISS Williams 3' Jump Shot,,Burse BLOCK (4 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0
+1020400202,297,4,0,2,8:47 PM,8:26,Williams REBOUND (Off:3 Def:3),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,298,6,2,2,8:47 PM,8:26,,,Burse S.FOUL (P5.PN),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,299,3,11,2,8:47 PM,8:26,MISS Williams Free Throw 1 of 2,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,300,4,1,2,8:47 PM,8:26,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,301,8,0,2,8:48 PM,8:26,,,SUB: Vodichkova FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,302,3,12,2,8:48 PM,8:26,Williams Free Throw 2 of 2 (9 PTS),,,51 - 53,2,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,303,6,2,2,8:48 PM,8:13,Jackson S.FOUL (P2.PN),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,304,8,0,2,8:48 PM,8:13,SUB: Hoffman FOR Williams,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,305,3,11,2,8:48 PM,8:13,,,MISS Barnes Free Throw 1 of 2,,,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,306,4,1,2,8:48 PM,8:13,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,307,8,0,2,8:49 PM,8:13,,,SUB: Bevilaqua FOR Bird,,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,308,3,12,2,8:49 PM,8:13,,,Barnes Free Throw 2 of 2 (1 PTS),52 - 53,1,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,309,6,4,2,8:49 PM,7:56,Schumacher OFF.Foul (P2),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,310,5,5,2,8:49 PM,7:56,Schumacher Foul Turnover (P2.T13),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,311,9,4,2,8:49 PM,7:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,313,1,47,2,8:52 PM,7:39,,,Jackson 11' Turnaround Jump Shot (14 PTS) (Bevilaqua 1 AST),54 - 53,-1,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,314,1,47,2,8:52 PM,7:14,Hoffman 10' Turnaround Jump Shot (2 PTS) (Jackson 3 AST),,,54 - 55,1,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,315,5,1,2,8:53 PM,6:57,Rasmussen STEAL (1 STL),,Jackson Bad Pass Turnover (P2.T11),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,316,1,5,2,8:53 PM,6:52,Jackson 2' Layup (10 PTS) (Miller 3 AST),,,54 - 57,3,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,317,1,42,2,8:53 PM,6:37,,,Bevilaqua 2' Driving Layup (2 PTS),56 - 57,1,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,318,5,2,2,8:53 PM,6:14,Jackson Lost Ball Turnover (P3.T14),,Barnes STEAL (1 STL),,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,319,1,1,2,8:54 PM,5:56,,,Bevilaqua  3PT Jump Shot (5 PTS) (Vodichkova 1 AST),59 - 57,-2,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,320,8,0,2,8:54 PM,5:35,SUB: Williams FOR Hoffman,,,,,4,100928,Ebony Hoffman,1611661325.0,Indiana,Fever,IND,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,321,8,0,2,8:54 PM,5:35,SUB: Catchings FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,322,8,0,2,8:54 PM,5:35,,,SUB: Sam FOR Vodichkova,,,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,323,8,0,2,8:54 PM,5:35,,,SUB: Burse FOR Lennox,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,324,8,0,2,8:54 PM,5:35,,,SUB: Bird FOR Bevilaqua,,,5,100284,Tully Bevilaqua,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,325,2,1,2,8:55 PM,5:28,MISS Catchings  3PT Jump Shot,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,326,4,0,2,8:55 PM,5:27,,,Bird REBOUND (Off:0 Def:2),,,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,327,1,47,2,8:56 PM,4:59,,,Jackson 12' Turnaround Jump Shot (16 PTS) (Bird 5 AST),61 - 57,-4,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,328,6,1,2,8:56 PM,4:47,,,Sam P.FOUL (P4.PN),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,329,3,11,2,8:56 PM,4:47,Catchings Free Throw 1 of 2 (10 PTS),,,61 - 58,-3,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,330,3,12,2,8:56 PM,4:47,MISS Catchings Free Throw 2 of 2,,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,331,4,0,2,8:57 PM,4:46,,,Jackson REBOUND (Off:2 Def:4),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,332,5,11,2,8:57 PM,4:16,,,Storm Turnover: Shot Clock (T#12),,,3,1611661328,,,,,,0,0,,,,,,1,0,,,,,,0
+1020400202,333,2,1,2,8:58 PM,4:02,MISS Miller 18' Jump Shot,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,334,4,0,2,8:58 PM,4:00,,,Jackson REBOUND (Off:2 Def:5),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,335,1,1,2,8:58 PM,3:56,,,Sam 3' Jump Shot (10 PTS) (Bird 6 AST),63 - 58,-5,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,336,6,1,2,8:58 PM,3:39,,,Jackson P.FOUL (P3.PN),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,337,9,4,2,8:58 PM,3:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,339,3,11,2,9:00 PM,3:39,Catchings Free Throw 1 of 2 (11 PTS),,,63 - 59,-4,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,340,3,12,2,9:01 PM,3:39,Catchings Free Throw 2 of 2 (12 PTS),,,63 - 60,-3,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,341,1,1,2,9:01 PM,3:18,,,Burse 18' Jump Shot (9 PTS) (Bird 7 AST),65 - 60,-5,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,342,2,1,2,9:02 PM,2:54,MISS Williams 3' Jump Shot,,Jackson BLOCK (1 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0
+1020400202,343,4,0,2,9:02 PM,2:53,Schumacher REBOUND (Off:5 Def:0),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,344,2,5,2,9:02 PM,2:52,MISS Schumacher 1' Layup,,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,345,4,0,2,9:02 PM,2:51,,,Burse REBOUND (Off:0 Def:1),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,346,2,1,2,9:02 PM,2:42,,,MISS Sam 12' Jump Shot,,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,347,4,0,2,9:02 PM,2:42,,,Burse REBOUND (Off:1 Def:1),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,348,6,2,2,9:02 PM,2:42,Williams S.FOUL (P3.PN),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,349,3,11,2,9:02 PM,2:42,,,MISS Burse Free Throw 1 of 2,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,350,4,1,2,9:02 PM,2:42,,,Storm Rebound,,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,351,3,12,2,9:02 PM,2:42,,,Burse Free Throw 2 of 2 (10 PTS),66 - 60,-6,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,352,2,1,2,9:03 PM,2:30,MISS Williams 4' Jump Shot,,Burse BLOCK (5 BLK),,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0
+1020400202,353,4,0,2,9:03 PM,2:30,FEVER Rebound,,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,354,2,1,2,9:03 PM,2:27,MISS Miller 13' Jump Shot,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,355,4,0,2,9:03 PM,2:26,,,Barnes REBOUND (Off:0 Def:1),,,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,356,6,3,2,9:03 PM,2:26,Catchings L.B.FOUL (P1.PN),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,357,8,0,2,9:03 PM,2:26,,,SUB: Lennox FOR Barnes,,,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,358,6,2,2,9:04 PM,2:00,Jackson S.FOUL (P3.PN),,,,,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,359,3,11,2,9:05 PM,2:00,,,Lennox Free Throw 1 of 2 (8 PTS),67 - 60,-7,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,360,3,12,2,9:05 PM,2:00,,,Lennox Free Throw 2 of 2 (9 PTS),68 - 60,-8,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,361,1,1,2,9:05 PM,1:49,Schumacher 19' Jump Shot (13 PTS) (Miller 4 AST),,,68 - 62,-6,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,362,5,1,2,9:06 PM,1:42,Jackson STEAL (1 STL),,Sam Bad Pass Turnover (P2.T13),,,5,100416,Sheri Sam,1611661328.0,Seattle,Storm,SEA,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,363,1,1,2,9:06 PM,1:21,Catchings 14' Jump Shot (14 PTS) (Jackson 4 AST),,,68 - 64,-4,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,4,100727,Deanna Jackson,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,364,6,4,2,9:06 PM,1:13,,,Lennox OFF.Foul (P4),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,365,5,5,2,9:06 PM,1:13,,,Lennox Foul Turnover (P2.T14),,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,366,8,0,2,9:06 PM,1:13,,,SUB: Barnes FOR Lennox,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,367,9,2,2,9:06 PM,1:13,FEVER Timeout: Short (Full 1 Short 3),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,369,1,5,2,9:08 PM,1:01,Williams 3' Layup (11 PTS) (Schumacher 2 AST),,,68 - 66,-2,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,370,9,2,2,9:08 PM,0:44,,,Storm Timeout: Short (Reg.0 Short 2),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,371,8,0,2,9:09 PM,0:44,,,SUB: Lennox FOR Barnes,,,5,100231,Adia Barnes,1611661328.0,Seattle,Storm,SEA,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,372,2,1,2,9:09 PM,0:28,,,MISS Lennox 14' Jump Shot,,,5,100484,Betty Lennox,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,373,4,0,2,9:09 PM,0:27,,,Jackson REBOUND (Off:3 Def:5),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,374,1,5,2,9:09 PM,0:27,,,Jackson 3' Layup (18 PTS),70 - 66,-4,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,377,6,2,2,9:11 PM,0:27,Williams S.FOUL (P4.PN),,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,378,7,1,2,9:11 PM,0:27,FEVER Violation: Delay of game Violation,,,,,2,1611661325,,,,,,0,0,,,,,,1,0,,,,,,0
+1020400202,379,3,10,2,9:11 PM,0:27,,,Jackson Free Throw 1 of 1 (19 PTS),71 - 66,-5,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,380,9,1,2,9:11 PM,0:27,FEVER Timeout: Regular (Full 2 Short 3),,,,,2,1611661325,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,383,5,4,2,9:14 PM,0:24,Catchings Traveling Turnover (P4.T15),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,384,6,1,2,9:14 PM,0:22,Schumacher P.FOUL (P3.PN),,,,,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,385,3,11,2,9:14 PM,0:22,,,Jackson Free Throw 1 of 2 (20 PTS),72 - 66,-6,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,386,3,12,2,9:15 PM,0:22,,,MISS Jackson Free Throw 2 of 2,,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,387,4,0,2,9:15 PM,0:21,Catchings REBOUND (Off:0 Def:8),,,,,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,388,6,2,2,9:15 PM,0:13,,,Burse S.FOUL (P6.PN),,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,1,0,,,,,,0
+1020400202,389,8,0,2,9:15 PM,0:13,,,SUB: Vodichkova FOR Burse,,,5,100660,Janell Burse,1611661328.0,Seattle,Storm,SEA,5,100544,Kamila Vodichkova,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0
+1020400202,390,3,11,2,9:16 PM,0:13,Catchings Free Throw 1 of 2 (15 PTS),,,72 - 67,-5,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,391,3,12,2,9:16 PM,0:13,Catchings Free Throw 2 of 2 (16 PTS),,,72 - 68,-4,4,100646,Tamika Catchings,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,392,9,1,2,9:16 PM,0:13,,,Storm Timeout: Regular (Reg.1 Short 2),,,3,1611661328,,,,,,0,0,,,,,,0,0,,,,,,0
+1020400202,394,8,0,2,9:18 PM,0:13,SUB: Rasmussen FOR Williams,,,,,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,395,6,1,2,9:18 PM,0:12,Miller P.FOUL (P5.PN),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,396,3,11,2,9:18 PM,0:12,,,Bird Free Throw 1 of 2 (14 PTS),73 - 68,-5,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,397,8,0,2,9:19 PM,0:12,SUB: Williams FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661325.0,Indiana,Fever,IND,4,100366,Natalie Williams,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,398,3,12,2,9:19 PM,0:12,,,Bird Free Throw 2 of 2 (15 PTS),74 - 68,-6,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,399,1,1,2,9:19 PM,0:05,Schumacher 17' Jump Shot (15 PTS) (Miller 5 AST),,,74 - 70,-4,4,100648,Kelly Schumacher,1611661325.0,Indiana,Fever,IND,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,400,6,1,2,9:19 PM,0:04,Miller P.FOUL (P6.PN),,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,0,0,,,,,,1,0,,,,,,0
+1020400202,401,8,0,2,9:19 PM,0:04,SUB: Ivey FOR Miller,,,,,4,100627,Kelly Miller,1611661325.0,Indiana,Fever,IND,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0
+1020400202,402,3,11,2,9:20 PM,0:04,,,Bird Free Throw 1 of 2 (16 PTS),75 - 70,-5,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,403,3,12,2,9:20 PM,0:04,,,Bird Free Throw 2 of 2 (17 PTS),76 - 70,-6,5,100720,Sue Bird,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,404,2,1,2,9:20 PM,0:00,MISS Ivey  3PT Jump Shot,,,,,4,100650,Niele Ivey,1611661325.0,Indiana,Fever,IND,0,0,,,,,,0,0,,,,,,0
+1020400202,405,4,0,2,9:20 PM,0:00,,,Jackson REBOUND (Off:3 Def:6),,,5,100682,Lauren Jackson,1611661328.0,Seattle,Storm,SEA,0,0,,,,,,0,0,,,,,,0
+1020400202,406,13,0,2,9:20 PM,0:00,,End of 2nd Half (9:20 PM EST),,76 - 70,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

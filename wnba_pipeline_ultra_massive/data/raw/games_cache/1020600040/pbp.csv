@@ -1,0 +1,396 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1020600040,0,12,0,1,10:38 PM,10:00,,Start of 1st Period (10:38 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,1,10,0,1,10:38 PM,10:00,Jump Ball Vodichkova vs. Brunson: Tip to Griffith,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,2,1,1,1,10:39 PM,9:49,,,Brunson 11' Jump Shot (2 PTS),2 - 0,-2,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,3,1,42,1,10:39 PM,9:31,Vodichkova  Driving Layup (2 PTS),,,2 - 2,TIE,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,4,2,5,1,10:40 PM,9:11,,,MISS Powell  Layup,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,5,4,0,1,10:40 PM,9:10,,,Griffith REBOUND (Off:1 Def:0),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,6,6,2,1,10:40 PM,9:10,Derevjanik S.FOUL (P1.T1),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,7,3,11,1,10:40 PM,9:10,,,Griffith Free Throw 1 of 2 (1 PTS),3 - 2,-1,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,8,3,12,1,10:40 PM,9:10,,,Griffith Free Throw 2 of 2 (2 PTS),4 - 2,-2,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,9,2,1,1,10:41 PM,8:48,MISS Pondexter 20' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,10,4,0,1,10:41 PM,8:47,Vodichkova REBOUND (Off:1 Def:0),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,11,6,2,1,10:41 PM,8:47,,,Lawson S.FOUL (P1.T1),,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,12,3,11,1,10:41 PM,8:47,Vodichkova Free Throw 1 of 2 (3 PTS),,,4 - 3,-1,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,13,3,12,1,10:41 PM,8:47,Vodichkova Free Throw 2 of 2 (4 PTS),,,4 - 4,TIE,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,14,2,1,1,10:42 PM,8:29,,,MISS Griffith 11' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,15,4,0,1,10:42 PM,8:28,Pondexter REBOUND (Off:0 Def:1),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,16,2,1,1,10:42 PM,8:15,MISS Vodichkova 15' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,17,4,0,1,10:42 PM,8:13,,,Brunson REBOUND (Off:0 Def:1),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,18,5,1,1,10:42 PM,7:53,Taurasi STEAL (1 STL),,Griffith Bad Pass Turnover (P1.T1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,19,1,44,1,10:42 PM,7:47,Pondexter  Reverse Layup (2 PTS),,,4 - 6,2,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,20,2,5,1,10:43 PM,7:33,,,MISS Penicheiro  Layup,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,21,4,0,1,10:43 PM,7:32,Rasmussen REBOUND (Off:0 Def:1),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,22,5,1,1,10:43 PM,7:22,Derevjanik Bad Pass Turnover (P1.T1),,Powell STEAL (1 STL),,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,23,2,1,1,10:43 PM,7:10,,,MISS Brunson 15' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,24,4,0,1,10:43 PM,7:08,Vodichkova REBOUND (Off:1 Def:1),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,25,6,1,1,10:43 PM,6:55,,,Powell P.FOUL (P1.T2),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,26,2,1,1,10:44 PM,6:51,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,27,4,0,1,10:44 PM,6:49,,,Griffith REBOUND (Off:1 Def:1),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,28,1,42,1,10:44 PM,6:42,,,Griffith  Driving Layup (4 PTS),6 - 6,TIE,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,29,5,1,1,10:44 PM,6:29,Vodichkova Bad Pass Turnover (P1.T2),,Brunson STEAL (1 STL),,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,30,1,44,1,10:44 PM,6:22,,,Powell  Reverse Layup (2 PTS) (Penicheiro 1 AST),8 - 6,-2,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,31,1,1,1,10:44 PM,6:07,Vodichkova 20' Jump Shot (6 PTS) (Derevjanik 1 AST),,,8 - 8,TIE,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,32,2,1,1,10:45 PM,5:47,,,MISS Griffith 10' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,33,4,0,1,10:45 PM,5:45,Vodichkova REBOUND (Off:1 Def:2),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,34,5,1,1,10:45 PM,5:38,Taurasi Bad Pass Turnover (P1.T3),,Griffith STEAL (1 STL),,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,35,2,1,1,10:45 PM,5:22,,,MISS Brunson 9' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,36,4,0,1,10:45 PM,5:20,Rasmussen REBOUND (Off:0 Def:2),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,37,1,44,1,10:45 PM,5:14,Taurasi  Reverse Layup (2 PTS),,,8 - 10,2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,38,1,1,1,10:46 PM,4:54,,,Powell 19' Jump Shot (4 PTS),10 - 10,TIE,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,39,1,1,1,10:46 PM,4:38,Pondexter 12' Jump Shot (4 PTS),,,10 - 12,2,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,40,1,42,1,10:46 PM,4:17,,,Lawson  Driving Layup (2 PTS),12 - 12,TIE,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,41,2,1,1,10:46 PM,4:08,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,42,4,0,1,10:46 PM,4:06,,,Griffith REBOUND (Off:1 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,43,1,1,1,10:47 PM,4:00,,,Powell  3PT Jump Shot (7 PTS) (Penicheiro 2 AST),15 - 12,-3,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,44,9,4,1,10:47 PM,3:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,46,8,0,1,10:49 PM,3:42,,,SUB: Dorrell FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,47,8,0,1,10:49 PM,3:42,,,SUB: Maiga-Ba FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,48,8,0,1,10:49 PM,3:42,,,SUB: Perperoglou FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,49,8,0,1,10:50 PM,3:42,SUB: Smith FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,50,8,0,1,10:50 PM,3:42,SUB: Lacy FOR Derevjanik,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,51,2,5,1,10:50 PM,3:39,MISS Vodichkova  Layup,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,52,4,0,1,10:50 PM,3:37,,,Powell REBOUND (Off:0 Def:1),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,53,2,1,1,10:51 PM,3:22,,,MISS Maiga-Ba 5' Jump Shot,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,54,4,0,1,10:51 PM,3:21,Vodichkova REBOUND (Off:1 Def:3),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,55,6,2,1,10:51 PM,3:11,,,Maiga-Ba S.FOUL (P1.T3),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,56,3,11,1,10:51 PM,3:11,MISS Taurasi Free Throw 1 of 2,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,57,4,1,1,10:51 PM,3:11,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,58,3,12,1,10:51 PM,3:11,Taurasi Free Throw 2 of 2 (3 PTS),,,15 - 13,-2,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,59,2,1,1,10:52 PM,2:55,,,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,60,4,0,1,10:52 PM,2:53,,,Dorrell REBOUND (Off:1 Def:0),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,61,2,5,1,10:52 PM,2:52,,,MISS Dorrell  Layup,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,62,4,0,1,10:52 PM,2:51,Lacy REBOUND (Off:0 Def:1),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,63,1,1,1,10:52 PM,2:43,Taurasi  3PT Jump Shot (6 PTS) (Pondexter 1 AST),,,15 - 16,1,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,64,6,1,1,10:52 PM,2:33,Smith P.FOUL (P1.T2),,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,65,8,0,1,10:53 PM,2:33,,,SUB: Haynie FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,66,8,0,1,10:53 PM,2:33,,,SUB: Brunson FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,67,2,1,1,10:53 PM,2:20,,,MISS Maiga-Ba 16' Jump Shot,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,68,4,0,1,10:53 PM,2:18,Vodichkova REBOUND (Off:1 Def:4),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,69,1,5,1,10:53 PM,2:13,Pondexter  Layup (6 PTS) (Taurasi 1 AST),,,15 - 18,3,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,70,6,2,1,10:53 PM,1:56,Lacy S.FOUL (P1.T3),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,71,3,11,1,10:54 PM,1:56,,,MISS Maiga-Ba Free Throw 1 of 2,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,72,4,1,1,10:54 PM,1:56,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,73,3,12,1,10:54 PM,1:56,,,MISS Maiga-Ba Free Throw 2 of 2,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,74,4,0,1,10:54 PM,1:56,Vodichkova REBOUND (Off:1 Def:5),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,75,1,1,1,10:54 PM,1:46,Lacy 13' Jump Shot (2 PTS) (Smith 1 AST),,,15 - 20,5,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,76,5,2,1,10:54 PM,1:39,Smith STEAL (1 STL),,Haynie Lost Ball Turnover (P1.T2),,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,77,2,1,1,10:54 PM,1:36,MISS Vodichkova 8' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,78,4,0,1,10:54 PM,1:34,,,Dorrell REBOUND (Off:1 Def:1),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,79,6,1,1,10:55 PM,1:23,Pondexter P.FOUL (P1.PN),,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,80,8,0,1,10:55 PM,1:23,SUB: Pettis FOR Taurasi,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,81,8,0,1,10:55 PM,1:23,SUB: Rasmussen FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,82,2,1,1,10:55 PM,1:16,,,MISS Haynie 17' Jump Shot,,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,83,4,0,1,10:55 PM,1:14,,,Haynie REBOUND (Off:1 Def:0),,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,84,6,2,1,10:55 PM,1:12,Pettis S.FOUL (P1.PN),,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,85,3,11,1,10:55 PM,1:12,,,Maiga-Ba Free Throw 1 of 2 (1 PTS),16 - 20,4,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,87,7,3,1,10:56 PM,1:12,Rasmussen Violation:Lane,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600040,88,3,12,1,10:56 PM,1:12,,,MISS Maiga-Ba Free Throw 2 of 2,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,89,4,0,1,10:56 PM,1:12,Smith REBOUND (Off:0 Def:1),,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,90,10,0,1,10:57 PM,0:49,Jump Ball Pondexter vs. Maiga-Ba: Tip to Haynie,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,91,5,2,1,10:57 PM,0:49,Pondexter Lost Ball Turnover (P1.T4),,Maiga-Ba STEAL (1 STL),,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,92,1,5,1,10:58 PM,0:43,,,Perperoglou  Layup (2 PTS) (Dorrell 1 AST),18 - 20,2,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,93,2,5,1,10:58 PM,0:29,MISS Lacy  Layup,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,94,4,0,1,10:58 PM,0:28,,,Brunson REBOUND (Off:0 Def:2),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,95,5,4,1,10:58 PM,0:16,,,Maiga-Ba Traveling Turnover (P1.T3),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,1,0,,,,,,0
+1020600040,96,8,0,1,10:58 PM,0:16,,,SUB: Smith FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,97,6,1,1,10:58 PM,0:06,,,Dorrell P.FOUL (P1.T4),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,98,2,1,1,10:59 PM,0:04,MISS Smith  3PT Jump Shot,,Haynie BLOCK (1 BLK),,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,99,4,0,1,10:59 PM,0:04,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,100,2,1,1,10:59 PM,0:02,MISS Pondexter 17' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,102,4,0,1,10:59 PM,0:00,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,101,13,0,1,10:59 PM,0:00,,End of 1st Period (10:59 PM EST),,18 - 20,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,104,12,0,2,11:02 PM,10:00,,Start of 2nd Period (11:02 PM EST),,18 - 20,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,105,1,5,2,11:03 PM,9:49,Pondexter  Layup (8 PTS) (Vodichkova 1 AST),,,18 - 22,4,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,106,2,5,2,11:03 PM,9:23,Taurasi BLOCK (1 BLK),,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0
+1020600040,107,4,0,2,11:03 PM,9:22,Taurasi REBOUND (Off:0 Def:1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,108,1,5,2,11:04 PM,9:17,Derevjanik  Layup (2 PTS),,,18 - 24,6,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,109,2,5,2,11:04 PM,8:56,Rasmussen BLOCK (1 BLK),,MISS Brunson  Layup,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0
+1020600040,110,4,0,2,11:04 PM,8:56,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,111,2,1,2,11:04 PM,8:52,,,MISS Penicheiro 24' 3PT Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,112,4,0,2,11:04 PM,8:50,Taurasi REBOUND (Off:0 Def:2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,113,1,42,2,11:04 PM,8:38,Pondexter  Driving Layup (10 PTS),,,18 - 26,8,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,114,9,1,2,11:05 PM,8:29,,,Monarchs Timeout: Regular (Reg.1 Short 0),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,118,2,1,2,11:08 PM,8:16,,,MISS Lawson  3PT Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,119,4,0,2,11:08 PM,8:14,Taurasi REBOUND (Off:0 Def:3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,120,2,1,2,11:08 PM,8:09,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,121,4,0,2,11:08 PM,8:07,Vodichkova REBOUND (Off:2 Def:5),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,122,6,2,2,11:09 PM,8:05,,,Brunson S.FOUL (P1.T1),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,123,3,11,2,11:09 PM,8:05,Vodichkova Free Throw 1 of 2 (7 PTS),,,18 - 27,9,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,124,8,0,2,11:09 PM,8:05,,,SUB: Perperoglou FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,125,3,12,2,11:09 PM,8:05,MISS Vodichkova Free Throw 2 of 2,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,126,4,0,2,11:09 PM,8:04,,,Perperoglou REBOUND (Off:0 Def:1),,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,127,2,1,2,11:10 PM,7:44,,,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,128,4,0,2,11:10 PM,7:43,,,Griffith REBOUND (Off:2 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,129,6,2,2,11:10 PM,7:43,Taurasi S.FOUL (P1.T1),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,130,3,11,2,11:10 PM,7:43,,,MISS Griffith Free Throw 1 of 2,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,131,4,1,2,11:10 PM,7:43,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,132,3,12,2,11:10 PM,7:43,,,Griffith Free Throw 2 of 2 (5 PTS),19 - 27,8,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,133,6,4,2,11:11 PM,7:32,Taurasi OFF.Foul (P2),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,134,5,5,2,11:11 PM,7:32,Taurasi Foul Turnover (P2.T5),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600040,135,2,5,2,11:11 PM,7:11,,,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,136,4,0,2,11:11 PM,7:09,,,Lawson REBOUND (Off:1 Def:0),,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,137,1,1,2,11:11 PM,7:00,,,Griffith 9' Jump Shot (7 PTS) (Powell 1 AST),21 - 27,6,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,138,1,5,2,11:12 PM,6:48,Taurasi  Layup (8 PTS) (Vodichkova 2 AST),,,21 - 29,8,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,139,2,1,2,11:12 PM,6:21,,,MISS Penicheiro  3PT Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,140,4,0,2,11:12 PM,6:19,,,Griffith REBOUND (Off:3 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,141,6,2,2,11:12 PM,6:10,Vodichkova S.FOUL (P1.T2),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,142,8,0,2,11:12 PM,6:10,SUB: Pettis FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,143,8,0,2,11:12 PM,6:10,SUB: Lacy FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,144,3,11,2,11:13 PM,6:10,,,Perperoglou Free Throw 1 of 2 (3 PTS),22 - 29,7,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,145,3,12,2,11:13 PM,6:10,,,Perperoglou Free Throw 2 of 2 (4 PTS),23 - 29,6,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,146,2,1,2,11:13 PM,6:00,MISS Taurasi 7' Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,147,4,0,2,11:13 PM,5:59,Taurasi REBOUND (Off:1 Def:3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,148,1,5,2,11:13 PM,5:58,Taurasi  Layup (10 PTS),,,23 - 31,8,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,149,6,2,2,11:13 PM,5:58,,,Perperoglou S.FOUL (P1.T2),,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,150,3,10,2,11:13 PM,5:58,Taurasi Free Throw 1 of 1 (11 PTS),,,23 - 32,9,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,151,2,1,2,11:14 PM,5:44,,,MISS Griffith 15' Jump Shot,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,152,4,0,2,11:14 PM,5:42,Derevjanik REBOUND (Off:0 Def:1),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,153,1,1,2,11:14 PM,5:32,Taurasi 20' Jump Shot (13 PTS),,,23 - 34,11,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,154,6,1,2,11:15 PM,5:10,Lacy P.FOUL (P2.T3),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,155,8,0,2,11:15 PM,5:10,,,SUB: Smith FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,156,2,66,2,11:15 PM,5:04,,,MISS Lawson 13' Jump Bank Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,157,4,0,2,11:15 PM,5:02,Vodichkova REBOUND (Off:2 Def:6),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,158,1,66,2,11:16 PM,4:49,Pettis 14' Jump Bank Shot (2 PTS),,,23 - 36,13,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,159,6,2,2,11:16 PM,4:49,,,Smith S.FOUL (P1.T3),,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,160,3,10,2,11:16 PM,4:49,Pettis Free Throw 1 of 1 (3 PTS),,,23 - 37,14,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,161,2,1,2,11:16 PM,4:38,,,MISS Penicheiro 13' Jump Shot,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,162,4,0,2,11:16 PM,4:37,Vodichkova REBOUND (Off:2 Def:7),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,163,6,1,2,11:16 PM,4:36,,,Penicheiro P.FOUL (P1.T4),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,164,8,0,2,11:17 PM,4:36,,,SUB: Haynie FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,165,8,0,2,11:17 PM,4:36,SUB: Rasmussen FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,166,8,0,2,11:17 PM,4:36,,,SUB: Maiga-Ba FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,167,2,1,2,11:17 PM,4:23,MISS Taurasi 11' Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,168,4,0,2,11:17 PM,4:22,,,Perperoglou REBOUND (Off:0 Def:2),,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,169,1,1,2,11:17 PM,4:15,,,Haynie  3PT Jump Shot (3 PTS) (Maiga-Ba 1 AST),26 - 37,11,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,170,6,1,2,11:18 PM,3:59,,,Perperoglou P.FOUL (P2.PN),,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,172,8,0,2,11:18 PM,3:59,SUB: Smith FOR Derevjanik,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,173,3,11,2,11:18 PM,3:59,Taurasi Free Throw 1 of 2 (14 PTS),,,26 - 38,12,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,174,8,0,2,11:18 PM,3:59,,,SUB: Brunson FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,175,3,12,2,11:18 PM,3:59,Taurasi Free Throw 2 of 2 (15 PTS),,,26 - 39,13,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,176,1,66,2,11:19 PM,3:37,,,Maiga-Ba 10' Jump Bank Shot (3 PTS),28 - 39,11,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,177,2,1,2,11:19 PM,3:28,MISS Pettis  3PT Jump Shot,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,178,4,0,2,11:19 PM,3:26,,,Maiga-Ba REBOUND (Off:0 Def:1),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,179,1,1,2,11:19 PM,3:13,,,Brunson 7' Jump Shot (4 PTS),30 - 39,9,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,180,6,1,2,11:20 PM,3:07,,,Haynie P.FOUL (P1.PN),,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,181,8,0,2,11:20 PM,3:07,SUB: Pondexter FOR Pettis,,,,,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,182,3,11,2,11:20 PM,3:07,Smith Free Throw 1 of 2 (1 PTS),,,30 - 40,10,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,184,9,1,2,11:20 PM,3:07,MERCURY Timeout: Regular (Full 1 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,187,8,0,2,11:23 PM,3:07,SUB: Vodichkova FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,188,3,12,2,11:23 PM,3:07,Smith Free Throw 2 of 2 (2 PTS),,,30 - 41,11,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,189,6,1,2,11:24 PM,3:03,Vodichkova P.FOUL (P2.T4),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,190,1,5,2,11:25 PM,2:52,,,Maiga-Ba  Layup (5 PTS) (Perperoglou 1 AST),32 - 41,9,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,191,2,1,2,11:25 PM,2:36,MISS Pondexter 15' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,192,4,0,2,11:25 PM,2:34,,,Haynie REBOUND (Off:1 Def:1),,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,193,5,1,2,11:25 PM,2:27,Smith STEAL (2 STL),,Maiga-Ba Bad Pass Turnover (P2.T4),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,194,1,1,2,11:25 PM,2:14,Vodichkova 17' Jump Shot (9 PTS) (Lacy 1 AST),,,32 - 43,11,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,195,2,1,2,11:25 PM,2:06,,,MISS Smith 19' Jump Shot,,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,196,4,0,2,11:25 PM,2:03,,,Brunson REBOUND (Off:1 Def:2),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,197,1,5,2,11:25 PM,2:02,,,Brunson  Layup (6 PTS),34 - 43,9,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,198,1,1,2,11:26 PM,1:48,Taurasi  3PT Jump Shot (18 PTS) (Pondexter 2 AST),,,34 - 46,12,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,199,5,2,2,11:26 PM,1:42,Smith STEAL (3 STL),,Haynie Lost Ball Turnover (P2.T5),,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,200,1,5,2,11:26 PM,1:39,Pondexter  Layup (12 PTS) (Smith 2 AST),,,34 - 48,14,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,201,2,1,2,11:26 PM,1:12,,,MISS Brunson 14' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,202,4,0,2,11:26 PM,1:10,,,Maiga-Ba REBOUND (Off:1 Def:1),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,203,1,5,2,11:26 PM,1:00,,,Perperoglou  Layup (6 PTS) (Maiga-Ba 2 AST),36 - 48,12,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,204,6,2,2,11:27 PM,0:51,,,Smith S.FOUL (P2.PN),,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,205,3,11,2,11:27 PM,0:51,MISS Pondexter Free Throw 1 of 2,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,206,4,1,2,11:27 PM,0:51,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,207,8,0,2,11:27 PM,0:51,SUB: Rasmussen FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,208,8,0,2,11:27 PM,0:51,,,SUB: Penicheiro FOR Haynie,,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,209,8,0,2,11:27 PM,0:51,,,SUB: Dorrell FOR Smith,,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,210,3,12,2,11:28 PM,0:51,Pondexter Free Throw 2 of 2 (13 PTS),,,36 - 49,13,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,211,7,5,2,11:28 PM,0:37,Pondexter Violation:Kicked Ball,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600040,212,2,1,2,11:28 PM,0:28,,,MISS Brunson 7' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,213,10,0,2,11:29 PM,0:25,Jump Ball Smith vs. Maiga-Ba: Tip to Penicheiro,,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,214,4,0,2,11:29 PM,0:25,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,215,2,5,2,11:29 PM,0:02,Rasmussen BLOCK (2 BLK),,MISS Perperoglou  Layup,,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0
+1020600040,216,4,0,2,11:29 PM,0:00,Taurasi REBOUND (Off:1 Def:4),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,217,13,0,2,11:29 PM,0:00,,End of 2nd Period (11:29 PM EST),,36 - 49,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,219,12,0,3,11:46 PM,10:00,,Start of 3rd Period (11:46 PM EST),,36 - 49,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,220,1,1,3,11:47 PM,9:47,Pondexter 14' Jump Shot (15 PTS) (Taurasi 2 AST),,,36 - 51,15,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,221,2,1,3,11:47 PM,9:20,,,MISS Lawson 15' Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,222,4,0,3,11:47 PM,9:20,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,224,5,11,3,11:48 PM,9:20,,,Monarchs Turnover: Shot Clock (T#6),,,3,1611661318,,,,,,0,0,,,,,,1,0,,,,,,0
+1020600040,225,1,5,3,11:48 PM,9:10,Taurasi  Layup (20 PTS) (Vodichkova 3 AST),,,36 - 53,17,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,226,2,1,3,11:48 PM,8:56,,,MISS Lawson  3PT Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,227,4,0,3,11:48 PM,8:54,Taurasi REBOUND (Off:1 Def:5),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,228,1,5,3,11:48 PM,8:51,Pondexter  Layup (17 PTS) (Taurasi 3 AST),,,36 - 55,19,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,229,9,1,3,11:48 PM,8:47,,,Monarchs Timeout: Regular (Reg.2 Short 0),,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,231,8,0,3,11:51 PM,8:47,,,SUB: Perperoglou FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,232,1,5,3,11:52 PM,8:32,,,Griffith  Layup (9 PTS) (Penicheiro 3 AST),38 - 55,17,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,233,6,2,3,11:52 PM,8:32,Vodichkova S.FOUL (P3.T1),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,234,3,10,3,11:52 PM,8:32,,,Griffith Free Throw 1 of 1 (10 PTS),39 - 55,16,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,235,2,5,3,11:52 PM,8:17,MISS Pondexter  Layup,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,236,4,0,3,11:52 PM,8:16,,,Perperoglou REBOUND (Off:0 Def:3),,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,237,5,1,3,11:52 PM,8:08,Derevjanik STEAL (1 STL),,Penicheiro Bad Pass Turnover (P1.T7),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,238,1,1,3,11:53 PM,8:00,Vodichkova 13' Jump Shot (11 PTS) (Derevjanik 2 AST),,,39 - 57,18,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,239,2,1,3,11:53 PM,7:40,,,MISS Lawson 15' Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,240,10,0,3,11:53 PM,7:35,Jump Ball Derevjanik vs. Griffith: Tip to Penicheiro,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,241,4,0,3,11:53 PM,7:35,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,242,6,2,3,11:54 PM,7:26,Vodichkova S.FOUL (P4.T2),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,243,3,11,3,11:54 PM,7:26,,,Griffith Free Throw 1 of 2 (11 PTS),40 - 57,17,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,244,8,0,3,11:54 PM,7:26,SUB: Lacy FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,245,8,0,3,11:54 PM,7:26,,,SUB: Dorrell FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,246,3,12,3,11:54 PM,7:26,,,Griffith Free Throw 2 of 2 (12 PTS),41 - 57,16,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,247,1,1,3,11:55 PM,7:12,Pondexter 14' Jump Shot (19 PTS),,,41 - 59,18,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,248,2,5,3,11:55 PM,7:00,Pondexter BLOCK (1 BLK),,MISS Perperoglou  Layup,,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0
+1020600040,249,4,0,3,11:55 PM,6:58,Rasmussen REBOUND (Off:0 Def:3),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,250,6,2,3,11:56 PM,6:44,,,Penicheiro S.FOUL (P2.T1),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,251,3,11,3,11:56 PM,6:44,Lacy Free Throw 1 of 2 (3 PTS),,,41 - 60,19,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,252,3,12,3,11:56 PM,6:44,Lacy Free Throw 2 of 2 (4 PTS),,,41 - 61,20,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,253,5,1,3,11:56 PM,6:36,Lacy STEAL (1 STL),,Dorrell Bad Pass Turnover (P1.T8),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,254,1,1,3,11:56 PM,6:30,Pondexter 14' Jump Shot (21 PTS) (Derevjanik 3 AST),,,41 - 63,22,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,256,1,1,3,11:57 PM,6:11,,,Powell  3PT Jump Shot (10 PTS),44 - 63,19,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,257,5,1,3,11:57 PM,5:54,Derevjanik Bad Pass Turnover (P2.T6),,Powell STEAL (2 STL),,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,258,6,1,3,11:57 PM,5:54,Taurasi P.FOUL (P3.T3),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,259,8,0,3,11:58 PM,5:54,,,SUB: Brunson FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,260,1,42,3,11:58 PM,5:47,,,Penicheiro  Driving Layup (2 PTS),46 - 63,17,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,261,6,2,3,11:58 PM,5:47,Lacy S.FOUL (P3.T4),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,264,7,3,3,11:58 PM,5:47,Lacy Violation:Lane,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,1,0,,,,,,0
+1020600040,265,3,10,3,11:58 PM,5:47,,,Penicheiro Free Throw 1 of 1 (3 PTS),47 - 63,16,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,266,5,2,3,11:59 PM,5:38,Derevjanik Lost Ball Turnover (P3.T7),,Penicheiro STEAL (1 STL),,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,267,1,5,3,11:59 PM,5:35,,,Penicheiro  Layup (5 PTS),49 - 63,14,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,268,2,1,3,11:59 PM,5:07,MISS Pondexter  3PT Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,269,4,0,3,11:59 PM,5:05,,,Powell REBOUND (Off:0 Def:2),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,270,5,40,3,11:59 PM,5:02,,,Penicheiro Out of Bounds Lost Ball Turnover (P2.T9),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,271,8,0,3,11:59 PM,5:02,,,SUB: Haynie FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,272,8,0,3,12:00 AM,5:02,,,SUB: Griffith FOR Perperoglou,,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,273,1,1,3,12:00 AM,4:55,Taurasi 15' Jump Shot (22 PTS),,,49 - 65,16,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,274,1,1,3,12:00 AM,4:39,,,Haynie 19' Jump Shot (5 PTS) (Griffith 1 AST),51 - 65,14,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,275,5,2,3,12:01 AM,4:24,Lacy Lost Ball Turnover (P1.T8),,Griffith STEAL (2 STL),,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,276,2,5,3,12:01 AM,4:14,,,MISS Dorrell  Layup,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,277,4,0,3,12:01 AM,4:13,Rasmussen REBOUND (Off:0 Def:4),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,278,1,1,3,12:01 AM,4:07,Pondexter 13' Jump Shot (23 PTS) (Taurasi 4 AST),,,51 - 67,16,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,279,2,1,3,12:01 AM,3:46,,,MISS Dorrell  3PT Jump Shot,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,280,4,0,3,12:01 AM,3:45,Rasmussen REBOUND (Off:0 Def:5),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,281,6,1,3,12:01 AM,3:43,,,Powell P.FOUL (P2.T2),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,282,8,0,3,12:01 AM,3:43,SUB: Smith FOR Derevjanik,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,283,8,0,3,12:02 AM,3:43,,,SUB: Lawson FOR Dorrell,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,284,8,0,3,12:02 AM,3:43,,,SUB: Maiga-Ba FOR Powell,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,285,5,1,3,12:02 AM,3:35,Smith Bad Pass Turnover (P1.T9),,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,286,2,5,3,12:02 AM,3:22,,,MISS Brunson  Layup,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,287,4,0,3,12:02 AM,3:21,,,Griffith REBOUND (Off:4 Def:2),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,288,1,5,3,12:02 AM,3:20,,,Griffith  Layup (14 PTS),53 - 67,14,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,289,1,42,3,12:03 AM,3:12,Smith  Driving Layup (4 PTS),,,53 - 69,16,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,290,1,5,3,12:03 AM,2:53,,,Maiga-Ba  Layup (7 PTS) (Griffith 2 AST),55 - 69,14,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,291,1,1,3,12:03 AM,2:44,Pondexter  3PT Jump Shot (26 PTS) (Smith 3 AST),,,55 - 72,17,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,292,6,2,3,12:03 AM,2:25,Lacy S.FOUL (P4.PN),,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,293,8,0,3,12:04 AM,2:25,SUB: Pettis FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100031,Bridget Pettis,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,294,8,0,3,12:04 AM,2:25,SUB: Strother FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,200685,Ann Strother,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,295,8,0,3,12:04 AM,2:25,,,SUB: Penicheiro FOR Haynie,,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,296,3,11,3,12:04 AM,2:25,,,Griffith Free Throw 1 of 2 (15 PTS),56 - 72,16,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,297,3,12,3,12:04 AM,2:25,,,Griffith Free Throw 2 of 2 (16 PTS),57 - 72,15,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,298,2,1,3,12:04 AM,2:13,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,299,4,0,3,12:04 AM,2:11,,,Brunson REBOUND (Off:1 Def:3),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,300,5,1,3,12:05 AM,2:06,,,Penicheiro Bad Pass Turnover (P3.T10),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,301,6,1,3,12:05 AM,1:52,,,Maiga-Ba P.FOUL (P2.T3),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,302,8,0,3,12:05 AM,1:52,SUB: Vodichkova FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,303,8,0,3,12:05 AM,1:52,,,SUB: Dorrell FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,304,2,1,3,12:06 AM,1:40,MISS Vodichkova 13' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,305,4,0,3,12:06 AM,1:38,,,Brunson REBOUND (Off:1 Def:4),,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,306,1,5,3,12:06 AM,1:25,,,Griffith  Layup (18 PTS) (Lawson 1 AST),59 - 72,13,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,307,1,1,3,12:06 AM,1:11,Taurasi 13' Jump Shot (24 PTS),,,59 - 74,15,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,308,1,5,3,12:06 AM,0:54,,,Dorrell  Layup (2 PTS) (Griffith 3 AST),61 - 74,13,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,309,1,1,3,12:07 AM,0:39,Taurasi 17' Jump Shot (26 PTS) (Smith 4 AST),,,61 - 76,15,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,310,6,2,3,12:07 AM,0:39,,,Maiga-Ba S.FOUL (P3.PN),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,311,8,0,3,12:07 AM,0:39,,,SUB: Powell FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,312,8,0,3,12:07 AM,0:39,SUB: Lacy FOR Vodichkova,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,313,3,10,3,12:07 AM,0:39,MISS Taurasi Free Throw 1 of 1,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,314,4,0,3,12:07 AM,0:38,,,Griffith REBOUND (Off:4 Def:3),,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,315,2,1,3,12:08 AM,0:17,,,MISS Powell 9' Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,316,4,0,3,12:08 AM,0:16,Taurasi REBOUND (Off:1 Def:6),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,317,6,1,3,12:08 AM,0:00,,,Powell P.FOUL (P3.PN),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,318,3,11,3,12:09 AM,0:00,Taurasi Free Throw 1 of 2 (27 PTS),,,61 - 77,16,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,319,3,12,3,12:09 AM,0:00,Taurasi Free Throw 2 of 2 (28 PTS),,,61 - 78,17,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,320,2,1,3,12:09 AM,0:00,,,MISS Dorrell 51' 3PT Jump Shot,,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,322,4,0,3,12:09 AM,0:00,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,321,13,0,3,12:09 AM,0:00,,End of 3rd Period (12:09 AM EST),,61 - 78,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,324,12,0,4,12:12 AM,10:00,,Start of 4th Period (12:12 AM EST),,61 - 78,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,326,2,1,4,12:13 AM,9:48,Vodichkova BLOCK (1 BLK),,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0
+1020600040,327,4,0,4,12:13 AM,9:48,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,328,2,1,4,12:13 AM,9:44,,,MISS Lawson  3PT Jump Shot,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,329,4,0,4,12:13 AM,9:42,Rasmussen REBOUND (Off:0 Def:6),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,330,1,1,4,12:14 AM,9:33,Vodichkova 11' Jump Shot (13 PTS) (Snell 1 AST),,,61 - 80,19,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,331,2,5,4,12:14 AM,9:14,,,MISS Griffith  Layup,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,332,4,0,4,12:14 AM,9:13,Rasmussen REBOUND (Off:0 Def:7),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,333,2,1,4,12:14 AM,9:05,MISS Derevjanik 7' Jump Shot,,Powell BLOCK (1 BLK),,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,334,4,0,4,12:14 AM,9:04,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,335,1,1,4,12:14 AM,8:44,,,Powell  3PT Jump Shot (13 PTS) (Brunson 1 AST),64 - 80,16,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,336,2,1,4,12:15 AM,8:20,MISS Pondexter 13' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,337,4,0,4,12:15 AM,8:19,Vodichkova REBOUND (Off:3 Def:7),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,338,6,2,4,12:15 AM,7:58,,,Penicheiro S.FOUL (P3.T1),,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,339,3,11,4,12:15 AM,7:58,Pondexter Free Throw 1 of 2 (27 PTS),,,64 - 81,17,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,340,8,0,4,12:16 AM,7:58,,,SUB: Perperoglou FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,341,3,12,4,12:16 AM,7:58,Pondexter Free Throw 2 of 2 (28 PTS),,,64 - 82,18,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,342,6,1,4,12:16 AM,7:51,Snell P.FOUL (P1.T1),,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,343,2,1,4,12:17 AM,7:39,,,MISS Brunson 13' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,344,4,0,4,12:17 AM,7:38,Vodichkova REBOUND (Off:3 Def:8),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,345,2,1,4,12:17 AM,7:32,MISS Pondexter  3PT Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,346,4,0,4,12:17 AM,7:30,,,Powell REBOUND (Off:0 Def:3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,347,2,1,4,12:17 AM,7:08,,,MISS Brunson 12' Jump Shot,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,348,4,0,4,12:17 AM,7:07,Rasmussen REBOUND (Off:0 Def:8),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,349,2,1,4,12:17 AM,6:45,MISS Rasmussen 8' Jump Shot,,Brunson BLOCK (1 BLK),,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,0
+1020600040,350,4,0,4,12:18 AM,6:45,MERCURY Rebound,,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,351,8,0,4,12:18 AM,6:45,,,SUB: Smith FOR Lawson,,,5,100874,Kara Lawson,1611661318.0,Sacramento,Monarchs,SAC,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,352,8,0,4,12:18 AM,6:45,,,SUB: Maiga-Ba FOR Brunson,,,5,100944,Rebekkah Brunson,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,353,1,1,4,12:18 AM,6:43,Pondexter 15' Jump Shot (30 PTS) (Snell 2 AST),,,64 - 84,20,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,354,2,1,4,12:18 AM,6:16,,,MISS Powell  3PT Jump Shot,,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,355,4,0,4,12:18 AM,6:14,,,Smith REBOUND (Off:1 Def:0),,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,356,5,2,4,12:19 AM,6:01,Snell STEAL (1 STL),,Perperoglou Lost Ball Turnover (P1.T11),,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,357,2,1,4,12:19 AM,5:38,MISS Derevjanik  3PT Jump Shot,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,358,4,0,4,12:19 AM,5:37,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,359,9,4,4,12:19 AM,5:36,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,361,8,0,4,12:22 AM,5:36,SUB: Taurasi FOR Rasmussen,,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,362,8,0,4,12:22 AM,5:36,SUB: Lacy FOR Snell,,,,,4,100696,Belinda Snell,1611661317.0,Phoenix,Mercury,PHO,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,364,6,2,4,12:23 AM,5:19,Derevjanik S.FOUL (P2.T2),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,365,3,11,4,12:23 AM,5:19,,,Powell Free Throw 1 of 2 (14 PTS),65 - 84,19,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,366,3,12,4,12:23 AM,5:19,,,Powell Free Throw 2 of 2 (15 PTS),66 - 84,18,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,367,6,1,4,12:24 AM,5:06,,,Smith P.FOUL (P3.T2),,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,368,8,0,4,12:24 AM,5:06,,,SUB: Griffith FOR Perperoglou,,,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,369,2,1,4,12:24 AM,4:55,MISS Taurasi  3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,370,4,0,4,12:24 AM,4:53,,,Powell REBOUND (Off:0 Def:4),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,371,6,2,4,12:24 AM,4:39,Derevjanik S.FOUL (P3.T3),,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,372,3,11,4,12:25 AM,4:39,,,Griffith Free Throw 1 of 2 (19 PTS),67 - 84,17,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,373,3,12,4,12:25 AM,4:39,,,MISS Griffith Free Throw 2 of 2,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,374,4,0,4,12:25 AM,4:38,Vodichkova REBOUND (Off:3 Def:9),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,375,1,1,4,12:25 AM,4:28,Derevjanik 18' Jump Shot (4 PTS) (Pondexter 3 AST),,,67 - 86,19,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,376,1,44,4,12:25 AM,4:13,,,Maiga-Ba  Reverse Layup (9 PTS),69 - 86,17,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,377,2,1,4,12:26 AM,3:56,MISS Pondexter 16' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,378,4,0,4,12:26 AM,3:54,,,Powell REBOUND (Off:0 Def:5),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,379,6,1,4,12:26 AM,3:40,Vodichkova P.FOUL (P5.T4),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,380,8,0,4,12:26 AM,3:40,SUB: Smith FOR Derevjanik,,,,,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,381,8,0,4,12:26 AM,3:40,SUB: Rasmussen FOR Lacy,,,,,4,101080,Jennifer Lacy,1611661317.0,Phoenix,Mercury,PHO,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,382,8,0,4,12:26 AM,3:40,,,SUB: Haynie FOR Penicheiro,,,5,100234,Ticha Penicheiro,1611661318.0,Sacramento,Monarchs,SAC,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,383,6,1,4,12:27 AM,3:28,Rasmussen P.FOUL (P1.PN),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,1,0,,,,,,0
+1020600040,384,3,11,4,12:27 AM,3:28,,,MISS Maiga-Ba Free Throw 1 of 2,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,385,4,1,4,12:27 AM,3:28,,,Monarchs Rebound,,,3,1611661318,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,386,8,0,4,12:27 AM,3:28,,,SUB: Dorrell FOR Smith,,,5,200683,Kim Smith,1611661318.0,Sacramento,Monarchs,SAC,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,387,3,12,4,12:27 AM,3:28,,,MISS Maiga-Ba Free Throw 2 of 2,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,388,4,0,4,12:27 AM,3:27,Vodichkova REBOUND (Off:3 Def:10),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,389,1,1,4,12:28 AM,3:05,Rasmussen 13' Jump Shot (2 PTS) (Pondexter 4 AST),,,69 - 88,19,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,390,1,5,4,12:28 AM,2:45,,,Maiga-Ba  Layup (11 PTS) (Powell 2 AST),71 - 88,17,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,391,2,1,4,12:28 AM,2:20,MISS Smith 19' Jump Shot,,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,392,4,0,4,12:29 AM,2:18,,,Maiga-Ba REBOUND (Off:1 Def:2),,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,393,1,5,4,12:29 AM,2:09,,,Griffith  Layup (21 PTS) (Maiga-Ba 3 AST),73 - 88,15,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,394,9,1,4,12:29 AM,2:00,MERCURY Timeout: Regular (Full 2 Short 0),,,,,2,1611661317,,,,,,0,0,,,,,,0,0,,,,,,0
+1020600040,398,2,1,4,12:32 AM,1:46,MISS Vodichkova 14' Jump Shot,,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,399,4,0,4,12:32 AM,1:44,,,Dorrell REBOUND (Off:1 Def:2),,,5,200684,Scholanda Dorrell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,400,2,5,4,12:32 AM,1:36,,,MISS Haynie  Layup,,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,401,4,0,4,12:33 AM,1:35,Taurasi REBOUND (Off:1 Def:7),,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,402,6,2,4,12:33 AM,1:20,,,Powell S.FOUL (P4.T3),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,1,0,,,,,,0
+1020600040,403,3,11,4,12:33 AM,1:20,Taurasi Free Throw 1 of 2 (29 PTS),,,73 - 89,16,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,404,8,0,4,12:33 AM,1:20,,,SUB: Perperoglou FOR Griffith,,,5,100419,Yolanda Griffith,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,405,8,0,4,12:33 AM,1:20,,,SUB: Wilkins FOR Maiga-Ba,,,5,100731,Hamchetou Maiga-Ba,1611661318.0,Sacramento,Monarchs,SAC,5,200720,Brittany Wilkins,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,406,8,0,4,12:33 AM,1:20,SUB: Derevjanik FOR Smith,,,,,4,200702,Crystal Smith,1611661317.0,Phoenix,Mercury,PHO,4,100975,Jennifer Derevjanik,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0
+1020600040,407,3,12,4,12:34 AM,1:20,Taurasi Free Throw 2 of 2 (30 PTS),,,73 - 90,17,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,408,1,1,4,12:34 AM,1:07,,,Powell  3PT Jump Shot (18 PTS) (Perperoglou 2 AST),76 - 90,14,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,5,100659,Erin Perperoglou,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0
+1020600040,409,2,1,4,12:34 AM,0:44,MISS Pondexter 14' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,410,4,0,4,12:34 AM,0:42,,,Powell REBOUND (Off:0 Def:6),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,411,2,1,4,12:34 AM,0:30,,,MISS Haynie  3PT Jump Shot,,,5,101027,Kristin Haynie,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,412,4,0,4,12:35 AM,0:28,Rasmussen REBOUND (Off:0 Def:9),,,,,4,100552,Kristen Rasmussen,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,413,2,1,4,12:35 AM,0:09,MISS Taurasi 24' 3PT Jump Shot,,,,,4,100940,Diana Taurasi,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,414,4,0,4,12:35 AM,0:06,Vodichkova REBOUND (Off:4 Def:10),,,,,4,100544,Kamila Vodichkova,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,415,2,1,4,12:35 AM,0:02,MISS Pondexter  3PT Jump Shot,,,,,4,200665,Cappie Pondexter,1611661317.0,Phoenix,Mercury,PHO,0,0,,,,,,0,0,,,,,,0
+1020600040,416,4,0,4,12:35 AM,0:01,,,Powell REBOUND (Off:0 Def:7),,,5,100919,Nicole Powell,1611661318.0,Sacramento,Monarchs,SAC,0,0,,,,,,0,0,,,,,,0
+1020600040,417,13,0,4,12:35 AM,0:00,,End of 4th Period (12:35 AM EST),,76 - 90,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

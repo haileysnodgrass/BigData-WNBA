@@ -1,0 +1,406 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+1021600075,0,12,0,1,8:11 PM,10:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,1,10,0,1,8:11 PM,10:00,Jump Ball Delle Donne vs. Appel Marinelli: Tip to Young,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1
+1021600075,2,2,1,1,8:11 PM,9:43,MISS Delle Donne 21' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,3,4,0,1,8:11 PM,9:42,,,Jefferson REBOUND (Off:0 Def:1),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,4,5,1,1,8:12 PM,9:27,Vandersloot STEAL (1 STL),,Hamby Bad Pass Turnover (P1.T1),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,5,1,1,1,8:12 PM,9:21,Pondexter 17' Jump Shot (2 PTS) (Young 1 AST),,,0 - 2,2,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,6,5,1,1,8:12 PM,9:10,Vandersloot STEAL (2 STL),,Jefferson Bad Pass Turnover (P1.T2),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,7,2,5,1,8:12 PM,9:03,MISS Delle Donne 3' Layup,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,8,4,0,1,8:12 PM,9:02,,,Appel Marinelli REBOUND (Off:0 Def:1),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,9,1,5,1,8:12 PM,8:56,,,Hamby 2' Layup (2 PTS) (Jefferson 1 AST),2 - 2,TIE,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,10,2,1,1,8:13 PM,8:29,MISS Pondexter 17' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,11,10,0,1,8:14 PM,8:27,Jump Ball Delle Donne vs. Appel Marinelli: Tip to Vandersloot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,1
+1021600075,12,4,0,1,8:14 PM,8:27,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,13,1,79,1,8:14 PM,8:17,Young 15' Pullup Jump Shot (2 PTS) (Delle Donne 1 AST),,,2 - 4,2,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,14,2,1,1,8:14 PM,7:58,,,MISS Hamby 13' Jump Shot,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,15,4,0,1,8:14 PM,7:57,Delle Donne REBOUND (Off:0 Def:1),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,16,2,1,1,8:14 PM,7:46,MISS Young 6' Jump Shot,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,17,4,0,1,8:14 PM,7:45,,,McBride REBOUND (Off:0 Def:1),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,18,2,1,1,8:14 PM,7:36,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,19,4,0,1,8:14 PM,7:34,Pondexter REBOUND (Off:0 Def:1),,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,20,2,1,1,8:15 PM,7:18,MISS de Souza 6' Jump Shot,,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,21,4,0,1,8:15 PM,7:17,,,Hamby REBOUND (Off:0 Def:1),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,22,2,1,1,8:15 PM,6:59,,,MISS McBride 18' Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,23,4,0,1,8:15 PM,6:58,Young REBOUND (Off:0 Def:1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,24,2,1,1,8:15 PM,6:44,MISS Delle Donne 19' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,25,4,0,1,8:15 PM,6:43,,,Currie REBOUND (Off:0 Def:1),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,26,1,42,1,8:16 PM,6:26,,,Appel Marinelli 3' Driving Layup (2 PTS),4 - 4,TIE,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,27,2,1,1,8:16 PM,6:08,MISS Vandersloot 17' Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,28,4,0,1,8:16 PM,6:07,,,Hamby REBOUND (Off:0 Def:2),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,30,8,0,1,8:16 PM,5:56,SUB: McGee-Stafford FOR de Souza,,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,32,2,1,1,8:17 PM,5:50,,,MISS McBride 18' Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,33,4,0,1,8:17 PM,5:49,Young REBOUND (Off:0 Def:2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,34,1,78,1,8:17 PM,5:39,McGee-Stafford 5' Floating Jump Shot (2 PTS) (Young 2 AST),,,4 - 6,2,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,35,2,1,1,8:17 PM,5:22,,,MISS Currie 18' Jump Shot,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,36,4,0,1,8:17 PM,5:21,Pondexter REBOUND (Off:0 Def:2),,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,37,1,1,1,8:18 PM,5:09,Young 17' Jump Shot (4 PTS) (Pondexter 1 AST),,,4 - 8,4,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,38,2,1,1,8:18 PM,4:50,Delle Donne BLOCK (1 BLK),,MISS Hamby 4' Jump Shot,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1
+1021600075,39,4,0,1,8:18 PM,4:47,Vandersloot REBOUND (Off:0 Def:1),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,40,2,1,1,8:18 PM,4:39,MISS Delle Donne 8' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,41,4,0,1,8:18 PM,4:37,,,McBride REBOUND (Off:0 Def:2),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,42,1,1,1,8:18 PM,4:29,,,Currie  3PT Jump Shot (3 PTS) (Appel Marinelli 1 AST),7 - 8,1,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,43,1,79,1,8:18 PM,4:12,Pondexter 18' Pullup Jump Shot (4 PTS),,,7 - 10,3,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,44,6,2,1,8:18 PM,4:12,,,McBride S.FOUL (P1.T1),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,45,9,1,1,8:19 PM,4:12,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,46,8,0,1,8:21 PM,4:12,,,SUB: Peters FOR Hamby,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,47,8,0,1,8:21 PM,4:12,,,SUB: Alexander FOR Appel Marinelli,,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,48,8,0,1,8:21 PM,4:12,SUB: Breland FOR Delle Donne,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,49,8,0,1,8:21 PM,4:12,SUB: Faulkner FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,50,3,10,1,8:21 PM,4:12,Pondexter Free Throw 1 of 1 (5 PTS),,,7 - 11,4,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,52,1,1,1,8:22 PM,3:52,,,Currie  3PT Jump Shot (6 PTS),10 - 11,1,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,53,2,1,1,8:22 PM,3:38,MISS McGee-Stafford 7' Jump Shot,,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,54,4,0,1,8:22 PM,3:37,,,McBride REBOUND (Off:0 Def:3),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,55,2,1,1,8:22 PM,3:24,,,MISS Peters 25' 3PT Jump Shot,,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,56,4,0,1,8:22 PM,3:24,Pondexter REBOUND (Off:0 Def:3),,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,57,1,1,1,8:23 PM,3:12,McGee-Stafford 6' Jump Shot (4 PTS) (Young 3 AST),,,10 - 13,3,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,58,6,2,1,8:23 PM,3:12,,,Alexander S.FOUL (P1.T2),,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,59,8,0,1,8:23 PM,3:12,SUB: Quigley FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,60,3,10,1,8:23 PM,3:12,MISS McGee-Stafford Free Throw 1 of 1,,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,61,4,0,1,8:23 PM,3:09,,,Alexander REBOUND (Off:0 Def:1),,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,62,1,79,1,8:23 PM,2:58,,,Jefferson 9' Pullup Jump Shot (2 PTS),12 - 13,1,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,63,2,1,1,8:24 PM,2:47,MISS Quigley 16' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,64,4,0,1,8:24 PM,2:46,,,McBride REBOUND (Off:0 Def:4),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,65,2,1,1,8:24 PM,2:35,,,MISS Alexander 7' Jump Shot,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,66,4,0,1,8:24 PM,2:34,McGee-Stafford REBOUND (Off:0 Def:1),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,67,1,42,1,8:24 PM,2:24,Faulkner 2' Driving Layup (2 PTS),,,12 - 15,3,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,68,1,101,1,8:24 PM,2:02,,,Jefferson 10' Driving Floating Jump Shot (4 PTS),14 - 15,1,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,69,2,42,1,8:25 PM,1:39,MISS Young 2' Driving Layup,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,70,4,0,1,8:25 PM,1:38,,,Peters REBOUND (Off:0 Def:1),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,72,6,2,1,8:25 PM,1:28,Quigley S.FOUL (P1.T1),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,74,3,11,1,8:25 PM,1:28,,,Alexander Free Throw 1 of 2 (1 PTS),15 - 15,TIE,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,76,8,0,1,8:25 PM,1:28,SUB: Pondexter FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,77,8,0,1,8:26 PM,1:28,,,SUB: Colson FOR Currie,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,78,8,0,1,8:26 PM,1:28,,,SUB: Montgomery FOR Jefferson,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,79,3,12,1,8:26 PM,1:28,,,Alexander Free Throw 2 of 2 (2 PTS),16 - 15,-1,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,81,1,71,1,8:26 PM,1:12,Breland 3' Finger Roll Layup (2 PTS),,,16 - 17,1,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,82,5,8,1,8:26 PM,0:58,,,Alexander 3 Second Violation Turnover (P1.T3),,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021600075,83,2,1,1,8:27 PM,0:36,MISS Quigley 12' Jump Shot,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,84,4,0,1,8:27 PM,0:35,,,Colson REBOUND (Off:0 Def:1),,,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,85,2,1,1,8:27 PM,0:17,,,MISS Alexander 19' Jump Shot,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,86,4,0,1,8:27 PM,0:16,,,Peters REBOUND (Off:1 Def:1),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,87,1,47,1,8:27 PM,0:16,,,Peters 14' Turnaround Jump Shot (2 PTS),18 - 17,-1,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,89,6,2,1,8:27 PM,0:04,,,Alexander S.FOUL (P2.T3),,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,90,3,11,1,8:28 PM,0:04,Faulkner Free Throw 1 of 2 (3 PTS),,,18 - 18,TIE,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,92,3,12,1,8:28 PM,0:04,Faulkner Free Throw 2 of 2 (4 PTS),,,18 - 19,1,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,94,2,1,1,8:28 PM,0:00,,,MISS McBride 25' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,96,4,0,1,8:28 PM,0:00,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,95,13,0,1,8:28 PM,0:00,,End of 1st Period (8:28 PM EST),,18 - 19,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,98,12,0,2,8:31 PM,10:00,,Start of 2nd Period (8:31 PM EST),,18 - 19,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,99,5,1,2,8:31 PM,9:42,Faulkner STEAL (1 STL),,Peters Bad Pass Turnover (P1.T4),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,100,6,2,2,8:32 PM,9:38,,,Peters S.FOUL (P1.T1),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,101,3,11,2,8:32 PM,9:38,Pondexter Free Throw 1 of 2 (6 PTS),,,18 - 20,2,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,103,3,12,2,8:32 PM,9:38,MISS Pondexter Free Throw 2 of 2,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,105,4,0,2,8:32 PM,9:37,,,Alexander REBOUND (Off:0 Def:2),,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,106,6,1,2,8:33 PM,9:27,Faulkner P.FOUL (P1.T1),,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,107,5,1,2,8:33 PM,9:18,Faulkner STEAL (2 STL),,Peters Bad Pass Turnover (P2.T5),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,108,1,41,2,8:33 PM,9:15,Faulkner 2' Running Layup (6 PTS) (Breland 1 AST),,,18 - 22,4,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,109,6,2,2,8:33 PM,9:15,,,Colson S.FOUL (P1.T2),,,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,110,8,0,2,8:33 PM,9:15,,,SUB: Appel Marinelli FOR Alexander,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,111,8,0,2,8:33 PM,9:15,SUB: Parker FOR Breland,,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,112,3,10,2,8:34 PM,9:15,Faulkner Free Throw 1 of 1 (7 PTS),,,18 - 23,5,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,114,2,1,2,8:34 PM,9:01,,,MISS Colson 17' Jump Shot,,,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,115,4,0,2,8:34 PM,9:00,Pondexter REBOUND (Off:0 Def:4),,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,116,1,101,2,8:34 PM,8:51,Quigley 13' Driving Floating Jump Shot (2 PTS),,,18 - 25,7,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,117,5,4,2,8:34 PM,8:34,,,Ndour Traveling Turnover (P1.T6),,,5,203838,Astou Ndour-Fall,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021600075,118,8,0,2,8:35 PM,8:34,SUB: Young FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,119,8,0,2,8:35 PM,8:34,,,SUB: Currie FOR Peters,,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,120,2,1,2,8:35 PM,8:23,MISS Delle Donne 15' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,121,4,0,2,8:35 PM,8:21,Young REBOUND (Off:1 Def:2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,122,2,45,2,8:35 PM,8:11,MISS Faulkner 7' Jump Shot,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,123,4,0,2,8:35 PM,8:10,Parker REBOUND (Off:1 Def:0),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,124,6,1,2,8:35 PM,8:10,,,Appel Marinelli P.FOUL (P1.T3),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,125,8,0,2,8:35 PM,8:10,,,SUB: Jefferson FOR Colson,,,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,126,8,0,2,8:35 PM,8:10,SUB: Vandersloot FOR Faulkner,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,127,5,1,2,8:36 PM,8:03,Young Bad Pass Turnover (P1.T1),,Jefferson STEAL (1 STL),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,128,2,1,2,8:36 PM,7:50,,,MISS Currie 13' Jump Shot,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,129,4,0,2,8:36 PM,7:49,Parker REBOUND (Off:1 Def:1),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,130,2,1,2,8:36 PM,7:31,MISS Parker 8' Jump Shot,,Appel Marinelli BLOCK (1 BLK),,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,1
+1021600075,131,4,0,2,8:36 PM,7:31,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,132,6,4,2,8:37 PM,7:29,Parker OFF.Foul (P1),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,133,5,5,2,8:37 PM,7:29,Parker Foul Turnover (P1.T2),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1021600075,134,6,2,2,8:37 PM,7:16,Quigley S.FOUL (P2.T2),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,135,3,11,2,8:37 PM,7:16,,,Jefferson Free Throw 1 of 2 (5 PTS),19 - 25,6,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,137,8,0,2,8:38 PM,7:16,SUB: Dos Santos FOR Quigley,,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,4,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,138,3,12,2,8:38 PM,7:16,,,MISS Jefferson Free Throw 2 of 2,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,140,4,0,2,8:38 PM,7:15,Young REBOUND (Off:1 Def:3),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,141,5,1,2,8:38 PM,7:04,Young Bad Pass Turnover (P2.T3),,Montgomery STEAL (1 STL),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,142,6,2,2,8:38 PM,7:02,Young S.FOUL (P1.T3),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,143,3,11,2,8:38 PM,7:02,,,Montgomery Free Throw 1 of 2 (1 PTS),20 - 25,5,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,145,8,0,2,8:39 PM,7:02,SUB: Pondexter FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,146,3,12,2,8:39 PM,7:02,,,Montgomery Free Throw 2 of 2 (2 PTS),21 - 25,4,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,148,6,4,2,8:39 PM,6:52,Dos Santos OFF.Foul (P1),,,,,4,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,149,5,5,2,8:39 PM,6:52,Dos Santos Foul Turnover (P1.T4),,,,,4,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1021600075,150,1,79,2,8:39 PM,6:40,,,Currie 16' Pullup Jump Shot (8 PTS),23 - 25,2,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,151,9,1,2,8:39 PM,6:39,SKY Timeout: Regular (Full 1 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,152,1,5,2,8:42 PM,6:18,Parker 2' Layup (2 PTS) (Dos Santos 1 AST),,,23 - 27,4,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,153,2,1,2,8:43 PM,6:03,,,MISS Jefferson 7' Jump Shot,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,154,4,0,2,8:43 PM,6:02,Vandersloot REBOUND (Off:0 Def:2),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,155,6,1,2,8:43 PM,5:57,,,Currie P.FOUL (P1.T4),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,157,8,0,2,8:43 PM,5:53,,,SUB: McBride FOR Montgomery,,,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,158,8,0,2,8:43 PM,5:53,,,SUB: Hamby FOR Ndour,,,5,203838,Astou Ndour-Fall,1611661319.0,San Antonio,Stars,SAN,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,159,2,5,2,8:43 PM,5:52,MISS Vandersloot 3' Layup,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,160,4,0,2,8:43 PM,5:52,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,161,6,1,2,8:43 PM,5:52,Parker P.FOUL (P2.T4),,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,162,8,0,2,8:44 PM,5:51,SUB: de Souza FOR Parker,,,,,4,204323,Cheyenne Parker-Tyus,1611661329.0,Chicago,Sky,CHI,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,163,2,5,2,8:44 PM,5:29,,,MISS Jefferson 2' Layup,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,164,4,0,2,8:44 PM,5:26,de Souza REBOUND (Off:0 Def:1),,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,165,2,1,2,8:44 PM,5:11,MISS de Souza 5' Jump Shot,,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,166,4,0,2,8:44 PM,5:10,,,Hamby REBOUND (Off:0 Def:3),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,167,1,1,2,8:44 PM,5:03,,,Currie 14' Jump Shot (10 PTS),25 - 27,2,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,168,1,1,2,8:45 PM,4:40,Delle Donne 10' Jump Shot (2 PTS),,,25 - 29,4,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,169,2,1,2,8:45 PM,4:17,,,MISS McBride 19' Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,170,4,0,2,8:45 PM,4:16,Dos Santos REBOUND (Off:0 Def:1),,,,,4,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,172,2,1,2,8:46 PM,4:08,MISS Pondexter 19' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,173,4,0,2,8:46 PM,4:07,,,Appel Marinelli REBOUND (Off:0 Def:2),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,174,2,1,2,8:46 PM,3:57,,,MISS Currie 24' 3PT Jump Shot,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,175,4,0,2,8:46 PM,3:56,Delle Donne REBOUND (Off:0 Def:2),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,176,1,79,2,8:46 PM,3:48,Delle Donne 15' Pullup Jump Shot (4 PTS),,,25 - 31,6,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,177,9,1,2,8:46 PM,3:42,,,Stars Timeout: Regular (Reg.1 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,179,8,0,2,8:49 PM,3:42,SUB: Young FOR Dos Santos,,,,,4,204309,Clarissa Dos Santos,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,180,1,98,2,8:49 PM,3:32,,,Jefferson 3' Cutting Layup Shot (7 PTS) (Hamby 1 AST),27 - 31,4,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,181,1,79,2,8:49 PM,3:08,Young 15' Pullup Jump Shot (6 PTS) (Delle Donne 2 AST),,,27 - 33,6,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,182,1,1,2,8:50 PM,2:53,,,McBride 15' Jump Shot (2 PTS) (Appel Marinelli 2 AST),29 - 33,4,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,183,2,1,2,8:50 PM,2:36,MISS Delle Donne 25' 3PT Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,184,4,0,2,8:50 PM,2:36,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,185,6,3,2,8:50 PM,2:36,Young L.B.FOUL (P2.PN),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,186,3,11,2,8:50 PM,2:36,,,MISS Jefferson Free Throw 1 of 2,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,187,4,1,2,8:50 PM,2:36,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,189,8,0,2,8:51 PM,2:36,SUB: McGee-Stafford FOR de Souza,,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,190,3,12,2,8:51 PM,2:36,,,Jefferson Free Throw 2 of 2 (8 PTS),30 - 33,3,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,192,6,2,2,8:51 PM,2:22,,,Appel Marinelli S.FOUL (P2.PN),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,193,3,11,2,8:51 PM,2:22,Pondexter Free Throw 1 of 2 (7 PTS),,,30 - 34,4,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,195,3,12,2,8:52 PM,2:22,Pondexter Free Throw 2 of 2 (8 PTS),,,30 - 35,5,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,197,5,4,2,8:52 PM,2:05,,,Currie Traveling Turnover (P1.T7),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021600075,198,8,0,2,8:52 PM,2:05,SUB: Faulkner FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,199,2,1,2,8:53 PM,1:47,MISS Delle Donne 12' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,200,4,0,2,8:53 PM,1:46,Delle Donne REBOUND (Off:1 Def:2),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,201,5,2,2,8:53 PM,1:43,Delle Donne Lost Ball Turnover (P1.T5),,Appel Marinelli STEAL (1 STL),,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,202,5,1,2,8:53 PM,1:34,Pondexter STEAL (1 STL),,McBride Bad Pass Turnover (P1.T8),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,203,2,1,2,8:53 PM,1:24,MISS Delle Donne 24' 3PT Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,204,4,0,2,8:53 PM,1:23,,,Appel Marinelli REBOUND (Off:0 Def:3),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,205,1,5,2,8:54 PM,1:05,,,Appel Marinelli 3' Layup (4 PTS) (Jefferson 2 AST),32 - 35,3,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,206,2,1,2,8:54 PM,0:47,MISS Faulkner  3PT Jump Shot,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,207,4,0,2,8:54 PM,0:46,Young REBOUND (Off:2 Def:3),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,209,2,5,2,8:54 PM,0:31,MISS McGee-Stafford 3' Layup,,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,210,4,0,2,8:54 PM,0:30,,,Appel Marinelli REBOUND (Off:0 Def:4),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,212,2,1,2,8:54 PM,0:10,,,MISS Jefferson 24' 3PT Jump Shot,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,213,4,0,2,8:55 PM,0:09,Young REBOUND (Off:2 Def:4),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,214,2,1,2,8:55 PM,0:01,MISS Pondexter 21' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,215,4,0,2,8:55 PM,0:00,McGee-Stafford REBOUND (Off:1 Def:1),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,216,13,0,2,8:55 PM,0:00,,End of 2nd Period (8:55 PM EST),,32 - 35,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,218,12,0,3,9:11 PM,10:00,,Start of 3rd Period (9:11 PM EST),,32 - 35,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,219,5,45,3,9:11 PM,9:49,,,Currie Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,220,1,1,3,9:11 PM,9:34,Delle Donne 6' Jump Shot (6 PTS) (Vandersloot 1 AST),,,32 - 37,5,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,221,2,1,3,9:12 PM,9:07,,,MISS Appel Marinelli 19' Jump Shot,,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,222,4,0,3,9:12 PM,9:05,de Souza REBOUND (Off:0 Def:2),,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,224,5,1,3,9:12 PM,8:58,Young Bad Pass Turnover (P3.T6),,Jefferson STEAL (2 STL),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,225,1,1,3,9:12 PM,8:43,,,Hamby 21' Jump Shot (4 PTS) (Jefferson 3 AST),34 - 37,3,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,226,2,5,3,9:13 PM,8:27,MISS Vandersloot 3' Layup,,Appel Marinelli BLOCK (2 BLK),,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,1
+1021600075,227,4,0,3,9:13 PM,8:25,,,Appel Marinelli REBOUND (Off:0 Def:5),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,228,5,1,3,9:13 PM,8:21,de Souza STEAL (1 STL),,Jefferson Bad Pass Turnover (P2.T10),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,229,6,14,3,9:13 PM,8:21,Young FLAGRANT.FOUL.TYPE1 (P3.T1),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,230,5,5,3,9:13 PM,8:21,Young Foul Turnover (P4.T7),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1021600075,231,18,0,3,9:14 PM,8:21,,Support Ruling,,,,0,229,James Edwards,,,,,0,0,,,,,,1,0,,,,,,0
+1021600075,232,3,18,3,9:16 PM,8:21,,,MISS Hamby Free Throw Flagrant 1 of 2,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,233,4,1,3,9:16 PM,8:21,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,234,3,19,3,9:16 PM,8:21,,,Hamby Free Throw Flagrant 2 of 2 (5 PTS),35 - 37,2,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,237,2,1,3,9:16 PM,8:10,,,MISS Currie  3PT Jump Shot,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,238,4,0,3,9:16 PM,8:09,de Souza REBOUND (Off:0 Def:3),,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,240,1,79,3,9:17 PM,7:56,Delle Donne 16' Pullup Jump Shot (8 PTS),,,35 - 39,4,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,241,6,2,3,9:17 PM,7:56,,,Hamby S.FOUL (P1.T1),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,242,8,0,3,9:17 PM,7:56,SUB: Breland FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,243,3,10,3,9:17 PM,7:56,Delle Donne Free Throw 1 of 1 (9 PTS),,,35 - 40,5,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,245,2,1,3,9:17 PM,7:41,,,MISS Hamby 9' Jump Shot,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,246,4,0,3,9:17 PM,7:40,Breland REBOUND (Off:0 Def:1),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,247,1,79,3,9:17 PM,7:32,Breland 17' Pullup Jump Shot (4 PTS) (Delle Donne 3 AST),,,35 - 42,7,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,248,6,1,3,9:18 PM,7:08,de Souza P.FOUL (P1.T2),,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,250,2,1,3,9:18 PM,6:55,,,MISS McBride 21' Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,251,4,0,3,9:18 PM,6:54,Vandersloot REBOUND (Off:0 Def:3),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,252,2,1,3,9:19 PM,6:49,MISS Vandersloot 24' 3PT Jump Shot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,253,4,0,3,9:19 PM,6:48,,,McBride REBOUND (Off:0 Def:5),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,254,5,1,3,9:19 PM,6:43,Delle Donne STEAL (1 STL),,McBride Bad Pass Turnover (P2.T11),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,255,6,17,3,9:19 PM,6:26,,,Stars T.Foul (Def. 3 Sec McBride ),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021600075,256,3,16,3,9:19 PM,6:26,Delle Donne Free Throw Technical (10 PTS),,,35 - 43,8,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,258,2,1,3,9:20 PM,6:20,MISS Pondexter 17' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,259,4,0,3,9:20 PM,6:19,de Souza REBOUND (Off:1 Def:3),,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,260,5,2,3,9:20 PM,6:11,Delle Donne Lost Ball Turnover (P2.T8),,Currie STEAL (1 STL),,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,261,5,1,3,9:20 PM,6:08,Vandersloot STEAL (3 STL),,Hamby Bad Pass Turnover (P2.T12),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,262,1,1,3,9:20 PM,6:02,Delle Donne 4' Jump Shot (12 PTS) (Vandersloot 2 AST),,,35 - 45,10,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,263,9,1,3,9:20 PM,5:54,,,Stars Timeout: Regular (Reg.2 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,264,8,0,3,9:23 PM,5:54,,,SUB: Alexander FOR Hamby,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,265,8,0,3,9:23 PM,5:54,,,SUB: Peters FOR Appel Marinelli,,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,266,6,2,3,9:23 PM,5:41,Breland S.FOUL (P1.T3),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,267,3,11,3,9:23 PM,5:41,,,Currie Free Throw 1 of 2 (11 PTS),36 - 45,9,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,269,3,12,3,9:24 PM,5:41,,,Currie Free Throw 2 of 2 (12 PTS),37 - 45,8,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,271,2,1,3,9:24 PM,5:28,MISS de Souza 6' Jump Shot,,Alexander BLOCK (1 BLK),,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1
+1021600075,272,4,0,3,9:24 PM,5:26,Breland REBOUND (Off:1 Def:1),,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,273,1,1,3,9:24 PM,5:23,Pondexter 21' Jump Shot (10 PTS) (Breland 2 AST),,,37 - 47,10,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,274,1,1,3,9:24 PM,5:00,,,Jefferson  3PT Jump Shot (11 PTS) (Peters 1 AST),40 - 47,7,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,275,2,1,3,9:25 PM,4:43,MISS Breland 18' Jump Shot,,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,276,4,0,3,9:25 PM,4:42,,,McBride REBOUND (Off:0 Def:6),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,277,1,5,3,9:25 PM,4:38,,,Alexander 2' Layup (4 PTS) (McBride 1 AST),42 - 47,5,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,278,6,2,3,9:25 PM,4:38,Vandersloot S.FOUL (P1.T4),,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,280,8,0,3,9:25 PM,4:38,SUB: Faulkner FOR Vandersloot,,,,,4,202664,Courtney Vandersloot,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,281,8,0,3,9:25 PM,4:38,SUB: McGee-Stafford FOR de Souza,,,,,4,100812,Erika de Souza,1611661329.0,Chicago,Sky,CHI,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,282,3,10,3,9:25 PM,4:38,,,MISS Alexander Free Throw 1 of 1,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,284,4,0,3,9:26 PM,4:35,,,McBride REBOUND (Off:1 Def:6),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,285,1,1,3,9:26 PM,4:30,,,McBride  3PT Jump Shot (5 PTS),45 - 47,2,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,286,2,1,3,9:26 PM,4:13,MISS Pondexter 8' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,287,4,0,3,9:26 PM,4:11,,,McBride REBOUND (Off:1 Def:7),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,288,2,1,3,9:26 PM,4:04,,,MISS Alexander 12' Jump Shot,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,289,4,0,3,9:26 PM,4:02,Delle Donne REBOUND (Off:1 Def:3),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,290,5,45,3,9:26 PM,3:59,Delle Donne Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,291,6,1,3,9:27 PM,3:48,McGee-Stafford P.FOUL (P1.PN),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,292,3,11,3,9:27 PM,3:48,,,Alexander Free Throw 1 of 2 (5 PTS),46 - 47,1,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,294,3,12,3,9:27 PM,3:48,,,Alexander Free Throw 2 of 2 (6 PTS),47 - 47,TIE,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,296,2,1,3,9:28 PM,3:30,MISS Pondexter 20' Jump Shot,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,297,4,0,3,9:28 PM,3:29,,,Jefferson REBOUND (Off:0 Def:2),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,298,2,5,3,9:28 PM,3:24,Delle Donne BLOCK (2 BLK),,MISS Alexander 2' Layup,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1
+1021600075,299,4,0,3,9:28 PM,3:24,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,300,8,0,3,9:28 PM,3:24,SUB: Quigley FOR Pondexter,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,301,1,79,3,9:28 PM,3:16,,,Jefferson 16' Pullup Jump Shot (13 PTS),49 - 47,-2,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,302,9,1,3,9:28 PM,3:09,SKY Timeout: Regular (Full 2 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,303,2,1,3,9:31 PM,2:58,MISS Faulkner  3PT Jump Shot,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,304,4,0,3,9:31 PM,2:56,,,Currie REBOUND (Off:0 Def:2),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,305,2,5,3,9:31 PM,2:52,Delle Donne BLOCK (3 BLK),,MISS Alexander 3' Layup,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1
+1021600075,306,4,0,3,9:31 PM,2:49,Faulkner REBOUND (Off:0 Def:1),,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,307,2,5,3,9:31 PM,2:44,MISS Faulkner 3' Layup,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,308,4,0,3,9:31 PM,2:43,Delle Donne REBOUND (Off:2 Def:3),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,309,1,5,3,9:31 PM,2:42,Delle Donne 1' Layup (14 PTS),,,49 - 49,TIE,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,310,6,2,3,9:31 PM,2:42,,,Peters S.FOUL (P2.T2),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,311,3,10,3,9:32 PM,2:42,Delle Donne Free Throw 1 of 1 (15 PTS),,,49 - 50,1,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,313,6,1,3,9:32 PM,2:31,Quigley P.FOUL (P3.PN),,,,,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,314,3,11,3,9:33 PM,2:31,,,McBride Free Throw 1 of 2 (6 PTS),50 - 50,TIE,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,316,8,0,3,9:33 PM,2:31,SUB: Young FOR Breland,,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,317,8,0,3,9:33 PM,2:31,,,SUB: Colson FOR Jefferson,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,318,3,12,3,9:33 PM,2:31,,,MISS McBride Free Throw 2 of 2,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,320,4,0,3,9:33 PM,2:29,Young REBOUND (Off:2 Def:5),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,321,2,42,3,9:33 PM,2:20,MISS Young 2' Driving Layup,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,322,4,0,3,9:33 PM,2:19,,,McBride REBOUND (Off:1 Def:8),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,323,2,5,3,9:34 PM,2:13,Faulkner BLOCK (1 BLK),,MISS McBride 3' Layup,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1
+1021600075,324,4,0,3,9:34 PM,2:13,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,325,6,1,3,9:34 PM,2:04,,,Peters P.FOUL (P3.T3),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,326,6,1,3,9:34 PM,2:01,,,Peters P.FOUL (P4.T4),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,327,1,42,3,9:35 PM,1:54,Quigley 2' Driving Layup (4 PTS),,,50 - 52,2,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,328,2,1,3,9:35 PM,1:34,,,MISS McBride 20' Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,329,4,0,3,9:35 PM,1:33,Young REBOUND (Off:2 Def:6),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,330,1,1,3,9:35 PM,1:12,Faulkner 24' 3PT Jump Shot (10 PTS) (Quigley 1 AST),,,50 - 55,5,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,331,6,1,3,9:36 PM,0:57,McGee-Stafford P.FOUL (P2.PN),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,332,3,11,3,9:36 PM,0:57,,,MISS Alexander Free Throw 1 of 2,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,333,4,1,3,9:36 PM,0:57,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,334,8,0,3,9:36 PM,0:57,,,SUB: Montgomery FOR Currie,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,335,8,0,3,9:36 PM,0:57,,,SUB: Ndour FOR McBride,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203838,Astou Ndour-Fall,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,336,3,12,3,9:36 PM,0:57,,,Alexander Free Throw 2 of 2 (7 PTS),51 - 55,4,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,338,6,4,3,9:37 PM,0:40,McGee-Stafford OFF.Foul (P3),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,339,5,5,3,9:37 PM,0:40,McGee-Stafford Foul Turnover (P1.T10),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1021600075,340,5,1,3,9:38 PM,0:17,Faulkner STEAL (3 STL),,Peters Bad Pass Turnover (P3.T13),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,341,1,1,3,9:38 PM,0:13,Delle Donne 11' Jump Shot (17 PTS) (Faulkner 1 AST),,,51 - 57,6,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,342,6,2,3,9:38 PM,0:13,,,Ndour S.FOUL (P1.PN),,,5,203838,Astou Ndour-Fall,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,343,3,10,3,9:38 PM,0:13,Delle Donne Free Throw 1 of 1 (18 PTS),,,51 - 58,7,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,345,1,42,3,9:38 PM,0:03,,,Colson 1' Driving Layup (2 PTS),53 - 58,5,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,347,2,1,3,9:39 PM,0:00,MISS Young 21' Jump Shot,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,349,4,0,3,9:39 PM,0:00,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,348,13,0,3,9:39 PM,0:00,,End of 3rd Period (9:39 PM EST),,53 - 58,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,351,12,0,4,9:42 PM,10:00,,Start of 4th Period (9:42 PM EST),,53 - 58,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,352,6,17,4,9:42 PM,9:45,,,Stars T.Foul (Def. 3 Sec Alexander ),,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1,0,,,,,,1
+1021600075,353,3,16,4,9:42 PM,9:45,Pondexter Free Throw Technical (11 PTS),,,53 - 59,6,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,355,8,0,4,9:43 PM,9:45,,,SUB: Appel Marinelli FOR Alexander,,,5,203405,Kayla Alexander,1611661319.0,San Antonio,Stars,SAN,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,356,5,1,4,9:43 PM,9:40,Faulkner Bad Pass Turnover (P1.T11),,Colson STEAL (1 STL),,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,357,2,1,4,9:43 PM,9:29,,,MISS Currie 14' Jump Shot,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,358,4,0,4,9:43 PM,9:28,McGee-Stafford REBOUND (Off:1 Def:2),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,359,1,79,4,9:43 PM,9:12,Young 14' Pullup Jump Shot (8 PTS),,,53 - 61,8,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,360,5,45,4,9:44 PM,8:53,,,Colson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,361,8,0,4,9:44 PM,8:53,,,SUB: Jefferson FOR Colson,,,5,202641,Sydney Colson,1611661319.0,San Antonio,Stars,SAN,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,362,1,5,4,9:44 PM,8:37,Breland 2' Layup (6 PTS) (Faulkner 2 AST),,,53 - 63,10,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,363,1,1,4,9:45 PM,8:14,,,Jefferson 24' 3PT Jump Shot (16 PTS) (Montgomery 1 AST),56 - 63,7,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,364,2,1,4,9:45 PM,7:55,MISS Young 4' Jump Shot,,Appel Marinelli BLOCK (3 BLK),,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,1
+1021600075,365,4,0,4,9:45 PM,7:54,,,Montgomery REBOUND (Off:0 Def:1),,,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,366,1,1,4,9:45 PM,7:50,,,Jefferson 20' Jump Shot (18 PTS) (Montgomery 2 AST),58 - 63,5,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,367,9,1,4,9:45 PM,7:40,SKY Timeout: Regular (Full 3 Short 0),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,368,8,0,4,9:47 PM,7:40,SUB: Delle Donne FOR Breland,,,,,4,202638,Jessica Breland,1611661329.0,Chicago,Sky,CHI,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,369,8,0,4,9:47 PM,7:40,,,SUB: McBride FOR Montgomery,,,5,202652,Alex Montgomery,1611661319.0,San Antonio,Stars,SAN,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,370,2,1,4,9:48 PM,7:30,MISS Delle Donne 21' Jump Shot,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,371,4,0,4,9:48 PM,7:29,,,Jefferson REBOUND (Off:0 Def:3),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,372,2,1,4,9:48 PM,7:07,,,MISS Hamby  3PT Jump Shot,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,373,4,0,4,9:48 PM,7:05,,,Appel Marinelli REBOUND (Off:1 Def:5),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,374,5,45,4,9:49 PM,7:01,,,McBride Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,375,6,2,4,9:49 PM,6:48,,,Appel Marinelli S.FOUL (P3.T1),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,376,3,11,4,9:49 PM,6:48,Delle Donne Free Throw 1 of 2 (19 PTS),,,58 - 64,6,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,378,3,12,4,9:49 PM,6:48,Delle Donne Free Throw 2 of 2 (20 PTS),,,58 - 65,7,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,380,6,1,4,9:50 PM,6:38,Faulkner P.FOUL (P2.T1),,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,381,8,0,4,9:50 PM,6:33,,,SUB: Peters FOR Hamby,,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,382,2,1,4,9:50 PM,6:26,,,MISS McBride 26' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,383,4,0,4,9:50 PM,6:25,Pondexter REBOUND (Off:0 Def:5),,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,384,1,5,4,9:50 PM,6:20,McGee-Stafford 2' Layup (6 PTS) (Pondexter 2 AST),,,58 - 67,9,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,385,1,1,4,9:51 PM,6:01,,,Currie 14' Jump Shot (14 PTS),60 - 67,7,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,386,2,1,4,9:51 PM,5:54,MISS Faulkner 5' Jump Shot,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,387,10,0,4,9:51 PM,5:52,Jump Ball Faulkner vs. Jefferson: Tip to McBride,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,1
+1021600075,388,4,0,4,9:51 PM,5:52,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,390,2,5,4,9:52 PM,5:39,,,MISS McBride 3' Layup,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,391,4,0,4,9:52 PM,5:39,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,392,9,1,4,9:52 PM,5:39,,,Stars Timeout: Regular (Reg.3 Short 0),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,394,1,42,4,9:55 PM,5:25,,,McBride 3' Driving Layup (8 PTS),62 - 67,5,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,395,2,1,4,9:55 PM,5:07,MISS Delle Donne 8' Jump Shot,,Peters BLOCK (1 BLK),,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,1
+1021600075,396,4,0,4,9:55 PM,5:05,,,Jefferson REBOUND (Off:0 Def:4),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,397,2,1,4,9:55 PM,5:00,,,MISS Peters  3PT Jump Shot,,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,398,4,0,4,9:55 PM,4:58,McGee-Stafford REBOUND (Off:1 Def:3),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,399,5,1,4,9:55 PM,4:44,Delle Donne Bad Pass Turnover (P4.T12),,Jefferson STEAL (3 STL),,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,400,1,41,4,9:55 PM,4:41,,,Jefferson 2' Running Layup (20 PTS),64 - 67,3,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,401,2,1,4,9:56 PM,4:18,MISS Faulkner 19' Jump Shot,,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,402,4,0,4,9:56 PM,4:17,,,Appel Marinelli REBOUND (Off:1 Def:6),,,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,403,2,1,4,9:56 PM,4:00,,,MISS Jefferson 4' Jump Shot,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,404,4,0,4,9:56 PM,3:59,Faulkner REBOUND (Off:0 Def:2),,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,405,5,40,4,9:56 PM,3:56,Faulkner Out of Bounds Lost Ball Turnover (P2.T13),,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,406,5,2,4,9:57 PM,3:35,Pondexter STEAL (2 STL),,McBride Lost Ball Turnover (P4.T16),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,407,6,1,4,9:57 PM,3:32,,,Currie P.FOUL (P2.T2),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,408,1,79,4,9:57 PM,3:24,Pondexter 14' Pullup Jump Shot (13 PTS),,,64 - 69,5,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,409,6,2,4,9:58 PM,3:03,McGee-Stafford S.FOUL (P4.T2),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,410,3,11,4,9:58 PM,3:03,,,MISS Peters Free Throw 1 of 2,,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,411,4,1,4,9:58 PM,3:03,,,Stars Rebound,,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,412,3,12,4,9:58 PM,3:03,,,Peters Free Throw 2 of 2 (3 PTS),65 - 69,4,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,414,6,1,4,9:59 PM,2:55,,,Peters P.FOUL (P5.T3),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,415,1,1,4,9:59 PM,2:47,Pondexter 18' Jump Shot (15 PTS) (Faulkner 3 AST),,,65 - 71,6,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1
+1021600075,416,1,1,4,9:59 PM,2:31,,,McBride  3PT Jump Shot (11 PTS) (Peters 2 AST),68 - 71,3,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,417,6,2,4,10:00 PM,2:20,,,Peters S.FOUL (P6.T4),,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,418,8,0,4,10:00 PM,2:20,,,SUB: Hamby FOR Peters,,,5,203863,Haley Peters,1611661319.0,San Antonio,Stars,SAN,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0
+1021600075,419,3,11,4,10:00 PM,2:20,Delle Donne Free Throw 1 of 2 (21 PTS),,,68 - 72,4,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,421,3,12,4,10:00 PM,2:20,Delle Donne Free Throw 2 of 2 (22 PTS),,,68 - 73,5,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,423,6,17,4,10:01 PM,2:04,SKY T.Foul (Def. 3 Sec McGee-Stafford ),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,1
+1021600075,424,3,16,4,10:01 PM,2:04,,,McBride Free Throw Technical (12 PTS),69 - 73,4,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,426,1,1,4,10:02 PM,1:57,,,McBride 18' Jump Shot (14 PTS) (Appel Marinelli 3 AST),71 - 73,2,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,427,2,63,4,10:02 PM,1:43,MISS Pondexter 5' Fadeaway Jumper,,,,,4,200665,Cappie Pondexter,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,428,4,0,4,10:02 PM,1:41,McGee-Stafford REBOUND (Off:2 Def:3),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,429,1,5,4,10:02 PM,1:41,McGee-Stafford 2' Layup (8 PTS),,,71 - 75,4,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,430,1,1,4,10:02 PM,1:25,,,Appel Marinelli 19' Jump Shot (6 PTS) (Jefferson 4 AST),73 - 75,2,5,202251,Jayne Appel Marinelli,1611661319.0,San Antonio,Stars,SAN,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,1
+1021600075,431,2,1,4,10:03 PM,1:07,MISS Young 15' Jump Shot,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,433,4,0,4,10:03 PM,1:07,McGee-Stafford REBOUND (Off:3 Def:3),,,,,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,432,1,5,4,10:03 PM,1:07,McGee-Stafford 3' Layup (10 PTS),,,73 - 77,4,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,434,6,2,4,10:03 PM,1:07,,,Hamby S.FOUL (P2.PN),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,435,6,11,4,10:04 PM,1:07,Young T.FOUL (P3.T2),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,1,0,,,,,,0
+1021600075,436,3,16,4,10:05 PM,1:07,,,MISS McBride Free Throw Technical,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,0
+1021600075,437,4,1,4,10:05 PM,1:07,SKY Rebound,,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,438,3,10,4,10:05 PM,1:07,McGee-Stafford Free Throw 1 of 1 (11 PTS),,,73 - 78,5,4,1627677,Imani McGee-Stafford,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,0
+1021600075,440,2,1,4,10:06 PM,0:45,,,MISS Jefferson  3PT Jump Shot,,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,441,4,0,4,10:06 PM,0:44,Young REBOUND (Off:2 Def:7),,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,442,2,1,4,10:06 PM,0:25,MISS Young 15' Jump Shot,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,443,4,0,4,10:06 PM,0:24,,,McBride REBOUND (Off:1 Def:9),,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,444,9,2,4,10:06 PM,0:24,,,Stars Timeout: Short (Reg.3 Short 1),,,3,1611661319,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,445,2,1,4,10:07 PM,0:18,,,MISS Currie 24' 3PT Jump Shot,,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,446,4,0,4,10:07 PM,0:17,,,Hamby REBOUND (Off:1 Def:3),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,447,1,5,4,10:07 PM,0:16,,,Hamby 2' Layup (7 PTS),75 - 78,3,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,448,9,2,4,10:08 PM,0:16,SKY Timeout: Short (Full 3 Short 1),,,,,2,1611661329,,,,,,0,0,,,,,,0,0,,,,,,0
+1021600075,450,8,0,4,10:09 PM,0:16,SUB: Quigley FOR Young,,,,,4,201477,Tamera Young,1611661329.0,Chicago,Sky,CHI,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0
+1021600075,451,6,28,4,10:09 PM,0:15,,,Currie Personal Take Foul (P3.PN),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,452,3,11,4,10:09 PM,0:15,Quigley Free Throw 1 of 2 (5 PTS),,,75 - 79,4,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,454,3,12,4,10:09 PM,0:15,Quigley Free Throw 2 of 2 (6 PTS),,,75 - 80,5,4,201516,Allie Quigley,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,456,6,1,4,10:09 PM,0:12,Faulkner P.FOUL (P3.T3),,,,,4,203857,Jamierra Faulkner,1611661329.0,Chicago,Sky,CHI,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,1,0,,,,,,1
+1021600075,457,2,1,4,10:10 PM,0:06,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,458,4,0,4,10:10 PM,0:04,,,Jefferson REBOUND (Off:1 Def:4),,,5,1627669,Moriah Jefferson,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,459,2,1,4,10:10 PM,0:01,,,MISS McBride 24' 3PT Jump Shot,,,5,203825,Kayla McBride,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,460,4,0,4,10:10 PM,0:01,Delle Donne REBOUND (Off:2 Def:4),,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,461,6,28,4,10:10 PM,0:01,,,Currie Personal Take Foul (P4.PN),,,5,200673,Monique Currie,1611661319.0,San Antonio,Stars,SAN,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,1,0,,,,,,1
+1021600075,462,3,11,4,10:10 PM,0:01,Delle Donne Free Throw 1 of 2 (23 PTS),,,75 - 81,6,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,464,3,12,4,10:11 PM,0:01,MISS Delle Donne Free Throw 2 of 2,,,,,4,203399,Elena Delle Donne,1611661329.0,Chicago,Sky,CHI,0,0,,,,,,0,0,,,,,,1
+1021600075,466,4,0,4,10:11 PM,0:00,,,Hamby REBOUND (Off:1 Def:4),,,5,204324,Dearica Hamby,1611661319.0,San Antonio,Stars,SAN,0,0,,,,,,0,0,,,,,,1
+1021600075,467,13,0,4,10:11 PM,0:00,,End of 4th Period (10:11 PM EST),,75 - 81,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
